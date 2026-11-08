@@ -1,7 +1,0 @@
-2026-11-08T23:19:45Z started tmux session ab-gita-map (/kiran/tools/npm-global/lib/node_modules/@anthropic-ai/claude-code/bin/claude.exe, sonnet, default mode)
-2026-11-08T23:19:45Z advisor: opus (model sonnet)
-2026-11-08T23:19:48Z answered: trust this folder
-2026-11-08T23:19:53Z sent /poke-ball:autobuild-supervisor resume
-2026-11-08T23:24:28Z started tmux session ab-gita-map (/kiran/tools/npm-global/lib/node_modules/@anthropic-ai/claude-code/bin/claude.exe, sonnet, bypassPermissions mode)
-2026-11-08T23:24:29Z advisor: opus (model sonnet)
-2026-11-08T23:24:31Z unknown dialog; leaving it for a human (tmux attach -t ab-gita-map)

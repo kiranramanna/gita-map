@@ -14,3 +14,10 @@ _site/
 .savvy-progress/
 .context/
 .messages-board/
+
+# Autobuild runtime (local, per-host); tracker, config, state, evidence and backlog.py stay tracked
+.autobuild/run/
+.autobuild/backlog.lock
+.autobuild/__pycache__/
+__pycache__/
+*.pyc

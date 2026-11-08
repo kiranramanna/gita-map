@@ -121,8 +121,30 @@
       "mutation_leases_released": false
     }
   },
-  "deferred": {},
-  "escalations": {},
+  "deferred": {
+    "T-003": {
+      "reason": "Real transcript unavailable: YouTube LOGIN_REQUIRED/bot check on this host for -H0dwGkYmkM (docs/source-status.md); no raw captions exist.",
+      "needs": "Raw timestamped captions for -H0dwGkYmkM (user runs scripts/acquire/acquire.py elsewhere, authorizes cookies, or supplies files)",
+      "since": "2026-11-08"
+    }
+  },
+  "escalations": {
+    "T-001": {
+      "question": "How should the caption track for -H0dwGkYmkM be obtained?",
+      "reason": "Host blocked by YouTube bot check; no transcript.",
+      "needs": "access",
+      "options": [
+        "Run scripts/acquire/acquire.py from laptop/other network",
+        "Authorize browser cookies (credential exposure)",
+        "Supply caption files manually"
+      ],
+      "recommend": "Run acquire.py from laptop",
+      "round": 0,
+      "since": "2026-11-08",
+      "answer": null,
+      "channel": "inline"
+    }
+  },
   "findings": {},
   "baseline": {},
   "worker_yolo_notice_shown": true,
