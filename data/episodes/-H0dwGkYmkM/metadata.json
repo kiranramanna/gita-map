@@ -1,0 +1,19 @@
+{
+  "id": "-H0dwGkYmkM",
+  "url": "https://www.youtube.com/watch?v=-H0dwGkYmkM",
+  "title": "Ch08-10-Shrimad Bhagavad Gita",
+  "channel": "Advaita Retold",
+  "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+  "published_at": "2026-11-07T00:25:16+00:00",
+  "published_at_source": "playlist Atom feed <published>",
+  "approx_upload_from_relative_text": "2026-11-08T00:00:00Z",
+  "duration_s": 4158,
+  "uploader_description_verbatim": "Shrimad Bhagavad Gita Chapter 08 verses 20 & 21",
+  "playlist": {
+    "id": "PLxtfkA7EyYFPx8caX0IQ3o1TszTBDw8uO",
+    "index": 1
+  },
+  "retrieved_at": "2026-11-08T23:29:34Z",
+  "method": "yt-dlp 2026.10.26 flat playlist + playlist Atom feed; see data/episodes/_playlist/upload-dates.json",
+  "captions_status": "blocked"
+}

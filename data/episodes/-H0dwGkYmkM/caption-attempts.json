@@ -1,0 +1,66 @@
+{
+  "video": "-H0dwGkYmkM",
+  "tool": "yt-dlp 2026.10.26",
+  "attempts": [
+    {
+      "command": "yt-dlp --skip-download --write-subs --write-auto-subs --sub-langs all,-live_chat --sub-format json3/vtt/best --write-info-json --js-runtimes node -o %(id)s.%(ext)s -- -H0dwGkYmkM",
+      "returncode": 1,
+      "stderr": [
+        "WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing",
+        "ERROR: [youtube] -H0dwGkYmkM: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+      ],
+      "files": [],
+      "attempted_at": "2026-11-08T23:29:52Z"
+    },
+    {
+      "command": "yt-dlp --skip-download --write-subs --write-auto-subs --sub-langs all,-live_chat --sub-format json3/vtt/best --write-info-json --js-runtimes node --extractor-args youtube:player_client=web_safari -o %(id)s.%(ext)s -- -H0dwGkYmkM",
+      "returncode": 1,
+      "stderr": [
+        "WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing",
+        "ERROR: [youtube] -H0dwGkYmkM: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+      ],
+      "files": [],
+      "attempted_at": "2026-11-08T23:29:53Z"
+    },
+    {
+      "command": "yt-dlp --skip-download --write-subs --write-auto-subs --sub-langs all,-live_chat --sub-format json3/vtt/best --write-info-json --js-runtimes node --extractor-args youtube:player_client=tv -o %(id)s.%(ext)s -- -H0dwGkYmkM",
+      "returncode": 1,
+      "stderr": [
+        "WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing",
+        "ERROR: [youtube] -H0dwGkYmkM: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+      ],
+      "files": [],
+      "attempted_at": "2026-11-08T23:29:55Z"
+    },
+    {
+      "command": "yt-dlp --skip-download --write-subs --write-auto-subs --sub-langs all,-live_chat --sub-format json3/vtt/best --write-info-json --js-runtimes node --extractor-args youtube:player_client=mweb -o %(id)s.%(ext)s -- -H0dwGkYmkM",
+      "returncode": 1,
+      "stderr": [
+        "WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing",
+        "ERROR: [youtube] -H0dwGkYmkM: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+      ],
+      "files": [],
+      "attempted_at": "2026-11-08T23:29:58Z"
+    },
+    {
+      "command": "yt-dlp --skip-download --write-subs --write-auto-subs --sub-langs all,-live_chat --sub-format json3/vtt/best --write-info-json --js-runtimes node --extractor-args youtube:player_client=android_vr -o %(id)s.%(ext)s -- -H0dwGkYmkM",
+      "returncode": 1,
+      "stderr": [
+        "WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing",
+        "ERROR: [youtube] -H0dwGkYmkM: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+      ],
+      "files": [],
+      "attempted_at": "2026-11-08T23:30:00Z"
+    },
+    {
+      "command": "yt-dlp --skip-download --write-subs --write-auto-subs --sub-langs all,-live_chat --sub-format json3/vtt/best --write-info-json --js-runtimes node --extractor-args youtube:player_client=ios -o %(id)s.%(ext)s -- -H0dwGkYmkM",
+      "returncode": 1,
+      "stderr": [
+        "WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing",
+        "ERROR: [youtube] -H0dwGkYmkM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+      ],
+      "files": [],
+      "attempted_at": "2026-11-08T23:30:01Z"
+    }
+  ]
+}

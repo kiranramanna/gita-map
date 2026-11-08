@@ -1,0 +1,88 @@
+{
+  "self_permit": null,
+  "round": 0,
+  "phase": "select",
+  "task": "T-001",
+  "attempts": 0,
+  "owner_name": "claude-autobuild",
+  "no_change_rounds": 0,
+  "units": [
+    {
+      "id": "u1",
+      "task": "T-001",
+      "wave": "T-001",
+      "phase": "closed",
+      "state": "cancelled",
+      "accepted": true,
+      "executor_kind": "subagent",
+      "executor": null,
+      "native_handle": "a8c703d09d585074d",
+      "generation": 1,
+      "outcome": "interrupted_by_restart_no_artifacts",
+      "quiescent": true,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [],
+      "attempts": 0,
+      "dispatched_at": null,
+      "deadline": "2026-11-08T23:51:19Z",
+      "notes": "Acquire newest playlist transcript (laptop-native builder)",
+      "placement": "laptop-native",
+      "handle": "a8c703d09d585074d",
+      "owned_files": [
+        "data/episodes",
+        "docs/source-status.md",
+        "scripts/acquire"
+      ],
+      "closed_at": "2026-11-08T23:23:51Z"
+    },
+    {
+      "id": "u2",
+      "task": "T-001",
+      "wave": "T-001",
+      "phase": "implement",
+      "state": "running",
+      "accepted": true,
+      "executor_kind": "subagent",
+      "executor": null,
+      "native_handle": "a0bd47d97732053f5",
+      "generation": 0,
+      "outcome": null,
+      "quiescent": false,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [
+        "data/episodes",
+        "docs/source-status.md",
+        "scripts/acquire"
+      ],
+      "attempts": 0,
+      "dispatched_at": "2026-11-08T23:25:20Z",
+      "deadline": "2026-11-08T23:55:15Z",
+      "notes": "Acquire newest playlist transcript (laptop-native builder, redispatch)",
+      "placement": "laptop-native",
+      "handle": "a0bd47d97732053f5"
+    }
+  ],
+  "waves": {
+    "T-001": {
+      "task": "T-001",
+      "integration_complete": false,
+      "integration_evidence": [],
+      "full_verification_passed": false,
+      "verification_evidence": [],
+      "candidates": [],
+      "review_request": null,
+      "sanity": null,
+      "mutation_leases_released": false
+    }
+  },
+  "deferred": {},
+  "escalations": {},
+  "findings": {},
+  "baseline": {},
+  "worker_yolo_notice_shown": true,
+  "work_branch": "main"
+}

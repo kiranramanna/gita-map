@@ -1,0 +1,1662 @@
+{
+  "playlist_id": "PLxtfkA7EyYFPx8caX0IQ3o1TszTBDw8uO",
+  "playlist_title": "Srimad Bhagavad Gita",
+  "channel": "Advaita Retold",
+  "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+  "entry_count": 182,
+  "retrieved_at": "2026-11-08T23:29:34Z",
+  "method": {
+    "approx_upload": "yt-dlp 2026.10.26 --flat-playlist -J --extractor-args youtubetab:approximate_date (derived from relative 'N days ago' text; day granularity, not exact)",
+    "feed_published": "GET https://www.youtube.com/feeds/videos.xml?playlist_id=PLxtfkA7EyYFPx8caX0IQ3o1TszTBDw8uO (Atom <published>; exact, but the feed only lists the first 15 playlist entries)",
+    "raw_feed": "data/episodes/_playlist/raw/playlist-feed.xml (unmodified)"
+  },
+  "determination": {
+    "newest_id": "-H0dwGkYmkM",
+    "newest_by_feed": "-H0dwGkYmkM",
+    "newest_by_approx": [
+      "-H0dwGkYmkM"
+    ],
+    "approx_monotone_desc_in_playlist_order": true,
+    "entries_missing_any_date": []
+  },
+  "entries": [
+    {
+      "playlist_index": 1,
+      "id": "-H0dwGkYmkM",
+      "title": "Ch08-10-Shrimad Bhagavad Gita",
+      "duration_s": 4158,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-11-08T00:00:00Z",
+      "feed_published": "2026-11-07T00:25:16+00:00"
+    },
+    {
+      "playlist_index": 2,
+      "id": "jOfHg1IBlMw",
+      "title": "Ch08-09-Shrimad Bhagavad Gita",
+      "duration_s": 4801,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-11-07T00:00:00Z",
+      "feed_published": "2026-11-06T01:17:48+00:00"
+    },
+    {
+      "playlist_index": 3,
+      "id": "woJteS28SQU",
+      "title": "Ch08-08-Shrimad Bhagavad Gita",
+      "duration_s": 4333,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-11-06T00:00:00Z",
+      "feed_published": "2026-11-05T01:17:04+00:00"
+    },
+    {
+      "playlist_index": 4,
+      "id": "3dqRE7Yelds",
+      "title": "Ch08-07-Shrimad Bhagavad Gita",
+      "duration_s": 4600,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-11-05T00:00:00Z",
+      "feed_published": "2026-11-04T00:11:30+00:00"
+    },
+    {
+      "playlist_index": 5,
+      "id": "1kAYAqbrw6g",
+      "title": "Ch08-06-Shrimad Bhagavad Gita",
+      "duration_s": 4293,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-11-04T00:00:00Z",
+      "feed_published": "2026-11-03T01:25:14+00:00"
+    },
+    {
+      "playlist_index": 6,
+      "id": "bacPfq-yW00",
+      "title": "Ch08-05-Shrimad Bhagavad Gita",
+      "duration_s": 5160,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-11-01T00:00:00Z",
+      "feed_published": "2026-10-31T00:12:34+00:00"
+    },
+    {
+      "playlist_index": 7,
+      "id": "L7KCYWhlRpg",
+      "title": "Ch08-04-Shrimad Bhagavad Gita",
+      "duration_s": 5322,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-31T00:00:00Z",
+      "feed_published": "2026-10-29T23:58:03+00:00"
+    },
+    {
+      "playlist_index": 8,
+      "id": "vzbOQNINsN4",
+      "title": "Ch08-03-Shrimad Bhagavad Gita",
+      "duration_s": 4782,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-30T00:00:00Z",
+      "feed_published": "2026-10-29T00:57:14+00:00"
+    },
+    {
+      "playlist_index": 9,
+      "id": "ZMNn4z7-hMo",
+      "title": "Ch08-02-Shrimad Bhagavad Gita",
+      "duration_s": 4668,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-29T00:00:00Z",
+      "feed_published": "2026-10-28T01:54:54+00:00"
+    },
+    {
+      "playlist_index": 10,
+      "id": "CkRA47eDlaY",
+      "title": "Ch08-01-Shrimad Bhagavad Gita",
+      "duration_s": 4010,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-28T00:00:00Z",
+      "feed_published": "2026-10-27T00:25:38+00:00"
+    },
+    {
+      "playlist_index": 11,
+      "id": "cPT6FRvteU0",
+      "title": "Ch07-23-Shrimad Bhagavad Gita",
+      "duration_s": 4447,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-26T00:00:00Z",
+      "feed_published": "2026-10-22T00:39:25+00:00"
+    },
+    {
+      "playlist_index": 12,
+      "id": "pgc8rrWEvrA",
+      "title": "Ch07-22-Shrimad Bhagavad Gita",
+      "duration_s": 4329,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-26T00:00:00Z",
+      "feed_published": "2026-10-21T00:59:07+00:00"
+    },
+    {
+      "playlist_index": 13,
+      "id": "3TeTJH_Bh3I",
+      "title": "Ch07-21-Shrimad Bhagavad Gita",
+      "duration_s": 4986,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-26T00:00:00Z",
+      "feed_published": "2026-10-20T02:15:17+00:00"
+    },
+    {
+      "playlist_index": 14,
+      "id": "rLay-nDh84E",
+      "title": "Ch07-20-Shrimad Bhagavad Gita",
+      "duration_s": 4606,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-19T00:00:00Z",
+      "feed_published": "2026-10-17T00:52:56+00:00"
+    },
+    {
+      "playlist_index": 15,
+      "id": "drmFdml7_8I",
+      "title": "Ch07-19-Shrimad Bhagavad Gita",
+      "duration_s": 4179,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-19T00:00:00Z",
+      "feed_published": "2026-10-16T00:34:12+00:00"
+    },
+    {
+      "playlist_index": 16,
+      "id": "poUuFow3arE",
+      "title": "Ch07-18-Shrimad Bhagavad Gita",
+      "duration_s": 4018,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-19T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 17,
+      "id": "h9yKhVn15rQ",
+      "title": "Ch07-17-Shrimad Bhagavad Gita",
+      "duration_s": 4927,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-19T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 18,
+      "id": "hFcUVfdKIHI",
+      "title": "Ch07-16-Shrimad Bhagavad Gita",
+      "duration_s": 4145,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-19T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 19,
+      "id": "IDcVNotmJY0",
+      "title": "Ch07-15-Shrimad Bhagavad Gita",
+      "duration_s": 4447,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-12T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 20,
+      "id": "YpSQFx5CvSQ",
+      "title": "Ch07-14-Shrimad Bhagavad Gita",
+      "duration_s": 5563,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-12T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 21,
+      "id": "kWFW7sOFZpk",
+      "title": "Ch07-13-Shrimad Bhagavad Gita",
+      "duration_s": 4114,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 22,
+      "id": "dT4hB8hbeu0",
+      "title": "Ch07-12-Shrimad Bhagavad Gita",
+      "duration_s": 3792,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 23,
+      "id": "AzlmpC4SjyU",
+      "title": "Ch07-11-Shrimad Bhagavad Gita",
+      "duration_s": 4364,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 24,
+      "id": "reTkqRhITFg",
+      "title": "Ch07-10-Shrimad Bhagavad Gita",
+      "duration_s": 4127,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 25,
+      "id": "pJaNsJeBuiY",
+      "title": "Ch07-09-Shrimad Bhagavad Gita",
+      "duration_s": 4714,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 26,
+      "id": "QCqe4BCdH-Y",
+      "title": "Ch07-07-Shrimad Bhagavad Gita",
+      "duration_s": 4273,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 27,
+      "id": "Ho3CGM2A2_w",
+      "title": "Ch07-08-Shrimad Bhagavad Gita",
+      "duration_s": 5308,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 28,
+      "id": "j2Nva1WxTLE",
+      "title": "Ch07-06-Shrimad Bhagavad Gita",
+      "duration_s": 4165,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 29,
+      "id": "YKI3YC1Cu5c",
+      "title": "Ch07-05-Shrimad Bhagavad Gita",
+      "duration_s": 3871,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 30,
+      "id": "_xrAXVVnBp8",
+      "title": "Ch07-04-Shrimad Bhagavad Gita",
+      "duration_s": 4140,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 31,
+      "id": "3J8G0foz7-o",
+      "title": "Ch07-03-Shrimad Bhagavad Gita",
+      "duration_s": 4912,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 32,
+      "id": "utr66ZpUvdA",
+      "title": "Ch07-02-Shrimad Bhagavad Gita",
+      "duration_s": 3907,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 33,
+      "id": "XIAigCHDj7M",
+      "title": "Ch07-01-Shrimad Bhagavad Gita",
+      "duration_s": 3787,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 34,
+      "id": "fO-BIfGS7TQ",
+      "title": "Ch06-31-Shrimad Bhagavad Gita",
+      "duration_s": 4838,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 35,
+      "id": "Ck9vAVT5yzw",
+      "title": "Ch06-30-Shrimad Bhagavad Gita",
+      "duration_s": 4280,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 36,
+      "id": "R1IoQ5B8tEs",
+      "title": "Ch06-29-Shrimad Bhagavad Gita",
+      "duration_s": 4846,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 37,
+      "id": "_3i5iWLaDlQ",
+      "title": "Ch06-28-Shrimad Bhagavad Gita",
+      "duration_s": 4883,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 38,
+      "id": "3rVg8ukeznE",
+      "title": "Ch06-27-Shrimad Bhagavad Gita",
+      "duration_s": 4431,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 39,
+      "id": "SOyvkrmZees",
+      "title": "Ch06-26-Shrimad Bhagavad Gita",
+      "duration_s": 5037,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 40,
+      "id": "0WLl1J-opsg",
+      "title": "Ch06-25-Shrimad Bhagavad Gita",
+      "duration_s": 4285,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-10-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 41,
+      "id": "R82sVijZgNU",
+      "title": "Ch06-24-Shrimad Bhagavad Gita",
+      "duration_s": 3945,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 42,
+      "id": "4k5Un_A6StM",
+      "title": "Ch06-23-Shrimad Bhagavad Gita",
+      "duration_s": 4869,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 43,
+      "id": "RiL52whlj5c",
+      "title": "Ch06-22-Shrimad Bhagavad Gita",
+      "duration_s": 4856,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 44,
+      "id": "XXgJQV2wUnw",
+      "title": "Ch06-21-Shrimad Bhagavad Gita",
+      "duration_s": 4313,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 45,
+      "id": "p3DgspetljU",
+      "title": "Ch06-20-Shrimad Bhagavad Gita",
+      "duration_s": 4067,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 46,
+      "id": "XXWVu4LDOo0",
+      "title": "Ch06-19-Shrimad Bhagavad Gita",
+      "duration_s": 5079,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 47,
+      "id": "jLMlK_sZsgY",
+      "title": "Ch06-18-Shrimad Bhagavad Gita",
+      "duration_s": 5254,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 48,
+      "id": "xTWON3QfdX4",
+      "title": "Ch06-17-Shrimad Bhagavad Gita.mp3",
+      "duration_s": 4005,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 49,
+      "id": "74zwe_UzleE",
+      "title": "Ch06-16-Shrimad Bhagavad Gita",
+      "duration_s": 4758,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 50,
+      "id": "jwM0ponkQSs",
+      "title": "Ch06-15-Shrimad Bhagavad Gita",
+      "duration_s": 5046,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 51,
+      "id": "toCttxYy60k",
+      "title": "Ch06-14-Shrimad Bhagavad Gita",
+      "duration_s": 4751,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 52,
+      "id": "LtpR2qt3Jxo",
+      "title": "Ch06-13-Shrimad Bhagavad Gita",
+      "duration_s": 4769,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-09-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 53,
+      "id": "8yXPuGaZgag",
+      "title": "Ch06-12-Shrimad Bhagavad Gita",
+      "duration_s": 3877,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 54,
+      "id": "WXtgaZkr2ew",
+      "title": "Ch06-11-Shrimad Bhagavad Gita",
+      "duration_s": 4043,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 55,
+      "id": "GbjqnAx-Xmc",
+      "title": "Ch06-10-Shrimad Bhagavad Gita",
+      "duration_s": 4325,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 56,
+      "id": "AVYm8Tum5ro",
+      "title": "Ch06-09-Shrimad Bhagavad Gita",
+      "duration_s": 2871,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 57,
+      "id": "z8RVlWS4sZ4",
+      "title": "Ch06-08-Shrimad Bhagavad Gita",
+      "duration_s": 3816,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 58,
+      "id": "bYmxte-S6m0",
+      "title": "Ch06-07-Shrimad Bhagavad Gita",
+      "duration_s": 4626,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 59,
+      "id": "avqSc73-C0A",
+      "title": "Ch06-06-Shrimad Bhagavad Gita",
+      "duration_s": 4897,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 60,
+      "id": "X-x9JQB0G5k",
+      "title": "Ch06-05-Shrimad Bhagavad Gita",
+      "duration_s": 5090,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 61,
+      "id": "YoAQi5f9hSY",
+      "title": "Ch06-04-Shrimad Bhagavad Gita",
+      "duration_s": 4397,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 62,
+      "id": "dMzOOxW_Fbo",
+      "title": "Ch06-03-Shrimad Bhagavad Gita",
+      "duration_s": 5374,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-08-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 63,
+      "id": "xYY4cQ9BwBI",
+      "title": "Ch06-02-Shrimad Bhagavad Gita",
+      "duration_s": 4124,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 64,
+      "id": "MxCejx6ob54",
+      "title": "Ch06-01-Shrimad Bhagavad Gita",
+      "duration_s": 3830,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 65,
+      "id": "KIwBSIs1uQ4",
+      "title": "Ch05-18-Shrimad Bhagavad Gita",
+      "duration_s": 3344,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 66,
+      "id": "U9OtDbkehQk",
+      "title": "Ch05-17-Shrimad Bhagavad Gita",
+      "duration_s": 4410,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 67,
+      "id": "XgiurA_ZOEo",
+      "title": "Ch05-16-Shrimad Bhagavad Gita",
+      "duration_s": 4022,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 68,
+      "id": "eHgEASaoKrU",
+      "title": "Ch05-15-Shrimad Bhagavad Gita",
+      "duration_s": 4721,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 69,
+      "id": "llxvPyZbXPg",
+      "title": "Ch05-14-Shrimad Bhagavad Gita",
+      "duration_s": 4057,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 70,
+      "id": "KBW6o7aSZg8",
+      "title": "Ch05-13-Shrimad Bhagavad Gita",
+      "duration_s": 4135,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 71,
+      "id": "5Zb658CJtqQ",
+      "title": "Ch05-12-Shrimad Bhagavad Gita",
+      "duration_s": 5238,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 72,
+      "id": "Dn6k7qs-bHI",
+      "title": "Ch05-11-Shrimad Bhagavad Gita",
+      "duration_s": 3480,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 73,
+      "id": "cWHQbCEiQz8",
+      "title": "Ch05-10-Shrimad Bhagavad Gita",
+      "duration_s": 4575,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 74,
+      "id": "wVtWQiOnHSg",
+      "title": "Ch05-09-Shrimad Bhagavad Gita",
+      "duration_s": 4744,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 75,
+      "id": "6qpJtbV813g",
+      "title": "Ch05-08-Shrimad Bhagavad Gita",
+      "duration_s": 4888,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 76,
+      "id": "hNKHoUGvgWQ",
+      "title": "Ch05-07-Shrimad Bhagavad Gita",
+      "duration_s": 4601,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-07-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 77,
+      "id": "cfSGFueHQ8s",
+      "title": "Ch05-06-Shrimad Bhagavad Gita",
+      "duration_s": 3772,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 78,
+      "id": "NLcuzqFYgRA",
+      "title": "Ch05-05-Shrimad Bhagavad Gita",
+      "duration_s": 4818,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 79,
+      "id": "ZDfSQ-n_DCA",
+      "title": "Ch05-04-Shrimad Bhagavad Gita",
+      "duration_s": 5047,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 80,
+      "id": "Eslt2GOaE5o",
+      "title": "Ch05-03-Shrimad Bhagavad Gita",
+      "duration_s": 4337,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 81,
+      "id": "JUZAnC8NLMs",
+      "title": "Ch05-02-Shrimad Bhagavad Gita",
+      "duration_s": 5894,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 82,
+      "id": "Z6QDBLxm0ys",
+      "title": "Ch05-01-Shrimad Bhagavad Gita",
+      "duration_s": 4984,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 83,
+      "id": "uAL4KPuuJDA",
+      "title": "Ch04-34-Shrimad Bhagavad Gita",
+      "duration_s": 4108,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 84,
+      "id": "BfZocl4LTPo",
+      "title": "Ch04-33-Shrimad Bhagavad Gita",
+      "duration_s": 4580,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 85,
+      "id": "f2egIFRz4HA",
+      "title": "Ch04-32-Shrimad Bhagavad Gita",
+      "duration_s": 4715,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-06-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 86,
+      "id": "XFZQCn6I9Xo",
+      "title": "Ch04-31-Shrimad Bhagavad Gita",
+      "duration_s": 4982,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 87,
+      "id": "spAkKuSsvH4",
+      "title": "Ch04-30-Shrimad Bhagavad Gita",
+      "duration_s": 4211,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 88,
+      "id": "KXJUl4RoYZk",
+      "title": "Ch04-29-Shrimad Bhagavad Gita",
+      "duration_s": 4472,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 89,
+      "id": "GZzl7PHS8po",
+      "title": "Ch04-28-Shrimad Bhagavad Gita",
+      "duration_s": 3715,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 90,
+      "id": "gd9rg0SiZ9U",
+      "title": "Ch04-27-Shrimad Bhagavad Gita",
+      "duration_s": 5033,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 91,
+      "id": "0VaKrW2XsUA",
+      "title": "Ch04-26-Shrimad Bhagavad Gita",
+      "duration_s": 5493,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 92,
+      "id": "4OXLEDK3DBQ",
+      "title": "Ch04-25-Shrimad Bhagavad Gita",
+      "duration_s": 4982,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 93,
+      "id": "7BhRgVeU6YU",
+      "title": "Ch04-24-Shrimad Bhagavad Gita",
+      "duration_s": 4047,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 94,
+      "id": "sS9ZhAcpiA0",
+      "title": "Ch04-23-Shrimad Bhagavad Gita",
+      "duration_s": 4760,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 95,
+      "id": "H62t_tRAcSo",
+      "title": "Ch04-22-Shrimad Bhagavad Gita",
+      "duration_s": 4788,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 96,
+      "id": "w-UdLHmW53w",
+      "title": "Ch04-21-Shrimad Bhagavad Gita",
+      "duration_s": 4919,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 97,
+      "id": "rSXidNh9yBg",
+      "title": "Ch04-20-Shrimad Bhagavad Gita",
+      "duration_s": 4880,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 98,
+      "id": "mv4kgYBzZ_U",
+      "title": "Ch04-19-Shrimad Bhagavad Gita",
+      "duration_s": 3853,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 99,
+      "id": "7A8KMAZWgEM",
+      "title": "Ch04-18-Shrimad Bhagavad Gita",
+      "duration_s": 4514,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 100,
+      "id": "OhPkao0cnX0",
+      "title": "Ch04-17-Shrimad Bhagavad Gita",
+      "duration_s": 3939,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 101,
+      "id": "KxaHwIm2qLU",
+      "title": "Ch04-16-Shrimad Bhagavad Gita",
+      "duration_s": 5507,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 102,
+      "id": "gA5ZJ-dng6c",
+      "title": "Ch04-15-Shrimad Bhagavad Gita",
+      "duration_s": 5564,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 103,
+      "id": "ND86gGlhK-Q",
+      "title": "Ch04-14-Shrimad Bhagavad Gita",
+      "duration_s": 5394,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 104,
+      "id": "cU3Yx4VyaJw",
+      "title": "Ch04-13-Shrimad Bhagavad Gita",
+      "duration_s": 5046,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 105,
+      "id": "IJLJyg2Sbck",
+      "title": "Ch04-12-Shrimad Bhagavad Gita",
+      "duration_s": 4217,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 106,
+      "id": "SsGluFp6UUI",
+      "title": "Ch04-11-Shrimad Bhagavad Gita",
+      "duration_s": 4046,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-05-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 107,
+      "id": "DHaoKbFg0wQ",
+      "title": "Ch04-10-Shrimad Bhagavad Gita",
+      "duration_s": 5694,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 108,
+      "id": "VsXd9czVDvE",
+      "title": "Ch04-09-Shrimad Bhagavad Gita",
+      "duration_s": 4795,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 109,
+      "id": "BnkBigLNEOk",
+      "title": "Ch04-08-Shrimad Bhagavad Gita",
+      "duration_s": 4444,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 110,
+      "id": "VJyhycwy8wg",
+      "title": "Ch04-07-Shrimad Bhagavad Gita",
+      "duration_s": 3851,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 111,
+      "id": "OV6uJchkhq0",
+      "title": "Ch04-06-Shrimad Bhagavad Gita",
+      "duration_s": 5175,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 112,
+      "id": "dzKPYPq0Vdk",
+      "title": "Ch04-05-Shrimad Bhagavad Gita",
+      "duration_s": 4701,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 113,
+      "id": "nNkuUL3El8k",
+      "title": "Ch04-04-Shrimad Bhagavad Gita",
+      "duration_s": 5561,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 114,
+      "id": "e1G5U2rLiIM",
+      "title": "Ch04-03-Shrimad Bhagavad Gita",
+      "duration_s": 5505,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 115,
+      "id": "EGR4-lQu5aM",
+      "title": "Ch04-02-Shrimad Bhagavad Gita",
+      "duration_s": 3807,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 116,
+      "id": "QV_aa96uNhc",
+      "title": "Ch04-01-Shrimad Bhagavad Gita",
+      "duration_s": 4701,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 117,
+      "id": "qshSLyZnBUs",
+      "title": "Ch03-21-Shrimad Bhagavad Gita",
+      "duration_s": 5863,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 118,
+      "id": "ydKur1Jculk",
+      "title": "Ch03-20-Shrimad Bhagavad Gita",
+      "duration_s": 5181,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 119,
+      "id": "CSxdRGW6F8Y",
+      "title": "Ch03-19-Shrimad Bhagavad Gita",
+      "duration_s": 5020,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 120,
+      "id": "BNvdor2-qvg",
+      "title": "Ch03-18-Shrimad Bhagavad Gita",
+      "duration_s": 5201,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 121,
+      "id": "hFJggTMtu4E",
+      "title": "Ch03-17-Shrimad Bhagavad Gita",
+      "duration_s": 5391,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 122,
+      "id": "rkvdizWc3iE",
+      "title": "Ch03-16-Shrimad Bhagavad Gita",
+      "duration_s": 4309,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 123,
+      "id": "oVYZyccOZ3Q",
+      "title": "Ch03-15-Shrimad Bhagavad Gita",
+      "duration_s": 5008,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 124,
+      "id": "d7gPilGQekA",
+      "title": "Ch03-14-Shrimad Bhagavad Gita",
+      "duration_s": 4817,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 125,
+      "id": "6IMLayXNUkc",
+      "title": "Ch03-13-Shrimad Bhagavad Gita",
+      "duration_s": 5368,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 126,
+      "id": "pEnUNd88egE",
+      "title": "Ch03-12-Shrimad Bhagavad Gita",
+      "duration_s": 5074,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 127,
+      "id": "g6eM2bGPtkU",
+      "title": "Ch03-11-Shrimad Bhagavad Gita",
+      "duration_s": 5093,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-04-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 128,
+      "id": "rDU0SxIKQes",
+      "title": "Ch03-10-Shrimad Bhagavad Gita",
+      "duration_s": 4210,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 129,
+      "id": "53OioOLlI_A",
+      "title": "Ch03-09-Shrimad Bhagavad Gita",
+      "duration_s": 6279,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 130,
+      "id": "vgpaKy8KlFg",
+      "title": "Ch03-08-Shrimad Bhagavad Gita",
+      "duration_s": 5626,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 131,
+      "id": "iGZq7loNJkE",
+      "title": "Ch03-07-Shrimad Bhagavad Gita",
+      "duration_s": 4985,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 132,
+      "id": "DDGtZXrY9sA",
+      "title": "Ch03-06 Shrimad Bhagavad Gita",
+      "duration_s": 3918,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 133,
+      "id": "ByHDyAJXjz4",
+      "title": "Ch03-05 Shrimad Bhagavad Gita",
+      "duration_s": 5736,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 134,
+      "id": "l4anaDktUm8",
+      "title": "Ch03-04 Shrimad Bhagavad Gita",
+      "duration_s": 3929,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 135,
+      "id": "Tqgl4kYVKRo",
+      "title": "Ch03-03 Shrimad Bhagavad Gita",
+      "duration_s": 5180,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 136,
+      "id": "aXX3qKQcYN0",
+      "title": "Ch03-02 Shrimad Bhagavad Gita",
+      "duration_s": 4596,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 137,
+      "id": "kXkG8g2yGog",
+      "title": "Ch03-01 Shrimad Bhagavad Gita",
+      "duration_s": 3553,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 138,
+      "id": "7p22Xs1ZS2s",
+      "title": "Ch02-39 Shrimad Bhagavad Gita",
+      "duration_s": 5488,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 139,
+      "id": "2Ydd_SaFYkM",
+      "title": "Ch02-38 Shrimad Bhagavad Gita",
+      "duration_s": 4093,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 140,
+      "id": "kwFh2pQNJjI",
+      "title": "Ch02-37 Shrimad Bhagavad Gita",
+      "duration_s": 4806,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 141,
+      "id": "oy5RN0nTpqs",
+      "title": "Ch02-36 Shrimad Bhagavad Gita",
+      "duration_s": 3476,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 142,
+      "id": "diUuzwkP8ug",
+      "title": "Ch02-35 Shrimad Bhagavad Gita",
+      "duration_s": 4923,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 143,
+      "id": "-gsaoTHM6pU",
+      "title": "Ch02-34 Shrimad Bhagavad Gita",
+      "duration_s": 5456,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 144,
+      "id": "cy_Mld2J2CM",
+      "title": "Ch02-33 Shrimad Bhagavad Gita",
+      "duration_s": 5549,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 145,
+      "id": "w1e0d5SedtQ",
+      "title": "Ch02-32 Shrimad Bhagavad Gita",
+      "duration_s": 4459,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 146,
+      "id": "2koYNPlRyj0",
+      "title": "Ch02-31 Shrimad Bhagavad Gita",
+      "duration_s": 5121,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 147,
+      "id": "SBIotRqUZkA",
+      "title": "Ch02-30 Shrimad Bhagavad Gita",
+      "duration_s": 4477,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-03-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 148,
+      "id": "L6t3VL4jBLg",
+      "title": "Ch02-29 Shrimad Bhagavad Gita",
+      "duration_s": 5011,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 149,
+      "id": "KQ2gT_Kt3jg",
+      "title": "Ch02-28 Shrimad Bhagavad Gita",
+      "duration_s": 3583,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 150,
+      "id": "57zlMZlipDs",
+      "title": "Ch02-27 Shrimad Bhagavad Gita",
+      "duration_s": 4873,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 151,
+      "id": "9VQZcUE5gx0",
+      "title": "Ch02-26 Shrimad Bhagavad Gita",
+      "duration_s": 4328,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 152,
+      "id": "jZ9aIX3feY0",
+      "title": "Ch02-25 Shrimad Bhagavad Gita",
+      "duration_s": 4894,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 153,
+      "id": "9nLZqVG7d90",
+      "title": "Ch02-24 Shrimad Bhagavad Gita",
+      "duration_s": 3988,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 154,
+      "id": "-thDmTQx3Tk",
+      "title": "Ch02-23 Shrimad Bhagavad Gita",
+      "duration_s": 4630,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 155,
+      "id": "oV2FhgJt7-o",
+      "title": "Ch02-22 Shrimad Bhagavad Gita",
+      "duration_s": 4974,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 156,
+      "id": "vBQOVZL_7kg",
+      "title": "Ch02-21 Shrimad Bhagavad Gita",
+      "duration_s": 5436,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 157,
+      "id": "tM_fG0WUn8M",
+      "title": "Ch02-20-Shrimad Bhagavad Gita",
+      "duration_s": 5590,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 158,
+      "id": "4ogqN2nwogI",
+      "title": "Ch02-19-Shrimad Bhagavad Gita",
+      "duration_s": 4993,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 159,
+      "id": "eySEEMB7oB0",
+      "title": "Ch02-18-Shrimad Bhagavad Gita",
+      "duration_s": 4703,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 160,
+      "id": "tFKPwX9l9Zs",
+      "title": "Ch02-17-Shrimad Bhagavad Gita",
+      "duration_s": 5145,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 161,
+      "id": "sGXzruliZ58",
+      "title": "Ch02-16-Shrimad Bhagavad Gita",
+      "duration_s": 5133,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 162,
+      "id": "rhgmxryaKVo",
+      "title": "Ch02-15-Shrimad Bhagavad Gita",
+      "duration_s": 4265,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 163,
+      "id": "EK46tSXoNsw",
+      "title": "Ch02-14-Shrimad Bhagavad Gita Part 1",
+      "duration_s": 3655,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 164,
+      "id": "WjfK2OTjsl0",
+      "title": "Ch02-13-Shrimad Bhagavad Gita",
+      "duration_s": 4106,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 165,
+      "id": "3OiIe1SFDFI",
+      "title": "Ch02-12-Shrimad Bhagavad Gita",
+      "duration_s": 5140,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 166,
+      "id": "NNwKCFBcvRI",
+      "title": "Ch02-11-Shrimad Bhagavad Gita",
+      "duration_s": 5650,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 167,
+      "id": "bBqwEDyKr00",
+      "title": "Ch02-10-Shrimad Bhagavad Gita",
+      "duration_s": 4892,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-02-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 168,
+      "id": "6eS3IbErYqo",
+      "title": "Ch02-09-Shrimad Bhagavad Gita",
+      "duration_s": 5263,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 169,
+      "id": "CdtmWU9QHGQ",
+      "title": "Ch02-08-Shrimad Bhagavad Gita",
+      "duration_s": 3512,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 170,
+      "id": "cn20Aqu4g5Q",
+      "title": "Ch02-07Shrimad Bhagavad Gita",
+      "duration_s": 4525,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 171,
+      "id": "DV2THOSorjw",
+      "title": "Ch02-06-Shrimad Bhagavad Gita",
+      "duration_s": 3569,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 172,
+      "id": "qAzWCT-imYI",
+      "title": "Ch02-05-Shrimad Bhagavad Gita",
+      "duration_s": 4530,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 173,
+      "id": "BVLSmaoKMuY",
+      "title": "Ch02-04-Shrimad Bhagavad Gita",
+      "duration_s": 4756,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 174,
+      "id": "xTetyS7jHjk",
+      "title": "Ch02-03-Shrimad Bhagavad Gita",
+      "duration_s": 6099,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 175,
+      "id": "qMN6ZzqJN1Q",
+      "title": "Ch02-02-Shrimad Bhagavad Gita",
+      "duration_s": 5892,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 176,
+      "id": "n1p4AGmdTFI",
+      "title": "Ch02-01-Shrimad Bhagavad Gita",
+      "duration_s": 3919,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 177,
+      "id": "4ilM4T7TVBw",
+      "title": "Ch01-05-Shrimad Bhagavad Gita",
+      "duration_s": 6197,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 178,
+      "id": "TK22rZuU-xY",
+      "title": "Ch01-04-Srimad Bhagavad Gita",
+      "duration_s": 4259,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 179,
+      "id": "2wRDZ4peeYc",
+      "title": "Ch01-03-Srimad Bhagavad Gita",
+      "duration_s": 5536,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 180,
+      "id": "qyiE9IrrUxY",
+      "title": "Ch01-02-Srimad Bhagavad Gita",
+      "duration_s": 4236,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 181,
+      "id": "5juGJJMnVus",
+      "title": "Ch01-01 Srimad Bhagavad Gita",
+      "duration_s": 5704,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    },
+    {
+      "playlist_index": 182,
+      "id": "jt9QQIGxpVY",
+      "title": "Inaugural Address",
+      "duration_s": 5484,
+      "channel_id": "UCZoszo4Cm2RtnvZoDQvLKoA",
+      "approx_upload": "2026-01-09T00:00:00Z",
+      "feed_published": null
+    }
+  ]
+}

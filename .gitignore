@@ -7,3 +7,10 @@ dist/
 .astro/
 _site/
 .jekyll-cache/
+
+# Private local orchestration state
+.claude/settings.local.json
+.github/session-state/
+.savvy-progress/
+.context/
+.messages-board/

@@ -1,0 +1,107 @@
+{
+  "tracker": ".autobuild/BACKLOG.md",
+  "state_dir": ".autobuild",
+  "lock_path": ".autobuild/backlog.lock",
+  "extensions": [],
+  "workspace": {
+    "members": []
+  },
+  "placements": {
+    "laptop-native": {
+      "max": 2
+    }
+  },
+  "default_placement": "laptop-native",
+  "decisions": {
+    "channel": "inline",
+    "board_to": null
+  },
+  "approvals": {
+    "worker_yolo": null
+  },
+  "owner_name": "claude-autobuild",
+  "priorities": [
+    "P0",
+    "P1",
+    "P2",
+    "P3"
+  ],
+  "executor": {
+    "kind": "subagent",
+    "model": "",
+    "extra": ""
+  },
+  "critic": {
+    "kind": "subagent",
+    "model": ""
+  },
+  "filesystem_access": {
+    "mode": "read-write",
+    "roots": [
+      "~/snc-git",
+      "~/snc",
+      "~/snc-lab",
+      "~/Documents",
+      "~/Desktop",
+      "~/Downloads"
+    ],
+    "principals": [
+      "supervisor",
+      "builder",
+      "critic",
+      "reviewer",
+      "skill"
+    ],
+    "outside_roots": "request",
+    "sensitive_paths": "same-as-root",
+    "task_scope_remains_binding": true,
+    "approval": {
+      "granted_by": "user",
+      "scope": "Create Gita Map in this folder; Claude builds while Codex supervises",
+      "source": "2026-11-08 conversation"
+    },
+    "approved_outside_roots": [
+      {
+        "root": "/kiran/home/projects/kr-git/gita-map",
+        "granted_by": "user",
+        "scope": "Gita Map build only",
+        "source": "Explicit request to initialize this repo and have Claude build it"
+      }
+    ]
+  },
+  "parallel": {
+    "enabled": true,
+    "max_builder_units": 2,
+    "max_environment_units": 1
+  },
+  "review": {
+    "dispatch_policy": "wave-barrier",
+    "enabled": true
+  },
+  "verify": {
+    "commands": [],
+    "failure_regex": "(?i)^(FAIL|ERROR|E\\s|.*\\berror:)"
+  },
+  "e2e": {
+    "default": "none",
+    "rules": []
+  },
+  "commit": {
+    "enabled": true,
+    "push": true
+  },
+  "escalate_extra": [],
+  "runtime": {
+    "model": "sonnet",
+    "advisor": "opus",
+    "permission_mode": "bypassPermissions"
+  },
+  "user_authorizations": {
+    "main_commits": true,
+    "source": "User: No, I allow you to commit to main directly. Permission granted.",
+    "native_claude_builders": "User requested Claude to do the work, with Codex supervising.",
+    "tmux_steering": "User explicitly permits instructions directly in the Chief chat pane.",
+    "bypass_permissions": "User steering 2026-11-08 (restart-request.md, relayed via Chief pane): bypass-permission mode authorized for this Gita Map activity; scope this repo; review stays enabled; remote pushes stay disabled.",
+    "daily_routine": "User 2026-11-08 (daily-routine-request.md): daily Gita Map routine; authorizes routine commits, ordinary non-force pushes to main, and GitHub Pages publication of validated episode/site updates for this scope. No visibility change, paid services, other-account credentials or teacher contact. Review stays enabled. Schedule: America/Los_Angeles 06:00 (assumption; activation unverified)."
+  }
+}
