@@ -58,7 +58,7 @@ by hand in this shape (the heading, control line and deliverable line are what t
 
 ### T-001 — Acquire and verify the newest lecture transcript
 
-**Priority:** P0 · **Owner:** claude-autobuild · **Status:** ▶
+**Priority:** P0 · **Owner:** unassigned · **Status:** 🟡
 **Prerequisites:** none
 **Area:** sources
 
@@ -68,9 +68,11 @@ Identify newest playlist episode by upload metadata, starting candidate -H0dwGkY
 
 **Interrupted 2026-11-08:** Builder u1 (handle a8c703d09d585074d) stopped before producing any artifacts for a Chief restart (bypassPermissions). Nothing acquired; transcript status unknown. Re-dispatch after restart.
 
+**Note 2026-11-08:** 2026-11-08 u2 outcome: newest episode -H0dwGkYmkM verified (published 2026-11-07T00:25:16Z; metadata, upload-date evidence, caption-attempt log, scripts/acquire). Captions BLOCKED: YouTube bot check / LOGIN_REQUIRED on this host; no transcript exists, nothing invented. Remaining gap: raw timestamped caption track for -H0dwGkYmkM. Needs user: run scripts/acquire/acquire.py from another network, authorize browser cookies (credential exposure, not done), or supply caption files. Post-download path of acquire.py untested. Independent review of this candidate pending (review enabled). Deliverable box stays unticked.
+
 ### T-002 — Build the static continuous reader and graph experience
 
-**Priority:** P1 · **Owner:** unassigned · **Status:** ☐
+**Priority:** P1 · **Owner:** claude-autobuild · **Status:** ▶
 **Prerequisites:** none
 **Area:** site
 

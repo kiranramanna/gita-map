@@ -11,9 +11,12 @@ Last checked: 2026-11-08 at about 23:30 UTC, by builder unit u2 for task T-001.
 | Captions / transcript | **Blocked**. YouTube's bot check rejects this host. No transcript text exists in the repository. |
 | Cleaned transcript | Not produced. There is no raw source to clean. |
 
-No lecture content, transcript passage, Sanskrit or verse identifier has been written to
-the repository. UI work must use clearly labelled structural demo data until a real
-transcript is acquired.
+No lecture content, transcript passage or Sanskrit has been written to the repository.
+The only verse reference stored is the uploader's own video description, "Shrimad
+Bhagavad Gita Chapter 08 verses 20 & 21". It is quoted verbatim and labelled as
+uploader-supplied. T-002 may show it only as an uploader claim, not as a verified shloka
+mapping, until a transcript confirms it. UI work must use clearly labelled structural
+demo data until a real transcript is acquired.
 
 ## Newest-episode determination
 
@@ -32,8 +35,9 @@ accurate at best to the day and gets coarser for older uploads.
    newest is `-H0dwGkYmkM` at 2026-11-07T00:25:16+00:00. Next is `jOfHg1IBlMw` (Ch08-09)
    at 2026-11-06T01:17:48+00:00.
 3. **Cross-checks.**
-   - The watch page shows `dateText` "Nov 6, 2026". That is US-Pacific local time and
-     matches 00:25Z on Nov 7.
+   - The watch page shows `dateText` "Nov 6, 2026". The page does not state a time zone.
+     The date is consistent with 00:25Z on Nov 7 if it is shown in a US time zone. That
+     reading is an inference.
    - The channel's Videos tab (561 entries, with approximate dates) also lists
      `-H0dwGkYmkM` as its newest upload.
    - oEmbed reports title "Ch08-10-Shrimad Bhagavad Gita" and author "Advaita Retold"
@@ -55,7 +59,7 @@ in.
 | URL | https://www.youtube.com/watch?v=-H0dwGkYmkM | — |
 | Title | Ch08-10-Shrimad Bhagavad Gita | feed, flat playlist, oEmbed, watch page |
 | Channel | Advaita Retold (`UCZoszo4Cm2RtnvZoDQvLKoA`, `@advaitictalks`) | feed, oEmbed |
-| Published | 2026-11-07T00:25:16Z | feed `<published>` |
+| Published (upload date) | 2026-11-07T00:25:16Z | feed `<published>`. This is the publish time; upload, premiere and livestream cannot be told apart because `live_status` is unreadable. |
 | Duration | 4158 s (1:09:18) | flat playlist |
 | Uploader description (verbatim) | "Shrimad Bhagavad Gita Chapter 08 verses 20 & 21" | feed `media:description` |
 

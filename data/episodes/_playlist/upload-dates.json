@@ -6,7 +6,7 @@
   "entry_count": 182,
   "retrieved_at": "2026-11-08T23:29:34Z",
   "method": {
-    "approx_upload": "yt-dlp 2026.10.26 --flat-playlist -J --extractor-args youtubetab:approximate_date (derived from relative 'N days ago' text; day granularity, not exact)",
+    "approx_upload": "yt-dlp 2026.10.26 --flat-playlist -J --extractor-args youtubetab:approximate_date (derived from relative 'N days/weeks/months ago' text; at best day granularity, coarser for older uploads; not exact)",
     "feed_published": "GET https://www.youtube.com/feeds/videos.xml?playlist_id=PLxtfkA7EyYFPx8caX0IQ3o1TszTBDw8uO (Atom <published>; exact, but the feed only lists the first 15 playlist entries)",
     "raw_feed": "data/episodes/_playlist/raw/playlist-feed.xml (unmodified)"
   },
