@@ -107,7 +107,7 @@
       "accepted": true,
       "executor_kind": "subagent",
       "executor": null,
-      "native_handle": null,
+      "native_handle": "a9054d23179f71f86",
       "generation": 0,
       "outcome": null,
       "quiescent": false,
@@ -121,7 +121,8 @@
       "dispatched_at": "2026-11-09T00:46:04Z",
       "deadline": "2026-11-09T01:31:04Z",
       "notes": "Daily-episodes routine files + local dry-run harness",
-      "placement": "laptop-native"
+      "placement": "laptop-native",
+      "handle": "a9054d23179f71f86"
     }
   ],
   "waves": {
