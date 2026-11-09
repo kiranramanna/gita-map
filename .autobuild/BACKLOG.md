@@ -58,7 +58,7 @@ by hand in this shape (the heading, control line and deliverable line are what t
 
 ### T-001 — Acquire and verify the newest lecture transcript
 
-**Priority:** P0 · **Owner:** unassigned · **Status:** 🟡
+**Priority:** P0 · **Owner:** claude-autobuild · **Status:** ▶
 **Prerequisites:** none
 **Area:** sources
 
@@ -75,6 +75,8 @@ Identify newest playlist episode by upload metadata, starting candidate -H0dwGkY
 **Note 2026-11-09:** 2026-11-09 user source clarification: Apple Podcasts id 1861462827 -> RSS https://anchor.fm/s/10c696e48/podcast/rss (182 eps; newest Ch08-10 published 2026-11-07 00:01:06 GMT; enclosure MP3 anonymously reachable; no podcast:transcript for newest two). Alternative route: podcast audio + local CPU ASR (no cookies/paid/shared GPU). Evaluation dispatched as scratch-only read experiment (no repo writes) while T-005 holds the active wave; repo writes follow in a T-001 unit after T-005's wave. Cookie authorization no longer the only route.
 
 **Note 2026-11-09:** 2026-11-09 podcast+ASR evaluation (scratch only, supervisor-verified): RSS guid 162b8ae8 'Ch08-10', MP3 sha256 a8bc892c... 16631472 B, 4157.754 s vs YouTube 4158 s; same lecture inferred not proven; YouTube offset unmeasured. No genuine public transcript. Local CPU faster-whisper large-v3 full raw ASR (1118 segs, sha256 377fe8ab...), UNREVIEWED: confirmed repetition loop ~2205-2251 s, Sanskrit mis-transcribed. Next: T-001 unit to land provenance-labelled raw ASR (+ overlap second pass); raw kept separate from cleaned; MP3 not in repo.
+
+**Note 2026-11-09:** 2026-11-09 u7 dispatched (native): preserve raw ASR + provenance in repo, overlapping re-run of 2205-2251 s loop and flagged spans, QA flags. Escalation (access) resolved: superseded by user-directed RSS+ASR route; no cookie decision. Podcast-time refs only; YouTube offset unmeasured; coverage NOT complete until loop resolved/excluded. Review gate intact (Copilot launch rule still missing, user question pending).
 
 ### T-002 — Build the static continuous reader and graph experience
 
@@ -143,3 +145,15 @@ Inspect the actual remote-trigger surface Thinkit uses (RemoteTrigger/schedule t
 T-004 text 'Do not publish' predates the user's 2026-11-08 daily-routine authorization (ordinary non-force pushes to main and Pages publication of validated updates for this scope). Pages enablement/repo visibility remain unchanged: do not change visibility or enable paid services.
 
 - [ ] **Deliverable:** T-004 wording and CLAUDE.md consistent with the authorization; verified Pages workflow ready.
+
+### T-008 — Integrate public RSS/podcast source into daily-episodes routine config
+
+**Priority:** P1 · **Owner:** unassigned · **Status:** ☐
+**Prerequisites:** T-001,T-005
+**Area:** routine
+
+Per nudge podcast-routine-integration: config.yml is YouTube-only. Add RSS source (https://anchor.fm/s/10c696e48/podcast/rss): prefer genuine podcast:transcript links (48 older items have Spotify SRT; newest do not), else separately provenance-labelled CPU-ASR path (faster-whisper large-v3, no GPU/paid/cookies). Never assume podcast and YouTube timestamps align from duration alone; Sanskrit uncertainty and source mapping explicit; ASR quality flags (repetition loops, high-temperature spans) block publishing as full coverage. Extend harness fixtures. Not an activated schedule; no review claimed.
+
+- [ ] **Deliverable:** Routine config/prompts/harness handle RSS+ASR source with provenance; harness log recorded in durable verification record.
+
+**Note 2026-11-09:** Dependent on u7 outcome; per nudge podcast-routine-integration the u5 builder is closed, no duplicate worker. Open after T-001 wave (one active wave with review enabled).

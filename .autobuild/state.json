@@ -2,7 +2,7 @@
   "self_permit": null,
   "round": 0,
   "phase": "select",
-  "task": "T-005",
+  "task": "T-001",
   "attempts": 0,
   "owner_name": "claude-autobuild",
   "no_change_rounds": 0,
@@ -125,6 +125,34 @@
         ".routines"
       ],
       "closed_at": "2026-11-09T01:01:48Z"
+    },
+    {
+      "id": "u7",
+      "task": "T-001",
+      "wave": "T-001",
+      "phase": "implement",
+      "state": "running",
+      "accepted": true,
+      "executor_kind": "laptop-native",
+      "executor": "laptop-native",
+      "native_handle": null,
+      "generation": 0,
+      "outcome": null,
+      "quiescent": false,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [
+        "data/episodes/-H0dwGkYmkM/source/podcast",
+        "data/episodes/-H0dwGkYmkM/transcript",
+        "scripts/asr",
+        "docs/source-status.md"
+      ],
+      "attempts": 0,
+      "dispatched_at": null,
+      "deadline": "2026-11-09T02:15:07Z",
+      "notes": "Land raw podcast ASR with provenance; overlapping-window repair/QA of 2205-2251s loop; raw separate; no review claimed",
+      "handle": "ac49e22b5c1182f75"
     }
   ],
   "waves": {
@@ -182,8 +210,10 @@
       "recommend": "Run acquire.py from laptop",
       "round": 0,
       "since": "2026-11-08",
-      "answer": null,
-      "channel": "inline"
+      "answer": "Superseded by user-directed public RSS+audio route (Apple Podcasts 1861462827) with local CPU ASR; no cookie/proxy/paid decision made or needed. YouTube captions remain blocked; podcast-time references used until YouTube alignment measured.",
+      "channel": "inline",
+      "answered_on": "2026-11-09",
+      "answered_via": "nudge:asr-quality-followthrough"
     }
   },
   "findings": {},
