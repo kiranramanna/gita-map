@@ -16,8 +16,11 @@
     "test:e2e": "node site/e2e/smoke.mjs"
   },
   "dependencies": {
+    "3d-force-graph": "1.80.1",
     "cytoscape": "^3.34.4",
-    "mermaid": "^11.17.2"
+    "mermaid": "^11.17.2",
+    "three": "0.186.1",
+    "three-spritetext": "1.10.0"
   },
   "devDependencies": {
     "playwright": "^1.65.0",

@@ -40,17 +40,30 @@
         <div id="reader-content"><p class="loading">Loading…</p></div>
         <section id="map" class="map-section" data-nav-id="map" aria-labelledby="map-title">
           <h2 id="map-title">Map of lectures, shlokas, concepts and references</h2>
-          <p class="map-help">Select a node or an edge to see its evidence. Dashed, hatched items are demo placeholders.</p>
+          <p class="map-help">Select a node or an edge to see its evidence. Dashed, hatched items are demo placeholders. Keyboard users: use the list below the map.</p>
+          <div class="graph-toolbar">
+            <div class="mode-switch" role="group" aria-label="Map view">
+              <button type="button" id="graph-mode-3d" data-mode="3d" aria-pressed="false">3D</button>
+              <button type="button" id="graph-mode-2d" data-mode="2d" aria-pressed="false">2D</button>
+            </div>
+            <div class="type-filters" id="graph-filters" role="group" aria-label="Node types shown in the map"></div>
+            <p class="graph-status" id="graph-status" role="status"></p>
+          </div>
           <div class="map-wrap">
             <div class="graph-frame">
-              <div class="graph-demo-banner" role="note">DEMO STRUCTURE - NOT LECTURE CONTENT · dashed = demo · solid Ch08-10 + Chapter 8 = real metadata</div>
-              <div id="graph" class="graph" role="img" aria-label="Interactive knowledge graph"></div>
+              <div class="graph-demo-banner" role="note">DEMO STRUCTURE - NOT LECTURE CONTENT · dashed outline = demo · solid Ch08-10 + Chapter 8 = real metadata</div>
+              <div id="graph" class="graph" role="img" aria-label="Interactive knowledge graph. A keyboard-accessible list of the same nodes follows the map."></div>
               <div class="graph-legend" id="graph-legend"></div>
             </div>
             <aside id="evidence" class="evidence" aria-live="polite">
               <p class="evidence-empty">Nothing selected. Tap a node or an edge in the map.</p>
             </aside>
           </div>
+          <details class="graph-list" id="graph-list">
+            <summary>Map as a list (keyboard and screen-reader friendly)</summary>
+            <p class="fine">Choose an item to show its evidence and connections. Its connections are buttons in the evidence panel.</p>
+            <div id="graph-list-body"></div>
+          </details>
         </section>
         <footer class="site-footer">
           <p>Gita Map is an unofficial study companion. Lectures by Advaita Retold. Search and the map run entirely in your browser; no hosted AI answering is offered.</p>

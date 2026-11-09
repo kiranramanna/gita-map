@@ -159,11 +159,44 @@ code { font-size: 0.85em; background: var(--paper-2); padding: 0 0.25em; border-
 .graph-demo-banner { position: absolute; z-index: 2; top: 8px; left: 8px; right: 8px; text-align: center; font-family: var(--sans); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.05em; color: #111; padding: 3px 8px; border: 2px solid var(--demo-b); border-radius: 4px; background: repeating-linear-gradient(-45deg, var(--demo-a) 0 10px, #e6b422 10px 20px); pointer-events: none; }
 .graph { height: 520px; width: 100%; }
 .graph-legend { display: flex; flex-wrap: wrap; gap: 4px 12px; padding: 8px 12px; border-top: 1px solid var(--rule); font-family: var(--sans); font-size: 0.72rem; color: var(--ink-soft); }
-.lg { display: inline-flex; align-items: center; gap: 4px; }
+.lg { display: inline-flex; align-items: center; gap: 5px; }
 .lg-meta { color: var(--accent-ink); }
-.sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; border: 1px solid var(--ink); }
-.sw-chapter { background: var(--c-chapter); } .sw-episode { background: var(--c-episode); } .sw-shloka { background: var(--c-shloka); }
-.sw-concept { background: var(--c-concept); } .sw-reference { background: var(--c-reference); }
+.sw { display: inline-block; width: 11px; height: 11px; border-radius: 2px; flex: none; }
+/* Swatch shapes match the node shapes in both views: hexagon, block, diamond, sphere, triangle. */
+.sw-chapter { background: var(--c-chapter); clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0 50%); }
+.sw-episode { background: var(--c-episode); width: 14px; height: 9px; }
+.sw-shloka { background: var(--c-shloka); clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%); }
+.sw-concept { background: var(--c-concept); border-radius: 50%; }
+.sw-reference { background: var(--c-reference); clip-path: polygon(50% 0, 100% 100%, 0 100%); }
+.ln { display: inline-block; width: 16px; height: 0; border-top: 2px solid var(--edge); }
+.ln-inferred { border-top-color: var(--c-concept); }
+.ln-unresolved { border-top-color: var(--warn); }
+.ln-metadata { border-top: 3px solid var(--accent); }
+.lg-hint { font-style: italic; }
+
+/* Map toolbar: 2D/3D switch, type filters, status */
+.graph-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin: 0 0 10px; font-family: var(--sans); font-size: 0.8rem; }
+.mode-switch { display: inline-flex; border: 1px solid var(--accent); border-radius: 18px; overflow: hidden; }
+.mode-switch button { font: inherit; font-weight: 700; min-width: 48px; min-height: 36px; padding: 0 14px; border: 0; background: transparent; color: var(--accent-ink); cursor: pointer; }
+.mode-switch button + button { border-left: 1px solid var(--accent); }
+.mode-switch button[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); }
+.mode-switch button:disabled { opacity: 0.45; cursor: not-allowed; text-decoration: line-through; }
+.type-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.tb-label { color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.68rem; font-weight: 700; }
+.type-chip { display: inline-flex; align-items: center; gap: 5px; min-height: 32px; padding: 0 10px; font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--rule); border-radius: 16px; cursor: pointer; }
+.type-chip[aria-pressed="false"] { color: var(--ink-soft); text-decoration: line-through; opacity: 0.6; }
+.type-chip[aria-pressed="false"] .sw { filter: grayscale(1); }
+.mode-switch button:focus-visible, .type-chip:focus-visible, .graph-list button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.graph-status { flex-basis: 100%; margin: 0; color: var(--ink-soft); font-size: 0.75rem; min-height: 1em; }
+.graph canvas { display: block; }
+.graph-list { margin-top: 14px; border: 1px solid var(--rule); border-radius: 12px; background: var(--panel); padding: 8px 14px; font-family: var(--sans); font-size: 0.86rem; }
+.graph-list summary { cursor: pointer; font-weight: 700; color: var(--indigo); padding: 4px 0; }
+.graph-list .gl-group h4 { display: flex; align-items: center; gap: 6px; margin: 10px 0 4px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-soft); }
+.graph-list ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+.graph-list li { padding: 2px 0; }
+.graph-list button[aria-current="true"] { font-weight: 800; color: var(--accent-ink); }
+/* 3d-force-graph hover tooltip, in the site's colours */
+.graph .float-tooltip-kap { font-family: var(--sans); font-size: 0.78rem; background: var(--panel); color: var(--ink); border: 1px solid var(--rule); border-radius: 6px; padding: 4px 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); }
 .evidence { border: 1px solid var(--rule); border-radius: 14px; background: var(--panel); padding: 14px 16px; font-size: 0.92rem; max-height: 600px; overflow: auto; }
 .evidence h3 { margin: 4px 0; font-size: 1.1rem; }
 .evidence h4 { font-family: var(--sans); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-soft); margin: 14px 0 4px; }

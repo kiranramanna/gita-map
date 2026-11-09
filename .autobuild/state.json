@@ -189,19 +189,25 @@
       "id": "u9",
       "task": "T-002",
       "wave": "T-002",
-      "phase": "implement",
-      "state": "reserved",
+      "phase": "closed",
+      "state": "cancelled",
       "accepted": true,
       "executor_kind": "subagent",
       "executor": null,
       "native_handle": "a7420781c3b4d523a",
       "generation": 0,
-      "outcome": null,
-      "quiescent": false,
+      "outcome": "implemented, unreviewed; check+build OK, builder e2e 123/123 (SwiftShader only)",
+      "quiescent": true,
       "target_repository": "/kiran/home/projects/kr-git/gita-map",
       "repository": null,
       "environment_required": false,
-      "files": [
+      "files": [],
+      "attempts": 0,
+      "dispatched_at": "2026-11-09T07:06:19Z",
+      "deadline": "2026-11-09T08:06:01Z",
+      "notes": "Graph rework: 3d-force-graph (text sprite labels, directional arrows, curvature) w/ 2D fallback",
+      "placement": "laptop-native",
+      "owned_files": [
         "site/src",
         "site/index.html",
         "site/e2e",
@@ -210,11 +216,7 @@
         "package.json",
         "package-lock.json"
       ],
-      "attempts": 0,
-      "dispatched_at": "2026-11-09T07:06:19Z",
-      "deadline": "2026-11-09T08:06:01Z",
-      "notes": "Graph rework: 3d-force-graph (text sprite labels, directional arrows, curvature) w/ 2D fallback",
-      "placement": "laptop-native"
+      "closed_at": "2026-11-09T08:37:02Z"
     }
   ],
   "waves": {

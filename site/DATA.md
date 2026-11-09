@@ -90,4 +90,5 @@ reference `ref-<work>-<locator>`.
 1. Generate real items from `data/episodes/<videoId>/transcript.cleaned.json` and its metadata.
 2. Remove every `demo: true` item and set `dataset: "real"`.
 3. Run `npm run check && npm run build && npm run test:e2e`. The e2e smoke test targets the current
-   demo ids and must be updated alongside the data.
+   demo ids, and the 3D checks expect the current counts (17 nodes, 18 links, 3 concepts). Update
+   them alongside the data.
