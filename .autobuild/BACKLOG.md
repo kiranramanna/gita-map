@@ -78,6 +78,8 @@ Identify newest playlist episode by upload metadata, starting candidate -H0dwGkY
 
 **Note 2026-11-09:** 2026-11-09 u7 dispatched (native): preserve raw ASR + provenance in repo, overlapping re-run of 2205-2251 s loop and flagged spans, QA flags. Escalation (access) resolved: superseded by user-directed RSS+ASR route; no cookie decision. Podcast-time refs only; YouTube offset unmeasured; coverage NOT complete until loop resolved/excluded. Review gate intact (Copilot launch rule still missing, user question pending).
 
+**Note 2026-11-09:** 2026-11-09 u7 implemented, UNREVIEWED (supervisor-verified: raw ASR byte-identical to scratch, sha 377fe8ab...; 48 JSON load; no audio in repo; 2.5 MB). Landed source/podcast, transcript/raw/asr + second-pass checks, alternatives (separate), qa/flags.json, scripts/asr, docs/source-status.md. Coverage NOT complete: 2231-2251 s Sanskrit-laden span unresolved, 2247.9-2250.8 s untranscribed, new gap 1951.67-1996.03 s ('...' in first pass), 6 unresolved repeat runs, 11 unresolved high-temp segs, 81 uncertain-Sanskrit segs. Podcast-time only; YouTube offset null; same-lecture inferred. Builder ran one read-only git check-ignore (noted). Deliverable unticked pending review/human listening.
+
 ### T-002 — Build the static continuous reader and graph experience
 
 **Priority:** P1 · **Owner:** claude-autobuild · **Status:** ▶
