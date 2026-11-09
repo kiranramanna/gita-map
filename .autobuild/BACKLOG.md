@@ -116,6 +116,8 @@ Run build, source/data checks and meaningful browser tests. Prepare Pages workfl
 
 **Note 2026-11-09:** 2026-11-09 user asked to bring up and publish Pages. Probe: POST /repos/kiranramanna/gita-map/pages returned 422 'Your current plan does not support GitHub Pages for this repository' (repo private, user account). Pages NOT enabled. Unblock needs user decision: upgrade plan (paid) or make repo public - both outside current authorization. u8 preparing .github/workflows/pages.yml + docs/deployment.md only.
 
+**Note 2026-11-09:** 2026-11-09 u8 prepared .github/workflows/pages.yml + docs/deployment.md (supervisor-verified: npm ci/check/build pass per builder; assets under /gita-map/; no transcript in dist). Committed locally, NOT pushed: pushing would trigger a run that fails at configure-pages (plan blocks Pages). Waiting on user: public repo / separate public site repo / paid plan.
+
 ### T-005 — Author Gita Map daily-episodes routine files (.routines/)
 
 **Priority:** P1 · **Owner:** claude-autobuild · **Status:** ▶
