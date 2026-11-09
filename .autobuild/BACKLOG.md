@@ -94,6 +94,8 @@ Use README.md and CLAUDE.md requirements. Delegate implementation to native Clau
 
 **Note 2026-11-09:** 2026-11-09 u3 candidate implemented, UNREVIEWED: Vite+Cytoscape+Mermaid under /gita-map/, labeled demo data only. Supervisor re-ran npm ci, npm run check (OK) and npm run build (OK). Builder reports 47/47 Playwright checks (headless Chromium, emulated mobile; no chrome-devtools; no real device/WebKit/Firefox). Known gaps: short-edge tap on mobile, Mermaid recolor on theme toggle, tests tied to demo IDs. Review gate pending: Copilot critic/reviewer launch rule missing (backlog.py launch-rule MISSING; fix needs user yes: init --ack-yolo-by <who> --allow-bridge-launch). Deliverable stays unticked.
 
+**Note 2026-11-09:** 2026-11-09 user request: take inspiration from vasturiano/3d-force-graph examples (html-nodes, text-nodes, directional-links-arrows). u9 dispatched: 3D graph with text labels, directional arrows, curvature, 2D Cytoscape fallback/toggle, WebGL check, reduced-motion. Pages is live (demo data); a rebuilt site will be pushed only after supervisor re-verification.
+
 ### T-003 — Create source-grounded latest-episode study material
 
 **Priority:** P1 · **Owner:** unassigned · **Status:** ☐
