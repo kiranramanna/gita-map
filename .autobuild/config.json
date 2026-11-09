@@ -17,7 +17,10 @@
     "board_to": null
   },
   "approvals": {
-    "worker_yolo": null
+    "worker_yolo": {
+      "acknowledged_by": "kiran",
+      "at": "2026-11-09"
+    }
   },
   "owner_name": "claude-autobuild",
   "priorities": [
