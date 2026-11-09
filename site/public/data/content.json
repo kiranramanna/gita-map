@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "dataset": "mixed-demo",
+  "demoNotice": "DEMO STRUCTURE - NOT LECTURE CONTENT",
+  "datasetNote": "The transcript for the newest episode could not be acquired (see docs/source-status.md). Only the episode metadata below is real. Every item marked DEMO is a structural placeholder that shows how the reader and map will work; it is not a summary of any lecture and contains no teaching, Sanskrit or verse numbers.",
+  "series": {
+    "title": "Shrimad Bhagavad Gita",
+    "channel": "Advaita Retold",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLxtfkA7EyYFPx8caX0IQ3o1TszTBDw8uO"
+  },
+  "chapters": [
+    {
+      "id": "ch-08",
+      "order": 8,
+      "label": "Chapter 8",
+      "demo": false,
+      "basis": "Grouped by the uploader's title prefix 'Ch08'. Not yet confirmed against a transcript."
+    },
+    {
+      "id": "demo-ch-a",
+      "order": 9001,
+      "label": "DEMO Chapter A",
+      "demo": true,
+      "basis": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder chapter used to demonstrate navigation."
+    },
+    {
+      "id": "demo-ch-b",
+      "order": 9002,
+      "label": "DEMO Chapter B",
+      "demo": true,
+      "basis": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder chapter used to demonstrate navigation."
+    }
+  ],
+  "shlokas": [
+    { "id": "demo-shloka-a1", "chapterId": "demo-ch-a", "order": 1, "label": "DEMO Shloka A-1", "demo": true },
+    { "id": "demo-shloka-a2", "chapterId": "demo-ch-a", "order": 2, "label": "DEMO Shloka A-2", "demo": true },
+    { "id": "demo-shloka-a3", "chapterId": "demo-ch-a", "order": 3, "label": "DEMO Shloka A-3", "demo": true },
+    { "id": "demo-shloka-b1", "chapterId": "demo-ch-b", "order": 1, "label": "DEMO Shloka B-1", "demo": true },
+    { "id": "demo-shloka-b2", "chapterId": "demo-ch-b", "order": 2, "label": "DEMO Shloka B-2", "demo": true }
+  ],
+  "concepts": [
+    { "id": "demo-concept-1", "label": "DEMO Concept 1", "demo": true },
+    { "id": "demo-concept-2", "label": "DEMO Concept 2", "demo": true },
+    { "id": "demo-concept-3", "label": "DEMO Concept 3", "demo": true }
+  ],
+  "references": [
+    { "id": "demo-ref-1", "label": "DEMO Reference 1 (placeholder scripture reference)", "demo": true },
+    { "id": "demo-ref-2", "label": "DEMO Reference 2 (placeholder scripture reference)", "demo": true }
+  ],
+  "episodes": [
+    {
+      "id": "ep--H0dwGkYmkM",
+      "demo": false,
+      "videoId": "-H0dwGkYmkM",
+      "url": "https://www.youtube.com/watch?v=-H0dwGkYmkM",
+      "title": "Ch08-10-Shrimad Bhagavad Gita",
+      "channel": "Advaita Retold",
+      "publishedAt": "2026-11-07T00:25:16Z",
+      "durationS": 4158,
+      "chapterId": "ch-08",
+      "orderInChapter": 10,
+      "orderBasis": "Episode number 10 parsed from the uploader's title 'Ch08-10'.",
+      "uploaderClaim": {
+        "text": "Shrimad Bhagavad Gita Chapter 08 verses 20 & 21",
+        "source": "YouTube video description written by the uploader (playlist Atom feed media:description), quoted verbatim",
+        "verified": false
+      },
+      "transcript": {
+        "status": "blocked",
+        "note": "Captions could not be downloaded from this host (YouTube sign-in/bot check). No summary, shloka mapping or diagram is shown until a real transcript is acquired.",
+        "statusDoc": "docs/source-status.md"
+      },
+      "shlokaIds": [],
+      "segments": [],
+      "diagram": null
+    },
+    {
+      "id": "demo-ep-a1",
+      "demo": true,
+      "videoId": null,
+      "url": null,
+      "title": "DEMO Episode A-1",
+      "chapterId": "demo-ch-a",
+      "orderInChapter": 1,
+      "transcript": { "status": "demo", "note": "DEMO STRUCTURE - NOT LECTURE CONTENT." },
+      "shlokaIds": ["demo-shloka-a1", "demo-shloka-a2"],
+      "segments": [
+        {
+          "id": "demo-ep-a1--intro",
+          "shlokaId": null,
+          "heading": "DEMO opening block",
+          "blocks": [
+            { "kind": "paraphrase", "text": "DEMO placeholder. A close paraphrase of the teacher's opening framing will appear here, using the teacher's own vocabulary.", "evidenceIds": ["demo-ev-a1-1"] },
+            { "kind": "quote", "text": "DEMO placeholder for a short direct quote from the transcript.", "evidenceIds": ["demo-ev-a1-1"] }
+          ]
+        },
+        {
+          "id": "demo-ep-a1--demo-shloka-a1",
+          "shlokaId": "demo-shloka-a1",
+          "heading": "DEMO Shloka A-1",
+          "blocks": [
+            { "kind": "paraphrase", "text": "DEMO placeholder. The teacher's explanation of this verse, step by step, in the order it was given.", "evidenceIds": ["demo-ev-a1-2"] },
+            { "kind": "inferred", "text": "DEMO placeholder for a connection the summary infers but the teacher did not state.", "evidenceIds": ["demo-ev-a1-2"] }
+          ]
+        },
+        {
+          "id": "demo-ep-a1--demo-shloka-a2",
+          "shlokaId": "demo-shloka-a2",
+          "heading": "DEMO Shloka A-2",
+          "blocks": [
+            { "kind": "paraphrase", "text": "DEMO placeholder. First discussion of this verse; the same verse is taken up again in DEMO Episode A-2.", "evidenceIds": ["demo-ev-a1-3"] },
+            { "kind": "unresolved", "text": "DEMO placeholder for a reference that could not be identified from the transcript and is kept open for clarification.", "evidenceIds": ["demo-ev-a1-3"] }
+          ]
+        }
+      ],
+      "diagram": {
+        "demo": true,
+        "mermaid": "flowchart TD\n  d0[\"DEMO STRUCTURE - NOT LECTURE CONTENT\"]:::demo\n  a[\"DEMO block 1: opening\"] --> b[\"DEMO block 2: Shloka A-1\"]\n  b --> c[\"DEMO block 3: Shloka A-2\"]\n  b -. inferred .-> c\n  c --> u[\"DEMO unresolved reference\"]\n  classDef demo fill:#f4c430,stroke:#222,color:#111"
+      }
+    },
+    {
+      "id": "demo-ep-a2",
+      "demo": true,
+      "videoId": null,
+      "url": null,
+      "title": "DEMO Episode A-2",
+      "chapterId": "demo-ch-a",
+      "orderInChapter": 2,
+      "transcript": { "status": "demo", "note": "DEMO STRUCTURE - NOT LECTURE CONTENT." },
+      "shlokaIds": ["demo-shloka-a2", "demo-shloka-a3"],
+      "segments": [
+        {
+          "id": "demo-ep-a2--demo-shloka-a2",
+          "shlokaId": "demo-shloka-a2",
+          "heading": "DEMO Shloka A-2 (revisited)",
+          "blocks": [
+            { "kind": "paraphrase", "text": "DEMO placeholder. A second episode returning to a verse already discussed, to show that one shloka can appear in many episodes.", "evidenceIds": ["demo-ev-a2-1"] }
+          ]
+        },
+        {
+          "id": "demo-ep-a2--demo-shloka-a3",
+          "shlokaId": "demo-shloka-a3",
+          "heading": "DEMO Shloka A-3",
+          "blocks": [
+            { "kind": "paraphrase", "text": "DEMO placeholder. The teacher's reasoning for this verse.", "evidenceIds": ["demo-ev-a2-2"] },
+            { "kind": "inferred", "text": "DEMO placeholder for an inferred link to DEMO Concept 2.", "evidenceIds": ["demo-ev-a2-2"] }
+          ]
+        }
+      ],
+      "diagram": {
+        "demo": true,
+        "mermaid": "flowchart LR\n  d0[\"DEMO STRUCTURE - NOT LECTURE CONTENT\"]:::demo\n  a[\"DEMO recap of Shloka A-2\"] --> b[\"DEMO block: Shloka A-3\"]\n  b --> c[\"DEMO conclusion block\"]\n  classDef demo fill:#f4c430,stroke:#222,color:#111"
+      }
+    },
+    {
+      "id": "demo-ep-b1",
+      "demo": true,
+      "videoId": null,
+      "url": null,
+      "title": "DEMO Episode B-1",
+      "chapterId": "demo-ch-b",
+      "orderInChapter": 1,
+      "transcript": { "status": "demo", "note": "DEMO STRUCTURE - NOT LECTURE CONTENT." },
+      "shlokaIds": ["demo-shloka-b1", "demo-shloka-b2"],
+      "segments": [
+        {
+          "id": "demo-ep-b1--demo-shloka-b1",
+          "shlokaId": "demo-shloka-b1",
+          "heading": "DEMO Shloka B-1",
+          "blocks": [
+            { "kind": "paraphrase", "text": "DEMO placeholder. Explanation of this verse, with a back-reference to DEMO Shloka A-2.", "evidenceIds": ["demo-ev-b1-1"] }
+          ]
+        },
+        {
+          "id": "demo-ep-b1--demo-shloka-b2",
+          "shlokaId": "demo-shloka-b2",
+          "heading": "DEMO Shloka B-2",
+          "blocks": [
+            { "kind": "quote", "text": "DEMO placeholder for a short direct quote.", "evidenceIds": ["demo-ev-b1-2"] },
+            { "kind": "unresolved", "text": "DEMO placeholder for an unclear scripture reference awaiting clarification.", "evidenceIds": ["demo-ev-b1-2"] }
+          ]
+        }
+      ],
+      "diagram": {
+        "demo": true,
+        "mermaid": "flowchart TD\n  d0[\"DEMO STRUCTURE - NOT LECTURE CONTENT\"]:::demo\n  a[\"DEMO block: Shloka B-1\"] --> b[\"DEMO block: Shloka B-2\"]\n  a -. back-reference .-> x[\"DEMO Shloka A-2\"]\n  b --> u[\"DEMO unresolved reference\"]\n  classDef demo fill:#f4c430,stroke:#222,color:#111"
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "id": "ev-meta--H0dwGkYmkM-title",
+      "demo": false,
+      "episodeId": "ep--H0dwGkYmkM",
+      "videoId": "-H0dwGkYmkM",
+      "startS": 0,
+      "kind": "uploader-metadata",
+      "excerpt": "Ch08-10-Shrimad Bhagavad Gita",
+      "source": "Video title set by the uploader (playlist Atom feed, oEmbed). Not transcript speech."
+    },
+    {
+      "id": "ev-meta--H0dwGkYmkM-description",
+      "demo": false,
+      "episodeId": "ep--H0dwGkYmkM",
+      "videoId": "-H0dwGkYmkM",
+      "startS": 0,
+      "kind": "uploader-metadata",
+      "excerpt": "Shrimad Bhagavad Gita Chapter 08 verses 20 & 21",
+      "source": "Video description written by the uploader, quoted verbatim. Unverified against the lecture."
+    },
+    { "id": "demo-ev-a1-1", "demo": true, "episodeId": "demo-ep-a1", "videoId": null, "startS": null, "kind": "placeholder", "excerpt": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder where a timestamped transcript excerpt will appear.", "source": "DEMO" },
+    { "id": "demo-ev-a1-2", "demo": true, "episodeId": "demo-ep-a1", "videoId": null, "startS": null, "kind": "placeholder", "excerpt": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder transcript excerpt.", "source": "DEMO" },
+    { "id": "demo-ev-a1-3", "demo": true, "episodeId": "demo-ep-a1", "videoId": null, "startS": null, "kind": "placeholder", "excerpt": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder transcript excerpt.", "source": "DEMO" },
+    { "id": "demo-ev-a2-1", "demo": true, "episodeId": "demo-ep-a2", "videoId": null, "startS": null, "kind": "placeholder", "excerpt": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder transcript excerpt.", "source": "DEMO" },
+    { "id": "demo-ev-a2-2", "demo": true, "episodeId": "demo-ep-a2", "videoId": null, "startS": null, "kind": "placeholder", "excerpt": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder transcript excerpt.", "source": "DEMO" },
+    { "id": "demo-ev-b1-1", "demo": true, "episodeId": "demo-ep-b1", "videoId": null, "startS": null, "kind": "placeholder", "excerpt": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder transcript excerpt.", "source": "DEMO" },
+    { "id": "demo-ev-b1-2", "demo": true, "episodeId": "demo-ep-b1", "videoId": null, "startS": null, "kind": "placeholder", "excerpt": "DEMO STRUCTURE - NOT LECTURE CONTENT. Placeholder transcript excerpt.", "source": "DEMO" }
+  ],
+  "edges": [
+    { "id": "e-ep--H0dwGkYmkM-in-ch-08", "source": "ep--H0dwGkYmkM", "target": "ch-08", "kind": "in-chapter", "status": "metadata", "demo": false, "evidenceIds": ["ev-meta--H0dwGkYmkM-title"] },
+    { "id": "demo-e-a1-in-ch", "source": "demo-ep-a1", "target": "demo-ch-a", "kind": "in-chapter", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-a1-1"] },
+    { "id": "demo-e-a2-in-ch", "source": "demo-ep-a2", "target": "demo-ch-a", "kind": "in-chapter", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-a2-1"] },
+    { "id": "demo-e-b1-in-ch", "source": "demo-ep-b1", "target": "demo-ch-b", "kind": "in-chapter", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-b1-1"] },
+    { "id": "demo-e-a1-s-a1", "source": "demo-ep-a1", "target": "demo-shloka-a1", "kind": "discusses", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-a1-2"] },
+    { "id": "demo-e-a1-s-a2", "source": "demo-ep-a1", "target": "demo-shloka-a2", "kind": "discusses", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-a1-3"] },
+    { "id": "demo-e-a2-s-a2", "source": "demo-ep-a2", "target": "demo-shloka-a2", "kind": "discusses", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-a2-1"] },
+    { "id": "demo-e-a2-s-a3", "source": "demo-ep-a2", "target": "demo-shloka-a3", "kind": "discusses", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-a2-2"] },
+    { "id": "demo-e-b1-s-b1", "source": "demo-ep-b1", "target": "demo-shloka-b1", "kind": "discusses", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-b1-1"] },
+    { "id": "demo-e-b1-s-b2", "source": "demo-ep-b1", "target": "demo-shloka-b2", "kind": "discusses", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-b1-2"] },
+    { "id": "demo-e-s-a1-c1", "source": "demo-shloka-a1", "target": "demo-concept-1", "kind": "teaches-concept", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-a1-2"] },
+    { "id": "demo-e-s-a2-c1", "source": "demo-shloka-a2", "target": "demo-concept-1", "kind": "teaches-concept", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-a2-1"] },
+    { "id": "demo-e-s-a3-c2", "source": "demo-shloka-a3", "target": "demo-concept-2", "kind": "teaches-concept", "status": "inferred", "demo": true, "evidenceIds": ["demo-ev-a2-2"] },
+    { "id": "demo-e-s-b1-c2", "source": "demo-shloka-b1", "target": "demo-concept-2", "kind": "teaches-concept", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-b1-1"] },
+    { "id": "demo-e-c1-c3", "source": "demo-concept-1", "target": "demo-concept-3", "kind": "related-concept", "status": "inferred", "demo": true, "evidenceIds": ["demo-ev-a1-2"] },
+    { "id": "demo-e-b1-back-s-a2", "source": "demo-shloka-b1", "target": "demo-shloka-a2", "kind": "refers-back", "status": "stated", "demo": true, "evidenceIds": ["demo-ev-b1-1"] },
+    { "id": "demo-e-s-a2-r1", "source": "demo-shloka-a2", "target": "demo-ref-1", "kind": "cites", "status": "unresolved", "demo": true, "evidenceIds": ["demo-ev-a1-3"] },
+    { "id": "demo-e-s-b2-r2", "source": "demo-shloka-b2", "target": "demo-ref-2", "kind": "cites", "status": "unresolved", "demo": true, "evidenceIds": ["demo-ev-b1-2"] }
+  ]
+}

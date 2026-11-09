@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Gita Map</title>
+    <meta name="description" content="A connected study companion for the Advaita Retold Bhagavad Gita lecture series." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <a class="skip-link" href="#reader">Skip to reader</a>
+    <header class="topbar">
+      <button class="rail-toggle" type="button" aria-controls="rail" aria-expanded="false" aria-label="Open navigation">
+        <span aria-hidden="true">&#9776;</span>
+      </button>
+      <a class="brand" href="#top">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-name">Gita Map</span>
+      </a>
+      <div class="search" role="search">
+        <label class="visually-hidden" for="search-input">Search the reader and map</label>
+        <input id="search-input" type="search" placeholder="Search episodes, shlokas, concepts  ( / )" autocomplete="off" aria-controls="search-results" aria-expanded="false" />
+        <ul id="search-results" class="search-results" role="listbox" hidden></ul>
+      </div>
+      <nav class="top-links" aria-label="Sections">
+        <a href="#map">Map</a>
+        <button class="theme-toggle" type="button" aria-label="Toggle colour theme">&#9680;</button>
+      </nav>
+    </header>
+    <div class="scrim" hidden></div>
+    <div class="layout">
+      <aside id="rail" class="rail" aria-label="Chapter, episode and shloka navigation">
+        <div class="rail-head">Contents <span class="rail-sub">scriptural order</span></div>
+        <nav id="rail-nav"></nav>
+      </aside>
+      <main id="reader" class="reader" tabindex="-1">
+        <div id="top"></div>
+        <div id="dataset-notice" class="dataset-notice"></div>
+        <div id="reader-content"><p class="loading">Loading…</p></div>
+        <section id="map" class="map-section" data-nav-id="map" aria-labelledby="map-title">
+          <h2 id="map-title">Map of lectures, shlokas, concepts and references</h2>
+          <p class="map-help">Select a node or an edge to see its evidence. Dashed, hatched items are demo placeholders.</p>
+          <div class="map-wrap">
+            <div class="graph-frame">
+              <div class="graph-demo-banner" role="note">DEMO STRUCTURE - NOT LECTURE CONTENT · dashed = demo · solid Ch08-10 + Chapter 8 = real metadata</div>
+              <div id="graph" class="graph" role="img" aria-label="Interactive knowledge graph"></div>
+              <div class="graph-legend" id="graph-legend"></div>
+            </div>
+            <aside id="evidence" class="evidence" aria-live="polite">
+              <p class="evidence-empty">Nothing selected. Tap a node or an edge in the map.</p>
+            </aside>
+          </div>
+        </section>
+        <footer class="site-footer">
+          <p>Gita Map is an unofficial study companion. Lectures by Advaita Retold. Search and the map run entirely in your browser; no hosted AI answering is offered.</p>
+        </footer>
+      </main>
+    </div>
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
