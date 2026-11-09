@@ -72,6 +72,8 @@ Identify newest playlist episode by upload metadata, starting candidate -H0dwGkY
 
 **Note 2026-11-09:** 2026-11-09T00:46Z anonymous youtube-transcript-api 1.2.5 (latest on PyPI, py3.12, isolated venv, no cookies/proxy) YouTubeTranscriptApi().list('-H0dwGkYmkM') failed at LIST stage: youtube_transcript_api._errors.RequestBlocked ('YouTube is blocking requests from your IP ... cloud provider'). No tracks listed, fetch never ran, no transcript. Confirms host-IP block; library workarounds (proxies/cookies) not authorized. Source-route question remains open.
 
+**Note 2026-11-09:** 2026-11-09 user source clarification: Apple Podcasts id 1861462827 -> RSS https://anchor.fm/s/10c696e48/podcast/rss (182 eps; newest Ch08-10 published 2026-11-07 00:01:06 GMT; enclosure MP3 anonymously reachable; no podcast:transcript for newest two). Alternative route: podcast audio + local CPU ASR (no cookies/paid/shared GPU). Evaluation dispatched as scratch-only read experiment (no repo writes) while T-005 holds the active wave; repo writes follow in a T-001 unit after T-005's wave. Cookie authorization no longer the only route.
+
 ### T-002 — Build the static continuous reader and graph experience
 
 **Priority:** P1 · **Owner:** claude-autobuild · **Status:** ▶
@@ -115,6 +117,8 @@ Run build, source/data checks and meaningful browser tests. Prepare Pages workfl
 Per daily-routine-request.md (user requirement 2026-11-08). Model on thinkit/.routines (read-only reference): README, shared/{policy,voice-rules,source-policy}, daily-episodes/{README,trigger,config.yml,state.json} plus source/summary/diagram/graph sub-prompts. Adapt content paths to the chosen static framework. Timezone assumption: America/Los_Angeles 06:00 (DST-correct; any UTC fallback must disclose seasonal shift). Discovery by stable YouTube video ID with permanent dedup, per-episode resumable stage state, run lock against overlap, documented initial watermark (start from newest episode, no historical backlog publish) and backfill policy. Missing transcript = retryable recorded source failure, never a published empty/fabricated lesson. Publishing: validate, build, scoped commit, non-force push to main, deploy via verified Pages workflow; record publication only on real push/deploy outcome. Runs audit log kept.
 
 - [ ] **Deliverable:** .routines/daily-episodes/ files exist; dry-run, repeated-run idempotence, failed-transcript and recovery runs demonstrated with recorded evidence; files alone are NOT counted as activation.
+
+**Note 2026-11-09:** 2026-11-09 u5 candidate implemented, UNREVIEWED. Supervisor re-ran harness (see above). Files only: NOT an active schedule (schedule.activated=false). Harness covers bookkeeping with synthetic fixtures; not real YouTube/git push/Pages/LLM quality. Open: review gate vs unreviewed publishing (user decision before T-006), Pages workflow (T-004, should ignore .routines/**), remote env YouTube access, routine git identity. Deliverable stays unticked pending review.
 
 ### T-006 — Activate and verify Gita Map 06:00 America/Los_Angeles remote schedule
 

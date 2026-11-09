@@ -102,27 +102,29 @@
       "id": "u5",
       "task": "T-005",
       "wave": "T-005",
-      "phase": "implement",
-      "state": "running",
+      "phase": "closed",
+      "state": "cancelled",
       "accepted": true,
       "executor_kind": "subagent",
       "executor": null,
       "native_handle": "a9054d23179f71f86",
       "generation": 0,
-      "outcome": null,
-      "quiescent": false,
+      "outcome": "implemented_unreviewed",
+      "quiescent": true,
       "target_repository": "/kiran/home/projects/kr-git/gita-map",
       "repository": null,
       "environment_required": false,
-      "files": [
-        ".routines"
-      ],
+      "files": [],
       "attempts": 0,
       "dispatched_at": "2026-11-09T00:46:04Z",
       "deadline": "2026-11-09T01:31:04Z",
       "notes": "Daily-episodes routine files + local dry-run harness",
       "placement": "laptop-native",
-      "handle": "a9054d23179f71f86"
+      "handle": "a9054d23179f71f86",
+      "owned_files": [
+        ".routines"
+      ],
+      "closed_at": "2026-11-09T01:01:48Z"
     }
   ],
   "waves": {
