@@ -1,0 +1,439 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-963.55-1001.89-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 963.55,
+   "dur_s": 38.34,
+   "sample_start": 15416800,
+   "sample_end": 16030240,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-963.55-1001.89-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "963.55",
+   "--dur",
+   "38.34",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-963.55-1001.89-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:29:37.296197+00:00",
+  "run_finished_utc": "2026-11-09T01:30:32.478841+00:00",
+  "model_load_s": 6.5,
+  "transcribe_wall_s": 55.18,
+  "audio_dur_s": 38.34,
+  "realtime_factor": 1.4392
+ },
+ "language": "en",
+ "language_probability": 0.992052435874939,
+ "duration": 38.34,
+ "duration_after_vad": 38.34,
+ "segments": [
+  {
+   "id": 1,
+   "start": 963.55,
+   "end": 978.29,
+   "text": " But the Bhava is the most ontologically neutral term to go with that which is, being as such, etc.",
+   "avg_logprob": -0.15826525186237536,
+   "no_speech_prob": 0.0002100081619573757,
+   "compression_ratio": 1.4093959731543624,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 963.55,
+     "end": 963.63,
+     "word": " But",
+     "probability": 0.7889
+    },
+    {
+     "start": 963.63,
+     "end": 963.81,
+     "word": " the",
+     "probability": 0.9682
+    },
+    {
+     "start": 963.81,
+     "end": 964.11,
+     "word": " Bhava",
+     "probability": 0.5693
+    },
+    {
+     "start": 964.11,
+     "end": 964.35,
+     "word": " is",
+     "probability": 0.9929
+    },
+    {
+     "start": 964.35,
+     "end": 964.53,
+     "word": " the",
+     "probability": 0.9964
+    },
+    {
+     "start": 964.53,
+     "end": 964.93,
+     "word": " most",
+     "probability": 0.9989
+    },
+    {
+     "start": 964.93,
+     "end": 965.81,
+     "word": " ontologically",
+     "probability": 0.9927
+    },
+    {
+     "start": 965.81,
+     "end": 966.47,
+     "word": " neutral",
+     "probability": 0.9917
+    },
+    {
+     "start": 966.47,
+     "end": 967.19,
+     "word": " term",
+     "probability": 0.9982
+    },
+    {
+     "start": 967.19,
+     "end": 970.83,
+     "word": " to",
+     "probability": 0.8378
+    },
+    {
+     "start": 970.83,
+     "end": 971.33,
+     "word": " go",
+     "probability": 0.9988
+    },
+    {
+     "start": 971.33,
+     "end": 971.65,
+     "word": " with",
+     "probability": 0.9993
+    },
+    {
+     "start": 971.65,
+     "end": 972.23,
+     "word": " that",
+     "probability": 0.938
+    },
+    {
+     "start": 972.23,
+     "end": 972.61,
+     "word": " which",
+     "probability": 0.9864
+    },
+    {
+     "start": 972.61,
+     "end": 972.89,
+     "word": " is,",
+     "probability": 0.9932
+    },
+    {
+     "start": 973.13,
+     "end": 975.61,
+     "word": " being",
+     "probability": 0.9875
+    },
+    {
+     "start": 975.61,
+     "end": 976.01,
+     "word": " as",
+     "probability": 0.9945
+    },
+    {
+     "start": 976.01,
+     "end": 976.37,
+     "word": " such,",
+     "probability": 0.9989
+    },
+    {
+     "start": 976.57,
+     "end": 978.29,
+     "word": " etc.",
+     "probability": 0.9869
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 978.55,
+   "end": 986.03,
+   "text": " It does not carry any relational connotation of Atman or the knowledge of Brahman.",
+   "avg_logprob": -0.15826525186237536,
+   "no_speech_prob": 0.0002100081619573757,
+   "compression_ratio": 1.4093959731543624,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 978.55,
+     "end": 979.07,
+     "word": " It",
+     "probability": 0.9948
+    },
+    {
+     "start": 979.07,
+     "end": 979.21,
+     "word": " does",
+     "probability": 0.9987
+    },
+    {
+     "start": 979.21,
+     "end": 979.51,
+     "word": " not",
+     "probability": 0.9994
+    },
+    {
+     "start": 979.51,
+     "end": 979.77,
+     "word": " carry",
+     "probability": 0.9997
+    },
+    {
+     "start": 979.77,
+     "end": 980.13,
+     "word": " any",
+     "probability": 0.9995
+    },
+    {
+     "start": 980.13,
+     "end": 980.79,
+     "word": " relational",
+     "probability": 0.9992
+    },
+    {
+     "start": 980.79,
+     "end": 981.57,
+     "word": " connotation",
+     "probability": 0.9993
+    },
+    {
+     "start": 981.57,
+     "end": 982.13,
+     "word": " of",
+     "probability": 0.998
+    },
+    {
+     "start": 982.13,
+     "end": 982.61,
+     "word": " Atman",
+     "probability": 0.967
+    },
+    {
+     "start": 982.61,
+     "end": 983.69,
+     "word": " or",
+     "probability": 0.9793
+    },
+    {
+     "start": 983.69,
+     "end": 984.05,
+     "word": " the",
+     "probability": 0.9992
+    },
+    {
+     "start": 984.05,
+     "end": 984.55,
+     "word": " knowledge",
+     "probability": 0.999
+    },
+    {
+     "start": 984.55,
+     "end": 985.45,
+     "word": " of",
+     "probability": 0.9993
+    },
+    {
+     "start": 985.45,
+     "end": 986.03,
+     "word": " Brahman.",
+     "probability": 0.9982
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 987.05,
+   "end": 989.49,
+   "text": " It simply points to what is.",
+   "avg_logprob": -0.15826525186237536,
+   "no_speech_prob": 0.0002100081619573757,
+   "compression_ratio": 1.4093959731543624,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 986.72,
+     "end": 987.13,
+     "word": " It",
+     "probability": 0.9978
+    },
+    {
+     "start": 987.13,
+     "end": 987.67,
+     "word": " simply",
+     "probability": 0.9995
+    },
+    {
+     "start": 987.67,
+     "end": 988.29,
+     "word": " points",
+     "probability": 0.9993
+    },
+    {
+     "start": 988.29,
+     "end": 988.59,
+     "word": " to",
+     "probability": 0.9996
+    },
+    {
+     "start": 988.59,
+     "end": 989.01,
+     "word": " what",
+     "probability": 0.9645
+    },
+    {
+     "start": 989.01,
+     "end": 989.49,
+     "word": " is.",
+     "probability": 0.9954
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 989.49,
+   "end": 1001.71,
+   "text": " is. That word bhava indicates being, the bare satta, existence, that is indicated.",
+   "avg_logprob": -0.40191260887228925,
+   "no_speech_prob": 0.029257923364639282,
+   "compression_ratio": 1.1081081081081081,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 989.49,
+     "end": 989.79,
+     "word": " is.",
+     "probability": 0.2991
+    },
+    {
+     "start": 991.43,
+     "end": 992.11,
+     "word": " That",
+     "probability": 0.7611
+    },
+    {
+     "start": 992.11,
+     "end": 992.39,
+     "word": " word",
+     "probability": 0.9765
+    },
+    {
+     "start": 992.39,
+     "end": 992.89,
+     "word": " bhava",
+     "probability": 0.7485
+    },
+    {
+     "start": 992.89,
+     "end": 993.97,
+     "word": " indicates",
+     "probability": 0.9427
+    },
+    {
+     "start": 993.97,
+     "end": 996.29,
+     "word": " being,",
+     "probability": 0.9475
+    },
+    {
+     "start": 996.51,
+     "end": 997.55,
+     "word": " the",
+     "probability": 0.9831
+    },
+    {
+     "start": 997.55,
+     "end": 997.89,
+     "word": " bare",
+     "probability": 0.8268
+    },
+    {
+     "start": 997.89,
+     "end": 998.55,
+     "word": " satta,",
+     "probability": 0.8847
+    },
+    {
+     "start": 998.63,
+     "end": 999.57,
+     "word": " existence,",
+     "probability": 0.9843
+    },
+    {
+     "start": 999.81,
+     "end": 1001.13,
+     "word": " that",
+     "probability": 0.9946
+    },
+    {
+     "start": 1001.13,
+     "end": 1001.37,
+     "word": " is",
+     "probability": 0.9769
+    },
+    {
+     "start": 1001.37,
+     "end": 1001.71,
+     "word": " indicated.",
+     "probability": 0.3265
+    }
+   ]
+  }
+ ]
+}

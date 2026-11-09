@@ -1,0 +1,4861 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified",
+  "note": "Machine ASR output, not reviewed or corrected. Sanskrit terms and verse text are likely mis-transcribed.",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 2890.75,
+   "dur_s": 415.5
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": true,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64"
+  },
+  "run_started_utc": "2026-11-09T01:00:36.777480+00:00",
+  "run_finished_utc": "2026-11-09T01:12:53.234130+00:00",
+  "model_load_s": 8.59,
+  "transcribe_wall_s": 736.45,
+  "audio_dur_s": 415.5,
+  "realtime_factor": 1.7724
+ },
+ "language": "en",
+ "language_probability": 0.8579719662666321,
+ "all_language_probs_top5": [
+  [
+   "en",
+   0.8579719662666321
+  ],
+  [
+   "te",
+   0.08593963831663132
+  ],
+  [
+   "ta",
+   0.02575058676302433
+  ],
+  [
+   "kn",
+   0.013103049248456955
+  ],
+  [
+   "la",
+   0.004138357937335968
+  ]
+ ],
+ "duration": 415.5,
+ "duration_after_vad": 415.5,
+ "segments": [
+  {
+   "id": 1,
+   "start": 2890.75,
+   "end": 2899.69,
+   "text": " Iti uktaha means avyakta akshara iti uktaha vedanta eshu avyakta shabda vachya paramatma akshara iti uchyate.",
+   "avg_logprob": -0.22446609429410985,
+   "no_speech_prob": 0.038603637367486954,
+   "compression_ratio": 1.7251461988304093,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2890.75,
+     "end": 2891.49,
+     "word": " Iti",
+     "probability": 0.8242
+    },
+    {
+     "start": 2891.49,
+     "end": 2891.87,
+     "word": " uktaha",
+     "probability": 0.7812
+    },
+    {
+     "start": 2891.87,
+     "end": 2892.23,
+     "word": " means",
+     "probability": 0.9961
+    },
+    {
+     "start": 2892.23,
+     "end": 2894.23,
+     "word": " avyakta",
+     "probability": 0.8508
+    },
+    {
+     "start": 2894.23,
+     "end": 2894.63,
+     "word": " akshara",
+     "probability": 0.9782
+    },
+    {
+     "start": 2894.63,
+     "end": 2894.89,
+     "word": " iti",
+     "probability": 0.9897
+    },
+    {
+     "start": 2894.89,
+     "end": 2895.19,
+     "word": " uktaha",
+     "probability": 0.9981
+    },
+    {
+     "start": 2895.19,
+     "end": 2895.75,
+     "word": " vedanta",
+     "probability": 0.5425
+    },
+    {
+     "start": 2895.75,
+     "end": 2896.25,
+     "word": " eshu",
+     "probability": 0.8335
+    },
+    {
+     "start": 2896.25,
+     "end": 2896.83,
+     "word": " avyakta",
+     "probability": 0.998
+    },
+    {
+     "start": 2896.83,
+     "end": 2897.31,
+     "word": " shabda",
+     "probability": 0.7996
+    },
+    {
+     "start": 2897.31,
+     "end": 2897.73,
+     "word": " vachya",
+     "probability": 0.8804
+    },
+    {
+     "start": 2897.73,
+     "end": 2898.59,
+     "word": " paramatma",
+     "probability": 0.9868
+    },
+    {
+     "start": 2898.59,
+     "end": 2898.97,
+     "word": " akshara",
+     "probability": 0.999
+    },
+    {
+     "start": 2898.97,
+     "end": 2899.33,
+     "word": " iti",
+     "probability": 0.9996
+    },
+    {
+     "start": 2899.33,
+     "end": 2899.69,
+     "word": " uchyate.",
+     "probability": 0.8586
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 2901.23,
+   "end": 2908.57,
+   "text": " The Paramatman designated by the word avyakta in the Vedanta's Upanishad is called Akshara.",
+   "avg_logprob": -0.22446609429410985,
+   "no_speech_prob": 0.038603637367486954,
+   "compression_ratio": 1.7251461988304093,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2900.81,
+     "end": 2901.29,
+     "word": " The",
+     "probability": 0.9987
+    },
+    {
+     "start": 2901.29,
+     "end": 2901.95,
+     "word": " Paramatman",
+     "probability": 0.8527
+    },
+    {
+     "start": 2901.95,
+     "end": 2902.29,
+     "word": " designated",
+     "probability": 0.9971
+    },
+    {
+     "start": 2902.29,
+     "end": 2902.95,
+     "word": " by",
+     "probability": 0.9999
+    },
+    {
+     "start": 2902.95,
+     "end": 2903.11,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 2903.11,
+     "end": 2903.45,
+     "word": " word",
+     "probability": 0.9998
+    },
+    {
+     "start": 2903.45,
+     "end": 2903.95,
+     "word": " avyakta",
+     "probability": 0.9922
+    },
+    {
+     "start": 2903.95,
+     "end": 2904.19,
+     "word": " in",
+     "probability": 0.9998
+    },
+    {
+     "start": 2904.19,
+     "end": 2904.35,
+     "word": " the",
+     "probability": 0.988
+    },
+    {
+     "start": 2904.35,
+     "end": 2906.03,
+     "word": " Vedanta's",
+     "probability": 0.8269
+    },
+    {
+     "start": 2906.03,
+     "end": 2906.83,
+     "word": " Upanishad",
+     "probability": 0.9511
+    },
+    {
+     "start": 2906.83,
+     "end": 2907.67,
+     "word": " is",
+     "probability": 0.9977
+    },
+    {
+     "start": 2907.67,
+     "end": 2908.09,
+     "word": " called",
+     "probability": 1.0
+    },
+    {
+     "start": 2908.09,
+     "end": 2908.57,
+     "word": " Akshara.",
+     "probability": 0.8791
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 2909.95,
+   "end": 2914.29,
+   "text": " The Upanishad precedents are very explicit.",
+   "avg_logprob": -0.22446609429410985,
+   "no_speech_prob": 0.038603637367486954,
+   "compression_ratio": 1.7251461988304093,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2909.95,
+     "end": 2910.91,
+     "word": " The",
+     "probability": 0.9996
+    },
+    {
+     "start": 2910.91,
+     "end": 2911.47,
+     "word": " Upanishad",
+     "probability": 0.9986
+    },
+    {
+     "start": 2911.47,
+     "end": 2912.65,
+     "word": " precedents",
+     "probability": 0.9956
+    },
+    {
+     "start": 2912.65,
+     "end": 2912.89,
+     "word": " are",
+     "probability": 1.0
+    },
+    {
+     "start": 2912.89,
+     "end": 2913.67,
+     "word": " very",
+     "probability": 0.9998
+    },
+    {
+     "start": 2913.67,
+     "end": 2914.29,
+     "word": " explicit.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 2914.91,
+   "end": 2918.63,
+   "text": " The Muntaka Upanishad says Aksharat Parataparaha.",
+   "avg_logprob": -0.22446609429410985,
+   "no_speech_prob": 0.038603637367486954,
+   "compression_ratio": 1.7251461988304093,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2914.91,
+     "end": 2915.87,
+     "word": " The",
+     "probability": 0.9995
+    },
+    {
+     "start": 2915.87,
+     "end": 2916.23,
+     "word": " Muntaka",
+     "probability": 0.9
+    },
+    {
+     "start": 2916.23,
+     "end": 2916.73,
+     "word": " Upanishad",
+     "probability": 0.9995
+    },
+    {
+     "start": 2916.73,
+     "end": 2916.95,
+     "word": " says",
+     "probability": 0.9971
+    },
+    {
+     "start": 2916.95,
+     "end": 2917.77,
+     "word": " Aksharat",
+     "probability": 0.8195
+    },
+    {
+     "start": 2917.77,
+     "end": 2918.63,
+     "word": " Parataparaha.",
+     "probability": 0.7373
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 2918.63,
+   "end": 2925.01,
+   "text": " The Briharadayaranya Upanishad says Etadvaitad Aksharam Gargi.",
+   "avg_logprob": -0.31127440721489663,
+   "no_speech_prob": 0.00043691726750694215,
+   "compression_ratio": 1.4036144578313252,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2918.63,
+     "end": 2920.45,
+     "word": " The",
+     "probability": 0.3657
+    },
+    {
+     "start": 2920.45,
+     "end": 2921.35,
+     "word": " Briharadayaranya",
+     "probability": 0.5251
+    },
+    {
+     "start": 2921.35,
+     "end": 2921.81,
+     "word": " Upanishad",
+     "probability": 0.9772
+    },
+    {
+     "start": 2921.81,
+     "end": 2922.05,
+     "word": " says",
+     "probability": 0.0315
+    },
+    {
+     "start": 2922.05,
+     "end": 2924.05,
+     "word": " Etadvaitad",
+     "probability": 0.6577
+    },
+    {
+     "start": 2924.05,
+     "end": 2924.53,
+     "word": " Aksharam",
+     "probability": 0.8347
+    },
+    {
+     "start": 2924.53,
+     "end": 2925.01,
+     "word": " Gargi.",
+     "probability": 0.8096
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 2926.37,
+   "end": 2930.51,
+   "text": " In the Kathopanishad, Sarve Veda Yatpada Mamanandi.",
+   "avg_logprob": -0.31127440721489663,
+   "no_speech_prob": 0.00043691726750694215,
+   "compression_ratio": 1.4036144578313252,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2925.93,
+     "end": 2926.47,
+     "word": " In",
+     "probability": 0.9349
+    },
+    {
+     "start": 2926.47,
+     "end": 2926.61,
+     "word": " the",
+     "probability": 0.9188
+    },
+    {
+     "start": 2926.61,
+     "end": 2927.53,
+     "word": " Kathopanishad,",
+     "probability": 0.9592
+    },
+    {
+     "start": 2927.57,
+     "end": 2928.69,
+     "word": " Sarve",
+     "probability": 0.9186
+    },
+    {
+     "start": 2928.69,
+     "end": 2929.31,
+     "word": " Veda",
+     "probability": 0.6535
+    },
+    {
+     "start": 2929.31,
+     "end": 2929.85,
+     "word": " Yatpada",
+     "probability": 0.6542
+    },
+    {
+     "start": 2929.85,
+     "end": 2930.51,
+     "word": " Mamanandi.",
+     "probability": 0.7607
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 2932.51,
+   "end": 2935.69,
+   "text": " All these are Akshara designations.",
+   "avg_logprob": -0.31127440721489663,
+   "no_speech_prob": 0.00043691726750694215,
+   "compression_ratio": 1.4036144578313252,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2932.15,
+     "end": 2932.69,
+     "word": " All",
+     "probability": 0.9702
+    },
+    {
+     "start": 2932.69,
+     "end": 2933.29,
+     "word": " these",
+     "probability": 0.9863
+    },
+    {
+     "start": 2933.29,
+     "end": 2934.13,
+     "word": " are",
+     "probability": 0.9901
+    },
+    {
+     "start": 2934.13,
+     "end": 2934.73,
+     "word": " Akshara",
+     "probability": 0.9077
+    },
+    {
+     "start": 2934.73,
+     "end": 2935.69,
+     "word": " designations.",
+     "probability": 0.9842
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 2935.87,
+   "end": 2940.63,
+   "text": " The Paramartha Brahman, that is the ground of all existence.",
+   "avg_logprob": -0.31127440721489663,
+   "no_speech_prob": 0.00043691726750694215,
+   "compression_ratio": 1.4036144578313252,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2935.87,
+     "end": 2936.91,
+     "word": " The",
+     "probability": 0.9483
+    },
+    {
+     "start": 2936.91,
+     "end": 2937.53,
+     "word": " Paramartha",
+     "probability": 0.9204
+    },
+    {
+     "start": 2937.53,
+     "end": 2938.07,
+     "word": " Brahman,",
+     "probability": 0.9844
+    },
+    {
+     "start": 2938.23,
+     "end": 2939.15,
+     "word": " that",
+     "probability": 0.9497
+    },
+    {
+     "start": 2939.15,
+     "end": 2939.35,
+     "word": " is",
+     "probability": 0.9971
+    },
+    {
+     "start": 2939.35,
+     "end": 2939.51,
+     "word": " the",
+     "probability": 0.9647
+    },
+    {
+     "start": 2939.51,
+     "end": 2939.83,
+     "word": " ground",
+     "probability": 0.9327
+    },
+    {
+     "start": 2939.83,
+     "end": 2940.03,
+     "word": " of",
+     "probability": 0.998
+    },
+    {
+     "start": 2940.03,
+     "end": 2940.21,
+     "word": " all",
+     "probability": 0.9813
+    },
+    {
+     "start": 2940.21,
+     "end": 2940.63,
+     "word": " existence.",
+     "probability": 0.9617
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 2945.31,
+   "end": 2947.85,
+   "text": " Tam Ahu Paramam Gati.",
+   "avg_logprob": -0.31127440721489663,
+   "no_speech_prob": 0.00043691726750694215,
+   "compression_ratio": 1.4036144578313252,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2945.31,
+     "end": 2946.39,
+     "word": " Tam",
+     "probability": 0.5514
+    },
+    {
+     "start": 2946.39,
+     "end": 2946.93,
+     "word": " Ahu",
+     "probability": 0.7833
+    },
+    {
+     "start": 2946.93,
+     "end": 2947.51,
+     "word": " Paramam",
+     "probability": 0.9261
+    },
+    {
+     "start": 2947.51,
+     "end": 2947.85,
+     "word": " Gati.",
+     "probability": 0.7344
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 2949.25,
+   "end": 2954.69,
+   "text": " Tam, that one, the avyakta akshara which has been just defined.",
+   "avg_logprob": -0.19267702263754768,
+   "no_speech_prob": 0.0010381352622061968,
+   "compression_ratio": 1.5529411764705883,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2949.25,
+     "end": 2950.03,
+     "word": " Tam,",
+     "probability": 0.2775
+    },
+    {
+     "start": 2950.03,
+     "end": 2950.81,
+     "word": " that",
+     "probability": 0.9749
+    },
+    {
+     "start": 2950.81,
+     "end": 2951.17,
+     "word": " one,",
+     "probability": 0.9962
+    },
+    {
+     "start": 2951.27,
+     "end": 2952.01,
+     "word": " the",
+     "probability": 0.9688
+    },
+    {
+     "start": 2952.01,
+     "end": 2952.65,
+     "word": " avyakta",
+     "probability": 0.6493
+    },
+    {
+     "start": 2952.65,
+     "end": 2952.99,
+     "word": " akshara",
+     "probability": 0.9807
+    },
+    {
+     "start": 2952.99,
+     "end": 2953.35,
+     "word": " which",
+     "probability": 0.6171
+    },
+    {
+     "start": 2953.35,
+     "end": 2953.77,
+     "word": " has",
+     "probability": 0.992
+    },
+    {
+     "start": 2953.77,
+     "end": 2953.99,
+     "word": " been",
+     "probability": 0.9519
+    },
+    {
+     "start": 2953.99,
+     "end": 2954.19,
+     "word": " just",
+     "probability": 0.9947
+    },
+    {
+     "start": 2954.19,
+     "end": 2954.69,
+     "word": " defined.",
+     "probability": 0.9966
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 2955.75,
+   "end": 2967.53,
+   "text": " Ahu who means they say, they declare the Vedavit or the tradition holds, they declare it is said or tradition affirms in the Shastric form.",
+   "avg_logprob": -0.19267702263754768,
+   "no_speech_prob": 0.0010381352622061968,
+   "compression_ratio": 1.5529411764705883,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2955.75,
+     "end": 2956.53,
+     "word": " Ahu",
+     "probability": 0.4248
+    },
+    {
+     "start": 2956.53,
+     "end": 2956.57,
+     "word": " who",
+     "probability": 0.1437
+    },
+    {
+     "start": 2956.57,
+     "end": 2956.89,
+     "word": " means",
+     "probability": 0.9876
+    },
+    {
+     "start": 2956.89,
+     "end": 2957.15,
+     "word": " they",
+     "probability": 0.9704
+    },
+    {
+     "start": 2957.15,
+     "end": 2957.51,
+     "word": " say,",
+     "probability": 0.9862
+    },
+    {
+     "start": 2957.63,
+     "end": 2957.85,
+     "word": " they",
+     "probability": 0.9979
+    },
+    {
+     "start": 2957.85,
+     "end": 2958.33,
+     "word": " declare",
+     "probability": 0.9993
+    },
+    {
+     "start": 2958.33,
+     "end": 2959.59,
+     "word": " the",
+     "probability": 0.8439
+    },
+    {
+     "start": 2959.59,
+     "end": 2960.07,
+     "word": " Vedavit",
+     "probability": 0.798
+    },
+    {
+     "start": 2960.07,
+     "end": 2961.07,
+     "word": " or",
+     "probability": 0.7442
+    },
+    {
+     "start": 2961.07,
+     "end": 2961.47,
+     "word": " the",
+     "probability": 0.9983
+    },
+    {
+     "start": 2961.47,
+     "end": 2961.91,
+     "word": " tradition",
+     "probability": 0.9961
+    },
+    {
+     "start": 2961.91,
+     "end": 2962.31,
+     "word": " holds,",
+     "probability": 0.9986
+    },
+    {
+     "start": 2962.47,
+     "end": 2962.73,
+     "word": " they",
+     "probability": 0.9978
+    },
+    {
+     "start": 2962.73,
+     "end": 2963.21,
+     "word": " declare",
+     "probability": 0.9994
+    },
+    {
+     "start": 2963.21,
+     "end": 2963.39,
+     "word": " it",
+     "probability": 0.8933
+    },
+    {
+     "start": 2963.39,
+     "end": 2963.63,
+     "word": " is",
+     "probability": 0.977
+    },
+    {
+     "start": 2963.63,
+     "end": 2963.89,
+     "word": " said",
+     "probability": 0.9994
+    },
+    {
+     "start": 2963.89,
+     "end": 2964.11,
+     "word": " or",
+     "probability": 0.9914
+    },
+    {
+     "start": 2964.11,
+     "end": 2964.51,
+     "word": " tradition",
+     "probability": 0.9959
+    },
+    {
+     "start": 2964.51,
+     "end": 2965.19,
+     "word": " affirms",
+     "probability": 0.9994
+    },
+    {
+     "start": 2965.19,
+     "end": 2966.53,
+     "word": " in",
+     "probability": 0.9921
+    },
+    {
+     "start": 2966.53,
+     "end": 2966.65,
+     "word": " the",
+     "probability": 1.0
+    },
+    {
+     "start": 2966.65,
+     "end": 2967.15,
+     "word": " Shastric",
+     "probability": 0.7198
+    },
+    {
+     "start": 2967.15,
+     "end": 2967.53,
+     "word": " form.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 2970.49,
+   "end": 2976.27,
+   "text": " Paramam Gati is the supreme Gati means ultimate destination.",
+   "avg_logprob": -0.19267702263754768,
+   "no_speech_prob": 0.0010381352622061968,
+   "compression_ratio": 1.5529411764705883,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2970.49,
+     "end": 2971.27,
+     "word": " Paramam",
+     "probability": 0.9766
+    },
+    {
+     "start": 2971.27,
+     "end": 2971.63,
+     "word": " Gati",
+     "probability": 0.8526
+    },
+    {
+     "start": 2971.63,
+     "end": 2972.71,
+     "word": " is",
+     "probability": 0.9881
+    },
+    {
+     "start": 2972.71,
+     "end": 2972.91,
+     "word": " the",
+     "probability": 0.9997
+    },
+    {
+     "start": 2972.91,
+     "end": 2973.39,
+     "word": " supreme",
+     "probability": 0.8894
+    },
+    {
+     "start": 2973.39,
+     "end": 2974.43,
+     "word": " Gati",
+     "probability": 0.9352
+    },
+    {
+     "start": 2974.43,
+     "end": 2974.69,
+     "word": " means",
+     "probability": 0.9663
+    },
+    {
+     "start": 2974.69,
+     "end": 2975.63,
+     "word": " ultimate",
+     "probability": 0.9989
+    },
+    {
+     "start": 2975.63,
+     "end": 2976.27,
+     "word": " destination.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 2978.63,
+   "end": 2984.17,
+   "text": " Sa Yati Paramam Gati or Paramam Samsiddhim Gatha.",
+   "avg_logprob": -0.3299771125117938,
+   "no_speech_prob": 0.002255649073049426,
+   "compression_ratio": 1.5,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2978.63,
+     "end": 2979.15,
+     "word": " Sa",
+     "probability": 0.2456
+    },
+    {
+     "start": 2979.15,
+     "end": 2979.83,
+     "word": " Yati",
+     "probability": 0.4406
+    },
+    {
+     "start": 2979.83,
+     "end": 2980.35,
+     "word": " Paramam",
+     "probability": 0.953
+    },
+    {
+     "start": 2980.35,
+     "end": 2980.71,
+     "word": " Gati",
+     "probability": 0.9037
+    },
+    {
+     "start": 2980.71,
+     "end": 2981.11,
+     "word": " or",
+     "probability": 0.8329
+    },
+    {
+     "start": 2981.11,
+     "end": 2982.53,
+     "word": " Paramam",
+     "probability": 0.9905
+    },
+    {
+     "start": 2982.53,
+     "end": 2983.81,
+     "word": " Samsiddhim",
+     "probability": 0.673
+    },
+    {
+     "start": 2983.81,
+     "end": 2984.17,
+     "word": " Gatha.",
+     "probability": 0.8032
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "start": 2984.51,
+   "end": 2988.67,
+   "text": " These are the ways in which Krishna has mentioned the same thing earlier.",
+   "avg_logprob": -0.3299771125117938,
+   "no_speech_prob": 0.002255649073049426,
+   "compression_ratio": 1.5,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2984.51,
+     "end": 2985.35,
+     "word": " These",
+     "probability": 0.9993
+    },
+    {
+     "start": 2985.35,
+     "end": 2985.59,
+     "word": " are",
+     "probability": 1.0
+    },
+    {
+     "start": 2985.59,
+     "end": 2985.75,
+     "word": " the",
+     "probability": 1.0
+    },
+    {
+     "start": 2985.75,
+     "end": 2985.99,
+     "word": " ways",
+     "probability": 0.9998
+    },
+    {
+     "start": 2985.99,
+     "end": 2986.17,
+     "word": " in",
+     "probability": 1.0
+    },
+    {
+     "start": 2986.17,
+     "end": 2986.35,
+     "word": " which",
+     "probability": 1.0
+    },
+    {
+     "start": 2986.35,
+     "end": 2986.71,
+     "word": " Krishna",
+     "probability": 0.9982
+    },
+    {
+     "start": 2986.71,
+     "end": 2986.95,
+     "word": " has",
+     "probability": 0.9996
+    },
+    {
+     "start": 2986.95,
+     "end": 2987.41,
+     "word": " mentioned",
+     "probability": 0.9999
+    },
+    {
+     "start": 2987.41,
+     "end": 2987.67,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 2987.67,
+     "end": 2987.93,
+     "word": " same",
+     "probability": 0.9997
+    },
+    {
+     "start": 2987.93,
+     "end": 2988.23,
+     "word": " thing",
+     "probability": 0.9999
+    },
+    {
+     "start": 2988.23,
+     "end": 2988.67,
+     "word": " earlier.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "start": 2989.93,
+   "end": 2996.99,
+   "text": " Now it is referent fully, explicit that Paramagati that was spoken throughout the Antakala Prakarna.",
+   "avg_logprob": -0.3299771125117938,
+   "no_speech_prob": 0.002255649073049426,
+   "compression_ratio": 1.5,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2989.71,
+     "end": 2990.13,
+     "word": " Now",
+     "probability": 0.9998
+    },
+    {
+     "start": 2990.13,
+     "end": 2990.35,
+     "word": " it",
+     "probability": 0.9266
+    },
+    {
+     "start": 2990.35,
+     "end": 2990.59,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 2990.59,
+     "end": 2991.19,
+     "word": " referent",
+     "probability": 0.7955
+    },
+    {
+     "start": 2991.19,
+     "end": 2991.35,
+     "word": " fully,",
+     "probability": 0.9611
+    },
+    {
+     "start": 2991.47,
+     "end": 2992.37,
+     "word": " explicit",
+     "probability": 0.9841
+    },
+    {
+     "start": 2992.37,
+     "end": 2992.69,
+     "word": " that",
+     "probability": 0.7031
+    },
+    {
+     "start": 2992.69,
+     "end": 2993.43,
+     "word": " Paramagati",
+     "probability": 0.9365
+    },
+    {
+     "start": 2993.43,
+     "end": 2994.05,
+     "word": " that",
+     "probability": 0.9393
+    },
+    {
+     "start": 2994.05,
+     "end": 2994.57,
+     "word": " was",
+     "probability": 0.9999
+    },
+    {
+     "start": 2994.57,
+     "end": 2994.99,
+     "word": " spoken",
+     "probability": 0.9999
+    },
+    {
+     "start": 2994.99,
+     "end": 2995.59,
+     "word": " throughout",
+     "probability": 0.9997
+    },
+    {
+     "start": 2995.59,
+     "end": 2996.03,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 2996.03,
+     "end": 2996.49,
+     "word": " Antakala",
+     "probability": 0.8634
+    },
+    {
+     "start": 2996.49,
+     "end": 2996.99,
+     "word": " Prakarna.",
+     "probability": 0.7903
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "start": 2999.09,
+   "end": 3000.71,
+   "text": " The avyakta akshara sanatana.",
+   "avg_logprob": -0.3299771125117938,
+   "no_speech_prob": 0.002255649073049426,
+   "compression_ratio": 1.5,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2998.69,
+     "end": 2999.11,
+     "word": " The",
+     "probability": 0.9951
+    },
+    {
+     "start": 2999.11,
+     "end": 2999.71,
+     "word": " avyakta",
+     "probability": 0.7068
+    },
+    {
+     "start": 2999.71,
+     "end": 3000.15,
+     "word": " akshara",
+     "probability": 0.9568
+    },
+    {
+     "start": 3000.15,
+     "end": 3000.71,
+     "word": " sanatana.",
+     "probability": 0.9083
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "start": 3003.39,
+   "end": 3004.49,
+   "text": " Shankaracharya says,",
+   "avg_logprob": -0.3299771125117938,
+   "no_speech_prob": 0.002255649073049426,
+   "compression_ratio": 1.5,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3003.39,
+     "end": 3004.23,
+     "word": " Shankaracharya",
+     "probability": 0.966
+    },
+    {
+     "start": 3004.23,
+     "end": 3004.49,
+     "word": " says,",
+     "probability": 0.9992
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "start": 3004.69,
+   "end": 3006.23,
+   "text": " Tam Ahu Paramam Gati.",
+   "avg_logprob": -0.3299771125117938,
+   "no_speech_prob": 0.002255649073049426,
+   "compression_ratio": 1.5,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3004.69,
+     "end": 3005.03,
+     "word": " Tam",
+     "probability": 0.6885
+    },
+    {
+     "start": 3005.03,
+     "end": 3005.49,
+     "word": " Ahu",
+     "probability": 0.7267
+    },
+    {
+     "start": 3005.49,
+     "end": 3005.97,
+     "word": " Paramam",
+     "probability": 0.9964
+    },
+    {
+     "start": 3005.97,
+     "end": 3006.23,
+     "word": " Gati.",
+     "probability": 0.9885
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "start": 3006.23,
+   "end": 3009.15,
+   "text": " Gati, Vedanta Vidho Vedaknya.",
+   "avg_logprob": -0.47676800177476114,
+   "no_speech_prob": 0.001771662151440978,
+   "compression_ratio": 1.6203208556149733,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3006.23,
+     "end": 3006.23,
+     "word": " Gati,",
+     "probability": 0.0505
+    },
+    {
+     "start": 3006.23,
+     "end": 3007.91,
+     "word": " Vedanta",
+     "probability": 0.7155
+    },
+    {
+     "start": 3007.91,
+     "end": 3008.31,
+     "word": " Vidho",
+     "probability": 0.2976
+    },
+    {
+     "start": 3008.31,
+     "end": 3009.15,
+     "word": " Vedaknya.",
+     "probability": 0.7867
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "start": 3009.49,
+   "end": 3015.21,
+   "text": " Tam Paramam Visreya Selekshanam.",
+   "avg_logprob": -0.47676800177476114,
+   "no_speech_prob": 0.001771662151440978,
+   "compression_ratio": 1.6203208556149733,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3009.49,
+     "end": 3010.29,
+     "word": " Tam",
+     "probability": 0.1284
+    },
+    {
+     "start": 3010.29,
+     "end": 3012.47,
+     "word": " Paramam",
+     "probability": 0.6976
+    },
+    {
+     "start": 3012.47,
+     "end": 3014.19,
+     "word": " Visreya",
+     "probability": 0.5201
+    },
+    {
+     "start": 3014.19,
+     "end": 3015.21,
+     "word": " Selekshanam.",
+     "probability": 0.7501
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "start": 3016.13,
+   "end": 3016.99,
+   "text": " Gati, Ahu.",
+   "avg_logprob": -0.47676800177476114,
+   "no_speech_prob": 0.001771662151440978,
+   "compression_ratio": 1.6203208556149733,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3015.85,
+     "end": 3016.25,
+     "word": " Gati,",
+     "probability": 0.9581
+    },
+    {
+     "start": 3016.33,
+     "end": 3016.99,
+     "word": " Ahu.",
+     "probability": 0.6239
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "start": 3018.03,
+   "end": 3026.75,
+   "text": " Those who know Vedanta, the knowers of Vedanta tradition, declare that to be the Paramagati characterized by Nisreya.",
+   "avg_logprob": -0.47676800177476114,
+   "no_speech_prob": 0.001771662151440978,
+   "compression_ratio": 1.6203208556149733,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3018.03,
+     "end": 3018.83,
+     "word": " Those",
+     "probability": 0.9824
+    },
+    {
+     "start": 3018.83,
+     "end": 3019.05,
+     "word": " who",
+     "probability": 0.9953
+    },
+    {
+     "start": 3019.05,
+     "end": 3019.37,
+     "word": " know",
+     "probability": 0.9984
+    },
+    {
+     "start": 3019.37,
+     "end": 3019.89,
+     "word": " Vedanta,",
+     "probability": 0.9926
+    },
+    {
+     "start": 3020.05,
+     "end": 3020.49,
+     "word": " the",
+     "probability": 0.9805
+    },
+    {
+     "start": 3020.49,
+     "end": 3020.89,
+     "word": " knowers",
+     "probability": 0.6971
+    },
+    {
+     "start": 3020.89,
+     "end": 3021.11,
+     "word": " of",
+     "probability": 0.9986
+    },
+    {
+     "start": 3021.11,
+     "end": 3021.47,
+     "word": " Vedanta",
+     "probability": 0.9932
+    },
+    {
+     "start": 3021.47,
+     "end": 3021.87,
+     "word": " tradition,",
+     "probability": 0.9641
+    },
+    {
+     "start": 3022.09,
+     "end": 3023.11,
+     "word": " declare",
+     "probability": 0.9952
+    },
+    {
+     "start": 3023.11,
+     "end": 3023.51,
+     "word": " that",
+     "probability": 0.9977
+    },
+    {
+     "start": 3023.51,
+     "end": 3023.75,
+     "word": " to",
+     "probability": 0.9983
+    },
+    {
+     "start": 3023.75,
+     "end": 3024.01,
+     "word": " be",
+     "probability": 0.9995
+    },
+    {
+     "start": 3024.01,
+     "end": 3024.19,
+     "word": " the",
+     "probability": 0.9885
+    },
+    {
+     "start": 3024.19,
+     "end": 3024.87,
+     "word": " Paramagati",
+     "probability": 0.9207
+    },
+    {
+     "start": 3024.87,
+     "end": 3025.41,
+     "word": " characterized",
+     "probability": 0.6676
+    },
+    {
+     "start": 3025.41,
+     "end": 3026.09,
+     "word": " by",
+     "probability": 0.9992
+    },
+    {
+     "start": 3026.09,
+     "end": 3026.75,
+     "word": " Nisreya.",
+     "probability": 0.7733
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "start": 3026.83,
+   "end": 3029.89,
+   "text": " The highest good, that is the liberation.",
+   "avg_logprob": -0.47676800177476114,
+   "no_speech_prob": 0.001771662151440978,
+   "compression_ratio": 1.6203208556149733,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3026.83,
+     "end": 3027.63,
+     "word": " The",
+     "probability": 0.9681
+    },
+    {
+     "start": 3027.63,
+     "end": 3028.17,
+     "word": " highest",
+     "probability": 0.9961
+    },
+    {
+     "start": 3028.17,
+     "end": 3028.59,
+     "word": " good,",
+     "probability": 0.9922
+    },
+    {
+     "start": 3028.73,
+     "end": 3029.31,
+     "word": " that",
+     "probability": 0.9956
+    },
+    {
+     "start": 3029.31,
+     "end": 3029.47,
+     "word": " is",
+     "probability": 0.9997
+    },
+    {
+     "start": 3029.47,
+     "end": 3029.57,
+     "word": " the",
+     "probability": 0.9723
+    },
+    {
+     "start": 3029.57,
+     "end": 3029.89,
+     "word": " liberation.",
+     "probability": 0.9817
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "start": 3032.71,
+   "end": 3033.75,
+   "text": " Who are the Vedanta with?",
+   "avg_logprob": -0.47676800177476114,
+   "no_speech_prob": 0.001771662151440978,
+   "compression_ratio": 1.6203208556149733,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3032.37,
+     "end": 3032.77,
+     "word": " Who",
+     "probability": 0.9929
+    },
+    {
+     "start": 3032.77,
+     "end": 3032.99,
+     "word": " are",
+     "probability": 0.9993
+    },
+    {
+     "start": 3032.99,
+     "end": 3033.13,
+     "word": " the",
+     "probability": 0.995
+    },
+    {
+     "start": 3033.13,
+     "end": 3033.49,
+     "word": " Vedanta",
+     "probability": 0.9941
+    },
+    {
+     "start": 3033.49,
+     "end": 3033.75,
+     "word": " with?",
+     "probability": 0.8841
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "start": 3034.11,
+   "end": 3035.23,
+   "text": " Knowers of Uvanishad.",
+   "avg_logprob": -0.47676800177476114,
+   "no_speech_prob": 0.001771662151440978,
+   "compression_ratio": 1.6203208556149733,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3034.11,
+     "end": 3034.91,
+     "word": " Knowers",
+     "probability": 0.966
+    },
+    {
+     "start": 3034.91,
+     "end": 3035.09,
+     "word": " of",
+     "probability": 0.9873
+    },
+    {
+     "start": 3035.09,
+     "end": 3035.49,
+     "word": " Uvanishad.",
+     "probability": 0.4313
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "start": 3035.93,
+   "end": 3036.21,
+   "text": " Knowers of Uvanishad.",
+   "avg_logprob": -0.47676800177476114,
+   "no_speech_prob": 0.001771662151440978,
+   "compression_ratio": 1.6203208556149733,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3035.93,
+     "end": 3036.21,
+     "word": " Knowers",
+     "probability": 0.5021
+    },
+    {
+     "start": 3036.21,
+     "end": 3036.21,
+     "word": " of",
+     "probability": 0.9261
+    },
+    {
+     "start": 3036.21,
+     "end": 3036.21,
+     "word": " Uvanishad.",
+     "probability": 0.9422
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "start": 3036.23,
+   "end": 3039.73,
+   "text": " They are the Vedabhits who declare Akshara.",
+   "avg_logprob": -0.30473948895246133,
+   "no_speech_prob": 0.0032604895532131195,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3036.23,
+     "end": 3037.31,
+     "word": " They",
+     "probability": 0.453
+    },
+    {
+     "start": 3037.31,
+     "end": 3037.47,
+     "word": " are",
+     "probability": 0.9955
+    },
+    {
+     "start": 3037.47,
+     "end": 3037.63,
+     "word": " the",
+     "probability": 0.9904
+    },
+    {
+     "start": 3037.63,
+     "end": 3038.15,
+     "word": " Vedabhits",
+     "probability": 0.5235
+    },
+    {
+     "start": 3038.15,
+     "end": 3038.53,
+     "word": " who",
+     "probability": 0.9037
+    },
+    {
+     "start": 3038.53,
+     "end": 3038.95,
+     "word": " declare",
+     "probability": 0.9796
+    },
+    {
+     "start": 3038.95,
+     "end": 3039.73,
+     "word": " Akshara.",
+     "probability": 0.9361
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "start": 3043.03,
+   "end": 3044.85,
+   "text": " The Vedavidaha declared,",
+   "avg_logprob": -0.30473948895246133,
+   "no_speech_prob": 0.0032604895532131195,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3043.03,
+     "end": 3043.87,
+     "word": " The",
+     "probability": 0.9622
+    },
+    {
+     "start": 3043.87,
+     "end": 3044.55,
+     "word": " Vedavidaha",
+     "probability": 0.8479
+    },
+    {
+     "start": 3044.55,
+     "end": 3044.85,
+     "word": " declared,",
+     "probability": 0.9711
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "start": 3046.39,
+   "end": 3048.05,
+   "text": " Yad Aksharam Vedavidho Vadanti.",
+   "avg_logprob": -0.30473948895246133,
+   "no_speech_prob": 0.0032604895532131195,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3046.07,
+     "end": 3046.49,
+     "word": " Yad",
+     "probability": 0.4743
+    },
+    {
+     "start": 3046.49,
+     "end": 3046.97,
+     "word": " Aksharam",
+     "probability": 0.9887
+    },
+    {
+     "start": 3046.97,
+     "end": 3047.61,
+     "word": " Vedavidho",
+     "probability": 0.7201
+    },
+    {
+     "start": 3047.61,
+     "end": 3048.05,
+     "word": " Vadanti.",
+     "probability": 0.8333
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "start": 3049.61,
+   "end": 3053.07,
+   "text": " In the 11th verse he said, is now identified as the Paramagati.",
+   "avg_logprob": -0.30473948895246133,
+   "no_speech_prob": 0.0032604895532131195,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3049.31,
+     "end": 3049.73,
+     "word": " In",
+     "probability": 0.9916
+    },
+    {
+     "start": 3049.73,
+     "end": 3049.89,
+     "word": " the",
+     "probability": 0.9997
+    },
+    {
+     "start": 3049.89,
+     "end": 3050.29,
+     "word": " 11th",
+     "probability": 0.9062
+    },
+    {
+     "start": 3050.29,
+     "end": 3050.47,
+     "word": " verse",
+     "probability": 0.9992
+    },
+    {
+     "start": 3050.47,
+     "end": 3050.65,
+     "word": " he",
+     "probability": 0.7688
+    },
+    {
+     "start": 3050.65,
+     "end": 3050.91,
+     "word": " said,",
+     "probability": 0.9989
+    },
+    {
+     "start": 3051.01,
+     "end": 3051.19,
+     "word": " is",
+     "probability": 0.3747
+    },
+    {
+     "start": 3051.19,
+     "end": 3051.43,
+     "word": " now",
+     "probability": 0.9999
+    },
+    {
+     "start": 3051.43,
+     "end": 3051.93,
+     "word": " identified",
+     "probability": 0.9996
+    },
+    {
+     "start": 3051.93,
+     "end": 3052.39,
+     "word": " as",
+     "probability": 0.9997
+    },
+    {
+     "start": 3052.39,
+     "end": 3052.51,
+     "word": " the",
+     "probability": 0.9947
+    },
+    {
+     "start": 3052.51,
+     "end": 3053.07,
+     "word": " Paramagati.",
+     "probability": 0.9537
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "start": 3055.57,
+   "end": 3061.39,
+   "text": " And to which all sadhana of chapter 8 is oriented.",
+   "avg_logprob": -0.30473948895246133,
+   "no_speech_prob": 0.0032604895532131195,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3055.25,
+     "end": 3055.67,
+     "word": " And",
+     "probability": 0.7309
+    },
+    {
+     "start": 3055.67,
+     "end": 3055.81,
+     "word": " to",
+     "probability": 0.5238
+    },
+    {
+     "start": 3055.81,
+     "end": 3056.23,
+     "word": " which",
+     "probability": 1.0
+    },
+    {
+     "start": 3056.23,
+     "end": 3058.89,
+     "word": " all",
+     "probability": 0.9975
+    },
+    {
+     "start": 3058.89,
+     "end": 3059.57,
+     "word": " sadhana",
+     "probability": 0.7078
+    },
+    {
+     "start": 3059.57,
+     "end": 3059.85,
+     "word": " of",
+     "probability": 0.9998
+    },
+    {
+     "start": 3059.85,
+     "end": 3060.21,
+     "word": " chapter",
+     "probability": 0.957
+    },
+    {
+     "start": 3060.21,
+     "end": 3060.57,
+     "word": " 8",
+     "probability": 0.9953
+    },
+    {
+     "start": 3060.57,
+     "end": 3060.83,
+     "word": " is",
+     "probability": 0.9994
+    },
+    {
+     "start": 3060.83,
+     "end": 3061.39,
+     "word": " oriented.",
+     "probability": 0.9974
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "start": 3061.63,
+   "end": 3066.07,
+   "text": " The entire chapter is a sadhana prakarana.",
+   "avg_logprob": -0.30473948895246133,
+   "no_speech_prob": 0.0032604895532131195,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3061.63,
+     "end": 3062.39,
+     "word": " The",
+     "probability": 0.9994
+    },
+    {
+     "start": 3062.39,
+     "end": 3062.85,
+     "word": " entire",
+     "probability": 0.9999
+    },
+    {
+     "start": 3062.85,
+     "end": 3063.47,
+     "word": " chapter",
+     "probability": 0.9999
+    },
+    {
+     "start": 3063.47,
+     "end": 3064.63,
+     "word": " is",
+     "probability": 0.9985
+    },
+    {
+     "start": 3064.63,
+     "end": 3064.85,
+     "word": " a",
+     "probability": 0.989
+    },
+    {
+     "start": 3064.85,
+     "end": 3065.33,
+     "word": " sadhana",
+     "probability": 0.9882
+    },
+    {
+     "start": 3065.33,
+     "end": 3066.07,
+     "word": " prakarana.",
+     "probability": 0.6669
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "start": 3067.23,
+   "end": 3070.03,
+   "text": " Or reaching the Paramagati.",
+   "avg_logprob": -0.3908275421708822,
+   "no_speech_prob": 0.0018874731613323092,
+   "compression_ratio": 1.8917525773195876,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3066.84,
+     "end": 3067.25,
+     "word": " Or",
+     "probability": 0.2012
+    },
+    {
+     "start": 3067.25,
+     "end": 3068.97,
+     "word": " reaching",
+     "probability": 0.601
+    },
+    {
+     "start": 3068.97,
+     "end": 3069.29,
+     "word": " the",
+     "probability": 0.9851
+    },
+    {
+     "start": 3069.29,
+     "end": 3070.03,
+     "word": " Paramagati.",
+     "probability": 0.6562
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "start": 3070.07,
+   "end": 3073.49,
+   "text": " Yad Praapyana Nivartande Taddhama Paramam Mada.",
+   "avg_logprob": -0.3908275421708822,
+   "no_speech_prob": 0.0018874731613323092,
+   "compression_ratio": 1.8917525773195876,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3070.07,
+     "end": 3070.71,
+     "word": " Yad",
+     "probability": 0.1826
+    },
+    {
+     "start": 3070.71,
+     "end": 3071.23,
+     "word": " Praapyana",
+     "probability": 0.5308
+    },
+    {
+     "start": 3071.23,
+     "end": 3072.07,
+     "word": " Nivartande",
+     "probability": 0.6305
+    },
+    {
+     "start": 3072.07,
+     "end": 3072.81,
+     "word": " Taddhama",
+     "probability": 0.619
+    },
+    {
+     "start": 3072.81,
+     "end": 3073.27,
+     "word": " Paramam",
+     "probability": 0.7013
+    },
+    {
+     "start": 3073.27,
+     "end": 3073.49,
+     "word": " Mada.",
+     "probability": 0.4914
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "start": 3073.63,
+   "end": 3077.29,
+   "text": " Or Yad Gatvaana Nivartande Taddhama Paramam Mada.",
+   "avg_logprob": -0.3908275421708822,
+   "no_speech_prob": 0.0018874731613323092,
+   "compression_ratio": 1.8917525773195876,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3073.63,
+     "end": 3074.25,
+     "word": " Or",
+     "probability": 0.7817
+    },
+    {
+     "start": 3074.25,
+     "end": 3074.59,
+     "word": " Yad",
+     "probability": 0.9592
+    },
+    {
+     "start": 3074.59,
+     "end": 3075.09,
+     "word": " Gatvaana",
+     "probability": 0.7256
+    },
+    {
+     "start": 3075.09,
+     "end": 3075.71,
+     "word": " Nivartande",
+     "probability": 0.9957
+    },
+    {
+     "start": 3075.71,
+     "end": 3076.47,
+     "word": " Taddhama",
+     "probability": 0.991
+    },
+    {
+     "start": 3076.47,
+     "end": 3077.03,
+     "word": " Paramam",
+     "probability": 0.9637
+    },
+    {
+     "start": 3077.03,
+     "end": 3077.29,
+     "word": " Mada.",
+     "probability": 0.5017
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "start": 3079.51,
+   "end": 3081.03,
+   "text": " What does it mean?",
+   "avg_logprob": -0.3908275421708822,
+   "no_speech_prob": 0.0018874731613323092,
+   "compression_ratio": 1.8917525773195876,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3079.51,
+     "end": 3080.33,
+     "word": " What",
+     "probability": 0.9693
+    },
+    {
+     "start": 3080.33,
+     "end": 3080.53,
+     "word": " does",
+     "probability": 0.9959
+    },
+    {
+     "start": 3080.53,
+     "end": 3080.73,
+     "word": " it",
+     "probability": 0.4925
+    },
+    {
+     "start": 3080.73,
+     "end": 3081.03,
+     "word": " mean?",
+     "probability": 0.9974
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "start": 3081.79,
+   "end": 3090.77,
+   "text": " Yam, which or whom, the same abhyakta akshara Paramagati, that is what is indicated by which.",
+   "avg_logprob": -0.3908275421708822,
+   "no_speech_prob": 0.0018874731613323092,
+   "compression_ratio": 1.8917525773195876,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3081.79,
+     "end": 3082.61,
+     "word": " Yam,",
+     "probability": 0.5108
+    },
+    {
+     "start": 3082.75,
+     "end": 3083.73,
+     "word": " which",
+     "probability": 0.975
+    },
+    {
+     "start": 3083.73,
+     "end": 3084.99,
+     "word": " or",
+     "probability": 0.9307
+    },
+    {
+     "start": 3084.99,
+     "end": 3085.37,
+     "word": " whom,",
+     "probability": 0.9868
+    },
+    {
+     "start": 3085.47,
+     "end": 3086.07,
+     "word": " the",
+     "probability": 0.9927
+    },
+    {
+     "start": 3086.07,
+     "end": 3086.43,
+     "word": " same",
+     "probability": 0.9995
+    },
+    {
+     "start": 3086.43,
+     "end": 3087.23,
+     "word": " abhyakta",
+     "probability": 0.8427
+    },
+    {
+     "start": 3087.23,
+     "end": 3087.65,
+     "word": " akshara",
+     "probability": 0.9868
+    },
+    {
+     "start": 3087.65,
+     "end": 3088.41,
+     "word": " Paramagati,",
+     "probability": 0.8777
+    },
+    {
+     "start": 3088.59,
+     "end": 3088.93,
+     "word": " that",
+     "probability": 0.9945
+    },
+    {
+     "start": 3088.93,
+     "end": 3089.15,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 3089.15,
+     "end": 3089.43,
+     "word": " what",
+     "probability": 0.9857
+    },
+    {
+     "start": 3089.43,
+     "end": 3089.61,
+     "word": " is",
+     "probability": 0.9998
+    },
+    {
+     "start": 3089.61,
+     "end": 3090.01,
+     "word": " indicated",
+     "probability": 0.3543
+    },
+    {
+     "start": 3090.01,
+     "end": 3090.45,
+     "word": " by",
+     "probability": 0.9998
+    },
+    {
+     "start": 3090.45,
+     "end": 3090.77,
+     "word": " which.",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "start": 3091.55,
+   "end": 3095.33,
+   "text": " Praapya, having attained or upon reaching.",
+   "avg_logprob": -0.3908275421708822,
+   "no_speech_prob": 0.0018874731613323092,
+   "compression_ratio": 1.8917525773195876,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3091.55,
+     "end": 3092.37,
+     "word": " Praapya,",
+     "probability": 0.9956
+    },
+    {
+     "start": 3092.45,
+     "end": 3093.71,
+     "word": " having",
+     "probability": 0.999
+    },
+    {
+     "start": 3093.71,
+     "end": 3094.15,
+     "word": " attained",
+     "probability": 0.9992
+    },
+    {
+     "start": 3094.15,
+     "end": 3094.53,
+     "word": " or",
+     "probability": 0.9987
+    },
+    {
+     "start": 3094.53,
+     "end": 3094.81,
+     "word": " upon",
+     "probability": 0.9995
+    },
+    {
+     "start": 3094.81,
+     "end": 3095.33,
+     "word": " reaching.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "start": 3095.39,
+   "end": 3096.21,
+   "text": " Praapya, having attained or upon reaching.",
+   "avg_logprob": -0.3908275421708822,
+   "no_speech_prob": 0.0018874731613323092,
+   "compression_ratio": 1.8917525773195876,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3095.39,
+     "end": 3096.21,
+     "word": " Praapya,",
+     "probability": 0.7104
+    },
+    {
+     "start": 3096.21,
+     "end": 3096.21,
+     "word": " having",
+     "probability": 0.75
+    },
+    {
+     "start": 3096.21,
+     "end": 3096.21,
+     "word": " attained",
+     "probability": 0.9922
+    },
+    {
+     "start": 3096.21,
+     "end": 3096.21,
+     "word": " or",
+     "probability": 0.9595
+    },
+    {
+     "start": 3096.21,
+     "end": 3096.21,
+     "word": " upon",
+     "probability": 0.9953
+    },
+    {
+     "start": 3096.21,
+     "end": 3096.21,
+     "word": " reaching.",
+     "probability": 0.9935
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "start": 3096.23,
+   "end": 3102.47,
+   "text": " The same thing, upetya, in the 10th verse.",
+   "avg_logprob": -0.22562362484279133,
+   "no_speech_prob": 0.0015234381426125765,
+   "compression_ratio": 1.4914285714285713,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3096.23,
+     "end": 3097.37,
+     "word": " The",
+     "probability": 0.9594
+    },
+    {
+     "start": 3097.37,
+     "end": 3097.67,
+     "word": " same",
+     "probability": 0.9995
+    },
+    {
+     "start": 3097.67,
+     "end": 3098.05,
+     "word": " thing,",
+     "probability": 0.9997
+    },
+    {
+     "start": 3098.11,
+     "end": 3099.63,
+     "word": " upetya,",
+     "probability": 0.7266
+    },
+    {
+     "start": 3099.75,
+     "end": 3100.67,
+     "word": " in",
+     "probability": 0.9979
+    },
+    {
+     "start": 3100.67,
+     "end": 3100.83,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 3100.83,
+     "end": 3102.25,
+     "word": " 10th",
+     "probability": 0.8959
+    },
+    {
+     "start": 3102.25,
+     "end": 3102.47,
+     "word": " verse.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "start": 3105.37,
+   "end": 3110.05,
+   "text": " Brahma Prapti, expressed in different words, differently.",
+   "avg_logprob": -0.22562362484279133,
+   "no_speech_prob": 0.0015234381426125765,
+   "compression_ratio": 1.4914285714285713,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3105.37,
+     "end": 3106.01,
+     "word": " Brahma",
+     "probability": 0.864
+    },
+    {
+     "start": 3106.01,
+     "end": 3106.59,
+     "word": " Prapti,",
+     "probability": 0.7174
+    },
+    {
+     "start": 3106.61,
+     "end": 3107.63,
+     "word": " expressed",
+     "probability": 0.9995
+    },
+    {
+     "start": 3107.63,
+     "end": 3108.03,
+     "word": " in",
+     "probability": 0.9998
+    },
+    {
+     "start": 3108.03,
+     "end": 3108.35,
+     "word": " different",
+     "probability": 0.9998
+    },
+    {
+     "start": 3108.35,
+     "end": 3108.75,
+     "word": " words,",
+     "probability": 0.7499
+    },
+    {
+     "start": 3108.89,
+     "end": 3110.05,
+     "word": " differently.",
+     "probability": 0.9984
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "start": 3111.77,
+   "end": 3116.35,
+   "text": " One who has reached this, they do not return.",
+   "avg_logprob": -0.22562362484279133,
+   "no_speech_prob": 0.0015234381426125765,
+   "compression_ratio": 1.4914285714285713,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3111.77,
+     "end": 3112.41,
+     "word": " One",
+     "probability": 0.9946
+    },
+    {
+     "start": 3112.41,
+     "end": 3112.65,
+     "word": " who",
+     "probability": 0.999
+    },
+    {
+     "start": 3112.65,
+     "end": 3113.05,
+     "word": " has",
+     "probability": 1.0
+    },
+    {
+     "start": 3113.05,
+     "end": 3113.45,
+     "word": " reached",
+     "probability": 0.9999
+    },
+    {
+     "start": 3113.45,
+     "end": 3113.87,
+     "word": " this,",
+     "probability": 0.9998
+    },
+    {
+     "start": 3114.13,
+     "end": 3115.39,
+     "word": " they",
+     "probability": 0.9993
+    },
+    {
+     "start": 3115.39,
+     "end": 3115.63,
+     "word": " do",
+     "probability": 1.0
+    },
+    {
+     "start": 3115.63,
+     "end": 3115.89,
+     "word": " not",
+     "probability": 1.0
+    },
+    {
+     "start": 3115.89,
+     "end": 3116.35,
+     "word": " return.",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "start": 3116.55,
+   "end": 3117.75,
+   "text": " Na Nivartande.",
+   "avg_logprob": -0.22562362484279133,
+   "no_speech_prob": 0.0015234381426125765,
+   "compression_ratio": 1.4914285714285713,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3116.55,
+     "end": 3117.13,
+     "word": " Na",
+     "probability": 0.5487
+    },
+    {
+     "start": 3117.13,
+     "end": 3117.75,
+     "word": " Nivartande.",
+     "probability": 0.6142
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "start": 3118.27,
+   "end": 3119.87,
+   "text": " They do not turn back.",
+   "avg_logprob": -0.22562362484279133,
+   "no_speech_prob": 0.0015234381426125765,
+   "compression_ratio": 1.4914285714285713,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3118.27,
+     "end": 3118.91,
+     "word": " They",
+     "probability": 0.9991
+    },
+    {
+     "start": 3118.91,
+     "end": 3119.09,
+     "word": " do",
+     "probability": 0.9996
+    },
+    {
+     "start": 3119.09,
+     "end": 3119.35,
+     "word": " not",
+     "probability": 1.0
+    },
+    {
+     "start": 3119.35,
+     "end": 3119.63,
+     "word": " turn",
+     "probability": 0.9864
+    },
+    {
+     "start": 3119.63,
+     "end": 3119.87,
+     "word": " back.",
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "start": 3119.97,
+   "end": 3121.57,
+   "text": " There is no return occurs.",
+   "avg_logprob": -0.22562362484279133,
+   "no_speech_prob": 0.0015234381426125765,
+   "compression_ratio": 1.4914285714285713,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3119.97,
+     "end": 3120.19,
+     "word": " There",
+     "probability": 0.9949
+    },
+    {
+     "start": 3120.19,
+     "end": 3120.39,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 3120.39,
+     "end": 3120.65,
+     "word": " no",
+     "probability": 0.9999
+    },
+    {
+     "start": 3120.65,
+     "end": 3121.19,
+     "word": " return",
+     "probability": 0.9997
+    },
+    {
+     "start": 3121.19,
+     "end": 3121.57,
+     "word": " occurs.",
+     "probability": 0.8448
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "start": 3121.71,
+   "end": 3124.91,
+   "text": " There is no punar janma happening to such people.",
+   "avg_logprob": -0.22562362484279133,
+   "no_speech_prob": 0.0015234381426125765,
+   "compression_ratio": 1.4914285714285713,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 3121.71,
+     "end": 3121.93,
+     "word": " There",
+     "probability": 0.998
+    },
+    {
+     "start": 3121.93,
+     "end": 3122.09,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3122.09,
+     "end": 3122.33,
+     "word": " no",
+     "probability": 0.9999
+    },
+    {
+     "start": 3122.33,
+     "end": 3122.75,
+     "word": " punar",
+     "probability": 0.8818
+    },
+    {
+     "start": 3122.75,
+     "end": 3123.09,
+     "word": " janma",
+     "probability": 0.7995
+    },
+    {
+     "start": 3123.09,
+     "end": 3123.89,
+     "word": " happening",
+     "probability": 0.9992
+    },
+    {
+     "start": 3123.89,
+     "end": 3124.21,
+     "word": " to",
+     "probability": 0.9996
+    },
+    {
+     "start": 3124.21,
+     "end": 3124.43,
+     "word": " such",
+     "probability": 0.8831
+    },
+    {
+     "start": 3124.43,
+     "end": 3124.91,
+     "word": " people.",
+     "probability": 0.9973
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "start": 3124.91,
+   "end": 3129.99,
+   "text": " Because for them, na punar janma vidyate.",
+   "avg_logprob": -0.16870499045277634,
+   "no_speech_prob": 0.0012306765420362353,
+   "compression_ratio": 1.547486033519553,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3124.91,
+     "end": 3125.55,
+     "word": " Because",
+     "probability": 0.3244
+    },
+    {
+     "start": 3125.55,
+     "end": 3126.59,
+     "word": " for",
+     "probability": 0.994
+    },
+    {
+     "start": 3126.59,
+     "end": 3126.99,
+     "word": " them,",
+     "probability": 0.9996
+    },
+    {
+     "start": 3127.05,
+     "end": 3128.29,
+     "word": " na",
+     "probability": 0.7324
+    },
+    {
+     "start": 3128.29,
+     "end": 3129.01,
+     "word": " punar",
+     "probability": 0.9454
+    },
+    {
+     "start": 3129.01,
+     "end": 3129.47,
+     "word": " janma",
+     "probability": 0.612
+    },
+    {
+     "start": 3129.47,
+     "end": 3129.99,
+     "word": " vidyate.",
+     "probability": 0.9928
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "start": 3130.19,
+   "end": 3132.63,
+   "text": " There is nothing called punar janma.",
+   "avg_logprob": -0.16870499045277634,
+   "no_speech_prob": 0.0012306765420362353,
+   "compression_ratio": 1.547486033519553,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3130.19,
+     "end": 3130.99,
+     "word": " There",
+     "probability": 0.9991
+    },
+    {
+     "start": 3130.99,
+     "end": 3131.15,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3131.15,
+     "end": 3131.47,
+     "word": " nothing",
+     "probability": 0.9999
+    },
+    {
+     "start": 3131.47,
+     "end": 3131.85,
+     "word": " called",
+     "probability": 1.0
+    },
+    {
+     "start": 3131.85,
+     "end": 3132.25,
+     "word": " punar",
+     "probability": 0.9987
+    },
+    {
+     "start": 3132.25,
+     "end": 3132.63,
+     "word": " janma.",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "start": 3133.27,
+   "end": 3136.09,
+   "text": " Which was very clearly, na vidyate.",
+   "avg_logprob": -0.16870499045277634,
+   "no_speech_prob": 0.0012306765420362353,
+   "compression_ratio": 1.547486033519553,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3133.27,
+     "end": 3134.07,
+     "word": " Which",
+     "probability": 0.9908
+    },
+    {
+     "start": 3134.07,
+     "end": 3134.47,
+     "word": " was",
+     "probability": 1.0
+    },
+    {
+     "start": 3134.47,
+     "end": 3134.77,
+     "word": " very",
+     "probability": 0.9999
+    },
+    {
+     "start": 3134.77,
+     "end": 3135.27,
+     "word": " clearly,",
+     "probability": 1.0
+    },
+    {
+     "start": 3135.39,
+     "end": 3135.63,
+     "word": " na",
+     "probability": 0.9975
+    },
+    {
+     "start": 3135.63,
+     "end": 3136.09,
+     "word": " vidyate.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "start": 3137.27,
+   "end": 3138.43,
+   "text": " Earlier itself.",
+   "avg_logprob": -0.16870499045277634,
+   "no_speech_prob": 0.0012306765420362353,
+   "compression_ratio": 1.547486033519553,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3137.27,
+     "end": 3138.07,
+     "word": " Earlier",
+     "probability": 0.9902
+    },
+    {
+     "start": 3138.07,
+     "end": 3138.43,
+     "word": " itself.",
+     "probability": 0.9937
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "start": 3140.05,
+   "end": 3144.75,
+   "text": " Na nivartande is the definition of abhyakta akshara.",
+   "avg_logprob": -0.16870499045277634,
+   "no_speech_prob": 0.0012306765420362353,
+   "compression_ratio": 1.547486033519553,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3140.05,
+     "end": 3140.85,
+     "word": " Na",
+     "probability": 0.8248
+    },
+    {
+     "start": 3140.85,
+     "end": 3141.53,
+     "word": " nivartande",
+     "probability": 0.7634
+    },
+    {
+     "start": 3141.53,
+     "end": 3141.83,
+     "word": " is",
+     "probability": 0.8844
+    },
+    {
+     "start": 3141.83,
+     "end": 3143.17,
+     "word": " the",
+     "probability": 0.9968
+    },
+    {
+     "start": 3143.17,
+     "end": 3143.53,
+     "word": " definition",
+     "probability": 0.9998
+    },
+    {
+     "start": 3143.53,
+     "end": 3143.97,
+     "word": " of",
+     "probability": 0.9999
+    },
+    {
+     "start": 3143.97,
+     "end": 3144.45,
+     "word": " abhyakta",
+     "probability": 0.8413
+    },
+    {
+     "start": 3144.45,
+     "end": 3144.75,
+     "word": " akshara.",
+     "probability": 0.9957
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "start": 3144.89,
+   "end": 3150.71,
+   "text": " It is precisely that which once attained, there is no avarthi.",
+   "avg_logprob": -0.16870499045277634,
+   "no_speech_prob": 0.0012306765420362353,
+   "compression_ratio": 1.547486033519553,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3144.89,
+     "end": 3145.41,
+     "word": " It",
+     "probability": 0.9993
+    },
+    {
+     "start": 3145.41,
+     "end": 3145.51,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3145.51,
+     "end": 3145.99,
+     "word": " precisely",
+     "probability": 0.9999
+    },
+    {
+     "start": 3145.99,
+     "end": 3146.39,
+     "word": " that",
+     "probability": 1.0
+    },
+    {
+     "start": 3146.39,
+     "end": 3146.83,
+     "word": " which",
+     "probability": 0.9861
+    },
+    {
+     "start": 3146.83,
+     "end": 3148.43,
+     "word": " once",
+     "probability": 0.7867
+    },
+    {
+     "start": 3148.43,
+     "end": 3148.81,
+     "word": " attained,",
+     "probability": 0.9991
+    },
+    {
+     "start": 3148.97,
+     "end": 3149.51,
+     "word": " there",
+     "probability": 0.9996
+    },
+    {
+     "start": 3149.51,
+     "end": 3149.71,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3149.71,
+     "end": 3149.97,
+     "word": " no",
+     "probability": 0.9998
+    },
+    {
+     "start": 3149.97,
+     "end": 3150.71,
+     "word": " avarthi.",
+     "probability": 0.6867
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "start": 3150.75,
+   "end": 3152.97,
+   "text": " Na punar avarthi vinnor janma.",
+   "avg_logprob": -0.16870499045277634,
+   "no_speech_prob": 0.0012306765420362353,
+   "compression_ratio": 1.547486033519553,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3150.75,
+     "end": 3151.35,
+     "word": " Na",
+     "probability": 0.9082
+    },
+    {
+     "start": 3151.35,
+     "end": 3151.73,
+     "word": " punar",
+     "probability": 0.9679
+    },
+    {
+     "start": 3151.73,
+     "end": 3152.29,
+     "word": " avarthi",
+     "probability": 0.9728
+    },
+    {
+     "start": 3152.29,
+     "end": 3152.59,
+     "word": " vinnor",
+     "probability": 0.6946
+    },
+    {
+     "start": 3152.59,
+     "end": 3152.97,
+     "word": " janma.",
+     "probability": 0.8993
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "start": 3152.97,
+   "end": 3154.25,
+   "text": " That one.",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3152.97,
+     "end": 3153.87,
+     "word": " That",
+     "probability": 0.3915
+    },
+    {
+     "start": 3153.87,
+     "end": 3154.25,
+     "word": " one.",
+     "probability": 0.9871
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "start": 3154.97,
+   "end": 3158.05,
+   "text": " It is the Vedantic principle stated in multiple Shruthis.",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3154.69,
+     "end": 3155.05,
+     "word": " It",
+     "probability": 0.7745
+    },
+    {
+     "start": 3155.05,
+     "end": 3155.21,
+     "word": " is",
+     "probability": 0.1909
+    },
+    {
+     "start": 3155.21,
+     "end": 3155.23,
+     "word": " the",
+     "probability": 0.5272
+    },
+    {
+     "start": 3155.23,
+     "end": 3155.61,
+     "word": " Vedantic",
+     "probability": 0.9946
+    },
+    {
+     "start": 3155.61,
+     "end": 3156.01,
+     "word": " principle",
+     "probability": 0.9745
+    },
+    {
+     "start": 3156.01,
+     "end": 3156.61,
+     "word": " stated",
+     "probability": 0.9844
+    },
+    {
+     "start": 3156.61,
+     "end": 3157.05,
+     "word": " in",
+     "probability": 0.9994
+    },
+    {
+     "start": 3157.05,
+     "end": 3157.43,
+     "word": " multiple",
+     "probability": 0.989
+    },
+    {
+     "start": 3157.43,
+     "end": 3158.05,
+     "word": " Shruthis.",
+     "probability": 0.8328
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "start": 3159.47,
+   "end": 3161.07,
+   "text": " In the Chandogya it says,",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3159.47,
+     "end": 3160.19,
+     "word": " In",
+     "probability": 0.6014
+    },
+    {
+     "start": 3160.19,
+     "end": 3160.19,
+     "word": " the",
+     "probability": 0.9235
+    },
+    {
+     "start": 3160.19,
+     "end": 3160.73,
+     "word": " Chandogya",
+     "probability": 0.9469
+    },
+    {
+     "start": 3160.73,
+     "end": 3160.81,
+     "word": " it",
+     "probability": 0.8147
+    },
+    {
+     "start": 3160.81,
+     "end": 3161.07,
+     "word": " says,",
+     "probability": 0.9988
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "start": 3161.41,
+   "end": 3164.11,
+   "text": " na cha punar avarthate, na cha punar avarthate.",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3161.41,
+     "end": 3161.75,
+     "word": " na",
+     "probability": 0.0073
+    },
+    {
+     "start": 3161.75,
+     "end": 3161.95,
+     "word": " cha",
+     "probability": 0.5771
+    },
+    {
+     "start": 3161.95,
+     "end": 3162.27,
+     "word": " punar",
+     "probability": 0.7465
+    },
+    {
+     "start": 3162.27,
+     "end": 3162.81,
+     "word": " avarthate,",
+     "probability": 0.4258
+    },
+    {
+     "start": 3162.93,
+     "end": 3163.09,
+     "word": " na",
+     "probability": 0.9989
+    },
+    {
+     "start": 3163.09,
+     "end": 3163.23,
+     "word": " cha",
+     "probability": 0.9994
+    },
+    {
+     "start": 3163.23,
+     "end": 3163.53,
+     "word": " punar",
+     "probability": 0.9895
+    },
+    {
+     "start": 3163.53,
+     "end": 3164.11,
+     "word": " avarthate.",
+     "probability": 0.9989
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "start": 3164.59,
+   "end": 3168.23,
+   "text": " 8th chapter 15.1",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3164.59,
+     "end": 3165.31,
+     "word": " 8th",
+     "probability": 0.9382
+    },
+    {
+     "start": 3165.31,
+     "end": 3166.35,
+     "word": " chapter",
+     "probability": 0.9838
+    },
+    {
+     "start": 3166.35,
+     "end": 3167.17,
+     "word": " 15",
+     "probability": 0.9389
+    },
+    {
+     "start": 3167.17,
+     "end": 3168.23,
+     "word": ".1",
+     "probability": 0.9985
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "start": 3168.97,
+   "end": 3170.73,
+   "text": " He does not return again.",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3168.97,
+     "end": 3169.53,
+     "word": " He",
+     "probability": 0.5914
+    },
+    {
+     "start": 3169.53,
+     "end": 3169.77,
+     "word": " does",
+     "probability": 0.9992
+    },
+    {
+     "start": 3169.77,
+     "end": 3170.05,
+     "word": " not",
+     "probability": 1.0
+    },
+    {
+     "start": 3170.05,
+     "end": 3170.37,
+     "word": " return",
+     "probability": 0.9999
+    },
+    {
+     "start": 3170.37,
+     "end": 3170.73,
+     "word": " again.",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "start": 3170.81,
+   "end": 3172.13,
+   "text": " He does not return again.",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3170.81,
+     "end": 3170.97,
+     "word": " He",
+     "probability": 0.9868
+    },
+    {
+     "start": 3170.97,
+     "end": 3171.19,
+     "word": " does",
+     "probability": 0.9998
+    },
+    {
+     "start": 3171.19,
+     "end": 3171.45,
+     "word": " not",
+     "probability": 1.0
+    },
+    {
+     "start": 3171.45,
+     "end": 3171.79,
+     "word": " return",
+     "probability": 0.9999
+    },
+    {
+     "start": 3171.79,
+     "end": 3172.13,
+     "word": " again.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "start": 3173.17,
+   "end": 3176.37,
+   "text": " That is the concluding statement of Chandogya Upanishad.",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3173.17,
+     "end": 3173.89,
+     "word": " That",
+     "probability": 0.9991
+    },
+    {
+     "start": 3173.89,
+     "end": 3174.05,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3174.05,
+     "end": 3174.21,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 3174.21,
+     "end": 3174.81,
+     "word": " concluding",
+     "probability": 0.9996
+    },
+    {
+     "start": 3174.81,
+     "end": 3175.19,
+     "word": " statement",
+     "probability": 0.9998
+    },
+    {
+     "start": 3175.19,
+     "end": 3175.55,
+     "word": " of",
+     "probability": 0.9997
+    },
+    {
+     "start": 3175.55,
+     "end": 3175.99,
+     "word": " Chandogya",
+     "probability": 0.9961
+    },
+    {
+     "start": 3175.99,
+     "end": 3176.37,
+     "word": " Upanishad.",
+     "probability": 0.9932
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "start": 3178.97,
+   "end": 3180.11,
+   "text": " In the Kathopanishad,",
+   "avg_logprob": -0.16575049102306366,
+   "no_speech_prob": 0.0011970284394919872,
+   "compression_ratio": 1.7,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3178.73,
+     "end": 3179.09,
+     "word": " In",
+     "probability": 0.9979
+    },
+    {
+     "start": 3179.09,
+     "end": 3179.21,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 3179.21,
+     "end": 3180.11,
+     "word": " Kathopanishad,",
+     "probability": 0.9637
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "start": 3180.11,
+   "end": 3183.21,
+   "text": " Tath Vishnu ho paramam padam.",
+   "avg_logprob": -0.2747698755825267,
+   "no_speech_prob": 0.0017727167578414083,
+   "compression_ratio": 1.455621301775148,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3180.11,
+     "end": 3181.31,
+     "word": " Tath",
+     "probability": 0.3587
+    },
+    {
+     "start": 3181.31,
+     "end": 3181.83,
+     "word": " Vishnu",
+     "probability": 0.9446
+    },
+    {
+     "start": 3181.83,
+     "end": 3181.95,
+     "word": " ho",
+     "probability": 0.6447
+    },
+    {
+     "start": 3181.95,
+     "end": 3182.53,
+     "word": " paramam",
+     "probability": 0.903
+    },
+    {
+     "start": 3182.53,
+     "end": 3183.21,
+     "word": " padam.",
+     "probability": 0.9673
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "start": 3184.29,
+   "end": 3186.99,
+   "text": " Sada pashyanti suryaha.",
+   "avg_logprob": -0.2747698755825267,
+   "no_speech_prob": 0.0017727167578414083,
+   "compression_ratio": 1.455621301775148,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3184.29,
+     "end": 3185.35,
+     "word": " Sada",
+     "probability": 0.5336
+    },
+    {
+     "start": 3185.35,
+     "end": 3186.09,
+     "word": " pashyanti",
+     "probability": 0.6908
+    },
+    {
+     "start": 3186.09,
+     "end": 3186.99,
+     "word": " suryaha.",
+     "probability": 0.8503
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "start": 3187.67,
+   "end": 3190.57,
+   "text": " The supreme station of Vishnu.",
+   "avg_logprob": -0.2747698755825267,
+   "no_speech_prob": 0.0017727167578414083,
+   "compression_ratio": 1.455621301775148,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3187.67,
+     "end": 3188.73,
+     "word": " The",
+     "probability": 0.998
+    },
+    {
+     "start": 3188.73,
+     "end": 3189.15,
+     "word": " supreme",
+     "probability": 0.9859
+    },
+    {
+     "start": 3189.15,
+     "end": 3189.53,
+     "word": " station",
+     "probability": 0.9996
+    },
+    {
+     "start": 3189.53,
+     "end": 3189.93,
+     "word": " of",
+     "probability": 0.9997
+    },
+    {
+     "start": 3189.93,
+     "end": 3190.57,
+     "word": " Vishnu.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "start": 3190.67,
+   "end": 3193.53,
+   "text": " The illumined ones always behold.",
+   "avg_logprob": -0.2747698755825267,
+   "no_speech_prob": 0.0017727167578414083,
+   "compression_ratio": 1.455621301775148,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3190.67,
+     "end": 3191.69,
+     "word": " The",
+     "probability": 0.9993
+    },
+    {
+     "start": 3191.69,
+     "end": 3192.35,
+     "word": " illumined",
+     "probability": 0.9924
+    },
+    {
+     "start": 3192.35,
+     "end": 3192.57,
+     "word": " ones",
+     "probability": 0.9792
+    },
+    {
+     "start": 3192.57,
+     "end": 3192.99,
+     "word": " always",
+     "probability": 0.9991
+    },
+    {
+     "start": 3192.99,
+     "end": 3193.53,
+     "word": " behold.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "start": 3193.89,
+   "end": 3200.03,
+   "text": " They behold it always because having attained it, they never left.",
+   "avg_logprob": -0.2747698755825267,
+   "no_speech_prob": 0.0017727167578414083,
+   "compression_ratio": 1.455621301775148,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3193.89,
+     "end": 3194.93,
+     "word": " They",
+     "probability": 0.9997
+    },
+    {
+     "start": 3194.93,
+     "end": 3195.31,
+     "word": " behold",
+     "probability": 0.9998
+    },
+    {
+     "start": 3195.31,
+     "end": 3195.59,
+     "word": " it",
+     "probability": 0.9998
+    },
+    {
+     "start": 3195.59,
+     "end": 3195.87,
+     "word": " always",
+     "probability": 0.9999
+    },
+    {
+     "start": 3195.87,
+     "end": 3196.37,
+     "word": " because",
+     "probability": 0.9955
+    },
+    {
+     "start": 3196.37,
+     "end": 3197.33,
+     "word": " having",
+     "probability": 0.9535
+    },
+    {
+     "start": 3197.33,
+     "end": 3197.91,
+     "word": " attained",
+     "probability": 0.9997
+    },
+    {
+     "start": 3197.91,
+     "end": 3198.35,
+     "word": " it,",
+     "probability": 0.9999
+    },
+    {
+     "start": 3198.45,
+     "end": 3199.05,
+     "word": " they",
+     "probability": 0.9992
+    },
+    {
+     "start": 3199.05,
+     "end": 3199.51,
+     "word": " never",
+     "probability": 0.9998
+    },
+    {
+     "start": 3199.51,
+     "end": 3200.03,
+     "word": " left.",
+     "probability": 0.9937
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "start": 3201.63,
+   "end": 3204.89,
+   "text": " In the Brihatara Upanishad 446.",
+   "avg_logprob": -0.2747698755825267,
+   "no_speech_prob": 0.0017727167578414083,
+   "compression_ratio": 1.455621301775148,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3201.63,
+     "end": 3202.69,
+     "word": " In",
+     "probability": 0.9917
+    },
+    {
+     "start": 3202.69,
+     "end": 3202.79,
+     "word": " the",
+     "probability": 0.9968
+    },
+    {
+     "start": 3202.79,
+     "end": 3203.43,
+     "word": " Brihatara",
+     "probability": 0.6844
+    },
+    {
+     "start": 3203.43,
+     "end": 3204.09,
+     "word": " Upanishad",
+     "probability": 0.6735
+    },
+    {
+     "start": 3204.09,
+     "end": 3204.89,
+     "word": " 446.",
+     "probability": 0.9485
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "start": 3206.01,
+   "end": 3208.17,
+   "text": " Brahmaivasan brahma apyodhi.",
+   "avg_logprob": -0.2747698755825267,
+   "no_speech_prob": 0.0017727167578414083,
+   "compression_ratio": 1.455621301775148,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3206.01,
+     "end": 3207.07,
+     "word": " Brahmaivasan",
+     "probability": 0.8904
+    },
+    {
+     "start": 3207.07,
+     "end": 3207.49,
+     "word": " brahma",
+     "probability": 0.6722
+    },
+    {
+     "start": 3207.49,
+     "end": 3208.17,
+     "word": " apyodhi.",
+     "probability": 0.6519
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "start": 3208.17,
+   "end": 3213.19,
+   "text": " Being Brahman itself, the knower, merges into Brahman.",
+   "avg_logprob": -0.1907035691701636,
+   "no_speech_prob": 0.0017586363246664405,
+   "compression_ratio": 1.5255102040816326,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3208.17,
+     "end": 3209.87,
+     "word": " Being",
+     "probability": 0.9136
+    },
+    {
+     "start": 3209.87,
+     "end": 3210.41,
+     "word": " Brahman",
+     "probability": 0.9806
+    },
+    {
+     "start": 3210.41,
+     "end": 3210.63,
+     "word": " itself,",
+     "probability": 0.9841
+    },
+    {
+     "start": 3211.01,
+     "end": 3211.15,
+     "word": " the",
+     "probability": 0.9995
+    },
+    {
+     "start": 3211.15,
+     "end": 3211.71,
+     "word": " knower,",
+     "probability": 0.991
+    },
+    {
+     "start": 3211.71,
+     "end": 3212.45,
+     "word": " merges",
+     "probability": 0.9976
+    },
+    {
+     "start": 3212.45,
+     "end": 3212.75,
+     "word": " into",
+     "probability": 0.9997
+    },
+    {
+     "start": 3212.75,
+     "end": 3213.19,
+     "word": " Brahman.",
+     "probability": 0.9989
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "start": 3213.29,
+   "end": 3216.87,
+   "text": " There is no return because there is no departure.",
+   "avg_logprob": -0.1907035691701636,
+   "no_speech_prob": 0.0017586363246664405,
+   "compression_ratio": 1.5255102040816326,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3213.29,
+     "end": 3214.23,
+     "word": " There",
+     "probability": 0.9998
+    },
+    {
+     "start": 3214.23,
+     "end": 3214.41,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3214.41,
+     "end": 3214.63,
+     "word": " no",
+     "probability": 1.0
+    },
+    {
+     "start": 3214.63,
+     "end": 3215.07,
+     "word": " return",
+     "probability": 0.9999
+    },
+    {
+     "start": 3215.07,
+     "end": 3215.57,
+     "word": " because",
+     "probability": 0.9933
+    },
+    {
+     "start": 3215.57,
+     "end": 3215.91,
+     "word": " there",
+     "probability": 0.9999
+    },
+    {
+     "start": 3215.91,
+     "end": 3216.09,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3216.09,
+     "end": 3216.35,
+     "word": " no",
+     "probability": 0.9999
+    },
+    {
+     "start": 3216.35,
+     "end": 3216.87,
+     "word": " departure.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "start": 3217.39,
+   "end": 3222.63,
+   "text": " The jnani who recognize Aham Brahmasmi is not gone anywhere.",
+   "avg_logprob": -0.1907035691701636,
+   "no_speech_prob": 0.0017586363246664405,
+   "compression_ratio": 1.5255102040816326,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3217.39,
+     "end": 3218.07,
+     "word": " The",
+     "probability": 0.9092
+    },
+    {
+     "start": 3218.07,
+     "end": 3218.51,
+     "word": " jnani",
+     "probability": 0.8357
+    },
+    {
+     "start": 3218.51,
+     "end": 3219.19,
+     "word": " who",
+     "probability": 0.9691
+    },
+    {
+     "start": 3219.19,
+     "end": 3219.85,
+     "word": " recognize",
+     "probability": 0.7147
+    },
+    {
+     "start": 3219.85,
+     "end": 3220.49,
+     "word": " Aham",
+     "probability": 0.8617
+    },
+    {
+     "start": 3220.49,
+     "end": 3221.07,
+     "word": " Brahmasmi",
+     "probability": 0.9679
+    },
+    {
+     "start": 3221.07,
+     "end": 3221.39,
+     "word": " is",
+     "probability": 0.9991
+    },
+    {
+     "start": 3221.39,
+     "end": 3221.79,
+     "word": " not",
+     "probability": 0.9999
+    },
+    {
+     "start": 3221.79,
+     "end": 3222.19,
+     "word": " gone",
+     "probability": 0.9998
+    },
+    {
+     "start": 3222.19,
+     "end": 3222.63,
+     "word": " anywhere.",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "start": 3222.83,
+   "end": 3225.23,
+   "text": " The return is structurally impossible.",
+   "avg_logprob": -0.1907035691701636,
+   "no_speech_prob": 0.0017586363246664405,
+   "compression_ratio": 1.5255102040816326,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3222.83,
+     "end": 3223.53,
+     "word": " The",
+     "probability": 0.9994
+    },
+    {
+     "start": 3223.53,
+     "end": 3223.91,
+     "word": " return",
+     "probability": 1.0
+    },
+    {
+     "start": 3223.91,
+     "end": 3224.15,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3224.15,
+     "end": 3224.75,
+     "word": " structurally",
+     "probability": 0.9996
+    },
+    {
+     "start": 3224.75,
+     "end": 3225.23,
+     "word": " impossible.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "start": 3227.15,
+   "end": 3230.01,
+   "text": " Shankaracharya explains the na nivartante.",
+   "avg_logprob": -0.1907035691701636,
+   "no_speech_prob": 0.0017586363246664405,
+   "compression_ratio": 1.5255102040816326,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3227.15,
+     "end": 3228.09,
+     "word": " Shankaracharya",
+     "probability": 0.9631
+    },
+    {
+     "start": 3228.09,
+     "end": 3228.71,
+     "word": " explains",
+     "probability": 0.9994
+    },
+    {
+     "start": 3228.71,
+     "end": 3229.13,
+     "word": " the",
+     "probability": 0.9952
+    },
+    {
+     "start": 3229.13,
+     "end": 3229.27,
+     "word": " na",
+     "probability": 0.1288
+    },
+    {
+     "start": 3229.27,
+     "end": 3230.01,
+     "word": " nivartante.",
+     "probability": 0.8787
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "start": 3231.01,
+   "end": 3234.19,
+   "text": " Na punar janmaha paapnuvanti.",
+   "avg_logprob": -0.1907035691701636,
+   "no_speech_prob": 0.0017586363246664405,
+   "compression_ratio": 1.5255102040816326,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3231.01,
+     "end": 3231.95,
+     "word": " Na",
+     "probability": 0.2907
+    },
+    {
+     "start": 3231.95,
+     "end": 3232.41,
+     "word": " punar",
+     "probability": 0.9209
+    },
+    {
+     "start": 3232.41,
+     "end": 3232.89,
+     "word": " janmaha",
+     "probability": 0.647
+    },
+    {
+     "start": 3232.89,
+     "end": 3234.19,
+     "word": " paapnuvanti.",
+     "probability": 0.8404
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "start": 3235.43,
+   "end": 3237.17,
+   "text": " Atyantam eva samsara.",
+   "avg_logprob": -0.1907035691701636,
+   "no_speech_prob": 0.0017586363246664405,
+   "compression_ratio": 1.5255102040816326,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3235.43,
+     "end": 3236.37,
+     "word": " Atyantam",
+     "probability": 0.7859
+    },
+    {
+     "start": 3236.37,
+     "end": 3237.05,
+     "word": " eva",
+     "probability": 0.9774
+    },
+    {
+     "start": 3237.05,
+     "end": 3237.52,
+     "word": " samsara.",
+     "probability": 0.7193
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "start": 3237.52,
+   "end": 3239.66,
+   "text": " Samsara nivartaha bhavanti.",
+   "avg_logprob": -0.1523030878203671,
+   "no_speech_prob": 0.001489392132498324,
+   "compression_ratio": 1.6402439024390243,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3237.52,
+     "end": 3238.14,
+     "word": " Samsara",
+     "probability": 0.492
+    },
+    {
+     "start": 3238.14,
+     "end": 3239.04,
+     "word": " nivartaha",
+     "probability": 0.6467
+    },
+    {
+     "start": 3239.04,
+     "end": 3239.66,
+     "word": " bhavanti.",
+     "probability": 0.9093
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "start": 3240.24,
+   "end": 3242.12,
+   "text": " They do not return.",
+   "avg_logprob": -0.1523030878203671,
+   "no_speech_prob": 0.001489392132498324,
+   "compression_ratio": 1.6402439024390243,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3240.24,
+     "end": 3241.3,
+     "word": " They",
+     "probability": 0.9988
+    },
+    {
+     "start": 3241.3,
+     "end": 3241.5,
+     "word": " do",
+     "probability": 0.9999
+    },
+    {
+     "start": 3241.5,
+     "end": 3241.74,
+     "word": " not",
+     "probability": 1.0
+    },
+    {
+     "start": 3241.74,
+     "end": 3242.12,
+     "word": " return.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "start": 3242.26,
+   "end": 3244.64,
+   "text": " They do not attain rebirth again.",
+   "avg_logprob": -0.1523030878203671,
+   "no_speech_prob": 0.001489392132498324,
+   "compression_ratio": 1.6402439024390243,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3242.26,
+     "end": 3242.96,
+     "word": " They",
+     "probability": 0.9998
+    },
+    {
+     "start": 3242.96,
+     "end": 3243.16,
+     "word": " do",
+     "probability": 0.999
+    },
+    {
+     "start": 3243.16,
+     "end": 3243.48,
+     "word": " not",
+     "probability": 1.0
+    },
+    {
+     "start": 3243.48,
+     "end": 3243.86,
+     "word": " attain",
+     "probability": 0.9995
+    },
+    {
+     "start": 3243.86,
+     "end": 3244.34,
+     "word": " rebirth",
+     "probability": 0.9995
+    },
+    {
+     "start": 3244.34,
+     "end": 3244.64,
+     "word": " again.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "start": 3245.52,
+   "end": 3249.34,
+   "text": " They are completely and absolutely withdrawn from samsara.",
+   "avg_logprob": -0.1523030878203671,
+   "no_speech_prob": 0.001489392132498324,
+   "compression_ratio": 1.6402439024390243,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3245.09,
+     "end": 3245.62,
+     "word": " They",
+     "probability": 0.9998
+    },
+    {
+     "start": 3245.62,
+     "end": 3245.84,
+     "word": " are",
+     "probability": 0.9999
+    },
+    {
+     "start": 3245.84,
+     "end": 3246.34,
+     "word": " completely",
+     "probability": 0.9998
+    },
+    {
+     "start": 3246.34,
+     "end": 3247.02,
+     "word": " and",
+     "probability": 0.9989
+    },
+    {
+     "start": 3247.02,
+     "end": 3247.52,
+     "word": " absolutely",
+     "probability": 0.9995
+    },
+    {
+     "start": 3247.52,
+     "end": 3248.3,
+     "word": " withdrawn",
+     "probability": 0.999
+    },
+    {
+     "start": 3248.3,
+     "end": 3248.74,
+     "word": " from",
+     "probability": 0.9998
+    },
+    {
+     "start": 3248.74,
+     "end": 3249.34,
+     "word": " samsara.",
+     "probability": 0.7755
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "start": 3250.52,
+   "end": 3255.66,
+   "text": " The atyantam, absolute or complete is significant.",
+   "avg_logprob": -0.1523030878203671,
+   "no_speech_prob": 0.001489392132498324,
+   "compression_ratio": 1.6402439024390243,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3250.33,
+     "end": 3250.86,
+     "word": " The",
+     "probability": 0.9981
+    },
+    {
+     "start": 3250.86,
+     "end": 3251.62,
+     "word": " atyantam,",
+     "probability": 0.5983
+    },
+    {
+     "start": 3251.62,
+     "end": 3252.7,
+     "word": " absolute",
+     "probability": 0.9994
+    },
+    {
+     "start": 3252.7,
+     "end": 3253.46,
+     "word": " or",
+     "probability": 0.9989
+    },
+    {
+     "start": 3253.46,
+     "end": 3254.16,
+     "word": " complete",
+     "probability": 1.0
+    },
+    {
+     "start": 3254.16,
+     "end": 3255.14,
+     "word": " is",
+     "probability": 0.6459
+    },
+    {
+     "start": 3255.14,
+     "end": 3255.66,
+     "word": " significant.",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "start": 3256.52,
+   "end": 3262.5,
+   "text": " Not a temporary withdrawal in the sanmarga attainment.",
+   "avg_logprob": -0.1523030878203671,
+   "no_speech_prob": 0.001489392132498324,
+   "compression_ratio": 1.6402439024390243,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3256.03,
+     "end": 3256.56,
+     "word": " Not",
+     "probability": 0.9515
+    },
+    {
+     "start": 3256.56,
+     "end": 3256.78,
+     "word": " a",
+     "probability": 0.979
+    },
+    {
+     "start": 3256.78,
+     "end": 3257.76,
+     "word": " temporary",
+     "probability": 0.9989
+    },
+    {
+     "start": 3257.76,
+     "end": 3259.22,
+     "word": " withdrawal",
+     "probability": 0.9722
+    },
+    {
+     "start": 3259.22,
+     "end": 3260.84,
+     "word": " in",
+     "probability": 0.9924
+    },
+    {
+     "start": 3260.84,
+     "end": 3261.04,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 3261.04,
+     "end": 3261.96,
+     "word": " sanmarga",
+     "probability": 0.8682
+    },
+    {
+     "start": 3261.96,
+     "end": 3262.5,
+     "word": " attainment.",
+     "probability": 0.7265
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "start": 3263.52,
+   "end": 3266.22,
+   "text": " But atyantika nivarti.",
+   "avg_logprob": -0.1523030878203671,
+   "no_speech_prob": 0.001489392132498324,
+   "compression_ratio": 1.6402439024390243,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3263.21,
+     "end": 3263.74,
+     "word": " But",
+     "probability": 0.9957
+    },
+    {
+     "start": 3263.74,
+     "end": 3265.74,
+     "word": " atyantika",
+     "probability": 0.9372
+    },
+    {
+     "start": 3265.74,
+     "end": 3266.22,
+     "word": " nivarti.",
+     "probability": 0.8215
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "start": 3266.22,
+   "end": 3267.74,
+   "text": " Atyantika nivarti.",
+   "avg_logprob": -0.14291208443871464,
+   "no_speech_prob": 0.002032030373811722,
+   "compression_ratio": 1.4671052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3266.22,
+     "end": 3267.34,
+     "word": " Atyantika",
+     "probability": 0.7333
+    },
+    {
+     "start": 3267.34,
+     "end": 3267.74,
+     "word": " nivarti.",
+     "probability": 0.5685
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "start": 3267.88,
+   "end": 3271.22,
+   "text": " The final irreversible cessation of samsara.",
+   "avg_logprob": -0.14291208443871464,
+   "no_speech_prob": 0.002032030373811722,
+   "compression_ratio": 1.4671052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3267.88,
+     "end": 3268.12,
+     "word": " The",
+     "probability": 0.9914
+    },
+    {
+     "start": 3268.12,
+     "end": 3268.52,
+     "word": " final",
+     "probability": 0.9995
+    },
+    {
+     "start": 3268.52,
+     "end": 3269.5,
+     "word": " irreversible",
+     "probability": 0.93
+    },
+    {
+     "start": 3269.5,
+     "end": 3270.48,
+     "word": " cessation",
+     "probability": 0.9324
+    },
+    {
+     "start": 3270.48,
+     "end": 3270.7,
+     "word": " of",
+     "probability": 0.9951
+    },
+    {
+     "start": 3270.7,
+     "end": 3271.22,
+     "word": " samsara.",
+     "probability": 0.9041
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "start": 3273.76,
+   "end": 3275.04,
+   "text": " And what is that?",
+   "avg_logprob": -0.14291208443871464,
+   "no_speech_prob": 0.002032030373811722,
+   "compression_ratio": 1.4671052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3273.76,
+     "end": 3274.44,
+     "word": " And",
+     "probability": 0.9967
+    },
+    {
+     "start": 3274.44,
+     "end": 3274.62,
+     "word": " what",
+     "probability": 0.9984
+    },
+    {
+     "start": 3274.62,
+     "end": 3274.82,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3274.82,
+     "end": 3275.04,
+     "word": " that?",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "start": 3276.18,
+   "end": 3280.9,
+   "text": " It is the mamma dhama.",
+   "avg_logprob": -0.14291208443871464,
+   "no_speech_prob": 0.002032030373811722,
+   "compression_ratio": 1.4671052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3276.18,
+     "end": 3276.86,
+     "word": " It",
+     "probability": 0.9994
+    },
+    {
+     "start": 3276.86,
+     "end": 3277.06,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3277.06,
+     "end": 3277.28,
+     "word": " the",
+     "probability": 0.9995
+    },
+    {
+     "start": 3277.28,
+     "end": 3280.56,
+     "word": " mamma",
+     "probability": 0.172
+    },
+    {
+     "start": 3280.56,
+     "end": 3280.9,
+     "word": " dhama.",
+     "probability": 0.8105
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "start": 3282.84,
+   "end": 3284.36,
+   "text": " Mamma paramam dhama.",
+   "avg_logprob": -0.14291208443871464,
+   "no_speech_prob": 0.002032030373811722,
+   "compression_ratio": 1.4671052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3282.84,
+     "end": 3283.52,
+     "word": " Mamma",
+     "probability": 0.9561
+    },
+    {
+     "start": 3283.52,
+     "end": 3283.98,
+     "word": " paramam",
+     "probability": 0.9861
+    },
+    {
+     "start": 3283.98,
+     "end": 3284.36,
+     "word": " dhama.",
+     "probability": 0.9973
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "start": 3286.24,
+   "end": 3292.22,
+   "text": " That dhama means abode, station, domain, light, radiance.",
+   "avg_logprob": -0.14291208443871464,
+   "no_speech_prob": 0.002032030373811722,
+   "compression_ratio": 1.4671052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3286.24,
+     "end": 3286.92,
+     "word": " That",
+     "probability": 0.9473
+    },
+    {
+     "start": 3286.92,
+     "end": 3287.6,
+     "word": " dhama",
+     "probability": 0.9735
+    },
+    {
+     "start": 3287.6,
+     "end": 3287.98,
+     "word": " means",
+     "probability": 0.9996
+    },
+    {
+     "start": 3287.98,
+     "end": 3289.42,
+     "word": " abode,",
+     "probability": 0.9815
+    },
+    {
+     "start": 3289.58,
+     "end": 3290.1,
+     "word": " station,",
+     "probability": 0.9989
+    },
+    {
+     "start": 3290.4,
+     "end": 3290.8,
+     "word": " domain,",
+     "probability": 0.9989
+    },
+    {
+     "start": 3291.04,
+     "end": 3291.48,
+     "word": " light,",
+     "probability": 0.9994
+    },
+    {
+     "start": 3291.64,
+     "end": 3292.22,
+     "word": " radiance.",
+     "probability": 0.9986
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "start": 3292.38,
+   "end": 3294.56,
+   "text": " These are the different meanings of it.",
+   "avg_logprob": -0.14291208443871464,
+   "no_speech_prob": 0.002032030373811722,
+   "compression_ratio": 1.4671052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3292.38,
+     "end": 3292.92,
+     "word": " These",
+     "probability": 0.9988
+    },
+    {
+     "start": 3292.92,
+     "end": 3293.14,
+     "word": " are",
+     "probability": 1.0
+    },
+    {
+     "start": 3293.14,
+     "end": 3293.3,
+     "word": " the",
+     "probability": 0.9996
+    },
+    {
+     "start": 3293.3,
+     "end": 3293.64,
+     "word": " different",
+     "probability": 0.9997
+    },
+    {
+     "start": 3293.64,
+     "end": 3294.12,
+     "word": " meanings",
+     "probability": 0.9996
+    },
+    {
+     "start": 3294.12,
+     "end": 3294.38,
+     "word": " of",
+     "probability": 0.9999
+    },
+    {
+     "start": 3294.38,
+     "end": 3294.56,
+     "word": " it.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "start": 3294.56,
+   "end": 3300.68,
+   "text": " So dhaman in Sanskrit carries dual sense of alaya, dwelling place.",
+   "avg_logprob": -0.22877090903265135,
+   "no_speech_prob": 0.003963654860854149,
+   "compression_ratio": 1.1176470588235294,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3294.56,
+     "end": 3295.7,
+     "word": " So",
+     "probability": 0.8402
+    },
+    {
+     "start": 3295.7,
+     "end": 3296.2,
+     "word": " dhaman",
+     "probability": 0.5901
+    },
+    {
+     "start": 3296.2,
+     "end": 3296.34,
+     "word": " in",
+     "probability": 0.9924
+    },
+    {
+     "start": 3296.34,
+     "end": 3296.72,
+     "word": " Sanskrit",
+     "probability": 0.9912
+    },
+    {
+     "start": 3296.72,
+     "end": 3297.22,
+     "word": " carries",
+     "probability": 0.9925
+    },
+    {
+     "start": 3297.22,
+     "end": 3298.38,
+     "word": " dual",
+     "probability": 0.8057
+    },
+    {
+     "start": 3298.38,
+     "end": 3298.7,
+     "word": " sense",
+     "probability": 0.9985
+    },
+    {
+     "start": 3298.7,
+     "end": 3299.06,
+     "word": " of",
+     "probability": 0.9992
+    },
+    {
+     "start": 3299.06,
+     "end": 3299.56,
+     "word": " alaya,",
+     "probability": 0.972
+    },
+    {
+     "start": 3299.7,
+     "end": 3300.28,
+     "word": " dwelling",
+     "probability": 0.9998
+    },
+    {
+     "start": 3300.28,
+     "end": 3300.68,
+     "word": " place.",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "start": 3301.56,
+   "end": 3304.24,
+   "text": " Also luminosity or radiance.",
+   "avg_logprob": -0.22877090903265135,
+   "no_speech_prob": 0.003963654860854149,
+   "compression_ratio": 1.1176470588235294,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3301.45,
+     "end": 3301.92,
+     "word": " Also",
+     "probability": 0.9554
+    },
+    {
+     "start": 3301.92,
+     "end": 3303.2,
+     "word": " luminosity",
+     "probability": 0.9132
+    },
+    {
+     "start": 3303.2,
+     "end": 3303.64,
+     "word": " or",
+     "probability": 0.9777
+    },
+    {
+     "start": 3303.64,
+     "end": 3304.24,
+     "word": " radiance.",
+     "probability": 0.9968
+    }
+   ]
+  }
+ ]
+}

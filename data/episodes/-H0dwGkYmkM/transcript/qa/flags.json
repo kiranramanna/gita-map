@@ -1,0 +1,2391 @@
+{
+ "schema": "gita-map/transcript-qa-flags/v1",
+ "subject_file": "raw/asr/merged-raw-asr.json",
+ "subject_sha256": "377fe8abce09d849a6d794ff936d42652f8d0b28312ad08fffea62a42919fae7",
+ "first_pass_flags_file": "qa/first-pass-qa-flags.json",
+ "first_pass_flags_sha256": "a1248c57bb729ab9fc2d42450758686eac67af80575fb7289e1ff9a86a90c663",
+ "created_utc": "2026-11-09T01:41:48.325423+00:00",
+ "builder": "scripts/asr/build_qa.py",
+ "builder_sha256": "702b8850763b836162ecb1d280b312a10575a81df3b6bf2c2f563e4e6f98c6df",
+ "transcript_status": "AUTOMATIC, UNREVIEWED. No span has been checked by a human listener.",
+ "coverage_complete": false,
+ "coverage_note": "Coverage is NOT complete until the 2203-2251 s defect is resolved by a human or explicitly excluded. The first-pass no-word spans listed in first_pass_no_word_spans are also untranscribed in the first pass.",
+ "counts_note": "counts_by_status counts each repetition run, high-temperature segment, specific flag and no-word span once.",
+ "status_definitions": {
+  "confirmed": "The first-pass output is confirmed defective (loop, boundary artifact or untranscribed speech). No complete automatic replacement exists.",
+  "resolved-by-second-pass": "For high-temperature segments and the main-window sub-span: a second decode of the same audio (condition_on_previous_text=False) agrees with the reading under the rules below, which shows decoding stability, NOT correctness. For repetition runs: a clean, non-repeating second-pass decode exists; it comes from a single run and is uncorroborated (replacement_corroborated=false). The clean test cannot catch stock hallucinations. Still unreviewed.",
+  "unresolved": "Evidence is insufficient or the passes disagree. Use only with the uncertainty shown; needs listening."
+ },
+ "rules": {
+  "history": "ratio threshold and clean test set before any comparison was computed; the main-window sub-span rule was written after viewing main-A/B/C; the coverage and language rules were added after viewing the batch (see rules_added_after_observing_outputs)",
+  "ratio": "difflib.SequenceMatcher ratio over NFKD-normalized, lowercased, punctuation-stripped word lists; threshold 0.8",
+  "span": "only the flagged span is compared (first pass: words with midpoint in [start,end]; second pass: [start-0.5, end+0.5]); the 15 s padding is ignored",
+  "clean": "every overlapping second-pass segment has temperature <= 0.4, compression_ratio <= 2.4, and no consecutive duplicate text",
+  "repetition_runs": "phrase reproduced at least as often in the second pass -> unresolved (could be genuine); not reproduced and second pass clean -> resolved-by-second-pass; otherwise unresolved",
+  "high_temperature_segments": "ratio >= threshold and second pass clean -> resolved-by-second-pass; otherwise unresolved; segments inside a repetition run inherit the run status"
+ },
+ "rules_added_after_observing_outputs": [
+  "coverage guard for repetition runs: the second pass must have at least as many words in the span as the first pass with the repeat collapsed (added after sp-145.32-187.40 output 'Satsang with Mooji' over a chant). Stricter only.",
+  "language: a second pass that auto-detected a non-English language cannot resolve a flag; where a forced-English rerun (--language en, label suffix -en) exists it is used instead (added after sp-2587.11-2637.41 auto-detected Telugu and wrote Telugu script). The auto-detected output is kept unchanged in raw."
+ ],
+ "second_pass_runs_known_bad": {
+  "sp-145.32-187.40-nocond.json": "outputs 'Satsang with Mooji' at 158.30-159.42 s and nothing for about 160-176 s; treat as a hallucination/dropout, not a reading",
+  "sp-2587.11-2637.41-nocond.json": "auto-detected language 'te' (p=0.41) and wrote Telugu script; superseded for QA by the -en rerun",
+  "main-C-2165-2290-nocond.json": "omits about 2234-2248 s (speech-level energy present)"
+ },
+ "counts_by_status": {
+  "resolved-by-second-pass": 27,
+  "unresolved": 17,
+  "confirmed": 30
+ },
+ "main_defect_2203_2251": {
+  "first_pass_merged_ids_affected": [
+   527,
+   528,
+   529,
+   530,
+   531,
+   532,
+   533,
+   534,
+   535,
+   536,
+   537,
+   538,
+   539,
+   540,
+   541
+  ],
+  "first_pass_merged_ids_adjacent_kept": [
+   526,
+   542
+  ],
+  "first_pass_gap": [
+   2235.43,
+   2250.81
+  ],
+  "candidate_source": "raw/asr-checks/second-pass/main-A-2150-2300-nocond.json",
+  "rule": "A sub-span is resolved-by-second-pass only if main-A, main-C (shifted window) and the first-pass recheck win-2190-2260 all agree with ratio >= 0.8 on it, and no >= 1 s run of speech-level energy is left untranscribed. main-B is not counted as independent: it reproduced main-A exactly because main-A never used fallback.",
+  "sub_spans": [
+   {
+    "name": "english_continuation",
+    "start": 2203.39,
+    "end": 2225.7,
+    "status": "resolved-by-second-pass",
+    "pairwise_ratio": {
+     "main-A_vs_main-B": 1.0,
+     "main-A_vs_main-C": 0.933,
+     "main-A_vs_win-2190-2260": 0.933
+    },
+    "basis": "all required runs agree",
+    "texts_normalized": {
+     "main-A": "the discriminative mind has to become our nature subhava then only the next verse will become the fruit of krishna s advice",
+     "main-B": "the discriminative mind has to become our nature subhava then only the next verse will become the fruit of krishna s advice",
+     "main-C": "in the discriminative mind has to become our our nature then only the next verse will become the fruit of krishna s advice",
+     "win-2190-2260": "in the discriminative mind has to become our nature swabhava then only the next verse will become the fruit of krishna s advice"
+    }
+   },
+   {
+    "name": "sanskrit_quoted_passage",
+    "start": 2231.0,
+    "end": 2247.94,
+    "status": "unresolved",
+    "pairwise_ratio": {
+     "main-A_vs_main-B": 1.0,
+     "main-A_vs_main-C": 0.32,
+     "main-A_vs_win-2190-2260": 0.619
+    },
+    "basis": "runs disagree on this sub-span",
+    "texts_normalized": {
+     "main-A": "shankaracharya says that sarveshu bhuteshu nacchatsu means brahmaadi stambha pariyanteshu sarveshu bhuteshu pralayam gacchatsu navinashyati therefore he is kudastaha nirvikaraha ekarasaha",
+     "main-B": "shankaracharya says that sarveshu bhuteshu nacchatsu means brahmaadi stambha pariyanteshu sarveshu bhuteshu pralayam gacchatsu navinashyati therefore he is kudastaha nirvikaraha ekarasaha",
+     "main-C": "shankaracharya says that means",
+     "win-2190-2260": "shankaracharya says that sarveshu bhuteshu nachyachchu means brahmadhi stamba pariyanteshu sarveshu bhuteshu pralayam gachchachchu na vinashyati therefore he is kodastaha nirvinsha"
+    }
+   },
+   {
+    "name": "tail_gap_with_energy",
+    "start": 2247.94,
+    "end": 2250.81,
+    "status": "unresolved",
+    "pairwise_ratio": {
+     "main-A_vs_main-B": 1.0,
+     "main-A_vs_main-C": 0.0,
+     "main-A_vs_win-2190-2260": 1.0
+    },
+    "basis": "main-A, main-B and win-2190-2260 transcribe nothing between about 2247.9 and 2250.8 s, but per-second energy is [-21.5, -15.3] dBFS (speech level). Content may be missing here, or the next segment's first word may start earlier than its timestamp.",
+    "texts_normalized": {
+     "main-A": "",
+     "main-B": "",
+     "main-C": "means when all",
+     "win-2190-2260": ""
+    }
+   }
+  ],
+  "status": "confirmed",
+  "status_meaning": "The first-pass defect (14-fold loop of 'In the discriminative mind.' plus a 15.4 s untranscribed span with speech-level energy) is confirmed. A second-pass replacement exists only for part of the span; see sub_spans. Coverage of 2203-2251 s is NOT complete.",
+  "coverage_complete": false,
+  "alternative_file": "alternatives/second-pass-2203-2251.json"
+ },
+ "first_pass_no_word_spans": [
+  {
+   "merged_ids": [
+    481,
+    501
+   ],
+   "no_words_from": 1951.67,
+   "no_words_to": 1996.03,
+   "energy": {
+    "dbfs_median": -120.0,
+    "frac_frames_above_thr": 0.336,
+    "longest_above_thr_run_s": 2.4,
+    "per_second_dbfs": [
+     -21.3,
+     -120.0,
+     -103.1,
+     -88.2,
+     -120.0,
+     -120.0,
+     -15.0,
+     -25.4,
+     -120.0,
+     -120.0,
+     -120.0,
+     -120.0,
+     -13.7,
+     -17.9,
+     -120.0,
+     -23.0,
+     -18.5,
+     -120.0,
+     -16.9,
+     -120.0,
+     -120.0,
+     -14.0,
+     -20.4,
+     -87.9,
+     -13.6,
+     -39.0,
+     -16.1,
+     -18.1,
+     -14.5,
+     -17.3,
+     -120.0,
+     -15.0,
+     -14.7,
+     -17.9,
+     -120.0,
+     -15.1,
+     -22.1,
+     -14.1,
+     -27.0,
+     -120.0,
+     -19.4,
+     -13.4,
+     -18.6,
+     -120.0
+    ]
+   },
+   "status": "confirmed",
+   "basis": "first pass emits only punctuation for 44.4 s while 34% of 100 ms frames are above -40.0 dBFS: speech-level audio is untranscribed in the first pass",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-1950.21-2002.59-nocond.json",
+   "second_pass_segment_ids": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "second_pass_replacement_status": "unresolved",
+   "second_pass_observation": "the second pass transcribes words here; it has no independent corroboration, so the replacement stays unresolved",
+   "alternative_file": "alternatives/second-pass-1951-1996.json",
+   "coverage_complete": false
+  }
+ ],
+ "consecutive_duplicate_runs": [
+  {
+   "merged_ids": [
+    19,
+    22
+   ],
+   "start": 103.72,
+   "end": 111.6,
+   "repeats": 4,
+   "text": "shankaram",
+   "temperatures": [
+    1.0
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-73.80-126.60-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    9,
+    10,
+    11
+   ],
+   "second_pass_text_in_span": "Shruti Smriti Purananam Alayam Karunalayam Namah Mi Bhagavat Padam Shankaram Loka Shankaram Shankaram Shankaracharyam Keshavam Badarayanam",
+   "first_pass_phrase_count": 4,
+   "second_pass_phrase_count": 3,
+   "first_pass_words_collapsed": 1,
+   "second_pass_words": 14,
+   "ratio_first_vs_second": 0.222,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 3x in the second pass vs 4x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    41,
+    44
+   ],
+   "start": 160.32,
+   "end": 172.4,
+   "repeats": 4,
+   "text": "Devāyata-smai-namahā",
+   "temperatures": [
+    0.0,
+    0.2
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-145.32-187.40-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [],
+   "second_pass_text_in_span": "",
+   "first_pass_phrase_count": 4,
+   "second_pass_phrase_count": 0,
+   "first_pass_words_collapsed": 3,
+   "second_pass_words": 0,
+   "ratio_first_vs_second": 0.0,
+   "second_pass_clean": false,
+   "second_pass_coverage_ok": false,
+   "status": "unresolved",
+   "second_pass_observation": "second pass differs but is not clean (fallback temperature, compression or repetition), has fewer words than the collapsed first pass (possible dropped content), or is not English."
+  },
+  {
+   "merged_ids": [
+    101,
+    102
+   ],
+   "start": 372.44,
+   "end": 373.86,
+   "repeats": 2,
+   "text": "bhutva",
+   "temperatures": [
+    0.4
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-357.44-388.86-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    6
+   ],
+   "second_pass_text_in_span": "bhutva, bhutva",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 2,
+   "first_pass_words_collapsed": 1,
+   "second_pass_words": 2,
+   "ratio_first_vs_second": 1.0,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "unresolved",
+   "second_pass_observation": "reproduced: the second pass also repeats the phrase; it may be genuine speech (for example a chant or a closing) or an artifact shared by the model. Needs listening."
+  },
+  {
+   "merged_ids": [
+    210,
+    211
+   ],
+   "start": 978.55,
+   "end": 986.89,
+   "repeats": 2,
+   "text": "It does not carry any relational connotation of Atman or the knowledge of Brahman.",
+   "temperatures": [
+    0.0
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-963.55-1001.89-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    1,
+    2,
+    3
+   ],
+   "second_pass_text_in_span": "But the Bhava is the most ontologically neutral term to go with that which is, being as such, etc. It does not carry any relational connotation of Atman or the knowledge of Brahman. It simply points to what is.",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 1,
+   "first_pass_words_collapsed": 14,
+   "second_pass_words": 15,
+   "ratio_first_vs_second": 0.698,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 1x in the second pass vs 2x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    244,
+    245
+   ],
+   "start": 1132.79,
+   "end": 1135.83,
+   "repeats": 2,
+   "text": "Anyaha.",
+   "temperatures": [
+    0.0
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-1117.79-1150.83-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    2
+   ],
+   "second_pass_text_in_span": "existing from the Saguna Avyakta. And what is that? That Avyakta is Avyakta Avyakta and Sanatana. There are two words for it.",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 0,
+   "first_pass_words_collapsed": 1,
+   "second_pass_words": 0,
+   "ratio_first_vs_second": 0.0,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": false,
+   "status": "unresolved",
+   "second_pass_observation": "second pass differs but is not clean (fallback temperature, compression or repetition), has fewer words than the collapsed first pass (possible dropped content), or is not English."
+  },
+  {
+   "merged_ids": [
+    296,
+    299
+   ],
+   "start": 1365.83,
+   "end": 1375.27,
+   "repeats": 4,
+   "text": "Indicative that by saying satyam jnanam anandam brahma.",
+   "temperatures": [
+    0.0,
+    0.8
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-1350.83-1414.41-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    2,
+    3
+   ],
+   "second_pass_text_in_span": "pramana, indicative that by saying Satyam Jnanam Anandam Brahma, Prajnanam Brahma, Ayamatma, Brahma, like that. It is not able to tell what Brahma is. Not that",
+   "first_pass_phrase_count": 4,
+   "second_pass_phrase_count": 1,
+   "first_pass_words_collapsed": 8,
+   "second_pass_words": 13,
+   "ratio_first_vs_second": 0.444,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 1x in the second pass vs 4x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    300,
+    301
+   ],
+   "start": 1375.43,
+   "end": 1380.89,
+   "repeats": 2,
+   "text": "It is not able to tell what brahma is.",
+   "temperatures": [
+    0.8
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-1350.83-1414.41-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    3
+   ],
+   "second_pass_text_in_span": "Ayamatma, Brahma, like that. It is not able to tell what Brahma is. Not that",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 1,
+   "first_pass_words_collapsed": 9,
+   "second_pass_words": 13,
+   "ratio_first_vs_second": 0.645,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 1x in the second pass vs 2x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    305,
+    306
+   ],
+   "start": 1394.89,
+   "end": 1399.41,
+   "repeats": 2,
+   "text": "And when avyakta.",
+   "temperatures": [
+    0.8
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-1350.83-1414.41-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "second_pass_text_in_span": "and when avyaktad avyakta the two words when they",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 0,
+   "first_pass_words_collapsed": 3,
+   "second_pass_words": 4,
+   "ratio_first_vs_second": 0.6,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 0x in the second pass vs 2x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    527,
+    540
+   ],
+   "start": 2204.79,
+   "end": 2234.47,
+   "repeats": 14,
+   "text": "In the discriminative mind.",
+   "temperatures": [
+    0.0,
+    1.0
+   ],
+   "first_pass_status": "confirmed_hallucination_loop",
+   "status": "confirmed",
+   "see": "main_defect_2203_2251"
+  },
+  {
+   "merged_ids": [
+    684,
+    685
+   ],
+   "start": 2676.75,
+   "end": 2681.81,
+   "repeats": 2,
+   "text": "it is",
+   "temperatures": [
+    0.0
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-2661.75-2696.81-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    4,
+    5
+   ],
+   "second_pass_text_in_span": "Sakshatkara, Aparoksha Anubhava. It is not like we go to deep sleep and that is lost when we wake up.",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 1,
+   "first_pass_words_collapsed": 2,
+   "second_pass_words": 6,
+   "ratio_first_vs_second": 0.4,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 1x in the second pass vs 2x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    776,
+    777
+   ],
+   "start": 3034.11,
+   "end": 3036.21,
+   "repeats": 2,
+   "text": "Knowers of Uvanishad.",
+   "temperatures": [
+    0.2
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-3019.11-3051.21-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    2,
+    3
+   ],
+   "second_pass_text_in_span": "by Nishreyasa, the highest good, that is the liberation. Who are the Vedanta with? Knowers of Upanishad. They are the Vedabhits who declare Akshara. The Vedavidaha declared, yad Aksharam",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 0,
+   "first_pass_words_collapsed": 3,
+   "second_pass_words": 4,
+   "ratio_first_vs_second": 0.4,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 0x in the second pass vs 2x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    789,
+    790
+   ],
+   "start": 3091.55,
+   "end": 3096.21,
+   "repeats": 2,
+   "text": "Praapya, having attained or upon reaching.",
+   "temperatures": [
+    0.0
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-3076.55-3111.21-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    3,
+    4
+   ],
+   "second_pass_text_in_span": "Prapya, having attained or upon reaching. The same thing, upetya, in the 10th verse.",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 0,
+   "first_pass_words_collapsed": 6,
+   "second_pass_words": 6,
+   "ratio_first_vs_second": 0.556,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 0x in the second pass vs 2x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    810,
+    811
+   ],
+   "start": 3168.97,
+   "end": 3172.13,
+   "repeats": 2,
+   "text": "He does not return again.",
+   "temperatures": [
+    0.0
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-3153.97-3187.13-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    2,
+    3
+   ],
+   "second_pass_text_in_span": "na cha punaravartate na cha punaravartate. 8th chapter 15.1. He does not return again, he does not return again. That is the concluding statement of Chandogya Upanishad. In the Kathopanishad",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 2,
+   "first_pass_words_collapsed": 5,
+   "second_pass_words": 10,
+   "ratio_first_vs_second": 1.0,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "unresolved",
+   "second_pass_observation": "reproduced: the second pass also repeats the phrase; it may be genuine speech (for example a chant or a closing) or an artifact shared by the model. Needs listening."
+  },
+  {
+   "merged_ids": [
+    893,
+    894
+   ],
+   "start": 3685.91,
+   "end": 3687.55,
+   "repeats": 2,
+   "text": "Thank you.",
+   "temperatures": [
+    0.0
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-3670.91-3742.83-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    4,
+    5,
+    6
+   ],
+   "second_pass_text_in_span": "Hari Om Thank you. Thank you very much, Mendoji.",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 1,
+   "first_pass_words_collapsed": 2,
+   "second_pass_words": 4,
+   "ratio_first_vs_second": 0.75,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 1x in the second pass vs 2x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    899,
+    900
+   ],
+   "start": 3707.93,
+   "end": 3720.93,
+   "repeats": 2,
+   "text": "And as a reminder, this Sunday we will not be having an open discussion because of the Diwali season and that.",
+   "temperatures": [
+    0.0,
+    0.8
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-3670.91-3742.83-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    8,
+    9,
+    10
+   ],
+   "second_pass_text_in_span": "if you have any follow-up questions the chat window is also open and as a reminder this Sunday we will not be having an open discussion because of the Diwali season and the fireworks so we will resume our next Bhagavad Gita class",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 0,
+   "first_pass_words_collapsed": 22,
+   "second_pass_words": 24,
+   "ratio_first_vs_second": 0.627,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": true,
+   "status": "resolved-by-second-pass",
+   "replacement_corroborated": false,
+   "second_pass_observation": "not reproduced: phrase appears 0x in the second pass vs 2x in the first; the second pass reads the span without repetition or high-temperature fallback."
+  },
+  {
+   "merged_ids": [
+    901,
+    902
+   ],
+   "start": 3720.93,
+   "end": 3727.83,
+   "repeats": 2,
+   "text": "So, we will resume our next class on Monday at 8.30 PM IASD.",
+   "temperatures": [
+    0.8
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-3670.91-3742.83-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    10,
+    11
+   ],
+   "second_pass_text_in_span": "Diwali season and the fireworks so we will resume our next Bhagavad Gita class hours on Monday at 8 30 p.m. AST",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 0,
+   "first_pass_words_collapsed": 33,
+   "second_pass_words": 17,
+   "ratio_first_vs_second": 0.344,
+   "second_pass_clean": true,
+   "second_pass_coverage_ok": false,
+   "status": "unresolved",
+   "second_pass_observation": "second pass differs but is not clean (fallback temperature, compression or repetition), has fewer words than the collapsed first pass (possible dropped content), or is not English."
+  },
+  {
+   "merged_ids": [
+    1115,
+    1116
+   ],
+   "start": 4150.83,
+   "end": 4151.85,
+   "repeats": 2,
+   "text": "Hari Om.",
+   "temperatures": [
+    0.0
+   ],
+   "first_pass_status": "unverified",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-4135.83-4157.75-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "second_pass_text_in_span": "being there we will reconvene on Monday with verses from 22nd onwards thank you how do you how do you good",
+   "first_pass_phrase_count": 2,
+   "second_pass_phrase_count": 0,
+   "first_pass_words_collapsed": 2,
+   "second_pass_words": 7,
+   "ratio_first_vs_second": 0.0,
+   "second_pass_clean": false,
+   "second_pass_coverage_ok": true,
+   "status": "unresolved",
+   "second_pass_observation": "second pass differs but is not clean (fallback temperature, compression or repetition), has fewer words than the collapsed first pass (possible dropped content), or is not English."
+  }
+ ],
+ "high_temperature_segments_ge_0.8": [
+  {
+   "merged_id": 15,
+   "start": 88.8,
+   "end": 90.36,
+   "temperature": 1.0,
+   "text": " my invocations",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-73.80-126.60-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    7,
+    8
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 1.0,
+   "second_pass_clean": true,
+   "status": "resolved-by-second-pass",
+   "second_pass_observation": "same words decoded without high-temperature fallback (decoding-stable; not verified)."
+  },
+  {
+   "merged_id": 16,
+   "start": 91.2,
+   "end": 92.36,
+   "temperature": 1.0,
+   "text": " oh",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-73.80-126.60-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    8
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.0,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 17,
+   "start": 97.2,
+   "end": 97.96,
+   "temperature": 1.0,
+   "text": " namo brahma",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-73.80-126.60-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    8
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.0,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 18,
+   "start": 97.96,
+   "end": 98.16,
+   "temperature": 1.0,
+   "text": " the",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-73.80-126.60-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    8
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.0,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 19,
+   "start": 103.72,
+   "end": 105.12,
+   "temperature": 1.0,
+   "text": " shankaram",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 103.72,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 20,
+   "start": 108.56,
+   "end": 109.96,
+   "temperature": 1.0,
+   "text": " shankaram",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 103.72,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 21,
+   "start": 109.96,
+   "end": 111.02,
+   "temperature": 1.0,
+   "text": " shankaram",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 103.72,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 22,
+   "start": 111.02,
+   "end": 111.6,
+   "temperature": 1.0,
+   "text": " shankaram",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 103.72,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 298,
+   "start": 1372.11,
+   "end": 1373.73,
+   "temperature": 0.8,
+   "text": " Indicative that by saying satyam jnanam anandam brahma.",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 1365.83,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 299,
+   "start": 1373.93,
+   "end": 1375.27,
+   "temperature": 0.8,
+   "text": " Indicative that by saying satyam jnanam anandam brahma.",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 1365.83,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 300,
+   "start": 1375.43,
+   "end": 1380.21,
+   "temperature": 0.8,
+   "text": " It is not able to tell what brahma is.",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 1375.43,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 301,
+   "start": 1380.31,
+   "end": 1380.89,
+   "temperature": 0.8,
+   "text": " It is not able to tell what brahma is.",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 1375.43,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 302,
+   "start": 1380.89,
+   "end": 1384.49,
+   "temperature": 0.8,
+   "text": " Not the brahma of the creator.",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-1350.83-1414.41-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    3,
+    4
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.609,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 303,
+   "start": 1384.99,
+   "end": 1387.17,
+   "temperature": 0.8,
+   "text": " But brahman.",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-1350.83-1414.41-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    4
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 1.0,
+   "second_pass_clean": true,
+   "status": "resolved-by-second-pass",
+   "second_pass_observation": "same words decoded without high-temperature fallback (decoding-stable; not verified)."
+  },
+  {
+   "merged_id": 304,
+   "start": 1389.43,
+   "end": 1391.23,
+   "temperature": 0.8,
+   "text": " The nirguna brahman.",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-1350.83-1414.41-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    4
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.8,
+   "second_pass_clean": true,
+   "status": "resolved-by-second-pass",
+   "second_pass_observation": "same words decoded without high-temperature fallback (decoding-stable; not verified)."
+  },
+  {
+   "merged_id": 305,
+   "start": 1394.89,
+   "end": 1397.23,
+   "temperature": 0.8,
+   "text": " And when avyakta.",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 1394.89,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 306,
+   "start": 1398.41,
+   "end": 1399.41,
+   "temperature": 0.8,
+   "text": " And when avyakta.",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 1394.89,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 489,
+   "start": 1965.21,
+   "end": 1966.77,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 490,
+   "start": 1966.77,
+   "end": 1966.83,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 491,
+   "start": 1969.21,
+   "end": 1969.69,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 492,
+   "start": 1969.69,
+   "end": 1970.35,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 493,
+   "start": 1973.21,
+   "end": 1974.03,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 494,
+   "start": 1975.21,
+   "end": 1975.95,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 495,
+   "start": 1980.01,
+   "end": 1981.41,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 496,
+   "start": 1981.41,
+   "end": 1983.61,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 497,
+   "start": 1983.61,
+   "end": 1984.71,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 498,
+   "start": 1984.71,
+   "end": 1984.73,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 499,
+   "start": 1987.21,
+   "end": 1987.33,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 500,
+   "start": 1987.33,
+   "end": 1987.57,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 501,
+   "start": 1987.57,
+   "end": 1987.59,
+   "temperature": 1.0,
+   "text": " ...",
+   "status": "confirmed",
+   "see": "first_pass_no_word_spans",
+   "basis": "segment text has no words; inherits the status of the no-word span it belongs to"
+  },
+  {
+   "merged_id": 528,
+   "start": 2208.89,
+   "end": 2209.53,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 529,
+   "start": 2209.57,
+   "end": 2210.79,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 530,
+   "start": 2214.81,
+   "end": 2216.25,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 531,
+   "start": 2216.25,
+   "end": 2219.59,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 532,
+   "start": 2219.83,
+   "end": 2220.43,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 533,
+   "start": 2220.43,
+   "end": 2221.79,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 534,
+   "start": 2221.87,
+   "end": 2223.13,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 535,
+   "start": 2224.17,
+   "end": 2224.81,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 536,
+   "start": 2224.81,
+   "end": 2225.73,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 537,
+   "start": 2225.73,
+   "end": 2226.21,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 538,
+   "start": 2226.21,
+   "end": 2228.17,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 539,
+   "start": 2231.15,
+   "end": 2232.47,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 540,
+   "start": 2232.47,
+   "end": 2234.47,
+   "temperature": 1.0,
+   "text": " In the discriminative mind.",
+   "status": "confirmed",
+   "covered_by_run_start": 2204.79,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 654,
+   "start": 2602.11,
+   "end": 2611.97,
+   "temperature": 0.8,
+   "text": " Yaha avyaktaha akshara ityuktas tam vedanta vitha paramam gatim ahu.",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-2587.11-2637.41-nocond-en.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    3,
+    4,
+    5
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.5,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 655,
+   "start": 2612.13,
+   "end": 2613.79,
+   "temperature": 0.8,
+   "text": " Yaha avyaktaha akshara itiuktas tam vedanta vitha paramam gatim ahu.",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-2587.11-2637.41-nocond-en.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    4,
+    5
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.286,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 656,
+   "start": 2613.79,
+   "end": 2619.37,
+   "temperature": 0.8,
+   "text": " Yam gattuayam prapyana nivartande tadparamamdama mama.",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-2587.11-2637.41-nocond-en.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    5
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.087,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 657,
+   "start": 2619.53,
+   "end": 2622.41,
+   "temperature": 0.8,
+   "text": " That is,",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-2587.11-2637.41-nocond-en.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    5,
+    6
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.8,
+   "second_pass_clean": true,
+   "status": "resolved-by-second-pass",
+   "second_pass_observation": "same words decoded without high-temperature fallback (decoding-stable; not verified)."
+  },
+  {
+   "merged_id": 749,
+   "start": 2889.63,
+   "end": 2890.19,
+   "temperature": 1.0,
+   "text": " is",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-2874.63-2905.73-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    6,
+    7
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 1.0,
+   "second_pass_clean": true,
+   "status": "resolved-by-second-pass",
+   "second_pass_observation": "same words decoded without high-temperature fallback (decoding-stable; not verified)."
+  },
+  {
+   "merged_id": 750,
+   "start": 2890.19,
+   "end": 2890.47,
+   "temperature": 1.0,
+   "text": " the",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-2874.63-2905.73-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    6,
+    7
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.0,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 751,
+   "start": 2890.47,
+   "end": 2890.73,
+   "temperature": 1.0,
+   "text": " eshad",
+   "second_pass_file": "raw/asr-checks/second-pass/sp-2874.63-2905.73-nocond.json",
+   "second_pass_language": "en",
+   "second_pass_segment_ids": [
+    6,
+    7
+   ],
+   "second_pass_max_temperature": 0.0,
+   "ratio_first_vs_second": 0.0,
+   "second_pass_clean": true,
+   "status": "unresolved",
+   "second_pass_observation": "readings differ or second pass not clean; compare first-pass text with second_pass_segment_ids before using this span."
+  },
+  {
+   "merged_id": 900,
+   "start": 3718.07,
+   "end": 3720.93,
+   "temperature": 0.8,
+   "text": " And as a reminder, this Sunday we will not be having an open discussion because of the Diwali season and that.",
+   "status": "resolved-by-second-pass",
+   "covered_by_run_start": 3707.93,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 901,
+   "start": 3720.93,
+   "end": 3727.29,
+   "temperature": 0.8,
+   "text": " So, we will resume our next class on Monday at 8.30 PM IASD.",
+   "status": "unresolved",
+   "covered_by_run_start": 3720.93,
+   "basis": "inherits the status of the repetition run it belongs to"
+  },
+  {
+   "merged_id": 902,
+   "start": 3727.43,
+   "end": 3727.83,
+   "temperature": 0.8,
+   "text": " So, we will resume our next class on Monday at 8.30 PM IASD.",
+   "status": "unresolved",
+   "covered_by_run_start": 3720.93,
+   "basis": "inherits the status of the repetition run it belongs to"
+  }
+ ],
+ "specific": [
+  {
+   "start": 814.07,
+   "end": 814.23,
+   "status": "confirmed",
+   "text": " yahaḥ sarveṣu bhūteṣu naśyatsu naśyati",
+   "evidence": "0.16 s segment at chunk-1 end carrying a half-verse; recheck window checks/win-770-860.json has no speech there.",
+   "first_pass_status": "confirmed_boundary_artifact",
+   "basis": "first-pass recheck win-770-860 has no speech there; segment is a chunk-boundary artifact"
+  },
+  {
+   "start": 793.41,
+   "end": 799.57,
+   "status": "resolved-by-second-pass",
+   "evidence": "Same sentence transcribed in checks/win-770-860.json (793.46-799.56).",
+   "first_pass_status": "reproduced_in_recheck",
+   "basis": "reproduced by first-pass recheck win-770-860 (different window, same decoding settings)"
+  },
+  {
+   "start": 2234.47,
+   "end": 2250.81,
+   "status": "confirmed",
+   "evidence": "15.4 s gap after the loop; recheck shows speech there.",
+   "first_pass_status": "confirmed_gap",
+   "see": "main_defect_2203_2251"
+  }
+ ],
+ "uncertain_sanskrit_spans": {
+  "note": "Noticed, NOT corrected. Spellings are the ASR model's output and must not be treated as verified Sanskrit or verse text.",
+  "heuristic": "first-pass segments whose text contains IAST diacritics, or with two or more words of probability < 0.4",
+  "segments": [
+   {
+    "merged_id": 23,
+    "start": 111.6,
+    "end": 113.86,
+    "text": " Rāchāryam Keshavam Bhādharāyaṇam",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 24,
+    "start": 113.86,
+    "end": 115.76,
+    "text": " Sūtrabhāṣa-kṛta-vande",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 25,
+    "start": 115.76,
+    "end": 117.5,
+    "text": " Bhagavān-daukuna-punaha",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 26,
+    "start": 117.5,
+    "end": 119.86,
+    "text": " Īśvaro Guru Rātmeti",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " Guru"
+    ]
+   },
+   {
+    "merged_id": 27,
+    "start": 119.86,
+    "end": 121.4,
+    "text": " Mūrti-Veda-vibhāgine",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 28,
+    "start": 121.4,
+    "end": 123.74,
+    "text": " Vyoma-vat-vyāpta-dehāya",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 29,
+    "start": 123.74,
+    "end": 125.76,
+    "text": " Dakṣinā-mūrta-ye-namahā",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 30,
+    "start": 125.76,
+    "end": 128.44,
+    "text": " Aum Śrī-Gṛtto-namahā",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 31,
+    "start": 129.24,
+    "end": 131.2,
+    "text": " A Gītā Dhyāna Ślokam",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " A"
+    ]
+   },
+   {
+    "merged_id": 34,
+    "start": 135.42,
+    "end": 138.32,
+    "text": " Stunvan-vidhī-viyai-stavai",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 35,
+    "start": 138.32,
+    "end": 141.38,
+    "text": " Vedai-sāṅga-padakra",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 36,
+    "start": 141.38,
+    "end": 143.52,
+    "text": " Pramopani-śadaihī",
+    "reasons": [
+     "iast_diacritics_in_asr_output",
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Pramopani",
+     "-śadaihī"
+    ]
+   },
+   {
+    "merged_id": 37,
+    "start": 144.32,
+    "end": 147.68,
+    "text": " Gāyandi-yam-sāma-gāhā",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 38,
+    "start": 148.42,
+    "end": 151.64,
+    "text": " Dhyāna-vastita-tattgatena-manasā",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 39,
+    "start": 152.42,
+    "end": 154.58,
+    "text": " Vaśyandi-yam-yoginō",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 40,
+    "start": 155.42,
+    "end": 159.28,
+    "text": " Yasyāndam-navidhu-surā-suraganā",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 41,
+    "start": 160.32,
+    "end": 163.12,
+    "text": " Devāyata-smai-namahā",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 42,
+    "start": 164.32,
+    "end": 167.14,
+    "text": " Devāyata-smai-namahā",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 43,
+    "start": 168.32,
+    "end": 170.88,
+    "text": " Devāyata-smai-namahā",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 44,
+    "start": 170.88,
+    "end": 172.4,
+    "text": " Devāyata-smai-namahā",
+    "reasons": [
+     "iast_diacritics_in_asr_output",
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Devāyata",
+     "-smai",
+     "-namahā"
+    ]
+   },
+   {
+    "merged_id": 100,
+    "start": 366.58,
+    "end": 371.56,
+    "text": " or the night arrives",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " or",
+     " the",
+     " night",
+     " arrives"
+    ]
+   },
+   {
+    "merged_id": 130,
+    "start": 520.37,
+    "end": 531.19,
+    "text": " Now, when he mentioned this is the case with Bhootha Grama means every creation, every material creation or everything that is available in the world.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " case",
+     " Bhootha"
+    ]
+   },
+   {
+    "merged_id": 164,
+    "start": 700.47,
+    "end": 708.09,
+    "text": " parahas tasmātu bhāvo anyo avyatto avyattāt sanātanaḥ",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " parahas"
+    ]
+   },
+   {
+    "merged_id": 165,
+    "start": 709.11,
+    "end": 713.91,
+    "text": " yahaḥ sarveṣu bhūteṣu naśyatsu na vinaśyati",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 166,
+    "start": 715.11,
+    "end": 716.25,
+    "text": " Tasmādh",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 167,
+    "start": 718.15,
+    "end": 720.83,
+    "text": " from that Saguna Avyattāt.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 168,
+    "start": 722.63,
+    "end": 727.57,
+    "text": " Tasmādh paraha means beyond that Saguna Avyatta.",
+    "reasons": [
+     "iast_diacritics_in_asr_output",
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Tasmādh",
+     " paraha"
+    ]
+   },
+   {
+    "merged_id": 170,
+    "start": 735.05,
+    "end": 736.39,
+    "text": " Sanātanaḥ Avyatta.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 171,
+    "start": 737.55,
+    "end": 742.11,
+    "text": " There is another Avyatta which is called the Sanātana Avyatta.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 173,
+    "start": 751.13,
+    "end": 754.83,
+    "text": " yahaḥ sarveṣu bhūteṣu naśyatsu na vinaśyati",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " naśyatsu"
+    ]
+   },
+   {
+    "merged_id": 174,
+    "start": 755.67,
+    "end": 758.81,
+    "text": " yahaḥ means that Sanātana Avyatta.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 175,
+    "start": 760.87,
+    "end": 763.11,
+    "text": " sarveṣu bhūteṣu naśyatsu",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 177,
+    "start": 765.95,
+    "end": 767.55,
+    "text": " That is why sarveṣu bhūteṣu.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " is"
+    ]
+   },
+   {
+    "merged_id": 180,
+    "start": 775.19,
+    "end": 776.83,
+    "text": " sarveṣu bhūteṣu",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " sarveṣu"
+    ]
+   },
+   {
+    "merged_id": 182,
+    "start": 779.25,
+    "end": 782.79,
+    "text": " naśyatsu means when they are perish.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 183,
+    "start": 784.55,
+    "end": 786.25,
+    "text": " na vinaśyati",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " na"
+    ]
+   },
+   {
+    "merged_id": 186,
+    "start": 801.85,
+    "end": 804.91,
+    "text": " avyatta avyatta sanātanaḥ",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " avyatta"
+    ]
+   },
+   {
+    "merged_id": 188,
+    "start": 814.07,
+    "end": 814.23,
+    "text": " yahaḥ sarveṣu bhūteṣu naśyatsu naśyati",
+    "reasons": [
+     "iast_diacritics_in_asr_output",
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " yahaḥ",
+     " sarveṣu",
+     " bhūteṣu",
+     " naśyatsu",
+     " naśyati"
+    ]
+   },
+   {
+    "merged_id": 230,
+    "start": 1076.87,
+    "end": 1078.45,
+    "text": " The Brahmans realm and the lower realms.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " The",
+     " Brahmans",
+     " realm"
+    ]
+   },
+   {
+    "merged_id": 298,
+    "start": 1372.11,
+    "end": 1373.73,
+    "text": " Indicative that by saying satyam jnanam anandam brahma.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Indicative",
+     " that",
+     " by",
+     " saying",
+     " satyam",
+     " jnanam",
+     " anandam"
+    ]
+   },
+   {
+    "merged_id": 310,
+    "start": 1437.59,
+    "end": 1447.41,
+    "text": " A meditating on this verse until the two avyattas are clearly distinguished and the nirguna avyatta stand in the same position,",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " in",
+     " the",
+     " same",
+     " position,"
+    ]
+   },
+   {
+    "merged_id": 313,
+    "start": 1474.33,
+    "end": 1477.25,
+    "text": " Sankaracharya now identifies the two avyattas as the same.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " the",
+     " two",
+     " the"
+    ]
+   },
+   {
+    "merged_id": 320,
+    "start": 1532.89,
+    "end": 1533.77,
+    "text": " Ever new.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Ever",
+     " new."
+    ]
+   },
+   {
+    "merged_id": 332,
+    "start": 1619.17,
+    "end": 1621.29,
+    "text": " Whereas, the nirguna avyatta which is in the night, ratri agame or the mahapralaya, it dissolves.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " which",
+     " night,",
+     " or"
+    ]
+   },
+   {
+    "merged_id": 336,
+    "start": 1637.63,
+    "end": 1643.51,
+    "text": " The sambandha between the two is called kārya-kāraṇa within māyā but as ādiṣṭhāna.",
+    "reasons": [
+     "iast_diacritics_in_asr_output",
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " The",
+     " sambandha",
+     " between",
+     " the",
+     " two",
+     " is",
+     " called",
+     " kārya",
+     " within",
+     " but"
+    ]
+   },
+   {
+    "merged_id": 338,
+    "start": 1644.99,
+    "end": 1645.79,
+    "text": " kārya kārana.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 359,
+    "start": 1690.95,
+    "end": 1693.41,
+    "text": " maya kārana and the nirguna paramatman.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 371,
+    "start": 1715.25,
+    "end": 1716.67,
+    "text": " Nama rūpa vivarjita.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": [
+     " rūpa"
+    ]
+   },
+   {
+    "merged_id": 392,
+    "start": 1763.11,
+    "end": 1763.65,
+    "text": " sanātana.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 394,
+    "start": 1768.01,
+    "end": 1769.01,
+    "text": " Sanātana means",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 401,
+    "start": 1781.21,
+    "end": 1782.69,
+    "text": " Sanātana nityaha",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 403,
+    "start": 1785.29,
+    "end": 1787.23,
+    "text": " The sanātana is the term",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 407,
+    "start": 1793.11,
+    "end": 1793.37,
+    "text": " the ruta.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " the",
+     " ruta."
+    ]
+   },
+   {
+    "merged_id": 408,
+    "start": 1795.75,
+    "end": 1797.21,
+    "text": " The sanātana",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 413,
+    "start": 1804.51,
+    "end": 1806.63,
+    "text": " in this verse as sanātana",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 418,
+    "start": 1815.37,
+    "end": 1816.83,
+    "text": " The sanātana",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 425,
+    "start": 1829.01,
+    "end": 1830.85,
+    "text": " yugas, kalpādita etc.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 427,
+    "start": 1833.23,
+    "end": 1834.11,
+    "text": " kalpādita",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 436,
+    "start": 1850.69,
+    "end": 1851.37,
+    "text": " kāryakāraṇa.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 441,
+    "start": 1861.11,
+    "end": 1862.55,
+    "text": " avyakta, avyakta, sanātana",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 449,
+    "start": 1876.81,
+    "end": 1878.43,
+    "text": " avyakta, sanātana.",
+    "reasons": [
+     "iast_diacritics_in_asr_output"
+    ],
+    "low_prob_words": []
+   },
+   {
+    "merged_id": 518,
+    "start": 2127.49,
+    "end": 2140.39,
+    "text": " Na vinas yati is a paramartha pramana or Avyakta, Nirguna Avyakta.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " vinas",
+     " yati"
+    ]
+   },
+   {
+    "merged_id": 528,
+    "start": 2208.89,
+    "end": 2209.53,
+    "text": " In the discriminative mind.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " In",
+     " the",
+     " discriminative",
+     " mind."
+    ]
+   },
+   {
+    "merged_id": 648,
+    "start": 2564.51,
+    "end": 2565.53,
+    "text": " The ground of all differentiation.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " The",
+     " ground"
+    ]
+   },
+   {
+    "merged_id": 654,
+    "start": 2602.11,
+    "end": 2611.97,
+    "text": " Yaha avyaktaha akshara ityuktas tam vedanta vitha paramam gatim ahu.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " ityuktas",
+     " tam",
+     " vitha"
+    ]
+   },
+   {
+    "merged_id": 656,
+    "start": 2613.79,
+    "end": 2619.37,
+    "text": " Yam gattuayam prapyana nivartande tadparamamdama mama.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Yam",
+     " tadparamamdama",
+     " mama."
+    ]
+   },
+   {
+    "merged_id": 706,
+    "start": 2738.95,
+    "end": 2743.59,
+    "text": " in a single verse four threads have been tied to the mind",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " tied",
+     " to",
+     " the",
+     " mind"
+    ]
+   },
+   {
+    "merged_id": 724,
+    "start": 2803.41,
+    "end": 2806.33,
+    "text": " so tat dhamaparamam mama",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " so",
+     " tat",
+     " mama"
+    ]
+   },
+   {
+    "merged_id": 756,
+    "start": 2918.63,
+    "end": 2925.01,
+    "text": " The Briharadayaranya Upanishad says Etadvaitad Aksharam Gargi.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " The",
+     " says"
+    ]
+   },
+   {
+    "merged_id": 770,
+    "start": 3006.23,
+    "end": 3009.15,
+    "text": " Gati, Vedanta Vidho Vedaknya.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Gati,",
+     " Vidho"
+    ]
+   },
+   {
+    "merged_id": 871,
+    "start": 3490.59,
+    "end": 3496.57,
+    "text": " Na punar na nivartande tad dhama paramam mama.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Na",
+     " tad"
+    ]
+   },
+   {
+    "merged_id": 882,
+    "start": 3556.51,
+    "end": 3568.07,
+    "text": " The equation, tad dhama paramam mama, mama swaroopam, param brahma, krishna's param brahma, is not a loka or krishna inhibits, but a loka.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " but",
+     " a"
+    ]
+   },
+   {
+    "merged_id": 883,
+    "start": 3568.07,
+    "end": 3594.89,
+    "text": " It is krishna's own swaroopa, which is the paramam brahman, which is akshara, which is also abhyakta, which he mentioned that adi yajnam atradehe, which is the witness present in all of us as the knower of everything.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " It",
+     " krishna's",
+     " adi"
+    ]
+   },
+   {
+    "merged_id": 895,
+    "start": 3688.87,
+    "end": 3690.11,
+    "text": " Om Shanti Shanti Shanti Hari Om Shri Gurubhyo Namaha Hari Om",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Om",
+     " Shanti",
+     " Shanti",
+     " Hari",
+     " Om",
+     " Shri",
+     " Gurubhyo",
+     " Namaha",
+     " Hari",
+     " Om"
+    ]
+   },
+   {
+    "merged_id": 900,
+    "start": 3718.07,
+    "end": 3720.93,
+    "text": " And as a reminder, this Sunday we will not be having an open discussion because of the Diwali season and that.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " And",
+     " as",
+     " a",
+     " reminder,",
+     " this",
+     " Sunday",
+     " we",
+     " not",
+     " having",
+     " an",
+     " open",
+     " discussion",
+     " because",
+     " of",
+     " the",
+     " Diwali",
+     " season",
+     " and",
+     " that."
+    ]
+   },
+   {
+    "merged_id": 901,
+    "start": 3720.93,
+    "end": 3727.29,
+    "text": " So, we will resume our next class on Monday at 8.30 PM IASD.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " So,",
+     " class",
+     " PM",
+     " IASD."
+    ]
+   },
+   {
+    "merged_id": 973,
+    "start": 3878.25,
+    "end": 3878.55,
+    "text": " continuous offering of that",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " continuous",
+     " offering"
+    ]
+   },
+   {
+    "merged_id": 995,
+    "start": 3907.29,
+    "end": 3907.85,
+    "text": " So, I'm going to have a",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " So,",
+     " I'm"
+    ]
+   },
+   {
+    "merged_id": 996,
+    "start": 3908.87,
+    "end": 3909.65,
+    "text": " Anyway, that",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Anyway,",
+     " that"
+    ]
+   },
+   {
+    "merged_id": 998,
+    "start": 3912.29,
+    "end": 3914.25,
+    "text": " when I have to discuss with Venkat on that.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " when",
+     " have"
+    ]
+   },
+   {
+    "merged_id": 1076,
+    "start": 4072.63,
+    "end": 4073.01,
+    "text": " Mr. J.",
+    "reasons": [
+     "two_or_more_words_prob_lt_0.4"
+    ],
+    "low_prob_words": [
+     " Mr.",
+     " J."
+    ]
+   }
+  ],
+  "run_variants_2231_2248": {
+   "main-A": "Shankaracharya says that Sarveshu Bhuteshu Nacchatsu means Brahmaadi Stambha Pariyanteshu Sarveshu Bhuteshu Pralayam Gacchatsu Navinashyati. Therefore he is Kudastaha, Nirvikaraha, Ekarasaha,",
+   "main-B": "Shankaracharya says that Sarveshu Bhuteshu Nacchatsu means Brahmaadi Stambha Pariyanteshu Sarveshu Bhuteshu Pralayam Gacchatsu Navinashyati. Therefore he is Kudastaha, Nirvikaraha, Ekarasaha,",
+   "main-C": "Shankaracharya says that means means",
+   "win-2190-2260": "Shankaracharya says that Sarveshu Bhuteshu Nachyachchu means Brahmadhi Stamba Pariyanteshu Sarveshu Bhuteshu Pralayam Gachchachchu na Vinashyati. Therefore he is Kodastaha Nirvinsha.",
+   "first-pass": "In the discriminative mind. In the discriminative mind. means when all beings from Brahma"
+  }
+ }
+}

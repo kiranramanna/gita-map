@@ -1,0 +1,595 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified",
+  "note": "Machine ASR output, not reviewed or corrected. Sanskrit terms and verse text are likely mis-transcribed.",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 2190.0,
+   "dur_s": 70.0
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 16,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": true,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64"
+  },
+  "run_started_utc": "2026-11-09T01:18:14.127982+00:00",
+  "run_finished_utc": "2026-11-09T01:18:56.036105+00:00",
+  "model_load_s": 5.35,
+  "transcribe_wall_s": 41.9,
+  "audio_dur_s": 70.0,
+  "realtime_factor": 0.5986
+ },
+ "language": "en",
+ "language_probability": 0.982390284538269,
+ "all_language_probs_top5": [
+  [
+   "en",
+   0.982390284538269
+  ],
+  [
+   "te",
+   0.014111533761024475
+  ],
+  [
+   "ta",
+   0.0014793379232287407
+  ],
+  [
+   "hi",
+   0.0010752420639619231
+  ],
+  [
+   "sa",
+   0.00045434056664817035
+  ]
+ ],
+ "duration": 70.0,
+ "duration_after_vad": 70.0,
+ "segments": [
+  {
+   "id": 1,
+   "start": 2190.0,
+   "end": 2198.74,
+   "text": " Whatever Vinashyati perishes is Vyavahara Satya only or conventional or transactional reality.",
+   "avg_logprob": -0.28446536004543305,
+   "no_speech_prob": 0.000927276792936027,
+   "compression_ratio": 1.3695652173913044,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2190.0,
+     "end": 2190.38,
+     "word": " Whatever",
+     "probability": 0.4986
+    },
+    {
+     "start": 2190.38,
+     "end": 2191.2,
+     "word": " Vinashyati",
+     "probability": 0.7108
+    },
+    {
+     "start": 2191.2,
+     "end": 2191.86,
+     "word": " perishes",
+     "probability": 0.942
+    },
+    {
+     "start": 2191.86,
+     "end": 2192.82,
+     "word": " is",
+     "probability": 0.9586
+    },
+    {
+     "start": 2192.82,
+     "end": 2194.1,
+     "word": " Vyavahara",
+     "probability": 0.8013
+    },
+    {
+     "start": 2194.1,
+     "end": 2194.52,
+     "word": " Satya",
+     "probability": 0.8409
+    },
+    {
+     "start": 2194.52,
+     "end": 2194.76,
+     "word": " only",
+     "probability": 0.9842
+    },
+    {
+     "start": 2194.76,
+     "end": 2195.16,
+     "word": " or",
+     "probability": 0.9672
+    },
+    {
+     "start": 2195.16,
+     "end": 2195.9,
+     "word": " conventional",
+     "probability": 0.9645
+    },
+    {
+     "start": 2195.9,
+     "end": 2197.56,
+     "word": " or",
+     "probability": 0.9858
+    },
+    {
+     "start": 2197.56,
+     "end": 2198.4,
+     "word": " transactional",
+     "probability": 0.9968
+    },
+    {
+     "start": 2198.4,
+     "end": 2198.74,
+     "word": " reality.",
+     "probability": 0.9949
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 2200.54,
+   "end": 2216.18,
+   "text": " So separating between these two in the discriminative mind has to become our nature, Swabhava.",
+   "avg_logprob": -0.28446536004543305,
+   "no_speech_prob": 0.000927276792936027,
+   "compression_ratio": 1.3695652173913044,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2200.54,
+     "end": 2201.8,
+     "word": " So",
+     "probability": 0.9553
+    },
+    {
+     "start": 2201.8,
+     "end": 2202.32,
+     "word": " separating",
+     "probability": 0.8063
+    },
+    {
+     "start": 2202.32,
+     "end": 2202.66,
+     "word": " between",
+     "probability": 0.9992
+    },
+    {
+     "start": 2202.66,
+     "end": 2203.12,
+     "word": " these",
+     "probability": 0.9987
+    },
+    {
+     "start": 2203.12,
+     "end": 2203.4,
+     "word": " two",
+     "probability": 0.9951
+    },
+    {
+     "start": 2203.4,
+     "end": 2205.68,
+     "word": " in",
+     "probability": 0.9067
+    },
+    {
+     "start": 2205.68,
+     "end": 2205.88,
+     "word": " the",
+     "probability": 0.9997
+    },
+    {
+     "start": 2205.88,
+     "end": 2206.66,
+     "word": " discriminative",
+     "probability": 0.9888
+    },
+    {
+     "start": 2206.66,
+     "end": 2207.12,
+     "word": " mind",
+     "probability": 0.999
+    },
+    {
+     "start": 2207.12,
+     "end": 2208.9,
+     "word": " has",
+     "probability": 0.979
+    },
+    {
+     "start": 2208.9,
+     "end": 2209.26,
+     "word": " to",
+     "probability": 0.9988
+    },
+    {
+     "start": 2209.26,
+     "end": 2212.38,
+     "word": " become",
+     "probability": 0.9953
+    },
+    {
+     "start": 2212.38,
+     "end": 2214.14,
+     "word": " our",
+     "probability": 0.9952
+    },
+    {
+     "start": 2214.14,
+     "end": 2215.08,
+     "word": " nature,",
+     "probability": 0.9951
+    },
+    {
+     "start": 2215.24,
+     "end": 2216.18,
+     "word": " Swabhava.",
+     "probability": 0.8406
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 2216.18,
+   "end": 2225.64,
+   "text": " Then only the next verse will become the fruit of Krishna's advice.",
+   "avg_logprob": -0.32821678820951483,
+   "no_speech_prob": 0.001741172163747251,
+   "compression_ratio": 1.4534883720930232,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2216.18,
+     "end": 2218.1,
+     "word": " Then",
+     "probability": 0.5155
+    },
+    {
+     "start": 2218.1,
+     "end": 2218.44,
+     "word": " only",
+     "probability": 0.9951
+    },
+    {
+     "start": 2218.44,
+     "end": 2218.74,
+     "word": " the",
+     "probability": 0.9903
+    },
+    {
+     "start": 2218.74,
+     "end": 2219.02,
+     "word": " next",
+     "probability": 0.9977
+    },
+    {
+     "start": 2219.02,
+     "end": 2219.46,
+     "word": " verse",
+     "probability": 0.9773
+    },
+    {
+     "start": 2219.46,
+     "end": 2219.8,
+     "word": " will",
+     "probability": 0.9967
+    },
+    {
+     "start": 2219.8,
+     "end": 2220.24,
+     "word": " become",
+     "probability": 0.9981
+    },
+    {
+     "start": 2220.24,
+     "end": 2222.46,
+     "word": " the",
+     "probability": 0.9816
+    },
+    {
+     "start": 2222.46,
+     "end": 2222.86,
+     "word": " fruit",
+     "probability": 0.9973
+    },
+    {
+     "start": 2222.86,
+     "end": 2223.82,
+     "word": " of",
+     "probability": 0.9993
+    },
+    {
+     "start": 2223.82,
+     "end": 2225.28,
+     "word": " Krishna's",
+     "probability": 0.9922
+    },
+    {
+     "start": 2225.28,
+     "end": 2225.64,
+     "word": " advice.",
+     "probability": 0.9946
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 2231.16,
+   "end": 2242.2,
+   "text": " Shankaracharya says that Sarveshu Bhuteshu Nachyachchu means Brahmadhi Stamba Pariyanteshu Sarveshu Bhuteshu Pralayam Gachchachchu na Vinashyati.",
+   "avg_logprob": -0.32821678820951483,
+   "no_speech_prob": 0.001741172163747251,
+   "compression_ratio": 1.4534883720930232,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2231.16,
+     "end": 2232.32,
+     "word": " Shankaracharya",
+     "probability": 0.8679
+    },
+    {
+     "start": 2232.32,
+     "end": 2232.6,
+     "word": " says",
+     "probability": 0.9965
+    },
+    {
+     "start": 2232.6,
+     "end": 2232.88,
+     "word": " that",
+     "probability": 0.7514
+    },
+    {
+     "start": 2232.88,
+     "end": 2233.54,
+     "word": " Sarveshu",
+     "probability": 0.6446
+    },
+    {
+     "start": 2233.54,
+     "end": 2234.08,
+     "word": " Bhuteshu",
+     "probability": 0.8879
+    },
+    {
+     "start": 2234.08,
+     "end": 2234.8,
+     "word": " Nachyachchu",
+     "probability": 0.4235
+    },
+    {
+     "start": 2234.8,
+     "end": 2235.7,
+     "word": " means",
+     "probability": 0.9943
+    },
+    {
+     "start": 2235.7,
+     "end": 2237.16,
+     "word": " Brahmadhi",
+     "probability": 0.6058
+    },
+    {
+     "start": 2237.16,
+     "end": 2237.58,
+     "word": " Stamba",
+     "probability": 0.7091
+    },
+    {
+     "start": 2237.58,
+     "end": 2238.52,
+     "word": " Pariyanteshu",
+     "probability": 0.8532
+    },
+    {
+     "start": 2238.52,
+     "end": 2239.12,
+     "word": " Sarveshu",
+     "probability": 0.9973
+    },
+    {
+     "start": 2239.12,
+     "end": 2239.74,
+     "word": " Bhuteshu",
+     "probability": 0.9974
+    },
+    {
+     "start": 2239.74,
+     "end": 2240.32,
+     "word": " Pralayam",
+     "probability": 0.9639
+    },
+    {
+     "start": 2240.32,
+     "end": 2241.14,
+     "word": " Gachchachchu",
+     "probability": 0.8177
+    },
+    {
+     "start": 2241.14,
+     "end": 2241.62,
+     "word": " na",
+     "probability": 0.0997
+    },
+    {
+     "start": 2241.62,
+     "end": 2242.2,
+     "word": " Vinashyati.",
+     "probability": 0.8664
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 2243.7,
+   "end": 2246.16,
+   "text": " Therefore he is Kodastaha Nirvinsha.",
+   "avg_logprob": -0.32821678820951483,
+   "no_speech_prob": 0.001741172163747251,
+   "compression_ratio": 1.4534883720930232,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2243.26,
+     "end": 2243.84,
+     "word": " Therefore",
+     "probability": 0.9959
+    },
+    {
+     "start": 2243.84,
+     "end": 2244.16,
+     "word": " he",
+     "probability": 0.6338
+    },
+    {
+     "start": 2244.16,
+     "end": 2244.38,
+     "word": " is",
+     "probability": 0.9998
+    },
+    {
+     "start": 2244.38,
+     "end": 2245.06,
+     "word": " Kodastaha",
+     "probability": 0.7257
+    },
+    {
+     "start": 2245.06,
+     "end": 2246.16,
+     "word": " Nirvinsha.",
+     "probability": 0.4564
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 2251.52,
+   "end": 2257.6,
+   "text": " When all beings from Brahma down to the blade of grass, Brahmadhi Stamba Pariyantam.",
+   "avg_logprob": -0.2824835887661687,
+   "no_speech_prob": 0.0018728793365880847,
+   "compression_ratio": 1.024390243902439,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2251.52,
+     "end": 2252.24,
+     "word": " When",
+     "probability": 0.3273
+    },
+    {
+     "start": 2252.24,
+     "end": 2252.5,
+     "word": " all",
+     "probability": 0.9875
+    },
+    {
+     "start": 2252.5,
+     "end": 2252.94,
+     "word": " beings",
+     "probability": 0.9594
+    },
+    {
+     "start": 2252.94,
+     "end": 2253.34,
+     "word": " from",
+     "probability": 0.9397
+    },
+    {
+     "start": 2253.34,
+     "end": 2253.84,
+     "word": " Brahma",
+     "probability": 0.9103
+    },
+    {
+     "start": 2253.84,
+     "end": 2254.0,
+     "word": " down",
+     "probability": 0.7328
+    },
+    {
+     "start": 2254.0,
+     "end": 2254.38,
+     "word": " to",
+     "probability": 0.9919
+    },
+    {
+     "start": 2254.38,
+     "end": 2254.48,
+     "word": " the",
+     "probability": 0.9872
+    },
+    {
+     "start": 2254.48,
+     "end": 2254.8,
+     "word": " blade",
+     "probability": 0.9773
+    },
+    {
+     "start": 2254.8,
+     "end": 2254.96,
+     "word": " of",
+     "probability": 0.9984
+    },
+    {
+     "start": 2254.96,
+     "end": 2255.3,
+     "word": " grass,",
+     "probability": 0.975
+    },
+    {
+     "start": 2255.56,
+     "end": 2256.48,
+     "word": " Brahmadhi",
+     "probability": 0.4034
+    },
+    {
+     "start": 2256.48,
+     "end": 2256.9,
+     "word": " Stamba",
+     "probability": 0.2976
+    },
+    {
+     "start": 2256.9,
+     "end": 2257.6,
+     "word": " Pariyantam.",
+     "probability": 0.6652
+    }
+   ]
+  }
+ ]
+}

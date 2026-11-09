@@ -1,0 +1,4033 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified",
+  "note": "Machine ASR output, not reviewed or corrected. Sanskrit terms and verse text are likely mis-transcribed.",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 395.85,
+   "dur_s": 418.4
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": true,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64"
+  },
+  "run_started_utc": "2026-11-09T01:00:35.678207+00:00",
+  "run_finished_utc": "2026-11-09T01:16:59.577965+00:00",
+  "model_load_s": 8.18,
+  "transcribe_wall_s": 983.9,
+  "audio_dur_s": 418.4,
+  "realtime_factor": 2.3516
+ },
+ "language": "en",
+ "language_probability": 0.977483868598938,
+ "all_language_probs_top5": [
+  [
+   "en",
+   0.977483868598938
+  ],
+  [
+   "ta",
+   0.008450797758996487
+  ],
+  [
+   "te",
+   0.0072275917045772076
+  ],
+  [
+   "la",
+   0.0024209516122937202
+  ],
+  [
+   "hi",
+   0.002027928363531828
+  ]
+ ],
+ "duration": 418.4,
+ "duration_after_vad": 418.4,
+ "segments": [
+  {
+   "id": 1,
+   "start": 395.85,
+   "end": 420.15,
+   "text": " Bindu's world experiences, feelings, thoughts, emotions, objects, raga, dvesha, every aspect of it is available only when the day is functioning.",
+   "avg_logprob": -0.22093112193621123,
+   "no_speech_prob": 0.0010458237957209349,
+   "compression_ratio": 1.25,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 395.85,
+     "end": 396.77,
+     "word": " Bindu's",
+     "probability": 0.6671
+    },
+    {
+     "start": 396.77,
+     "end": 397.11,
+     "word": " world",
+     "probability": 0.9128
+    },
+    {
+     "start": 397.11,
+     "end": 399.41,
+     "word": " experiences,",
+     "probability": 0.6458
+    },
+    {
+     "start": 399.99,
+     "end": 402.79,
+     "word": " feelings,",
+     "probability": 0.9893
+    },
+    {
+     "start": 403.03,
+     "end": 403.41,
+     "word": " thoughts,",
+     "probability": 0.9972
+    },
+    {
+     "start": 403.73,
+     "end": 404.03,
+     "word": " emotions,",
+     "probability": 0.9944
+    },
+    {
+     "start": 404.33,
+     "end": 404.81,
+     "word": " objects,",
+     "probability": 0.9959
+    },
+    {
+     "start": 405.13,
+     "end": 406.29,
+     "word": " raga,",
+     "probability": 0.9489
+    },
+    {
+     "start": 406.51,
+     "end": 407.11,
+     "word": " dvesha,",
+     "probability": 0.9793
+    },
+    {
+     "start": 407.19,
+     "end": 407.83,
+     "word": " every",
+     "probability": 0.9949
+    },
+    {
+     "start": 407.83,
+     "end": 408.71,
+     "word": " aspect",
+     "probability": 0.9993
+    },
+    {
+     "start": 408.71,
+     "end": 409.05,
+     "word": " of",
+     "probability": 0.9996
+    },
+    {
+     "start": 409.05,
+     "end": 409.33,
+     "word": " it",
+     "probability": 0.9994
+    },
+    {
+     "start": 409.33,
+     "end": 410.87,
+     "word": " is",
+     "probability": 0.982
+    },
+    {
+     "start": 410.87,
+     "end": 411.57,
+     "word": " available",
+     "probability": 0.9994
+    },
+    {
+     "start": 411.57,
+     "end": 412.13,
+     "word": " only",
+     "probability": 0.9947
+    },
+    {
+     "start": 412.13,
+     "end": 412.53,
+     "word": " when",
+     "probability": 0.9986
+    },
+    {
+     "start": 412.53,
+     "end": 412.77,
+     "word": " the",
+     "probability": 0.9771
+    },
+    {
+     "start": 412.77,
+     "end": 416.87,
+     "word": " day",
+     "probability": 0.991
+    },
+    {
+     "start": 416.87,
+     "end": 417.19,
+     "word": " is",
+     "probability": 0.999
+    },
+    {
+     "start": 417.19,
+     "end": 420.15,
+     "word": " functioning.",
+     "probability": 0.9977
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 422.61,
+   "end": 441.31,
+   "text": " At night, neither the Bindu, nor his world, nor his experience, nor his thoughts, emotions, feelings, relationship, raga, dvesha, desires, nothing exists.",
+   "avg_logprob": -0.21184420982996624,
+   "no_speech_prob": 0.0007886679377406836,
+   "compression_ratio": 1.489795918367347,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 422.61,
+     "end": 423.53,
+     "word": " At",
+     "probability": 0.3588
+    },
+    {
+     "start": 423.53,
+     "end": 423.99,
+     "word": " night,",
+     "probability": 0.9911
+    },
+    {
+     "start": 424.21,
+     "end": 426.31,
+     "word": " neither",
+     "probability": 0.9921
+    },
+    {
+     "start": 426.31,
+     "end": 427.87,
+     "word": " the",
+     "probability": 0.9532
+    },
+    {
+     "start": 427.87,
+     "end": 428.17,
+     "word": " Bindu,",
+     "probability": 0.8644
+    },
+    {
+     "start": 428.41,
+     "end": 429.33,
+     "word": " nor",
+     "probability": 0.9718
+    },
+    {
+     "start": 429.33,
+     "end": 429.59,
+     "word": " his",
+     "probability": 0.9869
+    },
+    {
+     "start": 429.59,
+     "end": 430.03,
+     "word": " world,",
+     "probability": 0.9925
+    },
+    {
+     "start": 430.19,
+     "end": 430.77,
+     "word": " nor",
+     "probability": 0.9875
+    },
+    {
+     "start": 430.77,
+     "end": 431.03,
+     "word": " his",
+     "probability": 0.9985
+    },
+    {
+     "start": 431.03,
+     "end": 431.59,
+     "word": " experience,",
+     "probability": 0.9889
+    },
+    {
+     "start": 431.83,
+     "end": 432.41,
+     "word": " nor",
+     "probability": 0.981
+    },
+    {
+     "start": 432.41,
+     "end": 432.67,
+     "word": " his",
+     "probability": 0.9987
+    },
+    {
+     "start": 432.67,
+     "end": 433.13,
+     "word": " thoughts,",
+     "probability": 0.9971
+    },
+    {
+     "start": 433.27,
+     "end": 433.87,
+     "word": " emotions,",
+     "probability": 0.997
+    },
+    {
+     "start": 434.39,
+     "end": 435.09,
+     "word": " feelings,",
+     "probability": 0.9968
+    },
+    {
+     "start": 435.41,
+     "end": 436.25,
+     "word": " relationship,",
+     "probability": 0.9109
+    },
+    {
+     "start": 436.77,
+     "end": 437.49,
+     "word": " raga,",
+     "probability": 0.8909
+    },
+    {
+     "start": 437.69,
+     "end": 438.33,
+     "word": " dvesha,",
+     "probability": 0.9367
+    },
+    {
+     "start": 438.49,
+     "end": 439.25,
+     "word": " desires,",
+     "probability": 0.9981
+    },
+    {
+     "start": 439.75,
+     "end": 440.27,
+     "word": " nothing",
+     "probability": 0.7067
+    },
+    {
+     "start": 440.27,
+     "end": 441.31,
+     "word": " exists.",
+     "probability": 0.9488
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 442.37,
+   "end": 443.71,
+   "text": " Everything goes into a layer.",
+   "avg_logprob": -0.21184420982996624,
+   "no_speech_prob": 0.0007886679377406836,
+   "compression_ratio": 1.489795918367347,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 442.11,
+     "end": 442.57,
+     "word": " Everything",
+     "probability": 0.9976
+    },
+    {
+     "start": 442.57,
+     "end": 442.95,
+     "word": " goes",
+     "probability": 0.9991
+    },
+    {
+     "start": 442.95,
+     "end": 443.25,
+     "word": " into",
+     "probability": 0.9964
+    },
+    {
+     "start": 443.25,
+     "end": 443.41,
+     "word": " a",
+     "probability": 0.2213
+    },
+    {
+     "start": 443.41,
+     "end": 443.71,
+     "word": " layer.",
+     "probability": 0.6997
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 446.23,
+   "end": 449.93,
+   "text": " This is the case with every being.",
+   "avg_logprob": -0.21184420982996624,
+   "no_speech_prob": 0.0007886679377406836,
+   "compression_ratio": 1.489795918367347,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 446.23,
+     "end": 447.15,
+     "word": " This",
+     "probability": 0.9945
+    },
+    {
+     "start": 447.15,
+     "end": 447.41,
+     "word": " is",
+     "probability": 0.9998
+    },
+    {
+     "start": 447.41,
+     "end": 447.61,
+     "word": " the",
+     "probability": 0.9994
+    },
+    {
+     "start": 447.61,
+     "end": 447.99,
+     "word": " case",
+     "probability": 0.9998
+    },
+    {
+     "start": 447.99,
+     "end": 448.35,
+     "word": " with",
+     "probability": 0.9982
+    },
+    {
+     "start": 448.35,
+     "end": 449.25,
+     "word": " every",
+     "probability": 0.9848
+    },
+    {
+     "start": 449.25,
+     "end": 449.93,
+     "word": " being.",
+     "probability": 0.0261
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 450.75,
+   "end": 451.35,
+   "text": " Creation.",
+   "avg_logprob": -0.36930794839735154,
+   "no_speech_prob": 0.0008150099311023951,
+   "compression_ratio": 1.4525547445255473,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 450.75,
+     "end": 451.35,
+     "word": " Creation.",
+     "probability": 0.0563
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 452.65,
+   "end": 458.23,
+   "text": " That is why he used Bhootha Grama in the 19th verse.",
+   "avg_logprob": -0.36930794839735154,
+   "no_speech_prob": 0.0008150099311023951,
+   "compression_ratio": 1.4525547445255473,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 452.28,
+     "end": 452.79,
+     "word": " That",
+     "probability": 0.9815
+    },
+    {
+     "start": 452.79,
+     "end": 452.97,
+     "word": " is",
+     "probability": 0.9971
+    },
+    {
+     "start": 452.97,
+     "end": 453.13,
+     "word": " why",
+     "probability": 0.9964
+    },
+    {
+     "start": 453.13,
+     "end": 453.33,
+     "word": " he",
+     "probability": 0.9111
+    },
+    {
+     "start": 453.33,
+     "end": 453.75,
+     "word": " used",
+     "probability": 0.9973
+    },
+    {
+     "start": 453.75,
+     "end": 454.89,
+     "word": " Bhootha",
+     "probability": 0.4756
+    },
+    {
+     "start": 454.89,
+     "end": 455.51,
+     "word": " Grama",
+     "probability": 0.8426
+    },
+    {
+     "start": 455.51,
+     "end": 456.27,
+     "word": " in",
+     "probability": 0.795
+    },
+    {
+     "start": 456.27,
+     "end": 456.53,
+     "word": " the",
+     "probability": 0.9893
+    },
+    {
+     "start": 456.53,
+     "end": 457.99,
+     "word": " 19th",
+     "probability": 0.9806
+    },
+    {
+     "start": 457.99,
+     "end": 458.23,
+     "word": " verse.",
+     "probability": 0.9893
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 459.51,
+   "end": 467.59,
+   "text": " Bhootha Grama means the entire group of items which are Bhootha means created.",
+   "avg_logprob": -0.36930794839735154,
+   "no_speech_prob": 0.0008150099311023951,
+   "compression_ratio": 1.4525547445255473,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 459.12,
+     "end": 459.63,
+     "word": " Bhootha",
+     "probability": 0.9942
+    },
+    {
+     "start": 459.63,
+     "end": 460.07,
+     "word": " Grama",
+     "probability": 0.9984
+    },
+    {
+     "start": 460.07,
+     "end": 460.33,
+     "word": " means",
+     "probability": 0.9957
+    },
+    {
+     "start": 460.33,
+     "end": 461.27,
+     "word": " the",
+     "probability": 0.9689
+    },
+    {
+     "start": 461.27,
+     "end": 461.83,
+     "word": " entire",
+     "probability": 0.9962
+    },
+    {
+     "start": 461.83,
+     "end": 463.43,
+     "word": " group",
+     "probability": 0.9808
+    },
+    {
+     "start": 463.43,
+     "end": 463.95,
+     "word": " of",
+     "probability": 0.9996
+    },
+    {
+     "start": 463.95,
+     "end": 465.65,
+     "word": " items",
+     "probability": 0.9847
+    },
+    {
+     "start": 465.65,
+     "end": 466.11,
+     "word": " which",
+     "probability": 0.987
+    },
+    {
+     "start": 466.11,
+     "end": 466.33,
+     "word": " are",
+     "probability": 0.9903
+    },
+    {
+     "start": 466.33,
+     "end": 466.75,
+     "word": " Bhootha",
+     "probability": 0.9652
+    },
+    {
+     "start": 466.75,
+     "end": 467.03,
+     "word": " means",
+     "probability": 0.9943
+    },
+    {
+     "start": 467.03,
+     "end": 467.59,
+     "word": " created.",
+     "probability": 0.9921
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 472.19,
+   "end": 473.21,
+   "text": " Saevayam.",
+   "avg_logprob": -0.36930794839735154,
+   "no_speech_prob": 0.0008150099311023951,
+   "compression_ratio": 1.4525547445255473,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 472.19,
+     "end": 473.21,
+     "word": " Saevayam.",
+     "probability": 0.5634
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 474.97,
+   "end": 476.57,
+   "text": " Bhoothva, Bhoothva, Praliyate.",
+   "avg_logprob": -0.36930794839735154,
+   "no_speech_prob": 0.0008150099311023951,
+   "compression_ratio": 1.4525547445255473,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 474.82,
+     "end": 475.33,
+     "word": " Bhoothva,",
+     "probability": 0.7169
+    },
+    {
+     "start": 475.45,
+     "end": 475.95,
+     "word": " Bhoothva,",
+     "probability": 0.9938
+    },
+    {
+     "start": 475.95,
+     "end": 476.57,
+     "word": " Praliyate.",
+     "probability": 0.7723
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 478.27,
+   "end": 479.37,
+   "text": " Every time it...",
+   "avg_logprob": -0.36930794839735154,
+   "no_speech_prob": 0.0008150099311023951,
+   "compression_ratio": 1.4525547445255473,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 478.0,
+     "end": 478.51,
+     "word": " Every",
+     "probability": 0.9931
+    },
+    {
+     "start": 478.51,
+     "end": 479.03,
+     "word": " time",
+     "probability": 0.9993
+    },
+    {
+     "start": 479.03,
+     "end": 479.37,
+     "word": " it...",
+     "probability": 0.483
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 480.15,
+   "end": 486.71,
+   "text": " As the sun arises, they become created.",
+   "avg_logprob": -0.3273466835419337,
+   "no_speech_prob": 0.0014275688445195556,
+   "compression_ratio": 1.837037037037037,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 480.15,
+     "end": 480.69,
+     "word": " As",
+     "probability": 0.6053
+    },
+    {
+     "start": 480.69,
+     "end": 480.99,
+     "word": " the",
+     "probability": 0.9959
+    },
+    {
+     "start": 480.99,
+     "end": 481.29,
+     "word": " sun",
+     "probability": 0.8883
+    },
+    {
+     "start": 481.29,
+     "end": 481.71,
+     "word": " arises,",
+     "probability": 0.9386
+    },
+    {
+     "start": 482.17,
+     "end": 483.55,
+     "word": " they",
+     "probability": 0.9899
+    },
+    {
+     "start": 483.55,
+     "end": 485.91,
+     "word": " become",
+     "probability": 0.9941
+    },
+    {
+     "start": 485.91,
+     "end": 486.71,
+     "word": " created.",
+     "probability": 0.9978
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 489.11,
+   "end": 492.51,
+   "text": " And at the night, Rathriyagame, Praliyate.",
+   "avg_logprob": -0.3273466835419337,
+   "no_speech_prob": 0.0014275688445195556,
+   "compression_ratio": 1.837037037037037,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 488.82,
+     "end": 489.23,
+     "word": " And",
+     "probability": 0.8163
+    },
+    {
+     "start": 489.23,
+     "end": 489.39,
+     "word": " at",
+     "probability": 0.9671
+    },
+    {
+     "start": 489.39,
+     "end": 489.51,
+     "word": " the",
+     "probability": 0.9793
+    },
+    {
+     "start": 489.51,
+     "end": 489.85,
+     "word": " night,",
+     "probability": 0.9782
+    },
+    {
+     "start": 489.87,
+     "end": 490.61,
+     "word": " Rathriyagame,",
+     "probability": 0.7029
+    },
+    {
+     "start": 490.75,
+     "end": 492.51,
+     "word": " Praliyate.",
+     "probability": 0.7342
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 492.75,
+   "end": 495.33,
+   "text": " At the night, dissolves.",
+   "avg_logprob": -0.3273466835419337,
+   "no_speech_prob": 0.0014275688445195556,
+   "compression_ratio": 1.837037037037037,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 492.75,
+     "end": 493.57,
+     "word": " At",
+     "probability": 0.9904
+    },
+    {
+     "start": 493.57,
+     "end": 493.71,
+     "word": " the",
+     "probability": 0.9991
+    },
+    {
+     "start": 493.71,
+     "end": 494.01,
+     "word": " night,",
+     "probability": 0.9999
+    },
+    {
+     "start": 494.05,
+     "end": 495.33,
+     "word": " dissolves.",
+     "probability": 0.9762
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "start": 495.99,
+   "end": 502.03,
+   "text": " And this, Prabhavati.",
+   "avg_logprob": -0.3273466835419337,
+   "no_speech_prob": 0.0014275688445195556,
+   "compression_ratio": 1.837037037037037,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 495.99,
+     "end": 496.81,
+     "word": " And",
+     "probability": 0.9969
+    },
+    {
+     "start": 496.81,
+     "end": 497.17,
+     "word": " this,",
+     "probability": 0.9994
+    },
+    {
+     "start": 497.31,
+     "end": 502.03,
+     "word": " Prabhavati.",
+     "probability": 0.982
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "start": 502.59,
+   "end": 505.33,
+   "text": " Avasaha Prabhavati Aharagame.",
+   "avg_logprob": -0.3273466835419337,
+   "no_speech_prob": 0.0014275688445195556,
+   "compression_ratio": 1.837037037037037,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 502.59,
+     "end": 503.41,
+     "word": " Avasaha",
+     "probability": 0.6772
+    },
+    {
+     "start": 503.41,
+     "end": 504.43,
+     "word": " Prabhavati",
+     "probability": 0.9988
+    },
+    {
+     "start": 504.43,
+     "end": 505.33,
+     "word": " Aharagame.",
+     "probability": 0.8341
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "start": 507.57,
+   "end": 509.71,
+   "text": " The Prabhavati means the projections.",
+   "avg_logprob": -0.3273466835419337,
+   "no_speech_prob": 0.0014275688445195556,
+   "compression_ratio": 1.837037037037037,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 507.3,
+     "end": 507.71,
+     "word": " The",
+     "probability": 0.9961
+    },
+    {
+     "start": 507.71,
+     "end": 508.27,
+     "word": " Prabhavati",
+     "probability": 0.9996
+    },
+    {
+     "start": 508.27,
+     "end": 508.65,
+     "word": " means",
+     "probability": 0.9978
+    },
+    {
+     "start": 508.65,
+     "end": 509.25,
+     "word": " the",
+     "probability": 0.9164
+    },
+    {
+     "start": 509.25,
+     "end": 509.71,
+     "word": " projections.",
+     "probability": 0.9697
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "start": 509.73,
+   "end": 510.13,
+   "text": " The projections.",
+   "avg_logprob": -0.3273466835419337,
+   "no_speech_prob": 0.0014275688445195556,
+   "compression_ratio": 1.837037037037037,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 509.73,
+     "end": 510.13,
+     "word": " The",
+     "probability": 0.246
+    },
+    {
+     "start": 510.13,
+     "end": 510.13,
+     "word": " projections.",
+     "probability": 0.9068
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "start": 510.15,
+   "end": 513.05,
+   "text": " Or the, you know, the experiences.",
+   "avg_logprob": -0.20560419801119212,
+   "no_speech_prob": 0.00022339329007081687,
+   "compression_ratio": 1.528497409326425,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 510.15,
+     "end": 510.25,
+     "word": " Or",
+     "probability": 0.2602
+    },
+    {
+     "start": 510.25,
+     "end": 510.51,
+     "word": " the,",
+     "probability": 0.5938
+    },
+    {
+     "start": 510.53,
+     "end": 511.63,
+     "word": " you",
+     "probability": 0.9108
+    },
+    {
+     "start": 511.63,
+     "end": 511.83,
+     "word": " know,",
+     "probability": 0.9998
+    },
+    {
+     "start": 511.89,
+     "end": 512.39,
+     "word": " the",
+     "probability": 0.989
+    },
+    {
+     "start": 512.39,
+     "end": 513.05,
+     "word": " experiences.",
+     "probability": 0.9987
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "start": 513.87,
+   "end": 520.11,
+   "text": " Everything which is springing up at the daytime.",
+   "avg_logprob": -0.20560419801119212,
+   "no_speech_prob": 0.00022339329007081687,
+   "compression_ratio": 1.528497409326425,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 513.87,
+     "end": 514.55,
+     "word": " Everything",
+     "probability": 0.9985
+    },
+    {
+     "start": 514.55,
+     "end": 515.01,
+     "word": " which",
+     "probability": 0.9959
+    },
+    {
+     "start": 515.01,
+     "end": 515.25,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 515.25,
+     "end": 516.59,
+     "word": " springing",
+     "probability": 0.9853
+    },
+    {
+     "start": 516.59,
+     "end": 516.81,
+     "word": " up",
+     "probability": 0.9999
+    },
+    {
+     "start": 516.81,
+     "end": 519.59,
+     "word": " at",
+     "probability": 0.644
+    },
+    {
+     "start": 519.59,
+     "end": 519.75,
+     "word": " the",
+     "probability": 0.9664
+    },
+    {
+     "start": 519.75,
+     "end": 520.11,
+     "word": " daytime.",
+     "probability": 0.7751
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "start": 520.37,
+   "end": 531.19,
+   "text": " Now, when he mentioned this is the case with Bhootha Grama means every creation, every material creation or everything that is available in the world.",
+   "avg_logprob": -0.20560419801119212,
+   "no_speech_prob": 0.00022339329007081687,
+   "compression_ratio": 1.528497409326425,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 520.37,
+     "end": 521.05,
+     "word": " Now,",
+     "probability": 0.9936
+    },
+    {
+     "start": 521.09,
+     "end": 522.09,
+     "word": " when",
+     "probability": 0.9995
+    },
+    {
+     "start": 522.09,
+     "end": 522.27,
+     "word": " he",
+     "probability": 0.9858
+    },
+    {
+     "start": 522.27,
+     "end": 522.75,
+     "word": " mentioned",
+     "probability": 0.9974
+    },
+    {
+     "start": 522.75,
+     "end": 523.05,
+     "word": " this",
+     "probability": 0.9374
+    },
+    {
+     "start": 523.05,
+     "end": 523.25,
+     "word": " is",
+     "probability": 0.9984
+    },
+    {
+     "start": 523.25,
+     "end": 523.47,
+     "word": " the",
+     "probability": 0.9966
+    },
+    {
+     "start": 523.47,
+     "end": 523.73,
+     "word": " case",
+     "probability": 0.0164
+    },
+    {
+     "start": 523.73,
+     "end": 524.03,
+     "word": " with",
+     "probability": 0.9965
+    },
+    {
+     "start": 524.03,
+     "end": 524.63,
+     "word": " Bhootha",
+     "probability": 0.2656
+    },
+    {
+     "start": 524.63,
+     "end": 525.17,
+     "word": " Grama",
+     "probability": 0.8448
+    },
+    {
+     "start": 525.17,
+     "end": 525.39,
+     "word": " means",
+     "probability": 0.8144
+    },
+    {
+     "start": 525.39,
+     "end": 526.73,
+     "word": " every",
+     "probability": 0.8837
+    },
+    {
+     "start": 526.73,
+     "end": 527.51,
+     "word": " creation,",
+     "probability": 0.9993
+    },
+    {
+     "start": 527.69,
+     "end": 527.91,
+     "word": " every",
+     "probability": 0.9988
+    },
+    {
+     "start": 527.91,
+     "end": 528.47,
+     "word": " material",
+     "probability": 1.0
+    },
+    {
+     "start": 528.47,
+     "end": 528.95,
+     "word": " creation",
+     "probability": 1.0
+    },
+    {
+     "start": 528.95,
+     "end": 529.29,
+     "word": " or",
+     "probability": 0.9744
+    },
+    {
+     "start": 529.29,
+     "end": 529.65,
+     "word": " everything",
+     "probability": 0.9995
+    },
+    {
+     "start": 529.65,
+     "end": 529.99,
+     "word": " that",
+     "probability": 0.9998
+    },
+    {
+     "start": 529.99,
+     "end": 530.21,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 530.21,
+     "end": 530.55,
+     "word": " available",
+     "probability": 0.9999
+    },
+    {
+     "start": 530.55,
+     "end": 530.85,
+     "word": " in",
+     "probability": 0.9998
+    },
+    {
+     "start": 530.85,
+     "end": 530.95,
+     "word": " the",
+     "probability": 1.0
+    },
+    {
+     "start": 530.95,
+     "end": 531.19,
+     "word": " world.",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "start": 533.09,
+   "end": 539.83,
+   "text": " Including Aabrahma means right from and inclusive of Brahma.",
+   "avg_logprob": -0.20560419801119212,
+   "no_speech_prob": 0.00022339329007081687,
+   "compression_ratio": 1.528497409326425,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 533.09,
+     "end": 533.77,
+     "word": " Including",
+     "probability": 0.9987
+    },
+    {
+     "start": 533.77,
+     "end": 534.45,
+     "word": " Aabrahma",
+     "probability": 0.6031
+    },
+    {
+     "start": 534.45,
+     "end": 535.77,
+     "word": " means",
+     "probability": 0.3667
+    },
+    {
+     "start": 535.77,
+     "end": 536.19,
+     "word": " right",
+     "probability": 0.9975
+    },
+    {
+     "start": 536.19,
+     "end": 536.69,
+     "word": " from",
+     "probability": 0.9998
+    },
+    {
+     "start": 536.69,
+     "end": 538.35,
+     "word": " and",
+     "probability": 0.9298
+    },
+    {
+     "start": 538.35,
+     "end": 538.97,
+     "word": " inclusive",
+     "probability": 0.9988
+    },
+    {
+     "start": 538.97,
+     "end": 539.43,
+     "word": " of",
+     "probability": 1.0
+    },
+    {
+     "start": 539.43,
+     "end": 539.83,
+     "word": " Brahma.",
+     "probability": 0.9605
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "start": 540.15,
+   "end": 545.17,
+   "text": " To the lowest of the matter, the atoms.",
+   "avg_logprob": -0.36881041040225904,
+   "no_speech_prob": 0.0019395368872210383,
+   "compression_ratio": 1.316831683168317,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 540.15,
+     "end": 540.15,
+     "word": " To",
+     "probability": 0.0084
+    },
+    {
+     "start": 540.15,
+     "end": 540.27,
+     "word": " the",
+     "probability": 0.9886
+    },
+    {
+     "start": 540.27,
+     "end": 542.19,
+     "word": " lowest",
+     "probability": 0.7599
+    },
+    {
+     "start": 542.19,
+     "end": 542.57,
+     "word": " of",
+     "probability": 0.9845
+    },
+    {
+     "start": 542.57,
+     "end": 543.47,
+     "word": " the",
+     "probability": 0.931
+    },
+    {
+     "start": 543.47,
+     "end": 543.83,
+     "word": " matter,",
+     "probability": 0.9866
+    },
+    {
+     "start": 543.93,
+     "end": 544.71,
+     "word": " the",
+     "probability": 0.9837
+    },
+    {
+     "start": 544.71,
+     "end": 545.17,
+     "word": " atoms.",
+     "probability": 0.9946
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "start": 548.79,
+   "end": 555.21,
+   "text": " And he used a technical term, Avyatta.",
+   "avg_logprob": -0.36881041040225904,
+   "no_speech_prob": 0.0019395368872210383,
+   "compression_ratio": 1.316831683168317,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 548.79,
+     "end": 550.03,
+     "word": " And",
+     "probability": 0.9626
+    },
+    {
+     "start": 550.03,
+     "end": 550.27,
+     "word": " he",
+     "probability": 0.987
+    },
+    {
+     "start": 550.27,
+     "end": 550.75,
+     "word": " used",
+     "probability": 0.9994
+    },
+    {
+     "start": 550.75,
+     "end": 551.37,
+     "word": " a",
+     "probability": 0.9965
+    },
+    {
+     "start": 551.37,
+     "end": 552.11,
+     "word": " technical",
+     "probability": 0.997
+    },
+    {
+     "start": 552.11,
+     "end": 552.73,
+     "word": " term,",
+     "probability": 0.9995
+    },
+    {
+     "start": 552.83,
+     "end": 555.21,
+     "word": " Avyatta.",
+     "probability": 0.6741
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "start": 558.83,
+   "end": 563.61,
+   "text": " That Avyatta usage is used.",
+   "avg_logprob": -0.36881041040225904,
+   "no_speech_prob": 0.0019395368872210383,
+   "compression_ratio": 1.316831683168317,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 558.83,
+     "end": 560.07,
+     "word": " That",
+     "probability": 0.9456
+    },
+    {
+     "start": 560.07,
+     "end": 560.83,
+     "word": " Avyatta",
+     "probability": 0.9841
+    },
+    {
+     "start": 560.83,
+     "end": 561.31,
+     "word": " usage",
+     "probability": 0.9993
+    },
+    {
+     "start": 561.31,
+     "end": 562.55,
+     "word": " is",
+     "probability": 0.9939
+    },
+    {
+     "start": 562.55,
+     "end": 563.61,
+     "word": " used.",
+     "probability": 0.9871
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "start": 566.45,
+   "end": 569.85,
+   "text": " Avyatta Vaktayaha Sarvaha.",
+   "avg_logprob": -0.36881041040225904,
+   "no_speech_prob": 0.0019395368872210383,
+   "compression_ratio": 1.316831683168317,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 566.45,
+     "end": 567.69,
+     "word": " Avyatta",
+     "probability": 0.9765
+    },
+    {
+     "start": 567.69,
+     "end": 568.93,
+     "word": " Vaktayaha",
+     "probability": 0.6188
+    },
+    {
+     "start": 568.93,
+     "end": 569.85,
+     "word": " Sarvaha.",
+     "probability": 0.9206
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "start": 570.87,
+   "end": 572.31,
+   "text": " Prabhavanti Aharagame.",
+   "avg_logprob": -0.2860303380516138,
+   "no_speech_prob": 0.0024858068209141493,
+   "compression_ratio": 1.5128205128205128,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 570.87,
+     "end": 571.59,
+     "word": " Prabhavanti",
+     "probability": 0.4794
+    },
+    {
+     "start": 571.59,
+     "end": 572.31,
+     "word": " Aharagame.",
+     "probability": 0.7443
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "start": 573.59,
+   "end": 577.29,
+   "text": " Rathriyagame Praliyande Tatraiva Avyatta Samyage.",
+   "avg_logprob": -0.2860303380516138,
+   "no_speech_prob": 0.0024858068209141493,
+   "compression_ratio": 1.5128205128205128,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 573.59,
+     "end": 574.31,
+     "word": " Rathriyagame",
+     "probability": 0.6958
+    },
+    {
+     "start": 574.31,
+     "end": 575.03,
+     "word": " Praliyande",
+     "probability": 0.7864
+    },
+    {
+     "start": 575.03,
+     "end": 575.97,
+     "word": " Tatraiva",
+     "probability": 0.755
+    },
+    {
+     "start": 575.97,
+     "end": 576.47,
+     "word": " Avyatta",
+     "probability": 0.5164
+    },
+    {
+     "start": 576.47,
+     "end": 577.29,
+     "word": " Samyage.",
+     "probability": 0.7859
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "start": 578.13,
+   "end": 579.65,
+   "text": " In the 18th verse, he said that.",
+   "avg_logprob": -0.2860303380516138,
+   "no_speech_prob": 0.0024858068209141493,
+   "compression_ratio": 1.5128205128205128,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 577.87,
+     "end": 578.23,
+     "word": " In",
+     "probability": 0.9923
+    },
+    {
+     "start": 578.23,
+     "end": 578.37,
+     "word": " the",
+     "probability": 0.9997
+    },
+    {
+     "start": 578.37,
+     "end": 578.89,
+     "word": " 18th",
+     "probability": 0.9811
+    },
+    {
+     "start": 578.89,
+     "end": 579.07,
+     "word": " verse,",
+     "probability": 0.9989
+    },
+    {
+     "start": 579.13,
+     "end": 579.23,
+     "word": " he",
+     "probability": 0.9274
+    },
+    {
+     "start": 579.23,
+     "end": 579.45,
+     "word": " said",
+     "probability": 0.9981
+    },
+    {
+     "start": 579.45,
+     "end": 579.65,
+     "word": " that.",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "start": 582.13,
+   "end": 585.43,
+   "text": " The Avyatta he is used here is",
+   "avg_logprob": -0.2860303380516138,
+   "no_speech_prob": 0.0024858068209141493,
+   "compression_ratio": 1.5128205128205128,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 582.13,
+     "end": 582.85,
+     "word": " The",
+     "probability": 0.9986
+    },
+    {
+     "start": 582.85,
+     "end": 583.45,
+     "word": " Avyatta",
+     "probability": 0.9238
+    },
+    {
+     "start": 583.45,
+     "end": 583.71,
+     "word": " he",
+     "probability": 0.968
+    },
+    {
+     "start": 583.71,
+     "end": 583.95,
+     "word": " is",
+     "probability": 0.4282
+    },
+    {
+     "start": 583.95,
+     "end": 584.29,
+     "word": " used",
+     "probability": 0.9918
+    },
+    {
+     "start": 584.29,
+     "end": 584.97,
+     "word": " here",
+     "probability": 0.999
+    },
+    {
+     "start": 584.97,
+     "end": 585.43,
+     "word": " is",
+     "probability": 0.9977
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "start": 588.59,
+   "end": 590.03,
+   "text": " to indicate",
+   "avg_logprob": -0.2860303380516138,
+   "no_speech_prob": 0.0024858068209141493,
+   "compression_ratio": 1.5128205128205128,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 588.59,
+     "end": 589.31,
+     "word": " to",
+     "probability": 0.9901
+    },
+    {
+     "start": 589.31,
+     "end": 590.03,
+     "word": " indicate",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "start": 591.07,
+   "end": 595.59,
+   "text": " the Vyattata or the Vyatti which is there in the daytime.",
+   "avg_logprob": -0.2860303380516138,
+   "no_speech_prob": 0.0024858068209141493,
+   "compression_ratio": 1.5128205128205128,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 591.07,
+     "end": 591.79,
+     "word": " the",
+     "probability": 0.9979
+    },
+    {
+     "start": 591.79,
+     "end": 592.37,
+     "word": " Vyattata",
+     "probability": 0.796
+    },
+    {
+     "start": 592.37,
+     "end": 592.73,
+     "word": " or",
+     "probability": 0.9978
+    },
+    {
+     "start": 592.73,
+     "end": 592.91,
+     "word": " the",
+     "probability": 0.9976
+    },
+    {
+     "start": 592.91,
+     "end": 593.27,
+     "word": " Vyatti",
+     "probability": 0.9758
+    },
+    {
+     "start": 593.27,
+     "end": 593.59,
+     "word": " which",
+     "probability": 0.9427
+    },
+    {
+     "start": 593.59,
+     "end": 593.83,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 593.83,
+     "end": 594.11,
+     "word": " there",
+     "probability": 0.9997
+    },
+    {
+     "start": 594.11,
+     "end": 594.43,
+     "word": " in",
+     "probability": 0.9998
+    },
+    {
+     "start": 594.43,
+     "end": 594.59,
+     "word": " the",
+     "probability": 0.9997
+    },
+    {
+     "start": 594.59,
+     "end": 595.59,
+     "word": " daytime.",
+     "probability": 0.5077
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "start": 597.09,
+   "end": 600.13,
+   "text": " That is not present in the...",
+   "avg_logprob": -0.2860303380516138,
+   "no_speech_prob": 0.0024858068209141493,
+   "compression_ratio": 1.5128205128205128,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 597.09,
+     "end": 597.81,
+     "word": " That",
+     "probability": 0.9943
+    },
+    {
+     "start": 597.81,
+     "end": 598.15,
+     "word": " is",
+     "probability": 0.9997
+    },
+    {
+     "start": 598.15,
+     "end": 598.51,
+     "word": " not",
+     "probability": 0.9996
+    },
+    {
+     "start": 598.51,
+     "end": 599.45,
+     "word": " present",
+     "probability": 0.9963
+    },
+    {
+     "start": 599.45,
+     "end": 599.99,
+     "word": " in",
+     "probability": 0.9916
+    },
+    {
+     "start": 599.99,
+     "end": 600.13,
+     "word": " the...",
+     "probability": 0.4495
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "start": 600.15,
+   "end": 601.07,
+   "text": " In the laya.",
+   "avg_logprob": -0.3823950555589464,
+   "no_speech_prob": 0.00011338356853229925,
+   "compression_ratio": 1.9927007299270072,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 600.15,
+     "end": 600.15,
+     "word": " In",
+     "probability": 0.0225
+    },
+    {
+     "start": 600.15,
+     "end": 600.15,
+     "word": " the",
+     "probability": 0.8378
+    },
+    {
+     "start": 600.15,
+     "end": 601.07,
+     "word": " laya.",
+     "probability": 0.8599
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "start": 601.19,
+   "end": 603.07,
+   "text": " In the deep sleep.",
+   "avg_logprob": -0.3823950555589464,
+   "no_speech_prob": 0.00011338356853229925,
+   "compression_ratio": 1.9927007299270072,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 601.19,
+     "end": 602.07,
+     "word": " In",
+     "probability": 0.9094
+    },
+    {
+     "start": 602.07,
+     "end": 602.21,
+     "word": " the",
+     "probability": 0.9741
+    },
+    {
+     "start": 602.21,
+     "end": 602.81,
+     "word": " deep",
+     "probability": 0.9914
+    },
+    {
+     "start": 602.81,
+     "end": 603.07,
+     "word": " sleep.",
+     "probability": 0.9958
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "start": 603.77,
+   "end": 605.91,
+   "text": " That is the state of",
+   "avg_logprob": -0.3823950555589464,
+   "no_speech_prob": 0.00011338356853229925,
+   "compression_ratio": 1.9927007299270072,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 603.77,
+     "end": 604.93,
+     "word": " That",
+     "probability": 0.9402
+    },
+    {
+     "start": 604.93,
+     "end": 605.13,
+     "word": " is",
+     "probability": 0.9971
+    },
+    {
+     "start": 605.13,
+     "end": 605.25,
+     "word": " the",
+     "probability": 0.9708
+    },
+    {
+     "start": 605.25,
+     "end": 605.61,
+     "word": " state",
+     "probability": 0.9914
+    },
+    {
+     "start": 605.61,
+     "end": 605.91,
+     "word": " of",
+     "probability": 0.9819
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "start": 608.15,
+   "end": 614.63,
+   "text": " dissolution of multitude and separate entities.",
+   "avg_logprob": -0.3823950555589464,
+   "no_speech_prob": 0.00011338356853229925,
+   "compression_ratio": 1.9927007299270072,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 607.89,
+     "end": 608.47,
+     "word": " dissolution",
+     "probability": 0.6634
+    },
+    {
+     "start": 608.47,
+     "end": 608.87,
+     "word": " of",
+     "probability": 0.9816
+    },
+    {
+     "start": 608.87,
+     "end": 610.27,
+     "word": " multitude",
+     "probability": 0.9117
+    },
+    {
+     "start": 610.27,
+     "end": 612.15,
+     "word": " and",
+     "probability": 0.8751
+    },
+    {
+     "start": 612.15,
+     "end": 613.67,
+     "word": " separate",
+     "probability": 0.9182
+    },
+    {
+     "start": 613.67,
+     "end": 614.63,
+     "word": " entities.",
+     "probability": 0.9883
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "start": 616.05,
+   "end": 625.21,
+   "text": " The experience of separatedness is what is lost in the night.",
+   "avg_logprob": -0.3823950555589464,
+   "no_speech_prob": 0.00011338356853229925,
+   "compression_ratio": 1.9927007299270072,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 616.05,
+     "end": 617.21,
+     "word": " The",
+     "probability": 0.9718
+    },
+    {
+     "start": 617.21,
+     "end": 617.85,
+     "word": " experience",
+     "probability": 0.9954
+    },
+    {
+     "start": 617.85,
+     "end": 618.19,
+     "word": " of",
+     "probability": 0.9989
+    },
+    {
+     "start": 618.19,
+     "end": 619.07,
+     "word": " separatedness",
+     "probability": 0.9603
+    },
+    {
+     "start": 619.07,
+     "end": 622.15,
+     "word": " is",
+     "probability": 0.9116
+    },
+    {
+     "start": 622.15,
+     "end": 622.57,
+     "word": " what",
+     "probability": 0.9945
+    },
+    {
+     "start": 622.57,
+     "end": 622.79,
+     "word": " is",
+     "probability": 0.9957
+    },
+    {
+     "start": 622.79,
+     "end": 623.69,
+     "word": " lost",
+     "probability": 0.9958
+    },
+    {
+     "start": 623.69,
+     "end": 624.27,
+     "word": " in",
+     "probability": 0.9968
+    },
+    {
+     "start": 624.27,
+     "end": 624.43,
+     "word": " the",
+     "probability": 0.9975
+    },
+    {
+     "start": 624.43,
+     "end": 625.21,
+     "word": " night.",
+     "probability": 0.9964
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "start": 626.15,
+   "end": 630.13,
+   "text": " To indicate that, only he used this.",
+   "avg_logprob": -0.3823950555589464,
+   "no_speech_prob": 0.00011338356853229925,
+   "compression_ratio": 1.9927007299270072,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 626.15,
+     "end": 626.79,
+     "word": " To",
+     "probability": 0.9861
+    },
+    {
+     "start": 626.79,
+     "end": 627.37,
+     "word": " indicate",
+     "probability": 0.9956
+    },
+    {
+     "start": 627.37,
+     "end": 627.79,
+     "word": " that,",
+     "probability": 0.9989
+    },
+    {
+     "start": 627.87,
+     "end": 628.89,
+     "word": " only",
+     "probability": 0.9838
+    },
+    {
+     "start": 628.89,
+     "end": 629.29,
+     "word": " he",
+     "probability": 0.8921
+    },
+    {
+     "start": 629.29,
+     "end": 630.01,
+     "word": " used",
+     "probability": 0.9031
+    },
+    {
+     "start": 630.01,
+     "end": 630.13,
+     "word": " this.",
+     "probability": 0.0833
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "start": 630.13,
+   "end": 631.05,
+   "text": " That is the word Avyatta.",
+   "avg_logprob": -0.18702335387934,
+   "no_speech_prob": 0.0003821590216830373,
+   "compression_ratio": 2.292207792207792,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 630.13,
+     "end": 630.13,
+     "word": " That",
+     "probability": 0.0018
+    },
+    {
+     "start": 630.13,
+     "end": 630.13,
+     "word": " is",
+     "probability": 0.4921
+    },
+    {
+     "start": 630.13,
+     "end": 630.13,
+     "word": " the",
+     "probability": 0.6911
+    },
+    {
+     "start": 630.13,
+     "end": 630.45,
+     "word": " word",
+     "probability": 0.9173
+    },
+    {
+     "start": 630.45,
+     "end": 631.05,
+     "word": " Avyatta.",
+     "probability": 0.4051
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "start": 632.95,
+   "end": 637.75,
+   "text": " Shankaracharya uses this Avyatta as Saguna Avyatta.",
+   "avg_logprob": -0.18702335387934,
+   "no_speech_prob": 0.0003821590216830373,
+   "compression_ratio": 2.292207792207792,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 632.95,
+     "end": 633.81,
+     "word": " Shankaracharya",
+     "probability": 0.9467
+    },
+    {
+     "start": 633.81,
+     "end": 634.13,
+     "word": " uses",
+     "probability": 0.9905
+    },
+    {
+     "start": 634.13,
+     "end": 634.55,
+     "word": " this",
+     "probability": 0.9894
+    },
+    {
+     "start": 634.55,
+     "end": 635.11,
+     "word": " Avyatta",
+     "probability": 0.9383
+    },
+    {
+     "start": 635.11,
+     "end": 635.55,
+     "word": " as",
+     "probability": 0.9878
+    },
+    {
+     "start": 635.55,
+     "end": 637.37,
+     "word": " Saguna",
+     "probability": 0.8905
+    },
+    {
+     "start": 637.37,
+     "end": 637.75,
+     "word": " Avyatta.",
+     "probability": 0.9684
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "start": 638.35,
+   "end": 643.19,
+   "text": " To indicate that Vyavaharika Avyatta.",
+   "avg_logprob": -0.18702335387934,
+   "no_speech_prob": 0.0003821590216830373,
+   "compression_ratio": 2.292207792207792,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 638.35,
+     "end": 639.21,
+     "word": " To",
+     "probability": 0.8265
+    },
+    {
+     "start": 639.21,
+     "end": 639.55,
+     "word": " indicate",
+     "probability": 0.9538
+    },
+    {
+     "start": 639.55,
+     "end": 640.03,
+     "word": " that",
+     "probability": 0.9773
+    },
+    {
+     "start": 640.03,
+     "end": 642.39,
+     "word": " Vyavaharika",
+     "probability": 0.8788
+    },
+    {
+     "start": 642.39,
+     "end": 643.19,
+     "word": " Avyatta.",
+     "probability": 0.9491
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "start": 643.69,
+   "end": 649.15,
+   "text": " The Vyavahara is during the waking or the daytime.",
+   "avg_logprob": -0.18702335387934,
+   "no_speech_prob": 0.0003821590216830373,
+   "compression_ratio": 2.292207792207792,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 643.69,
+     "end": 644.55,
+     "word": " The",
+     "probability": 0.9586
+    },
+    {
+     "start": 644.55,
+     "end": 645.17,
+     "word": " Vyavahara",
+     "probability": 0.9807
+    },
+    {
+     "start": 645.17,
+     "end": 645.63,
+     "word": " is",
+     "probability": 0.9933
+    },
+    {
+     "start": 645.63,
+     "end": 646.63,
+     "word": " during",
+     "probability": 0.9886
+    },
+    {
+     "start": 646.63,
+     "end": 647.01,
+     "word": " the",
+     "probability": 0.9924
+    },
+    {
+     "start": 647.01,
+     "end": 647.79,
+     "word": " waking",
+     "probability": 0.9786
+    },
+    {
+     "start": 647.79,
+     "end": 648.21,
+     "word": " or",
+     "probability": 0.9668
+    },
+    {
+     "start": 648.21,
+     "end": 648.55,
+     "word": " the",
+     "probability": 0.9836
+    },
+    {
+     "start": 648.55,
+     "end": 649.15,
+     "word": " daytime.",
+     "probability": 0.4952
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "start": 650.21,
+   "end": 655.51,
+   "text": " But the Avyatta, Saguna Avyatta or Vyavahara Avyatta,",
+   "avg_logprob": -0.18702335387934,
+   "no_speech_prob": 0.0003821590216830373,
+   "compression_ratio": 2.292207792207792,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 650.21,
+     "end": 651.07,
+     "word": " But",
+     "probability": 0.9878
+    },
+    {
+     "start": 651.07,
+     "end": 651.37,
+     "word": " the",
+     "probability": 0.9882
+    },
+    {
+     "start": 651.37,
+     "end": 652.69,
+     "word": " Avyatta,",
+     "probability": 0.9821
+    },
+    {
+     "start": 652.93,
+     "end": 653.71,
+     "word": " Saguna",
+     "probability": 0.9906
+    },
+    {
+     "start": 653.71,
+     "end": 654.05,
+     "word": " Avyatta",
+     "probability": 0.994
+    },
+    {
+     "start": 654.05,
+     "end": 654.31,
+     "word": " or",
+     "probability": 0.9741
+    },
+    {
+     "start": 654.31,
+     "end": 654.97,
+     "word": " Vyavahara",
+     "probability": 0.9954
+    },
+    {
+     "start": 654.97,
+     "end": 655.51,
+     "word": " Avyatta,",
+     "probability": 0.9959
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "start": 655.73,
+   "end": 660.11,
+   "text": " is the same thing when there is no day.",
+   "avg_logprob": -0.18702335387934,
+   "no_speech_prob": 0.0003821590216830373,
+   "compression_ratio": 2.292207792207792,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 655.73,
+     "end": 656.81,
+     "word": " is",
+     "probability": 0.9624
+    },
+    {
+     "start": 656.81,
+     "end": 657.87,
+     "word": " the",
+     "probability": 0.9923
+    },
+    {
+     "start": 657.87,
+     "end": 658.21,
+     "word": " same",
+     "probability": 0.9993
+    },
+    {
+     "start": 658.21,
+     "end": 658.53,
+     "word": " thing",
+     "probability": 0.9981
+    },
+    {
+     "start": 658.53,
+     "end": 659.35,
+     "word": " when",
+     "probability": 0.877
+    },
+    {
+     "start": 659.35,
+     "end": 659.55,
+     "word": " there",
+     "probability": 0.9982
+    },
+    {
+     "start": 659.55,
+     "end": 659.77,
+     "word": " is",
+     "probability": 0.9984
+    },
+    {
+     "start": 659.77,
+     "end": 659.99,
+     "word": " no",
+     "probability": 0.9921
+    },
+    {
+     "start": 659.99,
+     "end": 660.11,
+     "word": " day.",
+     "probability": 0.4033
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "start": 660.11,
+   "end": 664.45,
+   "text": " There is no differentiation between one object to another object",
+   "avg_logprob": -0.12959921801531757,
+   "no_speech_prob": 0.0003760300169233233,
+   "compression_ratio": 1.6546391752577319,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 660.11,
+     "end": 660.75,
+     "word": " There",
+     "probability": 0.0004
+    },
+    {
+     "start": 660.75,
+     "end": 660.75,
+     "word": " is",
+     "probability": 0.8869
+    },
+    {
+     "start": 660.75,
+     "end": 660.75,
+     "word": " no",
+     "probability": 0.8701
+    },
+    {
+     "start": 660.75,
+     "end": 660.75,
+     "word": " differentiation",
+     "probability": 0.9754
+    },
+    {
+     "start": 660.75,
+     "end": 661.27,
+     "word": " between",
+     "probability": 0.9869
+    },
+    {
+     "start": 661.27,
+     "end": 661.75,
+     "word": " one",
+     "probability": 0.9566
+    },
+    {
+     "start": 661.75,
+     "end": 663.51,
+     "word": " object",
+     "probability": 0.9372
+    },
+    {
+     "start": 663.51,
+     "end": 663.91,
+     "word": " to",
+     "probability": 0.9788
+    },
+    {
+     "start": 663.91,
+     "end": 664.09,
+     "word": " another",
+     "probability": 0.9964
+    },
+    {
+     "start": 664.09,
+     "end": 664.45,
+     "word": " object",
+     "probability": 0.9934
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "start": 664.45,
+   "end": 666.39,
+   "text": " or one creation to another creation.",
+   "avg_logprob": -0.12959921801531757,
+   "no_speech_prob": 0.0003760300169233233,
+   "compression_ratio": 1.6546391752577319,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 664.45,
+     "end": 664.85,
+     "word": " or",
+     "probability": 0.9079
+    },
+    {
+     "start": 664.85,
+     "end": 665.09,
+     "word": " one",
+     "probability": 0.9739
+    },
+    {
+     "start": 665.09,
+     "end": 665.49,
+     "word": " creation",
+     "probability": 0.9951
+    },
+    {
+     "start": 665.49,
+     "end": 665.71,
+     "word": " to",
+     "probability": 0.9972
+    },
+    {
+     "start": 665.71,
+     "end": 665.93,
+     "word": " another",
+     "probability": 0.9981
+    },
+    {
+     "start": 665.93,
+     "end": 666.39,
+     "word": " creation.",
+     "probability": 0.9943
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "start": 670.11,
+   "end": 674.85,
+   "text": " But there is a technical term about Avyatta which can be confusing.",
+   "avg_logprob": -0.12959921801531757,
+   "no_speech_prob": 0.0003760300169233233,
+   "compression_ratio": 1.6546391752577319,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 669.85,
+     "end": 670.25,
+     "word": " But",
+     "probability": 0.9671
+    },
+    {
+     "start": 670.25,
+     "end": 670.39,
+     "word": " there",
+     "probability": 0.9782
+    },
+    {
+     "start": 670.39,
+     "end": 670.61,
+     "word": " is",
+     "probability": 0.9988
+    },
+    {
+     "start": 670.61,
+     "end": 670.71,
+     "word": " a",
+     "probability": 0.9972
+    },
+    {
+     "start": 670.71,
+     "end": 671.69,
+     "word": " technical",
+     "probability": 0.9936
+    },
+    {
+     "start": 671.69,
+     "end": 672.27,
+     "word": " term",
+     "probability": 0.997
+    },
+    {
+     "start": 672.27,
+     "end": 672.73,
+     "word": " about",
+     "probability": 0.985
+    },
+    {
+     "start": 672.73,
+     "end": 673.21,
+     "word": " Avyatta",
+     "probability": 0.4428
+    },
+    {
+     "start": 673.21,
+     "end": 673.57,
+     "word": " which",
+     "probability": 0.8715
+    },
+    {
+     "start": 673.57,
+     "end": 673.99,
+     "word": " can",
+     "probability": 0.9989
+    },
+    {
+     "start": 673.99,
+     "end": 674.23,
+     "word": " be",
+     "probability": 0.9992
+    },
+    {
+     "start": 674.23,
+     "end": 674.85,
+     "word": " confusing.",
+     "probability": 0.9989
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "start": 675.91,
+   "end": 678.49,
+   "text": " Krishna wanted to make clear that",
+   "avg_logprob": -0.12959921801531757,
+   "no_speech_prob": 0.0003760300169233233,
+   "compression_ratio": 1.6546391752577319,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 675.91,
+     "end": 676.71,
+     "word": " Krishna",
+     "probability": 0.9888
+    },
+    {
+     "start": 676.71,
+     "end": 677.13,
+     "word": " wanted",
+     "probability": 0.9979
+    },
+    {
+     "start": 677.13,
+     "end": 677.49,
+     "word": " to",
+     "probability": 0.9993
+    },
+    {
+     "start": 677.49,
+     "end": 677.71,
+     "word": " make",
+     "probability": 0.9989
+    },
+    {
+     "start": 677.71,
+     "end": 678.07,
+     "word": " clear",
+     "probability": 0.985
+    },
+    {
+     "start": 678.07,
+     "end": 678.49,
+     "word": " that",
+     "probability": 0.9981
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "start": 679.11,
+   "end": 682.75,
+   "text": " we should not get confused between the terminology.",
+   "avg_logprob": -0.12959921801531757,
+   "no_speech_prob": 0.0003760300169233233,
+   "compression_ratio": 1.6546391752577319,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 679.05,
+     "end": 679.45,
+     "word": " we",
+     "probability": 0.9741
+    },
+    {
+     "start": 679.45,
+     "end": 679.67,
+     "word": " should",
+     "probability": 0.9992
+    },
+    {
+     "start": 679.67,
+     "end": 679.95,
+     "word": " not",
+     "probability": 0.9993
+    },
+    {
+     "start": 679.95,
+     "end": 680.19,
+     "word": " get",
+     "probability": 0.9971
+    },
+    {
+     "start": 680.19,
+     "end": 680.79,
+     "word": " confused",
+     "probability": 0.9994
+    },
+    {
+     "start": 680.79,
+     "end": 681.27,
+     "word": " between",
+     "probability": 0.9956
+    },
+    {
+     "start": 681.27,
+     "end": 681.67,
+     "word": " the",
+     "probability": 0.9939
+    },
+    {
+     "start": 681.67,
+     "end": 682.75,
+     "word": " terminology.",
+     "probability": 0.9661
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "start": 682.83,
+   "end": 685.33,
+   "text": " That is why he used Avyatta Samyage.",
+   "avg_logprob": -0.12959921801531757,
+   "no_speech_prob": 0.0003760300169233233,
+   "compression_ratio": 1.6546391752577319,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 682.83,
+     "end": 683.19,
+     "word": " That",
+     "probability": 0.991
+    },
+    {
+     "start": 683.19,
+     "end": 683.37,
+     "word": " is",
+     "probability": 0.9982
+    },
+    {
+     "start": 683.37,
+     "end": 683.55,
+     "word": " why",
+     "probability": 0.9988
+    },
+    {
+     "start": 683.55,
+     "end": 683.75,
+     "word": " he",
+     "probability": 0.8418
+    },
+    {
+     "start": 683.75,
+     "end": 684.09,
+     "word": " used",
+     "probability": 0.9977
+    },
+    {
+     "start": 684.09,
+     "end": 684.69,
+     "word": " Avyatta",
+     "probability": 0.9325
+    },
+    {
+     "start": 684.69,
+     "end": 685.33,
+     "word": " Samyage.",
+     "probability": 0.0119
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "start": 685.49,
+   "end": 687.91,
+   "text": " Means designated as Avyatta.",
+   "avg_logprob": -0.12959921801531757,
+   "no_speech_prob": 0.0003760300169233233,
+   "compression_ratio": 1.6546391752577319,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 685.49,
+     "end": 685.99,
+     "word": " Means",
+     "probability": 0.5092
+    },
+    {
+     "start": 685.99,
+     "end": 687.09,
+     "word": " designated",
+     "probability": 0.8692
+    },
+    {
+     "start": 687.09,
+     "end": 687.47,
+     "word": " as",
+     "probability": 0.9864
+    },
+    {
+     "start": 687.47,
+     "end": 687.91,
+     "word": " Avyatta.",
+     "probability": 0.9963
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "start": 690.11,
+   "end": 694.31,
+   "text": " To make that confusion go away from our mind,",
+   "avg_logprob": -0.3191713970827769,
+   "no_speech_prob": 0.002825796836987138,
+   "compression_ratio": 1.2828947368421053,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 690.11,
+     "end": 690.27,
+     "word": " To",
+     "probability": 0.7974
+    },
+    {
+     "start": 690.27,
+     "end": 690.63,
+     "word": " make",
+     "probability": 0.9997
+    },
+    {
+     "start": 690.63,
+     "end": 691.97,
+     "word": " that",
+     "probability": 0.9939
+    },
+    {
+     "start": 691.97,
+     "end": 692.53,
+     "word": " confusion",
+     "probability": 0.9994
+    },
+    {
+     "start": 692.53,
+     "end": 692.95,
+     "word": " go",
+     "probability": 0.9968
+    },
+    {
+     "start": 692.95,
+     "end": 693.25,
+     "word": " away",
+     "probability": 0.9995
+    },
+    {
+     "start": 693.25,
+     "end": 693.67,
+     "word": " from",
+     "probability": 0.998
+    },
+    {
+     "start": 693.67,
+     "end": 693.89,
+     "word": " our",
+     "probability": 0.9988
+    },
+    {
+     "start": 693.89,
+     "end": 694.31,
+     "word": " mind,",
+     "probability": 0.9849
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "start": 695.11,
+   "end": 698.95,
+   "text": " he is using the 20th verse.",
+   "avg_logprob": -0.3191713970827769,
+   "no_speech_prob": 0.002825796836987138,
+   "compression_ratio": 1.2828947368421053,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 695.11,
+     "end": 695.89,
+     "word": " he",
+     "probability": 0.9207
+    },
+    {
+     "start": 695.89,
+     "end": 696.21,
+     "word": " is",
+     "probability": 0.9966
+    },
+    {
+     "start": 696.21,
+     "end": 697.83,
+     "word": " using",
+     "probability": 0.9956
+    },
+    {
+     "start": 697.83,
+     "end": 698.11,
+     "word": " the",
+     "probability": 0.999
+    },
+    {
+     "start": 698.11,
+     "end": 698.61,
+     "word": " 20th",
+     "probability": 0.8766
+    },
+    {
+     "start": 698.61,
+     "end": 698.95,
+     "word": " verse.",
+     "probability": 0.9979
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "start": 700.47,
+   "end": 708.09,
+   "text": " parahas tasmātu bhāvo anyo avyatto avyattāt sanātanaḥ",
+   "avg_logprob": -0.3191713970827769,
+   "no_speech_prob": 0.002825796836987138,
+   "compression_ratio": 1.2828947368421053,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 700.47,
+     "end": 701.75,
+     "word": " parahas",
+     "probability": 0.2937
+    },
+    {
+     "start": 701.75,
+     "end": 702.49,
+     "word": " tasmātu",
+     "probability": 0.5361
+    },
+    {
+     "start": 702.49,
+     "end": 703.85,
+     "word": " bhāvo",
+     "probability": 0.8912
+    },
+    {
+     "start": 703.85,
+     "end": 704.47,
+     "word": " anyo",
+     "probability": 0.8742
+    },
+    {
+     "start": 704.47,
+     "end": 705.15,
+     "word": " avyatto",
+     "probability": 0.6603
+    },
+    {
+     "start": 705.15,
+     "end": 706.81,
+     "word": " avyattāt",
+     "probability": 0.9416
+    },
+    {
+     "start": 706.81,
+     "end": 708.09,
+     "word": " sanātanaḥ",
+     "probability": 0.8218
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "start": 709.11,
+   "end": 713.91,
+   "text": " yahaḥ sarveṣu bhūteṣu naśyatsu na vinaśyati",
+   "avg_logprob": -0.3191713970827769,
+   "no_speech_prob": 0.002825796836987138,
+   "compression_ratio": 1.2828947368421053,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 708.89,
+     "end": 709.53,
+     "word": " yahaḥ",
+     "probability": 0.7427
+    },
+    {
+     "start": 709.53,
+     "end": 710.79,
+     "word": " sarveṣu",
+     "probability": 0.7717
+    },
+    {
+     "start": 710.79,
+     "end": 711.49,
+     "word": " bhūteṣu",
+     "probability": 0.8898
+    },
+    {
+     "start": 711.49,
+     "end": 712.87,
+     "word": " naśyatsu",
+     "probability": 0.6933
+    },
+    {
+     "start": 712.87,
+     "end": 713.27,
+     "word": " na",
+     "probability": 0.9392
+    },
+    {
+     "start": 713.27,
+     "end": 713.91,
+     "word": " vinaśyati",
+     "probability": 0.7625
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "start": 715.11,
+   "end": 716.25,
+   "text": " Tasmādh",
+   "avg_logprob": -0.3191713970827769,
+   "no_speech_prob": 0.002825796836987138,
+   "compression_ratio": 1.2828947368421053,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 715.11,
+     "end": 716.25,
+     "word": " Tasmādh",
+     "probability": 0.6906
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "start": 718.15,
+   "end": 720.83,
+   "text": " from that Saguna Avyattāt.",
+   "avg_logprob": -0.2092133480825542,
+   "no_speech_prob": 0.001807555672712624,
+   "compression_ratio": 1.539568345323741,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 718.15,
+     "end": 718.95,
+     "word": " from",
+     "probability": 0.7757
+    },
+    {
+     "start": 718.95,
+     "end": 719.21,
+     "word": " that",
+     "probability": 0.9994
+    },
+    {
+     "start": 719.21,
+     "end": 720.09,
+     "word": " Saguna",
+     "probability": 0.6887
+    },
+    {
+     "start": 720.09,
+     "end": 720.83,
+     "word": " Avyattāt.",
+     "probability": 0.4074
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "start": 722.63,
+   "end": 727.57,
+   "text": " Tasmādh paraha means beyond that Saguna Avyatta.",
+   "avg_logprob": -0.2092133480825542,
+   "no_speech_prob": 0.001807555672712624,
+   "compression_ratio": 1.539568345323741,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 722.63,
+     "end": 723.43,
+     "word": " Tasmādh",
+     "probability": 0.2589
+    },
+    {
+     "start": 723.43,
+     "end": 723.77,
+     "word": " paraha",
+     "probability": 0.2897
+    },
+    {
+     "start": 723.77,
+     "end": 724.07,
+     "word": " means",
+     "probability": 0.9982
+    },
+    {
+     "start": 724.07,
+     "end": 725.93,
+     "word": " beyond",
+     "probability": 0.9886
+    },
+    {
+     "start": 725.93,
+     "end": 726.37,
+     "word": " that",
+     "probability": 0.9998
+    },
+    {
+     "start": 726.37,
+     "end": 727.25,
+     "word": " Saguna",
+     "probability": 0.9983
+    },
+    {
+     "start": 727.25,
+     "end": 727.57,
+     "word": " Avyatta.",
+     "probability": 0.6738
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "start": 730.15,
+   "end": 732.33,
+   "text": " Anyaha, there is separate.",
+   "avg_logprob": -0.2092133480825542,
+   "no_speech_prob": 0.001807555672712624,
+   "compression_ratio": 1.539568345323741,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 730.15,
+     "end": 730.95,
+     "word": " Anyaha,",
+     "probability": 0.9003
+    },
+    {
+     "start": 730.95,
+     "end": 731.75,
+     "word": " there",
+     "probability": 0.997
+    },
+    {
+     "start": 731.75,
+     "end": 731.95,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 731.95,
+     "end": 732.33,
+     "word": " separate.",
+     "probability": 0.9981
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "start": 735.05,
+   "end": 736.39,
+   "text": " Sanātanaḥ Avyatta.",
+   "avg_logprob": -0.2092133480825542,
+   "no_speech_prob": 0.001807555672712624,
+   "compression_ratio": 1.539568345323741,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 735.05,
+     "end": 735.85,
+     "word": " Sanātanaḥ",
+     "probability": 0.7294
+    },
+    {
+     "start": 735.85,
+     "end": 736.39,
+     "word": " Avyatta.",
+     "probability": 0.8719
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "start": 737.55,
+   "end": 742.11,
+   "text": " There is another Avyatta which is called the Sanātana Avyatta.",
+   "avg_logprob": -0.2092133480825542,
+   "no_speech_prob": 0.001807555672712624,
+   "compression_ratio": 1.539568345323741,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 737.55,
+     "end": 738.35,
+     "word": " There",
+     "probability": 0.9976
+    },
+    {
+     "start": 738.35,
+     "end": 738.53,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 738.53,
+     "end": 738.81,
+     "word": " another",
+     "probability": 0.9994
+    },
+    {
+     "start": 738.81,
+     "end": 739.93,
+     "word": " Avyatta",
+     "probability": 0.9841
+    },
+    {
+     "start": 739.93,
+     "end": 740.41,
+     "word": " which",
+     "probability": 0.8516
+    },
+    {
+     "start": 740.41,
+     "end": 740.67,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 740.67,
+     "end": 740.95,
+     "word": " called",
+     "probability": 0.9998
+    },
+    {
+     "start": 740.95,
+     "end": 741.15,
+     "word": " the",
+     "probability": 0.9921
+    },
+    {
+     "start": 741.15,
+     "end": 741.71,
+     "word": " Sanātana",
+     "probability": 0.9987
+    },
+    {
+     "start": 741.71,
+     "end": 742.11,
+     "word": " Avyatta.",
+     "probability": 0.9751
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "start": 742.35,
+   "end": 744.67,
+   "text": " The eternal unmanifest.",
+   "avg_logprob": -0.2092133480825542,
+   "no_speech_prob": 0.001807555672712624,
+   "compression_ratio": 1.539568345323741,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 742.35,
+     "end": 743.15,
+     "word": " The",
+     "probability": 0.9952
+    },
+    {
+     "start": 743.15,
+     "end": 743.75,
+     "word": " eternal",
+     "probability": 0.9687
+    },
+    {
+     "start": 743.75,
+     "end": 744.67,
+     "word": " unmanifest.",
+     "probability": 0.9816
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "start": 751.13,
+   "end": 754.83,
+   "text": " yahaḥ sarveṣu bhūteṣu naśyatsu na vinaśyati",
+   "avg_logprob": -0.1730407152552994,
+   "no_speech_prob": 0.0033096882980316877,
+   "compression_ratio": 1.5588235294117647,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 751.13,
+     "end": 751.95,
+     "word": " yahaḥ",
+     "probability": 0.4525
+    },
+    {
+     "start": 751.95,
+     "end": 752.77,
+     "word": " sarveṣu",
+     "probability": 0.5328
+    },
+    {
+     "start": 752.77,
+     "end": 753.43,
+     "word": " bhūteṣu",
+     "probability": 0.9137
+    },
+    {
+     "start": 753.43,
+     "end": 753.89,
+     "word": " naśyatsu",
+     "probability": 0.3161
+    },
+    {
+     "start": 753.89,
+     "end": 754.19,
+     "word": " na",
+     "probability": 0.7337
+    },
+    {
+     "start": 754.19,
+     "end": 754.83,
+     "word": " vinaśyati",
+     "probability": 0.7122
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "start": 755.67,
+   "end": 758.81,
+   "text": " yahaḥ means that Sanātana Avyatta.",
+   "avg_logprob": -0.1730407152552994,
+   "no_speech_prob": 0.0033096882980316877,
+   "compression_ratio": 1.5588235294117647,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 755.67,
+     "end": 756.41,
+     "word": " yahaḥ",
+     "probability": 0.7724
+    },
+    {
+     "start": 756.41,
+     "end": 756.67,
+     "word": " means",
+     "probability": 0.9808
+    },
+    {
+     "start": 756.67,
+     "end": 757.49,
+     "word": " that",
+     "probability": 0.8111
+    },
+    {
+     "start": 757.49,
+     "end": 758.25,
+     "word": " Sanātana",
+     "probability": 0.8029
+    },
+    {
+     "start": 758.25,
+     "end": 758.81,
+     "word": " Avyatta.",
+     "probability": 0.4729
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "start": 760.87,
+   "end": 763.11,
+   "text": " sarveṣu bhūteṣu naśyatsu",
+   "avg_logprob": -0.1730407152552994,
+   "no_speech_prob": 0.0033096882980316877,
+   "compression_ratio": 1.5588235294117647,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 760.87,
+     "end": 761.69,
+     "word": " sarveṣu",
+     "probability": 0.977
+    },
+    {
+     "start": 761.69,
+     "end": 762.35,
+     "word": " bhūteṣu",
+     "probability": 0.9951
+    },
+    {
+     "start": 762.35,
+     "end": 763.11,
+     "word": " naśyatsu",
+     "probability": 0.9747
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "start": 764.01,
+   "end": 765.83,
+   "text": " That is a Sati Saptami.",
+   "avg_logprob": -0.1730407152552994,
+   "no_speech_prob": 0.0033096882980316877,
+   "compression_ratio": 1.5588235294117647,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 764.01,
+     "end": 764.83,
+     "word": " That",
+     "probability": 0.3715
+    },
+    {
+     "start": 764.83,
+     "end": 765.01,
+     "word": " is",
+     "probability": 0.9789
+    },
+    {
+     "start": 765.01,
+     "end": 765.17,
+     "word": " a",
+     "probability": 0.5009
+    },
+    {
+     "start": 765.17,
+     "end": 765.47,
+     "word": " Sati",
+     "probability": 0.5524
+    },
+    {
+     "start": 765.47,
+     "end": 765.83,
+     "word": " Saptami.",
+     "probability": 0.7421
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "start": 765.95,
+   "end": 767.55,
+   "text": " That is why sarveṣu bhūteṣu.",
+   "avg_logprob": -0.1730407152552994,
+   "no_speech_prob": 0.0033096882980316877,
+   "compression_ratio": 1.5588235294117647,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 765.95,
+     "end": 766.13,
+     "word": " That",
+     "probability": 0.9408
+    },
+    {
+     "start": 766.13,
+     "end": 766.21,
+     "word": " is",
+     "probability": 0.3073
+    },
+    {
+     "start": 766.21,
+     "end": 766.35,
+     "word": " why",
+     "probability": 0.9886
+    },
+    {
+     "start": 766.35,
+     "end": 766.93,
+     "word": " sarveṣu",
+     "probability": 0.9567
+    },
+    {
+     "start": 766.93,
+     "end": 767.55,
+     "word": " bhūteṣu.",
+     "probability": 0.9918
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "start": 767.59,
+   "end": 768.79,
+   "text": " It is not a locative.",
+   "avg_logprob": -0.1730407152552994,
+   "no_speech_prob": 0.0033096882980316877,
+   "compression_ratio": 1.5588235294117647,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 767.59,
+     "end": 767.73,
+     "word": " It",
+     "probability": 0.9688
+    },
+    {
+     "start": 767.73,
+     "end": 767.87,
+     "word": " is",
+     "probability": 0.9965
+    },
+    {
+     "start": 767.87,
+     "end": 768.11,
+     "word": " not",
+     "probability": 0.9983
+    },
+    {
+     "start": 768.11,
+     "end": 768.25,
+     "word": " a",
+     "probability": 0.9914
+    },
+    {
+     "start": 768.25,
+     "end": 768.79,
+     "word": " locative.",
+     "probability": 0.9811
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "start": 772.59,
+   "end": 773.99,
+   "text": " Even when.",
+   "avg_logprob": -0.1730407152552994,
+   "no_speech_prob": 0.0033096882980316877,
+   "compression_ratio": 1.5588235294117647,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 772.59,
+     "end": 773.41,
+     "word": " Even",
+     "probability": 0.8353
+    },
+    {
+     "start": 773.41,
+     "end": 773.99,
+     "word": " when.",
+     "probability": 0.9972
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "start": 775.19,
+   "end": 776.83,
+   "text": " sarveṣu bhūteṣu",
+   "avg_logprob": -0.15971064590848982,
+   "no_speech_prob": 0.000503877701703459,
+   "compression_ratio": 1.3112582781456954,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 775.19,
+     "end": 776.23,
+     "word": " sarveṣu",
+     "probability": 0.3333
+    },
+    {
+     "start": 776.23,
+     "end": 776.83,
+     "word": " bhūteṣu",
+     "probability": 0.9347
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "start": 776.83,
+   "end": 778.11,
+   "text": " All these creation.",
+   "avg_logprob": -0.15971064590848982,
+   "no_speech_prob": 0.000503877701703459,
+   "compression_ratio": 1.3112582781456954,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 776.83,
+     "end": 777.03,
+     "word": " All",
+     "probability": 0.0063
+    },
+    {
+     "start": 777.03,
+     "end": 777.53,
+     "word": " these",
+     "probability": 0.7175
+    },
+    {
+     "start": 777.53,
+     "end": 778.11,
+     "word": " creation.",
+     "probability": 0.5132
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "start": 779.25,
+   "end": 782.79,
+   "text": " naśyatsu means when they are perish.",
+   "avg_logprob": -0.15971064590848982,
+   "no_speech_prob": 0.000503877701703459,
+   "compression_ratio": 1.3112582781456954,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 779.25,
+     "end": 780.29,
+     "word": " naśyatsu",
+     "probability": 0.659
+    },
+    {
+     "start": 780.29,
+     "end": 780.83,
+     "word": " means",
+     "probability": 0.8253
+    },
+    {
+     "start": 780.83,
+     "end": 781.59,
+     "word": " when",
+     "probability": 0.8558
+    },
+    {
+     "start": 781.59,
+     "end": 781.95,
+     "word": " they",
+     "probability": 0.9932
+    },
+    {
+     "start": 781.95,
+     "end": 782.29,
+     "word": " are",
+     "probability": 0.9327
+    },
+    {
+     "start": 782.29,
+     "end": 782.79,
+     "word": " perish.",
+     "probability": 0.8263
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "start": 784.55,
+   "end": 786.25,
+   "text": " na vinaśyati",
+   "avg_logprob": -0.15971064590848982,
+   "no_speech_prob": 0.000503877701703459,
+   "compression_ratio": 1.3112582781456954,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 784.55,
+     "end": 785.59,
+     "word": " na",
+     "probability": 0.1713
+    },
+    {
+     "start": 785.59,
+     "end": 786.25,
+     "word": " vinaśyati",
+     "probability": 0.735
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "start": 786.99,
+   "end": 790.39,
+   "text": " This eternal manifest do not perish.",
+   "avg_logprob": -0.15971064590848982,
+   "no_speech_prob": 0.000503877701703459,
+   "compression_ratio": 1.3112582781456954,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 786.99,
+     "end": 787.57,
+     "word": " This",
+     "probability": 0.5479
+    },
+    {
+     "start": 787.57,
+     "end": 788.07,
+     "word": " eternal",
+     "probability": 0.9336
+    },
+    {
+     "start": 788.07,
+     "end": 788.69,
+     "word": " manifest",
+     "probability": 0.9642
+    },
+    {
+     "start": 788.69,
+     "end": 789.81,
+     "word": " do",
+     "probability": 0.6468
+    },
+    {
+     "start": 789.81,
+     "end": 790.05,
+     "word": " not",
+     "probability": 0.9976
+    },
+    {
+     "start": 790.05,
+     "end": 790.39,
+     "word": " perish.",
+     "probability": 0.9945
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "start": 793.41,
+   "end": 799.57,
+   "text": " Krishna now reveals what stands beyond the cycle of birth and death.",
+   "avg_logprob": -0.15971064590848982,
+   "no_speech_prob": 0.000503877701703459,
+   "compression_ratio": 1.3112582781456954,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 793.41,
+     "end": 794.45,
+     "word": " Krishna",
+     "probability": 0.6978
+    },
+    {
+     "start": 794.45,
+     "end": 794.73,
+     "word": " now",
+     "probability": 0.9814
+    },
+    {
+     "start": 794.73,
+     "end": 795.15,
+     "word": " reveals",
+     "probability": 0.9825
+    },
+    {
+     "start": 795.15,
+     "end": 795.59,
+     "word": " what",
+     "probability": 0.9899
+    },
+    {
+     "start": 795.59,
+     "end": 795.99,
+     "word": " stands",
+     "probability": 0.9934
+    },
+    {
+     "start": 795.99,
+     "end": 796.83,
+     "word": " beyond",
+     "probability": 0.9973
+    },
+    {
+     "start": 796.83,
+     "end": 797.69,
+     "word": " the",
+     "probability": 0.9913
+    },
+    {
+     "start": 797.69,
+     "end": 798.21,
+     "word": " cycle",
+     "probability": 0.9991
+    },
+    {
+     "start": 798.21,
+     "end": 798.55,
+     "word": " of",
+     "probability": 0.9992
+    },
+    {
+     "start": 798.55,
+     "end": 799.11,
+     "word": " birth",
+     "probability": 0.9928
+    },
+    {
+     "start": 799.11,
+     "end": 799.33,
+     "word": " and",
+     "probability": 0.9922
+    },
+    {
+     "start": 799.33,
+     "end": 799.57,
+     "word": " death.",
+     "probability": 0.9983
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "start": 801.85,
+   "end": 804.91,
+   "text": " avyatta avyatta sanātanaḥ",
+   "avg_logprob": -0.16522374686043143,
+   "no_speech_prob": 0.0005862629623152316,
+   "compression_ratio": 2.082089552238806,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 801.85,
+     "end": 802.85,
+     "word": " avyatta",
+     "probability": 0.3358
+    },
+    {
+     "start": 802.85,
+     "end": 803.67,
+     "word": " avyatta",
+     "probability": 0.568
+    },
+    {
+     "start": 803.67,
+     "end": 804.91,
+     "word": " sanātanaḥ",
+     "probability": 0.5566
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "start": 805.57,
+   "end": 813.93,
+   "text": " That is the eternal unmanifest beyond the Saguna Avyatta which is the cosmic unmanifest.",
+   "avg_logprob": -0.16522374686043143,
+   "no_speech_prob": 0.0005862629623152316,
+   "compression_ratio": 2.082089552238806,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 805.57,
+     "end": 806.25,
+     "word": " That",
+     "probability": 0.1155
+    },
+    {
+     "start": 806.25,
+     "end": 806.45,
+     "word": " is",
+     "probability": 0.9906
+    },
+    {
+     "start": 806.45,
+     "end": 806.57,
+     "word": " the",
+     "probability": 0.8467
+    },
+    {
+     "start": 806.57,
+     "end": 807.09,
+     "word": " eternal",
+     "probability": 0.9575
+    },
+    {
+     "start": 807.09,
+     "end": 807.97,
+     "word": " unmanifest",
+     "probability": 0.9608
+    },
+    {
+     "start": 807.97,
+     "end": 808.47,
+     "word": " beyond",
+     "probability": 0.9783
+    },
+    {
+     "start": 808.47,
+     "end": 808.83,
+     "word": " the",
+     "probability": 0.9404
+    },
+    {
+     "start": 808.83,
+     "end": 811.45,
+     "word": " Saguna",
+     "probability": 0.4945
+    },
+    {
+     "start": 811.45,
+     "end": 812.13,
+     "word": " Avyatta",
+     "probability": 0.5473
+    },
+    {
+     "start": 812.13,
+     "end": 812.45,
+     "word": " which",
+     "probability": 0.6654
+    },
+    {
+     "start": 812.45,
+     "end": 812.65,
+     "word": " is",
+     "probability": 0.9955
+    },
+    {
+     "start": 812.65,
+     "end": 812.75,
+     "word": " the",
+     "probability": 0.9541
+    },
+    {
+     "start": 812.75,
+     "end": 813.13,
+     "word": " cosmic",
+     "probability": 0.8463
+    },
+    {
+     "start": 813.13,
+     "end": 813.93,
+     "word": " unmanifest.",
+     "probability": 0.9869
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "start": 814.07,
+   "end": 814.23,
+   "text": " yahaḥ sarveṣu bhūteṣu naśyatsu naśyati",
+   "avg_logprob": -0.16522374686043143,
+   "no_speech_prob": 0.0005862629623152316,
+   "compression_ratio": 2.082089552238806,
+   "temperature": 0.2,
+   "words": [
+    {
+     "start": 814.07,
+     "end": 814.23,
+     "word": " yahaḥ",
+     "probability": 0.0095
+    },
+    {
+     "start": 814.23,
+     "end": 814.23,
+     "word": " sarveṣu",
+     "probability": 0.0139
+    },
+    {
+     "start": 814.23,
+     "end": 814.23,
+     "word": " bhūteṣu",
+     "probability": 0.0317
+    },
+    {
+     "start": 814.23,
+     "end": 814.23,
+     "word": " naśyatsu",
+     "probability": 0.0165
+    },
+    {
+     "start": 814.23,
+     "end": 814.23,
+     "word": " naśyati",
+     "probability": 0.3954
+    }
+   ]
+  }
+ ]
+}

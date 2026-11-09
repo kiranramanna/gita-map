@@ -1,0 +1,90 @@
+{
+ "kind": "second_pass_alternative_candidate",
+ "label": "SECOND-PASS ALTERNATIVE - automatic, unreviewed, NOT a replacement of the raw first pass",
+ "covers_s": [
+  1951.67,
+  1996.03
+ ],
+ "first_pass_file": "raw/asr/merged-raw-asr.json",
+ "first_pass_sha256": "377fe8abce09d849a6d794ff936d42652f8d0b28312ad08fffea62a42919fae7",
+ "first_pass_merged_ids_affected": [
+  481,
+  482,
+  483,
+  484,
+  485,
+  486,
+  487,
+  488,
+  489,
+  490,
+  491,
+  492,
+  493,
+  494,
+  495,
+  496,
+  497,
+  498,
+  499,
+  500,
+  501
+ ],
+ "source_file": "raw/asr-checks/second-pass/sp-1950.21-2002.59-nocond.json",
+ "source_sha256": "e7719864a4fde57c7a7e43bc32b9216b68de602cd7b2bcddfae1253e30568552",
+ "source_params": {
+  "beam_size": 5,
+  "language": null,
+  "word_timestamps": true,
+  "vad_filter": false,
+  "condition_on_previous_text": false,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "segments": [
+  {
+   "source_segment_id": 1,
+   "start": 1950.21,
+   "end": 1977.69,
+   "text": " object in the Saguna framework. In the Avyatta, as in the Brahman or the Nirguna Brahman, it",
+   "temperature": 0.0,
+   "avg_logprob": -0.2702986728399992
+  },
+  {
+   "source_segment_id": 2,
+   "start": 1977.69,
+   "end": 1989.83,
+   "text": " It is agrahaniyya, means senses and mind cannot conceive it or measure it.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4120149625973268
+  },
+  {
+   "source_segment_id": 3,
+   "start": 1992.43,
+   "end": 1993.99,
+   "text": " There is, it is immeasurable.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4120149625973268
+  }
+ ],
+ "overlap_note": "Covers the first-pass span with no words; source segments may extend past both ends and overlap kept first-pass segments.",
+ "status_by_sub_span": [
+  {
+   "name": "first_pass_no_words",
+   "start": 1951.67,
+   "end": 1996.03,
+   "status": "unresolved"
+  }
+ ],
+ "caveats": [
+  "Only one second-pass decode covers this span; nothing corroborates it.",
+  "Many 1 s windows here are digital silence (-120 dBFS), so the speech is sparse; content may still be missing."
+ ],
+ "created_utc": "2026-11-09T01:41:48.309976+00:00"
+}

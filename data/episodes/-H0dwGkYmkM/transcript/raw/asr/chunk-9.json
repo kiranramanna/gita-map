@@ -1,0 +1,7921 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified",
+  "note": "Machine ASR output, not reviewed or corrected. Sanskrit terms and verse text are likely mis-transcribed.",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 3728.25,
+   "dur_s": 429.504
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": true,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64"
+  },
+  "run_started_utc": "2026-11-09T01:00:35.743809+00:00",
+  "run_finished_utc": "2026-11-09T01:12:06.723302+00:00",
+  "model_load_s": 8.27,
+  "transcribe_wall_s": 690.97,
+  "audio_dur_s": 429.504,
+  "realtime_factor": 1.6088
+ },
+ "language": "en",
+ "language_probability": 0.9670755863189697,
+ "all_language_probs_top5": [
+  [
+   "en",
+   0.9670755863189697
+  ],
+  [
+   "te",
+   0.020813070237636566
+  ],
+  [
+   "ta",
+   0.009316288866102695
+  ],
+  [
+   "hi",
+   0.0014839906943961978
+  ],
+  [
+   "fi",
+   0.0002802831295412034
+  ]
+ ],
+ "duration": 429.504,
+ "duration_after_vad": 429.504,
+ "segments": [
+  {
+   "id": 1,
+   "start": 3733.79,
+   "end": 3735.67,
+   "text": " I don't know whether you are able to hear",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3733.79,
+     "end": 3734.27,
+     "word": " I",
+     "probability": 0.8991
+    },
+    {
+     "start": 3734.27,
+     "end": 3734.51,
+     "word": " don't",
+     "probability": 0.9858
+    },
+    {
+     "start": 3734.51,
+     "end": 3734.63,
+     "word": " know",
+     "probability": 0.9987
+    },
+    {
+     "start": 3734.63,
+     "end": 3734.77,
+     "word": " whether",
+     "probability": 0.9527
+    },
+    {
+     "start": 3734.77,
+     "end": 3734.99,
+     "word": " you",
+     "probability": 0.9894
+    },
+    {
+     "start": 3734.99,
+     "end": 3735.07,
+     "word": " are",
+     "probability": 0.923
+    },
+    {
+     "start": 3735.07,
+     "end": 3735.27,
+     "word": " able",
+     "probability": 0.9992
+    },
+    {
+     "start": 3735.27,
+     "end": 3735.45,
+     "word": " to",
+     "probability": 0.9995
+    },
+    {
+     "start": 3735.45,
+     "end": 3735.67,
+     "word": " hear",
+     "probability": 0.9963
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 3735.67,
+   "end": 3737.71,
+   "text": " the crackers in my background.",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3735.67,
+     "end": 3735.91,
+     "word": " the",
+     "probability": 0.9898
+    },
+    {
+     "start": 3735.91,
+     "end": 3736.61,
+     "word": " crackers",
+     "probability": 0.9449
+    },
+    {
+     "start": 3736.61,
+     "end": 3736.99,
+     "word": " in",
+     "probability": 0.5954
+    },
+    {
+     "start": 3736.99,
+     "end": 3737.35,
+     "word": " my",
+     "probability": 0.9909
+    },
+    {
+     "start": 3737.35,
+     "end": 3737.71,
+     "word": " background.",
+     "probability": 0.9991
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 3739.81,
+   "end": 3741.31,
+   "text": " Very, very faint, Binduji.",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3739.81,
+     "end": 3740.29,
+     "word": " Very,",
+     "probability": 0.8972
+    },
+    {
+     "start": 3740.35,
+     "end": 3740.49,
+     "word": " very",
+     "probability": 0.9994
+    },
+    {
+     "start": 3740.49,
+     "end": 3740.91,
+     "word": " faint,",
+     "probability": 0.9989
+    },
+    {
+     "start": 3740.97,
+     "end": 3741.31,
+     "word": " Binduji.",
+     "probability": 0.7301
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 3741.63,
+   "end": 3742.41,
+   "text": " Very faint.",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3741.63,
+     "end": 3742.11,
+     "word": " Very",
+     "probability": 0.4674
+    },
+    {
+     "start": 3742.11,
+     "end": 3742.41,
+     "word": " faint.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 3743.09,
+   "end": 3745.69,
+   "text": " This is not from our building. It is from",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3743.09,
+     "end": 3743.57,
+     "word": " This",
+     "probability": 0.6821
+    },
+    {
+     "start": 3743.57,
+     "end": 3744.05,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 3744.05,
+     "end": 3744.27,
+     "word": " not",
+     "probability": 0.9996
+    },
+    {
+     "start": 3744.27,
+     "end": 3744.47,
+     "word": " from",
+     "probability": 0.9999
+    },
+    {
+     "start": 3744.47,
+     "end": 3744.71,
+     "word": " our",
+     "probability": 0.9999
+    },
+    {
+     "start": 3744.71,
+     "end": 3745.03,
+     "word": " building.",
+     "probability": 0.9995
+    },
+    {
+     "start": 3745.17,
+     "end": 3745.37,
+     "word": " It",
+     "probability": 0.9988
+    },
+    {
+     "start": 3745.37,
+     "end": 3745.51,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 3745.51,
+     "end": 3745.69,
+     "word": " from",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 3745.69,
+   "end": 3746.59,
+   "text": " the surrounding buildings.",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3745.69,
+     "end": 3745.81,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 3745.81,
+     "end": 3746.23,
+     "word": " surrounding",
+     "probability": 0.9942
+    },
+    {
+     "start": 3746.23,
+     "end": 3746.59,
+     "word": " buildings.",
+     "probability": 0.9977
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 3747.51,
+   "end": 3749.81,
+   "text": " Tomorrow, Sunday will be from our own building.",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3747.51,
+     "end": 3747.99,
+     "word": " Tomorrow,",
+     "probability": 0.8517
+    },
+    {
+     "start": 3747.99,
+     "end": 3748.47,
+     "word": " Sunday",
+     "probability": 0.9998
+    },
+    {
+     "start": 3748.47,
+     "end": 3748.75,
+     "word": " will",
+     "probability": 0.6982
+    },
+    {
+     "start": 3748.75,
+     "end": 3748.87,
+     "word": " be",
+     "probability": 0.9999
+    },
+    {
+     "start": 3748.87,
+     "end": 3749.11,
+     "word": " from",
+     "probability": 0.9998
+    },
+    {
+     "start": 3749.11,
+     "end": 3749.35,
+     "word": " our",
+     "probability": 0.9997
+    },
+    {
+     "start": 3749.35,
+     "end": 3749.51,
+     "word": " own",
+     "probability": 0.9993
+    },
+    {
+     "start": 3749.51,
+     "end": 3749.81,
+     "word": " building.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 3750.43,
+   "end": 3751.13,
+   "text": " Yes, yes.",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3750.43,
+     "end": 3750.91,
+     "word": " Yes,",
+     "probability": 0.8916
+    },
+    {
+     "start": 3750.91,
+     "end": 3751.13,
+     "word": " yes.",
+     "probability": 0.9985
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 3752.51,
+   "end": 3753.91,
+   "text": " That is why I know",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3752.51,
+     "end": 3752.99,
+     "word": " That",
+     "probability": 0.9991
+    },
+    {
+     "start": 3752.99,
+     "end": 3753.13,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 3753.13,
+     "end": 3753.31,
+     "word": " why",
+     "probability": 0.9997
+    },
+    {
+     "start": 3753.31,
+     "end": 3753.69,
+     "word": " I",
+     "probability": 0.9947
+    },
+    {
+     "start": 3753.69,
+     "end": 3753.91,
+     "word": " know",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 3753.91,
+   "end": 3755.43,
+   "text": " the consequence. Last",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3753.91,
+     "end": 3754.11,
+     "word": " the",
+     "probability": 0.9993
+    },
+    {
+     "start": 3754.11,
+     "end": 3754.93,
+     "word": " consequence.",
+     "probability": 0.8834
+    },
+    {
+     "start": 3755.11,
+     "end": 3755.43,
+     "word": " Last",
+     "probability": 0.9758
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 3755.43,
+   "end": 3757.13,
+   "text": " Diwali, I remember about it.",
+   "avg_logprob": -0.24770055357942877,
+   "no_speech_prob": 0.02602085843682289,
+   "compression_ratio": 1.5172413793103448,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3755.43,
+     "end": 3756.15,
+     "word": " Diwali,",
+     "probability": 0.958
+    },
+    {
+     "start": 3756.15,
+     "end": 3756.31,
+     "word": " I",
+     "probability": 0.9998
+    },
+    {
+     "start": 3756.31,
+     "end": 3756.53,
+     "word": " remember",
+     "probability": 0.9955
+    },
+    {
+     "start": 3756.53,
+     "end": 3756.89,
+     "word": " about",
+     "probability": 0.9995
+    },
+    {
+     "start": 3756.89,
+     "end": 3757.13,
+     "word": " it.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 3758.25,
+   "end": 3758.45,
+   "text": " Yeah.",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3758.25,
+     "end": 3758.45,
+     "word": " Yeah.",
+     "probability": 0.1991
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 3765.33,
+   "end": 3766.73,
+   "text": " Okay. We will meet on",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3765.33,
+     "end": 3765.81,
+     "word": " Okay.",
+     "probability": 0.891
+    },
+    {
+     "start": 3765.95,
+     "end": 3766.19,
+     "word": " We",
+     "probability": 0.9687
+    },
+    {
+     "start": 3766.19,
+     "end": 3766.31,
+     "word": " will",
+     "probability": 0.2446
+    },
+    {
+     "start": 3766.31,
+     "end": 3766.53,
+     "word": " meet",
+     "probability": 0.9985
+    },
+    {
+     "start": 3766.53,
+     "end": 3766.73,
+     "word": " on",
+     "probability": 0.9975
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "start": 3767.65,
+   "end": 3768.37,
+   "text": " Monday now.",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3767.65,
+     "end": 3768.13,
+     "word": " Monday",
+     "probability": 0.9915
+    },
+    {
+     "start": 3768.13,
+     "end": 3768.37,
+     "word": " now.",
+     "probability": 0.9568
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "start": 3769.49,
+   "end": 3771.41,
+   "text": " Sure, Binduji. You want to",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3769.49,
+     "end": 3769.97,
+     "word": " Sure,",
+     "probability": 0.8742
+    },
+    {
+     "start": 3770.07,
+     "end": 3770.45,
+     "word": " Binduji.",
+     "probability": 0.8154
+    },
+    {
+     "start": 3770.55,
+     "end": 3771.03,
+     "word": " You",
+     "probability": 0.958
+    },
+    {
+     "start": 3771.03,
+     "end": 3771.27,
+     "word": " want",
+     "probability": 0.9961
+    },
+    {
+     "start": 3771.27,
+     "end": 3771.41,
+     "word": " to",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "start": 3771.41,
+   "end": 3773.25,
+   "text": " make an announcement because you had mentioned",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3771.41,
+     "end": 3771.67,
+     "word": " make",
+     "probability": 0.9995
+    },
+    {
+     "start": 3771.67,
+     "end": 3771.81,
+     "word": " an",
+     "probability": 0.9991
+    },
+    {
+     "start": 3771.81,
+     "end": 3772.23,
+     "word": " announcement",
+     "probability": 0.988
+    },
+    {
+     "start": 3772.23,
+     "end": 3772.57,
+     "word": " because",
+     "probability": 0.608
+    },
+    {
+     "start": 3772.57,
+     "end": 3772.75,
+     "word": " you",
+     "probability": 0.9749
+    },
+    {
+     "start": 3772.75,
+     "end": 3772.93,
+     "word": " had",
+     "probability": 0.9939
+    },
+    {
+     "start": 3772.93,
+     "end": 3773.25,
+     "word": " mentioned",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "start": 3773.25,
+   "end": 3775.15,
+   "text": " earlier that you were going to take some",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3773.25,
+     "end": 3773.55,
+     "word": " earlier",
+     "probability": 0.9994
+    },
+    {
+     "start": 3773.55,
+     "end": 3774.01,
+     "word": " that",
+     "probability": 0.9962
+    },
+    {
+     "start": 3774.01,
+     "end": 3774.15,
+     "word": " you",
+     "probability": 0.9993
+    },
+    {
+     "start": 3774.15,
+     "end": 3774.27,
+     "word": " were",
+     "probability": 0.8732
+    },
+    {
+     "start": 3774.27,
+     "end": 3774.45,
+     "word": " going",
+     "probability": 0.9998
+    },
+    {
+     "start": 3774.45,
+     "end": 3774.63,
+     "word": " to",
+     "probability": 0.9992
+    },
+    {
+     "start": 3774.63,
+     "end": 3774.89,
+     "word": " take",
+     "probability": 0.9996
+    },
+    {
+     "start": 3774.89,
+     "end": 3775.15,
+     "word": " some",
+     "probability": 0.9779
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "start": 3775.15,
+   "end": 3777.41,
+   "text": " classes on, take a break",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3775.15,
+     "end": 3775.67,
+     "word": " classes",
+     "probability": 0.9986
+    },
+    {
+     "start": 3775.67,
+     "end": 3776.03,
+     "word": " on,",
+     "probability": 0.9858
+    },
+    {
+     "start": 3776.09,
+     "end": 3776.99,
+     "word": " take",
+     "probability": 0.9979
+    },
+    {
+     "start": 3776.99,
+     "end": 3777.17,
+     "word": " a",
+     "probability": 0.9998
+    },
+    {
+     "start": 3777.17,
+     "end": 3777.41,
+     "word": " break",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "start": 3777.41,
+   "end": 3779.61,
+   "text": " from Bhagavad Gita and go to Kaivalya Upanishad.",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3777.41,
+     "end": 3777.61,
+     "word": " from",
+     "probability": 0.9997
+    },
+    {
+     "start": 3777.61,
+     "end": 3777.95,
+     "word": " Bhagavad",
+     "probability": 0.9918
+    },
+    {
+     "start": 3777.95,
+     "end": 3778.13,
+     "word": " Gita",
+     "probability": 0.9975
+    },
+    {
+     "start": 3778.13,
+     "end": 3778.31,
+     "word": " and",
+     "probability": 0.998
+    },
+    {
+     "start": 3778.31,
+     "end": 3778.51,
+     "word": " go",
+     "probability": 0.9996
+    },
+    {
+     "start": 3778.51,
+     "end": 3778.69,
+     "word": " to",
+     "probability": 0.999
+    },
+    {
+     "start": 3778.69,
+     "end": 3779.13,
+     "word": " Kaivalya",
+     "probability": 0.9756
+    },
+    {
+     "start": 3779.13,
+     "end": 3779.61,
+     "word": " Upanishad.",
+     "probability": 0.9948
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "start": 3779.79,
+   "end": 3780.27,
+   "text": " So,",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3779.79,
+     "end": 3780.27,
+     "word": " So,",
+     "probability": 0.916
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "start": 3781.47,
+   "end": 3783.03,
+   "text": " I noticed you shared",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3781.47,
+     "end": 3781.95,
+     "word": " I",
+     "probability": 0.9997
+    },
+    {
+     "start": 3781.95,
+     "end": 3782.29,
+     "word": " noticed",
+     "probability": 0.9992
+    },
+    {
+     "start": 3782.29,
+     "end": 3782.55,
+     "word": " you",
+     "probability": 0.996
+    },
+    {
+     "start": 3782.55,
+     "end": 3783.03,
+     "word": " shared",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "start": 3783.03,
+   "end": 3785.05,
+   "text": " a link to that book that",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3783.03,
+     "end": 3783.21,
+     "word": " a",
+     "probability": 0.9959
+    },
+    {
+     "start": 3783.21,
+     "end": 3783.73,
+     "word": " link",
+     "probability": 0.9998
+    },
+    {
+     "start": 3783.73,
+     "end": 3784.27,
+     "word": " to",
+     "probability": 0.9998
+    },
+    {
+     "start": 3784.27,
+     "end": 3784.45,
+     "word": " that",
+     "probability": 0.8881
+    },
+    {
+     "start": 3784.45,
+     "end": 3784.81,
+     "word": " book",
+     "probability": 0.9997
+    },
+    {
+     "start": 3784.81,
+     "end": 3785.05,
+     "word": " that",
+     "probability": 0.9847
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "start": 3785.05,
+   "end": 3787.11,
+   "text": " is available. Is it available for",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3785.05,
+     "end": 3785.23,
+     "word": " is",
+     "probability": 0.8818
+    },
+    {
+     "start": 3785.23,
+     "end": 3785.85,
+     "word": " available.",
+     "probability": 0.9998
+    },
+    {
+     "start": 3786.07,
+     "end": 3786.21,
+     "word": " Is",
+     "probability": 0.9977
+    },
+    {
+     "start": 3786.21,
+     "end": 3786.33,
+     "word": " it",
+     "probability": 0.9997
+    },
+    {
+     "start": 3786.33,
+     "end": 3786.69,
+     "word": " available",
+     "probability": 0.9997
+    },
+    {
+     "start": 3786.69,
+     "end": 3787.11,
+     "word": " for",
+     "probability": 0.9778
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "start": 3787.61,
+   "end": 3788.09,
+   "text": " outside?",
+   "avg_logprob": -0.19886262011977862,
+   "no_speech_prob": 1.7798209228203632e-05,
+   "compression_ratio": 1.4524886877828054,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3787.61,
+     "end": 3788.09,
+     "word": " outside?",
+     "probability": 0.8932
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "start": 3788.25,
+   "end": 3790.69,
+   "text": " Yes, it is.",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3788.25,
+     "end": 3789.05,
+     "word": " Yes,",
+     "probability": 0.0926
+    },
+    {
+     "start": 3789.99,
+     "end": 3790.49,
+     "word": " it",
+     "probability": 0.9514
+    },
+    {
+     "start": 3790.49,
+     "end": 3790.69,
+     "word": " is.",
+     "probability": 0.849
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "start": 3790.87,
+   "end": 3792.19,
+   "text": " I mean, it will take about",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3790.87,
+     "end": 3791.13,
+     "word": " I",
+     "probability": 0.9315
+    },
+    {
+     "start": 3791.13,
+     "end": 3791.35,
+     "word": " mean,",
+     "probability": 0.9997
+    },
+    {
+     "start": 3791.39,
+     "end": 3791.53,
+     "word": " it",
+     "probability": 0.9997
+    },
+    {
+     "start": 3791.53,
+     "end": 3791.65,
+     "word": " will",
+     "probability": 0.9641
+    },
+    {
+     "start": 3791.65,
+     "end": 3791.87,
+     "word": " take",
+     "probability": 0.9999
+    },
+    {
+     "start": 3791.87,
+     "end": 3792.19,
+     "word": " about",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "start": 3792.19,
+   "end": 3795.07,
+   "text": " 10-15 days to be made",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3792.19,
+     "end": 3793.03,
+     "word": " 10",
+     "probability": 0.9981
+    },
+    {
+     "start": 3793.03,
+     "end": 3793.33,
+     "word": "-15",
+     "probability": 0.9675
+    },
+    {
+     "start": 3793.33,
+     "end": 3793.65,
+     "word": " days",
+     "probability": 0.9999
+    },
+    {
+     "start": 3793.65,
+     "end": 3794.41,
+     "word": " to",
+     "probability": 0.997
+    },
+    {
+     "start": 3794.41,
+     "end": 3794.77,
+     "word": " be",
+     "probability": 0.9997
+    },
+    {
+     "start": 3794.77,
+     "end": 3795.07,
+     "word": " made",
+     "probability": 0.9987
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "start": 3795.07,
+   "end": 3796.35,
+   "text": " available all over the world.",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3795.07,
+     "end": 3795.45,
+     "word": " available",
+     "probability": 0.9997
+    },
+    {
+     "start": 3795.45,
+     "end": 3795.73,
+     "word": " all",
+     "probability": 0.999
+    },
+    {
+     "start": 3795.73,
+     "end": 3795.89,
+     "word": " over",
+     "probability": 0.9995
+    },
+    {
+     "start": 3795.89,
+     "end": 3796.09,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 3796.09,
+     "end": 3796.35,
+     "word": " world.",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "start": 3796.85,
+   "end": 3798.59,
+   "text": " It will be printed and",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3796.85,
+     "end": 3797.41,
+     "word": " It",
+     "probability": 0.3134
+    },
+    {
+     "start": 3797.41,
+     "end": 3797.67,
+     "word": " will",
+     "probability": 0.9586
+    },
+    {
+     "start": 3797.67,
+     "end": 3797.85,
+     "word": " be",
+     "probability": 0.9999
+    },
+    {
+     "start": 3797.85,
+     "end": 3798.19,
+     "word": " printed",
+     "probability": 0.9996
+    },
+    {
+     "start": 3798.19,
+     "end": 3798.59,
+     "word": " and",
+     "probability": 0.9765
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "start": 3798.59,
+   "end": 3801.13,
+   "text": " e-book as well as",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3798.59,
+     "end": 3799.47,
+     "word": " e",
+     "probability": 0.7593
+    },
+    {
+     "start": 3799.47,
+     "end": 3800.29,
+     "word": "-book",
+     "probability": 0.9715
+    },
+    {
+     "start": 3800.29,
+     "end": 3800.75,
+     "word": " as",
+     "probability": 0.971
+    },
+    {
+     "start": 3800.75,
+     "end": 3800.97,
+     "word": " well",
+     "probability": 0.9998
+    },
+    {
+     "start": 3800.97,
+     "end": 3801.13,
+     "word": " as",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "start": 3801.13,
+   "end": 3802.95,
+   "text": " Kindle, Kobo, all those",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3801.13,
+     "end": 3801.53,
+     "word": " Kindle,",
+     "probability": 0.9958
+    },
+    {
+     "start": 3801.69,
+     "end": 3802.17,
+     "word": " Kobo,",
+     "probability": 0.9979
+    },
+    {
+     "start": 3802.27,
+     "end": 3802.69,
+     "word": " all",
+     "probability": 0.998
+    },
+    {
+     "start": 3802.69,
+     "end": 3802.95,
+     "word": " those",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "start": 3804.31,
+   "end": 3804.87,
+   "text": " digital",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3804.31,
+     "end": 3804.87,
+     "word": " digital",
+     "probability": 0.9967
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "start": 3804.87,
+   "end": 3806.29,
+   "text": " versions also available.",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3804.87,
+     "end": 3805.53,
+     "word": " versions",
+     "probability": 0.9998
+    },
+    {
+     "start": 3805.53,
+     "end": 3805.89,
+     "word": " also",
+     "probability": 0.9164
+    },
+    {
+     "start": 3805.89,
+     "end": 3806.29,
+     "word": " available.",
+     "probability": 0.9984
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "start": 3806.91,
+   "end": 3808.35,
+   "text": " We can share the link",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3806.91,
+     "end": 3807.47,
+     "word": " We",
+     "probability": 0.9361
+    },
+    {
+     "start": 3807.47,
+     "end": 3807.61,
+     "word": " can",
+     "probability": 0.9999
+    },
+    {
+     "start": 3807.61,
+     "end": 3807.91,
+     "word": " share",
+     "probability": 0.9999
+    },
+    {
+     "start": 3807.91,
+     "end": 3808.09,
+     "word": " the",
+     "probability": 0.9993
+    },
+    {
+     "start": 3808.09,
+     "end": 3808.35,
+     "word": " link",
+     "probability": 0.9959
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "start": 3808.35,
+   "end": 3810.31,
+   "text": " in the next class, right, Binduji?",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3808.35,
+     "end": 3808.99,
+     "word": " in",
+     "probability": 0.9985
+    },
+    {
+     "start": 3808.99,
+     "end": 3809.11,
+     "word": " the",
+     "probability": 0.9995
+    },
+    {
+     "start": 3809.11,
+     "end": 3809.39,
+     "word": " next",
+     "probability": 0.9999
+    },
+    {
+     "start": 3809.39,
+     "end": 3809.67,
+     "word": " class,",
+     "probability": 0.9991
+    },
+    {
+     "start": 3809.75,
+     "end": 3809.95,
+     "word": " right,",
+     "probability": 0.9844
+    },
+    {
+     "start": 3809.99,
+     "end": 3810.31,
+     "word": " Binduji?",
+     "probability": 0.6155
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "start": 3810.51,
+   "end": 3812.51,
+   "text": " Yeah, we can share it from Monday onwards.",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3810.51,
+     "end": 3811.03,
+     "word": " Yeah,",
+     "probability": 0.7199
+    },
+    {
+     "start": 3811.07,
+     "end": 3811.19,
+     "word": " we",
+     "probability": 0.9999
+    },
+    {
+     "start": 3811.19,
+     "end": 3811.39,
+     "word": " can",
+     "probability": 1.0
+    },
+    {
+     "start": 3811.39,
+     "end": 3811.67,
+     "word": " share",
+     "probability": 1.0
+    },
+    {
+     "start": 3811.67,
+     "end": 3811.81,
+     "word": " it",
+     "probability": 0.9999
+    },
+    {
+     "start": 3811.81,
+     "end": 3812.01,
+     "word": " from",
+     "probability": 0.999
+    },
+    {
+     "start": 3812.01,
+     "end": 3812.29,
+     "word": " Monday",
+     "probability": 0.9941
+    },
+    {
+     "start": 3812.29,
+     "end": 3812.51,
+     "word": " onwards.",
+     "probability": 0.9964
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "start": 3814.07,
+   "end": 3815.19,
+   "text": " It has",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3814.07,
+     "end": 3814.63,
+     "word": " It",
+     "probability": 0.9314
+    },
+    {
+     "start": 3814.63,
+     "end": 3815.19,
+     "word": " has",
+     "probability": 0.8106
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "start": 3815.19,
+   "end": 3816.49,
+   "text": " started in the Indian Amazon.",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3815.19,
+     "end": 3815.55,
+     "word": " started",
+     "probability": 0.9996
+    },
+    {
+     "start": 3815.55,
+     "end": 3815.81,
+     "word": " in",
+     "probability": 0.9997
+    },
+    {
+     "start": 3815.81,
+     "end": 3815.87,
+     "word": " the",
+     "probability": 0.6583
+    },
+    {
+     "start": 3815.87,
+     "end": 3816.19,
+     "word": " Indian",
+     "probability": 0.9963
+    },
+    {
+     "start": 3816.19,
+     "end": 3816.49,
+     "word": " Amazon.",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "start": 3817.33,
+   "end": 3817.89,
+   "text": " Okay.",
+   "avg_logprob": -0.229850453698737,
+   "no_speech_prob": 0.0017536282539367676,
+   "compression_ratio": 1.484304932735426,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3817.33,
+     "end": 3817.89,
+     "word": " Okay.",
+     "probability": 0.977
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "start": 3819.23,
+   "end": 3820.51,
+   "text": " But publisher's",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3819.23,
+     "end": 3819.87,
+     "word": " But",
+     "probability": 0.7982
+    },
+    {
+     "start": 3819.87,
+     "end": 3820.51,
+     "word": " publisher's",
+     "probability": 0.9492
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "start": 3820.51,
+   "end": 3821.85,
+   "text": " price is cheaper than",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3820.51,
+     "end": 3820.75,
+     "word": " price",
+     "probability": 0.9996
+    },
+    {
+     "start": 3820.75,
+     "end": 3821.05,
+     "word": " is",
+     "probability": 0.9997
+    },
+    {
+     "start": 3821.05,
+     "end": 3821.47,
+     "word": " cheaper",
+     "probability": 0.9996
+    },
+    {
+     "start": 3821.47,
+     "end": 3821.85,
+     "word": " than",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "start": 3821.85,
+   "end": 3822.99,
+   "text": " Amazon price",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3821.85,
+     "end": 3822.57,
+     "word": " Amazon",
+     "probability": 0.9978
+    },
+    {
+     "start": 3822.57,
+     "end": 3822.99,
+     "word": " price",
+     "probability": 0.897
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "start": 3824.05,
+   "end": 3825.53,
+   "text": " because publisher is",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3824.05,
+     "end": 3824.69,
+     "word": " because",
+     "probability": 0.4302
+    },
+    {
+     "start": 3824.69,
+     "end": 3825.17,
+     "word": " publisher",
+     "probability": 0.9995
+    },
+    {
+     "start": 3825.17,
+     "end": 3825.53,
+     "word": " is",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "start": 3826.37,
+   "end": 3827.41,
+   "text": " wanting that",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3826.37,
+     "end": 3827.01,
+     "word": " wanting",
+     "probability": 0.9988
+    },
+    {
+     "start": 3827.01,
+     "end": 3827.41,
+     "word": " that",
+     "probability": 0.6449
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "start": 3827.41,
+   "end": 3829.57,
+   "text": " their sale to go up",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3827.41,
+     "end": 3827.91,
+     "word": " their",
+     "probability": 0.7195
+    },
+    {
+     "start": 3827.91,
+     "end": 3828.89,
+     "word": " sale",
+     "probability": 0.7929
+    },
+    {
+     "start": 3828.89,
+     "end": 3829.15,
+     "word": " to",
+     "probability": 0.9999
+    },
+    {
+     "start": 3829.15,
+     "end": 3829.35,
+     "word": " go",
+     "probability": 0.9999
+    },
+    {
+     "start": 3829.35,
+     "end": 3829.57,
+     "word": " up",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "start": 3829.57,
+   "end": 3831.91,
+   "text": " and Amazon takes 50% of",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3829.57,
+     "end": 3830.21,
+     "word": " and",
+     "probability": 0.8787
+    },
+    {
+     "start": 3830.21,
+     "end": 3830.57,
+     "word": " Amazon",
+     "probability": 0.9998
+    },
+    {
+     "start": 3830.57,
+     "end": 3830.91,
+     "word": " takes",
+     "probability": 0.9822
+    },
+    {
+     "start": 3830.91,
+     "end": 3831.21,
+     "word": " 50",
+     "probability": 0.9962
+    },
+    {
+     "start": 3831.21,
+     "end": 3831.59,
+     "word": "%",
+     "probability": 0.9462
+    },
+    {
+     "start": 3831.59,
+     "end": 3831.91,
+     "word": " of",
+     "probability": 0.9982
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "start": 3831.91,
+   "end": 3834.23,
+   "text": " profit to their side.",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3831.91,
+     "end": 3832.75,
+     "word": " profit",
+     "probability": 0.9995
+    },
+    {
+     "start": 3832.75,
+     "end": 3833.69,
+     "word": " to",
+     "probability": 0.9992
+    },
+    {
+     "start": 3833.69,
+     "end": 3833.91,
+     "word": " their",
+     "probability": 0.9999
+    },
+    {
+     "start": 3833.91,
+     "end": 3834.23,
+     "word": " side.",
+     "probability": 0.9987
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "start": 3834.57,
+   "end": 3835.71,
+   "text": " So, Amazon",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3834.57,
+     "end": 3835.07,
+     "word": " So,",
+     "probability": 0.5698
+    },
+    {
+     "start": 3835.11,
+     "end": 3835.71,
+     "word": " Amazon",
+     "probability": 0.9274
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "start": 3836.35,
+   "end": 3837.75,
+   "text": " jacked up the price, not",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3836.35,
+     "end": 3836.79,
+     "word": " jacked",
+     "probability": 0.9813
+    },
+    {
+     "start": 3836.79,
+     "end": 3836.91,
+     "word": " up",
+     "probability": 0.9976
+    },
+    {
+     "start": 3836.91,
+     "end": 3837.01,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 3837.01,
+     "end": 3837.31,
+     "word": " price,",
+     "probability": 0.9997
+    },
+    {
+     "start": 3837.43,
+     "end": 3837.75,
+     "word": " not",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "start": 3837.75,
+   "end": 3839.29,
+   "text": " the publisher.",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3837.75,
+     "end": 3837.97,
+     "word": " the",
+     "probability": 0.9991
+    },
+    {
+     "start": 3837.97,
+     "end": 3839.29,
+     "word": " publisher.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "start": 3840.35,
+   "end": 3842.17,
+   "text": " Yeah, but the book is worth",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3840.35,
+     "end": 3840.99,
+     "word": " Yeah,",
+     "probability": 0.9058
+    },
+    {
+     "start": 3841.01,
+     "end": 3841.17,
+     "word": " but",
+     "probability": 0.9998
+    },
+    {
+     "start": 3841.17,
+     "end": 3841.41,
+     "word": " the",
+     "probability": 0.9995
+    },
+    {
+     "start": 3841.41,
+     "end": 3841.73,
+     "word": " book",
+     "probability": 0.9997
+    },
+    {
+     "start": 3841.73,
+     "end": 3841.89,
+     "word": " is",
+     "probability": 0.9994
+    },
+    {
+     "start": 3841.89,
+     "end": 3842.17,
+     "word": " worth",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "start": 3842.17,
+   "end": 3843.11,
+   "text": " much more than that.",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3842.17,
+     "end": 3842.39,
+     "word": " much",
+     "probability": 0.9998
+    },
+    {
+     "start": 3842.39,
+     "end": 3842.65,
+     "word": " more",
+     "probability": 1.0
+    },
+    {
+     "start": 3842.65,
+     "end": 3842.85,
+     "word": " than",
+     "probability": 1.0
+    },
+    {
+     "start": 3842.85,
+     "end": 3843.11,
+     "word": " that.",
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "start": 3845.03,
+   "end": 3846.01,
+   "text": " That's how this",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3845.03,
+     "end": 3845.67,
+     "word": " That's",
+     "probability": 0.6196
+    },
+    {
+     "start": 3845.67,
+     "end": 3845.73,
+     "word": " how",
+     "probability": 0.999
+    },
+    {
+     "start": 3845.73,
+     "end": 3846.01,
+     "word": " this",
+     "probability": 0.978
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "start": 3846.01,
+   "end": 3846.91,
+   "text": " publishing works.",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3846.01,
+     "end": 3846.57,
+     "word": " publishing",
+     "probability": 0.9972
+    },
+    {
+     "start": 3846.57,
+     "end": 3846.91,
+     "word": " works.",
+     "probability": 0.9922
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "start": 3847.21,
+   "end": 3847.49,
+   "text": " Right.",
+   "avg_logprob": -0.25081083946621296,
+   "no_speech_prob": 0.001637537032365799,
+   "compression_ratio": 1.564516129032258,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3847.21,
+     "end": 3847.49,
+     "word": " Right.",
+     "probability": 0.7207
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "start": 3848.25,
+   "end": 3849.97,
+   "text": " So, I'm thinking maybe",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3848.25,
+     "end": 3848.81,
+     "word": " So,",
+     "probability": 0.7187
+    },
+    {
+     "start": 3848.89,
+     "end": 3849.19,
+     "word": " I'm",
+     "probability": 0.5548
+    },
+    {
+     "start": 3849.19,
+     "end": 3849.57,
+     "word": " thinking",
+     "probability": 0.9994
+    },
+    {
+     "start": 3849.57,
+     "end": 3849.97,
+     "word": " maybe",
+     "probability": 0.9911
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "start": 3850.75,
+   "end": 3852.71,
+   "text": " I'm going to be in Bangalore",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3850.75,
+     "end": 3851.31,
+     "word": " I'm",
+     "probability": 0.6113
+    },
+    {
+     "start": 3851.31,
+     "end": 3851.59,
+     "word": " going",
+     "probability": 1.0
+    },
+    {
+     "start": 3851.59,
+     "end": 3851.83,
+     "word": " to",
+     "probability": 0.9999
+    },
+    {
+     "start": 3851.83,
+     "end": 3851.93,
+     "word": " be",
+     "probability": 0.9988
+    },
+    {
+     "start": 3851.93,
+     "end": 3852.17,
+     "word": " in",
+     "probability": 0.9998
+    },
+    {
+     "start": 3852.17,
+     "end": 3852.71,
+     "word": " Bangalore",
+     "probability": 0.9989
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "start": 3852.71,
+   "end": 3854.93,
+   "text": " 28th, 29th.",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3852.71,
+     "end": 3853.59,
+     "word": " 28th,",
+     "probability": 0.8179
+    },
+    {
+     "start": 3853.61,
+     "end": 3854.93,
+     "word": " 29th.",
+     "probability": 0.9574
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "start": 3855.37,
+   "end": 3857.11,
+   "text": " So, suggestion has come from",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3855.37,
+     "end": 3855.93,
+     "word": " So,",
+     "probability": 0.9814
+    },
+    {
+     "start": 3855.95,
+     "end": 3856.27,
+     "word": " suggestion",
+     "probability": 0.974
+    },
+    {
+     "start": 3856.27,
+     "end": 3856.61,
+     "word": " has",
+     "probability": 0.9999
+    },
+    {
+     "start": 3856.61,
+     "end": 3856.83,
+     "word": " come",
+     "probability": 1.0
+    },
+    {
+     "start": 3856.83,
+     "end": 3857.11,
+     "word": " from",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "start": 3857.11,
+   "end": 3859.11,
+   "text": " Venkat. Why not we take this",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3857.11,
+     "end": 3857.47,
+     "word": " Venkat.",
+     "probability": 0.9892
+    },
+    {
+     "start": 3857.63,
+     "end": 3858.11,
+     "word": " Why",
+     "probability": 0.9983
+    },
+    {
+     "start": 3858.11,
+     "end": 3858.37,
+     "word": " not",
+     "probability": 0.9955
+    },
+    {
+     "start": 3858.37,
+     "end": 3858.59,
+     "word": " we",
+     "probability": 0.9358
+    },
+    {
+     "start": 3858.59,
+     "end": 3858.81,
+     "word": " take",
+     "probability": 0.9999
+    },
+    {
+     "start": 3858.81,
+     "end": 3859.11,
+     "word": " this",
+     "probability": 0.9927
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "start": 3859.81,
+   "end": 3860.93,
+   "text": " series that",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3859.81,
+     "end": 3860.37,
+     "word": " series",
+     "probability": 0.8462
+    },
+    {
+     "start": 3860.37,
+     "end": 3860.93,
+     "word": " that",
+     "probability": 0.1283
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "start": 3860.93,
+   "end": 3863.11,
+   "text": " because it's in 26 verses.",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3860.93,
+     "end": 3861.37,
+     "word": " because",
+     "probability": 0.9658
+    },
+    {
+     "start": 3861.37,
+     "end": 3861.77,
+     "word": " it's",
+     "probability": 0.9997
+    },
+    {
+     "start": 3861.77,
+     "end": 3861.79,
+     "word": " in",
+     "probability": 0.6426
+    },
+    {
+     "start": 3861.79,
+     "end": 3862.57,
+     "word": " 26",
+     "probability": 0.9477
+    },
+    {
+     "start": 3862.57,
+     "end": 3863.11,
+     "word": " verses.",
+     "probability": 0.999
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "start": 3863.83,
+   "end": 3864.39,
+   "text": " Yes.",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3863.83,
+     "end": 3864.39,
+     "word": " Yes.",
+     "probability": 0.8098
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "start": 3865.05,
+   "end": 3867.05,
+   "text": " I'll be able to cover it in two days",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3865.05,
+     "end": 3865.61,
+     "word": " I'll",
+     "probability": 0.8328
+    },
+    {
+     "start": 3865.61,
+     "end": 3865.73,
+     "word": " be",
+     "probability": 1.0
+    },
+    {
+     "start": 3865.73,
+     "end": 3865.91,
+     "word": " able",
+     "probability": 1.0
+    },
+    {
+     "start": 3865.91,
+     "end": 3866.11,
+     "word": " to",
+     "probability": 1.0
+    },
+    {
+     "start": 3866.11,
+     "end": 3866.37,
+     "word": " cover",
+     "probability": 0.9999
+    },
+    {
+     "start": 3866.37,
+     "end": 3866.53,
+     "word": " it",
+     "probability": 0.9999
+    },
+    {
+     "start": 3866.53,
+     "end": 3866.69,
+     "word": " in",
+     "probability": 0.9997
+    },
+    {
+     "start": 3866.69,
+     "end": 3866.85,
+     "word": " two",
+     "probability": 0.8972
+    },
+    {
+     "start": 3866.85,
+     "end": 3867.05,
+     "word": " days",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "start": 3867.05,
+   "end": 3868.45,
+   "text": " is something which I have to check",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3867.05,
+     "end": 3867.25,
+     "word": " is",
+     "probability": 0.9622
+    },
+    {
+     "start": 3867.25,
+     "end": 3867.55,
+     "word": " something",
+     "probability": 0.9999
+    },
+    {
+     "start": 3867.55,
+     "end": 3867.75,
+     "word": " which",
+     "probability": 0.9994
+    },
+    {
+     "start": 3867.75,
+     "end": 3867.85,
+     "word": " I",
+     "probability": 1.0
+    },
+    {
+     "start": 3867.85,
+     "end": 3867.95,
+     "word": " have",
+     "probability": 0.9953
+    },
+    {
+     "start": 3867.95,
+     "end": 3868.03,
+     "word": " to",
+     "probability": 1.0
+    },
+    {
+     "start": 3868.03,
+     "end": 3868.45,
+     "word": " check",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "start": 3868.45,
+   "end": 3870.59,
+   "text": " because it's about",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3868.45,
+     "end": 3869.55,
+     "word": " because",
+     "probability": 0.8935
+    },
+    {
+     "start": 3869.55,
+     "end": 3870.05,
+     "word": " it's",
+     "probability": 1.0
+    },
+    {
+     "start": 3870.05,
+     "end": 3870.59,
+     "word": " about",
+     "probability": 0.9818
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "start": 3870.59,
+   "end": 3872.77,
+   "text": " 350 pages book.",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3870.59,
+     "end": 3870.99,
+     "word": " 350",
+     "probability": 0.9953
+    },
+    {
+     "start": 3870.99,
+     "end": 3871.51,
+     "word": " pages",
+     "probability": 0.9999
+    },
+    {
+     "start": 3871.51,
+     "end": 3872.77,
+     "word": " book.",
+     "probability": 0.9464
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "start": 3874.57,
+   "end": 3875.13,
+   "text": " Okay.",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3874.57,
+     "end": 3875.13,
+     "word": " Okay.",
+     "probability": 0.9817
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "start": 3875.17,
+   "end": 3875.97,
+   "text": " So, you're going to have a",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3875.17,
+     "end": 3875.37,
+     "word": " So,",
+     "probability": 0.9984
+    },
+    {
+     "start": 3875.39,
+     "end": 3875.55,
+     "word": " you're",
+     "probability": 0.9969
+    },
+    {
+     "start": 3875.55,
+     "end": 3875.61,
+     "word": " going",
+     "probability": 0.9964
+    },
+    {
+     "start": 3875.61,
+     "end": 3875.73,
+     "word": " to",
+     "probability": 1.0
+    },
+    {
+     "start": 3875.73,
+     "end": 3875.87,
+     "word": " have",
+     "probability": 1.0
+    },
+    {
+     "start": 3875.87,
+     "end": 3875.97,
+     "word": " a",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "start": 3876.99,
+   "end": 3878.11,
+   "text": " continuous offering.",
+   "avg_logprob": -0.23078444807425788,
+   "no_speech_prob": 0.012424908578395844,
+   "compression_ratio": 1.448888888888889,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3876.99,
+     "end": 3877.55,
+     "word": " continuous",
+     "probability": 0.9988
+    },
+    {
+     "start": 3877.55,
+     "end": 3878.11,
+     "word": " offering.",
+     "probability": 0.6873
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "start": 3878.25,
+   "end": 3878.55,
+   "text": " continuous offering of that",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3878.25,
+     "end": 3878.25,
+     "word": " continuous",
+     "probability": 0.0
+    },
+    {
+     "start": 3878.25,
+     "end": 3878.25,
+     "word": " offering",
+     "probability": 0.0077
+    },
+    {
+     "start": 3878.25,
+     "end": 3878.33,
+     "word": " of",
+     "probability": 0.9738
+    },
+    {
+     "start": 3878.33,
+     "end": 3878.55,
+     "word": " that",
+     "probability": 0.9927
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "start": 3878.55,
+   "end": 3879.21,
+   "text": " for two days.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3878.55,
+     "end": 3878.73,
+     "word": " for",
+     "probability": 0.9943
+    },
+    {
+     "start": 3878.73,
+     "end": 3878.93,
+     "word": " two",
+     "probability": 0.9562
+    },
+    {
+     "start": 3878.93,
+     "end": 3879.21,
+     "word": " days.",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "start": 3879.35,
+   "end": 3881.27,
+   "text": " Is that in Bangalore?",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3879.35,
+     "end": 3879.55,
+     "word": " Is",
+     "probability": 0.9487
+    },
+    {
+     "start": 3879.55,
+     "end": 3879.67,
+     "word": " that",
+     "probability": 0.9973
+    },
+    {
+     "start": 3879.67,
+     "end": 3880.49,
+     "word": " in",
+     "probability": 0.9609
+    },
+    {
+     "start": 3880.49,
+     "end": 3881.27,
+     "word": " Bangalore?",
+     "probability": 0.9688
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "start": 3881.47,
+   "end": 3882.77,
+   "text": " That's what Venkat is",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3881.47,
+     "end": 3881.91,
+     "word": " That's",
+     "probability": 0.9009
+    },
+    {
+     "start": 3881.91,
+     "end": 3882.11,
+     "word": " what",
+     "probability": 0.9981
+    },
+    {
+     "start": 3882.11,
+     "end": 3882.53,
+     "word": " Venkat",
+     "probability": 0.9883
+    },
+    {
+     "start": 3882.53,
+     "end": 3882.77,
+     "word": " is",
+     "probability": 0.996
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "start": 3882.77,
+   "end": 3883.35,
+   "text": " suggesting.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3882.77,
+     "end": 3883.35,
+     "word": " suggesting.",
+     "probability": 0.999
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "start": 3883.47,
+   "end": 3884.59,
+   "text": " But I've not decided.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3883.47,
+     "end": 3883.87,
+     "word": " But",
+     "probability": 0.9085
+    },
+    {
+     "start": 3883.87,
+     "end": 3884.13,
+     "word": " I've",
+     "probability": 0.6509
+    },
+    {
+     "start": 3884.13,
+     "end": 3884.27,
+     "word": " not",
+     "probability": 0.9989
+    },
+    {
+     "start": 3884.27,
+     "end": 3884.59,
+     "word": " decided.",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "start": 3884.81,
+   "end": 3886.25,
+   "text": " I'll discuss with Venkat on",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3884.81,
+     "end": 3885.17,
+     "word": " I'll",
+     "probability": 0.9252
+    },
+    {
+     "start": 3885.17,
+     "end": 3885.51,
+     "word": " discuss",
+     "probability": 0.9978
+    },
+    {
+     "start": 3885.51,
+     "end": 3885.71,
+     "word": " with",
+     "probability": 0.9049
+    },
+    {
+     "start": 3885.71,
+     "end": 3886.05,
+     "word": " Venkat",
+     "probability": 0.9975
+    },
+    {
+     "start": 3886.05,
+     "end": 3886.25,
+     "word": " on",
+     "probability": 0.9973
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "start": 3886.25,
+   "end": 3886.43,
+   "text": " that.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3886.25,
+     "end": 3886.43,
+     "word": " that.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "start": 3887.93,
+   "end": 3888.37,
+   "text": " Okay.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3887.93,
+     "end": 3888.37,
+     "word": " Okay.",
+     "probability": 0.9025
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "start": 3888.61,
+   "end": 3890.23,
+   "text": " But if you're doing it, if you",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3888.61,
+     "end": 3889.05,
+     "word": " But",
+     "probability": 0.9973
+    },
+    {
+     "start": 3889.05,
+     "end": 3889.19,
+     "word": " if",
+     "probability": 0.9968
+    },
+    {
+     "start": 3889.19,
+     "end": 3889.31,
+     "word": " you're",
+     "probability": 0.9979
+    },
+    {
+     "start": 3889.31,
+     "end": 3889.57,
+     "word": " doing",
+     "probability": 0.9997
+    },
+    {
+     "start": 3889.57,
+     "end": 3889.83,
+     "word": " it,",
+     "probability": 0.9995
+    },
+    {
+     "start": 3889.89,
+     "end": 3890.09,
+     "word": " if",
+     "probability": 0.9952
+    },
+    {
+     "start": 3890.09,
+     "end": 3890.23,
+     "word": " you",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "start": 3890.23,
+   "end": 3891.57,
+   "text": " can stream it on Clubhouse",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3890.23,
+     "end": 3890.43,
+     "word": " can",
+     "probability": 0.9995
+    },
+    {
+     "start": 3890.43,
+     "end": 3890.81,
+     "word": " stream",
+     "probability": 0.9997
+    },
+    {
+     "start": 3890.81,
+     "end": 3890.99,
+     "word": " it",
+     "probability": 0.9998
+    },
+    {
+     "start": 3890.99,
+     "end": 3891.17,
+     "word": " on",
+     "probability": 0.9995
+    },
+    {
+     "start": 3891.17,
+     "end": 3891.57,
+     "word": " Clubhouse",
+     "probability": 0.9829
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "start": 3891.57,
+   "end": 3893.15,
+   "text": " also, if people want to join,",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3891.57,
+     "end": 3891.91,
+     "word": " also,",
+     "probability": 0.9926
+    },
+    {
+     "start": 3892.01,
+     "end": 3892.25,
+     "word": " if",
+     "probability": 0.996
+    },
+    {
+     "start": 3892.25,
+     "end": 3892.53,
+     "word": " people",
+     "probability": 0.9995
+    },
+    {
+     "start": 3892.53,
+     "end": 3892.77,
+     "word": " want",
+     "probability": 0.9995
+    },
+    {
+     "start": 3892.77,
+     "end": 3892.87,
+     "word": " to",
+     "probability": 1.0
+    },
+    {
+     "start": 3892.87,
+     "end": 3893.15,
+     "word": " join,",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "start": 3893.79,
+   "end": 3895.33,
+   "text": " you can still have it live",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3893.79,
+     "end": 3894.23,
+     "word": " you",
+     "probability": 0.9993
+    },
+    {
+     "start": 3894.23,
+     "end": 3894.41,
+     "word": " can",
+     "probability": 0.9999
+    },
+    {
+     "start": 3894.41,
+     "end": 3894.69,
+     "word": " still",
+     "probability": 0.9994
+    },
+    {
+     "start": 3894.69,
+     "end": 3894.95,
+     "word": " have",
+     "probability": 0.9999
+    },
+    {
+     "start": 3894.95,
+     "end": 3895.11,
+     "word": " it",
+     "probability": 0.9998
+    },
+    {
+     "start": 3895.11,
+     "end": 3895.33,
+     "word": " live",
+     "probability": 0.9992
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "start": 3895.33,
+   "end": 3896.91,
+   "text": " there, but you can have it",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3895.33,
+     "end": 3895.69,
+     "word": " there,",
+     "probability": 0.9998
+    },
+    {
+     "start": 3895.81,
+     "end": 3896.05,
+     "word": " but",
+     "probability": 0.9997
+    },
+    {
+     "start": 3896.05,
+     "end": 3896.23,
+     "word": " you",
+     "probability": 0.9999
+    },
+    {
+     "start": 3896.23,
+     "end": 3896.41,
+     "word": " can",
+     "probability": 0.9998
+    },
+    {
+     "start": 3896.41,
+     "end": 3896.71,
+     "word": " have",
+     "probability": 0.9998
+    },
+    {
+     "start": 3896.71,
+     "end": 3896.91,
+     "word": " it",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "start": 3896.91,
+   "end": 3898.55,
+   "text": " on Clubhouse also",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3896.91,
+     "end": 3897.65,
+     "word": " on",
+     "probability": 0.9995
+    },
+    {
+     "start": 3897.65,
+     "end": 3898.11,
+     "word": " Clubhouse",
+     "probability": 0.9994
+    },
+    {
+     "start": 3898.11,
+     "end": 3898.55,
+     "word": " also",
+     "probability": 0.9973
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "start": 3898.55,
+   "end": 3900.35,
+   "text": " as an offering.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3898.55,
+     "end": 3899.23,
+     "word": " as",
+     "probability": 0.6814
+    },
+    {
+     "start": 3899.23,
+     "end": 3900.09,
+     "word": " an",
+     "probability": 0.9999
+    },
+    {
+     "start": 3900.09,
+     "end": 3900.35,
+     "word": " offering.",
+     "probability": 0.9956
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "start": 3900.49,
+   "end": 3900.91,
+   "text": " Yeah.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3900.49,
+     "end": 3900.91,
+     "word": " Yeah.",
+     "probability": 0.9433
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "start": 3901.15,
+   "end": 3902.97,
+   "text": " Anyway, it will be",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3901.15,
+     "end": 3901.59,
+     "word": " Anyway,",
+     "probability": 0.9973
+    },
+    {
+     "start": 3901.77,
+     "end": 3902.37,
+     "word": " it",
+     "probability": 0.9979
+    },
+    {
+     "start": 3902.37,
+     "end": 3902.83,
+     "word": " will",
+     "probability": 0.9173
+    },
+    {
+     "start": 3902.83,
+     "end": 3902.97,
+     "word": " be",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "start": 3902.97,
+   "end": 3903.31,
+   "text": " recorded.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3902.97,
+     "end": 3903.31,
+     "word": " recorded.",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "start": 3903.67,
+   "end": 3905.13,
+   "text": " For the purpose of recording,",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3903.67,
+     "end": 3904.11,
+     "word": " For",
+     "probability": 0.9949
+    },
+    {
+     "start": 3904.11,
+     "end": 3904.31,
+     "word": " the",
+     "probability": 1.0
+    },
+    {
+     "start": 3904.31,
+     "end": 3904.59,
+     "word": " purpose",
+     "probability": 0.9996
+    },
+    {
+     "start": 3904.59,
+     "end": 3904.81,
+     "word": " of",
+     "probability": 0.9999
+    },
+    {
+     "start": 3904.81,
+     "end": 3905.13,
+     "word": " recording,",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "start": 3905.35,
+   "end": 3905.89,
+   "text": " it will be there.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3905.35,
+     "end": 3905.45,
+     "word": " it",
+     "probability": 0.9997
+    },
+    {
+     "start": 3905.45,
+     "end": 3905.57,
+     "word": " will",
+     "probability": 0.975
+    },
+    {
+     "start": 3905.57,
+     "end": 3905.73,
+     "word": " be",
+     "probability": 1.0
+    },
+    {
+     "start": 3905.73,
+     "end": 3905.89,
+     "word": " there.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "start": 3906.57,
+   "end": 3907.01,
+   "text": " Okay.",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3906.57,
+     "end": 3907.01,
+     "word": " Okay.",
+     "probability": 0.9983
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "start": 3907.29,
+   "end": 3907.85,
+   "text": " So, I'm going to have a",
+   "avg_logprob": -0.32774531701852005,
+   "no_speech_prob": 0.004981482867151499,
+   "compression_ratio": 1.7527675276752768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3907.29,
+     "end": 3907.73,
+     "word": " So,",
+     "probability": 0.0581
+    },
+    {
+     "start": 3907.73,
+     "end": 3907.75,
+     "word": " I'm",
+     "probability": 0.2062
+    },
+    {
+     "start": 3907.75,
+     "end": 3907.75,
+     "word": " going",
+     "probability": 0.5511
+    },
+    {
+     "start": 3907.75,
+     "end": 3907.75,
+     "word": " to",
+     "probability": 0.9974
+    },
+    {
+     "start": 3907.75,
+     "end": 3907.85,
+     "word": " have",
+     "probability": 0.5318
+    },
+    {
+     "start": 3907.85,
+     "end": 3907.85,
+     "word": " a",
+     "probability": 0.6243
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "start": 3908.87,
+   "end": 3909.65,
+   "text": " Anyway, that",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3908.87,
+     "end": 3909.35,
+     "word": " Anyway,",
+     "probability": 0.3229
+    },
+    {
+     "start": 3909.43,
+     "end": 3909.65,
+     "word": " that",
+     "probability": 0.274
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "start": 3910.13,
+   "end": 3912.29,
+   "text": " I will let you know by Monday",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3910.13,
+     "end": 3910.61,
+     "word": " I",
+     "probability": 0.809
+    },
+    {
+     "start": 3910.61,
+     "end": 3910.85,
+     "word": " will",
+     "probability": 0.9879
+    },
+    {
+     "start": 3910.85,
+     "end": 3911.25,
+     "word": " let",
+     "probability": 0.9871
+    },
+    {
+     "start": 3911.25,
+     "end": 3911.39,
+     "word": " you",
+     "probability": 0.9959
+    },
+    {
+     "start": 3911.39,
+     "end": 3911.61,
+     "word": " know",
+     "probability": 0.9984
+    },
+    {
+     "start": 3911.61,
+     "end": 3911.93,
+     "word": " by",
+     "probability": 0.9969
+    },
+    {
+     "start": 3911.93,
+     "end": 3912.29,
+     "word": " Monday",
+     "probability": 0.9849
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "start": 3912.29,
+   "end": 3914.25,
+   "text": " when I have to discuss with Venkat on that.",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3912.29,
+     "end": 3912.73,
+     "word": " when",
+     "probability": 0.3433
+    },
+    {
+     "start": 3912.73,
+     "end": 3912.83,
+     "word": " I",
+     "probability": 0.9841
+    },
+    {
+     "start": 3912.83,
+     "end": 3912.91,
+     "word": " have",
+     "probability": 0.1688
+    },
+    {
+     "start": 3912.91,
+     "end": 3913.01,
+     "word": " to",
+     "probability": 0.992
+    },
+    {
+     "start": 3913.01,
+     "end": 3913.33,
+     "word": " discuss",
+     "probability": 0.9962
+    },
+    {
+     "start": 3913.33,
+     "end": 3913.53,
+     "word": " with",
+     "probability": 0.8113
+    },
+    {
+     "start": 3913.53,
+     "end": 3913.89,
+     "word": " Venkat",
+     "probability": 0.9551
+    },
+    {
+     "start": 3913.89,
+     "end": 3914.11,
+     "word": " on",
+     "probability": 0.9649
+    },
+    {
+     "start": 3914.11,
+     "end": 3914.25,
+     "word": " that.",
+     "probability": 0.9975
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "start": 3915.05,
+   "end": 3915.53,
+   "text": " Okay.",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3915.05,
+     "end": 3915.53,
+     "word": " Okay.",
+     "probability": 0.8049
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "start": 3917.39,
+   "end": 3918.43,
+   "text": " But if you want,",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3917.39,
+     "end": 3917.87,
+     "word": " But",
+     "probability": 0.9834
+    },
+    {
+     "start": 3917.87,
+     "end": 3918.11,
+     "word": " if",
+     "probability": 0.9938
+    },
+    {
+     "start": 3918.11,
+     "end": 3918.25,
+     "word": " you",
+     "probability": 0.9999
+    },
+    {
+     "start": 3918.25,
+     "end": 3918.43,
+     "word": " want,",
+     "probability": 0.9706
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "start": 3918.51,
+   "end": 3919.63,
+   "text": " if you can post the link,",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3918.51,
+     "end": 3918.61,
+     "word": " if",
+     "probability": 0.9977
+    },
+    {
+     "start": 3918.61,
+     "end": 3918.73,
+     "word": " you",
+     "probability": 0.9998
+    },
+    {
+     "start": 3918.73,
+     "end": 3918.89,
+     "word": " can",
+     "probability": 0.9998
+    },
+    {
+     "start": 3918.89,
+     "end": 3919.23,
+     "word": " post",
+     "probability": 0.999
+    },
+    {
+     "start": 3919.23,
+     "end": 3919.43,
+     "word": " the",
+     "probability": 0.9952
+    },
+    {
+     "start": 3919.43,
+     "end": 3919.63,
+     "word": " link,",
+     "probability": 0.997
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "start": 3919.73,
+   "end": 3921.43,
+   "text": " the same link here in this",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3919.73,
+     "end": 3920.11,
+     "word": " the",
+     "probability": 0.996
+    },
+    {
+     "start": 3920.11,
+     "end": 3920.39,
+     "word": " same",
+     "probability": 0.9998
+    },
+    {
+     "start": 3920.39,
+     "end": 3920.71,
+     "word": " link",
+     "probability": 0.9999
+    },
+    {
+     "start": 3920.71,
+     "end": 3920.97,
+     "word": " here",
+     "probability": 0.9991
+    },
+    {
+     "start": 3920.97,
+     "end": 3921.19,
+     "word": " in",
+     "probability": 0.9996
+    },
+    {
+     "start": 3921.19,
+     "end": 3921.43,
+     "word": " this",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "start": 3921.97,
+   "end": 3924.09,
+   "text": " chat, people can know about it.",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3921.97,
+     "end": 3922.45,
+     "word": " chat,",
+     "probability": 0.9986
+    },
+    {
+     "start": 3922.67,
+     "end": 3923.11,
+     "word": " people",
+     "probability": 0.9732
+    },
+    {
+     "start": 3923.11,
+     "end": 3923.39,
+     "word": " can",
+     "probability": 0.9999
+    },
+    {
+     "start": 3923.39,
+     "end": 3923.65,
+     "word": " know",
+     "probability": 0.9999
+    },
+    {
+     "start": 3923.65,
+     "end": 3923.85,
+     "word": " about",
+     "probability": 0.9998
+    },
+    {
+     "start": 3923.85,
+     "end": 3924.09,
+     "word": " it.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "start": 3924.55,
+   "end": 3925.87,
+   "text": " I'll post it right now.",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3924.55,
+     "end": 3925.03,
+     "word": " I'll",
+     "probability": 0.8965
+    },
+    {
+     "start": 3925.03,
+     "end": 3925.29,
+     "word": " post",
+     "probability": 0.9999
+    },
+    {
+     "start": 3925.29,
+     "end": 3925.43,
+     "word": " it",
+     "probability": 0.9999
+    },
+    {
+     "start": 3925.43,
+     "end": 3925.61,
+     "word": " right",
+     "probability": 0.9996
+    },
+    {
+     "start": 3925.61,
+     "end": 3925.87,
+     "word": " now.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "start": 3934.97,
+   "end": 3935.45,
+   "text": " Because",
+   "avg_logprob": -0.2976222515870363,
+   "no_speech_prob": 0.0003060769522562623,
+   "compression_ratio": 1.4303797468354431,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3934.97,
+     "end": 3935.45,
+     "word": " Because",
+     "probability": 0.8304
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "start": 3938.25,
+   "end": 3939.99,
+   "text": " actually, I made this book",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3938.25,
+     "end": 3938.95,
+     "word": " actually,",
+     "probability": 0.1434
+    },
+    {
+     "start": 3938.97,
+     "end": 3939.13,
+     "word": " I",
+     "probability": 0.9985
+    },
+    {
+     "start": 3939.13,
+     "end": 3939.43,
+     "word": " made",
+     "probability": 0.9967
+    },
+    {
+     "start": 3939.43,
+     "end": 3939.71,
+     "word": " this",
+     "probability": 0.9989
+    },
+    {
+     "start": 3939.71,
+     "end": 3939.99,
+     "word": " book",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "start": 3939.99,
+   "end": 3941.69,
+   "text": " specifically for English",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3939.99,
+     "end": 3940.71,
+     "word": " specifically",
+     "probability": 0.9688
+    },
+    {
+     "start": 3940.71,
+     "end": 3941.27,
+     "word": " for",
+     "probability": 0.9927
+    },
+    {
+     "start": 3941.27,
+     "end": 3941.69,
+     "word": " English",
+     "probability": 0.9962
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "start": 3941.69,
+   "end": 3942.53,
+   "text": " speaking people.",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3941.69,
+     "end": 3942.01,
+     "word": " speaking",
+     "probability": 0.5176
+    },
+    {
+     "start": 3942.01,
+     "end": 3942.53,
+     "word": " people.",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "start": 3944.43,
+   "end": 3945.25,
+   "text": " And",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3944.43,
+     "end": 3945.25,
+     "word": " And",
+     "probability": 0.9635
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "start": 3945.25,
+   "end": 3947.57,
+   "text": " the book is",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3945.25,
+     "end": 3946.21,
+     "word": " the",
+     "probability": 0.7942
+    },
+    {
+     "start": 3946.21,
+     "end": 3947.15,
+     "word": " book",
+     "probability": 0.9072
+    },
+    {
+     "start": 3947.15,
+     "end": 3947.57,
+     "word": " is",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "start": 3947.57,
+   "end": 3949.45,
+   "text": " made in such a way that",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3947.57,
+     "end": 3948.35,
+     "word": " made",
+     "probability": 0.9992
+    },
+    {
+     "start": 3948.35,
+     "end": 3948.61,
+     "word": " in",
+     "probability": 0.9999
+    },
+    {
+     "start": 3948.61,
+     "end": 3948.87,
+     "word": " such",
+     "probability": 0.9998
+    },
+    {
+     "start": 3948.87,
+     "end": 3949.01,
+     "word": " a",
+     "probability": 1.0
+    },
+    {
+     "start": 3949.01,
+     "end": 3949.19,
+     "word": " way",
+     "probability": 1.0
+    },
+    {
+     "start": 3949.19,
+     "end": 3949.45,
+     "word": " that",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "start": 3950.27,
+   "end": 3951.09,
+   "text": " how",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3950.27,
+     "end": 3951.09,
+     "word": " how",
+     "probability": 0.9289
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "start": 3951.09,
+   "end": 3952.31,
+   "text": " traditionally",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3951.09,
+     "end": 3952.31,
+     "word": " traditionally",
+     "probability": 0.9123
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "start": 3952.31,
+   "end": 3954.93,
+   "text": " an Upanishad will be taught",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3952.31,
+     "end": 3953.81,
+     "word": " an",
+     "probability": 0.9609
+    },
+    {
+     "start": 3953.81,
+     "end": 3954.29,
+     "word": " Upanishad",
+     "probability": 0.9966
+    },
+    {
+     "start": 3954.29,
+     "end": 3954.49,
+     "word": " will",
+     "probability": 0.9977
+    },
+    {
+     "start": 3954.49,
+     "end": 3954.69,
+     "word": " be",
+     "probability": 0.9999
+    },
+    {
+     "start": 3954.69,
+     "end": 3954.93,
+     "word": " taught",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "start": 3954.93,
+   "end": 3956.37,
+   "text": " by",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3954.93,
+     "end": 3956.37,
+     "word": " by",
+     "probability": 0.9076
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "start": 3956.37,
+   "end": 3958.07,
+   "text": " breaking the",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3956.37,
+     "end": 3957.79,
+     "word": " breaking",
+     "probability": 0.9994
+    },
+    {
+     "start": 3957.79,
+     "end": 3958.07,
+     "word": " the",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "start": 3958.07,
+   "end": 3959.47,
+   "text": " words,",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3958.07,
+     "end": 3959.47,
+     "word": " words,",
+     "probability": 0.9991
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "start": 3960.33,
+   "end": 3962.09,
+   "text": " then explaining the words,",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3960.32,
+     "end": 3960.73,
+     "word": " then",
+     "probability": 0.9982
+    },
+    {
+     "start": 3960.73,
+     "end": 3961.43,
+     "word": " explaining",
+     "probability": 0.9995
+    },
+    {
+     "start": 3961.43,
+     "end": 3961.77,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 3961.77,
+     "end": 3962.09,
+     "word": " words,",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "start": 3963.09,
+   "end": 3964.49,
+   "text": " then going through the,",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3962.82,
+     "end": 3963.23,
+     "word": " then",
+     "probability": 0.9994
+    },
+    {
+     "start": 3963.23,
+     "end": 3963.61,
+     "word": " going",
+     "probability": 0.9999
+    },
+    {
+     "start": 3963.61,
+     "end": 3964.11,
+     "word": " through",
+     "probability": 0.9996
+    },
+    {
+     "start": 3964.11,
+     "end": 3964.49,
+     "word": " the,",
+     "probability": 0.9991
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "start": 3964.53,
+   "end": 3965.49,
+   "text": " you know,",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3964.53,
+     "end": 3965.25,
+     "word": " you",
+     "probability": 0.9975
+    },
+    {
+     "start": 3965.25,
+     "end": 3965.49,
+     "word": " know,",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "start": 3966.09,
+   "end": 3967.01,
+   "text": " the compound words,",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3965.74,
+     "end": 3966.15,
+     "word": " the",
+     "probability": 0.9993
+    },
+    {
+     "start": 3966.15,
+     "end": 3966.55,
+     "word": " compound",
+     "probability": 0.9989
+    },
+    {
+     "start": 3966.55,
+     "end": 3967.01,
+     "word": " words,",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "start": 3967.21,
+   "end": 3967.67,
+   "text": " samasa,",
+   "avg_logprob": -0.3498224832199432,
+   "no_speech_prob": 0.013569564558565617,
+   "compression_ratio": 1.5555555555555556,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3967.21,
+     "end": 3967.67,
+     "word": " samasa,",
+     "probability": 0.7295
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "start": 3968.25,
+   "end": 3970.07,
+   "text": " and the possible meanings",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3968.25,
+     "end": 3968.85,
+     "word": " and",
+     "probability": 0.3636
+    },
+    {
+     "start": 3968.85,
+     "end": 3969.03,
+     "word": " the",
+     "probability": 0.9974
+    },
+    {
+     "start": 3969.03,
+     "end": 3969.45,
+     "word": " possible",
+     "probability": 0.9997
+    },
+    {
+     "start": 3969.45,
+     "end": 3970.07,
+     "word": " meanings",
+     "probability": 0.9944
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "start": 3970.07,
+   "end": 3970.99,
+   "text": " for samasa.",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3970.07,
+     "end": 3970.37,
+     "word": " for",
+     "probability": 0.997
+    },
+    {
+     "start": 3970.37,
+     "end": 3970.99,
+     "word": " samasa.",
+     "probability": 0.4925
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "start": 3971.11,
+   "end": 3972.53,
+   "text": " If you take it this way,",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3971.11,
+     "end": 3971.63,
+     "word": " If",
+     "probability": 0.9901
+    },
+    {
+     "start": 3971.63,
+     "end": 3971.75,
+     "word": " you",
+     "probability": 0.9997
+    },
+    {
+     "start": 3971.75,
+     "end": 3972.01,
+     "word": " take",
+     "probability": 0.9998
+    },
+    {
+     "start": 3972.01,
+     "end": 3972.15,
+     "word": " it",
+     "probability": 0.9991
+    },
+    {
+     "start": 3972.15,
+     "end": 3972.31,
+     "word": " this",
+     "probability": 0.9983
+    },
+    {
+     "start": 3972.31,
+     "end": 3972.53,
+     "word": " way,",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "start": 3972.61,
+   "end": 3973.51,
+   "text": " if you take it that way,",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3972.61,
+     "end": 3972.69,
+     "word": " if",
+     "probability": 0.9976
+    },
+    {
+     "start": 3972.69,
+     "end": 3972.75,
+     "word": " you",
+     "probability": 0.9999
+    },
+    {
+     "start": 3972.75,
+     "end": 3972.95,
+     "word": " take",
+     "probability": 0.9999
+    },
+    {
+     "start": 3972.95,
+     "end": 3973.13,
+     "word": " it",
+     "probability": 0.9998
+    },
+    {
+     "start": 3973.13,
+     "end": 3973.29,
+     "word": " that",
+     "probability": 0.9995
+    },
+    {
+     "start": 3973.29,
+     "end": 3973.51,
+     "word": " way,",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "start": 3973.57,
+   "end": 3974.39,
+   "text": " the meaning changes.",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3973.57,
+     "end": 3973.67,
+     "word": " the",
+     "probability": 0.9979
+    },
+    {
+     "start": 3973.67,
+     "end": 3973.93,
+     "word": " meaning",
+     "probability": 1.0
+    },
+    {
+     "start": 3973.93,
+     "end": 3974.39,
+     "word": " changes.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "start": 3974.71,
+   "end": 3976.71,
+   "text": " So, that is explained.",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3974.71,
+     "end": 3975.33,
+     "word": " So,",
+     "probability": 0.9973
+    },
+    {
+     "start": 3975.43,
+     "end": 3975.95,
+     "word": " that",
+     "probability": 0.9998
+    },
+    {
+     "start": 3975.95,
+     "end": 3976.27,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 3976.27,
+     "end": 3976.71,
+     "word": " explained.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "start": 3977.07,
+   "end": 3977.95,
+   "text": " And then,",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3977.07,
+     "end": 3977.63,
+     "word": " And",
+     "probability": 0.9959
+    },
+    {
+     "start": 3977.63,
+     "end": 3977.95,
+     "word": " then,",
+     "probability": 0.9991
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "start": 3978.71,
+   "end": 3980.01,
+   "text": " since Shankaracharya has not",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3978.52,
+     "end": 3978.83,
+     "word": " since",
+     "probability": 0.9997
+    },
+    {
+     "start": 3978.83,
+     "end": 3979.43,
+     "word": " Shankaracharya",
+     "probability": 0.9647
+    },
+    {
+     "start": 3979.43,
+     "end": 3979.69,
+     "word": " has",
+     "probability": 0.9995
+    },
+    {
+     "start": 3979.69,
+     "end": 3980.01,
+     "word": " not",
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "start": 3980.01,
+   "end": 3981.69,
+   "text": " written a commentary on the",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3980.01,
+     "end": 3980.33,
+     "word": " written",
+     "probability": 0.9998
+    },
+    {
+     "start": 3980.33,
+     "end": 3980.69,
+     "word": " a",
+     "probability": 0.9999
+    },
+    {
+     "start": 3980.69,
+     "end": 3980.99,
+     "word": " commentary",
+     "probability": 0.9986
+    },
+    {
+     "start": 3980.99,
+     "end": 3981.45,
+     "word": " on",
+     "probability": 0.9998
+    },
+    {
+     "start": 3981.45,
+     "end": 3981.69,
+     "word": " the",
+     "probability": 0.992
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "start": 3981.69,
+   "end": 3982.69,
+   "text": " Kaivalya Upanishad,",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3981.69,
+     "end": 3982.11,
+     "word": " Kaivalya",
+     "probability": 0.9503
+    },
+    {
+     "start": 3982.11,
+     "end": 3982.69,
+     "word": " Upanishad,",
+     "probability": 0.9723
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "start": 3983.37,
+   "end": 3984.77,
+   "text": " what I did was,",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3983.37,
+     "end": 3983.99,
+     "word": " what",
+     "probability": 0.9981
+    },
+    {
+     "start": 3983.99,
+     "end": 3984.23,
+     "word": " I",
+     "probability": 1.0
+    },
+    {
+     "start": 3984.23,
+     "end": 3984.45,
+     "word": " did",
+     "probability": 1.0
+    },
+    {
+     "start": 3984.45,
+     "end": 3984.77,
+     "word": " was,",
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "start": 3984.85,
+   "end": 3985.93,
+   "text": " I have referred it",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3984.85,
+     "end": 3985.03,
+     "word": " I",
+     "probability": 0.9999
+    },
+    {
+     "start": 3985.03,
+     "end": 3985.21,
+     "word": " have",
+     "probability": 0.9998
+    },
+    {
+     "start": 3985.21,
+     "end": 3985.65,
+     "word": " referred",
+     "probability": 0.9999
+    },
+    {
+     "start": 3985.65,
+     "end": 3985.93,
+     "word": " it",
+     "probability": 0.9912
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "start": 3986.81,
+   "end": 3987.93,
+   "text": " a similar",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3986.81,
+     "end": 3987.43,
+     "word": " a",
+     "probability": 0.5045
+    },
+    {
+     "start": 3987.43,
+     "end": 3987.93,
+     "word": " similar",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "start": 3987.93,
+   "end": 3990.67,
+   "text": " meanings of the compound words",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3987.93,
+     "end": 3988.97,
+     "word": " meanings",
+     "probability": 0.9831
+    },
+    {
+     "start": 3988.97,
+     "end": 3989.73,
+     "word": " of",
+     "probability": 0.9999
+    },
+    {
+     "start": 3989.73,
+     "end": 3989.97,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 3989.97,
+     "end": 3990.25,
+     "word": " compound",
+     "probability": 0.9996
+    },
+    {
+     "start": 3990.25,
+     "end": 3990.67,
+     "word": " words",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "start": 3990.67,
+   "end": 3992.97,
+   "text": " which he has explained in",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3990.67,
+     "end": 3991.67,
+     "word": " which",
+     "probability": 0.711
+    },
+    {
+     "start": 3991.67,
+     "end": 3991.87,
+     "word": " he",
+     "probability": 0.9993
+    },
+    {
+     "start": 3991.87,
+     "end": 3992.13,
+     "word": " has",
+     "probability": 1.0
+    },
+    {
+     "start": 3992.13,
+     "end": 3992.61,
+     "word": " explained",
+     "probability": 1.0
+    },
+    {
+     "start": 3992.61,
+     "end": 3992.97,
+     "word": " in",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "start": 3992.97,
+   "end": 3994.79,
+   "text": " other Upanishads,",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3992.97,
+     "end": 3993.49,
+     "word": " other",
+     "probability": 0.9718
+    },
+    {
+     "start": 3993.49,
+     "end": 3994.79,
+     "word": " Upanishads,",
+     "probability": 0.9975
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "start": 3995.55,
+   "end": 3997.57,
+   "text": " which is applicable here.",
+   "avg_logprob": -0.260661372790734,
+   "no_speech_prob": 5.495631558005698e-05,
+   "compression_ratio": 1.6697247706422018,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3995.55,
+     "end": 3996.17,
+     "word": " which",
+     "probability": 0.9999
+    },
+    {
+     "start": 3996.17,
+     "end": 3996.45,
+     "word": " is",
+     "probability": 0.9997
+    },
+    {
+     "start": 3996.45,
+     "end": 3997.03,
+     "word": " applicable",
+     "probability": 0.9999
+    },
+    {
+     "start": 3997.03,
+     "end": 3997.57,
+     "word": " here.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "start": 3998.25,
+   "end": 3999.27,
+   "text": " I have given the,",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3998.25,
+     "end": 3998.39,
+     "word": " I",
+     "probability": 0.8394
+    },
+    {
+     "start": 3998.39,
+     "end": 3998.57,
+     "word": " have",
+     "probability": 0.9885
+    },
+    {
+     "start": 3998.57,
+     "end": 3998.95,
+     "word": " given",
+     "probability": 0.9957
+    },
+    {
+     "start": 3998.95,
+     "end": 3999.27,
+     "word": " the,",
+     "probability": 0.9882
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "start": 3999.31,
+   "end": 3999.87,
+   "text": " you know,",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3999.31,
+     "end": 3999.75,
+     "word": " you",
+     "probability": 0.9963
+    },
+    {
+     "start": 3999.75,
+     "end": 3999.87,
+     "word": " know,",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "start": 4000.61,
+   "end": 4001.81,
+   "text": " citation to that.",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4000.61,
+     "end": 4001.13,
+     "word": " citation",
+     "probability": 0.9965
+    },
+    {
+     "start": 4001.13,
+     "end": 4001.57,
+     "word": " to",
+     "probability": 0.9996
+    },
+    {
+     "start": 4001.57,
+     "end": 4001.81,
+     "word": " that.",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "start": 4003.03,
+   "end": 4004.61,
+   "text": " Somewhere, it is not direct",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4003.03,
+     "end": 4003.55,
+     "word": " Somewhere,",
+     "probability": 0.9933
+    },
+    {
+     "start": 4003.61,
+     "end": 4003.87,
+     "word": " it",
+     "probability": 0.9989
+    },
+    {
+     "start": 4003.87,
+     "end": 4003.97,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 4003.97,
+     "end": 4004.19,
+     "word": " not",
+     "probability": 0.9998
+    },
+    {
+     "start": 4004.19,
+     "end": 4004.61,
+     "word": " direct",
+     "probability": 0.9929
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "start": 4004.61,
+   "end": 4005.83,
+   "text": " the citation,",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4004.61,
+     "end": 4005.37,
+     "word": " the",
+     "probability": 0.1544
+    },
+    {
+     "start": 4005.37,
+     "end": 4005.83,
+     "word": " citation,",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "start": 4006.55,
+   "end": 4008.69,
+   "text": " but his intended meaning is the one",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4006.41,
+     "end": 4006.67,
+     "word": " but",
+     "probability": 0.9992
+    },
+    {
+     "start": 4006.67,
+     "end": 4006.95,
+     "word": " his",
+     "probability": 0.8372
+    },
+    {
+     "start": 4006.95,
+     "end": 4007.57,
+     "word": " intended",
+     "probability": 0.9998
+    },
+    {
+     "start": 4007.57,
+     "end": 4007.99,
+     "word": " meaning",
+     "probability": 0.9997
+    },
+    {
+     "start": 4007.99,
+     "end": 4008.39,
+     "word": " is",
+     "probability": 0.9993
+    },
+    {
+     "start": 4008.39,
+     "end": 4008.51,
+     "word": " the",
+     "probability": 0.9997
+    },
+    {
+     "start": 4008.51,
+     "end": 4008.69,
+     "word": " one",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "start": 4008.69,
+   "end": 4009.49,
+   "text": " which has been used.",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4008.69,
+     "end": 4008.89,
+     "word": " which",
+     "probability": 0.9974
+    },
+    {
+     "start": 4008.89,
+     "end": 4009.03,
+     "word": " has",
+     "probability": 0.9999
+    },
+    {
+     "start": 4009.03,
+     "end": 4009.23,
+     "word": " been",
+     "probability": 0.9999
+    },
+    {
+     "start": 4009.23,
+     "end": 4009.49,
+     "word": " used.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "start": 4009.79,
+   "end": 4012.35,
+   "text": " So, like that, it is a compilation from the",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4009.79,
+     "end": 4010.27,
+     "word": " So,",
+     "probability": 0.9888
+    },
+    {
+     "start": 4010.31,
+     "end": 4010.49,
+     "word": " like",
+     "probability": 0.9996
+    },
+    {
+     "start": 4010.49,
+     "end": 4010.71,
+     "word": " that,",
+     "probability": 0.9999
+    },
+    {
+     "start": 4010.75,
+     "end": 4010.91,
+     "word": " it",
+     "probability": 0.9994
+    },
+    {
+     "start": 4010.91,
+     "end": 4011.05,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 4011.05,
+     "end": 4011.19,
+     "word": " a",
+     "probability": 0.9998
+    },
+    {
+     "start": 4011.19,
+     "end": 4011.63,
+     "word": " compilation",
+     "probability": 0.9987
+    },
+    {
+     "start": 4011.63,
+     "end": 4012.09,
+     "word": " from",
+     "probability": 0.9995
+    },
+    {
+     "start": 4012.09,
+     "end": 4012.35,
+     "word": " the",
+     "probability": 0.9913
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "start": 4015.89,
+   "end": 4016.93,
+   "text": " various Upanishads,",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4015.89,
+     "end": 4016.41,
+     "word": " various",
+     "probability": 0.9921
+    },
+    {
+     "start": 4016.41,
+     "end": 4016.93,
+     "word": " Upanishads,",
+     "probability": 0.9908
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "start": 4016.93,
+   "end": 4017.15,
+   "text": " but",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4016.93,
+     "end": 4017.15,
+     "word": " but",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "start": 4019.13,
+   "end": 4020.43,
+   "text": " specifically, it is called",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4019.13,
+     "end": 4019.65,
+     "word": " specifically,",
+     "probability": 0.988
+    },
+    {
+     "start": 4019.75,
+     "end": 4020.01,
+     "word": " it",
+     "probability": 0.9992
+    },
+    {
+     "start": 4020.01,
+     "end": 4020.11,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 4020.11,
+     "end": 4020.43,
+     "word": " called",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "start": 4020.43,
+   "end": 4022.49,
+   "text": " the Kaivalya Upanishad. Actually speaking, there are only",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4020.43,
+     "end": 4020.57,
+     "word": " the",
+     "probability": 0.444
+    },
+    {
+     "start": 4020.57,
+     "end": 4020.93,
+     "word": " Kaivalya",
+     "probability": 0.9543
+    },
+    {
+     "start": 4020.93,
+     "end": 4021.27,
+     "word": " Upanishad.",
+     "probability": 0.9541
+    },
+    {
+     "start": 4021.27,
+     "end": 4021.61,
+     "word": " Actually",
+     "probability": 0.985
+    },
+    {
+     "start": 4021.61,
+     "end": 4021.93,
+     "word": " speaking,",
+     "probability": 0.9989
+    },
+    {
+     "start": 4022.03,
+     "end": 4022.15,
+     "word": " there",
+     "probability": 0.9998
+    },
+    {
+     "start": 4022.15,
+     "end": 4022.27,
+     "word": " are",
+     "probability": 1.0
+    },
+    {
+     "start": 4022.27,
+     "end": 4022.49,
+     "word": " only",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "start": 4022.49,
+   "end": 4024.47,
+   "text": " 16 verses which belong to the",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4022.49,
+     "end": 4022.87,
+     "word": " 16",
+     "probability": 0.9505
+    },
+    {
+     "start": 4022.87,
+     "end": 4023.25,
+     "word": " verses",
+     "probability": 0.9999
+    },
+    {
+     "start": 4023.25,
+     "end": 4023.69,
+     "word": " which",
+     "probability": 0.9635
+    },
+    {
+     "start": 4023.69,
+     "end": 4023.99,
+     "word": " belong",
+     "probability": 0.9977
+    },
+    {
+     "start": 4023.99,
+     "end": 4024.29,
+     "word": " to",
+     "probability": 1.0
+    },
+    {
+     "start": 4024.29,
+     "end": 4024.47,
+     "word": " the",
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "start": 4024.47,
+   "end": 4025.97,
+   "text": " original Kaivalya Upanishad.",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4024.47,
+     "end": 4024.79,
+     "word": " original",
+     "probability": 0.9998
+    },
+    {
+     "start": 4024.79,
+     "end": 4025.53,
+     "word": " Kaivalya",
+     "probability": 0.9997
+    },
+    {
+     "start": 4025.53,
+     "end": 4025.97,
+     "word": " Upanishad.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "start": 4026.29,
+   "end": 4028.15,
+   "text": " But then, there are 10 more verses,",
+   "avg_logprob": -0.24527367288547178,
+   "no_speech_prob": 0.0014151098439469934,
+   "compression_ratio": 1.6896551724137931,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4026.29,
+     "end": 4026.81,
+     "word": " But",
+     "probability": 0.9995
+    },
+    {
+     "start": 4026.81,
+     "end": 4027.01,
+     "word": " then,",
+     "probability": 0.9922
+    },
+    {
+     "start": 4027.03,
+     "end": 4027.15,
+     "word": " there",
+     "probability": 0.9999
+    },
+    {
+     "start": 4027.15,
+     "end": 4027.35,
+     "word": " are",
+     "probability": 1.0
+    },
+    {
+     "start": 4027.35,
+     "end": 4027.57,
+     "word": " 10",
+     "probability": 0.9906
+    },
+    {
+     "start": 4027.57,
+     "end": 4027.83,
+     "word": " more",
+     "probability": 0.9999
+    },
+    {
+     "start": 4027.83,
+     "end": 4028.15,
+     "word": " verses,",
+     "probability": 0.9302
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "start": 4028.15,
+   "end": 4028.95,
+   "text": " added by",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4028.15,
+     "end": 4028.37,
+     "word": " added",
+     "probability": 0.054
+    },
+    {
+     "start": 4028.37,
+     "end": 4028.95,
+     "word": " by",
+     "probability": 0.9821
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "start": 4030.69,
+   "end": 4031.17,
+   "text": " later,",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4030.69,
+     "end": 4031.17,
+     "word": " later,",
+     "probability": 0.8507
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "start": 4032.07,
+   "end": 4034.13,
+   "text": " which made it 26 verses.",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4032.07,
+     "end": 4032.55,
+     "word": " which",
+     "probability": 0.9897
+    },
+    {
+     "start": 4032.55,
+     "end": 4033.03,
+     "word": " made",
+     "probability": 0.8508
+    },
+    {
+     "start": 4033.03,
+     "end": 4033.27,
+     "word": " it",
+     "probability": 0.9829
+    },
+    {
+     "start": 4033.27,
+     "end": 4033.59,
+     "word": " 26",
+     "probability": 0.9301
+    },
+    {
+     "start": 4033.59,
+     "end": 4034.13,
+     "word": " verses.",
+     "probability": 0.9938
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "start": 4037.15,
+   "end": 4037.63,
+   "text": " Okay.",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4037.15,
+     "end": 4037.63,
+     "word": " Okay.",
+     "probability": 0.625
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "start": 4038.67,
+   "end": 4039.69,
+   "text": " Yeah, so I am,",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4038.67,
+     "end": 4039.15,
+     "word": " Yeah,",
+     "probability": 0.8277
+    },
+    {
+     "start": 4039.21,
+     "end": 4039.33,
+     "word": " so",
+     "probability": 0.995
+    },
+    {
+     "start": 4039.33,
+     "end": 4039.47,
+     "word": " I",
+     "probability": 0.7374
+    },
+    {
+     "start": 4039.47,
+     "end": 4039.69,
+     "word": " am,",
+     "probability": 0.7778
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "start": 4040.27,
+   "end": 4041.91,
+   "text": " yeah, so this will be a very,",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4040.27,
+     "end": 4040.75,
+     "word": " yeah,",
+     "probability": 0.8546
+    },
+    {
+     "start": 4040.81,
+     "end": 4041.07,
+     "word": " so",
+     "probability": 0.9968
+    },
+    {
+     "start": 4041.07,
+     "end": 4041.33,
+     "word": " this",
+     "probability": 0.9972
+    },
+    {
+     "start": 4041.33,
+     "end": 4041.43,
+     "word": " will",
+     "probability": 0.9992
+    },
+    {
+     "start": 4041.43,
+     "end": 4041.63,
+     "word": " be",
+     "probability": 1.0
+    },
+    {
+     "start": 4041.63,
+     "end": 4041.71,
+     "word": " a",
+     "probability": 0.9988
+    },
+    {
+     "start": 4041.71,
+     "end": 4041.91,
+     "word": " very,",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "start": 4042.49,
+   "end": 4044.15,
+   "text": " you said, offering this",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4042.49,
+     "end": 4042.97,
+     "word": " you",
+     "probability": 0.9931
+    },
+    {
+     "start": 4042.97,
+     "end": 4043.21,
+     "word": " said,",
+     "probability": 0.9999
+    },
+    {
+     "start": 4043.29,
+     "end": 4043.77,
+     "word": " offering",
+     "probability": 0.9936
+    },
+    {
+     "start": 4043.77,
+     "end": 4044.15,
+     "word": " this",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "start": 4044.15,
+   "end": 4046.05,
+   "text": " as an interjection",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4044.15,
+     "end": 4045.05,
+     "word": " as",
+     "probability": 0.9962
+    },
+    {
+     "start": 4045.05,
+     "end": 4045.27,
+     "word": " an",
+     "probability": 0.9996
+    },
+    {
+     "start": 4045.27,
+     "end": 4046.05,
+     "word": " interjection",
+     "probability": 0.9935
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "start": 4046.05,
+   "end": 4048.15,
+   "text": " in the Bhagavad Gita will add",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4046.05,
+     "end": 4046.59,
+     "word": " in",
+     "probability": 0.9971
+    },
+    {
+     "start": 4046.59,
+     "end": 4046.77,
+     "word": " the",
+     "probability": 0.9995
+    },
+    {
+     "start": 4046.77,
+     "end": 4047.15,
+     "word": " Bhagavad",
+     "probability": 0.9904
+    },
+    {
+     "start": 4047.15,
+     "end": 4047.31,
+     "word": " Gita",
+     "probability": 0.9889
+    },
+    {
+     "start": 4047.31,
+     "end": 4047.89,
+     "word": " will",
+     "probability": 0.9735
+    },
+    {
+     "start": 4047.89,
+     "end": 4048.15,
+     "word": " add",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "start": 4048.15,
+   "end": 4049.35,
+   "text": " much more value, right?",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4048.15,
+     "end": 4048.47,
+     "word": " much",
+     "probability": 0.9996
+    },
+    {
+     "start": 4048.47,
+     "end": 4048.69,
+     "word": " more",
+     "probability": 0.9998
+    },
+    {
+     "start": 4048.69,
+     "end": 4049.11,
+     "word": " value,",
+     "probability": 1.0
+    },
+    {
+     "start": 4049.15,
+     "end": 4049.35,
+     "word": " right?",
+     "probability": 0.9919
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "start": 4049.93,
+   "end": 4052.09,
+   "text": " Yeah, if I am not taking it in",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4049.93,
+     "end": 4050.41,
+     "word": " Yeah,",
+     "probability": 0.9887
+    },
+    {
+     "start": 4050.53,
+     "end": 4050.87,
+     "word": " if",
+     "probability": 0.9989
+    },
+    {
+     "start": 4050.87,
+     "end": 4051.03,
+     "word": " I",
+     "probability": 1.0
+    },
+    {
+     "start": 4051.03,
+     "end": 4051.11,
+     "word": " am",
+     "probability": 0.9982
+    },
+    {
+     "start": 4051.11,
+     "end": 4051.33,
+     "word": " not",
+     "probability": 0.9997
+    },
+    {
+     "start": 4051.33,
+     "end": 4051.59,
+     "word": " taking",
+     "probability": 0.9993
+    },
+    {
+     "start": 4051.59,
+     "end": 4051.91,
+     "word": " it",
+     "probability": 0.9997
+    },
+    {
+     "start": 4051.91,
+     "end": 4052.09,
+     "word": " in",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "start": 4052.09,
+   "end": 4053.55,
+   "text": " Bangalore, what I will do is,",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4052.09,
+     "end": 4052.61,
+     "word": " Bangalore,",
+     "probability": 0.9978
+    },
+    {
+     "start": 4052.67,
+     "end": 4052.79,
+     "word": " what",
+     "probability": 0.9994
+    },
+    {
+     "start": 4052.79,
+     "end": 4052.99,
+     "word": " I",
+     "probability": 0.9999
+    },
+    {
+     "start": 4052.99,
+     "end": 4053.17,
+     "word": " will",
+     "probability": 0.9999
+    },
+    {
+     "start": 4053.17,
+     "end": 4053.33,
+     "word": " do",
+     "probability": 1.0
+    },
+    {
+     "start": 4053.33,
+     "end": 4053.55,
+     "word": " is,",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "start": 4054.21,
+   "end": 4056.37,
+   "text": " every Monday, I will",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4054.21,
+     "end": 4054.69,
+     "word": " every",
+     "probability": 0.9996
+    },
+    {
+     "start": 4054.69,
+     "end": 4055.17,
+     "word": " Monday,",
+     "probability": 0.9997
+    },
+    {
+     "start": 4055.27,
+     "end": 4056.15,
+     "word": " I",
+     "probability": 0.9992
+    },
+    {
+     "start": 4056.15,
+     "end": 4056.37,
+     "word": " will",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "start": 4056.37,
+   "end": 4057.73,
+   "text": " keep Kaivalya Upanishad.",
+   "avg_logprob": -0.2765733610306467,
+   "no_speech_prob": 0.0030034692026674747,
+   "compression_ratio": 1.4532019704433496,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4056.37,
+     "end": 4056.65,
+     "word": " keep",
+     "probability": 0.9993
+    },
+    {
+     "start": 4056.65,
+     "end": 4057.27,
+     "word": " Kaivalya",
+     "probability": 0.9325
+    },
+    {
+     "start": 4057.27,
+     "end": 4057.73,
+     "word": " Upanishad.",
+     "probability": 0.9928
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "start": 4058.15,
+   "end": 4060.01,
+   "text": " Tuesday, Wednesday, Thursday, Friday, we will have",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4058.15,
+     "end": 4058.29,
+     "word": " Tuesday,",
+     "probability": 0.8084
+    },
+    {
+     "start": 4058.37,
+     "end": 4058.61,
+     "word": " Wednesday,",
+     "probability": 0.9992
+    },
+    {
+     "start": 4058.77,
+     "end": 4058.99,
+     "word": " Thursday,",
+     "probability": 0.9978
+    },
+    {
+     "start": 4059.11,
+     "end": 4059.43,
+     "word": " Friday,",
+     "probability": 0.9985
+    },
+    {
+     "start": 4059.49,
+     "end": 4059.69,
+     "word": " we",
+     "probability": 0.9984
+    },
+    {
+     "start": 4059.69,
+     "end": 4059.85,
+     "word": " will",
+     "probability": 0.999
+    },
+    {
+     "start": 4059.85,
+     "end": 4060.01,
+     "word": " have",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "start": 4060.01,
+   "end": 4060.61,
+   "text": " Bhagavad Gita.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4060.01,
+     "end": 4060.37,
+     "word": " Bhagavad",
+     "probability": 0.9483
+    },
+    {
+     "start": 4060.37,
+     "end": 4060.61,
+     "word": " Gita.",
+     "probability": 0.9957
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "start": 4061.89,
+   "end": 4062.33,
+   "text": " Okay.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4061.89,
+     "end": 4062.33,
+     "word": " Okay.",
+     "probability": 0.7634
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "start": 4063.43,
+   "end": 4064.97,
+   "text": " Like that, we will plan it.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4063.43,
+     "end": 4063.87,
+     "word": " Like",
+     "probability": 0.7547
+    },
+    {
+     "start": 4063.87,
+     "end": 4064.17,
+     "word": " that,",
+     "probability": 1.0
+    },
+    {
+     "start": 4064.23,
+     "end": 4064.35,
+     "word": " we",
+     "probability": 0.9997
+    },
+    {
+     "start": 4064.35,
+     "end": 4064.53,
+     "word": " will",
+     "probability": 0.9998
+    },
+    {
+     "start": 4064.53,
+     "end": 4064.79,
+     "word": " plan",
+     "probability": 0.9999
+    },
+    {
+     "start": 4064.79,
+     "end": 4064.97,
+     "word": " it.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "start": 4065.35,
+   "end": 4068.17,
+   "text": " So that, you know, clubhouse people also will not miss it.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4065.35,
+     "end": 4065.79,
+     "word": " So",
+     "probability": 0.9977
+    },
+    {
+     "start": 4065.79,
+     "end": 4065.99,
+     "word": " that,",
+     "probability": 0.9341
+    },
+    {
+     "start": 4066.05,
+     "end": 4066.19,
+     "word": " you",
+     "probability": 0.9898
+    },
+    {
+     "start": 4066.19,
+     "end": 4066.25,
+     "word": " know,",
+     "probability": 0.9998
+    },
+    {
+     "start": 4066.29,
+     "end": 4066.67,
+     "word": " clubhouse",
+     "probability": 0.7654
+    },
+    {
+     "start": 4066.67,
+     "end": 4066.89,
+     "word": " people",
+     "probability": 0.9997
+    },
+    {
+     "start": 4066.89,
+     "end": 4067.25,
+     "word": " also",
+     "probability": 0.9978
+    },
+    {
+     "start": 4067.25,
+     "end": 4067.45,
+     "word": " will",
+     "probability": 0.9997
+    },
+    {
+     "start": 4067.45,
+     "end": 4067.63,
+     "word": " not",
+     "probability": 0.9999
+    },
+    {
+     "start": 4067.63,
+     "end": 4067.91,
+     "word": " miss",
+     "probability": 0.9999
+    },
+    {
+     "start": 4067.91,
+     "end": 4068.17,
+     "word": " it.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "start": 4068.93,
+   "end": 4069.37,
+   "text": " Yes.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4068.93,
+     "end": 4069.37,
+     "word": " Yes.",
+     "probability": 0.9886
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "start": 4071.29,
+   "end": 4072.51,
+   "text": " Thank you very much,",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4071.29,
+     "end": 4071.73,
+     "word": " Thank",
+     "probability": 0.4238
+    },
+    {
+     "start": 4071.73,
+     "end": 4072.17,
+     "word": " you",
+     "probability": 1.0
+    },
+    {
+     "start": 4072.17,
+     "end": 4072.27,
+     "word": " very",
+     "probability": 0.9945
+    },
+    {
+     "start": 4072.27,
+     "end": 4072.51,
+     "word": " much,",
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "start": 4072.63,
+   "end": 4073.01,
+   "text": " Mr. J.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4072.63,
+     "end": 4072.69,
+     "word": " Mr.",
+     "probability": 0.376
+    },
+    {
+     "start": 4072.81,
+     "end": 4073.01,
+     "word": " J.",
+     "probability": 0.096
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "start": 4073.51,
+   "end": 4076.21,
+   "text": " Thank you all.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4073.51,
+     "end": 4073.95,
+     "word": " Thank",
+     "probability": 0.9971
+    },
+    {
+     "start": 4073.95,
+     "end": 4074.15,
+     "word": " you",
+     "probability": 1.0
+    },
+    {
+     "start": 4074.15,
+     "end": 4076.21,
+     "word": " all.",
+     "probability": 0.2194
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "start": 4076.37,
+   "end": 4077.45,
+   "text": " You can announce that.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4076.37,
+     "end": 4076.77,
+     "word": " You",
+     "probability": 0.9677
+    },
+    {
+     "start": 4076.77,
+     "end": 4076.95,
+     "word": " can",
+     "probability": 0.9997
+    },
+    {
+     "start": 4076.95,
+     "end": 4077.23,
+     "word": " announce",
+     "probability": 0.9924
+    },
+    {
+     "start": 4077.23,
+     "end": 4077.45,
+     "word": " that.",
+     "probability": 0.9767
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "start": 4078.17,
+   "end": 4079.95,
+   "text": " Is there a note for the questions?",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4078.17,
+     "end": 4078.61,
+     "word": " Is",
+     "probability": 0.3532
+    },
+    {
+     "start": 4078.61,
+     "end": 4079.03,
+     "word": " there",
+     "probability": 1.0
+    },
+    {
+     "start": 4079.03,
+     "end": 4079.13,
+     "word": " a",
+     "probability": 0.8028
+    },
+    {
+     "start": 4079.13,
+     "end": 4079.29,
+     "word": " note",
+     "probability": 0.917
+    },
+    {
+     "start": 4079.29,
+     "end": 4079.45,
+     "word": " for",
+     "probability": 0.9986
+    },
+    {
+     "start": 4079.45,
+     "end": 4079.57,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 4079.57,
+     "end": 4079.95,
+     "word": " questions?",
+     "probability": 0.9971
+    }
+   ]
+  },
+  {
+   "id": 178,
+   "start": 4080.39,
+   "end": 4080.83,
+   "text": " So,",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4080.39,
+     "end": 4080.83,
+     "word": " So,",
+     "probability": 0.6725
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "start": 4082.35,
+   "end": 4084.01,
+   "text": " the Sunday is an off day.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4082.35,
+     "end": 4082.79,
+     "word": " the",
+     "probability": 0.9147
+    },
+    {
+     "start": 4082.79,
+     "end": 4083.19,
+     "word": " Sunday",
+     "probability": 0.9997
+    },
+    {
+     "start": 4083.19,
+     "end": 4083.41,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 4083.41,
+     "end": 4083.59,
+     "word": " an",
+     "probability": 0.9994
+    },
+    {
+     "start": 4083.59,
+     "end": 4083.79,
+     "word": " off",
+     "probability": 0.9984
+    },
+    {
+     "start": 4083.79,
+     "end": 4084.01,
+     "word": " day.",
+     "probability": 0.9843
+    }
+   ]
+  },
+  {
+   "id": 180,
+   "start": 4084.13,
+   "end": 4085.79,
+   "text": " So, we will reconvene",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4084.13,
+     "end": 4084.57,
+     "word": " So,",
+     "probability": 0.9979
+    },
+    {
+     "start": 4084.57,
+     "end": 4084.81,
+     "word": " we",
+     "probability": 0.9994
+    },
+    {
+     "start": 4084.81,
+     "end": 4084.97,
+     "word": " will",
+     "probability": 0.9999
+    },
+    {
+     "start": 4084.97,
+     "end": 4085.79,
+     "word": " reconvene",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "start": 4085.79,
+   "end": 4087.83,
+   "text": " on Monday at 8.30 pm.",
+   "avg_logprob": -0.32209101581573485,
+   "no_speech_prob": 0.01788535714149475,
+   "compression_ratio": 1.5225225225225225,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4085.79,
+     "end": 4086.27,
+     "word": " on",
+     "probability": 0.9995
+    },
+    {
+     "start": 4086.27,
+     "end": 4086.73,
+     "word": " Monday",
+     "probability": 0.9997
+    },
+    {
+     "start": 4086.73,
+     "end": 4087.03,
+     "word": " at",
+     "probability": 0.9987
+    },
+    {
+     "start": 4087.03,
+     "end": 4087.21,
+     "word": " 8",
+     "probability": 0.9986
+    },
+    {
+     "start": 4087.21,
+     "end": 4087.57,
+     "word": ".30",
+     "probability": 0.9979
+    },
+    {
+     "start": 4087.57,
+     "end": 4087.83,
+     "word": " pm.",
+     "probability": 0.3244
+    }
+   ]
+  },
+  {
+   "id": 182,
+   "start": 4088.15,
+   "end": 4090.45,
+   "text": " where Binduji will continue with chapter 8.",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4088.15,
+     "end": 4088.53,
+     "word": " where",
+     "probability": 0.7477
+    },
+    {
+     "start": 4088.53,
+     "end": 4089.03,
+     "word": " Binduji",
+     "probability": 0.5713
+    },
+    {
+     "start": 4089.03,
+     "end": 4089.23,
+     "word": " will",
+     "probability": 0.9619
+    },
+    {
+     "start": 4089.23,
+     "end": 4089.67,
+     "word": " continue",
+     "probability": 0.9931
+    },
+    {
+     "start": 4089.67,
+     "end": 4089.87,
+     "word": " with",
+     "probability": 0.9506
+    },
+    {
+     "start": 4089.87,
+     "end": 4090.09,
+     "word": " chapter",
+     "probability": 0.6973
+    },
+    {
+     "start": 4090.09,
+     "end": 4090.45,
+     "word": " 8.",
+     "probability": 0.7201
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "start": 4091.33,
+   "end": 4093.39,
+   "text": " And also have an announcement on",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4091.33,
+     "end": 4091.81,
+     "word": " And",
+     "probability": 0.7841
+    },
+    {
+     "start": 4091.81,
+     "end": 4092.09,
+     "word": " also",
+     "probability": 0.9193
+    },
+    {
+     "start": 4092.09,
+     "end": 4092.37,
+     "word": " have",
+     "probability": 0.905
+    },
+    {
+     "start": 4092.37,
+     "end": 4092.53,
+     "word": " an",
+     "probability": 0.9946
+    },
+    {
+     "start": 4092.53,
+     "end": 4092.93,
+     "word": " announcement",
+     "probability": 0.9946
+    },
+    {
+     "start": 4092.93,
+     "end": 4093.39,
+     "word": " on",
+     "probability": 0.992
+    }
+   ]
+  },
+  {
+   "id": 184,
+   "start": 4094.97,
+   "end": 4095.93,
+   "text": " the progression",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4094.97,
+     "end": 4095.45,
+     "word": " the",
+     "probability": 0.9691
+    },
+    {
+     "start": 4095.45,
+     "end": 4095.93,
+     "word": " progression",
+     "probability": 0.9743
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "start": 4095.93,
+   "end": 4097.43,
+   "text": " into Kaivalya Upanishad.",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4095.93,
+     "end": 4096.49,
+     "word": " into",
+     "probability": 0.9672
+    },
+    {
+     "start": 4096.49,
+     "end": 4097.01,
+     "word": " Kaivalya",
+     "probability": 0.8248
+    },
+    {
+     "start": 4097.01,
+     "end": 4097.43,
+     "word": " Upanishad.",
+     "probability": 0.9921
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "start": 4098.29,
+   "end": 4100.35,
+   "text": " The book has been published on Amazon.",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4098.29,
+     "end": 4098.77,
+     "word": " The",
+     "probability": 0.9888
+    },
+    {
+     "start": 4098.77,
+     "end": 4099.05,
+     "word": " book",
+     "probability": 0.9983
+    },
+    {
+     "start": 4099.05,
+     "end": 4099.17,
+     "word": " has",
+     "probability": 0.9892
+    },
+    {
+     "start": 4099.17,
+     "end": 4099.31,
+     "word": " been",
+     "probability": 0.9991
+    },
+    {
+     "start": 4099.31,
+     "end": 4099.75,
+     "word": " published",
+     "probability": 0.9977
+    },
+    {
+     "start": 4099.75,
+     "end": 4100.03,
+     "word": " on",
+     "probability": 0.9978
+    },
+    {
+     "start": 4100.03,
+     "end": 4100.35,
+     "word": " Amazon.",
+     "probability": 0.9774
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "start": 4100.55,
+   "end": 4101.97,
+   "text": " So, once it is available",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4100.55,
+     "end": 4100.79,
+     "word": " So,",
+     "probability": 0.9301
+    },
+    {
+     "start": 4100.87,
+     "end": 4101.35,
+     "word": " once",
+     "probability": 0.9977
+    },
+    {
+     "start": 4101.35,
+     "end": 4101.49,
+     "word": " it",
+     "probability": 0.9969
+    },
+    {
+     "start": 4101.49,
+     "end": 4101.61,
+     "word": " is",
+     "probability": 0.9951
+    },
+    {
+     "start": 4101.61,
+     "end": 4101.97,
+     "word": " available",
+     "probability": 0.9989
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "start": 4101.97,
+   "end": 4102.75,
+   "text": " on the",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4101.97,
+     "end": 4102.53,
+     "word": " on",
+     "probability": 0.9943
+    },
+    {
+     "start": 4102.53,
+     "end": 4102.75,
+     "word": " the",
+     "probability": 0.9978
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "start": 4104.57,
+   "end": 4105.53,
+   "text": " worldwide platform,",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4104.57,
+     "end": 4105.05,
+     "word": " worldwide",
+     "probability": 0.9122
+    },
+    {
+     "start": 4105.05,
+     "end": 4105.53,
+     "word": " platform,",
+     "probability": 0.9927
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "start": 4105.87,
+   "end": 4107.93,
+   "text": " we will also share that link. Right now,",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4105.87,
+     "end": 4106.27,
+     "word": " we",
+     "probability": 0.9849
+    },
+    {
+     "start": 4106.27,
+     "end": 4106.47,
+     "word": " will",
+     "probability": 0.9974
+    },
+    {
+     "start": 4106.47,
+     "end": 4106.71,
+     "word": " also",
+     "probability": 0.996
+    },
+    {
+     "start": 4106.71,
+     "end": 4107.03,
+     "word": " share",
+     "probability": 0.9991
+    },
+    {
+     "start": 4107.03,
+     "end": 4107.23,
+     "word": " that",
+     "probability": 0.9903
+    },
+    {
+     "start": 4107.23,
+     "end": 4107.47,
+     "word": " link.",
+     "probability": 0.9985
+    },
+    {
+     "start": 4107.53,
+     "end": 4107.69,
+     "word": " Right",
+     "probability": 0.9374
+    },
+    {
+     "start": 4107.69,
+     "end": 4107.93,
+     "word": " now,",
+     "probability": 0.9989
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "start": 4107.97,
+   "end": 4109.91,
+   "text": " the link shared, I think Venkatji has shared",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4107.97,
+     "end": 4108.07,
+     "word": " the",
+     "probability": 0.8859
+    },
+    {
+     "start": 4108.07,
+     "end": 4108.29,
+     "word": " link",
+     "probability": 0.9976
+    },
+    {
+     "start": 4108.29,
+     "end": 4108.59,
+     "word": " shared,",
+     "probability": 0.8706
+    },
+    {
+     "start": 4108.75,
+     "end": 4108.91,
+     "word": " I",
+     "probability": 0.9953
+    },
+    {
+     "start": 4108.91,
+     "end": 4109.09,
+     "word": " think",
+     "probability": 0.9996
+    },
+    {
+     "start": 4109.09,
+     "end": 4109.49,
+     "word": " Venkatji",
+     "probability": 0.6739
+    },
+    {
+     "start": 4109.49,
+     "end": 4109.65,
+     "word": " has",
+     "probability": 0.8835
+    },
+    {
+     "start": 4109.65,
+     "end": 4109.91,
+     "word": " shared",
+     "probability": 0.9591
+    }
+   ]
+  },
+  {
+   "id": 192,
+   "start": 4109.91,
+   "end": 4111.77,
+   "text": " also the link to the actual publisher",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4109.91,
+     "end": 4110.11,
+     "word": " also",
+     "probability": 0.9488
+    },
+    {
+     "start": 4110.11,
+     "end": 4110.37,
+     "word": " the",
+     "probability": 0.9867
+    },
+    {
+     "start": 4110.37,
+     "end": 4110.59,
+     "word": " link",
+     "probability": 0.9996
+    },
+    {
+     "start": 4110.59,
+     "end": 4110.79,
+     "word": " to",
+     "probability": 0.9987
+    },
+    {
+     "start": 4110.79,
+     "end": 4110.95,
+     "word": " the",
+     "probability": 0.9992
+    },
+    {
+     "start": 4110.95,
+     "end": 4111.31,
+     "word": " actual",
+     "probability": 0.9992
+    },
+    {
+     "start": 4111.31,
+     "end": 4111.77,
+     "word": " publisher",
+     "probability": 0.9978
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "start": 4112.37,
+   "end": 4114.15,
+   "text": " where it is, I think, at a lower",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4112.37,
+     "end": 4112.85,
+     "word": " where",
+     "probability": 0.3054
+    },
+    {
+     "start": 4112.85,
+     "end": 4112.99,
+     "word": " it",
+     "probability": 0.9891
+    },
+    {
+     "start": 4112.99,
+     "end": 4113.19,
+     "word": " is,",
+     "probability": 0.9989
+    },
+    {
+     "start": 4113.23,
+     "end": 4113.33,
+     "word": " I",
+     "probability": 0.9984
+    },
+    {
+     "start": 4113.33,
+     "end": 4113.47,
+     "word": " think,",
+     "probability": 0.9998
+    },
+    {
+     "start": 4113.49,
+     "end": 4113.69,
+     "word": " at",
+     "probability": 0.9972
+    },
+    {
+     "start": 4113.69,
+     "end": 4113.79,
+     "word": " a",
+     "probability": 0.9977
+    },
+    {
+     "start": 4113.79,
+     "end": 4114.15,
+     "word": " lower",
+     "probability": 0.9967
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "start": 4114.15,
+   "end": 4115.63,
+   "text": " price, as Binduji mentioned.",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4114.15,
+     "end": 4114.51,
+     "word": " price,",
+     "probability": 0.9995
+    },
+    {
+     "start": 4114.63,
+     "end": 4114.93,
+     "word": " as",
+     "probability": 0.9992
+    },
+    {
+     "start": 4114.93,
+     "end": 4115.31,
+     "word": " Binduji",
+     "probability": 0.9981
+    },
+    {
+     "start": 4115.31,
+     "end": 4115.63,
+     "word": " mentioned.",
+     "probability": 0.9987
+    }
+   ]
+  },
+  {
+   "id": 195,
+   "start": 4117.11,
+   "end": 4117.93,
+   "text": " So, thank you.",
+   "avg_logprob": -0.26607329468242824,
+   "no_speech_prob": 0.010177861899137497,
+   "compression_ratio": 1.636,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4117.11,
+     "end": 4117.59,
+     "word": " So,",
+     "probability": 0.9752
+    },
+    {
+     "start": 4117.61,
+     "end": 4117.75,
+     "word": " thank",
+     "probability": 0.9986
+    },
+    {
+     "start": 4117.75,
+     "end": 4117.93,
+     "word": " you.",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "start": 4117.93,
+   "end": 4119.41,
+   "text": " Thank you all for coming for today's session.",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4117.93,
+     "end": 4117.99,
+     "word": " Thank",
+     "probability": 0.0465
+    },
+    {
+     "start": 4117.99,
+     "end": 4117.99,
+     "word": " you",
+     "probability": 0.9618
+    },
+    {
+     "start": 4117.99,
+     "end": 4118.01,
+     "word": " all",
+     "probability": 0.7424
+    },
+    {
+     "start": 4118.01,
+     "end": 4118.21,
+     "word": " for",
+     "probability": 0.9805
+    },
+    {
+     "start": 4118.21,
+     "end": 4118.49,
+     "word": " coming",
+     "probability": 0.9959
+    },
+    {
+     "start": 4118.49,
+     "end": 4118.69,
+     "word": " for",
+     "probability": 0.9054
+    },
+    {
+     "start": 4118.69,
+     "end": 4119.13,
+     "word": " today's",
+     "probability": 0.974
+    },
+    {
+     "start": 4119.13,
+     "end": 4119.41,
+     "word": " session.",
+     "probability": 0.9978
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "start": 4119.81,
+   "end": 4119.91,
+   "text": " And",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4119.81,
+     "end": 4119.91,
+     "word": " And",
+     "probability": 0.7015
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "start": 4121.45,
+   "end": 4123.61,
+   "text": " heartfelt thanks to Binduji for his",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4121.45,
+     "end": 4121.93,
+     "word": " heartfelt",
+     "probability": 0.6807
+    },
+    {
+     "start": 4121.93,
+     "end": 4122.27,
+     "word": " thanks",
+     "probability": 0.993
+    },
+    {
+     "start": 4122.27,
+     "end": 4122.51,
+     "word": " to",
+     "probability": 0.9976
+    },
+    {
+     "start": 4122.51,
+     "end": 4122.87,
+     "word": " Binduji",
+     "probability": 0.9172
+    },
+    {
+     "start": 4122.87,
+     "end": 4123.23,
+     "word": " for",
+     "probability": 0.9859
+    },
+    {
+     "start": 4123.23,
+     "end": 4123.61,
+     "word": " his",
+     "probability": 0.9845
+    }
+   ]
+  },
+  {
+   "id": 199,
+   "start": 4124.97,
+   "end": 4125.93,
+   "text": " consistent offering",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4124.97,
+     "end": 4125.45,
+     "word": " consistent",
+     "probability": 0.996
+    },
+    {
+     "start": 4125.45,
+     "end": 4125.93,
+     "word": " offering",
+     "probability": 0.9981
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "start": 4125.93,
+   "end": 4128.09,
+   "text": " of Advaita",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4125.93,
+     "end": 4126.53,
+     "word": " of",
+     "probability": 0.997
+    },
+    {
+     "start": 4126.53,
+     "end": 4128.09,
+     "word": " Advaita",
+     "probability": 0.8696
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "start": 4128.09,
+   "end": 4128.55,
+   "text": " and",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4128.09,
+     "end": 4128.55,
+     "word": " and",
+     "probability": 0.8316
+    }
+   ]
+  },
+  {
+   "id": 202,
+   "start": 4129.35,
+   "end": 4131.33,
+   "text": " for the benefit for all of us.",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4129.35,
+     "end": 4129.83,
+     "word": " for",
+     "probability": 0.9935
+    },
+    {
+     "start": 4129.83,
+     "end": 4129.95,
+     "word": " the",
+     "probability": 0.9988
+    },
+    {
+     "start": 4129.95,
+     "end": 4130.29,
+     "word": " benefit",
+     "probability": 0.9983
+    },
+    {
+     "start": 4130.29,
+     "end": 4130.49,
+     "word": " for",
+     "probability": 0.4517
+    },
+    {
+     "start": 4130.49,
+     "end": 4130.93,
+     "word": " all",
+     "probability": 0.9974
+    },
+    {
+     "start": 4130.93,
+     "end": 4131.07,
+     "word": " of",
+     "probability": 0.999
+    },
+    {
+     "start": 4131.07,
+     "end": 4131.33,
+     "word": " us.",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "start": 4131.49,
+   "end": 4133.75,
+   "text": " And he always says that it is a Sravana Manana.",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4131.49,
+     "end": 4131.73,
+     "word": " And",
+     "probability": 0.9749
+    },
+    {
+     "start": 4131.73,
+     "end": 4131.89,
+     "word": " he",
+     "probability": 0.991
+    },
+    {
+     "start": 4131.89,
+     "end": 4132.19,
+     "word": " always",
+     "probability": 0.9991
+    },
+    {
+     "start": 4132.19,
+     "end": 4132.47,
+     "word": " says",
+     "probability": 0.9585
+    },
+    {
+     "start": 4132.47,
+     "end": 4132.75,
+     "word": " that",
+     "probability": 0.997
+    },
+    {
+     "start": 4132.75,
+     "end": 4132.89,
+     "word": " it",
+     "probability": 0.9917
+    },
+    {
+     "start": 4132.89,
+     "end": 4133.01,
+     "word": " is",
+     "probability": 0.9974
+    },
+    {
+     "start": 4133.01,
+     "end": 4133.17,
+     "word": " a",
+     "probability": 0.7877
+    },
+    {
+     "start": 4133.17,
+     "end": 4133.47,
+     "word": " Sravana",
+     "probability": 0.7307
+    },
+    {
+     "start": 4133.47,
+     "end": 4133.75,
+     "word": " Manana.",
+     "probability": 0.8974
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "start": 4133.91,
+   "end": 4135.25,
+   "text": " Thank you very much, Binduji.",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4133.91,
+     "end": 4134.33,
+     "word": " Thank",
+     "probability": 0.9159
+    },
+    {
+     "start": 4134.33,
+     "end": 4134.57,
+     "word": " you",
+     "probability": 0.9997
+    },
+    {
+     "start": 4134.57,
+     "end": 4134.71,
+     "word": " very",
+     "probability": 0.9969
+    },
+    {
+     "start": 4134.71,
+     "end": 4134.93,
+     "word": " much,",
+     "probability": 0.9999
+    },
+    {
+     "start": 4134.95,
+     "end": 4135.25,
+     "word": " Binduji.",
+     "probability": 0.9979
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "start": 4135.35,
+   "end": 4136.69,
+   "text": " Over to you to close the room.",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4135.35,
+     "end": 4135.73,
+     "word": " Over",
+     "probability": 0.951
+    },
+    {
+     "start": 4135.73,
+     "end": 4135.87,
+     "word": " to",
+     "probability": 0.9998
+    },
+    {
+     "start": 4135.87,
+     "end": 4136.01,
+     "word": " you",
+     "probability": 0.9995
+    },
+    {
+     "start": 4136.01,
+     "end": 4136.17,
+     "word": " to",
+     "probability": 0.9151
+    },
+    {
+     "start": 4136.17,
+     "end": 4136.41,
+     "word": " close",
+     "probability": 0.9999
+    },
+    {
+     "start": 4136.41,
+     "end": 4136.55,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 4136.55,
+     "end": 4136.69,
+     "word": " room.",
+     "probability": 0.9976
+    }
+   ]
+  },
+  {
+   "id": 206,
+   "start": 4137.81,
+   "end": 4138.87,
+   "text": " Thank you, Prakash.",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4137.81,
+     "end": 4138.29,
+     "word": " Thank",
+     "probability": 0.9434
+    },
+    {
+     "start": 4138.29,
+     "end": 4138.53,
+     "word": " you,",
+     "probability": 0.9982
+    },
+    {
+     "start": 4138.53,
+     "end": 4138.87,
+     "word": " Prakash.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "start": 4140.57,
+   "end": 4141.75,
+   "text": " And thank you",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4140.57,
+     "end": 4141.05,
+     "word": " And",
+     "probability": 0.9882
+    },
+    {
+     "start": 4141.05,
+     "end": 4141.53,
+     "word": " thank",
+     "probability": 0.998
+    },
+    {
+     "start": 4141.53,
+     "end": 4141.75,
+     "word": " you",
+     "probability": 0.9983
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "start": 4141.75,
+   "end": 4143.43,
+   "text": " all of you for being there.",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4141.75,
+     "end": 4141.99,
+     "word": " all",
+     "probability": 0.9768
+    },
+    {
+     "start": 4141.99,
+     "end": 4142.17,
+     "word": " of",
+     "probability": 0.9986
+    },
+    {
+     "start": 4142.17,
+     "end": 4142.37,
+     "word": " you",
+     "probability": 0.9999
+    },
+    {
+     "start": 4142.37,
+     "end": 4142.61,
+     "word": " for",
+     "probability": 0.9996
+    },
+    {
+     "start": 4142.61,
+     "end": 4143.17,
+     "word": " being",
+     "probability": 0.9992
+    },
+    {
+     "start": 4143.17,
+     "end": 4143.43,
+     "word": " there.",
+     "probability": 0.9926
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "start": 4143.89,
+   "end": 4145.81,
+   "text": " We will reconvene on",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4143.89,
+     "end": 4144.37,
+     "word": " We",
+     "probability": 0.9921
+    },
+    {
+     "start": 4144.37,
+     "end": 4144.61,
+     "word": " will",
+     "probability": 0.9614
+    },
+    {
+     "start": 4144.61,
+     "end": 4145.71,
+     "word": " reconvene",
+     "probability": 0.9955
+    },
+    {
+     "start": 4145.71,
+     "end": 4145.81,
+     "word": " on",
+     "probability": 0.9989
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "start": 4145.81,
+   "end": 4147.57,
+   "text": " Monday with the",
+   "avg_logprob": -0.2144374599456787,
+   "no_speech_prob": 0.0020172607619315386,
+   "compression_ratio": 1.6244343891402715,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4145.81,
+     "end": 4146.15,
+     "word": " Monday",
+     "probability": 0.9989
+    },
+    {
+     "start": 4146.15,
+     "end": 4147.39,
+     "word": " with",
+     "probability": 0.7022
+    },
+    {
+     "start": 4147.39,
+     "end": 4147.57,
+     "word": " the",
+     "probability": 0.8722
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "start": 4147.57,
+   "end": 4149.53,
+   "text": " verses from 22nd onwards.",
+   "avg_logprob": -0.5591918188950111,
+   "no_speech_prob": 0.0011684176279231906,
+   "compression_ratio": 1.0153846153846153,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4147.57,
+     "end": 4148.33,
+     "word": " verses",
+     "probability": 0.8913
+    },
+    {
+     "start": 4148.33,
+     "end": 4148.61,
+     "word": " from",
+     "probability": 0.9991
+    },
+    {
+     "start": 4148.61,
+     "end": 4149.29,
+     "word": " 22nd",
+     "probability": 0.904
+    },
+    {
+     "start": 4149.29,
+     "end": 4149.53,
+     "word": " onwards.",
+     "probability": 0.9904
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "start": 4150.17,
+   "end": 4150.77,
+   "text": " Thank you.",
+   "avg_logprob": -0.5591918188950111,
+   "no_speech_prob": 0.0011684176279231906,
+   "compression_ratio": 1.0153846153846153,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4150.17,
+     "end": 4150.57,
+     "word": " Thank",
+     "probability": 0.9982
+    },
+    {
+     "start": 4150.57,
+     "end": 4150.77,
+     "word": " you.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 213,
+   "start": 4150.83,
+   "end": 4151.43,
+   "text": " Hari Om.",
+   "avg_logprob": -0.5591918188950111,
+   "no_speech_prob": 0.0011684176279231906,
+   "compression_ratio": 1.0153846153846153,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4150.83,
+     "end": 4151.23,
+     "word": " Hari",
+     "probability": 0.1567
+    },
+    {
+     "start": 4151.23,
+     "end": 4151.43,
+     "word": " Om.",
+     "probability": 0.9817
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "start": 4151.51,
+   "end": 4151.85,
+   "text": " Hari Om.",
+   "avg_logprob": -0.5591918188950111,
+   "no_speech_prob": 0.0011684176279231906,
+   "compression_ratio": 1.0153846153846153,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4151.51,
+     "end": 4151.67,
+     "word": " Hari",
+     "probability": 0.5615
+    },
+    {
+     "start": 4151.67,
+     "end": 4151.85,
+     "word": " Om.",
+     "probability": 0.9134
+    }
+   ]
+  },
+  {
+   "id": 215,
+   "start": 4152.17,
+   "end": 4152.73,
+   "text": " Good night.",
+   "avg_logprob": -0.5591918188950111,
+   "no_speech_prob": 0.0011684176279231906,
+   "compression_ratio": 1.0153846153846153,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4152.17,
+     "end": 4152.57,
+     "word": " Good",
+     "probability": 0.6334
+    },
+    {
+     "start": 4152.57,
+     "end": 4152.73,
+     "word": " night.",
+     "probability": 0.7636
+    }
+   ]
+  }
+ ]
+}

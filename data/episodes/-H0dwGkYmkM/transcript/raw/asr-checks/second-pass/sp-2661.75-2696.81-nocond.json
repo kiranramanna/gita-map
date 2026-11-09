@@ -1,0 +1,433 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-2661.75-2696.81-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 2661.75,
+   "dur_s": 35.06,
+   "sample_start": 42588000,
+   "sample_end": 43148960,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-2661.75-2696.81-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "2661.75",
+   "--dur",
+   "35.06",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-2661.75-2696.81-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:30:45.956858+00:00",
+  "run_finished_utc": "2026-11-09T01:31:40.603845+00:00",
+  "model_load_s": 6.59,
+  "transcribe_wall_s": 54.64,
+  "audio_dur_s": 35.06,
+  "realtime_factor": 1.5586
+ },
+ "language": "en",
+ "language_probability": 0.997240424156189,
+ "duration": 35.06,
+ "duration_after_vad": 35.06,
+ "segments": [
+  {
+   "id": 1,
+   "start": 2661.75,
+   "end": 2666.97,
+   "text": " Once known, you cannot forget it.",
+   "avg_logprob": -0.23661341151194787,
+   "no_speech_prob": 0.0033356237690895796,
+   "compression_ratio": 1.4563758389261745,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2661.75,
+     "end": 2663.13,
+     "word": " Once",
+     "probability": 0.7909
+    },
+    {
+     "start": 2663.13,
+     "end": 2664.49,
+     "word": " known,",
+     "probability": 0.9692
+    },
+    {
+     "start": 2664.67,
+     "end": 2665.79,
+     "word": " you",
+     "probability": 0.9961
+    },
+    {
+     "start": 2665.79,
+     "end": 2666.17,
+     "word": " cannot",
+     "probability": 0.9977
+    },
+    {
+     "start": 2666.17,
+     "end": 2666.65,
+     "word": " forget",
+     "probability": 0.9995
+    },
+    {
+     "start": 2666.65,
+     "end": 2666.97,
+     "word": " it.",
+     "probability": 0.998
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 2668.53,
+   "end": 2672.43,
+   "text": " Once known means their knowing is becoming being.",
+   "avg_logprob": -0.23661341151194787,
+   "no_speech_prob": 0.0033356237690895796,
+   "compression_ratio": 1.4563758389261745,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2668.53,
+     "end": 2669.35,
+     "word": " Once",
+     "probability": 0.996
+    },
+    {
+     "start": 2669.35,
+     "end": 2669.63,
+     "word": " known",
+     "probability": 0.9986
+    },
+    {
+     "start": 2669.63,
+     "end": 2669.95,
+     "word": " means",
+     "probability": 0.9952
+    },
+    {
+     "start": 2669.95,
+     "end": 2670.73,
+     "word": " their",
+     "probability": 0.9027
+    },
+    {
+     "start": 2670.73,
+     "end": 2671.15,
+     "word": " knowing",
+     "probability": 0.9919
+    },
+    {
+     "start": 2671.15,
+     "end": 2671.55,
+     "word": " is",
+     "probability": 0.9987
+    },
+    {
+     "start": 2671.55,
+     "end": 2672.03,
+     "word": " becoming",
+     "probability": 0.9984
+    },
+    {
+     "start": 2672.03,
+     "end": 2672.43,
+     "word": " being.",
+     "probability": 0.9939
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 2673.03,
+   "end": 2675.25,
+   "text": " It is not intellectual knowing.",
+   "avg_logprob": -0.23661341151194787,
+   "no_speech_prob": 0.0033356237690895796,
+   "compression_ratio": 1.4563758389261745,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2673.03,
+     "end": 2673.85,
+     "word": " It",
+     "probability": 0.9985
+    },
+    {
+     "start": 2673.85,
+     "end": 2673.97,
+     "word": " is",
+     "probability": 0.9996
+    },
+    {
+     "start": 2673.97,
+     "end": 2674.23,
+     "word": " not",
+     "probability": 0.9997
+    },
+    {
+     "start": 2674.23,
+     "end": 2674.69,
+     "word": " intellectual",
+     "probability": 0.9938
+    },
+    {
+     "start": 2674.69,
+     "end": 2675.25,
+     "word": " knowing.",
+     "probability": 0.9973
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 2675.95,
+   "end": 2678.03,
+   "text": " Sakshatkara, Aparoksha Anubhava.",
+   "avg_logprob": -0.23661341151194787,
+   "no_speech_prob": 0.0033356237690895796,
+   "compression_ratio": 1.4563758389261745,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2675.95,
+     "end": 2676.77,
+     "word": " Sakshatkara,",
+     "probability": 0.6795
+    },
+    {
+     "start": 2676.91,
+     "end": 2677.69,
+     "word": " Aparoksha",
+     "probability": 0.8078
+    },
+    {
+     "start": 2677.69,
+     "end": 2678.03,
+     "word": " Anubhava.",
+     "probability": 0.9395
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 2678.29,
+   "end": 2689.79,
+   "text": " It is not like we go to deep sleep and that is lost when we wake up.",
+   "avg_logprob": -0.23661341151194787,
+   "no_speech_prob": 0.0033356237690895796,
+   "compression_ratio": 1.4563758389261745,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2678.29,
+     "end": 2679.11,
+     "word": " It",
+     "probability": 0.9993
+    },
+    {
+     "start": 2679.11,
+     "end": 2679.27,
+     "word": " is",
+     "probability": 0.9998
+    },
+    {
+     "start": 2679.27,
+     "end": 2681.87,
+     "word": " not",
+     "probability": 0.8371
+    },
+    {
+     "start": 2681.87,
+     "end": 2682.79,
+     "word": " like",
+     "probability": 0.9997
+    },
+    {
+     "start": 2682.79,
+     "end": 2683.97,
+     "word": " we",
+     "probability": 0.9947
+    },
+    {
+     "start": 2683.97,
+     "end": 2684.25,
+     "word": " go",
+     "probability": 0.9999
+    },
+    {
+     "start": 2684.25,
+     "end": 2684.49,
+     "word": " to",
+     "probability": 0.9998
+    },
+    {
+     "start": 2684.49,
+     "end": 2684.73,
+     "word": " deep",
+     "probability": 0.9968
+    },
+    {
+     "start": 2684.73,
+     "end": 2685.01,
+     "word": " sleep",
+     "probability": 0.9999
+    },
+    {
+     "start": 2685.01,
+     "end": 2686.13,
+     "word": " and",
+     "probability": 0.9803
+    },
+    {
+     "start": 2686.13,
+     "end": 2686.61,
+     "word": " that",
+     "probability": 0.9994
+    },
+    {
+     "start": 2686.61,
+     "end": 2687.27,
+     "word": " is",
+     "probability": 0.9993
+    },
+    {
+     "start": 2687.27,
+     "end": 2688.33,
+     "word": " lost",
+     "probability": 0.9997
+    },
+    {
+     "start": 2688.33,
+     "end": 2689.01,
+     "word": " when",
+     "probability": 0.9987
+    },
+    {
+     "start": 2689.01,
+     "end": 2689.23,
+     "word": " we",
+     "probability": 0.9999
+    },
+    {
+     "start": 2689.23,
+     "end": 2689.55,
+     "word": " wake",
+     "probability": 0.9997
+    },
+    {
+     "start": 2689.55,
+     "end": 2689.79,
+     "word": " up.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 2692.15,
+   "end": 2693.63,
+   "text": " this is in that",
+   "avg_logprob": -0.20940200653341082,
+   "no_speech_prob": 0.06604676693677902,
+   "compression_ratio": 0.8648648648648649,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2692.15,
+     "end": 2692.79,
+     "word": " this",
+     "probability": 0.3711
+    },
+    {
+     "start": 2692.79,
+     "end": 2693.03,
+     "word": " is",
+     "probability": 0.9871
+    },
+    {
+     "start": 2693.03,
+     "end": 2693.35,
+     "word": " in",
+     "probability": 0.9899
+    },
+    {
+     "start": 2693.35,
+     "end": 2693.63,
+     "word": " that",
+     "probability": 0.9974
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 2693.63,
+   "end": 2695.51,
+   "text": " akshara, avyakta",
+   "avg_logprob": -0.20940200653341082,
+   "no_speech_prob": 0.06604676693677902,
+   "compression_ratio": 0.8648648648648649,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2693.63,
+     "end": 2694.85,
+     "word": " akshara,",
+     "probability": 0.9359
+    },
+    {
+     "start": 2694.91,
+     "end": 2695.51,
+     "word": " avyakta",
+     "probability": 0.9044
+    }
+   ]
+  }
+ ]
+}

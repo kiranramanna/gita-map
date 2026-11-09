@@ -1,0 +1,16 @@
+HTTP/2 200 
+content-type: application/octet-stream
+last-modified: Fri, 19 Jun 2026 01:21:47 GMT
+etag: "7be3f4af294d2b0ef7d7d06f7629a181"
+x-amz-checksum-crc32c: MVxrow==
+accept-ranges: bytes
+content-length: 75743
+cache-control: private, max-age=0
+expires: Mon, 09 Nov 2026 01:00:44 GMT
+date: Mon, 09 Nov 2026 01:00:44 GMT
+access-control-allow-origin: *
+strict-transport-security: max-age=15768000
+access-control-max-age: 86400
+access-control-allow-headers: range
+access-control-allow-methods: GET
+

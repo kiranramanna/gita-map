@@ -1,0 +1,105 @@
+{
+ "kind": "second_pass_alternative_candidate",
+ "label": "SECOND-PASS ALTERNATIVE - automatic, unreviewed, NOT a replacement of the raw first pass",
+ "covers_s": [
+  2203.39,
+  2250.81
+ ],
+ "first_pass_file": "raw/asr/merged-raw-asr.json",
+ "first_pass_sha256": "377fe8abce09d849a6d794ff936d42652f8d0b28312ad08fffea62a42919fae7",
+ "first_pass_merged_ids_affected": [
+  527,
+  528,
+  529,
+  530,
+  531,
+  532,
+  533,
+  534,
+  535,
+  536,
+  537,
+  538,
+  539,
+  540,
+  541
+ ],
+ "source_file": "raw/asr-checks/second-pass/main-A-2150-2300-nocond.json",
+ "source_sha256": "d52d11f97497779c5af8d672411669f9c90c1288d4befd1ae7d580366983f3b5",
+ "source_params": {
+  "beam_size": 5,
+  "language": null,
+  "word_timestamps": true,
+  "vad_filter": false,
+  "condition_on_previous_text": false,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "segments": [
+  {
+   "source_segment_id": 14,
+   "start": 2203.12,
+   "end": 2218.74,
+   "text": " in the discriminative mind has to become our nature, subhava. Then only the",
+   "temperature": 0.0,
+   "avg_logprob": -0.39167441299983435
+  },
+  {
+   "source_segment_id": 15,
+   "start": 2218.74,
+   "end": 2225.6,
+   "text": " next verse will become the fruit of Krishna's advice.",
+   "temperature": 0.0,
+   "avg_logprob": -0.39167441299983435
+  },
+  {
+   "source_segment_id": 16,
+   "start": 2231.08,
+   "end": 2238.52,
+   "text": " Shankaracharya says that Sarveshu Bhuteshu Nacchatsu means Brahmaadi Stambha Pariyanteshu",
+   "temperature": 0.0,
+   "avg_logprob": -0.42238324880599976
+  },
+  {
+   "source_segment_id": 17,
+   "start": 2238.52,
+   "end": 2247.94,
+   "text": " Sarveshu Bhuteshu Pralayam Gacchatsu Navinashyati. Therefore he is Kudastaha, Nirvikaraha, Ekarasaha,",
+   "temperature": 0.0,
+   "avg_logprob": -0.42238324880599976
+  }
+ ],
+ "overlap_note": "Segment boundaries do not line up with the first pass. The first source segment starts at 2203.12, 0.27 s before first-pass merged_id 526 ends (2203.39); merged_id 526 ('So separating between these two.') is kept. First-pass merged_id 542 (from 2250.81) is kept.",
+ "status_by_sub_span": [
+  {
+   "name": "english_continuation",
+   "start": 2203.39,
+   "end": 2225.7,
+   "status": "resolved-by-second-pass"
+  },
+  {
+   "name": "sanskrit_quoted_passage",
+   "start": 2231.0,
+   "end": 2247.94,
+   "status": "unresolved"
+  },
+  {
+   "name": "tail_gap_with_energy",
+   "start": 2247.94,
+   "end": 2250.81,
+   "status": "unresolved"
+  }
+ ],
+ "caveats": [
+  "Sanskrit words are rendered by the ASR model and differ between runs; do not treat their spelling as verified.",
+  "About 2247.9-2250.8 s has speech-level energy and no transcript in this alternative.",
+  "main-C (window shifted to start at 2165 s) omits about 2234-2248 s entirely, so this passage is not stable across windows."
+ ],
+ "created_utc": "2026-11-09T01:41:48.294724+00:00"
+}

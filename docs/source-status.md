@@ -133,3 +133,127 @@ Once captions are acquired, record:
 - its sha256 hash.
 
 Then build `transcript.cleaned.json`.
+
+## Podcast audio and automatic transcript (added 2026-11-09, builder unit u7, task T-001)
+
+**This supersedes part of the summary above.** The summary says there is no transcript
+text and no Sanskrit in the repository. As of 2026-11-09 that is no longer true for the
+podcast route. The repository now holds an **automatic, unreviewed** transcript of the
+podcast audio, made by faster-whisper large-v3 on CPU. It includes ASR-rendered Sanskrit.
+It is not a YouTube caption track, and no person has checked it. The YouTube caption
+findings above are unchanged.
+
+### Source
+
+The files are in `data/episodes/-H0dwGkYmkM/source/podcast/`.
+
+| Item | Value | Status |
+|---|---|---|
+| Feed | `https://anchor.fm/s/10c696e48/podcast/rss` ("Srimad Bhagavad Gita", author Aurobind) | 182 items |
+| Feed snapshot | sha256 `060f2e4e…4596c5`, 220550 bytes. Only an excerpt is stored: the newest item, plus the channel header. | Two fetches (00:48:40Z and 01:00:32Z, the second with a cache-busting query) returned byte-identical bodies with the same ETag. Both were CDN hits with Age ≈ 175–176 ks (about 49 h), so the snapshot may be up to about 49 h stale. |
+| Newest item | guid `162b8ae8-9ce2-4e5b-92a5-732d2547b1e1`, "Ch08-10-Shrimad Bhagavad Gita", pubDate Sat, 07 Nov 2026 00:01:06 GMT, `itunes:duration` 01:09:17, enclosure length 16631472 | From the feed |
+| Audio | final URL `https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-10-7/aab0600f-0d8e-9529-8814-e537e1018810.mp3` (one redirect), 16631472 bytes, sha256 `a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3`, measured 4157.754 s, mp3 48 kHz mono 32 kbps | Verified. The MP3 is **not** in the repository. |
+| Same lecture as YouTube `-H0dwGkYmkM` | Identical title and description, durations within 1 s, podcast published 24 min before YouTube | **Inferred, not proven** |
+| YouTube time offset | `null` | **Not measured**, because YouTube audio is blocked on this host. All transcript times are podcast-audio times. |
+
+**Transcript-link search.** No transcript or caption file was found for the newest
+episode:
+- The newest item has no `<podcast:transcript>`.
+- 48 of the 182 older items do have one. These are Spotify-hosted SRT files, from Ch03-20
+  through Ch05-12, and are listed in `feed-items-with-podcast-transcript.json`.
+- The Apple Podcasts episode page has `"transcriptInfo":null`.
+- The two fetched Spotify pages contain no transcript marker. They are client-rendered,
+  so that result is not conclusive.
+
+### ASR first pass
+
+The output is in `transcript/raw/asr/`, with hashes in `MANIFEST.json`.
+
+- **Settings:** faster-whisper 1.2.1, ctranslate2 4.8.5, PyAV 15.1.0, model
+  `Systran/faster-whisper-large-v3` (snapshot `edaa852e…`), CPU int8, beam 5,
+  `condition_on_previous_text=True`, temperature fallback 0–1.0, word timestamps.
+- **Run:** ten chunks were cut at digital-silence points and run as parallel processes
+  with 4 threads each, from 01:00:22Z; the last chunk finished at 01:16:59Z. The output has 1118 segments;
+  every chunk detected English.
+- **Copies:** the copied files were re-hashed against the scratch originals and are
+  identical. The merged file's sha256 is `377fe8ab…9fae7`.
+
+### Second pass and QA (u7)
+
+**Runs.**
+- 19 CPU runs, made with `scripts/asr/run_asr_window.py`, all with
+  `condition_on_previous_text=False`.
+- The main window, 2150–2300 s, was run three ways:
+  - A: default temperatures;
+  - B: temperature 0 only, which turned out identical to A;
+  - C: the window shifted to start at 2165 s.
+- 15 windows covered the other flagged spans, each padded by 15 s.
+- One window was rerun with `--language en` after auto-detection chose Telugu.
+- The raw outputs are in `transcript/raw/asr-checks/second-pass/`.
+
+**Results.** Statuses are in `transcript/qa/flags.json`, together with the rules and
+their history:
+- the 0.8 agreement threshold and the "clean" test were set before any comparison was
+  computed;
+- the main-window sub-span rule was written after viewing the A/B/C outputs;
+- two stricter rules (word coverage and language) were added after viewing the batch.
+
+For the 10 repetition runs marked `resolved-by-second-pass`, the replacement comes from
+one uncorroborated decode (`replacement_corroborated: false`).
+
+- **2203–2251 s loop: confirmed defect, partly repaired.** The second-pass text below is
+  copied verbatim from `main-A`, segments 14–17:
+  - **2203.12–2225.60 s.** *"in the discriminative mind has to become our nature,
+    subhava. Then only the next verse will become the fruit of Krishna's advice."*
+    Runs A and C and the first-pass recheck agree here (ratio 0.93), so this sub-span is
+    `resolved-by-second-pass`. That means the decoding is stable, not that the text is
+    verified.
+  - **2231.08–2247.94 s.** *"Shankaracharya says that Sarveshu Bhuteshu Nacchatsu means
+    Brahmaadi Stambha Pariyanteshu Sarveshu Bhuteshu Pralayam Gacchatsu Navinashyati.
+    Therefore he is Kudastaha, Nirvikaraha, Ekarasaha,"* This sub-span is `unresolved`:
+    - run C omits it entirely, even though the audio there is at speech level;
+    - the recheck spells the Sanskrit differently ("Nachyachchu", "Gachchachchu na
+      Vinashyati", "Kodastaha Nirvinsha");
+    - the Sanskrit is unverified.
+  - **About 2247.9–2250.8 s.** No run transcribes anything here, yet the audio is at
+    speech level. This sub-span is `unresolved`.
+  - **2225.6–2231.1 s.** This is digital silence after the first second, so nothing is
+    missing.
+  - **Not done:** the candidate is in `transcript/alternatives/second-pass-2203-2251.json`
+    and replaces nothing. Coverage of this span is **not complete**.
+- **New finding: 1951.67–1996.03 s, confirmed first-pass dropout.** The first pass
+  emits only "..." here (merged_id 481–501), but 34% of the 100 ms frames are at speech
+  level. The single second-pass decode gives words for this span, but nothing
+  corroborates them, so the replacement is `unresolved`. The alternative is in
+  `alternatives/second-pass-1951-1996.json`.
+- **The other 16 repetition runs:**
+  - 10 are `resolved-by-second-pass`: a clean second pass did not reproduce the
+    repetition.
+  - 6 are `unresolved`: 160.32 "Devāyata-smai-namahā", 372.44 "bhutva", 1132.79 "Anyaha.",
+    3168.97 "He does not return again.", 3720.93 and 4150.83 "Hari Om.". In these the
+    second pass either reproduced the repetition, which may be genuine (for example
+    3168.97 follows a repeated Chandogya line), or was itself unreliable.
+- **The 53 high-temperature segments:**
+  - 16 are `resolved-by-second-pass`;
+  - 11 are `unresolved`;
+  - 26 are `confirmed`, because they belong to the loop or the dropout.
+- **Unreliable second-pass outputs**, recorded in the manifest:
+  - "Satsang with Mooji" over the 145–187 s invocation;
+  - Telugu-script output at 2587–2637 s before the `--language en` rerun;
+  - "God bless you." at 388 s;
+  - "how do you" ×2 where the first pass has "Hari Om." ×2.
+- **Sanskrit:** 81 first-pass segments are listed as uncertain Sanskrit, by IAST
+  diacritics or by two or more low-probability words. None was corrected.
+
+### Still unverified or blocked
+
+- No person has listened to any of the audio. The whole transcript is automatic.
+- The 2231–2251 s Sanskrit passage and the 1951–1996 s dropout need a person to listen
+  or an explicit exclusion.
+- The podcast and YouTube audio have not been shown to be the same recording, and the
+  time offset has not been measured.
+- The uploader's verse range ("Chapter 08 verses 20 & 21") has not been checked against
+  the transcript.
+- The feed snapshot may be up to about 49 h stale.
+- PyAV: the probe used 19.0.2, while all ASR runs used 15.1.0. The scratch notes do not
+  record why the version was re-pinned.

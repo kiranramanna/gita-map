@@ -1,0 +1,361 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-4135.83-4157.75-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 4135.83,
+   "dur_s": 21.92,
+   "sample_start": 66173280,
+   "sample_end": 66524000,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-4135.83-4157.75-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "4135.83",
+   "--dur",
+   "21.92",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-4135.83-4157.75-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:31:59.943316+00:00",
+  "run_finished_utc": "2026-11-09T01:32:47.724266+00:00",
+  "model_load_s": 6.28,
+  "transcribe_wall_s": 47.78,
+  "audio_dur_s": 21.92,
+  "realtime_factor": 2.1797
+ },
+ "language": "en",
+ "language_probability": 0.9970883727073669,
+ "duration": 21.92,
+ "duration_after_vad": 21.92,
+ "segments": [
+  {
+   "id": 1,
+   "start": 4135.83,
+   "end": 4142.63,
+   "text": " to you to close the room thank you Prakash and thank you all of you for",
+   "avg_logprob": -0.2556561842197325,
+   "no_speech_prob": 0.000750633014831692,
+   "compression_ratio": 1.3727272727272728,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4135.83,
+     "end": 4135.93,
+     "word": " to",
+     "probability": 0.4947
+    },
+    {
+     "start": 4135.93,
+     "end": 4136.01,
+     "word": " you",
+     "probability": 0.7937
+    },
+    {
+     "start": 4136.01,
+     "end": 4136.17,
+     "word": " to",
+     "probability": 0.7071
+    },
+    {
+     "start": 4136.17,
+     "end": 4136.41,
+     "word": " close",
+     "probability": 0.9988
+    },
+    {
+     "start": 4136.41,
+     "end": 4136.55,
+     "word": " the",
+     "probability": 0.9991
+    },
+    {
+     "start": 4136.55,
+     "end": 4136.69,
+     "word": " room",
+     "probability": 0.9866
+    },
+    {
+     "start": 4136.69,
+     "end": 4138.27,
+     "word": " thank",
+     "probability": 0.5583
+    },
+    {
+     "start": 4138.27,
+     "end": 4138.51,
+     "word": " you",
+     "probability": 0.9951
+    },
+    {
+     "start": 4138.51,
+     "end": 4138.87,
+     "word": " Prakash",
+     "probability": 0.9632
+    },
+    {
+     "start": 4138.87,
+     "end": 4140.13,
+     "word": " and",
+     "probability": 0.9941
+    },
+    {
+     "start": 4140.13,
+     "end": 4141.51,
+     "word": " thank",
+     "probability": 0.9974
+    },
+    {
+     "start": 4141.51,
+     "end": 4141.75,
+     "word": " you",
+     "probability": 0.9979
+    },
+    {
+     "start": 4141.75,
+     "end": 4141.99,
+     "word": " all",
+     "probability": 0.9977
+    },
+    {
+     "start": 4141.99,
+     "end": 4142.17,
+     "word": " of",
+     "probability": 0.9982
+    },
+    {
+     "start": 4142.17,
+     "end": 4142.31,
+     "word": " you",
+     "probability": 0.9998
+    },
+    {
+     "start": 4142.31,
+     "end": 4142.63,
+     "word": " for",
+     "probability": 0.9991
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 4142.63,
+   "end": 4150.77,
+   "text": " being there we will reconvene on Monday with verses from 22nd onwards thank you",
+   "avg_logprob": -0.2556561842197325,
+   "no_speech_prob": 0.000750633014831692,
+   "compression_ratio": 1.3727272727272728,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4142.63,
+     "end": 4143.13,
+     "word": " being",
+     "probability": 0.9979
+    },
+    {
+     "start": 4143.13,
+     "end": 4143.43,
+     "word": " there",
+     "probability": 0.9805
+    },
+    {
+     "start": 4143.43,
+     "end": 4144.39,
+     "word": " we",
+     "probability": 0.9477
+    },
+    {
+     "start": 4144.39,
+     "end": 4144.59,
+     "word": " will",
+     "probability": 0.8895
+    },
+    {
+     "start": 4144.59,
+     "end": 4145.67,
+     "word": " reconvene",
+     "probability": 0.9949
+    },
+    {
+     "start": 4145.67,
+     "end": 4145.79,
+     "word": " on",
+     "probability": 0.995
+    },
+    {
+     "start": 4145.79,
+     "end": 4146.13,
+     "word": " Monday",
+     "probability": 0.9488
+    },
+    {
+     "start": 4146.13,
+     "end": 4147.37,
+     "word": " with",
+     "probability": 0.9924
+    },
+    {
+     "start": 4147.37,
+     "end": 4148.25,
+     "word": " verses",
+     "probability": 0.4121
+    },
+    {
+     "start": 4148.25,
+     "end": 4148.63,
+     "word": " from",
+     "probability": 0.9994
+    },
+    {
+     "start": 4148.63,
+     "end": 4149.33,
+     "word": " 22nd",
+     "probability": 0.9583
+    },
+    {
+     "start": 4149.33,
+     "end": 4149.53,
+     "word": " onwards",
+     "probability": 0.9893
+    },
+    {
+     "start": 4149.53,
+     "end": 4150.61,
+     "word": " thank",
+     "probability": 0.9303
+    },
+    {
+     "start": 4150.61,
+     "end": 4150.77,
+     "word": " you",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 4150.77,
+   "end": 4151.35,
+   "text": " how do you",
+   "avg_logprob": -0.6403162819998605,
+   "no_speech_prob": 0.46633389592170715,
+   "compression_ratio": 1.04,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4150.77,
+     "end": 4151.11,
+     "word": " how",
+     "probability": 0.0822
+    },
+    {
+     "start": 4151.11,
+     "end": 4151.27,
+     "word": " do",
+     "probability": 0.9445
+    },
+    {
+     "start": 4151.27,
+     "end": 4151.35,
+     "word": " you",
+     "probability": 0.9935
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 4151.35,
+   "end": 4151.79,
+   "text": " how do you",
+   "avg_logprob": -0.6403162819998605,
+   "no_speech_prob": 0.46633389592170715,
+   "compression_ratio": 1.04,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4151.35,
+     "end": 4151.59,
+     "word": " how",
+     "probability": 0.036
+    },
+    {
+     "start": 4151.59,
+     "end": 4151.73,
+     "word": " do",
+     "probability": 0.9916
+    },
+    {
+     "start": 4151.73,
+     "end": 4151.79,
+     "word": " you",
+     "probability": 0.9937
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 4152.27,
+   "end": 4152.59,
+   "text": " good",
+   "avg_logprob": -0.6403162819998605,
+   "no_speech_prob": 0.46633389592170715,
+   "compression_ratio": 1.04,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 4152.27,
+     "end": 4152.59,
+     "word": " good",
+     "probability": 0.1314
+    }
+   ]
+  }
+ ]
+}

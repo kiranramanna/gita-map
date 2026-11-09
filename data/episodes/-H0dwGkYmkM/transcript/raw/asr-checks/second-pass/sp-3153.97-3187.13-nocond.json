@@ -1,0 +1,463 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-3153.97-3187.13-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 3153.97,
+   "dur_s": 33.16,
+   "sample_start": 50463520,
+   "sample_end": 50994080,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-3153.97-3187.13-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "3153.97",
+   "--dur",
+   "33.16",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-3153.97-3187.13-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:31:52.006932+00:00",
+  "run_finished_utc": "2026-11-09T01:32:49.715170+00:00",
+  "model_load_s": 6.27,
+  "transcribe_wall_s": 57.7,
+  "audio_dur_s": 33.16,
+  "realtime_factor": 1.7402
+ },
+ "language": "en",
+ "language_probability": 0.9397008419036865,
+ "duration": 33.16,
+ "duration_after_vad": 33.16,
+ "segments": [
+  {
+   "id": 1,
+   "start": 3153.97,
+   "end": 3161.05,
+   "text": " one. He is the Vedantic principle stated in multiple Shruthis. In the Chandogya it says",
+   "avg_logprob": -0.29560448422151453,
+   "no_speech_prob": 0.0372462272644043,
+   "compression_ratio": 1.6848484848484848,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3153.97,
+     "end": 3154.27,
+     "word": " one.",
+     "probability": 0.3368
+    },
+    {
+     "start": 3154.47,
+     "end": 3155.05,
+     "word": " He",
+     "probability": 0.2973
+    },
+    {
+     "start": 3155.05,
+     "end": 3155.13,
+     "word": " is",
+     "probability": 0.9452
+    },
+    {
+     "start": 3155.13,
+     "end": 3155.23,
+     "word": " the",
+     "probability": 0.8225
+    },
+    {
+     "start": 3155.23,
+     "end": 3155.59,
+     "word": " Vedantic",
+     "probability": 0.9836
+    },
+    {
+     "start": 3155.59,
+     "end": 3156.13,
+     "word": " principle",
+     "probability": 0.9642
+    },
+    {
+     "start": 3156.13,
+     "end": 3156.61,
+     "word": " stated",
+     "probability": 0.9918
+    },
+    {
+     "start": 3156.61,
+     "end": 3157.05,
+     "word": " in",
+     "probability": 0.9993
+    },
+    {
+     "start": 3157.05,
+     "end": 3157.43,
+     "word": " multiple",
+     "probability": 0.9585
+    },
+    {
+     "start": 3157.43,
+     "end": 3158.05,
+     "word": " Shruthis.",
+     "probability": 0.8327
+    },
+    {
+     "start": 3159.49,
+     "end": 3160.19,
+     "word": " In",
+     "probability": 0.6787
+    },
+    {
+     "start": 3160.19,
+     "end": 3160.19,
+     "word": " the",
+     "probability": 0.8464
+    },
+    {
+     "start": 3160.19,
+     "end": 3160.73,
+     "word": " Chandogya",
+     "probability": 0.962
+    },
+    {
+     "start": 3160.73,
+     "end": 3160.81,
+     "word": " it",
+     "probability": 0.8273
+    },
+    {
+     "start": 3160.81,
+     "end": 3161.05,
+     "word": " says",
+     "probability": 0.9961
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 3161.05,
+   "end": 3170.73,
+   "text": " na cha punaravartate na cha punaravartate. 8th chapter 15.1. He does not return again,",
+   "avg_logprob": -0.29560448422151453,
+   "no_speech_prob": 0.0372462272644043,
+   "compression_ratio": 1.6848484848484848,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3161.05,
+     "end": 3161.83,
+     "word": " na",
+     "probability": 0.019
+    },
+    {
+     "start": 3161.83,
+     "end": 3161.95,
+     "word": " cha",
+     "probability": 0.6158
+    },
+    {
+     "start": 3161.95,
+     "end": 3162.79,
+     "word": " punaravartate",
+     "probability": 0.6771
+    },
+    {
+     "start": 3162.79,
+     "end": 3163.05,
+     "word": " na",
+     "probability": 0.7077
+    },
+    {
+     "start": 3163.05,
+     "end": 3163.23,
+     "word": " cha",
+     "probability": 0.9992
+    },
+    {
+     "start": 3163.23,
+     "end": 3164.09,
+     "word": " punaravartate.",
+     "probability": 0.9809
+    },
+    {
+     "start": 3164.63,
+     "end": 3165.33,
+     "word": " 8th",
+     "probability": 0.9193
+    },
+    {
+     "start": 3165.33,
+     "end": 3166.35,
+     "word": " chapter",
+     "probability": 0.9874
+    },
+    {
+     "start": 3166.35,
+     "end": 3167.21,
+     "word": " 15",
+     "probability": 0.9937
+    },
+    {
+     "start": 3167.21,
+     "end": 3168.23,
+     "word": ".1.",
+     "probability": 0.9956
+    },
+    {
+     "start": 3168.85,
+     "end": 3169.55,
+     "word": " He",
+     "probability": 0.9951
+    },
+    {
+     "start": 3169.55,
+     "end": 3169.77,
+     "word": " does",
+     "probability": 0.9997
+    },
+    {
+     "start": 3169.77,
+     "end": 3170.05,
+     "word": " not",
+     "probability": 0.9999
+    },
+    {
+     "start": 3170.05,
+     "end": 3170.39,
+     "word": " return",
+     "probability": 0.9999
+    },
+    {
+     "start": 3170.39,
+     "end": 3170.73,
+     "word": " again,",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 3170.89,
+   "end": 3180.03,
+   "text": " he does not return again. That is the concluding statement of Chandogya Upanishad. In the Kathopanishad",
+   "avg_logprob": -0.29560448422151453,
+   "no_speech_prob": 0.0372462272644043,
+   "compression_ratio": 1.6848484848484848,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3170.89,
+     "end": 3170.99,
+     "word": " he",
+     "probability": 0.9276
+    },
+    {
+     "start": 3170.99,
+     "end": 3171.21,
+     "word": " does",
+     "probability": 0.9998
+    },
+    {
+     "start": 3171.21,
+     "end": 3171.45,
+     "word": " not",
+     "probability": 0.9998
+    },
+    {
+     "start": 3171.45,
+     "end": 3171.79,
+     "word": " return",
+     "probability": 0.9998
+    },
+    {
+     "start": 3171.79,
+     "end": 3172.13,
+     "word": " again.",
+     "probability": 0.9993
+    },
+    {
+     "start": 3173.19,
+     "end": 3173.89,
+     "word": " That",
+     "probability": 0.9992
+    },
+    {
+     "start": 3173.89,
+     "end": 3174.05,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 3174.05,
+     "end": 3174.21,
+     "word": " the",
+     "probability": 0.9997
+    },
+    {
+     "start": 3174.21,
+     "end": 3174.81,
+     "word": " concluding",
+     "probability": 0.9994
+    },
+    {
+     "start": 3174.81,
+     "end": 3175.17,
+     "word": " statement",
+     "probability": 0.9998
+    },
+    {
+     "start": 3175.17,
+     "end": 3175.55,
+     "word": " of",
+     "probability": 0.9997
+    },
+    {
+     "start": 3175.55,
+     "end": 3175.99,
+     "word": " Chandogya",
+     "probability": 0.9961
+    },
+    {
+     "start": 3175.99,
+     "end": 3176.37,
+     "word": " Upanishad.",
+     "probability": 0.9902
+    },
+    {
+     "start": 3178.41,
+     "end": 3179.11,
+     "word": " In",
+     "probability": 0.998
+    },
+    {
+     "start": 3179.11,
+     "end": 3179.21,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 3179.21,
+     "end": 3180.03,
+     "word": " Kathopanishad",
+     "probability": 0.971
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 3180.03,
+   "end": 3187.03,
+   "text": " Tad Vishnu ho paramam padam. Paramam padam. Sada pashyandi surya.",
+   "avg_logprob": -0.5607101519902548,
+   "no_speech_prob": 0.7840203046798706,
+   "compression_ratio": 1.1403508771929824,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3180.03,
+     "end": 3181.31,
+     "word": " Tad",
+     "probability": 0.3509
+    },
+    {
+     "start": 3181.31,
+     "end": 3181.83,
+     "word": " Vishnu",
+     "probability": 0.7022
+    },
+    {
+     "start": 3181.83,
+     "end": 3181.95,
+     "word": " ho",
+     "probability": 0.7723
+    },
+    {
+     "start": 3181.95,
+     "end": 3182.55,
+     "word": " paramam",
+     "probability": 0.8187
+    },
+    {
+     "start": 3182.55,
+     "end": 3183.21,
+     "word": " padam.",
+     "probability": 0.9257
+    },
+    {
+     "start": 3183.21,
+     "end": 3183.73,
+     "word": " Paramam",
+     "probability": 0.7172
+    },
+    {
+     "start": 3183.73,
+     "end": 3184.17,
+     "word": " padam.",
+     "probability": 0.8819
+    },
+    {
+     "start": 3184.17,
+     "end": 3185.35,
+     "word": " Sada",
+     "probability": 0.8803
+    },
+    {
+     "start": 3185.35,
+     "end": 3186.09,
+     "word": " pashyandi",
+     "probability": 0.6791
+    },
+    {
+     "start": 3186.09,
+     "end": 3187.03,
+     "word": " surya.",
+     "probability": 0.7437
+    }
+   ]
+  }
+ ]
+}

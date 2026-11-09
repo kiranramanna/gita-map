@@ -1,0 +1,84 @@
+{
+ "kind": "manifest",
+ "directory": "transcript/raw/asr-checks",
+ "created_utc": "2026-11-09T01:37:55.700509+00:00",
+ "rule": "Raw outputs, byte-identical to scratch, never edited. win-* are first-pass rechecks (condition_on_previous_text=True). second-pass/ holds the u7 second pass.",
+ "files": [
+  {
+   "file": "win-2190-2260.json",
+   "bytes": 11621,
+   "sha256": "71353511a71aa8194a2dcce9766fd2f624a8ee8b464e471db71cf7d90592ee6a",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/checks/win-2190-2260.json",
+   "scratch_source_sha256": "71353511a71aa8194a2dcce9766fd2f624a8ee8b464e471db71cf7d90592ee6a",
+   "identical_to_source": true,
+   "clip": {
+    "start_s": 2190.0,
+    "dur_s": 70.0
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": true,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "cpu_threads": 16,
+   "run_started_utc": "2026-11-09T01:18:14.127982+00:00",
+   "run_finished_utc": "2026-11-09T01:18:56.036105+00:00",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   },
+   "script": "scripts/asr/first-pass/asr.py"
+  },
+  {
+   "file": "win-770-860.json",
+   "bytes": 17409,
+   "sha256": "5e8e6884b71144adbc159156cfcee84a6bde7d988b92a021d8258171979bf098",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/checks/win-770-860.json",
+   "scratch_source_sha256": "5e8e6884b71144adbc159156cfcee84a6bde7d988b92a021d8258171979bf098",
+   "identical_to_source": true,
+   "clip": {
+    "start_s": 770.0,
+    "dur_s": 90.0
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": true,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "cpu_threads": 16,
+   "run_started_utc": "2026-11-09T01:18:14.336343+00:00",
+   "run_finished_utc": "2026-11-09T01:19:06.588476+00:00",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   },
+   "script": "scripts/asr/first-pass/asr.py"
+  }
+ ]
+}

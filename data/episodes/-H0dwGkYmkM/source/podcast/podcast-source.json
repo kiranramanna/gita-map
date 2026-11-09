@@ -1,0 +1,116 @@
+{
+ "schema": "gita-map/podcast-source/v1",
+ "episode_id": "-H0dwGkYmkM",
+ "recorded_utc": "2026-11-09",
+ "recorded_by": "builder unit u7 (task T-001), copied from the scratch podcast evaluation; no new network fetch in u7",
+ "feed": {
+  "url": "https://anchor.fm/s/10c696e48/podcast/rss",
+  "channel_title": "Srimad Bhagavad Gita",
+  "channel_author": "Aurobind",
+  "channel_link": "https://podcasters.spotify.com/pod/show/aurobind76",
+  "channel_language": "en",
+  "lastBuildDate": "Sat, 07 Nov 2026 00:05:19 GMT",
+  "item_count": 182,
+  "items_with_podcast_transcript": 48,
+  "snapshot": {
+   "sha256": "060f2e4e75fff6053b901661f6b715cb87cd59893e045640a0a9858f9e4596c5",
+   "bytes": 220550,
+   "stored_in_repo": "excerpt only: feed-newest-item.xml (verbatim bytes of the first <item>) and feed-channel-header.xml (verbatim bytes before the first <item>)",
+   "newest_item_excerpt_sha256": "3a482dcf6d02e70625c2f6521fca100380be041792668261702a95e87466a43b",
+   "fetches": [
+    {"file": "feed-fetch-1.headers.txt", "response_date": "Mon, 09 Nov 2026 00:48:40 GMT", "etag": "W/\"35d86-o8kk5Pv38vSk0BD+Dm0Neifj6YA\"", "age_s": 175401},
+    {"file": "feed-fetch-2-cachebust.headers.txt", "response_date": "Mon, 09 Nov 2026 01:00:32 GMT", "etag": "W/\"35d86-o8kk5Pv38vSk0BD+Dm0Neifj6YA\"", "age_s": 176113, "note": "cache-busting query; byte-identical body (same sha256 and ETag)"}
+   ],
+   "cache_note": "Both responses were CDN cache HITs with Age about 175-176 ks (about 49 h). The cache-busting query did not bypass the CDN cache, so the feed may be up to about 49 h stale. lastBuildDate (2026-11-07T00:05:19Z) predates the cache age window, so this snapshot cannot show items published after about 2026-11-07T00:00Z."
+  }
+ },
+ "item": {
+  "guid": "162b8ae8-9ce2-4e5b-92a5-732d2547b1e1",
+  "title": "Ch08-10-Shrimad Bhagavad Gita",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch08-10-Shrimad-Bhagavad-Gita-e3ru374",
+  "pubDate": "Sat, 07 Nov 2026 00:01:06 GMT",
+  "itunes_duration": "01:09:17",
+  "itunes_season": "8",
+  "itunes_episode": "10",
+  "description_verbatim": "<p>Shrimad Bhagavad Gita Chapter 08 verses 20 &amp; 21</p>\n",
+  "description_status": "uploader-supplied; verse range not verified against the audio",
+  "enclosure": {
+   "url": "https://anchor.fm/s/10c696e48/podcast/play/128961188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2Faab0600f-0d8e-9529-8814-e537e1018810.mp3",
+   "length": 16631472,
+   "type": "audio/mpeg"
+  },
+  "podcast_transcript": [],
+  "podcast_chapters": []
+ },
+ "audio": {
+  "final_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-10-7/aab0600f-0d8e-9529-8814-e537e1018810.mp3",
+  "redirects": 1,
+  "http_status": 200,
+  "downloaded_utc": "2026-11-09T00:53:17Z",
+  "bytes": 16631472,
+  "bytes_match_enclosure_length": true,
+  "sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "codec": "mp3, 48000 Hz, mono, 32 kbps (container encoder Lavf59.27.100)",
+  "measured_duration_s": 4157.754,
+  "duration_measurements": [
+   {"tool": "PyAV 19.0.2 container + full decode (audio-probe-pyav.json)", "container_duration_s": 4157.754333, "decoded_16k_mono_s": 4157.7543125},
+   {"tool": "faster_whisper.decode_audio with PyAV 15.1.0 (raw/asr/chunks.json total_s)", "decoded_16k_mono_s": 4157.7543125}
+  ],
+  "other_duration_reports": {"itunes_duration": "01:09:17 (4157 s)", "apple_trackTimeMillis": 4157000, "youtube_duration_s": 4158},
+  "stored_in_repo": false,
+  "storage_note": "MP3 kept only in a session scratch directory; not committed. Re-download from final_url and check sha256 before re-running ASR."
+ },
+ "relationship_to_youtube": {
+  "youtube_video_id": "-H0dwGkYmkM",
+  "same_lecture": "INFERRED, NOT PROVEN",
+  "basis": [
+   "identical title 'Ch08-10-Shrimad Bhagavad Gita'",
+   "identical description text 'Shrimad Bhagavad Gita Chapter 08 verses 20 & 21'",
+   "durations agree within 1 s (podcast 4157.754 s, YouTube 4158 s integer)",
+   "podcast pubDate 2026-11-07T00:01:06Z is 24 min before the YouTube publish time 2026-11-07T00:25:16Z"
+  ],
+  "youtube_offset_s": null,
+  "youtube_offset_status": "UNMEASURED: YouTube audio is blocked on this host, so no alignment was attempted",
+  "time_reference_rule": "All transcript timestamps are seconds from the start of the podcast MP3 enclosure. Do not use them as YouTube t= offsets until an offset is measured."
+ },
+ "transcript_link_search": {
+  "newest_item_podcast_transcript": "none (no <podcast:transcript> element in the newest item)",
+  "older_items_with_transcript": {
+   "count": 48,
+   "of": 182,
+   "newest_with_transcript": "Ch05-12-Shrimad Bhagavad Gita (feed index 70, pubDate Thu, 18 Jun 2026 02:51:44 GMT)",
+   "oldest_with_transcript": "Ch03-20-Shrimad Bhagavad Gita (feed index 117, pubDate Sat, 21 Mar 2026 00:18:20 GMT)",
+   "format": "application/x-subrip from transcript-files.spotifycdn.com",
+   "list": "feed-items-with-podcast-transcript.json",
+   "sample_fetch": "The Ch05-12 SRT was fetched once (HTTP 200, 75743 bytes, sha256 43edac682888872bf6049dd2233ecf32b73f7d8a821ede677d6fa55384d74a75; headers in older-episode-srt-ch05-12.headers.txt). It is a different lecture and is not stored here."
+  },
+  "apple_podcasts": {
+   "collectionId": 1861462827,
+   "episode_trackId": 1000800326244,
+   "episode_url": "https://podcasts.apple.com/us/podcast/ch08-10-shrimad-bhagavad-gita/id1861462827?i=1000800326244",
+   "lookup_episodeGuid": "162b8ae8-9ce2-4e5b-92a5-732d2547b1e1",
+   "lookup_file": "apple-itunes-lookup.json (verbatim copy; the exact lookup query URL was not recorded in scratch)",
+   "episode_page_sha256": "f159460f85796a583facee0595cc079f78d151f3256091121caad01e3f5f6119",
+   "finding": "episode page HTML contains \"transcriptInfo\":null (3 occurrences); no transcript offered"
+  },
+  "spotify": {
+   "pages_checked": [
+    {"url": "https://creators.spotify.com/pod/profile/aurobind76/episodes/Ch08-10-Shrimad-Bhagavad-Gita-e3ru374", "sha256": "1b79690d1e66a8d39cfc82d16e64eaa011dae1a40c53ac2761103948bc107cd0", "html_title": "Brand Logo"},
+    {"url": "https://open.spotify.com/episode/2gfMWWs4mMA6rv8ZKgR6wG", "sha256": "32ec7ce10315eeb8514340896dcd8ed9be67912b342bfa6e2ea757aba3fa290a", "html_title": "Ch08-10-Shrimad Bhagavad Gita | Listen to the Podcast on Spotify"}
+   ],
+   "finding": "no transcript marker in the fetched HTML; both pages are client-rendered, so this is not conclusive"
+  },
+  "pages_fetched_utc": "2026-11-09T01:00:33Z to 01:01:05Z (file mtimes in scratch)"
+ },
+ "files": {
+  "feed-newest-item.xml": "verbatim bytes of the newest <item> from the feed snapshot",
+  "feed-channel-header.xml": "verbatim bytes of the feed before the first <item> (channel metadata)",
+  "feed-fetch-1.headers.txt": "HTTP response headers, first feed fetch",
+  "feed-fetch-2-cachebust.headers.txt": "HTTP response headers, cache-busting refetch",
+  "feed-items-with-podcast-transcript.json": "the 48 feed items carrying <podcast:transcript>, derived from the snapshot",
+  "apple-itunes-lookup.json": "verbatim iTunes lookup response",
+  "older-episode-srt-ch05-12.headers.txt": "HTTP headers of the sample SRT fetch for an older episode",
+  "audio-probe-pyav.json": "verbatim PyAV probe of the MP3 (PyAV 19.0.2; ffprobe not installed on host)",
+  "audio-verification-scratch.json": "verbatim scratch summary of the audio verification"
+ }
+}

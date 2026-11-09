@@ -1,0 +1,307 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-1117.79-1150.83-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 1117.79,
+   "dur_s": 33.04,
+   "sample_start": 17884640,
+   "sample_end": 18413280,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-1117.79-1150.83-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "1117.79",
+   "--dur",
+   "33.04",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-1117.79-1150.83-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:29:37.086686+00:00",
+  "run_finished_utc": "2026-11-09T01:30:32.587334+00:00",
+  "model_load_s": 6.28,
+  "transcribe_wall_s": 55.5,
+  "audio_dur_s": 33.04,
+  "realtime_factor": 1.6797
+ },
+ "language": "en",
+ "language_probability": 0.9831746220588684,
+ "duration": 33.04,
+ "duration_after_vad": 33.04,
+ "segments": [
+  {
+   "id": 1,
+   "start": 1117.79,
+   "end": 1130.65,
+   "text": " own words as Anyaha. The Paramartha Bhavaha which is distinct, categorically distinct",
+   "avg_logprob": -0.26943500091632205,
+   "no_speech_prob": 0.024832719936966896,
+   "compression_ratio": 1.0625,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1117.79,
+     "end": 1117.87,
+     "word": " own",
+     "probability": 0.6534
+    },
+    {
+     "start": 1117.87,
+     "end": 1118.37,
+     "word": " words",
+     "probability": 0.994
+    },
+    {
+     "start": 1118.37,
+     "end": 1118.95,
+     "word": " as",
+     "probability": 0.9161
+    },
+    {
+     "start": 1118.95,
+     "end": 1119.59,
+     "word": " Anyaha.",
+     "probability": 0.5037
+    },
+    {
+     "start": 1121.35,
+     "end": 1122.65,
+     "word": " The",
+     "probability": 0.8976
+    },
+    {
+     "start": 1122.65,
+     "end": 1123.39,
+     "word": " Paramartha",
+     "probability": 0.7782
+    },
+    {
+     "start": 1123.39,
+     "end": 1124.11,
+     "word": " Bhavaha",
+     "probability": 0.8803
+    },
+    {
+     "start": 1124.11,
+     "end": 1124.77,
+     "word": " which",
+     "probability": 0.4241
+    },
+    {
+     "start": 1124.77,
+     "end": 1127.89,
+     "word": " is",
+     "probability": 0.9914
+    },
+    {
+     "start": 1127.89,
+     "end": 1128.69,
+     "word": " distinct,",
+     "probability": 0.985
+    },
+    {
+     "start": 1128.93,
+     "end": 1130.21,
+     "word": " categorically",
+     "probability": 0.9902
+    },
+    {
+     "start": 1130.21,
+     "end": 1130.65,
+     "word": " distinct",
+     "probability": 0.9959
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 1130.65,
+   "end": 1149.53,
+   "text": " existing from the Saguna Avyakta. And what is that? That Avyakta is Avyakta Avyakta and Sanatana. There are two words for it.",
+   "avg_logprob": -0.274641905318607,
+   "no_speech_prob": 0.016730232164263725,
+   "compression_ratio": 1.3440860215053763,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1130.65,
+     "end": 1130.81,
+     "word": " existing",
+     "probability": 0.3452
+    },
+    {
+     "start": 1130.81,
+     "end": 1130.95,
+     "word": " from",
+     "probability": 0.9814
+    },
+    {
+     "start": 1130.95,
+     "end": 1131.23,
+     "word": " the",
+     "probability": 0.9569
+    },
+    {
+     "start": 1131.23,
+     "end": 1131.67,
+     "word": " Saguna",
+     "probability": 0.7918
+    },
+    {
+     "start": 1131.67,
+     "end": 1132.41,
+     "word": " Avyakta.",
+     "probability": 0.8248
+    },
+    {
+     "start": 1137.31,
+     "end": 1137.79,
+     "word": " And",
+     "probability": 0.8567
+    },
+    {
+     "start": 1137.79,
+     "end": 1138.03,
+     "word": " what",
+     "probability": 0.9499
+    },
+    {
+     "start": 1138.03,
+     "end": 1138.27,
+     "word": " is",
+     "probability": 0.998
+    },
+    {
+     "start": 1138.27,
+     "end": 1138.51,
+     "word": " that?",
+     "probability": 0.9948
+    },
+    {
+     "start": 1139.71,
+     "end": 1140.19,
+     "word": " That",
+     "probability": 0.9328
+    },
+    {
+     "start": 1140.19,
+     "end": 1140.81,
+     "word": " Avyakta",
+     "probability": 0.9613
+    },
+    {
+     "start": 1140.81,
+     "end": 1141.11,
+     "word": " is",
+     "probability": 0.9882
+    },
+    {
+     "start": 1141.11,
+     "end": 1142.63,
+     "word": " Avyakta",
+     "probability": 0.8219
+    },
+    {
+     "start": 1142.63,
+     "end": 1143.79,
+     "word": " Avyakta",
+     "probability": 0.8321
+    },
+    {
+     "start": 1143.79,
+     "end": 1144.47,
+     "word": " and",
+     "probability": 0.6806
+    },
+    {
+     "start": 1144.47,
+     "end": 1147.89,
+     "word": " Sanatana.",
+     "probability": 0.9421
+    },
+    {
+     "start": 1148.03,
+     "end": 1148.21,
+     "word": " There",
+     "probability": 0.9359
+    },
+    {
+     "start": 1148.21,
+     "end": 1148.35,
+     "word": " are",
+     "probability": 0.9972
+    },
+    {
+     "start": 1148.35,
+     "end": 1148.57,
+     "word": " two",
+     "probability": 0.8948
+    },
+    {
+     "start": 1148.57,
+     "end": 1149.15,
+     "word": " words",
+     "probability": 0.9753
+    },
+    {
+     "start": 1149.15,
+     "end": 1149.31,
+     "word": " for",
+     "probability": 0.9803
+    },
+    {
+     "start": 1149.31,
+     "end": 1149.53,
+     "word": " it.",
+     "probability": 0.9884
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,709 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-73.80-126.60-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 73.8,
+   "dur_s": 52.8,
+   "sample_start": 1180800,
+   "sample_end": 2025600,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-73.80-126.60-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "73.8",
+   "--dur",
+   "52.8",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-73.80-126.60-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:29:37.891802+00:00",
+  "run_finished_utc": "2026-11-09T01:31:03.600271+00:00",
+  "model_load_s": 6.98,
+  "transcribe_wall_s": 85.71,
+  "audio_dur_s": 52.8,
+  "realtime_factor": 1.6232
+ },
+ "language": "en",
+ "language_probability": 0.9983450174331665,
+ "duration": 52.8,
+ "duration_after_vad": 52.8,
+ "segments": [
+  {
+   "id": 1,
+   "start": 73.8,
+   "end": 75.94,
+   "text": " questions and answers after the",
+   "avg_logprob": -0.29607592130962174,
+   "no_speech_prob": 0.001486900495365262,
+   "compression_ratio": 1.3879310344827587,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 73.8,
+     "end": 74.42,
+     "word": " questions",
+     "probability": 0.6813
+    },
+    {
+     "start": 74.42,
+     "end": 75.04,
+     "word": " and",
+     "probability": 0.9965
+    },
+    {
+     "start": 75.04,
+     "end": 75.28,
+     "word": " answers",
+     "probability": 0.9991
+    },
+    {
+     "start": 75.28,
+     "end": 75.68,
+     "word": " after",
+     "probability": 0.9924
+    },
+    {
+     "start": 75.68,
+     "end": 75.94,
+     "word": " the",
+     "probability": 0.9783
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 75.94,
+   "end": 76.36,
+   "text": " talk",
+   "avg_logprob": -0.29607592130962174,
+   "no_speech_prob": 0.001486900495365262,
+   "compression_ratio": 1.3879310344827587,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 75.94,
+     "end": 76.36,
+     "word": " talk",
+     "probability": 0.8795
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 77.12,
+   "end": 79.76,
+   "text": " as always heartfelt thanks to Binduji",
+   "avg_logprob": -0.29607592130962174,
+   "no_speech_prob": 0.001486900495365262,
+   "compression_ratio": 1.3879310344827587,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 77.12,
+     "end": 77.88,
+     "word": " as",
+     "probability": 0.2717
+    },
+    {
+     "start": 77.88,
+     "end": 78.46,
+     "word": " always",
+     "probability": 0.9999
+    },
+    {
+     "start": 78.46,
+     "end": 78.86,
+     "word": " heartfelt",
+     "probability": 0.9369
+    },
+    {
+     "start": 78.86,
+     "end": 79.22,
+     "word": " thanks",
+     "probability": 0.9997
+    },
+    {
+     "start": 79.22,
+     "end": 79.4,
+     "word": " to",
+     "probability": 0.9993
+    },
+    {
+     "start": 79.4,
+     "end": 79.76,
+     "word": " Binduji",
+     "probability": 0.8415
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 79.76,
+   "end": 80.98,
+   "text": " over to you Binduji",
+   "avg_logprob": -0.29607592130962174,
+   "no_speech_prob": 0.001486900495365262,
+   "compression_ratio": 1.3879310344827587,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 79.76,
+     "end": 80.22,
+     "word": " over",
+     "probability": 0.9818
+    },
+    {
+     "start": 80.22,
+     "end": 80.4,
+     "word": " to",
+     "probability": 0.9998
+    },
+    {
+     "start": 80.4,
+     "end": 80.54,
+     "word": " you",
+     "probability": 0.9998
+    },
+    {
+     "start": 80.54,
+     "end": 80.98,
+     "word": " Binduji",
+     "probability": 0.9947
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 82.72,
+   "end": 84.04,
+   "text": " thank you Prakash",
+   "avg_logprob": -0.29607592130962174,
+   "no_speech_prob": 0.001486900495365262,
+   "compression_ratio": 1.3879310344827587,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 82.72,
+     "end": 83.48,
+     "word": " thank",
+     "probability": 0.7449
+    },
+    {
+     "start": 83.48,
+     "end": 83.7,
+     "word": " you",
+     "probability": 0.9987
+    },
+    {
+     "start": 83.7,
+     "end": 84.04,
+     "word": " Prakash",
+     "probability": 0.9978
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 84.04,
+   "end": 86.32,
+   "text": " namaste and hariyam to all of you",
+   "avg_logprob": -0.29607592130962174,
+   "no_speech_prob": 0.001486900495365262,
+   "compression_ratio": 1.3879310344827587,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 84.04,
+     "end": 85.1,
+     "word": " namaste",
+     "probability": 0.8555
+    },
+    {
+     "start": 85.1,
+     "end": 85.32,
+     "word": " and",
+     "probability": 0.9242
+    },
+    {
+     "start": 85.32,
+     "end": 85.74,
+     "word": " hariyam",
+     "probability": 0.5881
+    },
+    {
+     "start": 85.74,
+     "end": 85.84,
+     "word": " to",
+     "probability": 0.9978
+    },
+    {
+     "start": 85.84,
+     "end": 86.0,
+     "word": " all",
+     "probability": 0.9996
+    },
+    {
+     "start": 86.0,
+     "end": 86.14,
+     "word": " of",
+     "probability": 0.9997
+    },
+    {
+     "start": 86.14,
+     "end": 86.32,
+     "word": " you",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 88.84,
+   "end": 90.34,
+   "text": " my invocations",
+   "avg_logprob": -0.29607592130962174,
+   "no_speech_prob": 0.001486900495365262,
+   "compression_ratio": 1.3879310344827587,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 88.84,
+     "end": 89.6,
+     "word": " my",
+     "probability": 0.9856
+    },
+    {
+     "start": 89.6,
+     "end": 90.34,
+     "word": " invocations",
+     "probability": 0.998
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 90.34,
+   "end": 102.88,
+   "text": " Namah Brahmadibhyo Brahmavidya Sampradaya Kartrubhyo Vamshrishubhyo Mahadhyo Namah Gurubhyah",
+   "avg_logprob": -0.3137231084097803,
+   "no_speech_prob": 0.6948280334472656,
+   "compression_ratio": 1.650887573964497,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 90.34,
+     "end": 92.78,
+     "word": " Namah",
+     "probability": 0.4902
+    },
+    {
+     "start": 92.78,
+     "end": 98.5,
+     "word": " Brahmadibhyo",
+     "probability": 0.6152
+    },
+    {
+     "start": 98.5,
+     "end": 99.22,
+     "word": " Brahmavidya",
+     "probability": 0.7712
+    },
+    {
+     "start": 99.22,
+     "end": 99.86,
+     "word": " Sampradaya",
+     "probability": 0.9071
+    },
+    {
+     "start": 99.86,
+     "end": 100.52,
+     "word": " Kartrubhyo",
+     "probability": 0.857
+    },
+    {
+     "start": 100.52,
+     "end": 101.44,
+     "word": " Vamshrishubhyo",
+     "probability": 0.7553
+    },
+    {
+     "start": 101.44,
+     "end": 102.0,
+     "word": " Mahadhyo",
+     "probability": 0.7612
+    },
+    {
+     "start": 102.0,
+     "end": 102.34,
+     "word": " Namah",
+     "probability": 0.9056
+    },
+    {
+     "start": 102.34,
+     "end": 102.88,
+     "word": " Gurubhyah",
+     "probability": 0.9388
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 102.88,
+   "end": 106.74,
+   "text": " Shruti Smriti Purananam Alayam Karunalayam",
+   "avg_logprob": -0.3137231084097803,
+   "no_speech_prob": 0.6948280334472656,
+   "compression_ratio": 1.650887573964497,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 102.88,
+     "end": 104.02,
+     "word": " Shruti",
+     "probability": 0.8638
+    },
+    {
+     "start": 104.02,
+     "end": 104.44,
+     "word": " Smriti",
+     "probability": 0.9423
+    },
+    {
+     "start": 104.44,
+     "end": 105.32,
+     "word": " Purananam",
+     "probability": 0.7936
+    },
+    {
+     "start": 105.32,
+     "end": 105.9,
+     "word": " Alayam",
+     "probability": 0.8723
+    },
+    {
+     "start": 105.9,
+     "end": 106.74,
+     "word": " Karunalayam",
+     "probability": 0.8674
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 106.74,
+   "end": 110.12,
+   "text": " Namah Mi Bhagavat Padam Shankaram Loka Shankaram",
+   "avg_logprob": -0.3137231084097803,
+   "no_speech_prob": 0.6948280334472656,
+   "compression_ratio": 1.650887573964497,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 106.74,
+     "end": 107.5,
+     "word": " Namah",
+     "probability": 0.762
+    },
+    {
+     "start": 107.5,
+     "end": 107.68,
+     "word": " Mi",
+     "probability": 0.4124
+    },
+    {
+     "start": 107.68,
+     "end": 108.04,
+     "word": " Bhagavat",
+     "probability": 0.7136
+    },
+    {
+     "start": 108.04,
+     "end": 108.58,
+     "word": " Padam",
+     "probability": 0.9445
+    },
+    {
+     "start": 108.58,
+     "end": 109.1,
+     "word": " Shankaram",
+     "probability": 0.9795
+    },
+    {
+     "start": 109.1,
+     "end": 109.46,
+     "word": " Loka",
+     "probability": 0.9095
+    },
+    {
+     "start": 109.46,
+     "end": 110.12,
+     "word": " Shankaram",
+     "probability": 0.998
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 110.12,
+   "end": 113.76,
+   "text": " Shankaram Shankaracharyam Keshavam Badarayanam",
+   "avg_logprob": -0.3137231084097803,
+   "no_speech_prob": 0.6948280334472656,
+   "compression_ratio": 1.650887573964497,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 110.12,
+     "end": 111.18,
+     "word": " Shankaram",
+     "probability": 0.998
+    },
+    {
+     "start": 111.18,
+     "end": 112.24,
+     "word": " Shankaracharyam",
+     "probability": 0.9355
+    },
+    {
+     "start": 112.24,
+     "end": 112.76,
+     "word": " Keshavam",
+     "probability": 0.8275
+    },
+    {
+     "start": 112.76,
+     "end": 113.76,
+     "word": " Badarayanam",
+     "probability": 0.8001
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 113.76,
+   "end": 117.48,
+   "text": " Sutrabhashya Krutav Vande Bhagavantav Punapunah",
+   "avg_logprob": -0.3137231084097803,
+   "no_speech_prob": 0.6948280334472656,
+   "compression_ratio": 1.650887573964497,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 113.76,
+     "end": 115.08,
+     "word": " Sutrabhashya",
+     "probability": 0.717
+    },
+    {
+     "start": 115.08,
+     "end": 115.4,
+     "word": " Krutav",
+     "probability": 0.4913
+    },
+    {
+     "start": 115.4,
+     "end": 115.76,
+     "word": " Vande",
+     "probability": 0.8726
+    },
+    {
+     "start": 115.76,
+     "end": 116.64,
+     "word": " Bhagavantav",
+     "probability": 0.7461
+    },
+    {
+     "start": 116.64,
+     "end": 117.48,
+     "word": " Punapunah",
+     "probability": 0.6191
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 117.48,
+   "end": 119.86,
+   "text": " ishwaro guru rathmeti",
+   "avg_logprob": -0.5396512409915095,
+   "no_speech_prob": 0.7488008737564087,
+   "compression_ratio": 1.2133333333333334,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 117.48,
+     "end": 118.76,
+     "word": " ishwaro",
+     "probability": 0.4747
+    },
+    {
+     "start": 118.76,
+     "end": 119.08,
+     "word": " guru",
+     "probability": 0.7974
+    },
+    {
+     "start": 119.08,
+     "end": 119.86,
+     "word": " rathmeti",
+     "probability": 0.7765
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "start": 119.86,
+   "end": 121.44,
+   "text": " murti veda vivagine",
+   "avg_logprob": -0.5396512409915095,
+   "no_speech_prob": 0.7488008737564087,
+   "compression_ratio": 1.2133333333333334,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 119.86,
+     "end": 120.46,
+     "word": " murti",
+     "probability": 0.541
+    },
+    {
+     "start": 120.46,
+     "end": 120.82,
+     "word": " veda",
+     "probability": 0.7424
+    },
+    {
+     "start": 120.82,
+     "end": 121.44,
+     "word": " vivagine",
+     "probability": 0.5981
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "start": 121.44,
+   "end": 123.54,
+   "text": " vyoma vat vyapta deha",
+   "avg_logprob": -0.5396512409915095,
+   "no_speech_prob": 0.7488008737564087,
+   "compression_ratio": 1.2133333333333334,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 121.44,
+     "end": 122.46,
+     "word": " vyoma",
+     "probability": 0.7213
+    },
+    {
+     "start": 122.46,
+     "end": 122.84,
+     "word": " vat",
+     "probability": 0.7346
+    },
+    {
+     "start": 122.84,
+     "end": 123.14,
+     "word": " vyapta",
+     "probability": 0.7962
+    },
+    {
+     "start": 123.14,
+     "end": 123.54,
+     "word": " deha",
+     "probability": 0.4897
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "start": 123.54,
+   "end": 125.62,
+   "text": " yad yaksha namurta ye namah",
+   "avg_logprob": -0.5396512409915095,
+   "no_speech_prob": 0.7488008737564087,
+   "compression_ratio": 1.2133333333333334,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 123.54,
+     "end": 124.04,
+     "word": " yad",
+     "probability": 0.4298
+    },
+    {
+     "start": 124.04,
+     "end": 124.26,
+     "word": " yaksha",
+     "probability": 0.3385
+    },
+    {
+     "start": 124.26,
+     "end": 124.82,
+     "word": " namurta",
+     "probability": 0.708
+    },
+    {
+     "start": 124.82,
+     "end": 125.08,
+     "word": " ye",
+     "probability": 0.6896
+    },
+    {
+     "start": 125.08,
+     "end": 125.62,
+     "word": " namah",
+     "probability": 0.9338
+    }
+   ]
+  }
+ ]
+}

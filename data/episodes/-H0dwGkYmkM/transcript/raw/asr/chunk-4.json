@@ -1,0 +1,5317 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified",
+  "note": "Machine ASR output, not reviewed or corrected. Sanskrit terms and verse text are likely mis-transcribed.",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 1643.95,
+   "dur_s": 418.2
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": true,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64"
+  },
+  "run_started_utc": "2026-11-09T01:00:36.309961+00:00",
+  "run_finished_utc": "2026-11-09T01:12:14.244485+00:00",
+  "model_load_s": 8.52,
+  "transcribe_wall_s": 697.93,
+  "audio_dur_s": 418.2,
+  "realtime_factor": 1.6689
+ },
+ "language": "en",
+ "language_probability": 0.9939882755279541,
+ "all_language_probs_top5": [
+  [
+   "en",
+   0.9939882755279541
+  ],
+  [
+   "te",
+   0.0026419723872095346
+  ],
+  [
+   "ta",
+   0.001876353519037366
+  ],
+  [
+   "hi",
+   0.000774633139371872
+  ],
+  [
+   "sa",
+   0.0002810805453918874
+  ]
+ ],
+ "duration": 418.2,
+ "duration_after_vad": 418.2,
+ "segments": [
+  {
+   "id": 1,
+   "start": 1643.95,
+   "end": 1644.99,
+   "text": " of all",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1643.95,
+     "end": 1644.51,
+     "word": " of",
+     "probability": 0.4817
+    },
+    {
+     "start": 1644.51,
+     "end": 1644.99,
+     "word": " all",
+     "probability": 0.9946
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 1644.99,
+   "end": 1645.79,
+   "text": " kārya kārana.",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1644.99,
+     "end": 1645.51,
+     "word": " kārya",
+     "probability": 0.462
+    },
+    {
+     "start": 1645.51,
+     "end": 1645.79,
+     "word": " kārana.",
+     "probability": 0.8449
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 1647.53,
+   "end": 1649.25,
+   "text": " That is the most important sambandha",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1647.29,
+     "end": 1647.65,
+     "word": " That",
+     "probability": 0.9967
+    },
+    {
+     "start": 1647.65,
+     "end": 1647.79,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 1647.79,
+     "end": 1647.89,
+     "word": " the",
+     "probability": 0.9996
+    },
+    {
+     "start": 1647.89,
+     "end": 1648.11,
+     "word": " most",
+     "probability": 0.9994
+    },
+    {
+     "start": 1648.11,
+     "end": 1648.61,
+     "word": " important",
+     "probability": 0.9997
+    },
+    {
+     "start": 1648.61,
+     "end": 1649.25,
+     "word": " sambandha",
+     "probability": 0.9526
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 1649.25,
+   "end": 1651.37,
+   "text": " which we have to remember for the meditation.",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1649.25,
+     "end": 1649.43,
+     "word": " which",
+     "probability": 0.9705
+    },
+    {
+     "start": 1649.43,
+     "end": 1649.63,
+     "word": " we",
+     "probability": 0.9997
+    },
+    {
+     "start": 1649.63,
+     "end": 1649.77,
+     "word": " have",
+     "probability": 0.9697
+    },
+    {
+     "start": 1649.77,
+     "end": 1649.93,
+     "word": " to",
+     "probability": 0.9999
+    },
+    {
+     "start": 1649.93,
+     "end": 1650.17,
+     "word": " remember",
+     "probability": 0.9998
+    },
+    {
+     "start": 1650.17,
+     "end": 1650.53,
+     "word": " for",
+     "probability": 0.9994
+    },
+    {
+     "start": 1650.53,
+     "end": 1650.81,
+     "word": " the",
+     "probability": 0.9956
+    },
+    {
+     "start": 1650.81,
+     "end": 1651.37,
+     "word": " meditation.",
+     "probability": 0.9992
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 1652.47,
+   "end": 1653.19,
+   "text": " The",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1652.47,
+     "end": 1653.19,
+     "word": " The",
+     "probability": 0.9967
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 1653.19,
+   "end": 1654.85,
+   "text": " saguna vyakta is the",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1653.19,
+     "end": 1653.71,
+     "word": " saguna",
+     "probability": 0.795
+    },
+    {
+     "start": 1653.71,
+     "end": 1654.11,
+     "word": " vyakta",
+     "probability": 0.6592
+    },
+    {
+     "start": 1654.11,
+     "end": 1654.47,
+     "word": " is",
+     "probability": 0.9977
+    },
+    {
+     "start": 1654.47,
+     "end": 1654.85,
+     "word": " the",
+     "probability": 0.9988
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 1657.59,
+   "end": 1659.29,
+   "text": " maya, within the maya",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1657.59,
+     "end": 1658.31,
+     "word": " maya,",
+     "probability": 0.8033
+    },
+    {
+     "start": 1658.31,
+     "end": 1658.67,
+     "word": " within",
+     "probability": 0.9972
+    },
+    {
+     "start": 1658.67,
+     "end": 1658.89,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 1658.89,
+     "end": 1659.29,
+     "word": " maya",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 1659.93,
+   "end": 1661.23,
+   "text": " creating the cause and",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1659.87,
+     "end": 1660.23,
+     "word": " creating",
+     "probability": 0.3902
+    },
+    {
+     "start": 1660.23,
+     "end": 1660.75,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 1660.75,
+     "end": 1661.01,
+     "word": " cause",
+     "probability": 0.9996
+    },
+    {
+     "start": 1661.01,
+     "end": 1661.23,
+     "word": " and",
+     "probability": 0.9986
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 1661.23,
+   "end": 1661.81,
+   "text": " effect meaning.",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1661.23,
+     "end": 1661.43,
+     "word": " effect",
+     "probability": 0.9995
+    },
+    {
+     "start": 1661.43,
+     "end": 1661.81,
+     "word": " meaning.",
+     "probability": 0.9976
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 1663.75,
+   "end": 1665.47,
+   "text": " That is the saguna vyakta.",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1663.75,
+     "end": 1664.47,
+     "word": " That",
+     "probability": 0.999
+    },
+    {
+     "start": 1664.47,
+     "end": 1664.63,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 1664.63,
+     "end": 1664.79,
+     "word": " the",
+     "probability": 0.9995
+    },
+    {
+     "start": 1664.79,
+     "end": 1665.07,
+     "word": " saguna",
+     "probability": 0.9989
+    },
+    {
+     "start": 1665.07,
+     "end": 1665.47,
+     "word": " vyakta.",
+     "probability": 0.9986
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 1666.65,
+   "end": 1667.37,
+   "text": " Whereas",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1666.65,
+     "end": 1667.37,
+     "word": " Whereas",
+     "probability": 0.9967
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 1667.37,
+   "end": 1669.39,
+   "text": " all the cause and effect",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1667.37,
+     "end": 1668.15,
+     "word": " all",
+     "probability": 0.6612
+    },
+    {
+     "start": 1668.15,
+     "end": 1668.57,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 1668.57,
+     "end": 1668.83,
+     "word": " cause",
+     "probability": 0.9998
+    },
+    {
+     "start": 1668.83,
+     "end": 1669.07,
+     "word": " and",
+     "probability": 0.9999
+    },
+    {
+     "start": 1669.07,
+     "end": 1669.39,
+     "word": " effect",
+     "probability": 0.9988
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 1669.39,
+   "end": 1671.13,
+   "text": " appears to be taking",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1669.39,
+     "end": 1670.09,
+     "word": " appears",
+     "probability": 0.9988
+    },
+    {
+     "start": 1670.09,
+     "end": 1670.57,
+     "word": " to",
+     "probability": 0.9999
+    },
+    {
+     "start": 1670.57,
+     "end": 1670.75,
+     "word": " be",
+     "probability": 0.9999
+    },
+    {
+     "start": 1670.75,
+     "end": 1671.13,
+     "word": " taking",
+     "probability": 0.9989
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "start": 1671.13,
+   "end": 1673.35,
+   "text": " place on the",
+   "avg_logprob": -0.31328947286979825,
+   "no_speech_prob": 0.0026491545140743256,
+   "compression_ratio": 1.6764705882352942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1671.13,
+     "end": 1671.65,
+     "word": " place",
+     "probability": 0.9997
+    },
+    {
+     "start": 1671.65,
+     "end": 1673.07,
+     "word": " on",
+     "probability": 0.9981
+    },
+    {
+     "start": 1673.07,
+     "end": 1673.35,
+     "word": " the",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "start": 1673.35,
+   "end": 1675.15,
+   "text": " substratum which is the pure",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1673.35,
+     "end": 1674.27,
+     "word": " substratum",
+     "probability": 0.6647
+    },
+    {
+     "start": 1674.27,
+     "end": 1674.49,
+     "word": " which",
+     "probability": 0.8971
+    },
+    {
+     "start": 1674.49,
+     "end": 1674.71,
+     "word": " is",
+     "probability": 0.9978
+    },
+    {
+     "start": 1674.71,
+     "end": 1674.87,
+     "word": " the",
+     "probability": 0.9613
+    },
+    {
+     "start": 1674.87,
+     "end": 1675.15,
+     "word": " pure",
+     "probability": 0.9598
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "start": 1675.15,
+   "end": 1675.69,
+   "text": " avyakta.",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1675.15,
+     "end": 1675.69,
+     "word": " avyakta.",
+     "probability": 0.8564
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "start": 1678.49,
+   "end": 1679.21,
+   "text": " Therefore",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1678.49,
+     "end": 1679.21,
+     "word": " Therefore",
+     "probability": 0.9753
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "start": 1681.71,
+   "end": 1683.15,
+   "text": " avyakto avyakta",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1681.71,
+     "end": 1682.43,
+     "word": " avyakto",
+     "probability": 0.7635
+    },
+    {
+     "start": 1682.43,
+     "end": 1683.15,
+     "word": " avyakta",
+     "probability": 0.9162
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "start": 1683.15,
+   "end": 1684.17,
+   "text": " avyaktad.",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1683.15,
+     "end": 1684.17,
+     "word": " avyaktad.",
+     "probability": 0.6827
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "start": 1685.01,
+   "end": 1687.09,
+   "text": " Shankaracharya notes that the same word",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1685.01,
+     "end": 1685.73,
+     "word": " Shankaracharya",
+     "probability": 0.9807
+    },
+    {
+     "start": 1685.73,
+     "end": 1686.05,
+     "word": " notes",
+     "probability": 0.8388
+    },
+    {
+     "start": 1686.05,
+     "end": 1686.31,
+     "word": " that",
+     "probability": 0.9961
+    },
+    {
+     "start": 1686.31,
+     "end": 1686.49,
+     "word": " the",
+     "probability": 0.9901
+    },
+    {
+     "start": 1686.49,
+     "end": 1686.77,
+     "word": " same",
+     "probability": 0.9991
+    },
+    {
+     "start": 1686.77,
+     "end": 1687.09,
+     "word": " word",
+     "probability": 0.9959
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "start": 1687.09,
+   "end": 1689.19,
+   "text": " avyakta applies to both the realities.",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1687.09,
+     "end": 1687.63,
+     "word": " avyakta",
+     "probability": 0.9957
+    },
+    {
+     "start": 1687.63,
+     "end": 1687.89,
+     "word": " applies",
+     "probability": 0.9975
+    },
+    {
+     "start": 1687.89,
+     "end": 1688.27,
+     "word": " to",
+     "probability": 0.9995
+    },
+    {
+     "start": 1688.27,
+     "end": 1688.55,
+     "word": " both",
+     "probability": 0.9993
+    },
+    {
+     "start": 1688.55,
+     "end": 1688.73,
+     "word": " the",
+     "probability": 0.9874
+    },
+    {
+     "start": 1688.73,
+     "end": 1689.19,
+     "word": " realities.",
+     "probability": 0.9991
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "start": 1689.87,
+   "end": 1690.95,
+   "text": " The saguna",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1689.87,
+     "end": 1690.59,
+     "word": " The",
+     "probability": 0.9923
+    },
+    {
+     "start": 1690.59,
+     "end": 1690.95,
+     "word": " saguna",
+     "probability": 0.9387
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "start": 1690.95,
+   "end": 1693.41,
+   "text": " maya kārana and the nirguna paramatman.",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1690.95,
+     "end": 1691.37,
+     "word": " maya",
+     "probability": 0.9164
+    },
+    {
+     "start": 1691.37,
+     "end": 1691.83,
+     "word": " kārana",
+     "probability": 0.4193
+    },
+    {
+     "start": 1691.83,
+     "end": 1692.19,
+     "word": " and",
+     "probability": 0.9981
+    },
+    {
+     "start": 1692.19,
+     "end": 1692.33,
+     "word": " the",
+     "probability": 0.9943
+    },
+    {
+     "start": 1692.33,
+     "end": 1692.77,
+     "word": " nirguna",
+     "probability": 0.9908
+    },
+    {
+     "start": 1692.77,
+     "end": 1693.41,
+     "word": " paramatman.",
+     "probability": 0.6095
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "start": 1694.65,
+   "end": 1695.17,
+   "text": " And that",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1694.49,
+     "end": 1694.85,
+     "word": " And",
+     "probability": 0.9925
+    },
+    {
+     "start": 1694.85,
+     "end": 1695.17,
+     "word": " that",
+     "probability": 0.9992
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "start": 1695.17,
+   "end": 1695.63,
+   "text": " is the",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1695.17,
+     "end": 1695.43,
+     "word": " is",
+     "probability": 0.9998
+    },
+    {
+     "start": 1695.43,
+     "end": 1695.63,
+     "word": " the",
+     "probability": 0.9988
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "start": 1696.57,
+   "end": 1699.23,
+   "text": " samanya nama, shared name",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1696.57,
+     "end": 1697.29,
+     "word": " samanya",
+     "probability": 0.6162
+    },
+    {
+     "start": 1697.29,
+     "end": 1697.85,
+     "word": " nama,",
+     "probability": 0.7448
+    },
+    {
+     "start": 1697.97,
+     "end": 1698.79,
+     "word": " shared",
+     "probability": 0.9932
+    },
+    {
+     "start": 1698.79,
+     "end": 1699.23,
+     "word": " name",
+     "probability": 0.9971
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "start": 1699.23,
+   "end": 1701.55,
+   "text": " by itself, pedagogically",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1699.23,
+     "end": 1699.53,
+     "word": " by",
+     "probability": 0.999
+    },
+    {
+     "start": 1699.53,
+     "end": 1699.97,
+     "word": " itself,",
+     "probability": 0.9998
+    },
+    {
+     "start": 1700.21,
+     "end": 1701.55,
+     "word": " pedagogically",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "start": 1701.55,
+   "end": 1702.29,
+   "text": " significant.",
+   "avg_logprob": -0.23409182937549694,
+   "no_speech_prob": 4.905805781163508e-06,
+   "compression_ratio": 1.5604395604395604,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1701.55,
+     "end": 1702.29,
+     "word": " significant.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "start": 1703.35,
+   "end": 1705.21,
+   "text": " The Upanishadic tradition",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1703.35,
+     "end": 1704.17,
+     "word": " The",
+     "probability": 0.9633
+    },
+    {
+     "start": 1704.17,
+     "end": 1704.79,
+     "word": " Upanishadic",
+     "probability": 0.9967
+    },
+    {
+     "start": 1704.79,
+     "end": 1705.21,
+     "word": " tradition",
+     "probability": 0.9978
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "start": 1705.21,
+   "end": 1707.23,
+   "text": " uses avyakta for brahman",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1705.21,
+     "end": 1705.81,
+     "word": " uses",
+     "probability": 0.999
+    },
+    {
+     "start": 1705.81,
+     "end": 1706.43,
+     "word": " avyakta",
+     "probability": 0.8206
+    },
+    {
+     "start": 1706.43,
+     "end": 1706.71,
+     "word": " for",
+     "probability": 0.9993
+    },
+    {
+     "start": 1706.71,
+     "end": 1707.23,
+     "word": " brahman",
+     "probability": 0.6652
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "start": 1707.23,
+   "end": 1709.37,
+   "text": " akshara because brahman",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1707.23,
+     "end": 1707.73,
+     "word": " akshara",
+     "probability": 0.7874
+    },
+    {
+     "start": 1707.73,
+     "end": 1708.65,
+     "word": " because",
+     "probability": 0.9712
+    },
+    {
+     "start": 1708.65,
+     "end": 1709.37,
+     "word": " brahman",
+     "probability": 0.996
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "start": 1709.37,
+   "end": 1711.49,
+   "text": " is avyakta in the sense",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1709.37,
+     "end": 1709.73,
+     "word": " is",
+     "probability": 0.9996
+    },
+    {
+     "start": 1709.73,
+     "end": 1710.41,
+     "word": " avyakta",
+     "probability": 0.9992
+    },
+    {
+     "start": 1710.41,
+     "end": 1710.97,
+     "word": " in",
+     "probability": 0.9956
+    },
+    {
+     "start": 1710.97,
+     "end": 1711.11,
+     "word": " the",
+     "probability": 0.9995
+    },
+    {
+     "start": 1711.11,
+     "end": 1711.49,
+     "word": " sense",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "start": 1711.49,
+   "end": 1713.35,
+   "text": " of being inexpressible",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1711.49,
+     "end": 1711.67,
+     "word": " of",
+     "probability": 0.9998
+    },
+    {
+     "start": 1711.67,
+     "end": 1712.03,
+     "word": " being",
+     "probability": 0.9997
+    },
+    {
+     "start": 1712.03,
+     "end": 1713.35,
+     "word": " inexpressible",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "start": 1713.95,
+   "end": 1715.19,
+   "text": " by name and form.",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1713.95,
+     "end": 1714.35,
+     "word": " by",
+     "probability": 0.9997
+    },
+    {
+     "start": 1714.35,
+     "end": 1714.73,
+     "word": " name",
+     "probability": 0.9997
+    },
+    {
+     "start": 1714.73,
+     "end": 1714.91,
+     "word": " and",
+     "probability": 0.9992
+    },
+    {
+     "start": 1714.91,
+     "end": 1715.19,
+     "word": " form.",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "start": 1715.25,
+   "end": 1716.67,
+   "text": " Nama rūpa vivarjita.",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1715.25,
+     "end": 1715.67,
+     "word": " Nama",
+     "probability": 0.7616
+    },
+    {
+     "start": 1715.67,
+     "end": 1716.03,
+     "word": " rūpa",
+     "probability": 0.3522
+    },
+    {
+     "start": 1716.03,
+     "end": 1716.67,
+     "word": " vivarjita.",
+     "probability": 0.7568
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "start": 1719.85,
+   "end": 1721.19,
+   "text": " The saguna avyakta shares",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1719.53,
+     "end": 1719.95,
+     "word": " The",
+     "probability": 0.9992
+    },
+    {
+     "start": 1719.95,
+     "end": 1720.29,
+     "word": " saguna",
+     "probability": 0.8561
+    },
+    {
+     "start": 1720.29,
+     "end": 1720.77,
+     "word": " avyakta",
+     "probability": 0.9981
+    },
+    {
+     "start": 1720.77,
+     "end": 1721.19,
+     "word": " shares",
+     "probability": 0.9976
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "start": 1721.19,
+   "end": 1722.83,
+   "text": " the name only because",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1721.19,
+     "end": 1721.59,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 1721.59,
+     "end": 1721.91,
+     "word": " name",
+     "probability": 0.9998
+    },
+    {
+     "start": 1721.91,
+     "end": 1722.29,
+     "word": " only",
+     "probability": 0.9998
+    },
+    {
+     "start": 1722.29,
+     "end": 1722.83,
+     "word": " because",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "start": 1722.83,
+   "end": 1724.67,
+   "text": " it is the closest",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1722.83,
+     "end": 1723.63,
+     "word": " it",
+     "probability": 0.9998
+    },
+    {
+     "start": 1723.63,
+     "end": 1723.85,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 1723.85,
+     "end": 1724.07,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 1724.07,
+     "end": 1724.67,
+     "word": " closest",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "start": 1724.67,
+   "end": 1726.23,
+   "text": " saguna approximation",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1724.67,
+     "end": 1725.49,
+     "word": " saguna",
+     "probability": 0.9802
+    },
+    {
+     "start": 1725.49,
+     "end": 1726.23,
+     "word": " approximation",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "start": 1728.33,
+   "end": 1729.29,
+   "text": " to the",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1728.33,
+     "end": 1729.17,
+     "word": " to",
+     "probability": 0.9657
+    },
+    {
+     "start": 1729.17,
+     "end": 1729.29,
+     "word": " the",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "start": 1729.29,
+   "end": 1730.53,
+   "text": " absolute avyakta.",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1729.29,
+     "end": 1729.77,
+     "word": " absolute",
+     "probability": 0.9901
+    },
+    {
+     "start": 1729.77,
+     "end": 1730.53,
+     "word": " avyakta.",
+     "probability": 0.9993
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "start": 1731.79,
+   "end": 1733.11,
+   "text": " It is not",
+   "avg_logprob": -0.1940800436518409,
+   "no_speech_prob": 0.0003504893684294075,
+   "compression_ratio": 1.5898876404494382,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1731.79,
+     "end": 1732.63,
+     "word": " It",
+     "probability": 0.9931
+    },
+    {
+     "start": 1732.63,
+     "end": 1732.77,
+     "word": " is",
+     "probability": 0.9997
+    },
+    {
+     "start": 1732.77,
+     "end": 1733.11,
+     "word": " not",
+     "probability": 0.9986
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "start": 1733.11,
+   "end": 1735.37,
+   "text": " actually the absolute avyakta",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1733.11,
+     "end": 1733.39,
+     "word": " actually",
+     "probability": 0.4896
+    },
+    {
+     "start": 1733.39,
+     "end": 1733.87,
+     "word": " the",
+     "probability": 0.9862
+    },
+    {
+     "start": 1733.87,
+     "end": 1734.83,
+     "word": " absolute",
+     "probability": 0.8796
+    },
+    {
+     "start": 1734.83,
+     "end": 1735.37,
+     "word": " avyakta",
+     "probability": 0.7932
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "start": 1735.37,
+   "end": 1736.99,
+   "text": " but is the closest.",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1735.37,
+     "end": 1735.83,
+     "word": " but",
+     "probability": 0.8342
+    },
+    {
+     "start": 1735.83,
+     "end": 1736.27,
+     "word": " is",
+     "probability": 0.9388
+    },
+    {
+     "start": 1736.27,
+     "end": 1736.43,
+     "word": " the",
+     "probability": 0.9875
+    },
+    {
+     "start": 1736.43,
+     "end": 1736.99,
+     "word": " closest.",
+     "probability": 0.9937
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "start": 1741.43,
+   "end": 1742.87,
+   "text": " The discrimination",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1741.43,
+     "end": 1742.27,
+     "word": " The",
+     "probability": 0.891
+    },
+    {
+     "start": 1742.27,
+     "end": 1742.87,
+     "word": " discrimination",
+     "probability": 0.9926
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "start": 1742.87,
+   "end": 1745.09,
+   "text": " of this world's task",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1742.87,
+     "end": 1744.07,
+     "word": " of",
+     "probability": 0.9971
+    },
+    {
+     "start": 1744.07,
+     "end": 1744.37,
+     "word": " this",
+     "probability": 0.9951
+    },
+    {
+     "start": 1744.37,
+     "end": 1744.81,
+     "word": " world's",
+     "probability": 0.8632
+    },
+    {
+     "start": 1744.81,
+     "end": 1745.09,
+     "word": " task",
+     "probability": 0.9891
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "start": 1745.09,
+   "end": 1747.07,
+   "text": " is to discriminate the original",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1745.09,
+     "end": 1745.41,
+     "word": " is",
+     "probability": 0.9976
+    },
+    {
+     "start": 1745.41,
+     "end": 1745.57,
+     "word": " to",
+     "probability": 0.9967
+    },
+    {
+     "start": 1745.57,
+     "end": 1746.15,
+     "word": " discriminate",
+     "probability": 0.9932
+    },
+    {
+     "start": 1746.15,
+     "end": 1746.59,
+     "word": " the",
+     "probability": 0.9968
+    },
+    {
+     "start": 1746.59,
+     "end": 1747.07,
+     "word": " original",
+     "probability": 0.9883
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "start": 1747.07,
+   "end": 1748.27,
+   "text": " from the approximation.",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1747.07,
+     "end": 1747.45,
+     "word": " from",
+     "probability": 0.9966
+    },
+    {
+     "start": 1747.45,
+     "end": 1747.71,
+     "word": " the",
+     "probability": 0.9986
+    },
+    {
+     "start": 1747.71,
+     "end": 1748.27,
+     "word": " approximation.",
+     "probability": 0.9956
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "start": 1750.37,
+   "end": 1751.41,
+   "text": " That is",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1750.37,
+     "end": 1751.21,
+     "word": " That",
+     "probability": 0.9407
+    },
+    {
+     "start": 1751.21,
+     "end": 1751.41,
+     "word": " is",
+     "probability": 0.9985
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "start": 1751.41,
+   "end": 1752.99,
+   "text": " the real avyakta from the",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1751.41,
+     "end": 1751.57,
+     "word": " the",
+     "probability": 0.8974
+    },
+    {
+     "start": 1751.57,
+     "end": 1751.91,
+     "word": " real",
+     "probability": 0.9936
+    },
+    {
+     "start": 1751.91,
+     "end": 1752.37,
+     "word": " avyakta",
+     "probability": 0.9732
+    },
+    {
+     "start": 1752.37,
+     "end": 1752.65,
+     "word": " from",
+     "probability": 0.9791
+    },
+    {
+     "start": 1752.65,
+     "end": 1752.99,
+     "word": " the",
+     "probability": 0.9855
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "start": 1754.21,
+   "end": 1755.57,
+   "text": " avyakta samshyaka",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1754.21,
+     "end": 1755.05,
+     "word": " avyakta",
+     "probability": 0.9644
+    },
+    {
+     "start": 1755.05,
+     "end": 1755.57,
+     "word": " samshyaka",
+     "probability": 0.7232
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "start": 1755.57,
+   "end": 1756.89,
+   "text": " or the saguna avyakta.",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1755.57,
+     "end": 1755.91,
+     "word": " or",
+     "probability": 0.9643
+    },
+    {
+     "start": 1755.91,
+     "end": 1756.13,
+     "word": " the",
+     "probability": 0.9771
+    },
+    {
+     "start": 1756.13,
+     "end": 1756.47,
+     "word": " saguna",
+     "probability": 0.8685
+    },
+    {
+     "start": 1756.47,
+     "end": 1756.89,
+     "word": " avyakta.",
+     "probability": 0.9818
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "start": 1757.65,
+   "end": 1758.49,
+   "text": " Why?",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1757.65,
+     "end": 1758.49,
+     "word": " Why?",
+     "probability": 0.9576
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "start": 1759.69,
+   "end": 1760.53,
+   "text": " Because",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1759.69,
+     "end": 1760.53,
+     "word": " Because",
+     "probability": 0.9707
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "start": 1760.53,
+   "end": 1762.99,
+   "text": " the nirguna avyakta is",
+   "avg_logprob": -0.30171820678209005,
+   "no_speech_prob": 0.007312533911317587,
+   "compression_ratio": 1.673202614379085,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1760.53,
+     "end": 1761.33,
+     "word": " the",
+     "probability": 0.9668
+    },
+    {
+     "start": 1761.33,
+     "end": 1762.29,
+     "word": " nirguna",
+     "probability": 0.9702
+    },
+    {
+     "start": 1762.29,
+     "end": 1762.71,
+     "word": " avyakta",
+     "probability": 0.9963
+    },
+    {
+     "start": 1762.71,
+     "end": 1762.99,
+     "word": " is",
+     "probability": 0.9927
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "start": 1763.11,
+   "end": 1763.65,
+   "text": " sanātana.",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1763.11,
+     "end": 1763.65,
+     "word": " sanātana.",
+     "probability": 0.4744
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "start": 1766.91,
+   "end": 1767.11,
+   "text": " Always.",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1766.91,
+     "end": 1767.28,
+     "word": " Always.",
+     "probability": 0.8411
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "start": 1768.01,
+   "end": 1769.01,
+   "text": " Sanātana means",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1768.01,
+     "end": 1768.75,
+     "word": " Sanātana",
+     "probability": 0.9519
+    },
+    {
+     "start": 1768.75,
+     "end": 1769.01,
+     "word": " means",
+     "probability": 0.9976
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "start": 1769.01,
+   "end": 1769.43,
+   "text": " always.",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1769.01,
+     "end": 1769.43,
+     "word": " always.",
+     "probability": 0.9886
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "start": 1773.05,
+   "end": 1773.11,
+   "text": " Eternal,",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1773.05,
+     "end": 1773.42,
+     "word": " Eternal,",
+     "probability": 0.9788
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "start": 1774.35,
+   "end": 1775.09,
+   "text": " primordial.",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1774.35,
+     "end": 1775.09,
+     "word": " primordial.",
+     "probability": 0.9947
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "start": 1775.21,
+   "end": 1776.95,
+   "text": " The ancient that is",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1775.21,
+     "end": 1775.95,
+     "word": " The",
+     "probability": 0.9949
+    },
+    {
+     "start": 1775.95,
+     "end": 1776.37,
+     "word": " ancient",
+     "probability": 0.9772
+    },
+    {
+     "start": 1776.37,
+     "end": 1776.75,
+     "word": " that",
+     "probability": 0.9781
+    },
+    {
+     "start": 1776.75,
+     "end": 1776.95,
+     "word": " is",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "start": 1776.95,
+   "end": 1779.07,
+   "text": " always new without a beginning",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1776.95,
+     "end": 1777.31,
+     "word": " always",
+     "probability": 0.9997
+    },
+    {
+     "start": 1777.31,
+     "end": 1777.71,
+     "word": " new",
+     "probability": 0.995
+    },
+    {
+     "start": 1777.71,
+     "end": 1778.49,
+     "word": " without",
+     "probability": 0.7542
+    },
+    {
+     "start": 1778.49,
+     "end": 1778.77,
+     "word": " a",
+     "probability": 0.9979
+    },
+    {
+     "start": 1778.77,
+     "end": 1779.07,
+     "word": " beginning",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "start": 1779.07,
+   "end": 1779.85,
+   "text": " or an end.",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1779.07,
+     "end": 1779.39,
+     "word": " or",
+     "probability": 0.9982
+    },
+    {
+     "start": 1779.39,
+     "end": 1779.61,
+     "word": " an",
+     "probability": 0.9945
+    },
+    {
+     "start": 1779.61,
+     "end": 1779.85,
+     "word": " end.",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "start": 1781.21,
+   "end": 1782.69,
+   "text": " Sanātana nityaha",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1781.21,
+     "end": 1781.95,
+     "word": " Sanātana",
+     "probability": 0.986
+    },
+    {
+     "start": 1781.95,
+     "end": 1782.69,
+     "word": " nityaha",
+     "probability": 0.7055
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "start": 1782.69,
+   "end": 1783.99,
+   "text": " eternal, permanent.",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1782.69,
+     "end": 1783.27,
+     "word": " eternal,",
+     "probability": 0.7807
+    },
+    {
+     "start": 1783.53,
+     "end": 1783.99,
+     "word": " permanent.",
+     "probability": 0.9969
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "start": 1785.29,
+   "end": 1787.23,
+   "text": " The sanātana is the term",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1785.29,
+     "end": 1786.03,
+     "word": " The",
+     "probability": 0.9473
+    },
+    {
+     "start": 1786.03,
+     "end": 1786.47,
+     "word": " sanātana",
+     "probability": 0.966
+    },
+    {
+     "start": 1786.47,
+     "end": 1786.77,
+     "word": " is",
+     "probability": 0.9988
+    },
+    {
+     "start": 1786.77,
+     "end": 1786.89,
+     "word": " the",
+     "probability": 0.9621
+    },
+    {
+     "start": 1786.89,
+     "end": 1787.23,
+     "word": " term",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "start": 1787.23,
+   "end": 1789.03,
+   "text": " used in the Rig Veda.",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1787.23,
+     "end": 1787.45,
+     "word": " used",
+     "probability": 0.9989
+    },
+    {
+     "start": 1787.45,
+     "end": 1788.29,
+     "word": " in",
+     "probability": 0.9993
+    },
+    {
+     "start": 1788.29,
+     "end": 1788.45,
+     "word": " the",
+     "probability": 0.9983
+    },
+    {
+     "start": 1788.45,
+     "end": 1788.63,
+     "word": " Rig",
+     "probability": 0.9652
+    },
+    {
+     "start": 1788.63,
+     "end": 1789.03,
+     "word": " Veda.",
+     "probability": 0.9272
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "start": 1790.03,
+   "end": 1791.05,
+   "text": " For the",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1790.03,
+     "end": 1790.77,
+     "word": " For",
+     "probability": 0.9898
+    },
+    {
+     "start": 1790.77,
+     "end": 1791.05,
+     "word": " the",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "start": 1791.05,
+   "end": 1792.95,
+   "text": " primordial cosmic order,",
+   "avg_logprob": -0.25891307817429915,
+   "no_speech_prob": 0.001536670490168035,
+   "compression_ratio": 1.564102564102564,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1791.05,
+     "end": 1792.03,
+     "word": " primordial",
+     "probability": 0.9981
+    },
+    {
+     "start": 1792.03,
+     "end": 1792.43,
+     "word": " cosmic",
+     "probability": 0.982
+    },
+    {
+     "start": 1792.43,
+     "end": 1792.95,
+     "word": " order,",
+     "probability": 0.8745
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "start": 1793.11,
+   "end": 1793.37,
+   "text": " the ruta.",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1793.11,
+     "end": 1793.19,
+     "word": " the",
+     "probability": 0.1307
+    },
+    {
+     "start": 1793.19,
+     "end": 1793.37,
+     "word": " ruta.",
+     "probability": 0.2319
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "start": 1795.75,
+   "end": 1797.21,
+   "text": " The sanātana",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1795.75,
+     "end": 1796.67,
+     "word": " The",
+     "probability": 0.9111
+    },
+    {
+     "start": 1796.67,
+     "end": 1797.21,
+     "word": " sanātana",
+     "probability": 0.6414
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "start": 1797.21,
+   "end": 1798.61,
+   "text": " dharma that underlies",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1797.21,
+     "end": 1797.59,
+     "word": " dharma",
+     "probability": 0.9033
+    },
+    {
+     "start": 1797.59,
+     "end": 1797.91,
+     "word": " that",
+     "probability": 0.9799
+    },
+    {
+     "start": 1797.91,
+     "end": 1798.61,
+     "word": " underlies",
+     "probability": 0.9921
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "start": 1798.61,
+   "end": 1799.93,
+   "text": " all existences.",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1798.61,
+     "end": 1798.99,
+     "word": " all",
+     "probability": 0.9983
+    },
+    {
+     "start": 1798.99,
+     "end": 1799.93,
+     "word": " existences.",
+     "probability": 0.9871
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "start": 1802.03,
+   "end": 1802.95,
+   "text": " It",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1802.03,
+     "end": 1802.95,
+     "word": " It",
+     "probability": 0.9658
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "start": 1802.95,
+   "end": 1804.51,
+   "text": " designates the akshara brahman",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1802.95,
+     "end": 1803.53,
+     "word": " designates",
+     "probability": 0.9276
+    },
+    {
+     "start": 1803.53,
+     "end": 1803.73,
+     "word": " the",
+     "probability": 0.9911
+    },
+    {
+     "start": 1803.73,
+     "end": 1804.03,
+     "word": " akshara",
+     "probability": 0.932
+    },
+    {
+     "start": 1804.03,
+     "end": 1804.51,
+     "word": " brahman",
+     "probability": 0.6553
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "start": 1804.51,
+   "end": 1806.63,
+   "text": " in this verse as sanātana",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1804.51,
+     "end": 1804.83,
+     "word": " in",
+     "probability": 0.9429
+    },
+    {
+     "start": 1804.83,
+     "end": 1805.11,
+     "word": " this",
+     "probability": 0.9937
+    },
+    {
+     "start": 1805.11,
+     "end": 1805.45,
+     "word": " verse",
+     "probability": 0.9944
+    },
+    {
+     "start": 1805.45,
+     "end": 1805.93,
+     "word": " as",
+     "probability": 0.9798
+    },
+    {
+     "start": 1805.93,
+     "end": 1806.63,
+     "word": " sanātana",
+     "probability": 0.9473
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "start": 1806.63,
+   "end": 1808.85,
+   "text": " not merely very old",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1806.63,
+     "end": 1807.55,
+     "word": " not",
+     "probability": 0.4305
+    },
+    {
+     "start": 1807.55,
+     "end": 1807.99,
+     "word": " merely",
+     "probability": 0.989
+    },
+    {
+     "start": 1807.99,
+     "end": 1808.41,
+     "word": " very",
+     "probability": 0.9731
+    },
+    {
+     "start": 1808.41,
+     "end": 1808.85,
+     "word": " old",
+     "probability": 0.9974
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "start": 1808.85,
+   "end": 1810.81,
+   "text": " Puranaha, but",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1808.85,
+     "end": 1809.53,
+     "word": " Puranaha,",
+     "probability": 0.4515
+    },
+    {
+     "start": 1809.69,
+     "end": 1810.81,
+     "word": " but",
+     "probability": 0.9955
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "start": 1810.81,
+   "end": 1812.31,
+   "text": " without origin, anadi",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1810.81,
+     "end": 1811.13,
+     "word": " without",
+     "probability": 0.9968
+    },
+    {
+     "start": 1811.13,
+     "end": 1811.61,
+     "word": " origin,",
+     "probability": 0.992
+    },
+    {
+     "start": 1811.77,
+     "end": 1812.31,
+     "word": " anadi",
+     "probability": 0.5254
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "start": 1812.31,
+   "end": 1814.07,
+   "text": " and without end, ananta.",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1812.31,
+     "end": 1812.67,
+     "word": " and",
+     "probability": 0.7949
+    },
+    {
+     "start": 1812.67,
+     "end": 1813.17,
+     "word": " without",
+     "probability": 0.9924
+    },
+    {
+     "start": 1813.17,
+     "end": 1813.47,
+     "word": " end,",
+     "probability": 0.9703
+    },
+    {
+     "start": 1813.59,
+     "end": 1814.07,
+     "word": " ananta.",
+     "probability": 0.8743
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "start": 1815.37,
+   "end": 1816.83,
+   "text": " The sanātana",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1815.37,
+     "end": 1816.29,
+     "word": " The",
+     "probability": 0.9728
+    },
+    {
+     "start": 1816.29,
+     "end": 1816.83,
+     "word": " sanātana",
+     "probability": 0.9232
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "start": 1816.83,
+   "end": 1818.69,
+   "text": " tva, eternity",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1816.83,
+     "end": 1817.21,
+     "word": " tva,",
+     "probability": 0.6485
+    },
+    {
+     "start": 1817.39,
+     "end": 1818.69,
+     "word": " eternity",
+     "probability": 0.9915
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "start": 1818.69,
+   "end": 1821.03,
+   "text": " of nirguna avyakta",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1818.69,
+     "end": 1819.69,
+     "word": " of",
+     "probability": 0.7095
+    },
+    {
+     "start": 1819.69,
+     "end": 1820.39,
+     "word": " nirguna",
+     "probability": 0.9617
+    },
+    {
+     "start": 1820.39,
+     "end": 1821.03,
+     "word": " avyakta",
+     "probability": 0.7648
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "start": 1821.03,
+   "end": 1822.33,
+   "text": " is not",
+   "avg_logprob": -0.16110216969743782,
+   "no_speech_prob": 0.001204158179461956,
+   "compression_ratio": 1.511764705882353,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1821.03,
+     "end": 1821.73,
+     "word": " is",
+     "probability": 0.8906
+    },
+    {
+     "start": 1821.73,
+     "end": 1822.33,
+     "word": " not",
+     "probability": 0.999
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "start": 1823.11,
+   "end": 1824.49,
+   "text": " long duration",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1823.11,
+     "end": 1823.95,
+     "word": " long",
+     "probability": 0.8331
+    },
+    {
+     "start": 1823.95,
+     "end": 1824.49,
+     "word": " duration",
+     "probability": 0.9975
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "start": 1825.75,
+   "end": 1827.43,
+   "text": " of brahmaloka",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1825.75,
+     "end": 1826.67,
+     "word": " of",
+     "probability": 0.986
+    },
+    {
+     "start": 1826.67,
+     "end": 1827.43,
+     "word": " brahmaloka",
+     "probability": 0.6424
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "start": 1827.43,
+   "end": 1829.01,
+   "text": " measured in sahasra",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1827.43,
+     "end": 1827.87,
+     "word": " measured",
+     "probability": 0.9847
+    },
+    {
+     "start": 1827.87,
+     "end": 1828.25,
+     "word": " in",
+     "probability": 0.9953
+    },
+    {
+     "start": 1828.25,
+     "end": 1829.01,
+     "word": " sahasra",
+     "probability": 0.9439
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "start": 1829.01,
+   "end": 1830.85,
+   "text": " yugas, kalpādita etc.",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1829.01,
+     "end": 1829.59,
+     "word": " yugas,",
+     "probability": 0.9756
+    },
+    {
+     "start": 1829.59,
+     "end": 1830.43,
+     "word": " kalpādita",
+     "probability": 0.5091
+    },
+    {
+     "start": 1830.43,
+     "end": 1830.85,
+     "word": " etc.",
+     "probability": 0.6551
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "start": 1831.97,
+   "end": 1833.23,
+   "text": " But it is",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1831.97,
+     "end": 1832.89,
+     "word": " But",
+     "probability": 0.7485
+    },
+    {
+     "start": 1832.89,
+     "end": 1833.07,
+     "word": " it",
+     "probability": 0.9932
+    },
+    {
+     "start": 1833.07,
+     "end": 1833.23,
+     "word": " is",
+     "probability": 0.9997
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "start": 1833.23,
+   "end": 1834.11,
+   "text": " kalpādita",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1833.23,
+     "end": 1834.11,
+     "word": " kalpādita",
+     "probability": 0.9876
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "start": 1835.21,
+   "end": 1836.47,
+   "text": " beyond the",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1835.21,
+     "end": 1836.13,
+     "word": " beyond",
+     "probability": 0.8971
+    },
+    {
+     "start": 1836.13,
+     "end": 1836.47,
+     "word": " the",
+     "probability": 0.9801
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "start": 1837.11,
+   "end": 1838.63,
+   "text": " time itself.",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1837.11,
+     "end": 1838.29,
+     "word": " time",
+     "probability": 0.9987
+    },
+    {
+     "start": 1838.29,
+     "end": 1838.63,
+     "word": " itself.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "start": 1839.51,
+   "end": 1840.99,
+   "text": " It does not",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1839.51,
+     "end": 1840.43,
+     "word": " It",
+     "probability": 0.9984
+    },
+    {
+     "start": 1840.43,
+     "end": 1840.65,
+     "word": " does",
+     "probability": 0.9996
+    },
+    {
+     "start": 1840.65,
+     "end": 1840.99,
+     "word": " not",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "start": 1840.99,
+   "end": 1843.09,
+   "text": " exist through",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1840.99,
+     "end": 1841.45,
+     "word": " exist",
+     "probability": 0.9996
+    },
+    {
+     "start": 1841.45,
+     "end": 1843.09,
+     "word": " through",
+     "probability": 0.998
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "start": 1843.09,
+   "end": 1844.45,
+   "text": " time, but",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1843.09,
+     "end": 1843.49,
+     "word": " time,",
+     "probability": 0.9997
+    },
+    {
+     "start": 1843.67,
+     "end": 1844.45,
+     "word": " but",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "start": 1845.11,
+   "end": 1846.13,
+   "text": " it is",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1845.11,
+     "end": 1845.89,
+     "word": " it",
+     "probability": 0.9986
+    },
+    {
+     "start": 1845.89,
+     "end": 1846.13,
+     "word": " is",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "start": 1847.11,
+   "end": 1847.75,
+   "text": " in which",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1847.03,
+     "end": 1847.49,
+     "word": " in",
+     "probability": 0.9981
+    },
+    {
+     "start": 1847.49,
+     "end": 1847.75,
+     "word": " which",
+     "probability": 0.999
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "start": 1847.75,
+   "end": 1850.69,
+   "text": " time appears and goes like",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1847.75,
+     "end": 1849.07,
+     "word": " time",
+     "probability": 0.998
+    },
+    {
+     "start": 1849.07,
+     "end": 1849.69,
+     "word": " appears",
+     "probability": 0.9991
+    },
+    {
+     "start": 1849.69,
+     "end": 1850.07,
+     "word": " and",
+     "probability": 0.9991
+    },
+    {
+     "start": 1850.07,
+     "end": 1850.35,
+     "word": " goes",
+     "probability": 0.9993
+    },
+    {
+     "start": 1850.35,
+     "end": 1850.69,
+     "word": " like",
+     "probability": 0.9608
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "start": 1850.69,
+   "end": 1851.37,
+   "text": " kāryakāraṇa.",
+   "avg_logprob": -0.14902082231381666,
+   "no_speech_prob": 0.0025392547249794006,
+   "compression_ratio": 1.3548387096774193,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1850.69,
+     "end": 1851.37,
+     "word": " kāryakāraṇa.",
+     "probability": 0.8885
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "start": 1853.31,
+   "end": 1854.95,
+   "text": " Therefore it is beyond",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1853.31,
+     "end": 1854.15,
+     "word": " Therefore",
+     "probability": 0.7946
+    },
+    {
+     "start": 1854.15,
+     "end": 1854.37,
+     "word": " it",
+     "probability": 0.6225
+    },
+    {
+     "start": 1854.37,
+     "end": 1854.55,
+     "word": " is",
+     "probability": 0.9982
+    },
+    {
+     "start": 1854.55,
+     "end": 1854.95,
+     "word": " beyond",
+     "probability": 0.993
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "start": 1854.95,
+   "end": 1855.23,
+   "text": " time.",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1854.95,
+     "end": 1855.23,
+     "word": " time.",
+     "probability": 0.9928
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "start": 1858.21,
+   "end": 1859.05,
+   "text": " So",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1858.21,
+     "end": 1859.05,
+     "word": " So",
+     "probability": 0.9739
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "start": 1859.05,
+   "end": 1860.47,
+   "text": " if we put all the three together",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1859.05,
+     "end": 1859.19,
+     "word": " if",
+     "probability": 0.9077
+    },
+    {
+     "start": 1859.19,
+     "end": 1859.35,
+     "word": " we",
+     "probability": 0.9903
+    },
+    {
+     "start": 1859.35,
+     "end": 1859.63,
+     "word": " put",
+     "probability": 0.9987
+    },
+    {
+     "start": 1859.63,
+     "end": 1859.79,
+     "word": " all",
+     "probability": 0.9969
+    },
+    {
+     "start": 1859.79,
+     "end": 1859.97,
+     "word": " the",
+     "probability": 0.9883
+    },
+    {
+     "start": 1859.97,
+     "end": 1860.17,
+     "word": " three",
+     "probability": 0.9675
+    },
+    {
+     "start": 1860.17,
+     "end": 1860.47,
+     "word": " together",
+     "probability": 0.9986
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "start": 1861.11,
+   "end": 1862.55,
+   "text": " avyakta, avyakta, sanātana",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1860.97,
+     "end": 1861.39,
+     "word": " avyakta,",
+     "probability": 0.7009
+    },
+    {
+     "start": 1861.41,
+     "end": 1862.01,
+     "word": " avyakta,",
+     "probability": 0.9602
+    },
+    {
+     "start": 1862.01,
+     "end": 1862.55,
+     "word": " sanātana",
+     "probability": 0.7219
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "start": 1863.11,
+   "end": 1864.63,
+   "text": " the unmanifest",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1863.07,
+     "end": 1863.49,
+     "word": " the",
+     "probability": 0.7229
+    },
+    {
+     "start": 1863.49,
+     "end": 1864.63,
+     "word": " unmanifest",
+     "probability": 0.9964
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "start": 1864.63,
+   "end": 1866.75,
+   "text": " beyond the unmanifest, the",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1864.63,
+     "end": 1865.05,
+     "word": " beyond",
+     "probability": 0.9192
+    },
+    {
+     "start": 1865.05,
+     "end": 1865.43,
+     "word": " the",
+     "probability": 0.9991
+    },
+    {
+     "start": 1865.43,
+     "end": 1866.33,
+     "word": " unmanifest,",
+     "probability": 0.9998
+    },
+    {
+     "start": 1866.33,
+     "end": 1866.75,
+     "word": " the",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "start": 1866.75,
+   "end": 1868.99,
+   "text": " eternal, it calls",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1866.75,
+     "end": 1867.15,
+     "word": " eternal,",
+     "probability": 0.999
+    },
+    {
+     "start": 1867.35,
+     "end": 1868.53,
+     "word": " it",
+     "probability": 0.9972
+    },
+    {
+     "start": 1868.53,
+     "end": 1868.99,
+     "word": " calls",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "start": 1868.99,
+   "end": 1871.35,
+   "text": " for four qualifiers",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1868.99,
+     "end": 1869.39,
+     "word": " for",
+     "probability": 0.9978
+    },
+    {
+     "start": 1869.39,
+     "end": 1870.47,
+     "word": " four",
+     "probability": 0.9742
+    },
+    {
+     "start": 1870.47,
+     "end": 1871.35,
+     "word": " qualifiers",
+     "probability": 0.9981
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "start": 1871.35,
+   "end": 1872.63,
+   "text": " as per",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1871.35,
+     "end": 1872.51,
+     "word": " as",
+     "probability": 0.9732
+    },
+    {
+     "start": 1872.51,
+     "end": 1872.63,
+     "word": " per",
+     "probability": 0.9884
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "start": 1872.63,
+   "end": 1873.35,
+   "text": " Shankaracharya.",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1872.63,
+     "end": 1873.35,
+     "word": " Shankaracharya.",
+     "probability": 0.9612
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "start": 1874.69,
+   "end": 1876.57,
+   "text": " Paraha, anyaha,",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1874.69,
+     "end": 1875.53,
+     "word": " Paraha,",
+     "probability": 0.7615
+    },
+    {
+     "start": 1875.75,
+     "end": 1876.57,
+     "word": " anyaha,",
+     "probability": 0.8615
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "start": 1876.81,
+   "end": 1878.43,
+   "text": " avyakta, sanātana.",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1876.81,
+     "end": 1877.49,
+     "word": " avyakta,",
+     "probability": 0.954
+    },
+    {
+     "start": 1877.57,
+     "end": 1878.43,
+     "word": " sanātana.",
+     "probability": 0.9956
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "start": 1879.65,
+   "end": 1880.49,
+   "text": " Each",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1879.65,
+     "end": 1880.49,
+     "word": " Each",
+     "probability": 0.9952
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "start": 1880.49,
+   "end": 1882.59,
+   "text": " adding a dimension of",
+   "avg_logprob": -0.12591919730658885,
+   "no_speech_prob": 0.0008140791906043887,
+   "compression_ratio": 1.5636363636363637,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1880.49,
+     "end": 1881.11,
+     "word": " adding",
+     "probability": 0.9985
+    },
+    {
+     "start": 1881.11,
+     "end": 1881.55,
+     "word": " a",
+     "probability": 0.9997
+    },
+    {
+     "start": 1881.55,
+     "end": 1882.11,
+     "word": " dimension",
+     "probability": 0.9996
+    },
+    {
+     "start": 1882.11,
+     "end": 1882.59,
+     "word": " of",
+     "probability": 0.9985
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "start": 1883.11,
+   "end": 1884.93,
+   "text": " its own when we use each",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1883.11,
+     "end": 1883.51,
+     "word": " its",
+     "probability": 0.6811
+    },
+    {
+     "start": 1883.51,
+     "end": 1883.79,
+     "word": " own",
+     "probability": 0.9945
+    },
+    {
+     "start": 1883.79,
+     "end": 1884.19,
+     "word": " when",
+     "probability": 0.9147
+    },
+    {
+     "start": 1884.19,
+     "end": 1884.39,
+     "word": " we",
+     "probability": 0.9991
+    },
+    {
+     "start": 1884.39,
+     "end": 1884.69,
+     "word": " use",
+     "probability": 0.9975
+    },
+    {
+     "start": 1884.69,
+     "end": 1884.93,
+     "word": " each",
+     "probability": 0.9973
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "start": 1884.93,
+   "end": 1885.55,
+   "text": " one of them.",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1884.93,
+     "end": 1885.15,
+     "word": " one",
+     "probability": 0.9973
+    },
+    {
+     "start": 1885.15,
+     "end": 1885.33,
+     "word": " of",
+     "probability": 0.9992
+    },
+    {
+     "start": 1885.33,
+     "end": 1885.55,
+     "word": " them.",
+     "probability": 0.9985
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "start": 1886.69,
+   "end": 1888.31,
+   "text": " When we use paraha,",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1886.69,
+     "end": 1887.33,
+     "word": " When",
+     "probability": 0.9788
+    },
+    {
+     "start": 1887.33,
+     "end": 1887.55,
+     "word": " we",
+     "probability": 0.9992
+    },
+    {
+     "start": 1887.55,
+     "end": 1887.87,
+     "word": " use",
+     "probability": 0.9993
+    },
+    {
+     "start": 1887.87,
+     "end": 1888.31,
+     "word": " paraha,",
+     "probability": 0.7149
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "start": 1890.77,
+   "end": 1892.53,
+   "text": " the nisheda is of",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1890.77,
+     "end": 1891.41,
+     "word": " the",
+     "probability": 0.9827
+    },
+    {
+     "start": 1891.41,
+     "end": 1892.05,
+     "word": " nisheda",
+     "probability": 0.7838
+    },
+    {
+     "start": 1892.05,
+     "end": 1892.21,
+     "word": " is",
+     "probability": 0.9955
+    },
+    {
+     "start": 1892.21,
+     "end": 1892.53,
+     "word": " of",
+     "probability": 0.8095
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "start": 1893.11,
+   "end": 1894.63,
+   "text": " not on the saguna cycle",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1893.09,
+     "end": 1893.41,
+     "word": " not",
+     "probability": 0.8495
+    },
+    {
+     "start": 1893.41,
+     "end": 1893.71,
+     "word": " on",
+     "probability": 0.997
+    },
+    {
+     "start": 1893.71,
+     "end": 1893.89,
+     "word": " the",
+     "probability": 0.9988
+    },
+    {
+     "start": 1893.89,
+     "end": 1894.39,
+     "word": " saguna",
+     "probability": 0.9256
+    },
+    {
+     "start": 1894.39,
+     "end": 1894.63,
+     "word": " cycle",
+     "probability": 0.8748
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "start": 1894.63,
+   "end": 1895.23,
+   "text": " scale,",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1894.63,
+     "end": 1895.23,
+     "word": " scale,",
+     "probability": 0.8415
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "start": 1897.61,
+   "end": 1898.89,
+   "text": " but it is",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1897.61,
+     "end": 1898.25,
+     "word": " but",
+     "probability": 0.9982
+    },
+    {
+     "start": 1898.25,
+     "end": 1898.67,
+     "word": " it",
+     "probability": 0.9971
+    },
+    {
+     "start": 1898.67,
+     "end": 1898.89,
+     "word": " is",
+     "probability": 0.9996
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "start": 1898.89,
+   "end": 1901.09,
+   "text": " transcendent beyond the entire",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1898.89,
+     "end": 1899.85,
+     "word": " transcendent",
+     "probability": 0.9877
+    },
+    {
+     "start": 1899.85,
+     "end": 1900.31,
+     "word": " beyond",
+     "probability": 0.9979
+    },
+    {
+     "start": 1900.31,
+     "end": 1900.63,
+     "word": " the",
+     "probability": 0.9989
+    },
+    {
+     "start": 1900.63,
+     "end": 1901.09,
+     "word": " entire",
+     "probability": 0.999
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "start": 1901.09,
+   "end": 1901.95,
+   "text": " saguna hierarchy.",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1901.09,
+     "end": 1901.55,
+     "word": " saguna",
+     "probability": 0.9826
+    },
+    {
+     "start": 1901.55,
+     "end": 1901.95,
+     "word": " hierarchy.",
+     "probability": 0.9988
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "start": 1906.15,
+   "end": 1908.47,
+   "text": " The word anya and paraha",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1906.15,
+     "end": 1906.79,
+     "word": " The",
+     "probability": 0.9934
+    },
+    {
+     "start": 1906.79,
+     "end": 1907.15,
+     "word": " word",
+     "probability": 0.9931
+    },
+    {
+     "start": 1907.15,
+     "end": 1907.65,
+     "word": " anya",
+     "probability": 0.9301
+    },
+    {
+     "start": 1907.65,
+     "end": 1907.95,
+     "word": " and",
+     "probability": 0.9988
+    },
+    {
+     "start": 1907.95,
+     "end": 1908.47,
+     "word": " paraha",
+     "probability": 0.9992
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "start": 1909.11,
+   "end": 1910.35,
+   "text": " are not the same.",
+   "avg_logprob": -0.10691548748449846,
+   "no_speech_prob": 0.0020576035603880882,
+   "compression_ratio": 1.5072463768115942,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1909.11,
+     "end": 1909.67,
+     "word": " are",
+     "probability": 0.9956
+    },
+    {
+     "start": 1909.67,
+     "end": 1909.89,
+     "word": " not",
+     "probability": 0.9998
+    },
+    {
+     "start": 1909.89,
+     "end": 1910.05,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 1910.05,
+     "end": 1910.35,
+     "word": " same.",
+     "probability": 1.0
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "start": 1913.17,
+   "end": 1915.15,
+   "text": " What does anya nisheda?",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1913.17,
+     "end": 1913.93,
+     "word": " What",
+     "probability": 0.6142
+    },
+    {
+     "start": 1913.93,
+     "end": 1914.23,
+     "word": " does",
+     "probability": 0.9524
+    },
+    {
+     "start": 1914.23,
+     "end": 1914.63,
+     "word": " anya",
+     "probability": 0.6333
+    },
+    {
+     "start": 1914.63,
+     "end": 1915.15,
+     "word": " nisheda?",
+     "probability": 0.7691
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "start": 1915.23,
+   "end": 1916.91,
+   "text": " What does it prohibit?",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1915.23,
+     "end": 1915.91,
+     "word": " What",
+     "probability": 0.9902
+    },
+    {
+     "start": 1915.91,
+     "end": 1916.05,
+     "word": " does",
+     "probability": 0.6934
+    },
+    {
+     "start": 1916.05,
+     "end": 1916.19,
+     "word": " it",
+     "probability": 0.9732
+    },
+    {
+     "start": 1916.19,
+     "end": 1916.91,
+     "word": " prohibit?",
+     "probability": 0.9981
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "start": 1919.55,
+   "end": 1921.07,
+   "text": " It prohibits",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1919.55,
+     "end": 1920.31,
+     "word": " It",
+     "probability": 0.9914
+    },
+    {
+     "start": 1920.31,
+     "end": 1921.07,
+     "word": " prohibits",
+     "probability": 0.9985
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "start": 1922.21,
+   "end": 1922.97,
+   "text": " the",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1922.21,
+     "end": 1922.97,
+     "word": " the",
+     "probability": 0.038
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "start": 1922.97,
+   "end": 1924.71,
+   "text": " both the",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1922.97,
+     "end": 1924.45,
+     "word": " both",
+     "probability": 0.8289
+    },
+    {
+     "start": 1924.45,
+     "end": 1924.71,
+     "word": " the",
+     "probability": 0.9771
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "start": 1924.71,
+   "end": 1926.89,
+   "text": " avyaktas being considered",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1924.71,
+     "end": 1925.89,
+     "word": " avyaktas",
+     "probability": 0.9473
+    },
+    {
+     "start": 1925.89,
+     "end": 1926.27,
+     "word": " being",
+     "probability": 0.9849
+    },
+    {
+     "start": 1926.27,
+     "end": 1926.89,
+     "word": " considered",
+     "probability": 0.9963
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "start": 1926.89,
+   "end": 1927.69,
+   "text": " as the same.",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1926.89,
+     "end": 1927.23,
+     "word": " as",
+     "probability": 0.9942
+    },
+    {
+     "start": 1927.23,
+     "end": 1927.35,
+     "word": " the",
+     "probability": 0.9914
+    },
+    {
+     "start": 1927.35,
+     "end": 1927.69,
+     "word": " same.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "start": 1929.11,
+   "end": 1930.55,
+   "text": " Therefore it is not the same",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1928.83,
+     "end": 1929.21,
+     "word": " Therefore",
+     "probability": 0.9915
+    },
+    {
+     "start": 1929.21,
+     "end": 1929.47,
+     "word": " it",
+     "probability": 0.519
+    },
+    {
+     "start": 1929.47,
+     "end": 1929.65,
+     "word": " is",
+     "probability": 0.999
+    },
+    {
+     "start": 1929.65,
+     "end": 1929.99,
+     "word": " not",
+     "probability": 0.9994
+    },
+    {
+     "start": 1929.99,
+     "end": 1930.17,
+     "word": " the",
+     "probability": 0.9971
+    },
+    {
+     "start": 1930.17,
+     "end": 1930.55,
+     "word": " same",
+     "probability": 0.9987
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "start": 1930.55,
+   "end": 1932.75,
+   "text": " saguna avyakta when",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1930.55,
+     "end": 1931.01,
+     "word": " saguna",
+     "probability": 0.8872
+    },
+    {
+     "start": 1931.01,
+     "end": 1931.41,
+     "word": " avyakta",
+     "probability": 0.9779
+    },
+    {
+     "start": 1931.41,
+     "end": 1932.75,
+     "word": " when",
+     "probability": 0.9618
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "start": 1932.75,
+   "end": 1934.55,
+   "text": " we use the word anya means.",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1932.75,
+     "end": 1932.99,
+     "word": " we",
+     "probability": 0.9996
+    },
+    {
+     "start": 1932.99,
+     "end": 1933.31,
+     "word": " use",
+     "probability": 0.9992
+    },
+    {
+     "start": 1933.31,
+     "end": 1933.47,
+     "word": " the",
+     "probability": 0.9984
+    },
+    {
+     "start": 1933.47,
+     "end": 1933.75,
+     "word": " word",
+     "probability": 0.9979
+    },
+    {
+     "start": 1933.75,
+     "end": 1934.23,
+     "word": " anya",
+     "probability": 0.9944
+    },
+    {
+     "start": 1934.23,
+     "end": 1934.55,
+     "word": " means.",
+     "probability": 0.9977
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "start": 1935.27,
+   "end": 1936.91,
+   "text": " Anya means vilakshana.",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1935.27,
+     "end": 1936.03,
+     "word": " Anya",
+     "probability": 0.9983
+    },
+    {
+     "start": 1936.03,
+     "end": 1936.33,
+     "word": " means",
+     "probability": 0.9997
+    },
+    {
+     "start": 1936.33,
+     "end": 1936.91,
+     "word": " vilakshana.",
+     "probability": 0.9265
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "start": 1938.31,
+   "end": 1939.07,
+   "text": " Categorically",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1938.31,
+     "end": 1939.07,
+     "word": " Categorically",
+     "probability": 0.9969
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "start": 1939.07,
+   "end": 1940.25,
+   "text": " distinct.",
+   "avg_logprob": -0.10749701038002968,
+   "no_speech_prob": 0.0005500486004166305,
+   "compression_ratio": 1.5562913907284768,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1939.07,
+     "end": 1940.25,
+     "word": " distinct.",
+     "probability": 0.9975
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "start": 1943.67,
+   "end": 1945.25,
+   "text": " And the very word",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1943.67,
+     "end": 1944.51,
+     "word": " And",
+     "probability": 0.5921
+    },
+    {
+     "start": 1944.51,
+     "end": 1944.75,
+     "word": " the",
+     "probability": 0.9773
+    },
+    {
+     "start": 1944.75,
+     "end": 1944.95,
+     "word": " very",
+     "probability": 0.9773
+    },
+    {
+     "start": 1944.95,
+     "end": 1945.25,
+     "word": " word",
+     "probability": 0.9946
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "start": 1945.25,
+   "end": 1945.89,
+   "text": " avyakta",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1945.25,
+     "end": 1945.89,
+     "word": " avyakta",
+     "probability": 0.7174
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "start": 1947.11,
+   "end": 1948.51,
+   "text": " when it is not",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1946.87,
+     "end": 1947.29,
+     "word": " when",
+     "probability": 0.4468
+    },
+    {
+     "start": 1947.29,
+     "end": 1947.85,
+     "word": " it",
+     "probability": 0.9832
+    },
+    {
+     "start": 1947.85,
+     "end": 1948.09,
+     "word": " is",
+     "probability": 0.9883
+    },
+    {
+     "start": 1948.09,
+     "end": 1948.51,
+     "word": " not",
+     "probability": 0.8048
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "start": 1949.11,
+   "end": 1950.87,
+   "text": " graspable as an object in the",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1949.11,
+     "end": 1949.57,
+     "word": " graspable",
+     "probability": 0.9646
+    },
+    {
+     "start": 1949.57,
+     "end": 1949.87,
+     "word": " as",
+     "probability": 0.9839
+    },
+    {
+     "start": 1949.87,
+     "end": 1950.07,
+     "word": " an",
+     "probability": 0.9854
+    },
+    {
+     "start": 1950.07,
+     "end": 1950.47,
+     "word": " object",
+     "probability": 0.9977
+    },
+    {
+     "start": 1950.47,
+     "end": 1950.77,
+     "word": " in",
+     "probability": 0.9908
+    },
+    {
+     "start": 1950.77,
+     "end": 1950.87,
+     "word": " the",
+     "probability": 0.9827
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "start": 1950.87,
+   "end": 1951.67,
+   "text": " saguna framework.",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1950.87,
+     "end": 1951.19,
+     "word": " saguna",
+     "probability": 0.758
+    },
+    {
+     "start": 1951.19,
+     "end": 1951.67,
+     "word": " framework.",
+     "probability": 0.9662
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "start": 1953.11,
+   "end": 1953.37,
+   "text": " ...",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1952.95,
+     "end": 1953.37,
+     "word": " ...",
+     "probability": 0.0297
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "start": 1956.15,
+   "end": 1956.99,
+   "text": " ...",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1956.15,
+     "end": 1956.99,
+     "word": " ...",
+     "probability": 0.2698
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "start": 1957.89,
+   "end": 1958.73,
+   "text": " ...",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1957.89,
+     "end": 1958.73,
+     "word": " ...",
+     "probability": 0.8952
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "start": 1958.73,
+   "end": 1959.67,
+   "text": " ...",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1958.73,
+     "end": 1959.67,
+     "word": " ...",
+     "probability": 0.9637
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "start": 1963.09,
+   "end": 1963.11,
+   "text": " ...",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1963.09,
+     "end": 1963.51,
+     "word": " ...",
+     "probability": 0.9701
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "start": 1963.93,
+   "end": 1964.35,
+   "text": " ...",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1963.93,
+     "end": 1964.35,
+     "word": " ...",
+     "probability": 0.9757
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "start": 1964.35,
+   "end": 1964.97,
+   "text": " ...",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1964.35,
+     "end": 1964.97,
+     "word": " ...",
+     "probability": 0.9816
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "start": 1964.97,
+   "end": 1965.21,
+   "text": " ...",
+   "avg_logprob": -0.10123175911365016,
+   "no_speech_prob": 0.0014926869189366698,
+   "compression_ratio": 1.441860465116279,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1964.97,
+     "end": 1965.21,
+     "word": " ...",
+     "probability": 0.9825
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "start": 1965.21,
+   "end": 1966.77,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1965.21,
+     "end": 1966.77,
+     "word": " ...",
+     "probability": 0.001
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "start": 1966.77,
+   "end": 1966.83,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1966.77,
+     "end": 1966.83,
+     "word": " ...",
+     "probability": 0.1013
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "start": 1969.21,
+   "end": 1969.69,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1968.99,
+     "end": 1969.69,
+     "word": " ...",
+     "probability": 0.9399
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "start": 1969.69,
+   "end": 1970.35,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1969.69,
+     "end": 1970.35,
+     "word": " ...",
+     "probability": 0.9893
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "start": 1973.21,
+   "end": 1974.03,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1973.21,
+     "end": 1974.03,
+     "word": " ...",
+     "probability": 0.993
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "start": 1975.21,
+   "end": 1975.95,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1975.21,
+     "end": 1975.95,
+     "word": " ...",
+     "probability": 0.9911
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "start": 1980.01,
+   "end": 1981.41,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1980.01,
+     "end": 1981.41,
+     "word": " ...",
+     "probability": 0.9916
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "start": 1981.41,
+   "end": 1983.61,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1981.41,
+     "end": 1983.61,
+     "word": " ...",
+     "probability": 0.9919
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "start": 1983.61,
+   "end": 1984.71,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1983.61,
+     "end": 1984.71,
+     "word": " ...",
+     "probability": 0.9921
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "start": 1984.71,
+   "end": 1984.73,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1984.71,
+     "end": 1984.73,
+     "word": " ...",
+     "probability": 0.9931
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "start": 1987.21,
+   "end": 1987.33,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1986.63,
+     "end": 1987.33,
+     "word": " ...",
+     "probability": 0.9924
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "start": 1987.33,
+   "end": 1987.57,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1987.33,
+     "end": 1987.57,
+     "word": " ...",
+     "probability": 0.9928
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "start": 1987.57,
+   "end": 1987.59,
+   "text": " ...",
+   "avg_logprob": -0.03778870257994403,
+   "no_speech_prob": 0.001916953711770475,
+   "compression_ratio": 3.933333333333333,
+   "temperature": 1.0,
+   "words": [
+    {
+     "start": 1987.57,
+     "end": 1987.59,
+     "word": " ...",
+     "probability": 0.9927
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "start": 1996.03,
+   "end": 2011.37,
+   "text": " And Sanatana Tva or the primordial nature of it is prohibiting the time being operational in it.",
+   "avg_logprob": -0.23505563618706876,
+   "no_speech_prob": 0.003581098048016429,
+   "compression_ratio": 1.3777777777777778,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1996.03,
+     "end": 1996.79,
+     "word": " And",
+     "probability": 0.3521
+    },
+    {
+     "start": 1996.79,
+     "end": 1997.55,
+     "word": " Sanatana",
+     "probability": 0.7145
+    },
+    {
+     "start": 1997.55,
+     "end": 1997.91,
+     "word": " Tva",
+     "probability": 0.603
+    },
+    {
+     "start": 1997.91,
+     "end": 1998.37,
+     "word": " or",
+     "probability": 0.854
+    },
+    {
+     "start": 1998.37,
+     "end": 1998.69,
+     "word": " the",
+     "probability": 0.9693
+    },
+    {
+     "start": 1998.69,
+     "end": 2003.95,
+     "word": " primordial",
+     "probability": 0.9729
+    },
+    {
+     "start": 2003.95,
+     "end": 2004.47,
+     "word": " nature",
+     "probability": 0.9963
+    },
+    {
+     "start": 2004.47,
+     "end": 2004.85,
+     "word": " of",
+     "probability": 0.9957
+    },
+    {
+     "start": 2004.85,
+     "end": 2005.01,
+     "word": " it",
+     "probability": 0.9928
+    },
+    {
+     "start": 2005.01,
+     "end": 2005.21,
+     "word": " is",
+     "probability": 0.9843
+    },
+    {
+     "start": 2005.21,
+     "end": 2007.49,
+     "word": " prohibiting",
+     "probability": 0.9253
+    },
+    {
+     "start": 2007.49,
+     "end": 2007.75,
+     "word": " the",
+     "probability": 0.9583
+    },
+    {
+     "start": 2007.75,
+     "end": 2009.81,
+     "word": " time",
+     "probability": 0.9577
+    },
+    {
+     "start": 2009.81,
+     "end": 2010.19,
+     "word": " being",
+     "probability": 0.9922
+    },
+    {
+     "start": 2010.19,
+     "end": 2010.69,
+     "word": " operational",
+     "probability": 0.9905
+    },
+    {
+     "start": 2010.69,
+     "end": 2011.15,
+     "word": " in",
+     "probability": 0.9954
+    },
+    {
+     "start": 2011.15,
+     "end": 2011.37,
+     "word": " it.",
+     "probability": 0.9975
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "start": 2013.77,
+   "end": 2021.81,
+   "text": " That is why in the Parabrahman or the Avyakta, Nirguna Avyakta, it is mentioned as Nitya.",
+   "avg_logprob": -0.23505563618706876,
+   "no_speech_prob": 0.003581098048016429,
+   "compression_ratio": 1.3777777777777778,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2013.77,
+     "end": 2014.53,
+     "word": " That",
+     "probability": 0.9815
+    },
+    {
+     "start": 2014.53,
+     "end": 2014.75,
+     "word": " is",
+     "probability": 0.9983
+    },
+    {
+     "start": 2014.75,
+     "end": 2014.95,
+     "word": " why",
+     "probability": 0.9991
+    },
+    {
+     "start": 2014.95,
+     "end": 2015.77,
+     "word": " in",
+     "probability": 0.8869
+    },
+    {
+     "start": 2015.77,
+     "end": 2015.95,
+     "word": " the",
+     "probability": 0.9788
+    },
+    {
+     "start": 2015.95,
+     "end": 2016.85,
+     "word": " Parabrahman",
+     "probability": 0.9416
+    },
+    {
+     "start": 2016.85,
+     "end": 2017.15,
+     "word": " or",
+     "probability": 0.9811
+    },
+    {
+     "start": 2017.15,
+     "end": 2017.49,
+     "word": " the",
+     "probability": 0.9721
+    },
+    {
+     "start": 2017.49,
+     "end": 2018.33,
+     "word": " Avyakta,",
+     "probability": 0.8422
+    },
+    {
+     "start": 2018.45,
+     "end": 2018.85,
+     "word": " Nirguna",
+     "probability": 0.7177
+    },
+    {
+     "start": 2018.85,
+     "end": 2019.31,
+     "word": " Avyakta,",
+     "probability": 0.9828
+    },
+    {
+     "start": 2019.45,
+     "end": 2020.43,
+     "word": " it",
+     "probability": 0.994
+    },
+    {
+     "start": 2020.43,
+     "end": 2020.61,
+     "word": " is",
+     "probability": 0.9997
+    },
+    {
+     "start": 2020.61,
+     "end": 2021.05,
+     "word": " mentioned",
+     "probability": 0.9983
+    },
+    {
+     "start": 2021.05,
+     "end": 2021.31,
+     "word": " as",
+     "probability": 0.9987
+    },
+    {
+     "start": 2021.31,
+     "end": 2021.81,
+     "word": " Nitya.",
+     "probability": 0.8572
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "start": 2025.93,
+   "end": 2027.65,
+   "text": " Then Krishna says,",
+   "avg_logprob": -0.29282600043424917,
+   "no_speech_prob": 0.0033555037807673216,
+   "compression_ratio": 1.7410714285714286,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2025.93,
+     "end": 2026.93,
+     "word": " Then",
+     "probability": 0.5393
+    },
+    {
+     "start": 2026.93,
+     "end": 2027.29,
+     "word": " Krishna",
+     "probability": 0.9939
+    },
+    {
+     "start": 2027.29,
+     "end": 2027.65,
+     "word": " says,",
+     "probability": 0.9978
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "start": 2027.91,
+   "end": 2033.23,
+   "text": " yaha saha sarveshu bhuteshu nashyatsu na vinashti",
+   "avg_logprob": -0.29282600043424917,
+   "no_speech_prob": 0.0033555037807673216,
+   "compression_ratio": 1.7410714285714286,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2027.91,
+     "end": 2028.85,
+     "word": " yaha",
+     "probability": 0.5488
+    },
+    {
+     "start": 2028.85,
+     "end": 2029.27,
+     "word": " saha",
+     "probability": 0.9173
+    },
+    {
+     "start": 2029.27,
+     "end": 2030.05,
+     "word": " sarveshu",
+     "probability": 0.889
+    },
+    {
+     "start": 2030.05,
+     "end": 2030.73,
+     "word": " bhuteshu",
+     "probability": 0.896
+    },
+    {
+     "start": 2030.73,
+     "end": 2031.35,
+     "word": " nashyatsu",
+     "probability": 0.6251
+    },
+    {
+     "start": 2031.35,
+     "end": 2031.69,
+     "word": " na",
+     "probability": 0.8058
+    },
+    {
+     "start": 2031.69,
+     "end": 2033.23,
+     "word": " vinashti",
+     "probability": 0.5958
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "start": 2037.59,
+   "end": 2046.59,
+   "text": " yaha saha which is that which sarveshu bhuteshu nashyatsu",
+   "avg_logprob": -0.29282600043424917,
+   "no_speech_prob": 0.0033555037807673216,
+   "compression_ratio": 1.7410714285714286,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2037.59,
+     "end": 2038.59,
+     "word": " yaha",
+     "probability": 0.5656
+    },
+    {
+     "start": 2038.59,
+     "end": 2038.97,
+     "word": " saha",
+     "probability": 0.9994
+    },
+    {
+     "start": 2038.97,
+     "end": 2041.39,
+     "word": " which",
+     "probability": 0.7706
+    },
+    {
+     "start": 2041.39,
+     "end": 2041.65,
+     "word": " is",
+     "probability": 0.999
+    },
+    {
+     "start": 2041.65,
+     "end": 2042.31,
+     "word": " that",
+     "probability": 0.997
+    },
+    {
+     "start": 2042.31,
+     "end": 2042.83,
+     "word": " which",
+     "probability": 0.9647
+    },
+    {
+     "start": 2042.83,
+     "end": 2045.35,
+     "word": " sarveshu",
+     "probability": 0.9982
+    },
+    {
+     "start": 2045.35,
+     "end": 2046.05,
+     "word": " bhuteshu",
+     "probability": 0.9975
+    },
+    {
+     "start": 2046.05,
+     "end": 2046.59,
+     "word": " nashyatsu",
+     "probability": 0.9909
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "start": 2049.45,
+   "end": 2053.99,
+   "text": " When perishing, nashyatsu means when perishing or in the destruction",
+   "avg_logprob": -0.29282600043424917,
+   "no_speech_prob": 0.0033555037807673216,
+   "compression_ratio": 1.7410714285714286,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2049.45,
+     "end": 2050.45,
+     "word": " When",
+     "probability": 0.1952
+    },
+    {
+     "start": 2050.45,
+     "end": 2051.29,
+     "word": " perishing,",
+     "probability": 0.999
+    },
+    {
+     "start": 2051.35,
+     "end": 2051.81,
+     "word": " nashyatsu",
+     "probability": 0.9924
+    },
+    {
+     "start": 2051.81,
+     "end": 2052.09,
+     "word": " means",
+     "probability": 0.8404
+    },
+    {
+     "start": 2052.09,
+     "end": 2052.37,
+     "word": " when",
+     "probability": 0.996
+    },
+    {
+     "start": 2052.37,
+     "end": 2052.87,
+     "word": " perishing",
+     "probability": 0.9996
+    },
+    {
+     "start": 2052.87,
+     "end": 2053.17,
+     "word": " or",
+     "probability": 0.9911
+    },
+    {
+     "start": 2053.17,
+     "end": 2053.37,
+     "word": " in",
+     "probability": 0.9973
+    },
+    {
+     "start": 2053.37,
+     "end": 2053.53,
+     "word": " the",
+     "probability": 0.9852
+    },
+    {
+     "start": 2053.53,
+     "end": 2053.99,
+     "word": " destruction",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "start": 2053.99,
+   "end": 2055.59,
+   "text": " or as they perish.",
+   "avg_logprob": -0.1439289833818163,
+   "no_speech_prob": 0.006302325986325741,
+   "compression_ratio": 1.0921052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2053.99,
+     "end": 2054.57,
+     "word": " or",
+     "probability": 0.4123
+    },
+    {
+     "start": 2054.57,
+     "end": 2054.95,
+     "word": " as",
+     "probability": 0.9575
+    },
+    {
+     "start": 2054.95,
+     "end": 2055.19,
+     "word": " they",
+     "probability": 0.9809
+    },
+    {
+     "start": 2055.19,
+     "end": 2055.59,
+     "word": " perish.",
+     "probability": 0.9867
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "start": 2057.35,
+   "end": 2061.85,
+   "text": " Sarveshu bhuteshu nashyatsu means when all beings are perishing.",
+   "avg_logprob": -0.1439289833818163,
+   "no_speech_prob": 0.006302325986325741,
+   "compression_ratio": 1.0921052631578947,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2057.35,
+     "end": 2058.15,
+     "word": " Sarveshu",
+     "probability": 0.7854
+    },
+    {
+     "start": 2058.15,
+     "end": 2058.77,
+     "word": " bhuteshu",
+     "probability": 0.6463
+    },
+    {
+     "start": 2058.77,
+     "end": 2059.31,
+     "word": " nashyatsu",
+     "probability": 0.3202
+    },
+    {
+     "start": 2059.31,
+     "end": 2059.65,
+     "word": " means",
+     "probability": 0.9086
+    },
+    {
+     "start": 2059.65,
+     "end": 2060.13,
+     "word": " when",
+     "probability": 0.931
+    },
+    {
+     "start": 2060.13,
+     "end": 2060.51,
+     "word": " all",
+     "probability": 0.9989
+    },
+    {
+     "start": 2060.51,
+     "end": 2061.01,
+     "word": " beings",
+     "probability": 0.9955
+    },
+    {
+     "start": 2061.01,
+     "end": 2061.31,
+     "word": " are",
+     "probability": 0.9994
+    },
+    {
+     "start": 2061.31,
+     "end": 2061.85,
+     "word": " perishing.",
+     "probability": 0.9975
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-145.32-187.40-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 145.32,
+   "dur_s": 42.08,
+   "sample_start": 2325120,
+   "sample_end": 2998400,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-145.32-187.40-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "145.32",
+   "--dur",
+   "42.08",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-145.32-187.40-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:29:37.093084+00:00",
+  "run_finished_utc": "2026-11-09T01:30:29.461520+00:00",
+  "model_load_s": 6.37,
+  "transcribe_wall_s": 52.36,
+  "audio_dur_s": 42.08,
+  "realtime_factor": 1.2444
+ },
+ "language": "en",
+ "language_probability": 0.7886219620704651,
+ "duration": 42.08,
+ "duration_after_vad": 42.08,
+ "segments": [
+  {
+   "id": 1,
+   "start": 158.3,
+   "end": 159.42,
+   "text": " Satsang with Mooji",
+   "avg_logprob": -0.48187022738986546,
+   "no_speech_prob": 0.7667385339736938,
+   "compression_ratio": 0.6923076923076923,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 158.3,
+     "end": 159.02,
+     "word": " Satsang",
+     "probability": 0.6446
+    },
+    {
+     "start": 159.02,
+     "end": 159.38,
+     "word": " with",
+     "probability": 0.8235
+    },
+    {
+     "start": 159.38,
+     "end": 159.42,
+     "word": " Mooji",
+     "probability": 0.9557
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 176.86,
+   "end": 186.88,
+   "text": " Last three verses, Krishna has been explaining",
+   "avg_logprob": -0.37599888714877044,
+   "no_speech_prob": 0.041518911719322205,
+   "compression_ratio": 0.8518518518518519,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 176.86,
+     "end": 178.26,
+     "word": " Last",
+     "probability": 0.6016
+    },
+    {
+     "start": 178.26,
+     "end": 178.7,
+     "word": " three",
+     "probability": 0.9053
+    },
+    {
+     "start": 178.7,
+     "end": 179.8,
+     "word": " verses,",
+     "probability": 0.9857
+    },
+    {
+     "start": 180.16,
+     "end": 181.86,
+     "word": " Krishna",
+     "probability": 0.9873
+    },
+    {
+     "start": 181.86,
+     "end": 182.28,
+     "word": " has",
+     "probability": 0.9972
+    },
+    {
+     "start": 182.28,
+     "end": 182.62,
+     "word": " been",
+     "probability": 0.9986
+    },
+    {
+     "start": 182.62,
+     "end": 186.88,
+     "word": " explaining",
+     "probability": 0.9532
+    }
+   ]
+  }
+ ]
+}

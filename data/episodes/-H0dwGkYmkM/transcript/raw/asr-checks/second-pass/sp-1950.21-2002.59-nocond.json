@@ -1,0 +1,361 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-1950.21-2002.59-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 1950.21,
+   "dur_s": 52.38,
+   "sample_start": 31203360,
+   "sample_end": 32041440,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-1950.21-2002.59-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "1950.21",
+   "--dur",
+   "52.38",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-1950.21-2002.59-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:30:43.222902+00:00",
+  "run_finished_utc": "2026-11-09T01:31:38.704027+00:00",
+  "model_load_s": 6.44,
+  "transcribe_wall_s": 55.48,
+  "audio_dur_s": 52.38,
+  "realtime_factor": 1.0591
+ },
+ "language": "en",
+ "language_probability": 0.6455062627792358,
+ "duration": 52.38,
+ "duration_after_vad": 52.38,
+ "segments": [
+  {
+   "id": 1,
+   "start": 1950.21,
+   "end": 1977.69,
+   "text": " object in the Saguna framework. In the Avyatta, as in the Brahman or the Nirguna Brahman, it",
+   "avg_logprob": -0.2702986728399992,
+   "no_speech_prob": 0.30146336555480957,
+   "compression_ratio": 1.1794871794871795,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1950.21,
+     "end": 1950.47,
+     "word": " object",
+     "probability": 0.7662
+    },
+    {
+     "start": 1950.47,
+     "end": 1950.75,
+     "word": " in",
+     "probability": 0.9706
+    },
+    {
+     "start": 1950.75,
+     "end": 1950.87,
+     "word": " the",
+     "probability": 0.987
+    },
+    {
+     "start": 1950.87,
+     "end": 1951.21,
+     "word": " Saguna",
+     "probability": 0.5403
+    },
+    {
+     "start": 1951.21,
+     "end": 1951.71,
+     "word": " framework.",
+     "probability": 0.8285
+    },
+    {
+     "start": 1957.41,
+     "end": 1958.25,
+     "word": " In",
+     "probability": 0.9126
+    },
+    {
+     "start": 1958.25,
+     "end": 1958.39,
+     "word": " the",
+     "probability": 0.9905
+    },
+    {
+     "start": 1958.39,
+     "end": 1964.89,
+     "word": " Avyatta,",
+     "probability": 0.612
+    },
+    {
+     "start": 1965.11,
+     "end": 1967.67,
+     "word": " as",
+     "probability": 0.9184
+    },
+    {
+     "start": 1967.67,
+     "end": 1969.85,
+     "word": " in",
+     "probability": 0.985
+    },
+    {
+     "start": 1969.85,
+     "end": 1970.09,
+     "word": " the",
+     "probability": 0.994
+    },
+    {
+     "start": 1970.09,
+     "end": 1973.05,
+     "word": " Brahman",
+     "probability": 0.984
+    },
+    {
+     "start": 1973.05,
+     "end": 1973.41,
+     "word": " or",
+     "probability": 0.9075
+    },
+    {
+     "start": 1973.41,
+     "end": 1973.79,
+     "word": " the",
+     "probability": 0.9742
+    },
+    {
+     "start": 1973.79,
+     "end": 1976.05,
+     "word": " Nirguna",
+     "probability": 0.7725
+    },
+    {
+     "start": 1976.05,
+     "end": 1976.51,
+     "word": " Brahman,",
+     "probability": 0.9888
+    },
+    {
+     "start": 1976.69,
+     "end": 1977.69,
+     "word": " it",
+     "probability": 0.993
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 1977.69,
+   "end": 1989.83,
+   "text": " It is agrahaniyya, means senses and mind cannot conceive it or measure it.",
+   "avg_logprob": -0.4120149625973268,
+   "no_speech_prob": 0.0005452663754113019,
+   "compression_ratio": 1.2596153846153846,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1977.69,
+     "end": 1977.79,
+     "word": " It",
+     "probability": 0.9205
+    },
+    {
+     "start": 1977.79,
+     "end": 1978.01,
+     "word": " is",
+     "probability": 0.9983
+    },
+    {
+     "start": 1978.01,
+     "end": 1980.33,
+     "word": " agrahaniyya,",
+     "probability": 0.7397
+    },
+    {
+     "start": 1980.41,
+     "end": 1981.17,
+     "word": " means",
+     "probability": 0.9905
+    },
+    {
+     "start": 1981.17,
+     "end": 1983.35,
+     "word": " senses",
+     "probability": 0.9981
+    },
+    {
+     "start": 1983.35,
+     "end": 1983.93,
+     "word": " and",
+     "probability": 0.9998
+    },
+    {
+     "start": 1983.93,
+     "end": 1984.49,
+     "word": " mind",
+     "probability": 0.9907
+    },
+    {
+     "start": 1984.49,
+     "end": 1985.01,
+     "word": " cannot",
+     "probability": 0.9996
+    },
+    {
+     "start": 1985.01,
+     "end": 1987.11,
+     "word": " conceive",
+     "probability": 0.9993
+    },
+    {
+     "start": 1987.11,
+     "end": 1987.47,
+     "word": " it",
+     "probability": 0.9994
+    },
+    {
+     "start": 1987.47,
+     "end": 1988.65,
+     "word": " or",
+     "probability": 0.9766
+    },
+    {
+     "start": 1988.65,
+     "end": 1989.45,
+     "word": " measure",
+     "probability": 0.9996
+    },
+    {
+     "start": 1989.45,
+     "end": 1989.83,
+     "word": " it.",
+     "probability": 0.9998
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 1992.43,
+   "end": 1993.99,
+   "text": " There is, it is immeasurable.",
+   "avg_logprob": -0.4120149625973268,
+   "no_speech_prob": 0.0005452663754113019,
+   "compression_ratio": 1.2596153846153846,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1992.03,
+     "end": 1992.55,
+     "word": " There",
+     "probability": 0.4195
+    },
+    {
+     "start": 1992.55,
+     "end": 1992.81,
+     "word": " is,",
+     "probability": 0.5086
+    },
+    {
+     "start": 1992.81,
+     "end": 1992.97,
+     "word": " it",
+     "probability": 0.9985
+    },
+    {
+     "start": 1992.97,
+     "end": 1993.15,
+     "word": " is",
+     "probability": 1.0
+    },
+    {
+     "start": 1993.15,
+     "end": 1993.99,
+     "word": " immeasurable.",
+     "probability": 0.9995
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 1995.81,
+   "end": 1998.89,
+   "text": " And sanatanattva or the...",
+   "avg_logprob": -0.4120149625973268,
+   "no_speech_prob": 0.0005452663754113019,
+   "compression_ratio": 1.2596153846153846,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1995.81,
+     "end": 1996.85,
+     "word": " And",
+     "probability": 0.9934
+    },
+    {
+     "start": 1996.85,
+     "end": 1997.89,
+     "word": " sanatanattva",
+     "probability": 0.8075
+    },
+    {
+     "start": 1997.89,
+     "end": 1998.37,
+     "word": " or",
+     "probability": 0.6878
+    },
+    {
+     "start": 1998.37,
+     "end": 1998.89,
+     "word": " the...",
+     "probability": 0.8284
+    }
+   ]
+  }
+ ]
+}

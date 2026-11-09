@@ -1,0 +1,282 @@
+{
+ "kind": "manifest",
+ "directory": "transcript/raw/asr",
+ "created_utc": "2026-11-09T01:37:55.700509+00:00",
+ "rule": "Raw files are byte-identical copies of the scratch originals and must never be edited.",
+ "status": "automatic ASR, unreviewed; contains a confirmed hallucination loop at 2204.79-2235.43 s and untranscribed speech (see qa/flags.json)",
+ "audio": {
+  "file": "ep.mp3 (not in repo)",
+  "sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "bytes": 16631472,
+  "duration_s": 4157.754,
+  "source": "source/podcast/podcast-source.json"
+ },
+ "model": "Systran/faster-whisper-large-v3",
+ "model_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+ "device": "cpu",
+ "compute_type": "int8",
+ "cpu_threads_per_process": 4,
+ "parallel_processes": 10,
+ "params": {
+  "beam_size": 5,
+  "language": null,
+  "word_timestamps": true,
+  "vad_filter": false,
+  "condition_on_previous_text": true,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "libraries": {
+  "faster_whisper": "1.2.1",
+  "ctranslate2": "4.8.5",
+  "pyav": "15.1.0",
+  "numpy": "2.5.4",
+  "python": "3.12.15"
+ },
+ "host": {
+  "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+  "machine": "x86_64"
+ },
+ "launch_utc": "2026-11-09T01:00:22Z",
+ "merged_utc": "2026-11-09T01:17:23.709121+00:00",
+ "chunking": "audio split at quietest 100 ms window within +/-20 s of k*T/10; each chunk transcribed by a separate process",
+ "context_reset": "condition_on_previous_text context resets at every chunk boundary; language detected per chunk",
+ "chunks": [
+  {
+   "chunk": 0,
+   "start_s": 0.0,
+   "end_s": 395.85,
+   "file": "chunk-0.json",
+   "n_segments": 111,
+   "language": "en",
+   "language_probability": 0.9982463121414185,
+   "transcribe_wall_s": 856.28,
+   "realtime_factor": 2.1631,
+   "run_started_utc": "2026-11-09T01:00:36.309207+00:00",
+   "run_finished_utc": "2026-11-09T01:14:52.589872+00:00"
+  },
+  {
+   "chunk": 1,
+   "start_s": 395.85,
+   "end_s": 814.25,
+   "file": "chunk-1.json",
+   "n_segments": 78,
+   "language": "en",
+   "language_probability": 0.977483868598938,
+   "transcribe_wall_s": 983.9,
+   "realtime_factor": 2.3516,
+   "run_started_utc": "2026-11-09T01:00:35.678207+00:00",
+   "run_finished_utc": "2026-11-09T01:16:59.577965+00:00"
+  },
+  {
+   "chunk": 2,
+   "start_s": 814.25,
+   "end_s": 1228.95,
+   "file": "chunk-2.json",
+   "n_segments": 85,
+   "language": "en",
+   "language_probability": 0.9914302229881287,
+   "transcribe_wall_s": 613.31,
+   "realtime_factor": 1.4789,
+   "run_started_utc": "2026-11-09T01:00:36.687397+00:00",
+   "run_finished_utc": "2026-11-09T01:10:50.005453+00:00"
+  },
+  {
+   "chunk": 3,
+   "start_s": 1228.95,
+   "end_s": 1643.95,
+   "file": "chunk-3.json",
+   "n_segments": 63,
+   "language": "en",
+   "language_probability": 0.9990070462226868,
+   "transcribe_wall_s": 868.53,
+   "realtime_factor": 2.0928,
+   "run_started_utc": "2026-11-09T01:00:36.746164+00:00",
+   "run_finished_utc": "2026-11-09T01:15:05.282405+00:00"
+  },
+  {
+   "chunk": 4,
+   "start_s": 1643.95,
+   "end_s": 2062.15,
+   "file": "chunk-4.json",
+   "n_segments": 173,
+   "language": "en",
+   "language_probability": 0.9939882755279541,
+   "transcribe_wall_s": 697.93,
+   "realtime_factor": 1.6689,
+   "run_started_utc": "2026-11-09T01:00:36.309961+00:00",
+   "run_finished_utc": "2026-11-09T01:12:14.244485+00:00"
+  },
+  {
+   "chunk": 5,
+   "start_s": 2062.15,
+   "end_s": 2474.65,
+   "file": "chunk-5.json",
+   "n_segments": 120,
+   "language": "en",
+   "language_probability": 0.9622001647949219,
+   "transcribe_wall_s": 846.62,
+   "realtime_factor": 2.0524,
+   "run_started_utc": "2026-11-09T01:00:35.932129+00:00",
+   "run_finished_utc": "2026-11-09T01:14:42.559934+00:00"
+  },
+  {
+   "chunk": 6,
+   "start_s": 2474.65,
+   "end_s": 2890.75,
+   "file": "chunk-6.json",
+   "n_segments": 122,
+   "language": "en",
+   "language_probability": 0.9888442158699036,
+   "transcribe_wall_s": 956.27,
+   "realtime_factor": 2.2982,
+   "run_started_utc": "2026-11-09T01:00:36.065226+00:00",
+   "run_finished_utc": "2026-11-09T01:16:32.337324+00:00"
+  },
+  {
+   "chunk": 7,
+   "start_s": 2890.75,
+   "end_s": 3306.25,
+   "file": "chunk-7.json",
+   "n_segments": 92,
+   "language": "en",
+   "language_probability": 0.8579719662666321,
+   "transcribe_wall_s": 736.45,
+   "realtime_factor": 1.7724,
+   "run_started_utc": "2026-11-09T01:00:36.777480+00:00",
+   "run_finished_utc": "2026-11-09T01:12:53.234130+00:00"
+  },
+  {
+   "chunk": 8,
+   "start_s": 3306.25,
+   "end_s": 3728.25,
+   "file": "chunk-8.json",
+   "n_segments": 59,
+   "language": "en",
+   "language_probability": 0.9276970624923706,
+   "transcribe_wall_s": 857.29,
+   "realtime_factor": 2.0315,
+   "run_started_utc": "2026-11-09T01:00:35.743771+00:00",
+   "run_finished_utc": "2026-11-09T01:14:53.035691+00:00"
+  },
+  {
+   "chunk": 9,
+   "start_s": 3728.25,
+   "end_s": 4157.754,
+   "file": "chunk-9.json",
+   "n_segments": 215,
+   "language": "en",
+   "language_probability": 0.9670755863189697,
+   "transcribe_wall_s": 690.97,
+   "realtime_factor": 1.6088,
+   "run_started_utc": "2026-11-09T01:00:35.743809+00:00",
+   "run_finished_utc": "2026-11-09T01:12:06.723302+00:00"
+  }
+ ],
+ "segments": 1118,
+ "scripts": "scripts/asr/first-pass/ (split_points.py, asr.py, merge.py)",
+ "files": [
+  {
+   "file": "chunk-0.json",
+   "bytes": 82749,
+   "sha256": "9585f564a49e3e8180dcc63b8496d17edfe8be67aa948cd31c96b48eb9bb2985",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-0.json",
+   "scratch_source_sha256": "9585f564a49e3e8180dcc63b8496d17edfe8be67aa948cd31c96b48eb9bb2985",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-1.json",
+   "bytes": 76776,
+   "sha256": "c1b805a051e7fd6e54bd56f6c208cd97819fdf51cfa0eb898989c4ee46e76d01",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-1.json",
+   "scratch_source_sha256": "c1b805a051e7fd6e54bd56f6c208cd97819fdf51cfa0eb898989c4ee46e76d01",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-2.json",
+   "bytes": 84993,
+   "sha256": "ffed9d481c8ceaa2e95e326c054005c7a4c33429724a8d137770d3365458a77f",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-2.json",
+   "scratch_source_sha256": "ffed9d481c8ceaa2e95e326c054005c7a4c33429724a8d137770d3365458a77f",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-3.json",
+   "bytes": 83994,
+   "sha256": "c8b3622d8ce114a02ac568808eb0ee1e2c1864620a610265b983985b409bb565",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-3.json",
+   "scratch_source_sha256": "c8b3622d8ce114a02ac568808eb0ee1e2c1864620a610265b983985b409bb565",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-4.json",
+   "bytes": 103678,
+   "sha256": "1b8fa63c1ad7f95bf18a9ada0fd1d6302229b4b76bf19ee593a898e8f48b93cf",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-4.json",
+   "scratch_source_sha256": "1b8fa63c1ad7f95bf18a9ada0fd1d6302229b4b76bf19ee593a898e8f48b93cf",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-5.json",
+   "bytes": 93901,
+   "sha256": "4241fad2665cbcfd25682c1efce087035d62722e2dfd96776ce45bd4ee00a6ac",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-5.json",
+   "scratch_source_sha256": "4241fad2665cbcfd25682c1efce087035d62722e2dfd96776ce45bd4ee00a6ac",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-6.json",
+   "bytes": 94639,
+   "sha256": "8e32a3b69ecc958f66bf63d51499d4ab42c02291d8f90c435dab0c52666187d0",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-6.json",
+   "scratch_source_sha256": "8e32a3b69ecc958f66bf63d51499d4ab42c02291d8f90c435dab0c52666187d0",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-7.json",
+   "bytes": 93625,
+   "sha256": "b36a8da6c0eaeec87864041bc713b219a87ef95df9393eb1d5b8311a6270905d",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-7.json",
+   "scratch_source_sha256": "b36a8da6c0eaeec87864041bc713b219a87ef95df9393eb1d5b8311a6270905d",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-8.json",
+   "bytes": 89594,
+   "sha256": "00f2fd2ab737a74392065cd55d978852bd5c05a581e984998219920657e3a79f",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-8.json",
+   "scratch_source_sha256": "00f2fd2ab737a74392065cd55d978852bd5c05a581e984998219920657e3a79f",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunk-9.json",
+   "bytes": 152107,
+   "sha256": "99573515800f1287f76a5256440656794428555c1d0168fa5c2c492f1a2ecc9e",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunk-9.json",
+   "scratch_source_sha256": "99573515800f1287f76a5256440656794428555c1d0168fa5c2c492f1a2ecc9e",
+   "identical_to_source": true
+  },
+  {
+   "file": "chunks.json",
+   "bytes": 1540,
+   "sha256": "44327d53d28326417697600f1753f9e8f13cb0a752943c444311c8d6a2065ff5",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/chunks.json",
+   "scratch_source_sha256": "44327d53d28326417697600f1753f9e8f13cb0a752943c444311c8d6a2065ff5",
+   "identical_to_source": true
+  },
+  {
+   "file": "merged-raw-asr.json",
+   "bytes": 1016556,
+   "sha256": "377fe8abce09d849a6d794ff936d42652f8d0b28312ad08fffea62a42919fae7",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/asr/full/merged-raw-asr.json",
+   "scratch_source_sha256": "377fe8abce09d849a6d794ff936d42652f8d0b28312ad08fffea62a42919fae7",
+   "identical_to_source": true
+  }
+ ]
+}

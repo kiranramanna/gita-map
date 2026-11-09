@@ -1,0 +1,391 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-3076.55-3111.21-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 3076.55,
+   "dur_s": 34.66,
+   "sample_start": 49224800,
+   "sample_end": 49779360,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-3076.55-3111.21-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "3076.55",
+   "--dur",
+   "34.66",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-3076.55-3111.21-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:31:17.043372+00:00",
+  "run_finished_utc": "2026-11-09T01:32:15.315662+00:00",
+  "model_load_s": 6.75,
+  "transcribe_wall_s": 58.27,
+  "audio_dur_s": 34.66,
+  "realtime_factor": 1.6812
+ },
+ "language": "en",
+ "language_probability": 0.9394097924232483,
+ "duration": 34.66,
+ "duration_after_vad": 34.66,
+ "segments": [
+  {
+   "id": 1,
+   "start": 3079.47,
+   "end": 3081.03,
+   "text": " What does that mean?",
+   "avg_logprob": -0.33875644384925047,
+   "no_speech_prob": 0.05344005301594734,
+   "compression_ratio": 1.3986013986013985,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3079.47,
+     "end": 3080.23,
+     "word": " What",
+     "probability": 0.7996
+    },
+    {
+     "start": 3080.23,
+     "end": 3080.51,
+     "word": " does",
+     "probability": 0.9955
+    },
+    {
+     "start": 3080.51,
+     "end": 3080.75,
+     "word": " that",
+     "probability": 0.5677
+    },
+    {
+     "start": 3080.75,
+     "end": 3081.03,
+     "word": " mean?",
+     "probability": 0.9979
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 3082.21,
+   "end": 3090.75,
+   "text": " Yam, which or whom, the same abhyakta akshara paramagati, that is what is integrated by which.",
+   "avg_logprob": -0.33875644384925047,
+   "no_speech_prob": 0.05344005301594734,
+   "compression_ratio": 1.3986013986013985,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3082.21,
+     "end": 3082.97,
+     "word": " Yam,",
+     "probability": 0.0928
+    },
+    {
+     "start": 3082.97,
+     "end": 3083.73,
+     "word": " which",
+     "probability": 0.9886
+    },
+    {
+     "start": 3083.73,
+     "end": 3084.99,
+     "word": " or",
+     "probability": 0.9728
+    },
+    {
+     "start": 3084.99,
+     "end": 3085.37,
+     "word": " whom,",
+     "probability": 0.9957
+    },
+    {
+     "start": 3085.47,
+     "end": 3086.07,
+     "word": " the",
+     "probability": 0.9933
+    },
+    {
+     "start": 3086.07,
+     "end": 3086.43,
+     "word": " same",
+     "probability": 0.9996
+    },
+    {
+     "start": 3086.43,
+     "end": 3087.21,
+     "word": " abhyakta",
+     "probability": 0.8974
+    },
+    {
+     "start": 3087.21,
+     "end": 3087.65,
+     "word": " akshara",
+     "probability": 0.9892
+    },
+    {
+     "start": 3087.65,
+     "end": 3088.41,
+     "word": " paramagati,",
+     "probability": 0.797
+    },
+    {
+     "start": 3088.53,
+     "end": 3088.91,
+     "word": " that",
+     "probability": 0.997
+    },
+    {
+     "start": 3088.91,
+     "end": 3089.15,
+     "word": " is",
+     "probability": 0.9998
+    },
+    {
+     "start": 3089.15,
+     "end": 3089.43,
+     "word": " what",
+     "probability": 0.9848
+    },
+    {
+     "start": 3089.43,
+     "end": 3089.61,
+     "word": " is",
+     "probability": 0.9998
+    },
+    {
+     "start": 3089.61,
+     "end": 3090.07,
+     "word": " integrated",
+     "probability": 0.644
+    },
+    {
+     "start": 3090.07,
+     "end": 3090.45,
+     "word": " by",
+     "probability": 0.9998
+    },
+    {
+     "start": 3090.45,
+     "end": 3090.75,
+     "word": " which.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 3092.15,
+   "end": 3095.19,
+   "text": " Prapya, having attained or upon reaching.",
+   "avg_logprob": -0.33875644384925047,
+   "no_speech_prob": 0.05344005301594734,
+   "compression_ratio": 1.3986013986013985,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3092.15,
+     "end": 3092.91,
+     "word": " Prapya,",
+     "probability": 0.7779
+    },
+    {
+     "start": 3092.91,
+     "end": 3093.67,
+     "word": " having",
+     "probability": 0.9995
+    },
+    {
+     "start": 3093.67,
+     "end": 3094.09,
+     "word": " attained",
+     "probability": 0.999
+    },
+    {
+     "start": 3094.09,
+     "end": 3094.49,
+     "word": " or",
+     "probability": 0.9996
+    },
+    {
+     "start": 3094.49,
+     "end": 3094.81,
+     "word": " upon",
+     "probability": 0.9997
+    },
+    {
+     "start": 3094.81,
+     "end": 3095.19,
+     "word": " reaching.",
+     "probability": 0.9999
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 3096.61,
+   "end": 3102.49,
+   "text": " The same thing, upetya, in the 10th verse.",
+   "avg_logprob": -0.33875644384925047,
+   "no_speech_prob": 0.05344005301594734,
+   "compression_ratio": 1.3986013986013985,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3096.61,
+     "end": 3097.37,
+     "word": " The",
+     "probability": 0.9987
+    },
+    {
+     "start": 3097.37,
+     "end": 3097.67,
+     "word": " same",
+     "probability": 0.9999
+    },
+    {
+     "start": 3097.67,
+     "end": 3098.05,
+     "word": " thing,",
+     "probability": 0.9999
+    },
+    {
+     "start": 3098.13,
+     "end": 3099.63,
+     "word": " upetya,",
+     "probability": 0.7868
+    },
+    {
+     "start": 3099.77,
+     "end": 3100.67,
+     "word": " in",
+     "probability": 0.9975
+    },
+    {
+     "start": 3100.67,
+     "end": 3100.83,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 3100.83,
+     "end": 3102.21,
+     "word": " 10th",
+     "probability": 0.8813
+    },
+    {
+     "start": 3102.21,
+     "end": 3102.49,
+     "word": " verse.",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 3102.49,
+   "end": 3109.97,
+   "text": " This is Brahmaprapti expressed in different words differently.",
+   "avg_logprob": -0.3324938661911908,
+   "no_speech_prob": 0.01348181627690792,
+   "compression_ratio": 1.0333333333333334,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3102.49,
+     "end": 3102.81,
+     "word": " This",
+     "probability": 0.2211
+    },
+    {
+     "start": 3102.81,
+     "end": 3102.81,
+     "word": " is",
+     "probability": 0.5074
+    },
+    {
+     "start": 3102.81,
+     "end": 3106.55,
+     "word": " Brahmaprapti",
+     "probability": 0.7884
+    },
+    {
+     "start": 3106.55,
+     "end": 3107.61,
+     "word": " expressed",
+     "probability": 0.875
+    },
+    {
+     "start": 3107.61,
+     "end": 3108.03,
+     "word": " in",
+     "probability": 0.9894
+    },
+    {
+     "start": 3108.03,
+     "end": 3108.33,
+     "word": " different",
+     "probability": 0.9961
+    },
+    {
+     "start": 3108.33,
+     "end": 3108.73,
+     "word": " words",
+     "probability": 0.9187
+    },
+    {
+     "start": 3108.73,
+     "end": 3109.97,
+     "word": " differently.",
+     "probability": 0.7776
+    }
+   ]
+  }
+ ]
+}

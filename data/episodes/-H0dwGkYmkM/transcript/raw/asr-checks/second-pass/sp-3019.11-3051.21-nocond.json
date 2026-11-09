@@ -1,0 +1,421 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-3019.11-3051.21-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 3019.11,
+   "dur_s": 32.1,
+   "sample_start": 48305760,
+   "sample_end": 48819360,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-3019.11-3051.21-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "3019.11",
+   "--dur",
+   "32.1",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-3019.11-3051.21-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:31:13.816036+00:00",
+  "run_finished_utc": "2026-11-09T01:32:12.503191+00:00",
+  "model_load_s": 6.44,
+  "transcribe_wall_s": 58.68,
+  "audio_dur_s": 32.1,
+  "realtime_factor": 1.8281
+ },
+ "language": "en",
+ "language_probability": 0.9346002340316772,
+ "duration": 32.1,
+ "duration_after_vad": 32.1,
+ "segments": [
+  {
+   "id": 1,
+   "start": 3019.11,
+   "end": 3025.73,
+   "text": " know Vedanta, the knowers of Vedanta tradition, declare that to be the Paramagati, characterised",
+   "avg_logprob": -0.3263347649026191,
+   "no_speech_prob": 0.05049677565693855,
+   "compression_ratio": 1.6453488372093024,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3019.11,
+     "end": 3019.25,
+     "word": " know",
+     "probability": 0.6729
+    },
+    {
+     "start": 3019.25,
+     "end": 3019.89,
+     "word": " Vedanta,",
+     "probability": 0.9836
+    },
+    {
+     "start": 3020.05,
+     "end": 3020.49,
+     "word": " the",
+     "probability": 0.9968
+    },
+    {
+     "start": 3020.49,
+     "end": 3020.89,
+     "word": " knowers",
+     "probability": 0.676
+    },
+    {
+     "start": 3020.89,
+     "end": 3021.09,
+     "word": " of",
+     "probability": 0.9995
+    },
+    {
+     "start": 3021.09,
+     "end": 3021.47,
+     "word": " Vedanta",
+     "probability": 0.9953
+    },
+    {
+     "start": 3021.47,
+     "end": 3021.87,
+     "word": " tradition,",
+     "probability": 0.9942
+    },
+    {
+     "start": 3022.13,
+     "end": 3023.03,
+     "word": " declare",
+     "probability": 0.9854
+    },
+    {
+     "start": 3023.03,
+     "end": 3023.49,
+     "word": " that",
+     "probability": 0.9986
+    },
+    {
+     "start": 3023.49,
+     "end": 3023.77,
+     "word": " to",
+     "probability": 0.9989
+    },
+    {
+     "start": 3023.77,
+     "end": 3023.97,
+     "word": " be",
+     "probability": 0.9997
+    },
+    {
+     "start": 3023.97,
+     "end": 3024.19,
+     "word": " the",
+     "probability": 0.9946
+    },
+    {
+     "start": 3024.19,
+     "end": 3024.89,
+     "word": " Paramagati,",
+     "probability": 0.7661
+    },
+    {
+     "start": 3025.03,
+     "end": 3025.73,
+     "word": " characterised",
+     "probability": 0.5512
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 3025.73,
+   "end": 3034.87,
+   "text": " by Nishreyasa, the highest good, that is the liberation. Who are the Vedanta with? Knowers",
+   "avg_logprob": -0.3263347649026191,
+   "no_speech_prob": 0.05049677565693855,
+   "compression_ratio": 1.6453488372093024,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3025.73,
+     "end": 3026.09,
+     "word": " by",
+     "probability": 0.999
+    },
+    {
+     "start": 3026.09,
+     "end": 3026.91,
+     "word": " Nishreyasa,",
+     "probability": 0.8281
+    },
+    {
+     "start": 3027.07,
+     "end": 3027.85,
+     "word": " the",
+     "probability": 0.9957
+    },
+    {
+     "start": 3027.85,
+     "end": 3028.17,
+     "word": " highest",
+     "probability": 0.9939
+    },
+    {
+     "start": 3028.17,
+     "end": 3028.59,
+     "word": " good,",
+     "probability": 0.9921
+    },
+    {
+     "start": 3028.73,
+     "end": 3029.31,
+     "word": " that",
+     "probability": 0.9709
+    },
+    {
+     "start": 3029.31,
+     "end": 3029.47,
+     "word": " is",
+     "probability": 0.9996
+    },
+    {
+     "start": 3029.47,
+     "end": 3029.61,
+     "word": " the",
+     "probability": 0.9738
+    },
+    {
+     "start": 3029.61,
+     "end": 3029.91,
+     "word": " liberation.",
+     "probability": 0.9848
+    },
+    {
+     "start": 3031.99,
+     "end": 3032.79,
+     "word": " Who",
+     "probability": 0.99
+    },
+    {
+     "start": 3032.79,
+     "end": 3032.97,
+     "word": " are",
+     "probability": 0.9995
+    },
+    {
+     "start": 3032.97,
+     "end": 3033.13,
+     "word": " the",
+     "probability": 0.9955
+    },
+    {
+     "start": 3033.13,
+     "end": 3033.55,
+     "word": " Vedanta",
+     "probability": 0.9058
+    },
+    {
+     "start": 3033.55,
+     "end": 3033.75,
+     "word": " with?",
+     "probability": 0.5577
+    },
+    {
+     "start": 3034.07,
+     "end": 3034.87,
+     "word": " Knowers",
+     "probability": 0.9499
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 3034.87,
+   "end": 3046.97,
+   "text": " of Upanishad. They are the Vedabhits who declare Akshara. The Vedavidaha declared, yad Aksharam",
+   "avg_logprob": -0.3263347649026191,
+   "no_speech_prob": 0.05049677565693855,
+   "compression_ratio": 1.6453488372093024,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3034.87,
+     "end": 3035.07,
+     "word": " of",
+     "probability": 0.9973
+    },
+    {
+     "start": 3035.07,
+     "end": 3035.73,
+     "word": " Upanishad.",
+     "probability": 0.7025
+    },
+    {
+     "start": 3036.51,
+     "end": 3037.31,
+     "word": " They",
+     "probability": 0.9972
+    },
+    {
+     "start": 3037.31,
+     "end": 3037.47,
+     "word": " are",
+     "probability": 0.9995
+    },
+    {
+     "start": 3037.47,
+     "end": 3037.65,
+     "word": " the",
+     "probability": 0.9982
+    },
+    {
+     "start": 3037.65,
+     "end": 3038.13,
+     "word": " Vedabhits",
+     "probability": 0.6257
+    },
+    {
+     "start": 3038.13,
+     "end": 3038.53,
+     "word": " who",
+     "probability": 0.7414
+    },
+    {
+     "start": 3038.53,
+     "end": 3038.95,
+     "word": " declare",
+     "probability": 0.9983
+    },
+    {
+     "start": 3038.95,
+     "end": 3039.73,
+     "word": " Akshara.",
+     "probability": 0.9487
+    },
+    {
+     "start": 3043.07,
+     "end": 3043.87,
+     "word": " The",
+     "probability": 0.9879
+    },
+    {
+     "start": 3043.87,
+     "end": 3044.55,
+     "word": " Vedavidaha",
+     "probability": 0.9572
+    },
+    {
+     "start": 3044.55,
+     "end": 3044.91,
+     "word": " declared,",
+     "probability": 0.977
+    },
+    {
+     "start": 3045.39,
+     "end": 3046.49,
+     "word": " yad",
+     "probability": 0.8387
+    },
+    {
+     "start": 3046.49,
+     "end": 3046.97,
+     "word": " Aksharam",
+     "probability": 0.9535
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 3049.17,
+   "end": 3050.91,
+   "text": " In the eleventh verse he said,",
+   "avg_logprob": -0.40291206403212115,
+   "no_speech_prob": 0.0462493821978569,
+   "compression_ratio": 0.8108108108108109,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3049.17,
+     "end": 3049.65,
+     "word": " In",
+     "probability": 0.2915
+    },
+    {
+     "start": 3049.65,
+     "end": 3049.85,
+     "word": " the",
+     "probability": 0.9639
+    },
+    {
+     "start": 3049.85,
+     "end": 3050.17,
+     "word": " eleventh",
+     "probability": 0.8148
+    },
+    {
+     "start": 3050.17,
+     "end": 3050.45,
+     "word": " verse",
+     "probability": 0.9947
+    },
+    {
+     "start": 3050.45,
+     "end": 3050.67,
+     "word": " he",
+     "probability": 0.6098
+    },
+    {
+     "start": 3050.67,
+     "end": 3050.91,
+     "word": " said,",
+     "probability": 0.9864
+    }
+   ]
+  }
+ ]
+}

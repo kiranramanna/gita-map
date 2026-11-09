@@ -1,0 +1,841 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-3670.91-3742.83-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 3670.91,
+   "dur_s": 71.92,
+   "sample_start": 58734560,
+   "sample_end": 59885280,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-3670.91-3742.83-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "3670.91",
+   "--dur",
+   "71.92",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-3670.91-3742.83-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:31:53.715012+00:00",
+  "run_finished_utc": "2026-11-09T01:33:07.126523+00:00",
+  "model_load_s": 6.51,
+  "transcribe_wall_s": 73.41,
+  "audio_dur_s": 71.92,
+  "realtime_factor": 1.0207
+ },
+ "language": "en",
+ "language_probability": 0.976473331451416,
+ "duration": 71.92,
+ "duration_after_vad": 71.92,
+ "segments": [
+  {
+   "id": 1,
+   "start": 3670.91,
+   "end": 3674.97,
+   "text": " Purnasya Purnamadaya Purnameva Vashishyate",
+   "avg_logprob": -0.4220737627107803,
+   "no_speech_prob": 0.003665247233584523,
+   "compression_ratio": 1.4461538461538461,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3670.91,
+     "end": 3671.35,
+     "word": " Purnasya",
+     "probability": 0.6617
+    },
+    {
+     "start": 3671.35,
+     "end": 3672.65,
+     "word": " Purnamadaya",
+     "probability": 0.8025
+    },
+    {
+     "start": 3672.65,
+     "end": 3674.01,
+     "word": " Purnameva",
+     "probability": 0.8907
+    },
+    {
+     "start": 3674.01,
+     "end": 3674.97,
+     "word": " Vashishyate",
+     "probability": 0.8453
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 3674.97,
+   "end": 3679.73,
+   "text": " Om Shanti Shanti Shanti",
+   "avg_logprob": -0.4220737627107803,
+   "no_speech_prob": 0.003665247233584523,
+   "compression_ratio": 1.4461538461538461,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3674.97,
+     "end": 3676.07,
+     "word": " Om",
+     "probability": 0.8881
+    },
+    {
+     "start": 3676.07,
+     "end": 3677.47,
+     "word": " Shanti",
+     "probability": 0.9525
+    },
+    {
+     "start": 3677.47,
+     "end": 3678.69,
+     "word": " Shanti",
+     "probability": 0.9903
+    },
+    {
+     "start": 3678.69,
+     "end": 3679.73,
+     "word": " Shanti",
+     "probability": 0.9711
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 3679.73,
+   "end": 3684.51,
+   "text": " Hari Om Sri Gurubhyo Namaha",
+   "avg_logprob": -0.4220737627107803,
+   "no_speech_prob": 0.003665247233584523,
+   "compression_ratio": 1.4461538461538461,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3679.73,
+     "end": 3681.01,
+     "word": " Hari",
+     "probability": 0.8449
+    },
+    {
+     "start": 3681.01,
+     "end": 3681.91,
+     "word": " Om",
+     "probability": 0.6613
+    },
+    {
+     "start": 3681.91,
+     "end": 3683.05,
+     "word": " Sri",
+     "probability": 0.681
+    },
+    {
+     "start": 3683.05,
+     "end": 3683.95,
+     "word": " Gurubhyo",
+     "probability": 0.7206
+    },
+    {
+     "start": 3683.95,
+     "end": 3684.51,
+     "word": " Namaha",
+     "probability": 0.9424
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 3684.51,
+   "end": 3685.85,
+   "text": " Hari Om",
+   "avg_logprob": -0.4220737627107803,
+   "no_speech_prob": 0.003665247233584523,
+   "compression_ratio": 1.4461538461538461,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3684.51,
+     "end": 3685.45,
+     "word": " Hari",
+     "probability": 0.9823
+    },
+    {
+     "start": 3685.45,
+     "end": 3685.85,
+     "word": " Om",
+     "probability": 0.9918
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 3685.85,
+   "end": 3687.29,
+   "text": " Thank you.",
+   "avg_logprob": -0.4220737627107803,
+   "no_speech_prob": 0.003665247233584523,
+   "compression_ratio": 1.4461538461538461,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3685.85,
+     "end": 3687.03,
+     "word": " Thank",
+     "probability": 0.8944
+    },
+    {
+     "start": 3687.03,
+     "end": 3687.29,
+     "word": " you.",
+     "probability": 0.9296
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 3687.93,
+   "end": 3695.39,
+   "text": " Thank you very much, Mendoji.",
+   "avg_logprob": -0.4220737627107803,
+   "no_speech_prob": 0.003665247233584523,
+   "compression_ratio": 1.4461538461538461,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3687.41,
+     "end": 3688.09,
+     "word": " Thank",
+     "probability": 0.7201
+    },
+    {
+     "start": 3688.09,
+     "end": 3690.15,
+     "word": " you",
+     "probability": 0.9988
+    },
+    {
+     "start": 3690.15,
+     "end": 3694.73,
+     "word": " very",
+     "probability": 0.9566
+    },
+    {
+     "start": 3694.73,
+     "end": 3694.99,
+     "word": " much,",
+     "probability": 1.0
+    },
+    {
+     "start": 3695.07,
+     "end": 3695.39,
+     "word": " Mendoji.",
+     "probability": 0.6776
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 3696.77,
+   "end": 3699.99,
+   "text": " The request to join option is available now.",
+   "avg_logprob": -0.4220737627107803,
+   "no_speech_prob": 0.003665247233584523,
+   "compression_ratio": 1.4461538461538461,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3696.51,
+     "end": 3697.19,
+     "word": " The",
+     "probability": 0.9854
+    },
+    {
+     "start": 3697.19,
+     "end": 3697.63,
+     "word": " request",
+     "probability": 0.6996
+    },
+    {
+     "start": 3697.63,
+     "end": 3697.79,
+     "word": " to",
+     "probability": 0.995
+    },
+    {
+     "start": 3697.79,
+     "end": 3698.11,
+     "word": " join",
+     "probability": 0.9997
+    },
+    {
+     "start": 3698.11,
+     "end": 3698.63,
+     "word": " option",
+     "probability": 0.9987
+    },
+    {
+     "start": 3698.63,
+     "end": 3699.25,
+     "word": " is",
+     "probability": 0.9693
+    },
+    {
+     "start": 3699.25,
+     "end": 3699.59,
+     "word": " available",
+     "probability": 0.9998
+    },
+    {
+     "start": 3699.59,
+     "end": 3699.99,
+     "word": " now.",
+     "probability": 0.996
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 3699.99,
+   "end": 3708.89,
+   "text": " if you have any follow-up questions the chat window is also open and as a",
+   "avg_logprob": -0.141892857718886,
+   "no_speech_prob": 0.005250345915555954,
+   "compression_ratio": 1.4493670886075949,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3699.99,
+     "end": 3700.23,
+     "word": " if",
+     "probability": 0.838
+    },
+    {
+     "start": 3700.23,
+     "end": 3700.45,
+     "word": " you",
+     "probability": 0.9994
+    },
+    {
+     "start": 3700.45,
+     "end": 3700.57,
+     "word": " have",
+     "probability": 0.9992
+    },
+    {
+     "start": 3700.57,
+     "end": 3700.73,
+     "word": " any",
+     "probability": 0.9992
+    },
+    {
+     "start": 3700.73,
+     "end": 3701.05,
+     "word": " follow",
+     "probability": 0.9972
+    },
+    {
+     "start": 3701.05,
+     "end": 3701.15,
+     "word": "-up",
+     "probability": 0.8652
+    },
+    {
+     "start": 3701.15,
+     "end": 3701.51,
+     "word": " questions",
+     "probability": 0.997
+    },
+    {
+     "start": 3701.51,
+     "end": 3702.23,
+     "word": " the",
+     "probability": 0.5228
+    },
+    {
+     "start": 3702.23,
+     "end": 3702.49,
+     "word": " chat",
+     "probability": 0.9941
+    },
+    {
+     "start": 3702.49,
+     "end": 3702.77,
+     "word": " window",
+     "probability": 0.7286
+    },
+    {
+     "start": 3702.77,
+     "end": 3702.93,
+     "word": " is",
+     "probability": 0.9877
+    },
+    {
+     "start": 3702.93,
+     "end": 3703.19,
+     "word": " also",
+     "probability": 0.9911
+    },
+    {
+     "start": 3703.19,
+     "end": 3703.51,
+     "word": " open",
+     "probability": 0.9971
+    },
+    {
+     "start": 3703.51,
+     "end": 3707.21,
+     "word": " and",
+     "probability": 0.8869
+    },
+    {
+     "start": 3707.21,
+     "end": 3708.79,
+     "word": " as",
+     "probability": 0.9814
+    },
+    {
+     "start": 3708.79,
+     "end": 3708.89,
+     "word": " a",
+     "probability": 0.9965
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 3708.89,
+   "end": 3716.63,
+   "text": " reminder this Sunday we will not be having an open discussion because of the",
+   "avg_logprob": -0.141892857718886,
+   "no_speech_prob": 0.005250345915555954,
+   "compression_ratio": 1.4493670886075949,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3708.89,
+     "end": 3709.43,
+     "word": " reminder",
+     "probability": 0.9983
+    },
+    {
+     "start": 3709.43,
+     "end": 3710.65,
+     "word": " this",
+     "probability": 0.97
+    },
+    {
+     "start": 3710.65,
+     "end": 3711.03,
+     "word": " Sunday",
+     "probability": 0.9627
+    },
+    {
+     "start": 3711.03,
+     "end": 3711.35,
+     "word": " we",
+     "probability": 0.987
+    },
+    {
+     "start": 3711.35,
+     "end": 3711.55,
+     "word": " will",
+     "probability": 0.9994
+    },
+    {
+     "start": 3711.55,
+     "end": 3711.77,
+     "word": " not",
+     "probability": 0.9987
+    },
+    {
+     "start": 3711.77,
+     "end": 3711.91,
+     "word": " be",
+     "probability": 0.9995
+    },
+    {
+     "start": 3711.91,
+     "end": 3712.29,
+     "word": " having",
+     "probability": 0.9995
+    },
+    {
+     "start": 3712.29,
+     "end": 3712.91,
+     "word": " an",
+     "probability": 0.9941
+    },
+    {
+     "start": 3712.91,
+     "end": 3713.15,
+     "word": " open",
+     "probability": 0.9993
+    },
+    {
+     "start": 3713.15,
+     "end": 3713.59,
+     "word": " discussion",
+     "probability": 0.9995
+    },
+    {
+     "start": 3713.59,
+     "end": 3714.55,
+     "word": " because",
+     "probability": 0.9957
+    },
+    {
+     "start": 3714.55,
+     "end": 3714.95,
+     "word": " of",
+     "probability": 0.9962
+    },
+    {
+     "start": 3714.95,
+     "end": 3716.63,
+     "word": " the",
+     "probability": 0.873
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 3716.63,
+   "end": 3724.23,
+   "text": " Diwali season and the fireworks so we will resume our next Bhagavad Gita class",
+   "avg_logprob": -0.141892857718886,
+   "no_speech_prob": 0.005250345915555954,
+   "compression_ratio": 1.4493670886075949,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3716.63,
+     "end": 3717.05,
+     "word": " Diwali",
+     "probability": 0.9752
+    },
+    {
+     "start": 3717.05,
+     "end": 3717.41,
+     "word": " season",
+     "probability": 0.9865
+    },
+    {
+     "start": 3717.41,
+     "end": 3717.73,
+     "word": " and",
+     "probability": 0.9793
+    },
+    {
+     "start": 3717.73,
+     "end": 3717.87,
+     "word": " the",
+     "probability": 0.9087
+    },
+    {
+     "start": 3717.87,
+     "end": 3718.31,
+     "word": " fireworks",
+     "probability": 0.9928
+    },
+    {
+     "start": 3718.31,
+     "end": 3720.95,
+     "word": " so",
+     "probability": 0.9712
+    },
+    {
+     "start": 3720.95,
+     "end": 3721.19,
+     "word": " we",
+     "probability": 0.9961
+    },
+    {
+     "start": 3721.19,
+     "end": 3721.39,
+     "word": " will",
+     "probability": 0.9968
+    },
+    {
+     "start": 3721.39,
+     "end": 3721.73,
+     "word": " resume",
+     "probability": 0.9795
+    },
+    {
+     "start": 3721.73,
+     "end": 3722.19,
+     "word": " our",
+     "probability": 0.9828
+    },
+    {
+     "start": 3722.19,
+     "end": 3722.59,
+     "word": " next",
+     "probability": 0.9986
+    },
+    {
+     "start": 3722.59,
+     "end": 3723.81,
+     "word": " Bhagavad",
+     "probability": 0.9409
+    },
+    {
+     "start": 3723.81,
+     "end": 3723.93,
+     "word": " Gita",
+     "probability": 0.993
+    },
+    {
+     "start": 3723.93,
+     "end": 3724.23,
+     "word": " class",
+     "probability": 0.9897
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 3724.23,
+   "end": 3727.27,
+   "text": " hours on Monday at 8 30 p.m. AST",
+   "avg_logprob": -0.4892736687546685,
+   "no_speech_prob": 0.09951160848140717,
+   "compression_ratio": 1.1538461538461537,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3724.23,
+     "end": 3724.41,
+     "word": " hours",
+     "probability": 0.5274
+    },
+    {
+     "start": 3724.41,
+     "end": 3724.57,
+     "word": " on",
+     "probability": 0.9929
+    },
+    {
+     "start": 3724.57,
+     "end": 3724.95,
+     "word": " Monday",
+     "probability": 0.938
+    },
+    {
+     "start": 3724.95,
+     "end": 3725.57,
+     "word": " at",
+     "probability": 0.3157
+    },
+    {
+     "start": 3725.57,
+     "end": 3726.31,
+     "word": " 8",
+     "probability": 0.9786
+    },
+    {
+     "start": 3726.31,
+     "end": 3726.47,
+     "word": " 30",
+     "probability": 0.3013
+    },
+    {
+     "start": 3726.47,
+     "end": 3726.73,
+     "word": " p",
+     "probability": 0.4823
+    },
+    {
+     "start": 3726.73,
+     "end": 3726.99,
+     "word": ".m.",
+     "probability": 0.9998
+    },
+    {
+     "start": 3726.99,
+     "end": 3727.27,
+     "word": " AST",
+     "probability": 0.7429
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 3733.43,
+   "end": 3740.53,
+   "text": " I don't know whether you're able to hear the crackers my background very very",
+   "avg_logprob": -0.4892736687546685,
+   "no_speech_prob": 0.09951160848140717,
+   "compression_ratio": 1.1538461538461537,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3733.43,
+     "end": 3733.99,
+     "word": " I",
+     "probability": 0.5703
+    },
+    {
+     "start": 3733.99,
+     "end": 3734.55,
+     "word": " don't",
+     "probability": 0.9932
+    },
+    {
+     "start": 3734.55,
+     "end": 3734.63,
+     "word": " know",
+     "probability": 0.9979
+    },
+    {
+     "start": 3734.63,
+     "end": 3734.77,
+     "word": " whether",
+     "probability": 0.624
+    },
+    {
+     "start": 3734.77,
+     "end": 3735.05,
+     "word": " you're",
+     "probability": 0.7408
+    },
+    {
+     "start": 3735.05,
+     "end": 3735.25,
+     "word": " able",
+     "probability": 0.9985
+    },
+    {
+     "start": 3735.25,
+     "end": 3735.47,
+     "word": " to",
+     "probability": 0.9996
+    },
+    {
+     "start": 3735.47,
+     "end": 3735.65,
+     "word": " hear",
+     "probability": 0.9856
+    },
+    {
+     "start": 3735.65,
+     "end": 3735.85,
+     "word": " the",
+     "probability": 0.9072
+    },
+    {
+     "start": 3735.85,
+     "end": 3736.57,
+     "word": " crackers",
+     "probability": 0.8523
+    },
+    {
+     "start": 3736.57,
+     "end": 3737.31,
+     "word": " my",
+     "probability": 0.877
+    },
+    {
+     "start": 3737.31,
+     "end": 3737.65,
+     "word": " background",
+     "probability": 0.9781
+    },
+    {
+     "start": 3737.65,
+     "end": 3740.27,
+     "word": " very",
+     "probability": 0.9717
+    },
+    {
+     "start": 3740.27,
+     "end": 3740.53,
+     "word": " very",
+     "probability": 0.9765
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 3740.53,
+   "end": 3742.39,
+   "text": " faint Binduji very faint",
+   "avg_logprob": -0.4892736687546685,
+   "no_speech_prob": 0.09951160848140717,
+   "compression_ratio": 1.1538461538461537,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 3740.53,
+     "end": 3740.85,
+     "word": " faint",
+     "probability": 0.9986
+    },
+    {
+     "start": 3740.85,
+     "end": 3741.33,
+     "word": " Binduji",
+     "probability": 0.6151
+    },
+    {
+     "start": 3741.33,
+     "end": 3742.09,
+     "word": " very",
+     "probability": 0.8515
+    },
+    {
+     "start": 3742.09,
+     "end": 3742.39,
+     "word": " faint",
+     "probability": 0.9063
+    }
+   ]
+  }
+ ]
+}

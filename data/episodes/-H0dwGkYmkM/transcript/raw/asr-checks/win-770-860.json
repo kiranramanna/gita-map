@@ -1,0 +1,913 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified",
+  "note": "Machine ASR output, not reviewed or corrected. Sanskrit terms and verse text are likely mis-transcribed.",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 770.0,
+   "dur_s": 90.0
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 16,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": true,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64"
+  },
+  "run_started_utc": "2026-11-09T01:18:14.336343+00:00",
+  "run_finished_utc": "2026-11-09T01:19:06.588476+00:00",
+  "model_load_s": 5.39,
+  "transcribe_wall_s": 52.25,
+  "audio_dur_s": 90.0,
+  "realtime_factor": 0.5805
+ },
+ "language": "en",
+ "language_probability": 0.9913794994354248,
+ "all_language_probs_top5": [
+  [
+   "en",
+   0.9913794994354248
+  ],
+  [
+   "hi",
+   0.002595826517790556
+  ],
+  [
+   "te",
+   0.00234098918735981
+  ],
+  [
+   "sa",
+   0.001461753505282104
+  ],
+  [
+   "ta",
+   0.0008879107190296054
+  ]
+ ],
+ "duration": 90.0,
+ "duration_after_vad": 90.0,
+ "segments": [
+  {
+   "id": 1,
+   "start": 772.5,
+   "end": 786.26,
+   "text": " Even when Sarveshu, Bhuteshu, all these creation, Nasyatsu means when they are perish, now Inasyati,",
+   "avg_logprob": -0.4045554486716666,
+   "no_speech_prob": 0.0020470849703997374,
+   "compression_ratio": 1.2454545454545454,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 772.5,
+     "end": 773.42,
+     "word": " Even",
+     "probability": 0.795
+    },
+    {
+     "start": 773.42,
+     "end": 774.02,
+     "word": " when",
+     "probability": 0.9934
+    },
+    {
+     "start": 774.02,
+     "end": 776.26,
+     "word": " Sarveshu,",
+     "probability": 0.8284
+    },
+    {
+     "start": 776.28,
+     "end": 776.82,
+     "word": " Bhuteshu,",
+     "probability": 0.9711
+    },
+    {
+     "start": 776.84,
+     "end": 777.1,
+     "word": " all",
+     "probability": 0.996
+    },
+    {
+     "start": 777.1,
+     "end": 777.54,
+     "word": " these",
+     "probability": 0.7092
+    },
+    {
+     "start": 777.54,
+     "end": 778.08,
+     "word": " creation,",
+     "probability": 0.7513
+    },
+    {
+     "start": 778.38,
+     "end": 780.26,
+     "word": " Nasyatsu",
+     "probability": 0.6512
+    },
+    {
+     "start": 780.26,
+     "end": 780.7,
+     "word": " means",
+     "probability": 0.821
+    },
+    {
+     "start": 780.7,
+     "end": 781.62,
+     "word": " when",
+     "probability": 0.9886
+    },
+    {
+     "start": 781.62,
+     "end": 781.94,
+     "word": " they",
+     "probability": 0.9994
+    },
+    {
+     "start": 781.94,
+     "end": 782.3,
+     "word": " are",
+     "probability": 0.9872
+    },
+    {
+     "start": 782.3,
+     "end": 782.8,
+     "word": " perish,",
+     "probability": 0.7936
+    },
+    {
+     "start": 783.08,
+     "end": 785.68,
+     "word": " now",
+     "probability": 0.1325
+    },
+    {
+     "start": 785.68,
+     "end": 786.26,
+     "word": " Inasyati,",
+     "probability": 0.838
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 786.42,
+   "end": 790.4,
+   "text": " this eternal manifest do not perish.",
+   "avg_logprob": -0.4045554486716666,
+   "no_speech_prob": 0.0020470849703997374,
+   "compression_ratio": 1.2454545454545454,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 786.42,
+     "end": 787.62,
+     "word": " this",
+     "probability": 0.9664
+    },
+    {
+     "start": 787.62,
+     "end": 788.08,
+     "word": " eternal",
+     "probability": 0.9907
+    },
+    {
+     "start": 788.08,
+     "end": 788.68,
+     "word": " manifest",
+     "probability": 0.9964
+    },
+    {
+     "start": 788.68,
+     "end": 789.8,
+     "word": " do",
+     "probability": 0.7607
+    },
+    {
+     "start": 789.8,
+     "end": 790.06,
+     "word": " not",
+     "probability": 0.9999
+    },
+    {
+     "start": 790.06,
+     "end": 790.4,
+     "word": " perish.",
+     "probability": 0.9986
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 793.46,
+   "end": 799.56,
+   "text": " Krishna now reveals what stands beyond the cycle of birth and death.",
+   "avg_logprob": -0.2995852059212284,
+   "no_speech_prob": 0.0005532989162020385,
+   "compression_ratio": 1.5675675675675675,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 793.46,
+     "end": 794.34,
+     "word": " Krishna",
+     "probability": 0.7722
+    },
+    {
+     "start": 794.34,
+     "end": 794.7,
+     "word": " now",
+     "probability": 0.9859
+    },
+    {
+     "start": 794.7,
+     "end": 795.16,
+     "word": " reveals",
+     "probability": 0.9879
+    },
+    {
+     "start": 795.16,
+     "end": 795.58,
+     "word": " what",
+     "probability": 0.9897
+    },
+    {
+     "start": 795.58,
+     "end": 795.98,
+     "word": " stands",
+     "probability": 0.9938
+    },
+    {
+     "start": 795.98,
+     "end": 796.82,
+     "word": " beyond",
+     "probability": 0.9976
+    },
+    {
+     "start": 796.82,
+     "end": 797.7,
+     "word": " the",
+     "probability": 0.9923
+    },
+    {
+     "start": 797.7,
+     "end": 798.18,
+     "word": " cycle",
+     "probability": 0.9985
+    },
+    {
+     "start": 798.18,
+     "end": 798.54,
+     "word": " of",
+     "probability": 0.999
+    },
+    {
+     "start": 798.54,
+     "end": 799.12,
+     "word": " birth",
+     "probability": 0.9849
+    },
+    {
+     "start": 799.12,
+     "end": 799.32,
+     "word": " and",
+     "probability": 0.9905
+    },
+    {
+     "start": 799.32,
+     "end": 799.56,
+     "word": " death.",
+     "probability": 0.9977
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 801.28,
+   "end": 804.96,
+   "text": " The avyakta avyakta sanatanah.",
+   "avg_logprob": -0.2995852059212284,
+   "no_speech_prob": 0.0005532989162020385,
+   "compression_ratio": 1.5675675675675675,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 801.28,
+     "end": 802.16,
+     "word": " The",
+     "probability": 0.5297
+    },
+    {
+     "start": 802.16,
+     "end": 802.92,
+     "word": " avyakta",
+     "probability": 0.7952
+    },
+    {
+     "start": 802.92,
+     "end": 803.8,
+     "word": " avyakta",
+     "probability": 0.9048
+    },
+    {
+     "start": 803.8,
+     "end": 804.96,
+     "word": " sanatanah.",
+     "probability": 0.8304
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 805.42,
+   "end": 813.9,
+   "text": " That is the eternal unmanifest beyond the saguna and avyakta, which is the cosmic unmanifest.",
+   "avg_logprob": -0.2995852059212284,
+   "no_speech_prob": 0.0005532989162020385,
+   "compression_ratio": 1.5675675675675675,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 805.42,
+     "end": 806.3,
+     "word": " That",
+     "probability": 0.9872
+    },
+    {
+     "start": 806.3,
+     "end": 806.44,
+     "word": " is",
+     "probability": 0.9996
+    },
+    {
+     "start": 806.44,
+     "end": 806.58,
+     "word": " the",
+     "probability": 0.9841
+    },
+    {
+     "start": 806.58,
+     "end": 807.12,
+     "word": " eternal",
+     "probability": 0.9986
+    },
+    {
+     "start": 807.12,
+     "end": 807.94,
+     "word": " unmanifest",
+     "probability": 0.9947
+    },
+    {
+     "start": 807.94,
+     "end": 808.42,
+     "word": " beyond",
+     "probability": 0.9939
+    },
+    {
+     "start": 808.42,
+     "end": 808.82,
+     "word": " the",
+     "probability": 0.9987
+    },
+    {
+     "start": 808.82,
+     "end": 811.44,
+     "word": " saguna",
+     "probability": 0.9894
+    },
+    {
+     "start": 811.44,
+     "end": 811.72,
+     "word": " and",
+     "probability": 0.7011
+    },
+    {
+     "start": 811.72,
+     "end": 812.22,
+     "word": " avyakta,",
+     "probability": 0.8957
+    },
+    {
+     "start": 812.3,
+     "end": 812.48,
+     "word": " which",
+     "probability": 0.9991
+    },
+    {
+     "start": 812.48,
+     "end": 812.64,
+     "word": " is",
+     "probability": 0.9995
+    },
+    {
+     "start": 812.64,
+     "end": 812.78,
+     "word": " the",
+     "probability": 0.9996
+    },
+    {
+     "start": 812.78,
+     "end": 813.12,
+     "word": " cosmic",
+     "probability": 0.9988
+    },
+    {
+     "start": 813.12,
+     "end": 813.9,
+     "word": " unmanifest.",
+     "probability": 0.9992
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 815.22,
+   "end": 818.98,
+   "text": " This verse performs the most critical.",
+   "avg_logprob": -0.2995852059212284,
+   "no_speech_prob": 0.0005532989162020385,
+   "compression_ratio": 1.5675675675675675,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 815.22,
+     "end": 816.1,
+     "word": " This",
+     "probability": 0.9567
+    },
+    {
+     "start": 816.1,
+     "end": 816.44,
+     "word": " verse",
+     "probability": 0.9994
+    },
+    {
+     "start": 816.44,
+     "end": 816.94,
+     "word": " performs",
+     "probability": 0.9981
+    },
+    {
+     "start": 816.94,
+     "end": 817.28,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 817.28,
+     "end": 817.6,
+     "word": " most",
+     "probability": 0.9994
+    },
+    {
+     "start": 817.6,
+     "end": 818.98,
+     "word": " critical.",
+     "probability": 0.9984
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 820.4,
+   "end": 824.5,
+   "text": " Discrimination in the chapter between the two avyaktas.",
+   "avg_logprob": -0.24861445414776706,
+   "no_speech_prob": 0.002018016530200839,
+   "compression_ratio": 1.6022727272727273,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 820.4,
+     "end": 821.26,
+     "word": " Discrimination",
+     "probability": 0.857
+    },
+    {
+     "start": 821.26,
+     "end": 821.74,
+     "word": " in",
+     "probability": 0.9944
+    },
+    {
+     "start": 821.74,
+     "end": 821.88,
+     "word": " the",
+     "probability": 0.9987
+    },
+    {
+     "start": 821.88,
+     "end": 822.24,
+     "word": " chapter",
+     "probability": 0.9802
+    },
+    {
+     "start": 822.24,
+     "end": 823.14,
+     "word": " between",
+     "probability": 0.9856
+    },
+    {
+     "start": 823.14,
+     "end": 823.56,
+     "word": " the",
+     "probability": 0.9991
+    },
+    {
+     "start": 823.56,
+     "end": 823.82,
+     "word": " two",
+     "probability": 0.9905
+    },
+    {
+     "start": 823.82,
+     "end": 824.5,
+     "word": " avyaktas.",
+     "probability": 0.8626
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 825.8,
+   "end": 835.5,
+   "text": " The saguna avyakta, which was mentioned in the 18th verse as saguna samtyakaha or maya karana,",
+   "avg_logprob": -0.24861445414776706,
+   "no_speech_prob": 0.002018016530200839,
+   "compression_ratio": 1.6022727272727273,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 825.6,
+     "end": 826.1,
+     "word": " The",
+     "probability": 0.9981
+    },
+    {
+     "start": 826.1,
+     "end": 826.58,
+     "word": " saguna",
+     "probability": 0.7199
+    },
+    {
+     "start": 826.58,
+     "end": 827.04,
+     "word": " avyakta,",
+     "probability": 0.9887
+    },
+    {
+     "start": 827.22,
+     "end": 827.5,
+     "word": " which",
+     "probability": 0.9989
+    },
+    {
+     "start": 827.5,
+     "end": 827.68,
+     "word": " was",
+     "probability": 0.9999
+    },
+    {
+     "start": 827.68,
+     "end": 828.2,
+     "word": " mentioned",
+     "probability": 0.9998
+    },
+    {
+     "start": 828.2,
+     "end": 828.54,
+     "word": " in",
+     "probability": 0.9999
+    },
+    {
+     "start": 828.54,
+     "end": 828.72,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 828.72,
+     "end": 829.6,
+     "word": " 18th",
+     "probability": 0.977
+    },
+    {
+     "start": 829.6,
+     "end": 830.36,
+     "word": " verse",
+     "probability": 0.9998
+    },
+    {
+     "start": 830.36,
+     "end": 831.44,
+     "word": " as",
+     "probability": 0.8765
+    },
+    {
+     "start": 831.44,
+     "end": 831.86,
+     "word": " saguna",
+     "probability": 0.9917
+    },
+    {
+     "start": 831.86,
+     "end": 832.54,
+     "word": " samtyakaha",
+     "probability": 0.6717
+    },
+    {
+     "start": 832.54,
+     "end": 833.94,
+     "word": " or",
+     "probability": 0.9436
+    },
+    {
+     "start": 833.94,
+     "end": 835.06,
+     "word": " maya",
+     "probability": 0.9328
+    },
+    {
+     "start": 835.06,
+     "end": 835.5,
+     "word": " karana,",
+     "probability": 0.9669
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 836.46,
+   "end": 837.96,
+   "text": " that undergoes pralaya.",
+   "avg_logprob": -0.24861445414776706,
+   "no_speech_prob": 0.002018016530200839,
+   "compression_ratio": 1.6022727272727273,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 836.34,
+     "end": 836.84,
+     "word": " that",
+     "probability": 0.9998
+    },
+    {
+     "start": 836.84,
+     "end": 837.62,
+     "word": " undergoes",
+     "probability": 0.9991
+    },
+    {
+     "start": 837.62,
+     "end": 837.96,
+     "word": " pralaya.",
+     "probability": 0.9758
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 839.26,
+   "end": 848.32,
+   "text": " Whereas the nirguna akshara avyakta or the sanatanah avyakta or the paramartha tattva,",
+   "avg_logprob": -0.24861445414776706,
+   "no_speech_prob": 0.002018016530200839,
+   "compression_ratio": 1.6022727272727273,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 839.22,
+     "end": 839.72,
+     "word": " Whereas",
+     "probability": 0.9919
+    },
+    {
+     "start": 839.72,
+     "end": 839.98,
+     "word": " the",
+     "probability": 0.9552
+    },
+    {
+     "start": 839.98,
+     "end": 840.54,
+     "word": " nirguna",
+     "probability": 0.9869
+    },
+    {
+     "start": 840.54,
+     "end": 841.44,
+     "word": " akshara",
+     "probability": 0.9636
+    },
+    {
+     "start": 841.44,
+     "end": 842.36,
+     "word": " avyakta",
+     "probability": 0.9996
+    },
+    {
+     "start": 842.36,
+     "end": 844.2,
+     "word": " or",
+     "probability": 0.9749
+    },
+    {
+     "start": 844.2,
+     "end": 844.52,
+     "word": " the",
+     "probability": 0.9998
+    },
+    {
+     "start": 844.52,
+     "end": 845.14,
+     "word": " sanatanah",
+     "probability": 0.3336
+    },
+    {
+     "start": 845.14,
+     "end": 845.62,
+     "word": " avyakta",
+     "probability": 0.9978
+    },
+    {
+     "start": 845.62,
+     "end": 847.0,
+     "word": " or",
+     "probability": 0.9981
+    },
+    {
+     "start": 847.0,
+     "end": 847.2,
+     "word": " the",
+     "probability": 0.9997
+    },
+    {
+     "start": 847.2,
+     "end": 847.8,
+     "word": " paramartha",
+     "probability": 0.9274
+    },
+    {
+     "start": 847.8,
+     "end": 848.32,
+     "word": " tattva,",
+     "probability": 0.9394
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 849.06,
+   "end": 850.38,
+   "text": " that never perishes.",
+   "avg_logprob": -0.24861445414776706,
+   "no_speech_prob": 0.002018016530200839,
+   "compression_ratio": 1.6022727272727273,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 848.98,
+     "end": 849.48,
+     "word": " that",
+     "probability": 0.9998
+    },
+    {
+     "start": 849.48,
+     "end": 849.82,
+     "word": " never",
+     "probability": 0.9992
+    },
+    {
+     "start": 849.82,
+     "end": 850.38,
+     "word": " perishes.",
+     "probability": 0.7751
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 853.7,
+   "end": 858.92,
+   "text": " So what he said, paraha tasmatu babaha anyaha.",
+   "avg_logprob": -0.43998768145129796,
+   "no_speech_prob": 0.0005078360554762185,
+   "compression_ratio": 1.962962962962963,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 853.7,
+     "end": 854.66,
+     "word": " So",
+     "probability": 0.5082
+    },
+    {
+     "start": 854.66,
+     "end": 854.9,
+     "word": " what",
+     "probability": 0.8775
+    },
+    {
+     "start": 854.9,
+     "end": 855.08,
+     "word": " he",
+     "probability": 0.8706
+    },
+    {
+     "start": 855.08,
+     "end": 855.38,
+     "word": " said,",
+     "probability": 0.9922
+    },
+    {
+     "start": 855.56,
+     "end": 856.88,
+     "word": " paraha",
+     "probability": 0.5774
+    },
+    {
+     "start": 856.88,
+     "end": 857.76,
+     "word": " tasmatu",
+     "probability": 0.6793
+    },
+    {
+     "start": 857.76,
+     "end": 858.24,
+     "word": " babaha",
+     "probability": 0.6695
+    },
+    {
+     "start": 858.24,
+     "end": 858.92,
+     "word": " anyaha.",
+     "probability": 0.7104
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 859.02,
+   "end": 859.98,
+   "text": " Paraha tasmatu babaha anyaha.",
+   "avg_logprob": -0.43998768145129796,
+   "no_speech_prob": 0.0005078360554762185,
+   "compression_ratio": 1.962962962962963,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 859.02,
+     "end": 859.98,
+     "word": " Paraha",
+     "probability": 0.6138
+    },
+    {
+     "start": 859.98,
+     "end": 859.98,
+     "word": " tasmatu",
+     "probability": 0.9463
+    },
+    {
+     "start": 859.98,
+     "end": 859.98,
+     "word": " babaha",
+     "probability": 0.9957
+    },
+    {
+     "start": 859.98,
+     "end": 859.98,
+     "word": " anyaha.",
+     "probability": 0.996
+    }
+   ]
+  }
+ ]
+}

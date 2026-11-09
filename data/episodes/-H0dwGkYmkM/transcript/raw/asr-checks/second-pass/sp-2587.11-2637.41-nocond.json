@@ -1,0 +1,469 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-2587.11-2637.41-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 2587.11,
+   "dur_s": 50.3,
+   "sample_start": 41393760,
+   "sample_end": 42198560,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-2587.11-2637.41-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "2587.11",
+   "--dur",
+   "50.3",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-2587.11-2637.41-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:30:44.320570+00:00",
+  "run_finished_utc": "2026-11-09T01:33:23.901421+00:00",
+  "model_load_s": 6.62,
+  "transcribe_wall_s": 159.58,
+  "audio_dur_s": 50.3,
+  "realtime_factor": 3.1725
+ },
+ "language": "te",
+ "language_probability": 0.4061432182788849,
+ "duration": 50.3,
+ "duration_after_vad": 50.3,
+ "segments": [
+  {
+   "id": 1,
+   "start": 2587.11,
+   "end": 2597.15,
+   "text": " యం ప్రాప్యన నివర్తందే తద్ధామ పరమంమమా ఔర్ యద్ గత్వాన నివర్తందే తద్ధామ పరమంమమా",
+   "avg_logprob": -0.09220820003085667,
+   "no_speech_prob": 0.8899878263473511,
+   "compression_ratio": 2.2587412587412588,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2587.11,
+     "end": 2588.89,
+     "word": " యం",
+     "probability": 0.5989
+    },
+    {
+     "start": 2588.89,
+     "end": 2589.47,
+     "word": " ప్రాప్యన",
+     "probability": 0.9525
+    },
+    {
+     "start": 2589.47,
+     "end": 2590.43,
+     "word": " నివర్తందే",
+     "probability": 0.9795
+    },
+    {
+     "start": 2590.43,
+     "end": 2591.11,
+     "word": " తద్ధామ",
+     "probability": 0.9716
+    },
+    {
+     "start": 2591.11,
+     "end": 2592.01,
+     "word": " పరమంమమా",
+     "probability": 0.9432
+    },
+    {
+     "start": 2592.01,
+     "end": 2594.03,
+     "word": " ఔర్",
+     "probability": 0.732
+    },
+    {
+     "start": 2594.03,
+     "end": 2594.21,
+     "word": " యద్",
+     "probability": 0.9424
+    },
+    {
+     "start": 2594.21,
+     "end": 2594.71,
+     "word": " గత్వాన",
+     "probability": 0.9328
+    },
+    {
+     "start": 2594.71,
+     "end": 2595.61,
+     "word": " నివర్తందే",
+     "probability": 0.9957
+    },
+    {
+     "start": 2595.61,
+     "end": 2596.25,
+     "word": " తద్ధామ",
+     "probability": 0.9968
+    },
+    {
+     "start": 2596.25,
+     "end": 2597.15,
+     "word": " పరమంమమా",
+     "probability": 0.9948
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 2602.05,
+   "end": 2619.99,
+   "text": " యా అవ్యక్తహ అక్షరహ ఇతి ఉక్తహ తమ్ వేదాంత విత్ పరమాం గతిం ఆహు యం గత్వా యం ప్రాప్యా న నివర్తందే తత్ పరమం ధామమవం అస్తి",
+   "avg_logprob": -0.07989211457436074,
+   "no_speech_prob": 0.32463309168815613,
+   "compression_ratio": 2.054421768707483,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2602.05,
+     "end": 2603.45,
+     "word": " యా",
+     "probability": 0.8019
+    },
+    {
+     "start": 2603.45,
+     "end": 2604.59,
+     "word": " అవ్యక్తహ",
+     "probability": 0.8976
+    },
+    {
+     "start": 2604.59,
+     "end": 2605.33,
+     "word": " అక్షరహ",
+     "probability": 0.959
+    },
+    {
+     "start": 2605.33,
+     "end": 2605.87,
+     "word": " ఇతి",
+     "probability": 0.933
+    },
+    {
+     "start": 2605.87,
+     "end": 2606.27,
+     "word": " ఉక్తహ",
+     "probability": 0.9481
+    },
+    {
+     "start": 2606.27,
+     "end": 2607.63,
+     "word": " తమ్",
+     "probability": 0.898
+    },
+    {
+     "start": 2607.63,
+     "end": 2608.61,
+     "word": " వేదాంత",
+     "probability": 0.9479
+    },
+    {
+     "start": 2608.61,
+     "end": 2608.95,
+     "word": " విత్",
+     "probability": 0.9403
+    },
+    {
+     "start": 2608.95,
+     "end": 2610.51,
+     "word": " పరమాం",
+     "probability": 0.9673
+    },
+    {
+     "start": 2610.51,
+     "end": 2611.53,
+     "word": " గతిం",
+     "probability": 0.9413
+    },
+    {
+     "start": 2611.53,
+     "end": 2611.91,
+     "word": " ఆహు",
+     "probability": 0.9873
+    },
+    {
+     "start": 2611.91,
+     "end": 2613.57,
+     "word": " యం",
+     "probability": 0.8859
+    },
+    {
+     "start": 2613.57,
+     "end": 2614.21,
+     "word": " గత్వా",
+     "probability": 0.9132
+    },
+    {
+     "start": 2614.21,
+     "end": 2614.51,
+     "word": " యం",
+     "probability": 0.9694
+    },
+    {
+     "start": 2614.51,
+     "end": 2615.11,
+     "word": " ప్రాప్యా",
+     "probability": 0.969
+    },
+    {
+     "start": 2615.11,
+     "end": 2615.91,
+     "word": " న",
+     "probability": 0.9958
+    },
+    {
+     "start": 2615.91,
+     "end": 2616.83,
+     "word": " నివర్తందే",
+     "probability": 0.9691
+    },
+    {
+     "start": 2616.83,
+     "end": 2618.07,
+     "word": " తత్",
+     "probability": 0.9391
+    },
+    {
+     "start": 2618.07,
+     "end": 2618.65,
+     "word": " పరమం",
+     "probability": 0.9945
+    },
+    {
+     "start": 2618.65,
+     "end": 2619.51,
+     "word": " ధామమవం",
+     "probability": 0.9201
+    },
+    {
+     "start": 2619.51,
+     "end": 2619.99,
+     "word": " అస్తి",
+     "probability": 0.9846
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 2622.83,
+   "end": 2637.09,
+   "text": " తిస్ యహా అవ్యక్త అక్షరా ఇతి ఉక్తహా తా అన్ మేనిఫేస్ తాటిస్ డెసికినేటేడ అస్ అక్షరా తమ్ వేదవితహా పరమం గతి మాహు తా నో వర్స్ అ�",
+   "avg_logprob": -0.13883394453260633,
+   "no_speech_prob": 0.17192018032073975,
+   "compression_ratio": 2.076923076923077,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2622.83,
+     "end": 2623.95,
+     "word": " తిస్",
+     "probability": 0.7366
+    },
+    {
+     "start": 2623.95,
+     "end": 2625.07,
+     "word": " యహా",
+     "probability": 0.8195
+    },
+    {
+     "start": 2625.07,
+     "end": 2625.67,
+     "word": " అవ్యక్త",
+     "probability": 0.9829
+    },
+    {
+     "start": 2625.67,
+     "end": 2626.27,
+     "word": " అక్షరా",
+     "probability": 0.9792
+    },
+    {
+     "start": 2626.27,
+     "end": 2626.53,
+     "word": " ఇతి",
+     "probability": 0.921
+    },
+    {
+     "start": 2626.53,
+     "end": 2626.97,
+     "word": " ఉక్తహా",
+     "probability": 0.9224
+    },
+    {
+     "start": 2626.97,
+     "end": 2627.55,
+     "word": " తా",
+     "probability": 0.7727
+    },
+    {
+     "start": 2627.55,
+     "end": 2627.79,
+     "word": " అన్",
+     "probability": 0.9451
+    },
+    {
+     "start": 2627.79,
+     "end": 2628.29,
+     "word": " మేనిఫేస్",
+     "probability": 0.8601
+    },
+    {
+     "start": 2628.29,
+     "end": 2628.81,
+     "word": " తాటిస్",
+     "probability": 0.85
+    },
+    {
+     "start": 2628.81,
+     "end": 2629.67,
+     "word": " డెసికినేటేడ",
+     "probability": 0.8664
+    },
+    {
+     "start": 2629.67,
+     "end": 2629.91,
+     "word": " అస్",
+     "probability": 0.8777
+    },
+    {
+     "start": 2629.91,
+     "end": 2630.45,
+     "word": " అక్షరా",
+     "probability": 0.9943
+    },
+    {
+     "start": 2630.45,
+     "end": 2632.55,
+     "word": " తమ్",
+     "probability": 0.8877
+    },
+    {
+     "start": 2632.55,
+     "end": 2633.49,
+     "word": " వేదవితహా",
+     "probability": 0.8864
+    },
+    {
+     "start": 2633.49,
+     "end": 2634.09,
+     "word": " పరమం",
+     "probability": 0.9581
+    },
+    {
+     "start": 2634.09,
+     "end": 2634.79,
+     "word": " గతి",
+     "probability": 0.9741
+    },
+    {
+     "start": 2634.79,
+     "end": 2635.13,
+     "word": " మాహు",
+     "probability": 0.9731
+    },
+    {
+     "start": 2635.13,
+     "end": 2636.29,
+     "word": " తా",
+     "probability": 0.8545
+    },
+    {
+     "start": 2636.29,
+     "end": 2636.49,
+     "word": " నో",
+     "probability": 0.9216
+    },
+    {
+     "start": 2636.49,
+     "end": 2636.85,
+     "word": " వర్స్",
+     "probability": 0.8422
+    },
+    {
+     "start": 2636.85,
+     "end": 2637.09,
+     "word": " అ�",
+     "probability": 0.8735
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 2637.09,
+   "end": 2637.39,
+   "text": " ప్రిస్తు ప్రిస్తు ప్రిస్తు",
+   "avg_logprob": -0.295192974585074,
+   "no_speech_prob": 0.9224578738212585,
+   "compression_ratio": 2.1142857142857143,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 2637.09,
+     "end": 2637.09,
+     "word": " ప్రిస్తు",
+     "probability": 0.6749
+    },
+    {
+     "start": 2637.09,
+     "end": 2637.17,
+     "word": " ప్రిస్తు",
+     "probability": 0.8471
+    },
+    {
+     "start": 2637.17,
+     "end": 2637.39,
+     "word": " ప్రిస్తు",
+     "probability": 0.9577
+    }
+   ]
+  }
+ ]
+}

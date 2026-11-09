@@ -1,0 +1,859 @@
+{
+ "kind": "manifest",
+ "directory": "transcript/raw/asr-checks/second-pass",
+ "created_utc": "2026-11-09T01:37:55.700509+00:00",
+ "rule": "Raw second-pass outputs, byte-identical to scratch, never edited. Same model and audio as the first pass; condition_on_previous_text=False.",
+ "script": "scripts/asr/run_asr_window.py",
+ "audio_slicing": "full MP3 decoded in memory at 16 kHz and sliced; no audio was written to the repository",
+ "batch": {
+  "launch_utc": "2026-11-09T01:29:24Z",
+  "parallel": 9,
+  "threads_per_process": 4,
+  "device": "cpu",
+  "jobs": [
+   "main-A-2150-2300-nocond 2150 150",
+   "main-B-2150-2300-nocond-t0 2150 150 --temperature 0.0",
+   "main-C-2165-2290-nocond 2165 125",
+   "sp-73.80-126.60-nocond 73.8 52.8",
+   "sp-145.32-187.40-nocond 145.32 42.08",
+   "sp-357.44-388.86-nocond 357.44 31.42",
+   "sp-963.55-1001.89-nocond 963.55 38.34",
+   "sp-1117.79-1150.83-nocond 1117.79 33.04",
+   "sp-1350.83-1414.41-nocond 1350.83 63.58",
+   "sp-1950.21-2002.59-nocond 1950.21 52.38",
+   "sp-2587.11-2637.41-nocond 2587.11 50.3",
+   "sp-2661.75-2696.81-nocond 2661.75 35.06",
+   "sp-2874.63-2905.73-nocond 2874.63 31.1",
+   "sp-3019.11-3051.21-nocond 3019.11 32.1",
+   "sp-3076.55-3111.21-nocond 3076.55 34.66",
+   "sp-3153.97-3187.13-nocond 3153.97 33.16",
+   "sp-3670.91-3742.83-nocond 3670.91 71.92",
+   "sp-4135.83-4157.75-nocond 4135.83 21.92"
+  ],
+  "failed_first_attempt": "launch at 2026-11-09T01:29:10Z failed before any decoding (xargs -L joined lines with trailing spaces; argparse rc=2); no outputs were produced; relaunched at the time above",
+  "extra_job": {
+   "label": "sp-2587.11-2637.41-nocond-en",
+   "launch_utc": "2026-11-09T01:34:57Z",
+   "reason": "the auto-detect run of this window detected Telugu ('te', p=0.41) and wrote Telugu script; rerun with --language en. Both outputs are kept."
+  }
+ },
+ "known_bad_outputs": {
+  "sp-145.32-187.40-nocond.json": "'Satsang with Mooji' at 158.30 s and nothing for about 160-176 s (speech-level energy present)",
+  "sp-2587.11-2637.41-nocond.json": "Telugu script output (language misdetection)",
+  "main-C-2165-2290-nocond.json": "omits about 2234-2248 s",
+  "sp-357.44-388.86-nocond.json": "ends with 'God bless you.' at 388.04 s, a likely stock hallucination (not checked)",
+  "sp-4135.83-4157.75-nocond.json": "'how do you' x2 at 4150.77 s where the first pass has 'Hari Om.' x2 (neither checked)"
+ },
+ "files": [
+  {
+   "file": "main-A-2150-2300-nocond.json",
+   "bytes": 29000,
+   "sha256": "d52d11f97497779c5af8d672411669f9c90c1288d4befd1ae7d580366983f3b5",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/main-A-2150-2300-nocond.json",
+   "scratch_source_sha256": "d52d11f97497779c5af8d672411669f9c90c1288d4befd1ae7d580366983f3b5",
+   "identical_to_source": true,
+   "label": "main-A-2150-2300-nocond",
+   "clip": {
+    "start_s": 2150.0,
+    "dur_s": 150.0
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.989,
+   "n_segments": 26,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:37.912534+00:00",
+   "run_finished_utc": "2026-11-09T01:32:15.840374+00:00",
+   "transcribe_wall_s": 157.92,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "main-B-2150-2300-nocond-t0.json",
+   "bytes": 28983,
+   "sha256": "e45746edbab7e414ae002fb0c67350d1843247729da0397f7512bd4634e933eb",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/main-B-2150-2300-nocond-t0.json",
+   "scratch_source_sha256": "e45746edbab7e414ae002fb0c67350d1843247729da0397f7512bd4634e933eb",
+   "identical_to_source": true,
+   "label": "main-B-2150-2300-nocond-t0",
+   "clip": {
+    "start_s": 2150.0,
+    "dur_s": 150.0
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": 0.0
+   },
+   "language_detected": "en",
+   "language_probability": 0.989,
+   "n_segments": 26,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:37.195378+00:00",
+   "run_finished_utc": "2026-11-09T01:32:22.094236+00:00",
+   "transcribe_wall_s": 164.89,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "main-C-2165-2290-nocond.json",
+   "bytes": 20555,
+   "sha256": "675bbf68006b84502417f8b4c6ff2a878271fa483adfa60a8f9b73e033fd749d",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/main-C-2165-2290-nocond.json",
+   "scratch_source_sha256": "675bbf68006b84502417f8b4c6ff2a878271fa483adfa60a8f9b73e033fd749d",
+   "identical_to_source": true,
+   "label": "main-C-2165-2290-nocond",
+   "clip": {
+    "start_s": 2165.0,
+    "dur_s": 125.0
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.982,
+   "n_segments": 16,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:37.727774+00:00",
+   "run_finished_utc": "2026-11-09T01:31:46.953330+00:00",
+   "transcribe_wall_s": 129.22,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-1117.79-1150.83-nocond.json",
+   "bytes": 6956,
+   "sha256": "60c3e34f2b38b23601c6c0c355830acb96e913e42db724231a5a916c218bc6b0",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-1117.79-1150.83-nocond.json",
+   "scratch_source_sha256": "60c3e34f2b38b23601c6c0c355830acb96e913e42db724231a5a916c218bc6b0",
+   "identical_to_source": true,
+   "label": "sp-1117.79-1150.83-nocond",
+   "clip": {
+    "start_s": 1117.79,
+    "dur_s": 33.04
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.983,
+   "n_segments": 2,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:37.086686+00:00",
+   "run_finished_utc": "2026-11-09T01:30:32.587334+00:00",
+   "transcribe_wall_s": 55.5,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-1350.83-1414.41-nocond.json",
+   "bytes": 14152,
+   "sha256": "9711f0147299b57751347181bfd504a060d63fe205e2b90ad13feb8cb4821a79",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-1350.83-1414.41-nocond.json",
+   "scratch_source_sha256": "9711f0147299b57751347181bfd504a060d63fe205e2b90ad13feb8cb4821a79",
+   "identical_to_source": true,
+   "label": "sp-1350.83-1414.41-nocond",
+   "clip": {
+    "start_s": 1350.83,
+    "dur_s": 63.58
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.979,
+   "n_segments": 13,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:40.466434+00:00",
+   "run_finished_utc": "2026-11-09T01:31:00.641624+00:00",
+   "transcribe_wall_s": 80.17,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-145.32-187.40-nocond.json",
+   "bytes": 4217,
+   "sha256": "a5619f8f905dd706a172d93cd170a607909387f77bcfe47c583ebb4daca36edd",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-145.32-187.40-nocond.json",
+   "scratch_source_sha256": "a5619f8f905dd706a172d93cd170a607909387f77bcfe47c583ebb4daca36edd",
+   "identical_to_source": true,
+   "label": "sp-145.32-187.40-nocond",
+   "clip": {
+    "start_s": 145.32,
+    "dur_s": 42.08
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.789,
+   "n_segments": 2,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:37.093084+00:00",
+   "run_finished_utc": "2026-11-09T01:30:29.461520+00:00",
+   "transcribe_wall_s": 52.36,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-1950.21-2002.59-nocond.json",
+   "bytes": 7982,
+   "sha256": "e7719864a4fde57c7a7e43bc32b9216b68de602cd7b2bcddfae1253e30568552",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-1950.21-2002.59-nocond.json",
+   "scratch_source_sha256": "e7719864a4fde57c7a7e43bc32b9216b68de602cd7b2bcddfae1253e30568552",
+   "identical_to_source": true,
+   "label": "sp-1950.21-2002.59-nocond",
+   "clip": {
+    "start_s": 1950.21,
+    "dur_s": 52.38
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.646,
+   "n_segments": 4,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:30:43.222902+00:00",
+   "run_finished_utc": "2026-11-09T01:31:38.704027+00:00",
+   "transcribe_wall_s": 55.48,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-2587.11-2637.41-nocond-en.json",
+   "bytes": 11747,
+   "sha256": "1ab9da90bd708c966873b0dd2272878ede238b13fa3699139d0903a92fd1d7cb",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-2587.11-2637.41-nocond-en.json",
+   "scratch_source_sha256": "1ab9da90bd708c966873b0dd2272878ede238b13fa3699139d0903a92fd1d7cb",
+   "identical_to_source": true,
+   "label": "sp-2587.11-2637.41-nocond-en",
+   "clip": {
+    "start_s": 2587.11,
+    "dur_s": 50.3
+   },
+   "params": {
+    "beam_size": 5,
+    "language": "en",
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 1,
+   "n_segments": 10,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:35:07.530934+00:00",
+   "run_finished_utc": "2026-11-09T01:35:52.469393+00:00",
+   "transcribe_wall_s": 44.94,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-2587.11-2637.41-nocond.json",
+   "bytes": 11163,
+   "sha256": "94665632871009c294cba5147e47f05d95d555a97ac496a22f2232632923e4e4",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-2587.11-2637.41-nocond.json",
+   "scratch_source_sha256": "94665632871009c294cba5147e47f05d95d555a97ac496a22f2232632923e4e4",
+   "identical_to_source": true,
+   "label": "sp-2587.11-2637.41-nocond",
+   "clip": {
+    "start_s": 2587.11,
+    "dur_s": 50.3
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "te",
+   "language_probability": 0.406,
+   "n_segments": 4,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:30:44.320570+00:00",
+   "run_finished_utc": "2026-11-09T01:33:23.901421+00:00",
+   "transcribe_wall_s": 159.58,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-2661.75-2696.81-nocond.json",
+   "bytes": 9383,
+   "sha256": "f72c03b5687348e12f5f978f3622bc4534f535f3d68e064bee979904872e9065",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-2661.75-2696.81-nocond.json",
+   "scratch_source_sha256": "f72c03b5687348e12f5f978f3622bc4534f535f3d68e064bee979904872e9065",
+   "identical_to_source": true,
+   "label": "sp-2661.75-2696.81-nocond",
+   "clip": {
+    "start_s": 2661.75,
+    "dur_s": 35.06
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.997,
+   "n_segments": 7,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:30:45.956858+00:00",
+   "run_finished_utc": "2026-11-09T01:31:40.603845+00:00",
+   "transcribe_wall_s": 54.64,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-2874.63-2905.73-nocond.json",
+   "bytes": 10208,
+   "sha256": "ff9a088eff875e43049dd90cfa739aa220fa7bd33e2325b370b2109e1edff745",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-2874.63-2905.73-nocond.json",
+   "scratch_source_sha256": "ff9a088eff875e43049dd90cfa739aa220fa7bd33e2325b370b2109e1edff745",
+   "identical_to_source": true,
+   "label": "sp-2874.63-2905.73-nocond",
+   "clip": {
+    "start_s": 2874.63,
+    "dur_s": 31.1
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.944,
+   "n_segments": 13,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:30:46.294179+00:00",
+   "run_finished_utc": "2026-11-09T01:31:48.583793+00:00",
+   "transcribe_wall_s": 62.29,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-3019.11-3051.21-nocond.json",
+   "bytes": 9165,
+   "sha256": "5046581d4d4a4349f0097b223057c7c1d85dcc9d4d84f1ef9c27c625926d9a9f",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-3019.11-3051.21-nocond.json",
+   "scratch_source_sha256": "5046581d4d4a4349f0097b223057c7c1d85dcc9d4d84f1ef9c27c625926d9a9f",
+   "identical_to_source": true,
+   "label": "sp-3019.11-3051.21-nocond",
+   "clip": {
+    "start_s": 3019.11,
+    "dur_s": 32.1
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.935,
+   "n_segments": 4,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:31:13.816036+00:00",
+   "run_finished_utc": "2026-11-09T01:32:12.503191+00:00",
+   "transcribe_wall_s": 58.68,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-3076.55-3111.21-nocond.json",
+   "bytes": 8607,
+   "sha256": "3ffb1421e95e25954dd998daeab29e0a0ebcd4a8e664919bcc25f70bb6decc1f",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-3076.55-3111.21-nocond.json",
+   "scratch_source_sha256": "3ffb1421e95e25954dd998daeab29e0a0ebcd4a8e664919bcc25f70bb6decc1f",
+   "identical_to_source": true,
+   "label": "sp-3076.55-3111.21-nocond",
+   "clip": {
+    "start_s": 3076.55,
+    "dur_s": 34.66
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.939,
+   "n_segments": 5,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:31:17.043372+00:00",
+   "run_finished_utc": "2026-11-09T01:32:15.315662+00:00",
+   "transcribe_wall_s": 58.27,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-3153.97-3187.13-nocond.json",
+   "bytes": 9936,
+   "sha256": "0c799a5cff53bebc73949a5e4cf27ccd7a1291c744bc36977c562ba34af2e2dd",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-3153.97-3187.13-nocond.json",
+   "scratch_source_sha256": "0c799a5cff53bebc73949a5e4cf27ccd7a1291c744bc36977c562ba34af2e2dd",
+   "identical_to_source": true,
+   "label": "sp-3153.97-3187.13-nocond",
+   "clip": {
+    "start_s": 3153.97,
+    "dur_s": 33.16
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.94,
+   "n_segments": 4,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:31:52.006932+00:00",
+   "run_finished_utc": "2026-11-09T01:32:49.715170+00:00",
+   "transcribe_wall_s": 57.7,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-357.44-388.86-nocond.json",
+   "bytes": 9934,
+   "sha256": "656c54b9d6becf8bc164af0c79c1ac649824c62530525a6913493a0716e32d9b",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-357.44-388.86-nocond.json",
+   "scratch_source_sha256": "656c54b9d6becf8bc164af0c79c1ac649824c62530525a6913493a0716e32d9b",
+   "identical_to_source": true,
+   "label": "sp-357.44-388.86-nocond",
+   "clip": {
+    "start_s": 357.44,
+    "dur_s": 31.42
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.997,
+   "n_segments": 13,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:37.180699+00:00",
+   "run_finished_utc": "2026-11-09T01:30:30.726953+00:00",
+   "transcribe_wall_s": 53.54,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-3670.91-3742.83-nocond.json",
+   "bytes": 17079,
+   "sha256": "ec9ab0be2f5611edf313ecfdcbd4e3795719de3b11a33fbf22387b7507d2dae7",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-3670.91-3742.83-nocond.json",
+   "scratch_source_sha256": "ec9ab0be2f5611edf313ecfdcbd4e3795719de3b11a33fbf22387b7507d2dae7",
+   "identical_to_source": true,
+   "label": "sp-3670.91-3742.83-nocond",
+   "clip": {
+    "start_s": 3670.91,
+    "dur_s": 71.92
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.976,
+   "n_segments": 13,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:31:53.715012+00:00",
+   "run_finished_utc": "2026-11-09T01:33:07.126523+00:00",
+   "transcribe_wall_s": 73.41,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-4135.83-4157.75-nocond.json",
+   "bytes": 7891,
+   "sha256": "13a86215aac14dd139b8490525d250ca6646def77804d64b21c4e8e0769f9af0",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-4135.83-4157.75-nocond.json",
+   "scratch_source_sha256": "13a86215aac14dd139b8490525d250ca6646def77804d64b21c4e8e0769f9af0",
+   "identical_to_source": true,
+   "label": "sp-4135.83-4157.75-nocond",
+   "clip": {
+    "start_s": 4135.83,
+    "dur_s": 21.92
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.997,
+   "n_segments": 5,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:31:59.943316+00:00",
+   "run_finished_utc": "2026-11-09T01:32:47.724266+00:00",
+   "transcribe_wall_s": 47.78,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-73.80-126.60-nocond.json",
+   "bytes": 14634,
+   "sha256": "4d422c60edd56b18c2a564c517950777b7be6d224dbf7d1b0129ed9473575ea1",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-73.80-126.60-nocond.json",
+   "scratch_source_sha256": "4d422c60edd56b18c2a564c517950777b7be6d224dbf7d1b0129ed9473575ea1",
+   "identical_to_source": true,
+   "label": "sp-73.80-126.60-nocond",
+   "clip": {
+    "start_s": 73.8,
+    "dur_s": 52.8
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.998,
+   "n_segments": 16,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:37.891802+00:00",
+   "run_finished_utc": "2026-11-09T01:31:03.600271+00:00",
+   "transcribe_wall_s": 85.71,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  },
+  {
+   "file": "sp-963.55-1001.89-nocond.json",
+   "bytes": 9330,
+   "sha256": "c3714ae311f1615b2b1c1a0324cff61657528e291aa2811d06cf154b850e9a43",
+   "scratch_source": "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-963.55-1001.89-nocond.json",
+   "scratch_source_sha256": "c3714ae311f1615b2b1c1a0324cff61657528e291aa2811d06cf154b850e9a43",
+   "identical_to_source": true,
+   "label": "sp-963.55-1001.89-nocond",
+   "clip": {
+    "start_s": 963.55,
+    "dur_s": 38.34
+   },
+   "params": {
+    "beam_size": 5,
+    "language": null,
+    "word_timestamps": true,
+    "vad_filter": false,
+    "condition_on_previous_text": false,
+    "temperature": [
+     0.0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+     1.0
+    ]
+   },
+   "language_detected": "en",
+   "language_probability": 0.992,
+   "n_segments": 4,
+   "cpu_threads": 4,
+   "run_started_utc": "2026-11-09T01:29:37.296197+00:00",
+   "run_finished_utc": "2026-11-09T01:30:32.478841+00:00",
+   "transcribe_wall_s": 55.18,
+   "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+   "libraries": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.5",
+    "pyav": "15.1.0",
+    "numpy": "2.5.4",
+    "python": "3.12.15"
+   }
+  }
+ ]
+}

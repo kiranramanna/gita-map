@@ -1,0 +1,679 @@
+{
+ "provenance": {
+  "kind": "raw_asr_unmodified_second_pass",
+  "note": "Machine ASR output, not reviewed or corrected. Same model as the first pass, different decoding settings. Agreement with the first pass shows decoding stability only, not correctness. Sanskrit is likely mis-transcribed.",
+  "label": "sp-1350.83-1414.41-nocond",
+  "audio_file": "ep.mp3",
+  "audio_sha256": "a8bc892cac65918eefc46cd1c528620a3fa49fd0a1b41c11119e381d0b3ab8e3",
+  "clip": {
+   "start_s": 1350.83,
+   "dur_s": 63.58,
+   "sample_start": 21613280,
+   "sample_end": 22630560,
+   "sample_rate": 16000,
+   "method": "full MP3 decoded with faster_whisper.decode_audio (PyAV) at 16 kHz mono, then sliced in memory"
+  },
+  "timestamps": "seconds from start of the podcast MP3 enclosure",
+  "model": "Systran/faster-whisper-large-v3",
+  "model_dir_snapshot": "edaa852ec7e145841d8ffdb056a99866b5f0a478",
+  "device": "cpu",
+  "compute_type": "int8",
+  "cpu_threads": 4,
+  "num_workers": 1,
+  "params": {
+   "beam_size": 5,
+   "language": null,
+   "word_timestamps": true,
+   "vad_filter": false,
+   "condition_on_previous_text": false,
+   "temperature": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+   ]
+  },
+  "script": "scripts/asr/run_asr_window.py",
+  "script_sha256": "096fe074cc815e9f3f47193d2f72fe351bfd224d76c7e4d97185f1663c8dc3c4",
+  "argv": [
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/audio/ep.mp3",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/second-pass/sp-1350.83-1414.41-nocond.json",
+   "/tmp/claude-13011/-kiran-home-projects-kr-git-gita-map/0adb5b3d-7734-4628-a3df-7d1b652f7d03/scratchpad/podcast-eval/models/models--Systran--faster-whisper-large-v3/snapshots/edaa852ec7e145841d8ffdb056a99866b5f0a478",
+   "--start",
+   "1350.83",
+   "--dur",
+   "63.58",
+   "--threads",
+   "4",
+   "--no-condition",
+   "--label",
+   "sp-1350.83-1414.41-nocond"
+  ],
+  "libraries": {
+   "faster_whisper": "1.2.1",
+   "ctranslate2": "4.8.5",
+   "pyav": "15.1.0",
+   "numpy": "2.5.4",
+   "python": "3.12.15"
+  },
+  "host": {
+   "platform": "Linux-6.8.0-1060-nvidia-x86_64-with-glibc2.35",
+   "machine": "x86_64",
+   "CUDA_VISIBLE_DEVICES": ""
+  },
+  "run_started_utc": "2026-11-09T01:29:40.466434+00:00",
+  "run_finished_utc": "2026-11-09T01:31:00.641624+00:00",
+  "model_load_s": 6.95,
+  "transcribe_wall_s": 80.17,
+  "audio_dur_s": 63.58,
+  "realtime_factor": 1.261
+ },
+ "language": "en",
+ "language_probability": 0.9789305925369263,
+ "duration": 63.58,
+ "duration_after_vad": 63.58,
+ "segments": [
+  {
+   "id": 1,
+   "start": 1350.83,
+   "end": 1363.61,
+   "text": " not describing it as what it is. Shruti is also describing it as a lakshana, lakshana",
+   "avg_logprob": -0.25338376275563645,
+   "no_speech_prob": 0.004830642137676477,
+   "compression_ratio": 1.435897435897436,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1350.83,
+     "end": 1351.25,
+     "word": " not",
+     "probability": 0.5722
+    },
+    {
+     "start": 1351.25,
+     "end": 1353.89,
+     "word": " describing",
+     "probability": 0.9907
+    },
+    {
+     "start": 1353.89,
+     "end": 1354.49,
+     "word": " it",
+     "probability": 0.9963
+    },
+    {
+     "start": 1354.49,
+     "end": 1355.63,
+     "word": " as",
+     "probability": 0.9909
+    },
+    {
+     "start": 1355.63,
+     "end": 1357.63,
+     "word": " what",
+     "probability": 0.9656
+    },
+    {
+     "start": 1357.63,
+     "end": 1357.81,
+     "word": " it",
+     "probability": 0.9961
+    },
+    {
+     "start": 1357.81,
+     "end": 1358.05,
+     "word": " is.",
+     "probability": 0.9982
+    },
+    {
+     "start": 1358.73,
+     "end": 1359.69,
+     "word": " Shruti",
+     "probability": 0.8914
+    },
+    {
+     "start": 1359.69,
+     "end": 1359.93,
+     "word": " is",
+     "probability": 0.9892
+    },
+    {
+     "start": 1359.93,
+     "end": 1360.25,
+     "word": " also",
+     "probability": 0.9948
+    },
+    {
+     "start": 1360.25,
+     "end": 1360.85,
+     "word": " describing",
+     "probability": 0.9985
+    },
+    {
+     "start": 1360.85,
+     "end": 1361.29,
+     "word": " it",
+     "probability": 0.9946
+    },
+    {
+     "start": 1361.29,
+     "end": 1361.85,
+     "word": " as",
+     "probability": 0.9948
+    },
+    {
+     "start": 1361.85,
+     "end": 1362.07,
+     "word": " a",
+     "probability": 0.8704
+    },
+    {
+     "start": 1362.07,
+     "end": 1362.65,
+     "word": " lakshana,",
+     "probability": 0.8102
+    },
+    {
+     "start": 1362.77,
+     "end": 1363.61,
+     "word": " lakshana",
+     "probability": 0.9596
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 1363.61,
+   "end": 1373.81,
+   "text": " pramana, indicative that by saying Satyam Jnanam Anandam Brahma, Prajnanam Brahma,",
+   "avg_logprob": -0.25338376275563645,
+   "no_speech_prob": 0.004830642137676477,
+   "compression_ratio": 1.435897435897436,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1363.61,
+     "end": 1364.09,
+     "word": " pramana,",
+     "probability": 0.921
+    },
+    {
+     "start": 1364.25,
+     "end": 1366.47,
+     "word": " indicative",
+     "probability": 0.9832
+    },
+    {
+     "start": 1366.47,
+     "end": 1367.55,
+     "word": " that",
+     "probability": 0.9919
+    },
+    {
+     "start": 1367.55,
+     "end": 1368.75,
+     "word": " by",
+     "probability": 0.9748
+    },
+    {
+     "start": 1368.75,
+     "end": 1369.23,
+     "word": " saying",
+     "probability": 0.9901
+    },
+    {
+     "start": 1369.23,
+     "end": 1369.73,
+     "word": " Satyam",
+     "probability": 0.706
+    },
+    {
+     "start": 1369.73,
+     "end": 1370.23,
+     "word": " Jnanam",
+     "probability": 0.7484
+    },
+    {
+     "start": 1370.23,
+     "end": 1370.71,
+     "word": " Anandam",
+     "probability": 0.9563
+    },
+    {
+     "start": 1370.71,
+     "end": 1371.13,
+     "word": " Brahma,",
+     "probability": 0.9673
+    },
+    {
+     "start": 1371.29,
+     "end": 1373.37,
+     "word": " Prajnanam",
+     "probability": 0.7562
+    },
+    {
+     "start": 1373.37,
+     "end": 1373.81,
+     "word": " Brahma,",
+     "probability": 0.9969
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 1373.81,
+   "end": 1381.77,
+   "text": " Ayamatma, Brahma, like that. It is not able to tell what Brahma is. Not that",
+   "avg_logprob": -0.3725423532373765,
+   "no_speech_prob": 0.006906736642122269,
+   "compression_ratio": 1.4607843137254901,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1373.81,
+     "end": 1374.93,
+     "word": " Ayamatma,",
+     "probability": 0.7694
+    },
+    {
+     "start": 1374.95,
+     "end": 1375.39,
+     "word": " Brahma,",
+     "probability": 0.9875
+    },
+    {
+     "start": 1375.39,
+     "end": 1375.83,
+     "word": " like",
+     "probability": 0.9985
+    },
+    {
+     "start": 1375.83,
+     "end": 1376.15,
+     "word": " that.",
+     "probability": 0.9999
+    },
+    {
+     "start": 1376.65,
+     "end": 1377.41,
+     "word": " It",
+     "probability": 0.9974
+    },
+    {
+     "start": 1377.41,
+     "end": 1377.57,
+     "word": " is",
+     "probability": 0.9999
+    },
+    {
+     "start": 1377.57,
+     "end": 1377.99,
+     "word": " not",
+     "probability": 0.9999
+    },
+    {
+     "start": 1377.99,
+     "end": 1378.61,
+     "word": " able",
+     "probability": 0.9939
+    },
+    {
+     "start": 1378.61,
+     "end": 1378.91,
+     "word": " to",
+     "probability": 0.9998
+    },
+    {
+     "start": 1378.91,
+     "end": 1379.17,
+     "word": " tell",
+     "probability": 0.9999
+    },
+    {
+     "start": 1379.17,
+     "end": 1379.47,
+     "word": " what",
+     "probability": 0.9978
+    },
+    {
+     "start": 1379.47,
+     "end": 1379.87,
+     "word": " Brahma",
+     "probability": 0.9984
+    },
+    {
+     "start": 1379.87,
+     "end": 1380.09,
+     "word": " is.",
+     "probability": 0.9998
+    },
+    {
+     "start": 1380.77,
+     "end": 1381.53,
+     "word": " Not",
+     "probability": 0.9973
+    },
+    {
+     "start": 1381.53,
+     "end": 1381.77,
+     "word": " that",
+     "probability": 0.1576
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 1381.77,
+   "end": 1391.23,
+   "text": " Brahman, not the Brahma of the Creator but Brahman, the nirguna Brahman.",
+   "avg_logprob": -0.3725423532373765,
+   "no_speech_prob": 0.006906736642122269,
+   "compression_ratio": 1.4607843137254901,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1381.77,
+     "end": 1382.47,
+     "word": " Brahman,",
+     "probability": 0.5763
+    },
+    {
+     "start": 1382.53,
+     "end": 1382.95,
+     "word": " not",
+     "probability": 0.9968
+    },
+    {
+     "start": 1382.95,
+     "end": 1383.11,
+     "word": " the",
+     "probability": 0.9995
+    },
+    {
+     "start": 1383.11,
+     "end": 1383.49,
+     "word": " Brahma",
+     "probability": 0.9882
+    },
+    {
+     "start": 1383.49,
+     "end": 1383.75,
+     "word": " of",
+     "probability": 0.9996
+    },
+    {
+     "start": 1383.75,
+     "end": 1383.99,
+     "word": " the",
+     "probability": 0.9999
+    },
+    {
+     "start": 1383.99,
+     "end": 1384.49,
+     "word": " Creator",
+     "probability": 0.1288
+    },
+    {
+     "start": 1384.49,
+     "end": 1385.67,
+     "word": " but",
+     "probability": 0.2179
+    },
+    {
+     "start": 1385.67,
+     "end": 1387.19,
+     "word": " Brahman,",
+     "probability": 0.9984
+    },
+    {
+     "start": 1387.33,
+     "end": 1389.55,
+     "word": " the",
+     "probability": 0.993
+    },
+    {
+     "start": 1389.55,
+     "end": 1390.79,
+     "word": " nirguna",
+     "probability": 0.7919
+    },
+    {
+     "start": 1390.79,
+     "end": 1391.23,
+     "word": " Brahman.",
+     "probability": 0.9969
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 1394.13,
+   "end": 1395.85,
+   "text": " and when",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1394.13,
+     "end": 1395.53,
+     "word": " and",
+     "probability": 0.2935
+    },
+    {
+     "start": 1395.53,
+     "end": 1395.85,
+     "word": " when",
+     "probability": 0.9957
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 1395.85,
+   "end": 1397.39,
+   "text": " avyaktad",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1395.85,
+     "end": 1397.39,
+     "word": " avyaktad",
+     "probability": 0.7298
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 1397.39,
+   "end": 1399.39,
+   "text": " avyakta",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1397.39,
+     "end": 1399.39,
+     "word": " avyakta",
+     "probability": 0.8224
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 1399.39,
+   "end": 1402.37,
+   "text": " the two words when they",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1399.39,
+     "end": 1401.21,
+     "word": " the",
+     "probability": 0.9688
+    },
+    {
+     "start": 1401.21,
+     "end": 1401.41,
+     "word": " two",
+     "probability": 0.995
+    },
+    {
+     "start": 1401.41,
+     "end": 1401.81,
+     "word": " words",
+     "probability": 0.9987
+    },
+    {
+     "start": 1401.81,
+     "end": 1402.09,
+     "word": " when",
+     "probability": 0.9877
+    },
+    {
+     "start": 1402.09,
+     "end": 1402.37,
+     "word": " they",
+     "probability": 0.9992
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 1402.37,
+   "end": 1404.61,
+   "text": " juxtaposition",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1402.37,
+     "end": 1404.61,
+     "word": " juxtaposition",
+     "probability": 0.9545
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 1404.61,
+   "end": 1408.53,
+   "text": " it is the most concentrated",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1404.61,
+     "end": 1406.21,
+     "word": " it",
+     "probability": 0.9752
+    },
+    {
+     "start": 1406.21,
+     "end": 1407.51,
+     "word": " is",
+     "probability": 0.9998
+    },
+    {
+     "start": 1407.51,
+     "end": 1407.59,
+     "word": " the",
+     "probability": 0.8998
+    },
+    {
+     "start": 1407.59,
+     "end": 1407.85,
+     "word": " most",
+     "probability": 0.9996
+    },
+    {
+     "start": 1407.85,
+     "end": 1408.53,
+     "word": " concentrated",
+     "probability": 0.9994
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 1408.53,
+   "end": 1409.13,
+   "text": " teaching",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1408.53,
+     "end": 1409.13,
+     "word": " teaching",
+     "probability": 0.9991
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 1409.13,
+   "end": 1411.95,
+   "text": " two avyaktas",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1409.13,
+     "end": 1411.09,
+     "word": " two",
+     "probability": 0.741
+    },
+    {
+     "start": 1411.09,
+     "end": 1411.95,
+     "word": " avyaktas",
+     "probability": 0.9873
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 1411.95,
+   "end": 1413.75,
+   "text": " one name",
+   "avg_logprob": -0.27314553073808256,
+   "no_speech_prob": 0.023762447759509087,
+   "compression_ratio": 1.3863636363636365,
+   "temperature": 0.0,
+   "words": [
+    {
+     "start": 1411.95,
+     "end": 1413.31,
+     "word": " one",
+     "probability": 0.9862
+    },
+    {
+     "start": 1413.31,
+     "end": 1413.75,
+     "word": " name",
+     "probability": 0.9991
+    }
+   ]
+  }
+ ]
+}
