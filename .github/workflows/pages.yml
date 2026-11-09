@@ -1,0 +1,75 @@
+# Build the static Gita Map site (site/, Vite) and deploy it to GitHub Pages
+# under the /gita-map/ project base path (vite.config.js default; GITA_MAP_BASE unset).
+#
+# STATUS: prepared, not active. GitHub Pages is NOT enabled for this repository
+# (the plan does not support Pages on a private repo). Until the user decides
+# how to resolve that, the configure-pages / deploy-pages steps will fail.
+# See docs/deployment.md.
+#
+# Playwright end-to-end tests (npm run test:e2e) are intentionally not run here.
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    # Pushes that touch only these paths do not rebuild the site. A push that
+    # touches site/**, package*.json, .nvmrc or this workflow still triggers.
+    paths-ignore:
+      - '.routines/**'
+      - '.autobuild/**'
+      - '.github/session-state/**'
+      - 'data/episodes/**/transcript/**'
+      - 'data/episodes/**/source/**'
+      - 'scripts/**'
+      - 'docs/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node (version from .nvmrc)
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Data and consistency check
+        run: npm run check
+
+      - name: Build (base /gita-map/)
+        run: npm run build
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
