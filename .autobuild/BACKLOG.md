@@ -106,6 +106,8 @@ Use only successfully acquired transcript. Stay close to teacher wording, distin
 
 - [ ] **Deliverable:** Latest verified episode has faithful summary, logical diagram and sourced graph nodes/edges, with traceable evidence; unresolved references explicitly marked.
 
+**Note 2026-11-09:** 2026-11-09 user: 'build the actual lecture content ... for the eps which already exist'. Scope plan: (1) newest ep -H0dwGkYmkM from automatic ASR (unreviewed, gaps 1951-1996 s and 2203-2251 s marked, Sanskrit uncertain); (2) the 48 feed-transcript episodes via new ingest task; (3) remaining 134 audio-only eps need ASR - needs confirmation. Published form = paraphrased summaries, short direct quotes, timestamps, diagrams, graph edges with evidence; not full transcripts on the site. Blocked on wave: u9 (T-002) active; dispatch after u9 closes.
+
 ### T-004 — Validate and prepare GitHub Pages deployment
 
 **Priority:** P2 · **Owner:** claude-autobuild · **Status:** ▶
@@ -165,3 +167,13 @@ Per nudge podcast-routine-integration: config.yml is YouTube-only. Add RSS sourc
 - [ ] **Deliverable:** Routine config/prompts/harness handle RSS+ASR source with provenance; harness log recorded in durable verification record.
 
 **Note 2026-11-09:** Dependent on u7 outcome; per nudge podcast-routine-integration the u5 builder is closed, no duplicate worker. Open after T-001 wave (one active wave with review enabled).
+
+### T-009 — Ingest genuine feed transcripts for existing episodes (48 with podcast:transcript)
+
+**Priority:** P1 · **Owner:** unassigned · **Status:** ☐
+**Prerequisites:** T-001
+**Area:** sources
+
+User 2026-11-09: build actual lecture content for episodes that already exist. 48 of 182 RSS items (feed items 70-117, Ch03-20..Ch05-12) carry podcast:transcript SRT on transcript-files.spotifycdn.com (anonymous HTTP 200 verified for Ch05-12, 842 cues). Fetch raw SRT unmodified with sha256, feed item guid/pubDate/duration, provenance 'feed-supplied, generation method unstated'; keep cleaned text separate; podcast-time references only; no YouTube alignment claimed; no teacher contact; no paid/cookies. Episodes without a feed transcript (134) need local CPU ASR (decision/time cost TBD) and are out of scope until the user confirms.
+
+- [ ] **Deliverable:** data/episodes/<guid>/ has raw SRT + provenance for each of the 48 episodes, validated by a script (cue count, monotonic times, sha256).
