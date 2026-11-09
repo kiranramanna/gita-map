@@ -74,6 +74,8 @@ Identify newest playlist episode by upload metadata, starting candidate -H0dwGkY
 
 **Note 2026-11-09:** 2026-11-09 user source clarification: Apple Podcasts id 1861462827 -> RSS https://anchor.fm/s/10c696e48/podcast/rss (182 eps; newest Ch08-10 published 2026-11-07 00:01:06 GMT; enclosure MP3 anonymously reachable; no podcast:transcript for newest two). Alternative route: podcast audio + local CPU ASR (no cookies/paid/shared GPU). Evaluation dispatched as scratch-only read experiment (no repo writes) while T-005 holds the active wave; repo writes follow in a T-001 unit after T-005's wave. Cookie authorization no longer the only route.
 
+**Note 2026-11-09:** 2026-11-09 podcast+ASR evaluation (scratch only, supervisor-verified): RSS guid 162b8ae8 'Ch08-10', MP3 sha256 a8bc892c... 16631472 B, 4157.754 s vs YouTube 4158 s; same lecture inferred not proven; YouTube offset unmeasured. No genuine public transcript. Local CPU faster-whisper large-v3 full raw ASR (1118 segs, sha256 377fe8ab...), UNREVIEWED: confirmed repetition loop ~2205-2251 s, Sanskrit mis-transcribed. Next: T-001 unit to land provenance-labelled raw ASR (+ overlap second pass); raw kept separate from cleaned; MP3 not in repo.
+
 ### T-002 — Build the static continuous reader and graph experience
 
 **Priority:** P1 · **Owner:** claude-autobuild · **Status:** ▶
