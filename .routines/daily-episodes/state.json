@@ -1,0 +1,46 @@
+{
+  "backfill": {
+    "approved": [],
+    "policy": "Historical uploads (published at or before the watermark) are registered but never processed automatically. Backfill is a manual, per-video decision: a human sets that id's disposition to eligible and appends {video_id, approved_by, approved_at, reason} here. There is no switch that releases the whole backlog."
+  },
+  "notes": "Seeded by builder unit u5 (T-005) on 2026-11-09 from T-001 evidence. No routine run has happened yet; audits live in runs/. The routine is NOT scheduled (see README).",
+  "registry": {
+    "-H0dwGkYmkM": {
+      "disposition": "eligible",
+      "disposition_basis": "initial watermark episode: newest playlist upload at seeding time; processing starts here",
+      "first_seen_at": "2026-11-08T23:29:34Z",
+      "published": false,
+      "published_at": "2026-11-07T00:25:16Z",
+      "published_at_basis": "exact",
+      "stages": {
+        "discovered": {
+          "at": "2026-11-08T23:29:34Z",
+          "source": "T-001 (scripts/acquire/acquire.py); data/episodes/-H0dwGkYmkM/metadata.json",
+          "status": "done"
+        },
+        "transcript": {
+          "at": "2026-11-08T23:29:34Z",
+          "attempts": 1,
+          "evidence": "data/episodes/-H0dwGkYmkM/caption-attempts.json; docs/source-status.md",
+          "last_error": "YouTube bot check (LOGIN_REQUIRED: Sign in to confirm you're not a bot) for every yt-dlp player client from this host; timedtext empty; get_transcript 400",
+          "needs_human": false,
+          "next_retry_after": null,
+          "retryable": true,
+          "source": "T-001 acquisition session, not a routine run",
+          "status": "failed"
+        }
+      },
+      "title": "Ch08-10-Shrimad Bhagavad Gita",
+      "video_id": "-H0dwGkYmkM"
+    }
+  },
+  "routine": "daily-episodes",
+  "schema_version": 1,
+  "watermark": {
+    "basis": "Newest upload verified by T-001: playlist Atom feed <published> exact timestamp, cross-checked with flat-playlist approximate dates and the channel Videos tab (docs/source-status.md).",
+    "published_at": "2026-11-07T00:25:16Z",
+    "set_at": "2026-11-09T00:00:00Z",
+    "title": "Ch08-10-Shrimad Bhagavad Gita",
+    "video_id": "-H0dwGkYmkM"
+  }
+}

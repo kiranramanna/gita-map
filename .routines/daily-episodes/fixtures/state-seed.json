@@ -1,0 +1,25 @@
+{
+  "backfill": {"approved": [], "policy": "SYNTHETIC FIXTURE seed state for bin/harness.py (mirrors the real seed shape)."},
+  "notes": "SYNTHETIC FIXTURE seed state. Copied into a temporary root only.",
+  "registry": {
+    "zzFIXTURE00": {
+      "disposition": "eligible",
+      "disposition_basis": "SYNTHETIC FIXTURE initial watermark episode",
+      "first_seen_at": "2026-01-10T01:00:00Z",
+      "published": false,
+      "published_at": "2026-01-10T00:00:00Z",
+      "published_at_basis": "exact",
+      "stages": {
+        "discovered": {"status": "done", "at": "2026-01-10T01:00:00Z"},
+        "transcript": {"status": "failed", "at": "2026-01-10T01:00:00Z", "attempts": 1, "retryable": true,
+                       "needs_human": false, "next_retry_after": null,
+                       "last_error": "SYNTHETIC FIXTURE: seeded acquisition failure"}
+      },
+      "title": "SYNTHETIC FIXTURE episode 00 (watermark)",
+      "video_id": "zzFIXTURE00"
+    }
+  },
+  "routine": "daily-episodes",
+  "schema_version": 1,
+  "watermark": {"video_id": "zzFIXTURE00", "published_at": "2026-01-10T00:00:00Z", "title": "SYNTHETIC FIXTURE episode 00 (watermark)", "basis": "fixture", "set_at": "2026-01-10T01:00:00Z"}
+}

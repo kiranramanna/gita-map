@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataset": "mixed-demo",
+  "demoNotice": "DEMO STRUCTURE - NOT LECTURE CONTENT",
+  "datasetNote": "SYNTHETIC FIXTURE site data for bin/harness.py. Not lecture content.",
+  "series": {
+    "title": "SYNTHETIC FIXTURE series",
+    "channel": "SYNTHETIC FIXTURE channel",
+    "playlistUrl": "https://example.invalid/synthetic-fixture"
+  },
+  "chapters": [
+    {
+      "id": "ch-zzfixture",
+      "order": 1,
+      "label": "SYNTHETIC FIXTURE chapter",
+      "demo": false,
+      "basis": "SYNTHETIC FIXTURE"
+    }
+  ],
+  "shlokas": [],
+  "concepts": [],
+  "references": [],
+  "episodes": [
+    {
+      "id": "ep-zzFIXTURE00",
+      "demo": false,
+      "videoId": "zzFIXTURE00",
+      "url": "https://example.invalid/synthetic-fixture/zzFIXTURE00",
+      "title": "SYNTHETIC FIXTURE episode 00 (watermark)",
+      "channel": "SYNTHETIC FIXTURE channel",
+      "publishedAt": "2026-01-10T00:00:00Z",
+      "durationS": 720,
+      "chapterId": "ch-zzfixture",
+      "orderInChapter": 1,
+      "orderBasis": "SYNTHETIC FIXTURE order",
+      "uploaderClaim": {
+        "text": "SYNTHETIC FIXTURE uploader description",
+        "source": "SYNTHETIC FIXTURE",
+        "verified": false
+      },
+      "transcript": {
+        "status": "blocked",
+        "note": "SYNTHETIC FIXTURE placeholder mirroring the real blocked ep--H0dwGkYmkM entry"
+      },
+      "shlokaIds": [],
+      "segments": [],
+      "diagram": null
+    }
+  ],
+  "evidence": [
+    {
+      "id": "ev-meta-zzfixture00-title",
+      "demo": false,
+      "episodeId": "ep-zzFIXTURE00",
+      "videoId": "zzFIXTURE00",
+      "startS": 0,
+      "kind": "uploader-metadata",
+      "excerpt": "SYNTHETIC FIXTURE episode 00 (watermark)",
+      "source": "SYNTHETIC FIXTURE uploader title"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-ep-zzfixture00-in-ch-meta",
+      "source": "ep-zzFIXTURE00",
+      "target": "ch-zzfixture",
+      "kind": "in-chapter",
+      "status": "metadata",
+      "demo": false,
+      "evidenceIds": [
+        "ev-meta-zzfixture00-title"
+      ]
+    }
+  ],
+  "_notice": "SYNTHETIC FIXTURE. Mirrors the real first-run shape: a blocked placeholder episode with a metadata in-chapter edge."
+}

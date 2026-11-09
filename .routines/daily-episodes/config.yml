@@ -1,0 +1,90 @@
+# daily-episodes routine configuration.
+# Parsed by bin/routine.py with a small stdlib parser: nested maps by 2-space
+# indentation, scalars and inline [a, b] lists only (no block lists, no anchors).
+# NOT AN ACTIVE SCHEDULE. Activation is backlog task T-006 (docs/routine-activation.md).
+
+routine: daily-episodes
+
+schedule:
+  # Intended cron for a Claude Code remote trigger (the mechanism Thinkit uses).
+  cron: "CRON_TZ=America/Los_Angeles 0 6 * * *"
+  timezone: "America/Los_Angeles"
+  # CRON_TZ keeps 06:00 local all year. US DST changes happen at 02:00 local, so 06:00
+  # occurs exactly once on both transition days (no skipped or doubled run).
+  # UTC fallback, only if CRON_TZ is unsupported. Every UTC choice drifts one hour:
+  #   "0 14 * * *" = 06:00 PST (Nov-Mar) but 07:00 PDT (Mar-Nov)
+  #   "0 13 * * *" = 06:00 PDT (Mar-Nov) but 05:00 PST (Nov-Mar)
+  utc_fallback_cron: "0 14 * * *"
+  utc_fallback_disclosure: "06:00 PST in winter, 07:00 PDT in summer"
+  activated: false
+
+source:
+  playlist_id: "PLxtfkA7EyYFPx8caX0IQ3o1TszTBDw8uO"
+  playlist_url: "https://www.youtube.com/playlist?list=PLxtfkA7EyYFPx8caX0IQ3o1TszTBDw8uO"
+  channel_id: "UCZoszo4Cm2RtnvZoDQvLKoA"
+  # Discovery ranks by upload time (exact feed <published> first, then approximate
+  # flat-playlist dates), never by playlist position alone.
+  acquire_script: "scripts/acquire/acquire.py"
+  clean_script: "scripts/acquire/clean_json3.py"
+
+discovery:
+  # An approximate date this close to the watermark is ambiguous -> needs_review.
+  approx_margin_hours: 48
+  # More new eligible uploads than this in one run is treated as a listing anomaly;
+  # the extras become needs_review instead of being published.
+  max_new_episodes_per_run: 3
+
+transcript:
+  # The speaker's source-language track. en ASR is the only track hinted so far
+  # (docs/source-status.md); extend only after verifying the spoken language.
+  accept_languages: [en, en-orig]
+  reject_translated_tracks: true
+  min_caption_events: 20
+  # Retry schedule for a missing/unreliable transcript (hours after each failure).
+  backoff_hours: [20, 20, 44, 68]
+  # After this many failed attempts the episode is flagged needs_human. It stays
+  # retryable; the routine never publishes a lesson without a transcript.
+  escalate_after_attempts: 3
+
+generation:
+  summary_prompt: "lesson-prompt.md"
+  diagram_prompt: "diagram-prompt.md"
+  graph_prompt: "graph-prompt.md"
+  # Model ids are chosen at activation (T-006) from what the remote env provides.
+  model: "set-at-activation"
+
+validation:
+  commands: ["npm ci", "npm run check", "npm run build", "npm run test:e2e"]
+  # bin/routine.py validate: duplicate (source,target,kind) edges, dangling ids,
+  # verbatim transcript excerpts, segment/shloka agreement, fixture guard.
+  deterministic: "python3 -I .routines/daily-episodes/bin/routine.py validate"
+
+publish:
+  branch: main
+  remote: origin
+  # Only ordinary fast-forward pushes. Never --force, never --force-with-lease.
+  force_push: false
+  # Explicit paths only; `git add -A` / `git add .` are forbidden.
+  add_paths: ["site/public/data/content.json", "data/episodes/<videoId>", ".routines/daily-episodes/state.json", ".routines/daily-episodes/runs/<run_id>.json"]
+  # A run that changed nothing does not commit; its audit stays in the trigger run log.
+  commit_on_noop: false
+  # Pages workflow is provided by T-004. Until it exists the routine stops at
+  # `pushed` and records deploy pending; `published` stays false.
+  pages_workflow: ".github/workflows/pages.yml"
+  site_url: "https://kiranramanna.github.io/gita-map/"
+  deploy_timeout_minutes: 15
+
+run_lock:
+  ttl_seconds: 5400
+
+review:
+  # Generated lessons are reviewable candidates; see ../shared/policy.md "Review gate".
+  enabled: true
+  # OPEN USER DECISION (T-006). false = publish unreviewed candidates labelled as such;
+  # true = stop at `validated` until a review is recorded (engine records awaiting_review).
+  enabled_blocks_publish: false
+
+fixtures:
+  # Harness-only synthetic data. These markers are refused in the real site data.
+  id_prefix: "zzFIXTURE"
+  title_marker: "SYNTHETIC FIXTURE"

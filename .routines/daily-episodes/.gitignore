@@ -1,0 +1,4 @@
+# Single-host run lock and stale-lock leftovers are local runtime state.
+run.lock
+run.lock.*
+__pycache__/

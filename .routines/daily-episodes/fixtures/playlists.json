@@ -1,0 +1,16 @@
+{
+  "_notice": "SYNTHETIC FIXTURE playlist listings for bin/harness.py only. Not YouTube data. Never copy into data/ or site/.",
+  "day1": [
+    {"video_id": "zzFIXTURE00", "title": "SYNTHETIC FIXTURE episode 00 (watermark)", "published_at": "2026-01-10T00:00:00Z", "published_at_basis": "exact"},
+    {"video_id": "zzFIXTURE90", "title": "SYNTHETIC FIXTURE historical 90", "published_at": "2026-01-09T00:00:00Z", "published_at_basis": "exact"},
+    {"video_id": "zzFIXTURE91", "title": "SYNTHETIC FIXTURE historical 91", "published_at": "2025-12-01T00:00:00Z", "published_at_basis": "approximate"},
+    {"video_id": "zzFIXTURE92", "title": "SYNTHETIC FIXTURE ambiguous 92", "published_at": "2026-01-10T12:00:00Z", "published_at_basis": "approximate"}
+  ],
+  "day2": [
+    {"video_id": "zzFIXTURE01", "title": "SYNTHETIC FIXTURE episode 01 (new upload)", "published_at": "2026-01-11T00:00:00Z", "published_at_basis": "exact"},
+    {"video_id": "zzFIXTURE00", "title": "SYNTHETIC FIXTURE episode 00 (watermark)", "published_at": "2026-01-10T00:00:00Z", "published_at_basis": "exact"},
+    {"video_id": "zzFIXTURE90", "title": "SYNTHETIC FIXTURE historical 90", "published_at": "2026-01-09T00:00:00Z", "published_at_basis": "exact"},
+    {"video_id": "zzFIXTURE91", "title": "SYNTHETIC FIXTURE historical 91", "published_at": "2025-12-01T00:00:00Z", "published_at_basis": "approximate"},
+    {"video_id": "zzFIXTURE92", "title": "SYNTHETIC FIXTURE ambiguous 92", "published_at": "2026-01-09T20:00:00Z", "published_at_basis": "exact"}
+  ]
+}

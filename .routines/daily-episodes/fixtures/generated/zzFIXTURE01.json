@@ -1,0 +1,27 @@
+{
+  "_notice": "SYNTHETIC FIXTURE stand-in for LLM output. It deliberately re-proposes the shared concept, the shloka and the shloka->concept edge under a NEW edge id, so the harness can show upsert and duplicate-edge folding.",
+  "summary": {
+    "segments": [
+      {"id": "s-zzfixture01-1", "shlokaId": "bg-zzfixture-001", "heading": "SYNTHETIC FIXTURE segment 1",
+       "blocks": [
+         {"kind": "paraphrase", "text": "SYNTHETIC FIXTURE paraphrase of placeholder topic beta.", "evidenceIds": ["ev-zzfixture01-01"]},
+         {"kind": "inferred", "text": "SYNTHETIC FIXTURE inferred link back to episode 00.", "evidenceIds": ["ev-zzfixture01-02"]}
+       ]}
+    ]
+  },
+  "diagram": {"mermaid": "flowchart TD\n  A[SYNTHETIC FIXTURE recap] --> B[SYNTHETIC FIXTURE topic beta]\n"},
+  "graph": {
+    "shlokas": [{"id": "bg-zzfixture-001", "chapterId": "ch-zzfixture", "order": 1, "label": "SYNTHETIC FIXTURE shloka 1", "demo": false, "evidenceIds": ["ev-zzfixture01-01"]}],
+    "concepts": [{"id": "c-zzfixture-shared", "label": "SYNTHETIC FIXTURE shared concept", "demo": false}],
+    "evidence": [
+      {"id": "ev-zzfixture01-01", "demo": false, "episodeId": "ep-zzFIXTURE01", "videoId": "zzFIXTURE01", "startS": 0, "endS": 30, "kind": "transcript", "excerpt": "SYNTHETIC FIXTURE zzFIXTURE01 caption line 01 about placeholder topic beta; not lecture speech.", "source": "fixture cleaned transcript"},
+      {"id": "ev-zzfixture01-02", "demo": false, "episodeId": "ep-zzFIXTURE01", "videoId": "zzFIXTURE01", "startS": 30, "endS": 60, "kind": "transcript", "excerpt": "SYNTHETIC FIXTURE zzFIXTURE01 caption line 02 about placeholder topic beta; not lecture speech.", "source": "fixture cleaned transcript"}
+    ],
+    "edges": [
+      {"id": "e-zzfixture01-in-ch", "source": "ep-zzFIXTURE01", "target": "ch-zzfixture", "kind": "in-chapter", "status": "stated", "demo": false, "evidenceIds": ["ev-zzfixture01-01"]},
+      {"id": "e-zzfixture01-discusses", "source": "ep-zzFIXTURE01", "target": "bg-zzfixture-001", "kind": "discusses", "status": "stated", "demo": false, "evidenceIds": ["ev-zzfixture01-01"]},
+      {"id": "e-zzfixture01-refers-back", "source": "ep-zzFIXTURE01", "target": "ep-zzFIXTURE00", "kind": "refers-back", "status": "inferred", "demo": false, "evidenceIds": ["ev-zzfixture01-02"]},
+      {"id": "e-zzfixture01-shloka-concept-dup", "source": "bg-zzfixture-001", "target": "c-zzfixture-shared", "kind": "related-concept", "status": "inferred", "demo": false, "evidenceIds": ["ev-zzfixture01-02"]}
+    ]
+  }
+}

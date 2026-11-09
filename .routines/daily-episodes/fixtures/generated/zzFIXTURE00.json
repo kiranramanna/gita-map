@@ -1,0 +1,32 @@
+{
+  "_notice": "SYNTHETIC FIXTURE stand-in for LLM output (summary/diagram/graph). Harness only; never site content.",
+  "summary": {
+    "segments": [
+      {"id": "s-zzfixture00-1", "shlokaId": "bg-zzfixture-001", "heading": "SYNTHETIC FIXTURE segment 1",
+       "blocks": [
+         {"kind": "paraphrase", "text": "SYNTHETIC FIXTURE paraphrase of placeholder topic alpha.", "evidenceIds": ["ev-zzfixture00-01"]},
+         {"kind": "quote", "text": "SYNTHETIC FIXTURE zzFIXTURE00 caption line 02 about placeholder topic alpha; not lecture speech.", "evidenceIds": ["ev-zzfixture00-02"]}
+       ]},
+      {"id": "s-zzfixture00-2", "shlokaId": null, "heading": "SYNTHETIC FIXTURE segment 2",
+       "blocks": [
+         {"kind": "unresolved", "text": "SYNTHETIC FIXTURE unresolved reference marker.", "evidenceIds": ["ev-zzfixture00-03"]}
+       ]}
+    ]
+  },
+  "diagram": {"mermaid": "flowchart TD\n  A[SYNTHETIC FIXTURE start] --> B[SYNTHETIC FIXTURE topic alpha]\n"},
+  "graph": {
+    "shlokas": [{"id": "bg-zzfixture-001", "chapterId": "ch-zzfixture", "order": 1, "label": "SYNTHETIC FIXTURE shloka 1", "demo": false, "evidenceIds": ["ev-zzfixture00-01"]}],
+    "concepts": [{"id": "c-zzfixture-shared", "label": "SYNTHETIC FIXTURE shared concept", "demo": false}],
+    "evidence": [
+      {"id": "ev-zzfixture00-01", "demo": false, "episodeId": "ep-zzFIXTURE00", "videoId": "zzFIXTURE00", "startS": 0, "endS": 30, "kind": "transcript", "excerpt": "SYNTHETIC FIXTURE zzFIXTURE00 caption line 01 about placeholder topic alpha; not lecture speech.", "source": "fixture cleaned transcript"},
+      {"id": "ev-zzfixture00-02", "demo": false, "episodeId": "ep-zzFIXTURE00", "videoId": "zzFIXTURE00", "startS": 30, "endS": 60, "kind": "transcript", "excerpt": "SYNTHETIC FIXTURE zzFIXTURE00 caption line 02 about placeholder topic alpha; not lecture speech.", "source": "fixture cleaned transcript"},
+      {"id": "ev-zzfixture00-03", "demo": false, "episodeId": "ep-zzFIXTURE00", "videoId": "zzFIXTURE00", "startS": 60, "endS": 90, "kind": "transcript", "excerpt": "SYNTHETIC FIXTURE zzFIXTURE00 caption line 03 about placeholder topic alpha; not lecture speech.", "source": "fixture cleaned transcript"}
+    ],
+    "edges": [
+      {"id": "e-zzfixture00-in-ch", "source": "ep-zzFIXTURE00", "target": "ch-zzfixture", "kind": "in-chapter", "status": "stated", "demo": false, "evidenceIds": ["ev-zzfixture00-01"]},
+      {"id": "e-zzfixture00-discusses", "source": "ep-zzFIXTURE00", "target": "bg-zzfixture-001", "kind": "discusses", "status": "stated", "demo": false, "evidenceIds": ["ev-zzfixture00-01"]},
+      {"id": "e-zzfixture00-concept", "source": "ep-zzFIXTURE00", "target": "c-zzfixture-shared", "kind": "teaches-concept", "status": "stated", "demo": false, "evidenceIds": ["ev-zzfixture00-02"]},
+      {"id": "e-zzfixture-shloka-concept", "source": "bg-zzfixture-001", "target": "c-zzfixture-shared", "kind": "related-concept", "status": "inferred", "demo": false, "evidenceIds": ["ev-zzfixture00-02"]}
+    ]
+  }
+}
