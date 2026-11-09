@@ -82,6 +82,8 @@ Use README.md and CLAUDE.md requirements. Delegate implementation to native Clau
 
 **Note 2026-11-08:** 2026-11-08: Claim released before dispatch; status reset to unstarted. Held behind T-001 wave (one active wave while review is enabled). Will be claimed and dispatched once T-001's wave closes; independent of transcript acquisition.
 
+**Note 2026-11-09:** 2026-11-09 u3 candidate implemented, UNREVIEWED: Vite+Cytoscape+Mermaid under /gita-map/, labeled demo data only. Supervisor re-ran npm ci, npm run check (OK) and npm run build (OK). Builder reports 47/47 Playwright checks (headless Chromium, emulated mobile; no chrome-devtools; no real device/WebKit/Firefox). Known gaps: short-edge tap on mobile, Mermaid recolor on theme toggle, tests tied to demo IDs. Review gate pending: Copilot critic/reviewer launch rule missing (backlog.py launch-rule MISSING; fix needs user yes: init --ack-yolo-by <who> --allow-bridge-launch). Deliverable stays unticked.
+
 ### T-003 — Create source-grounded latest-episode study material
 
 **Priority:** P1 · **Owner:** unassigned · **Status:** ☐
@@ -104,7 +106,7 @@ Run build, source/data checks and meaningful browser tests. Prepare Pages workfl
 
 ### T-005 — Author Gita Map daily-episodes routine files (.routines/)
 
-**Priority:** P1 · **Owner:** unassigned · **Status:** ☐
+**Priority:** P1 · **Owner:** claude-autobuild · **Status:** ▶
 **Prerequisites:** none
 **Area:** routines
 
