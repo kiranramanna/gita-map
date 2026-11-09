@@ -106,13 +106,15 @@ Use only successfully acquired transcript. Stay close to teacher wording, distin
 
 ### T-004 — Validate and prepare GitHub Pages deployment
 
-**Priority:** P2 · **Owner:** unassigned · **Status:** ☐
+**Priority:** P2 · **Owner:** claude-autobuild · **Status:** ▶
 **Prerequisites:** T-002
 **Area:** delivery
 
 Run build, source/data checks and meaningful browser tests. Prepare Pages workflow. Preserve private visibility. Do not enable paid features, publish, merge or open PR without authorization. Document private repo Pages availability as needed. Prepare reviewable result first.
 
 - [ ] **Deliverable:** docs/verification.md records actual checks and limitations; GitHub Pages workflow ready and /gita-map/ static paths verified; source/content blockers remain clearly open.
+
+**Note 2026-11-09:** 2026-11-09 user asked to bring up and publish Pages. Probe: POST /repos/kiranramanna/gita-map/pages returned 422 'Your current plan does not support GitHub Pages for this repository' (repo private, user account). Pages NOT enabled. Unblock needs user decision: upgrade plan (paid) or make repo public - both outside current authorization. u8 preparing .github/workflows/pages.yml + docs/deployment.md only.
 
 ### T-005 — Author Gita Map daily-episodes routine files (.routines/)
 

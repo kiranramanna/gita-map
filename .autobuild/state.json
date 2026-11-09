@@ -2,7 +2,7 @@
   "self_permit": null,
   "round": 0,
   "phase": "select",
-  "task": "T-001",
+  "task": "T-004",
   "attempts": 0,
   "owner_name": "claude-autobuild",
   "no_change_rounds": 0,
@@ -156,6 +156,32 @@
         "docs/source-status.md"
       ],
       "closed_at": "2026-11-09T01:43:00Z"
+    },
+    {
+      "id": "u8",
+      "task": "T-004",
+      "wave": "T-004",
+      "phase": "implement",
+      "state": "reserved",
+      "accepted": true,
+      "executor_kind": "subagent",
+      "executor": null,
+      "native_handle": "a8605dc857a794b65",
+      "generation": 0,
+      "outcome": null,
+      "quiescent": false,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [
+        ".github/workflows/pages.yml",
+        "docs/deployment.md"
+      ],
+      "attempts": 0,
+      "dispatched_at": "2026-11-09T06:17:41Z",
+      "deadline": "2026-11-09T06:47:29Z",
+      "notes": "Pages workflow prepared; NOT enabled (plan blocks private-repo Pages)",
+      "placement": "laptop-native"
     }
   ],
   "waves": {
@@ -183,6 +209,17 @@
     },
     "T-005": {
       "task": "T-005",
+      "integration_complete": false,
+      "integration_evidence": [],
+      "full_verification_passed": false,
+      "verification_evidence": [],
+      "candidates": [],
+      "review_request": null,
+      "sanity": null,
+      "mutation_leases_released": false
+    },
+    "T-004": {
+      "task": "T-004",
       "integration_complete": false,
       "integration_evidence": [],
       "full_verification_passed": false,
