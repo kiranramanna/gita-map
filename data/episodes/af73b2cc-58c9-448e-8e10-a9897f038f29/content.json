@@ -1,0 +1,53 @@
+{
+  "schema": "episode-content/v1", "guid": "af73b2cc-58c9-448e-8e10-a9897f038f29", "title": "Ch04-34-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "02fe34abd89ebe73ecfcef810f456af14ad0219b254660a3c12bf060efa03bb7", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verse 42", "verified": false},
+  "summary": {"text": "The chapter closes by examining how ignorance can be known in the same inner instrument where self-recognition occurs. Ordinary partial knowing and sleep do not remove self-ignorance. The knowledge-sword signifies a decisive inward correction, complementing the earlier raft and fire images. Instruction, reflection and contemplation sharpen and apply this instrument; removing doubt and recognizing self-luminosity are not two separately produced events. Establishment in yoga joins abiding in Atma with daily action. A chapter recap connects cosmic lineage to Arjuna's personal call to arise. The final question distinguishes Ishwara's own Maya from an individual's ignorant sense of separation.", "cue_ranges": [[21, 134], [135, 276], [277, 532], [556, 587]]},
+  "segments": [
+    {"id": "s01", "heading": "Knowing ignorance is already an experience", "cue_range": [21, 106], "shloka_refs": [{"ref": "BG 4.42", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "Doubt is inward, so an external remedy misses its location. A Mundaka passage links breaking the heart-knot, cutting doubts and dissolving karma.", "cue_range": [21, 52]},
+      {"kind": "paraphrase", "text": "Statements of not knowing show ignorance as itself known. Partial object-knowledge and sleep illustrate that awareness can be present without the error about oneself being removed.", "cue_range": [53, 106]}
+    ]},
+    {"id": "s02", "heading": "The sword is specifically self-knowledge", "cue_range": [107, 206], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The cutting instrument is not information about external objects. The teacher identifies it with Atma's knowing nature, which alone opposes ignorance.", "cue_range": [107, 134]},
+      {"kind": "paraphrase", "text": "Raft, fire and sword emphasize support, consumption and precision respectively. The warrior image addresses Arjuna's inward hesitation through decisive recognition, not a literal weapon against others.", "cue_range": [135, 206]}
+    ]},
+    {"id": "s03", "heading": "Sharpening and cutting remove assumed identity", "cue_range": [207, 276], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Instruction supplies the pointer, reflection sharpens it and contemplation removes the mistaken identity. The witness is distinguished from the changing waking, dreaming and sleeping identities.", "cue_range": [207, 260]},
+      {"kind": "quote", "text": "It is not two separate action.", "cue_range": [263, 264]},
+      {"kind": "paraphrase", "text": "For the prepared seeker, removing doubt and recognizing self-luminosity coincide, like uncovering a lamp and the room becoming lit. Neither event manufactures Atma.", "cue_range": [261, 276]}
+    ]},
+    {"id": "s04", "heading": "Yoga joins self-abidance and ordinary activity", "cue_range": [277, 389], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Establishment in yoga means stable recognition while activity continues. Eating, household duties and work need not be assigned to a separate self-agent.", "cue_range": [277, 336]},
+      {"kind": "quote", "text": "The names are transactional requirement.", "cue_range": [381, 381]},
+      {"kind": "paraphrase", "text": "The teacher returns to witnessing the three states and understanding finite appearances in awareness. Names serve transaction but do not confer independent existence.", "cue_range": [337, 389]}
+    ]},
+    {"id": "s05", "heading": "Arise connects the individual and the lineage", "cue_range": [390, 499], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Arjuna's physical collapse makes arise a concrete command. Bharatha recalls a lineage entrusted with dharma, linking his responsibility to the chapter's account of transmission and restoration.", "cue_range": [390, 434]},
+      {"kind": "paraphrase", "text": "The recap joins the opening declaration of yoga to the closing call to inhabit it. Confusion about action is answered through non-doership and knowledge rather than retreat into unresolved doubt.", "cue_range": [435, 499]}
+    ]},
+    {"id": "s06", "heading": "The commentary locates the correction in oneself", "cue_range": [500, 552], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary identifies the heart with intellect and the doubt with one's own self-understanding. Another person's correction cannot substitute for this recognition.", "cue_range": [500, 523]},
+      {"kind": "paraphrase", "text": "The teacher's final compression gives disciplines their preparatory value: bondage rests on ignorance and agency; recognition of the ever-free self removes their binding force.", "cue_range": [524, 532]}
+    ]},
+    {"id": "s07", "heading": "Ishwara's Maya and individual separation", "cue_range": [553, 631], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A closing question asks about Atma Maya. The teacher explains it as Ishwara's own power of manifestation, not a power that subjects Ishwara to ignorance.", "cue_range": [556, 575]},
+      {"kind": "paraphrase", "text": "Apparent multiplicity is distinguished from becoming genuinely separate. Individual ignorance mistakes that appearance for independent identity; the remaining exchange consists of thanks and travel farewells.", "cue_range": [576, 602]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-samsaya", "label": "samsaya", "gloss": "Inward doubt requiring self-knowledge rather than an external repair.", "cue_range": [21, 38]},
+    {"id": "c-atma", "label": "Atma", "gloss": "The ever-present self whose knowing nature removes self-ignorance.", "cue_range": [107, 134]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The awareness witnessing the three state-identities.", "cue_range": [240, 255]},
+    {"id": "c-karma-yoga", "label": "Karma yoga", "gloss": "Self-abidance together with engagement in action.", "cue_range": [310, 325]},
+    {"id": "c-maya", "label": "Maya", "gloss": "Ishwara's own manifestation-power, distinguished from individual ignorance.", "cue_range": [556, 583]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Ignorance is inward and known] --> B[Self-knowledge is the cutting instrument]\n B --> C[Instruction and reflection sharpen it]\n C --> D[Doubt-removal and recognition coincide]\n D --> E[Abide in Atma while acting]\n E --> F[Arjuna arises within the restored teaching]\n F --> G[Manifestation is not independent separation]"},
+  "gaps": [
+    {"cue_range": [19, 20], "note": "Invocation is absent beyond a fragment."},
+    {"cue_range": [33, 35], "note": "Sanskrit mantra is garbled; English explanation supports the summary without reconstruction."},
+    {"cue_range": [195, 197], "note": "Attribute list is internally garbled; no corrected Sanskrit or doctrinal list supplied."},
+    {"cue_range": [500, 505], "note": "Commentary names and syntax are unclear; rely on subsequent English explanation."},
+    {"cue_range": [588, 631], "note": "Farewells and travel arrangements add no further teaching progression."}
+  ]
+}

@@ -2,7 +2,7 @@
   "self_permit": null,
   "round": 0,
   "phase": "select",
-  "task": "T-009",
+  "task": "T-003",
   "attempts": 0,
   "owner_name": "claude-autobuild",
   "no_change_rounds": 0,
@@ -275,6 +275,87 @@
         "scripts/feed/tests"
       ],
       "closed_at": "2026-11-09T22:09:49Z"
+    },
+    {
+      "id": "u12",
+      "task": "T-003",
+      "wave": "T-003",
+      "phase": "closed",
+      "state": "cancelled",
+      "accepted": true,
+      "executor_kind": "subagent",
+      "executor": null,
+      "native_handle": "ab61dda5ab41c4f4f",
+      "generation": 0,
+      "outcome": "implemented_unreviewed",
+      "quiescent": true,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [],
+      "attempts": 0,
+      "dispatched_at": null,
+      "deadline": null,
+      "notes": "content validator, native builder",
+      "placement": "laptop-native",
+      "owned_files": [
+        "scripts/content"
+      ],
+      "closed_at": "2026-11-12T02:27:22Z"
+    },
+    {
+      "id": "u13",
+      "task": "T-003",
+      "wave": "T-003",
+      "phase": "closed",
+      "state": "cancelled",
+      "accepted": true,
+      "executor_kind": "copilot",
+      "executor": null,
+      "native_handle": "e9478010-7367-4824-9093-d0c6e81376df",
+      "generation": 0,
+      "outcome": "implemented_unreviewed",
+      "quiescent": true,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [],
+      "attempts": 0,
+      "dispatched_at": null,
+      "deadline": null,
+      "notes": "copilot claude-opus-5.5 high tmux; 24 episodes Ch03-20..Ch04-22",
+      "placement": "copilot",
+      "owned_files": [
+        "data/episodes"
+      ],
+      "closed_at": "2026-11-12T03:09:26Z"
+    },
+    {
+      "id": "u14",
+      "task": "T-003",
+      "wave": "T-003",
+      "phase": "closed",
+      "state": "cancelled",
+      "accepted": true,
+      "executor_kind": "devin",
+      "executor": null,
+      "native_handle": "df12de78-b377-45e9-856a-bbdcee9939e7",
+      "generation": 0,
+      "outcome": "implemented_unreviewed",
+      "quiescent": true,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [],
+      "attempts": 0,
+      "dispatched_at": null,
+      "deadline": null,
+      "notes": "devin gpt-6-1-sol-high tmux; 24 episodes Ch04-23..Ch05-12 (attempt 1 failed transient Unknown model, attempt 2 ok)",
+      "placement": "devin",
+      "owned_files": [
+        "data/episodes"
+      ],
+      "closed_at": "2026-11-12T03:09:27Z"
     }
   ],
   "waves": {
@@ -332,15 +413,20 @@
       "review_request": null,
       "sanity": null,
       "mutation_leases_released": false
-    }
-  },
-  "deferred": {
+    },
     "T-003": {
-      "reason": "Real transcript unavailable: YouTube LOGIN_REQUIRED/bot check on this host for -H0dwGkYmkM (docs/source-status.md); no raw captions exist.",
-      "needs": "Raw timestamped captions for -H0dwGkYmkM (user runs scripts/acquire/acquire.py elsewhere, authorizes cookies, or supplies files)",
-      "since": "2026-11-08"
+      "task": "T-003",
+      "integration_complete": false,
+      "integration_evidence": [],
+      "full_verification_passed": false,
+      "verification_evidence": [],
+      "candidates": [],
+      "review_request": null,
+      "sanity": null,
+      "mutation_leases_released": false
     }
   },
+  "deferred": {},
   "escalations": {
     "T-001": {
       "question": "How should the caption track for -H0dwGkYmkM be obtained?",

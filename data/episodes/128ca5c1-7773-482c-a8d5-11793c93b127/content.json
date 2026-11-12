@@ -1,0 +1,855 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "128ca5c1-7773-482c-a8d5-11793c93b127",
+  "title": "Ch04-01-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "ff4dddcd48d602c548ddac153153b2df0c402fa02482a806f784b893a2aaf6a1",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verses 1 & 2",
+    "verified": false
+  },
+  "summary": {
+    "text": "Opening chapter 4, the teacher recaps chapter 3 (desire and anger as bandits on the spiritual path, karma yoga as purification) and reads Shankaracharya's preface: the whole Gita teaches one yoga, steadfastness in knowledge (jnana nishta), with karma yoga and renunciation of doership as its means, culminating the Vedas. Krishna's lineage story is praise by lineage. Verse 1: the imperishable (avyaya) yoga was declared by Krishna, as Brahman, to Vivasvan, then Manu and Ikshvaku, strengthening kings to protect the Veda and the world. Verse 2: the yoga was lost over long time; the teacher stresses only the transmission is lost, not the Self. A Q&A on living transmission and knowledge as fire follows.",
+    "cue_ranges": [
+      [
+        19,
+        84
+      ],
+      [
+        85,
+        261
+      ],
+      [
+        262,
+        520
+      ],
+      [
+        521,
+        705
+      ],
+      [
+        706,
+        836
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host introduction and invocation",
+      "cue_range": [
+        1,
+        18
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the satsang on the Gita from an Advaita perspective, notes that the class is beginning chapter 4, and points to replays on Clubhouse, the Advaita Retold YouTube channel, Apple Podcasts and Spotify, plus a related book.",
+          "cue_range": [
+            1,
+            14
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher greets everyone and recites an opening invocation; the transcript of the invocation is garbled.",
+          "cue_range": [
+            15,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap of chapter 3: desire and anger",
+      "cue_range": [
+        19,
+        84
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 3.36",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            22,
+            23
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Chapter 3 answered Arjuna's question of why he is pushed into action if knowledge is superior. Apart from Arjuna's renewed question in verse 36, Krishna spends the chapter explaining karma yoga: duty done without attachment, and offered to the Lord, keeps the cosmic cycle going.",
+          "cue_range": [
+            19,
+            31
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "To Arjuna's question about the force that drags us into wrong action, Krishna names kama and krodha. Anger is desire that has been blocked. These two are pictured as highway robbers on the spiritual road, lodged in senses, mind and intellect.",
+          "cue_range": [
+            32,
+            46
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Where senses meet their objects, attraction and repulsion arise; the mind follows the senses and the intellect gets clouded, losing the ability to discriminate right from wrong. This is ignorance, taking oneself to be a desire-driven individual. The teacher notes the Katha Upanishad makes a similar point.",
+          "cue_range": [
+            47,
+            64
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The way out is knowledge and abiding in the Self. Karma yoga offered to the Lord prepares this by producing purity of mind, which matures into steadfastness in knowledge; recognising we are not body, mind and intellect negates the ego-based lower self.",
+          "cue_range": [
+            65,
+            84
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Shankaracharya's preface: one yoga of steadfast knowledge",
+      "cue_range": [
+        85,
+        205
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 2.11",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            134,
+            135
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Chapter 4 is named for three words: knowledge, action and renunciation. As a prelude the teacher reads Shankaracharya's three-sentence preface: the yoga taught in chapters 2 and 3 is marked by steadfastness in knowledge, with karma yoga and renunciation as its means, and in it the whole meaning of the Vedas is completed.",
+          "cue_range": [
+            85,
+            103
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Renunciation here is not the ochre robe but giving up the fruits of action and, deeper, the notion that I am the doer. The Gita covers both the path of activity (pravritti) and of withdrawal (nivritti), yet only this one yoga is intended, which Krishna praises by recounting its lineage.",
+          "cue_range": [
+            96,
+            120
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher calls this paragraph a meta-interpretation of the Gita: the goal is not action, devotion or meditation but firm abidance in the knowledge that I am Brahman, free of doership and enjoyership. Chapter 2 already teaches the unborn Self from verse 11; karma yoga is a means to purify the mind.",
+          "cue_range": [
+            120,
+            153
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "You don't have to do anything specifically for revealing the knowledge of that hum Brahmasmi that is already you are.",
+          "cue_range": [
+            156,
+            158
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The Vedas aim at knowledge of Brahman; the great sayings condense the Upanishads. Rituals and social duties purify, done as nishkama karma, while withdrawal means dropping doership and gaining knowledge. The Gita has one central teaching: self-knowledge liberates, and karma, devotion and concentration all serve it.",
+          "cue_range": [
+            163,
+            205
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Praise through lineage and the Gita as bridge",
+      "cue_range": [
+        206,
+        261
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Krishna opens chapter 4 by saying he taught this yoga to Vivasvan. Following Shankara, the teacher calls this a rhetorical device, praise through lineage, showing the teaching is ancient, sacred and authoritative, much like the lineage invocation he recites at the start of class.",
+          "cue_range": [
+            206,
+            219
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Earlier commentaries confused readers; Shankara's reading clarified that the Gita is not merely a manual of duty. Duty is preparatory psychological work that removes ego and desire; liberation comes only from self-knowledge. The Gita thus bridges Vedic ritual and Upanishadic knowledge.",
+          "cue_range": [
+            219,
+            247
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Liberation is knowledge, it is not an achievement.",
+          "cue_range": [
+            248,
+            248
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "We are knowledge by nature; liberation is recognising that we were never bound and then abiding there. In sum, the Gita teaches a single yoga of self-knowledge, with karma yoga, renunciation, devotion and meditation as preparation, completing the Vedic revelation.",
+          "cue_range": [
+            249,
+            261
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Verse 1: imperishable yoga declared to Vivasvan",
+      "cue_range": [
+        262,
+        346
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.1",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            262,
+            264
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Starting chapter 4, Krishna says he declared this yoga to Vivasvan, the sun god. The teacher reads the sun as the light of knowledge that is first needed when creation is projected from attributeless Brahman, so the teaching was given at the very beginning of creation.",
+          "cue_range": [
+            262,
+            276
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This yoga is karma yoga but not mere ritual; matured, it yields knowledge, and it is identical with what Krishna now teaches Arjuna. The word avyayam, imperishable, applies both to Krishna as Brahman and to the yoga, unlike karma, whose results begin in time and decay.",
+          "cue_range": [
+            277,
+            321
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The verse uses three different verbs for declaring, saying and telling as the yoga passes from Krishna to Vivasvan to Manu; the teacher says Shankara treats this variation as significant, not ornamental. The ASR rendering of the verb names is unclear.",
+          "cue_range": [
+            321,
+            337
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The sun illumines everything without being touched by what it illumines, a natural symbol of witness consciousness.",
+          "cue_range": [
+            341,
+            342
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "So the sun symbolises sakshi chaitanya, and passing the teaching on does not diminish it, just as reflected sunlight still lights a room.",
+          "cue_range": [
+            343,
+            346
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Manu, Ikshvaku and Krishna as the witness Self",
+      "cue_range": [
+        347,
+        415
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Manu, progenitor of humanity, taught Ikshvaku, first king of the solar dynasty. The teaching thus enters human history through a royal line suited to kshatriya dharma, a line that ends with Arjuna himself. Krishna, speaking as aham, presents himself as the source of the transmission, not one link in it.",
+          "cue_range": [
+            347,
+            363
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Arjuna's later question about how a mortal Krishna could have taught the sun is already implicit. Shankara reads the verse as Krishna quietly revealing his nature as Parameshvara: this aham is the inner Self, pure consciousness, eternal and unattached, not the body-mind ego.",
+          "cue_range": [
+            364,
+            380
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Citing the Brihadaranyaka's unseen seer, the teacher says Krishna as witness is never truly born and never teaches in the empirical sense; at the transactional level the transmission seems to happen. The yoga is imperishable only when grounded in knowledge of the imperishable Atman.",
+          "cue_range": [
+            381,
+            397
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Recapping verse 1: a lineage runs from Brahman through Vivasvan, Manu and Ikshvaku; Krishna's aham is the paramarthika witness while the teaching happens in vyavaharika terms; and Shankara here rejects the combination of action with knowledge, treating karma only as a discipline that purifies the inner instrument.",
+          "cue_range": [
+            398,
+            415
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "Two short Sanskrit phrases in this stretch are too garbled in the ASR to identify: one cited as evidence that action bears perishable fruit, and a description of the verse as a compressed statement for the chapter.",
+          "cue_range": [
+            393,
+            400
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Bhashya on verse 1: kings protecting Veda and world",
+      "cue_range": [
+        416,
+        520
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.1",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            515,
+            516
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Reading Shankara's commentary, the teacher says the yoga was given at creation to strengthen the kshatriyas who guard the world. In the Upanishads kings often hold Brahma-vidya and clear the doubts of brahmins. Endowed with this yoga's strength, kings can protect Brahman, and protected priesthood and royalty suffice to protect the world.",
+          "cue_range": [
+            416,
+            443
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The yoga is imperishable because its fruit, liberation through steadfastness in right knowledge, never perishes. Passed from Vivasvan to Manu to Ikshvaku, it is Upanishadic wisdom adapted for just rule, not ritual or political doctrine; a king with yoga rules detached and self-controlled rather than by anger, greed or fear.",
+          "cue_range": [
+            443,
+            473
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Protecting Brahman sounds odd, since the Absolute needs no protection; Shankara means the Veda and its tradition of teaching, learning and safeguarding seekers. Knowledge and power are two pillars; if either collapses, civilisation does too.",
+          "cue_range": [
+            473,
+            493
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Therefore, the inner dil, inner enlightenment produces outer order.",
+          "cue_range": [
+            503,
+            504
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Against the charge that Advaita negates the world, dharma needs both wisdom and power. The goal is not intellectual grasp but steady abidance as the witness. The teacher sums up the first verse: the eternal yoga was given to the solar kings so they could protect dharma, imperishable because liberation never ends.",
+          "cue_range": [
+            500,
+            520
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Verse 2: the yoga lost over long time",
+      "cue_range": [
+        521,
+        570
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.2",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            521,
+            522
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 2 states that the yoga, passed down in succession, was known to the royal sages, yet over a vast stretch of time it disappeared from this world; Krishna calls Arjuna Parantapa, scorcher of foes.",
+          "cue_range": [
+            521,
+            540
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Even though the knowledge is Avaya, the practice and the transmission is what is getting lost.",
+          "cue_range": [
+            533,
+            534
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The royal sages, such as Janaka, knew the yoga as direct experience, established in the inner Self: knowledge as the Self rather than about it. Like the wise urged in chapter 3 to act as examples, they acted without any sense of being the doer.",
+          "cue_range": [
+            545,
+            564
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The long time named in the verse stands for the weight of samsara's ceaseless flow; as ignorance veils the Atman in one person, time veils Brahma-vidya in the collective transmission.",
+          "cue_range": [
+            565,
+            570
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The verse from the previous chapter about others following the example of the best is quoted in garbled ASR form without a verse number.",
+          "cue_range": [
+            560,
+            561
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "How an imperishable yoga can be lost",
+      "cue_range": [
+        571,
+        644
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The word here points to the vyavaharika plane of name and form; at the paramarthika level the yoga is never lost, being the self-luminous inner Self. Lost means disappeared from view, not destroyed: what is broken is the chain of transmission, not the yoga.",
+          "cue_range": [
+            571,
+            583
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Calling Arjuna Parantapa hints that his kshatriya duty is not just to win but to receive, embody and pass on this yoga, becoming a royal sage; the true scorcher burns the enemies named earlier, ignorance, desire and action.",
+          "cue_range": [
+            584,
+            593
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Similarly, Kaala does not destroy yoga, it wails its transmission.",
+          "cue_range": [
+            607,
+            608
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Like ignorance, which only veils, time acts as Maya's power; the eternal seeming overcome by the transient is itself Maya, and Krishna speaks within the transactional frame out of compassion. The royal sages model the jivanmukta who rules and fights without superimposed doership, where Krishna is steering Arjuna.",
+          "cue_range": [
+            604,
+            630
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "In verse 2 Krishna creates the occasion for his own teaching: Arjuna receives it from the original source, bypassing the broken line. For Shankara, Krishna does not just restore the tradition but is its eternal source; each avatara is the ever-present Atman becoming visible in history.",
+          "cue_range": [
+            631,
+            644
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "A line from the tenth chapter on Krishna as the beginning of the gods is cited by chapter only; no verse number is given.",
+          "cue_range": [
+            640,
+            642
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Bhashya on verse 2: weak holders break the lineage",
+      "cue_range": [
+        645,
+        705
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara's gloss: handed down among kshatriyas, the yoga was known to the royal sages but lost when the line broke. Parantapa is one who scorches with sunlike valour those who oppose oneself; the teacher adds that the opponent is the sense of otherness.",
+          "cue_range": [
+            645,
+            664
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Falling into the hands of weak people who had not mastered their senses, the yoga was lost and the world lost its link with the human goals. The teacher draws three ideas: royal sages who lived self-knowledge, such as Janaka and Yudhishthira; dependence on unbroken teacher-disciple transmission; and decay through undisciplined holders.",
+          "cue_range": [
+            665,
+            692
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The spiritual knowledge survives only through sampradaya.",
+          "cue_range": [
+            676,
+            676
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "When this wisdom decays, society loses its orientation toward dharma, artha, kama and moksha, and human life loses direction. The third verse is deferred to the next class.",
+          "cue_range": [
+            693,
+            705
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: light, living transmission and knowledge as fire",
+      "cue_range": [
+        706,
+        836
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Venkat notes that light, like fibre optics, carries information without loss, while his own fever reading was distorted as news spread; he asks whether the eternal light is pure and only the receiving mind corrupts it, with Manu as the pure mind.",
+          "cue_range": [
+            706,
+            733
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher answers that oral transmission keeps the intended meaning; translations and print lose the teacher's experiential intent. Hearing directly, with tone and closeness, lifts the student into the teacher's experience, a bond he likens to lovers communicating silently, though far deeper.",
+          "cue_range": [
+            734,
+            754
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Knowledge is called fire because it both illumines the student and burns away desire, anger and the false individual identity, as a later line about the fire of knowledge burning all actions will say. Realisation must arise within the student as his own light.",
+          "cue_range": [
+            754,
+            777
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Discussion touches the Taittiriya and Brihadaranyaka accounts of the elements, an Isha Upanishad verse about the golden lid, the guru as the light of knowledge, and knowledge arising when the mind stops depending on words and forms.",
+          "cue_range": [
+            778,
+            814
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Venkat calls the verses highly coded; the teacher agrees, saying commentators like Shankaracharya are needed to decode the shlokas, since earlier commentators were inconsistent.",
+          "cue_range": [
+            822,
+            836
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The questioner's mention of a Prakash-Vimarsha idea, possibly linked to a named person, and the follow-up about Chidabhasa and reflection are not clear in the transcript.",
+          "cue_range": [
+            795,
+            821
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Closing announcements",
+      "cue_range": [
+        837,
+        853
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host announces the next class at 8:30 PM IST and explains where replays of this chapter-opening session can be found, on Clubhouse and the Advaita Retold YouTube channel.",
+          "cue_range": [
+            837,
+            847
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks Venkat and the listeners and says the third verse of chapter 4 will be taken up next time.",
+          "cue_range": [
+            847,
+            853
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-kama",
+      "label": "Kama",
+      "gloss": "Desire, one of the two inner enemies on the spiritual path",
+      "cue_range": [
+        37,
+        39
+      ]
+    },
+    {
+      "id": "c-krodha",
+      "label": "Kroda",
+      "gloss": "Anger, described as desire that has been obstructed",
+      "cue_range": [
+        37,
+        41
+      ]
+    },
+    {
+      "id": "c-karma-yoga",
+      "label": "Karma Yoga",
+      "gloss": "Action without attachment, offered to the Lord, as preparation for knowledge",
+      "cue_range": [
+        68,
+        70
+      ]
+    },
+    {
+      "id": "c-chitta-shuddhi",
+      "label": "Chitashuddhi",
+      "gloss": "Purification of the mind that reduces latent tendencies",
+      "cue_range": [
+        71,
+        74
+      ]
+    },
+    {
+      "id": "c-jnana-nishtha",
+      "label": "Nyana nishta",
+      "gloss": "Steadfast abidance in knowledge of the Self, the Gita's goal per Shankara",
+      "cue_range": [
+        122,
+        130
+      ]
+    },
+    {
+      "id": "c-sannyasa",
+      "label": "sanyasa",
+      "gloss": "Renunciation, chiefly of the sense of doership",
+      "cue_range": [
+        144,
+        155
+      ]
+    },
+    {
+      "id": "c-pravritti",
+      "label": "Prabritimarga",
+      "gloss": "The Vedic path of action, rituals and social duties",
+      "cue_range": [
+        177,
+        182
+      ]
+    },
+    {
+      "id": "c-vamsha-stuti",
+      "label": "Vamsasudi",
+      "gloss": "Praising a teaching by recounting its lineage",
+      "cue_range": [
+        213,
+        214
+      ]
+    },
+    {
+      "id": "c-avyaya",
+      "label": "Avayam",
+      "gloss": "Imperishable, applied to Krishna as Brahman and to the yoga",
+      "cue_range": [
+        292,
+        303
+      ]
+    },
+    {
+      "id": "c-sakshi",
+      "label": "Sakshi Chaitanya",
+      "gloss": "Witness consciousness, symbolised by the sun",
+      "cue_range": [
+        341,
+        343
+      ]
+    },
+    {
+      "id": "c-pratyagatma",
+      "label": "Pratyakatma",
+      "gloss": "The inner Self, the true referent of Krishna's I",
+      "cue_range": [
+        375,
+        380
+      ]
+    },
+    {
+      "id": "c-vyavaharika",
+      "label": "Vyavahariga",
+      "gloss": "The transactional plane where transmission appears to happen",
+      "cue_range": [
+        407,
+        410
+      ]
+    },
+    {
+      "id": "c-parampara",
+      "label": "Parampara",
+      "gloss": "Succession or lineage through which the yoga is handed down",
+      "cue_range": [
+        523,
+        527
+      ]
+    },
+    {
+      "id": "c-rajarshi",
+      "label": "Rajarshi",
+      "gloss": "Royal sages who lived the knowledge while ruling",
+      "cue_range": [
+        545,
+        551
+      ]
+    },
+    {
+      "id": "c-purushartha",
+      "label": "Purusharthas",
+      "gloss": "The human goals, dharma, artha, kama and moksha",
+      "cue_range": [
+        669,
+        670
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Recap of chapter 3, desire and anger as inner enemies] --> B[Shankara preface, one yoga of steadfast knowledge with action as means]\n  B --> C[Lineage story as praise showing an ancient authoritative teaching]\n  C --> D[Verse 1, imperishable yoga declared to Vivasvan, Manu and Ikshvaku]\n  D --> E[Krishna speaks as the witness Self, not the body ego]\n  D --> F[Yoga strengthens kings who protect the Veda and the world]\n  F --> G[Verse 2, royal sages knew it but it was lost over time]\n  G --> H[Only the transmission is veiled, the Self is never lost]\n  H --> I[Weak undisciplined holders break the lineage and human goals fade]\n  I --> J[Q and A, living transmission and knowledge as fire]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        17,
+        18
+      ],
+      "note": "Opening invocation is garbled in the ASR; not reproduced."
+    },
+    {
+      "cue_range": [
+        331,
+        336
+      ],
+      "note": "Names of the three verbs for declaring are garbled; only their general point is summarised."
+    },
+    {
+      "cue_range": [
+        393,
+        400
+      ],
+      "note": "Garbled Sanskrit phrase and an unclear description of the verse as a compressed statement; not interpreted."
+    },
+    {
+      "cue_range": [
+        421,
+        422
+      ],
+      "note": "Sanskrit recitation from the commentary is garbled; only the teacher's English rendering is summarised."
+    },
+    {
+      "cue_range": [
+        436,
+        440
+      ],
+      "note": "Sanskrit recitation from the commentary is garbled; only the English explanation is used."
+    },
+    {
+      "cue_range": [
+        447,
+        449
+      ],
+      "note": "Sanskrit recitation from the commentary is garbled; the English rendering that follows is summarised."
+    },
+    {
+      "cue_range": [
+        652,
+        655
+      ],
+      "note": "Sanskrit gloss on Parantapa is garbled; the teacher's English paraphrase is summarised."
+    },
+    {
+      "cue_range": [
+        665,
+        666
+      ],
+      "note": "Sanskrit gloss on the weak holders is garbled; the English rendering that follows is summarised."
+    },
+    {
+      "cue_range": [
+        796,
+        797
+      ],
+      "note": "Questioner's remark mentioning Prakash Vimarsha and a name is unclear."
+    },
+    {
+      "cue_range": [
+        817,
+        826
+      ],
+      "note": "Short back-and-forth acknowledgements with little recoverable content."
+    }
+  ]
+}

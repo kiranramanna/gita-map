@@ -1,0 +1,440 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "b6105be5-a516-4af8-b4c4-176bb1b53990",
+  "title": "Ch04-13-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "71c9514876f7da5c7e39d9f4f0a533d817d5d15d90d9d27ab32a97995ba18105",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 16",
+    "verified": false
+  },
+  "summary": {
+    "text": "After recapping verse 15, Bindoji opens verse 16 as the start of the Karma Vichara section (verses 16-23). Krishna names the problem: what is karma, what is akarma, a question that bewilders even the kavis, the seers. The confusion is traced to an entanglement of the vyavaharika appearance of action with its paramarthika reality, which only knowledge of non-doership (akartrutva) can untangle. Krishna's pravakshyami is a solemn promise of authoritative teaching, and mokshyase ashubhat guarantees release from ashubha, read at three levels up to avidya itself. The verse is presented as the hinge between the Avatara section and the Karma section. In discussion, Bindoji answers questions on two-level language with the mirage example and on jivo brahmaiva naparah.",
+    "cue_ranges": [[22, 92], [125, 169], [244, 256], [324, 345], [392, 433], [502, 551], [600, 643], [670, 726], [772, 858]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host introduction and opening invocation",
+      "cue_range": [1, 21],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita Vedanta room, says the Gita sessions are taught from an Advaitic angle by Bindoji, and points to replays on Clubhouse, the Advaita Retold YouTube channel, podcast platforms, and a book titled The Imaginary Door. Questions are held until after the roughly hour-long class.",
+          "cue_range": [1, 16]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Bindoji greets the room and recites his customary invocation to the lineage of Brahma-vidya teachers and to Shankara.",
+          "cue_range": [17, 21]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "From verse 15 to the question of karma",
+      "cue_range": [22, 92],
+      "shloka_refs": [
+        {"ref": "BG 4.15", "basis": "stated-in-transcript", "cue_range": [22, 23]},
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [51, 52]},
+        {"ref": "BG 4.16-23", "basis": "stated-in-transcript", "cue_range": [61, 63]},
+        {"ref": "BG 4.9", "basis": "stated-in-transcript", "cue_range": [84, 85]},
+        {"ref": "BG 4.14", "basis": "stated-in-transcript", "cue_range": [86, 87]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Recap of verse 15: past seekers of liberation kept acting once they understood the self, so Arjuna too must act. For one not yet realised, action purifies the mind; for the realised, it serves the world, as with Janaka. The command to act raises a deeper question: if knowing non-doership changes the nature of action, then karma is not a self-evident category.",
+          "cue_range": [22, 50]
+        },
+        {
+          "kind": "quote",
+          "text": "Tattekarma Prabhakshyami, I shall declare to you that karma knowing which it will liberate you from ashuba.",
+          "cue_range": [57, 59]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verse 16 is said to name the difficulty openly, admitting that even the kavis are bewildered, and then to make a promise. For Shankara it formally opens the Karma Vichara section, verses 16 to 23, an inquiry into karma, akarma and vikarma. The verse is both diagnostic, naming the moha, and promissory, committing to a teaching whose fruit is freedom from ashubha.",
+          "cue_range": [51, 76]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Because the promised fruit is liberation, this is not an academic classification of actions. Bindoji ties it to the liberating knowledge already promised in the ninth verse (no rebirth for the one who knows) and the fourteenth verse (the knower is not bound), now applied to the nature of action. He then recites the verse.",
+          "cue_range": [77, 92]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Word by word reading of verse 16",
+      "cue_range": [93, 124],
+      "shloka_refs": [
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [93, 93]},
+        {"ref": "BG 4.17-23", "basis": "stated-in-transcript", "cue_range": [107, 109]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Kim is an interrogative: what is karma, what is akarma. Kavi popularly means poet, but in the Upanishads it denotes the seers who saw the mantras. Api atra mohitah: even these wise ones are bewildered in this particular matter of action and non-action.",
+          "cue_range": [93, 106]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Tat points ahead to what will be set out in verses 17 to 23; pravakshyami means Krishna will expound the nature of action, inaction and contrary action. Knowing it, Arjuna will be freed from ashubha, explained as the inauspicious, evil, or samsara.",
+          "cue_range": [107, 115]
+        },
+        {
+          "kind": "quote",
+          "text": "Even the wise people are confused about when it comes to the nature of karma.",
+          "cue_range": [117, 118]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "If even the wise are confused, ordinary people are more so, which is why Krishna gives his disciple a promise of explanation and release.",
+          "cue_range": [119, 124]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Akarma at two levels and the verse 18 inversion",
+      "cue_range": [125, 169],
+      "shloka_refs": [
+        {"ref": "BG 4.17-18", "basis": "stated-in-transcript", "cue_range": [130, 131]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [151, 152]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Akarma looks like a mere negation, but in Advaita it has a technical sense that verses 17 and 18 will unfold. At the vyavaharika level it means abstaining from action; at the paramarthika level it is recognising akartrutva, that the inner self remains a non-doer while the body acts. It is the actionless ground beneath all apparent activity.",
+          "cue_range": [125, 143]
+        },
+        {
+          "kind": "quote",
+          "text": "It is not an inaction, but is the identification with the non doership while in action.",
+          "cue_range": [136, 137]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The moha arises from this two-level structure: ordinary usage treats doing as karma and not doing as akarma, while from the absolute standpoint this is turned around. Verse 18, seeing akarma in karma, will state this, and Bindoji compares it to an earlier teaching that what is night for all beings is day for the wise.",
+          "cue_range": [144, 158]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The earlier teaching recalled here (yanisha sarvabhudhani, night for all, day for the wise) is not identified by chapter or verse in the transcript, so no verse reference is recorded for it.",
+          "cue_range": [153, 158]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The content of the moha is the question itself, what is karma and what is akarma. Shankara's resolution of it spans verses 16 to 23.",
+          "cue_range": [159, 169]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Three levels of confusion; kavi and mohita",
+      "cue_range": [170, 256],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [199, 201]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara is said to identify three levels of confusion. First, the ritualists (Mimamsakas) take karma as scripturally enjoined ritual, nitya (daily), naimittika (occasioned by a cause) and kamya (desire-prompted), and akarma as refraining from prohibited acts. Technically correct, but it misses the Advaitic sense that all action is included.",
+          "cue_range": [170, 187]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Second, the popular view: karma is any willed physical activity and akarma is bodily stillness or withdrawal. Verse 18 overturns exactly this. Third, even the kavis with access to scripture may stay at the transactional level, while the true nature of karma needs the paramarthika standpoint.",
+          "cue_range": [188, 211]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Kavi is richly layered: poet, Vedic seer who saw mantras, and krantadarshi, one who sees past appearances. In Advaitic usage the kavi has studied shastra, has sharp intellect and wisdom, and stands above a pandita.",
+          "cue_range": [212, 227]
+        },
+        {
+          "kind": "quote",
+          "text": "He is not mere scholar. He is very close to that Nyani himself.",
+          "cue_range": [228, 229]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Mohita is causative: not simply deluded but made deluded by something. The cause lies in the question itself, since the transactional appearance of action and its absolute reality stay entangled until the truth of non-doership is known. Naming this difficulty shows why an authoritative teacher, here Krishna as Paramatma, is needed.",
+          "cue_range": [230, 256]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Why even the wise are confused",
+      "cue_range": [257, 323],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Atra localises the confusion: the kavis may know Atman, Brahman, grammar and scripture, yet stumble specifically over karma and akarma because the transactional and the real are entangled. Shankara reads this as creating a desire to know before the inquiry.",
+          "cue_range": [257, 277]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "First layer: the question looks grammatically simple, yet hides great depth. Anyone can tell movement from stillness, but in the inquiry into one's own nature it becomes: which action truly binds, and what is the Atman's essential actionlessness? Bindoji links this to Krishna calling himself the non-doer though the doer.",
+          "cue_range": [278, 298]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Sanskrit recalled at cues 293-294 (prastyakhartharam abhimam vidhi akartaram abhayam) is mis-transcribed and its verse is not named here; the transcript does not let us confirm which verse is meant.",
+          "cue_range": [293, 294]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Second layer: karma carries many senses at once, ritual injunction, ritual cause producing fruit through apurva, any movement of body and mind, and binding action that leaves vasanas through the doer-ego. Experts in one sense may not see the others; the touchstone that sorts them out is knowledge of non-doership.",
+          "cue_range": [298, 323]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Pravakshyami: Krishna's solemn promise",
+      "cue_range": [324, 391],
+      "shloka_refs": [
+        {"ref": "BG 4.17-23", "basis": "stated-in-transcript", "cue_range": [336, 337]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [389, 390]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The prefix pra marks a full and authoritative declaration, and the future tense builds anticipation. Bindoji calls it a pratijna, the most solemn form of teaching commitment, one the guru is bound to keep because Arjuna has already surrendered as a disciple. Verses 17 to 23 are its fulfilment.",
+          "cue_range": [324, 345]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Tat points forward to teaching not yet disclosed, a pattern he compares to Upanishadic openings such as tat tvam asi in the Chandogya. This marks a new section: after the Avatara teaching comes the Karma section. The suspense creates heightened receptivity, which Shankara regards as ideal for shravana.",
+          "cue_range": [345, 372]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The future tense also admits that the teaching cannot be compressed into one statement; it needs several verses. The karma to be explained is a concept, the action of a jivanmukta, tied to the knowing mentioned in verse 15 and to seeing akarma in karma in verse 18.",
+          "cue_range": [373, 391]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Mokshyase and the three meanings of ashubha",
+      "cue_range": [392, 476],
+      "shloka_refs": [
+        {"ref": "BG 4.9", "basis": "stated-in-transcript", "cue_range": [441, 446]},
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [450, 451]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Mokshyase is a passive future. Grammatically, liberation is not something Arjuna produces; it happens to him, or is revealed as his natural state when knowledge dawns. Moksha is not an effect of effort but something already present that ignorance hides. The future tense makes it a certainty, a guarantee from Krishna.",
+          "cue_range": [392, 410]
+        },
+        {
+          "kind": "quote",
+          "text": "Liberation is not something Arjuna does.",
+          "cue_range": [395, 395]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara is said to read ashubha at three levels: vyavaharika, sin or demerit from ignorant action; adhyatmika, the whole bondage of karma, samskara and rebirth; paramarthika, root avidya itself. This climb mirrors the Gita's own progression from avoiding bad karma, to escaping karmic bondage, to freedom from avidya.",
+          "cue_range": [411, 433]
+        },
+        {
+          "kind": "unresolved",
+          "text": "At cue 421 the transcript cites the 14th chapter fourteenth verse for the idea that actions do not bind; elsewhere the lecture refers to the 14th verse of this chapter. The chapter number may be an ASR or speaking slip, so no reference is recorded for it.",
+          "cue_range": [419, 423]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The yat-tat construction makes the line a phalashruti for the Karma section, deliberately parallel to the ninth verse, where knowing his divine birth and action in truth ends rebirth. Together the two form a double guarantee: knowledge of the Avatara and knowledge of karma both dissolve the superimposition of doership that drives samsara.",
+          "cue_range": [433, 463]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "For Shankara ashubha here is samsara, conditioned existence rooted in avidya. The word is chosen over suffering or bondage because it conveys impurity; Brahman is the auspicious, so release from ashubha reveals the auspicious Atman as one's own nature.",
+          "cue_range": [463, 476]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Two lines, anubandha, and the inversion of action",
+      "cue_range": [477, 551],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [543, 544]},
+        {"ref": "BG 4.13-14", "basis": "stated-in-transcript", "cue_range": [547, 550]},
+        {"ref": "BG 4.17-23", "basis": "stated-in-transcript", "cue_range": [549, 550]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The first line establishes the difficulty and the need for a teacher who actually knows; the second gives the promise and the stakes, establishing the teacher's authority. Together they supply the anubandha chatushtaya: subject (karma and akarma), purpose (moksha from ashubha), qualified student (a seeker like Arjuna), and the connection between teaching and fruit.",
+          "cue_range": [477, 501]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The two levels intersect at every moment, and the transactional never exists without the absolute as its basis. Hence an inversion: physical stillness held with the sense of being the doer is really binding karma, like the hypocrite of earlier verses who sits still while the mind runs; activity without that ego-sense is true, bondage-free akarma.",
+          "cue_range": [502, 534]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This inversion, which verse 18 will state outright, is what confounds the kavis, and transactional analysis alone cannot resolve it. It needs the standpoint of non-doership established in verses 13 and 14, where Krishna called himself the immutable non-doer.",
+          "cue_range": [535, 548]
+        },
+        {
+          "kind": "quote",
+          "text": "So please revise the 13th and 14th verse correctly before going forward from the next verses 17 to 23rd.",
+          "cue_range": [549, 550]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "The verse as hinge between sections of chapter 4",
+      "cue_range": [552, 643],
+      "shloka_refs": [
+        {"ref": "BG 4.1", "basis": "stated-in-transcript", "cue_range": [583, 584]},
+        {"ref": "BG 4.6", "basis": "stated-in-transcript", "cue_range": [585, 585]},
+        {"ref": "BG 4.13", "basis": "stated-in-transcript", "cue_range": [586, 586]},
+        {"ref": "BG 4.17-23", "basis": "stated-in-transcript", "cue_range": [593, 593]},
+        {"ref": "BG 4.24-33", "basis": "stated-in-transcript", "cue_range": [612, 613]},
+        {"ref": "BG 4.33-42", "basis": "stated-in-transcript", "cue_range": [614, 614]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara is said to read verse 16 as generating jijnasa in the student: it shows the subject is hard, promises resolution from the world-teacher himself who taught this to Vivasvan and Ikshvaku, and states the fruit. Together these yield humility, receptivity and motivation, setting up verses 17 to 23.",
+          "cue_range": [552, 577]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The one who says I shall declare is the teacher of the first verse, the unborn imperishable of the sixth, the non-doer of the thirteenth. What he promises is not an opinion on karma but the self-disclosure of the Atman as the non-doer and witness of all action; that knowledge is as deep as liberating tattva-jnana.",
+          "cue_range": [578, 607]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The verse closes the Avatara section and opens the Karma Vichara section, while anticipating the Yajna section (verses 24-33) and the Jnana Yoga section (33-42), with moksha from ashubha as the common purpose. Chapter 4 thus gathers all these sections together.",
+          "cue_range": [607, 624]
+        },
+        {
+          "kind": "quote",
+          "text": "the 4th chapter by itself is a summation of all prakaranas put together",
+          "cue_range": [617, 618]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara's commentary on the verse is left for Monday. The verse is the hinge between Krishna's account of himself as the non-doer and avatara and his coming teaching on how to act in the world with knowledge, as he himself remains engaged in action with nothing to gain.",
+          "cue_range": [624, 643]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Sanskrit recalled at cues 637-639 about Krishna remaining in action is badly garbled in the transcript and its source verse is not named, so it is not identified here.",
+          "cue_range": [637, 639]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: is two-level language dualistic?",
+      "cue_range": [644, 743],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host thanks Bindoji and opens questions, calling this the core of the teaching toward moksha. Bindoji adds that chapter 4 is often passed over in favour of chapter 2, yet it is the practical way out of ignorance.",
+          "cue_range": [644, 657]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Patrick asks whether speaking of paramarthika and vyavaharika levels is awkward, since it suggests a duality when there is only the one reality.",
+          "cue_range": [658, 680]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Bindoji says the chapter will settle it, then uses the mirage: one who knows there is no water must still speak of the water another person sees. There are not two things, only an appearance explained from the viewer's side. Likewise colours, tastes and forms are saguna appearances in awareness, with no independent existence apart from consciousness, as deep sleep shows.",
+          "cue_range": [680, 721]
+        },
+        {
+          "kind": "quote",
+          "text": "There is only paramarthika there, but it has to be explained from the appearance point of view",
+          "cue_range": [699, 700]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Patrick accepts this and asks whether the Mandukya then means there is only Turiya; Bindoji agrees. Srini and Patrick note that words can become stumbling blocks.",
+          "cue_range": [722, 743]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: jivo brahmaiva naparah, and closing",
+      "cue_range": [744, 906],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Srini praises the treatment of chapter 4. Patrick asks how Shankara's statement that the jiva is Brahman alone fits with Brahman not being a doer; Srini says jiva here should mean the pratyagatma, not the named individual.",
+          "cue_range": [744, 781]
+        },
+        {
+          "kind": "unresolved",
+          "text": "Srini recalls a Krishna Upanishad that Bindoji taught earlier; the transcript does not make clear which Upanishad is meant.",
+          "cue_range": [744, 748]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Bindoji points to the seventh mantra of the Mandukya: the witness beyond waking, dream and sleep is the reality even in the jiva. Like space in a jar and cosmic space, or a drop and the ocean, the consciousness in each person is not separate from that from which the world arose; claiming a private consciousness is the ego.",
+          "cue_range": [782, 826]
+        },
+        {
+          "kind": "quote",
+          "text": "No, you are not an individual. You are an individual appearing in the total consciousness.",
+          "cue_range": [839, 840]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "His advice: internalise the teaching, since the Gita and Upanishads speak to each listener's own nature; holding on to individuality limits oneself, and arguing over differences misses the purpose of study. The host announces Sunday's open discussion and Monday's resumption, and participants exchange thanks.",
+          "cue_range": [827, 906]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-karma", "label": "karma", "gloss": "Action; the verse asks what it truly is.", "cue_range": [93, 95]},
+    {"id": "c-akarma", "label": "Akarma", "gloss": "Non-action; transactionally abstention, absolutely the self's non-doership amid activity.", "cue_range": [126, 143]},
+    {"id": "c-vikarma", "label": "vikarma", "gloss": "Contrary or prohibited action, the third category to be explained.", "cue_range": [241, 241]},
+    {"id": "c-kavi", "label": "kavi", "gloss": "Poet, Vedic seer, one who sees beyond appearances; here the learned wise.", "cue_range": [98, 101]},
+    {"id": "c-moha", "label": "Moha", "gloss": "Bewilderment about karma and akarma, caused by the two-level structure.", "cue_range": [144, 145]},
+    {"id": "c-akartritva", "label": "Akartrutva", "gloss": "Non-doership of the Atman; the touchstone that resolves the confusion.", "cue_range": [293, 296]},
+    {"id": "c-kartritva", "label": "Kartharthu Abhimana", "gloss": "The ego-sense of being the doer, which makes even stillness binding.", "cue_range": [514, 518]},
+    {"id": "c-vyavaharika", "label": "Vyavaharika", "gloss": "The transactional standpoint where action appears.", "cue_range": [146, 148]},
+    {"id": "c-paramarthika", "label": "paramarthika", "gloss": "The absolute standpoint from which the meaning of action is inverted.", "cue_range": [146, 147]},
+    {"id": "c-pratijna", "label": "praditya", "gloss": "Solemn promise by the teacher, here Krishna's pravakshyami.", "cue_range": [338, 340]},
+    {"id": "c-ashubha", "label": "ashuba", "gloss": "The inauspicious: demerit, karmic bondage, ultimately avidya and samsara.", "cue_range": [411, 427]},
+    {"id": "c-avidya", "label": "avidya", "gloss": "Root ignorance, the deepest sense of ashubha.", "cue_range": [425, 429]},
+    {"id": "c-jivanmukta", "label": "Jeevan Mukta", "gloss": "One liberated while living, whose action is the karma to be explained.", "cue_range": [387, 387]},
+    {"id": "c-adhikari", "label": "adhikari", "gloss": "The qualified student, one of the four anubandhas.", "cue_range": [496, 496]},
+    {"id": "c-pratyagatma", "label": "prathyagatma", "gloss": "The inner self; proposed as the meaning of jiva in jivo brahmaiva naparah.", "cue_range": [774, 779]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Verse 15 recap, act knowing non-doership] --> B[Verse 16 asks what is karma and akarma]\n  B --> C[Even the wise kavis are bewildered]\n  C --> D[Cause, two-level entanglement of appearance and reality]\n  D --> E[Inversion, stillness with doer-ego binds, action without it frees]\n  B --> F[Krishna promises authoritative teaching]\n  F --> G[Mokshyase, release from ashubha up to avidya]\n  E --> H[Resolved only by knowing non-doership]\n  G --> H\n  H --> I[Verse 16 hinges Avatara section to Karma Vichara 17 to 23]\n  I --> J[Q and A, mirage example and jiva as Brahman]"
+  },
+  "gaps": [
+    {"cue_range": [19, 21], "note": "Opening invocation in Sanskrit is transcribed phonetically and garbled; summarised only as an invocation."},
+    {"cue_range": [30, 32], "note": "Recitation of the previous verse is garbled in the transcript; not quoted or reconstructed."},
+    {"cue_range": [91, 92], "note": "Recitation of verse 16 is garbled in the transcript; not quoted or reconstructed."},
+    {"cue_range": [637, 639], "note": "Sanskrit about Krishna remaining in action is garbled; source verse not named in transcript."},
+    {"cue_range": [869, 906], "note": "Closing thanks and farewells among host and participants; summarised only briefly."}
+  ]
+}

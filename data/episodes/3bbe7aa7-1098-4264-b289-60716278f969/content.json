@@ -1,0 +1,964 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "3bbe7aa7-1098-4264-b289-60716278f969",
+  "title": "Ch04-06-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "693f2af721a8cf6978bb2bdb97eb2f0086ce39e76e6168326cb83e8e1c9807f1",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 9",
+    "verified": false
+  },
+  "summary": {
+    "text": "Continuing chapter 4 after recapping verse 8, the teacher presents verse 9 as the fruit statement of the avatara section: whoever knows the Lord's birth and action as divine, in truth, is not reborn and reaches him. Divyam marks the Lord's birth through atma maya and his unbinding action as categorically unlike the jiva's. Tattvatah means direct recognition, beyond worldly or scriptural knowing. Following Shankaracharya, abandoning the body means dropping body identification now, which collapses the ignorance-desire-action chain; reaching the Lord is recognising identity, not travel. This divine action models the karma yoga taught in verses 10 to 43. Questions address Brahmaloka's dissolution, why abandoned is not died, and knowing beyond yogic light.",
+    "cue_ranges": [
+      [
+        24,
+        66
+      ],
+      [
+        86,
+        128
+      ],
+      [
+        169,
+        224
+      ],
+      [
+        247,
+        263
+      ],
+      [
+        335,
+        446
+      ],
+      [
+        496,
+        529
+      ],
+      [
+        621,
+        825
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host introduction and teacher's invocation",
+      "cue_range": [
+        1,
+        23
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the satsang, notes that the Gita series is being taught from an Advaita standpoint and has reached chapter 4, points to replays on Clubhouse, YouTube, Apple Podcasts and Spotify, and explains that chat and hand-raising will reopen for questions after the talk.",
+          "cue_range": [
+            1,
+            18
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Namaste everyone. Welcome to Advaita Vedanta Satsang.",
+          "cue_range": [
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The host also mentions another text series and a book with its author; the transcript renders these as 'Abarakshanabudi' and a title 'Art An Imaginary Door' by 'Artemisia', which cannot be confirmed from the audio text.",
+          "cue_range": [
+            10,
+            14
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks the host and recites a traditional invocation to the guru lineage before starting; the Sanskrit as transcribed is not reliable.",
+          "cue_range": [
+            19,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap of verse 8 and introducing verse 9",
+      "cue_range": [
+        24,
+        66
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.8",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            24,
+            26
+          ]
+        },
+        {
+          "ref": "BG 4.9",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            34,
+            38
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Recalling the previous class on the eighth verse, the teacher restates that the Lord appears in every age to protect the good, end the influence of wrongdoers and re-establish dharma, preserving both worldly order and the possibility of liberation. With this, the nature of the avatara, Brahman appearing as Ishwara, has been laid out.",
+          "cue_range": [
+            24,
+            33
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The ninth verse is presented as the culmination of verses seven and eight. He walks through its words: birth and action, both called divine and belonging to the Lord; one who knows them in truth; on leaving the body; no rebirth; and reaching the Lord, addressed to Arjuna.",
+          "cue_range": [
+            34,
+            55
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "So both janma and karma are divine appearances of mine.",
+          "cue_range": [
+            43,
+            43
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He frames verse 9 as the closing fruit statement of the avatara section begun at verse 5: it announces liberation, kaivalya, as the result of knowing the avatara truth as it really is, and so states what the whole teaching is for.",
+          "cue_range": [
+            56,
+            66
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The term the teacher uses for the verse's role is transcribed variously as 'halasrudhi', 'Palasruti' and 'falasruti'; the reading as a fruit-statement follows his own English gloss, not a confirmed spelling.",
+          "cue_range": [
+            34,
+            66
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Object of liberating knowledge; divine versus jiva birth",
+      "cue_range": [
+        67,
+        128
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.6",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            93,
+            93
+          ]
+        },
+        {
+          "ref": "BG 4.14",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            114,
+            116
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "In two lines the verse names what liberating knowledge is about, the divine birth and action of the avatara, and how it must be known, in accordance with reality. It also bridges the avatara section and the knowledge-and-action teaching running from verse 10 to verse 43 of the chapter.",
+          "cue_range": [
+            67,
+            85
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The single adjective divyam covers both birth and action and echoes the earlier verses on unborn appearance. The jiva's birth arises from ignorance, desire and karma, samskara and bondage; Parameshwara's arises from his own atma maya, freely and independently, not as the fruit of any action.",
+          "cue_range": [
+            86,
+            107
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Jiva action yields merit and sin that bind as accumulated, future and currently operative karma. The Lord's action binds nothing; the teacher anticipates verse 14, where Krishna calls himself a non-doer and witness acting through his own power.",
+          "cue_range": [
+            107,
+            118
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "So Parameswara's karma produces no such Banda, no such bondage, namam karmani limpani.",
+          "cue_range": [
+            113,
+            114
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "To know birth and action as divine is to see past the perceived historical human form of Krishna, through self-knowledge, to birthless consciousness appearing via maya for the protective purposes named in verse 8.",
+          "cue_range": [
+            119,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Tattvatah, evam, and the universal promise",
+      "cue_range": [
+        129,
+        168
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.5-8",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            143,
+            144
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Tattvatah, a word Shankaracharya treats carefully, means knowing a thing in its very suchness. In Advaita the tattva is Brahman's own nature as sat-chit-ananda, so the knowing meant is at the paramarthika level of reality, not the vyavaharika level of appearance.",
+          "cue_range": [
+            129,
+            140
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "In Advaida tattua means Brahmasya swarupa.",
+          "cue_range": [
+            135,
+            136
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Evam, 'thus', points back precisely to verses 5 to 8: birth through atma maya, action for protecting dharma, and the speaker as unborn, imperishable Ishwara. It asks for exact Advaitic understanding, not a vague notion.",
+          "cue_range": [
+            141,
+            152
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The relative-correlative form, whoever knows, that one is not reborn and reaches me, makes the promise universal. No condition of caste, creed or person is attached; any qualified seeker gaining this knowledge gains freedom from rebirth and oneness with Brahman.",
+          "cue_range": [
+            152,
+            168
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Three levels of knowing the avatara",
+      "cue_range": [
+        169,
+        224
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.4",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            181,
+            182
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Worldly knowing sees Krishna as an extraordinary man, king, hero or teacher, from perception and hearsay; Arjuna's objection in verse 4, that Krishna could not have taught Vivasvan at creation, came from this level.",
+          "cue_range": [
+            169,
+            187
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Scriptural knowing grasps intellectually that Krishna is Parameshwara, born through atma maya and acting to restore dharma. This indirect knowledge is needed but does not by itself free one from ignorance, desire and action.",
+          "cue_range": [
+            188,
+            200
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The third, tattva-jnana, is direct, unmediated recognition that the Parameshwara appearing as avatara is one's own innermost self, consciousness recognising itself. Only this ends rebirth. Shankara is said to cite the Brihadaranyaka Upanishad here, and to hold throughout his commentaries that knowledge alone liberates.",
+          "cue_range": [
+            201,
+            224
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Kevalat Nyanath Moksha. Liberation or emancipation is possible only through knowledge.",
+          "cue_range": [
+            222,
+            223
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Upanishad citation is given as chapter 4, section 4, mantra 7, but the Sanskrit as transcribed is garbled and cannot be checked here. Cue 196-197 also calls the second level 'immediate indirect knowledge', which looks like a mis-hearing.",
+          "cue_range": [
+            196,
+            216
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Tyaktva deham: after death or now?",
+      "cue_range": [
+        225,
+        263
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Turning to the fruit clause, the teacher calls tyaktva deham a tricky phrase: read literally it suggests a sequence in which benefit arrives only after the body falls. Punarjanma is glossed as compulsive re-entry into repeated birth and death through karmic bondage, and one verb carries both the denial of rebirth and reaching the Lord.",
+          "cue_range": [
+            225,
+            246
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "One interpretation has the knower die physically and then not be reborn, liberation after death. Shankaracharya instead reads the phrase as inwardly giving up identification with the body through knowledge, which is liberation while living; physical death later only ends the prarabdha-sustained body.",
+          "cue_range": [
+            247,
+            263
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Deha means body. Videha means after having left the body. Mukti means liberation.",
+          "cue_range": [
+            255,
+            256
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Divine birth and the knowing consciousness",
+      "cue_range": [
+        264,
+        334
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "To link this with divine birth and action, the teacher says birth for us is identification with the body-mind-intellect, and action is all that follows through it. Taken that way, neither could be called divine, so Krishna must be pointing to a different reality that does not return.",
+          "cue_range": [
+            264,
+            283
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Body, mind and intellect are inert; they seem to know only when consciousness is present, and even then within sense limits. The knowing principle Krishna means is the Atma, known by itself. Recognising this lets us shift identity from the complex to the awareness that witnesses it.",
+          "cue_range": [
+            283,
+            302
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Awareness has no birth or death.",
+          "cue_range": [
+            307,
+            307
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Birth and death belong to the body; mind and intellect share them by association. The 'me' one reaches is pure consciousness, called Brahman, Atma or Parameshwara, which is eternal, pure, awareness itself and ever free. Abandoning the body therefore means ending the mutual superimposition of body and self, not physical death.",
+          "cue_range": [
+            307,
+            334
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Ending superimposition collapses the samsara chain",
+      "cue_range": [
+        335,
+        384
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "With knowledge, the root notion that I am this body, born at a certain time into a lineage and subject to ageing and death, is dissolved now rather than at some future moment, through realising oneself as the pure Self.",
+          "cue_range": [
+            335,
+            343
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Once that false identification goes, no doer stands behind the actions, which all belong to the body and senses, and no enjoyer remains to receive results. When body identification is present, the body's actions and their fruits are wrongly attributed to the Atma, which is really only witness.",
+          "cue_range": [
+            343,
+            361
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "And therefore no mechanism of punar janma.",
+          "cue_range": [
+            352,
+            352
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Rebirth rests on three pillars: ignorance producing identification, desire born of it, and action seeking fruits. Knowledge removes ignorance and the whole chain falls. Freedom from rebirth is thus a logical consequence, while reaching the Lord is the positive side of moksha; both happen together.",
+          "cue_range": [
+            362,
+            384
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Mam eti: recognition, not travel",
+      "cue_range": [
+        385,
+        446
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The link between this knowledge and moksha works like a natural law, not a reward granted at the Lord's discretion. Shankaracharya rejects reading 'reaches me' as travel to Vaikuntha: that would imply spatial separation, a future attainment against the Upanishadic teaching of ever-present freedom, and a duality of attainer and attained.",
+          "cue_range": [
+            385,
+            414
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "So 'reaches me' means 'becomes me alone': recognising non-difference between the jiva's inner self and Parameshwara. The jiva finds it already is what it seeks, though only knowledge reveals this; the phrase works like the great saying Aham Brahmasmi.",
+          "cue_range": [
+            415,
+            434
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Therefore, attaining me is not a journey but a recognition.",
+          "cue_range": [
+            423,
+            423
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Support is drawn from a Brihadaranyaka line that, being Brahman, the knower attains Brahman, and from a Mundaka passage that Brahman alone is everywhere, before, behind and on every side.",
+          "cue_range": [
+            434,
+            446
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Mundaka citation is transcribed as 'Muntagopinisht 329' and the Brihadaranyaka one as '4th chapter, 4th or the 6th mantra'; the exact locations are not clear from the transcript.",
+          "cue_range": [
+            434,
+            442
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Structure of the verse; divine action as karma yoga",
+      "cue_range": [
+        447,
+        529
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.8",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            453,
+            454
+          ]
+        },
+        {
+          "ref": "BG 4.9",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            454,
+            454
+          ]
+        },
+        {
+          "ref": "BG 4.37",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            515,
+            516
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Addressing Arjuna personalises the promise to every seeker whose protection the avatara enacts. Verse 8 named protection of the good as the purpose; verse 9 says what that protection is for the individual: freedom from samsara and recognition of identity with Parameshwara.",
+          "cue_range": [
+            447,
+            457
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Structurally, two objects, birth and action, share one predicate, divine; and two forms of the same verb give the negative and positive poles of one liberation, empirical (no rebirth) and absolute (reaching me). Divyam is the key: it places them in the order of consciousness, not inert matter or ignorance-driven compulsion.",
+          "cue_range": [
+            458,
+            486
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The Lord acts without doership and so without bondage, purely to establish dharma.",
+          "cue_range": [
+            486,
+            495
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "This Divya Karma is the model of Karma Yoga that the rest of the 4th chapter will elaborate.",
+          "cue_range": [
+            496,
+            497
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Accepting Krishna's divinity intellectually is not enough; liberating knowledge is self-referential recognition that this Parameshwara is my own self. Knowledge strikes ignorance at the root, the fire of knowledge to come in verse 37, so doership, desire, binding action and the samskaras producing future birth all fall away, by necessity rather than miracle.",
+          "cue_range": [
+            498,
+            529
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Three readings of attainment; Shankara's gloss; next verse",
+      "cue_range": [
+        530,
+        620
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.1",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            579,
+            580
+          ]
+        },
+        {
+          "ref": "BG 4.10",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            586,
+            588
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Only a human birth offers the chance to destroy ignorance. 'Reaches me' is read at three levels: saguna worshippers reaching Brahmaloka or Vaikuntha; gradual liberation via the path of the gods after cosmic dissolution, still depending on merit; and the nirguna level, recognising one was never separate. Only the third ends samsara finally.",
+          "cue_range": [
+            530,
+            563
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The source of the human-birth remark is given only as 'the viveka', and the second level is transcribed as 'Karma mukti'; which text and which term are meant is left unclear.",
+          "cue_range": [
+            530,
+            560
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verse 9 thus closes the avatara section, begun at verse 1 with the lineage reaching Vivasvan, and opens the question of how such knowledge is gained, answered in verses 10 to 43. Verse 10 will describe the inner state that enables it.",
+          "cue_range": [
+            564,
+            589
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher translates Shankara's brief commentary: the Lord's birth is an appearance through maya; his actions, such as protecting the good, are divine, beyond the ordinary order, an expression of sovereign lordship; one who knows this truly is not reborn after this body but comes to him and is freed.",
+          "cue_range": [
+            590,
+            612
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "One who truly understands this reality becomes free from the birth and attains liberation in the Lord.",
+          "cue_range": [
+            613,
+            615
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He notes a question that leads into the tenth verse, recites it, and ends the talk, saying it will be taken up tomorrow.",
+          "cue_range": [
+            615,
+            620
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: why Brahmaloka dissolves",
+      "cue_range": [
+        621,
+        651
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host reopens the room. A participant asks how Brahmaloka can dissolve. The teacher explains, citing the Puranas rather than the Vedas, that the time cycle has a beginning and an end; at its close all appearances return to their source.",
+          "cue_range": [
+            621,
+            637
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Among the fourteen worlds, Brahmaloka is the highest experiential realm reachable by action; one who reaches it remains there until time itself folds back, which he likens to the Big Bang reversing.",
+          "cue_range": [
+            637,
+            648
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "It is an explanation in the Puranas but not in the Vedas",
+          "cue_range": [
+            649,
+            649
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: tyaktva, not mrtva; the avatara principle",
+      "cue_range": [
+        652,
+        740
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A second participant suggests the verse reads naturally as reaching the Lord after leaving the body, an adhidaivika reading, and asks why an Advaitic model is imposed. The teacher answers from the word itself: Krishna said having abandoned, not having died.",
+          "cue_range": [
+            652,
+            675
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Abandoning is possible only when the what is what is being held is released or dropped.",
+          "cue_range": [
+            673,
+            674
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "If mere death were meant, knowing in truth would play no role, since anyone dies without knowing anything; so the knowledge is what lets one release identification with body, mind and intellect. The teacher regards the Advaitic reading as the only one possible here.",
+          "cue_range": [
+            675,
+            691
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Asked whether this knowledge is vijnana or prajnana, he stresses that restoring dharma is done by a power beyond empirical means, the projecting divine force, not Krishna's physical body. Krishna knew himself as Brahman, which is why he could claim to have taught Vivasvan; limiting him to Devaki's son blocks true knowing.",
+          "cue_range": [
+            691,
+            729
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "All avataras since creation are meant, and Krishna speaks as world teacher, using Arjuna as the occasion so that humanity benefits across ages.",
+          "cue_range": [
+            729,
+            740
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "heading": "Q&A: yoga's light and knowing; closing",
+      "cue_range": [
+        741,
+        839
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The participant relates yogic experience of light, after which yoga is said to stop and knowledge must begin, and asks which knowledge that is. The exchange concludes it is knowing that one is the light; the separation of seer and seen must drop for karma bondage, rebirth and samsara to end.",
+          "cue_range": [
+            741,
+            773
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher says the yoga account is valid up to its level, but beyond it the Lord's own nature is the nature of Brahman and Atma. Knowing the avatara's birth and action as divine is vijnana; applying it to see that avatara and one's inner self are non-different becomes prajnana.",
+          "cue_range": [
+            774,
+            796
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Here Brahman appears through atma maya, its projecting nature; within that projection, ignorance driven by desire and anger in senses, mind and intellect makes us mistake ourselves for the body complex. The saguna aspect is only explanatory and lies within nirguna, so the levels of knowing share one source.",
+          "cue_range": [
+            797,
+            825
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host closes the room, noting the time and that the next class, 4.07, is tomorrow at 8:30 PM IST, with replays available. The teacher thanks the participants and ends with Hari Om.",
+          "cue_range": [
+            826,
+            839
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-avatara",
+      "label": "Avatara",
+      "gloss": "The Lord's appearance in the world; Brahman manifesting as Ishwara.",
+      "cue_range": [
+        30,
+        33
+      ]
+    },
+    {
+      "id": "c-phalashruti",
+      "label": "Palasruti",
+      "gloss": "Statement of the fruit of knowing a teaching; verse 9's role for the avatara section.",
+      "cue_range": [
+        60,
+        66
+      ]
+    },
+    {
+      "id": "c-divyam",
+      "label": "Divyam",
+      "gloss": "Divine, luminous, transcendent; qualifies both the Lord's birth and action.",
+      "cue_range": [
+        41,
+        43
+      ]
+    },
+    {
+      "id": "c-atma-maya",
+      "label": "Atma Maya",
+      "gloss": "The Lord's own power through which he appears freely, unlike karma-driven birth.",
+      "cue_range": [
+        100,
+        104
+      ]
+    },
+    {
+      "id": "c-tattvatah",
+      "label": "tattvataha",
+      "gloss": "Knowing a thing in its very suchness, at the level of reality.",
+      "cue_range": [
+        129,
+        140
+      ]
+    },
+    {
+      "id": "c-paramarthika",
+      "label": "paramartika",
+      "gloss": "The level of ultimate reality, contrasted with the vyavaharika level of appearance.",
+      "cue_range": [
+        138,
+        140
+      ]
+    },
+    {
+      "id": "c-punarjanma",
+      "label": "Punarjanma",
+      "gloss": "Rebirth; compulsive return to the cycle of birth and death.",
+      "cue_range": [
+        152,
+        168
+      ]
+    },
+    {
+      "id": "c-paroksha-jnana",
+      "label": "parokshaknyana",
+      "gloss": "Indirect, scriptural-intellectual knowledge of the avatara; needed but not liberating by itself.",
+      "cue_range": [
+        188,
+        198
+      ]
+    },
+    {
+      "id": "c-pratyagatma",
+      "label": "Pratyagatma",
+      "gloss": "The innermost self of the knower, recognised as one with Parameshwara.",
+      "cue_range": [
+        201,
+        204
+      ]
+    },
+    {
+      "id": "c-videha-mukti",
+      "label": "videha mukti",
+      "gloss": "Liberation after leaving the body; the sequential reading the teacher sets aside.",
+      "cue_range": [
+        250,
+        256
+      ]
+    },
+    {
+      "id": "c-jivan-mukti",
+      "label": "jeevan mukti",
+      "gloss": "Liberation while living through dropping body identification by knowledge.",
+      "cue_range": [
+        257,
+        263
+      ]
+    },
+    {
+      "id": "c-adhyasa",
+      "label": "Adyasa",
+      "gloss": "Mutual superimposition of body and self that knowledge dissolves.",
+      "cue_range": [
+        329,
+        345
+      ]
+    },
+    {
+      "id": "c-avidya",
+      "label": "Avidya",
+      "gloss": "Ignorance, root of the desire-action chain behind rebirth.",
+      "cue_range": [
+        364,
+        374
+      ]
+    },
+    {
+      "id": "c-abheda",
+      "label": "abhedanusandhanam",
+      "gloss": "Recognising non-difference between the jiva's inner self and Parameshwara.",
+      "cue_range": [
+        415,
+        425
+      ]
+    },
+    {
+      "id": "c-karma-yoga",
+      "label": "Karma Yoga",
+      "gloss": "Action without attachment or doership, modelled on the Lord's divine action.",
+      "cue_range": [
+        496,
+        498
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\nA[Recap of verse 8, purpose of the avatara] --> B[Verse 9 as fruit statement of the avatara section]\nB --> C[Divine birth and action of the Lord versus the jiva]\nC --> D[Tattvatah, three levels of knowing the avatara]\nD --> E[Tyaktva deham as dropping body identification]\nE --> F[Ignorance, desire, action chain collapses, no rebirth]\nF --> G[Reaching the Lord as recognition of identity]\nG --> H[Divine action as model for karma yoga, verses 10 to 43]\nH --> I[Q and A on Brahmaloka, tyaktva and knowledge beyond yoga]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        20,
+        23
+      ],
+      "note": "Opening invocation; Sanskrit as transcribed is garbled and not reproduced."
+    },
+    {
+      "cue_range": [
+        591,
+        596
+      ],
+      "note": "Shankara's commentary recited in Sanskrit; transcription garbled, only the teacher's English rendering is summarised."
+    },
+    {
+      "cue_range": [
+        615,
+        619
+      ],
+      "note": "Sanskrit of the bhashya's lead-in question and of verse 10 garbled; not reproduced."
+    },
+    {
+      "cue_range": [
+        742,
+        750
+      ],
+      "note": "Participant's description of yogic light experience is partly unintelligible; summarised only in outline."
+    }
+  ]
+}

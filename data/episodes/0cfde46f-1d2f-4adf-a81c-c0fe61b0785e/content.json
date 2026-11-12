@@ -1,0 +1,489 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "0cfde46f-1d2f-4adf-a81c-c0fe61b0785e",
+  "title": "Ch04-09-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "fc82cafe3182ec6324257e6e4eb0c8106f2c49079473fddcf22745d7231a815e",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 12",
+    "verified": false
+  },
+  "summary": {
+    "text": "Continuing from the promise that Parameshwara answers every approach, the teacher takes up the twelfth verse: people craving success in action worship the devatas because results born of action arrive swiftly in the human world. He studies each word with Shankara's bhashya, explains devatas as upadhis of Parameshwara, and stresses that this worship is ranked lower but never condemned. Karmaja siddhi is quick yet conditional, finite and binding to rebirth, whereas Jnanaja siddhi needs longer sadhana but is imperishable moksha. Desire is the Jiva's distorted search for Brahman; the path rises from Sakama worship through karma yoga and upasana to Jnana, and the word Karmaja doubles as a critique of Mimamsa. Questions cover the efficiency of paths, gunas and vasanas.",
+    "cue_ranges": [[20, 94], [94, 348], [349, 504], [505, 627], [628, 867]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome, replay links and session format",
+      "cue_range": [1, 19],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host, Prakash, opens the Advaita Vedanta satsang on the Gita, noting the series has reached chapter 4. He points listeners to replays on the Advaita Retold YouTube channel, Apple Podcasts and Spotify, mentions a book titled The Imaginary Door, and explains that chat and hand-raising stay closed until the question time after the class.",
+          "cue_range": [1, 18]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The host names earlier series available on the channel; one title is unclear in the transcript (rendered as Abarakshan Hoodi), while the other is the Upanishads.",
+          "cue_range": [9, 10]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap of verses 10-11 and the twelfth verse",
+      "cue_range": [20, 47],
+      "shloka_refs": [
+        {"ref": "BG 4.11", "basis": "stated-in-transcript", "cue_range": [36, 38]},
+        {"ref": "BG 4.12", "basis": "stated-in-transcript", "cue_range": [36, 44]}
+      ],
+      "blocks": [
+        {
+          "kind": "unresolved",
+          "text": "The invocation and the first Sanskrit line are rendered unclearly in the transcript (for example Vidaraga by Akrotha), so the exact recitation cannot be confirmed.",
+          "cue_range": [20, 21]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher recalls the previous verses: someone free of attachment, fear and anger who takes refuge in Krishna reaches his nature through the austerity of knowledge; and, showing compassion, Parameshwara meets people in whatever manner they come to him and gives them what they ask.",
+          "cue_range": [21, 35]
+        },
+        {
+          "kind": "quote",
+          "text": "Kankhandam means those who are desiring or those who are desirous of what",
+          "cue_range": [38, 39]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He recites the twelfth verse and presents it as a universal law that carries forward the earlier promise of answering each approach.",
+          "cue_range": [41, 47]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Why devata worship is so common",
+      "cue_range": [48, 94],
+      "shloka_refs": [
+        {"ref": "BG 4.9-10", "basis": "stated-in-transcript", "cue_range": [68, 70]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Each approach gets a proportionate response, and every path finally leads to Parameshwara. This verse singles out one popular path, worship of devatas, driven by wanting Karmaphala rather than moksha. It therefore does two jobs: it accounts for that worship's popularity and quietly contrasts it with Tattvajnana.",
+          "cue_range": [48, 62]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The popularity comes from speed: such worship bears fruit soon in this human world. The fruit of moksha spoken of in verses 9 and 10 is far higher but demands more sadhana and inner equipment, such as the six-fold wealth beginning with shama and dama.",
+          "cue_range": [63, 75]
+        },
+        {
+          "kind": "quote",
+          "text": "Viveka and Vairagya are the 2 wings of the bird type of heading.",
+          "cue_range": [76, 77]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara does not condemn devata worship; as Nitya Guru he sees all paths as divine while still ranking them by their fruits. Desire-driven worship remains valid and can be turned towards Nishkama action and then towards Jnana, whose fruit is moksha.",
+          "cue_range": [83, 94]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Word study: kanksha, karmanam siddhim, perishable fruits",
+      "cue_range": [95, 151],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The teacher glosses the words one by one: desiring, of actions, success, they worship or sacrifice, here in this world, the deities, swiftly, the particle hi giving the reason, in the human world, success arises, born of action.",
+          "cue_range": [95, 108]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Kanksha is not a mild preference. He separates it from icha, a wish, and spriha, a longing: it is craving aimed at a definite expected result, and this result-centred desire marks Sakama karma.",
+          "cue_range": [109, 121]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Siddhi here means obtaining the fruit of ritual action, such as rain, wealth, children, health or victory: all limited, yet gratifying at once. These worshippers seek neither moksha nor Atmajnana, not even dharma, only materialised results.",
+          "cue_range": [121, 138]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Following Shankara he lists categories of seekers: those wanting children, cattle, heaven or victory, each propitiating particular deities or rites. These fruits are kshara, perishable; only the akshara fruit, moksha produced by Tattvajnana, does not perish.",
+          "cue_range": [139, 151]
+        },
+        {
+          "kind": "unresolved",
+          "text": "Several deity and rite names in this list are garbled in the transcript (for example Rudra, Pasun, Ocean and Jodhishtoma), so the exact pairings attributed to Shankara cannot be confirmed.",
+          "cue_range": [139, 146]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Yajante and iha: sakama sacrifice within samsara",
+      "cue_range": [152, 196],
+      "shloka_refs": [
+        {"ref": "BG 3.9", "basis": "stated-in-transcript", "cue_range": [178, 180]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara does not condemn this motive, since it too lies within Krishna's path, but marks it as limited in knowing: the worshipper takes a perishable fruit for the highest good, not seeing that every desire is really the Jiva seeking, in twisted form, the boundless Ananda of Brahman. Ageing and memory loss show such gains do not last.",
+          "cue_range": [152, 165]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Yajante means the sacrifice serves the doer's own desired result; knowing themselves as agents, they qualify for the fruits. This is Sakama yajna, unlike Nishkama yajna in which the Karma Yogi offers action without craving for fruit, as taught in chapter 3, verse 9.",
+          "cue_range": [166, 179]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The word iha is placed deliberately: such worship looks for results inside samsara and does not want release from it, since release would end the enjoyment of children and wealth. It does not aim at the immortal state of Madbhava that Tattvajnana gives.",
+          "cue_range": [180, 196]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Who the devatas are and how they are ranked",
+      "cue_range": [197, 281],
+      "shloka_refs": [
+        {"ref": "BG 7.23", "basis": "stated-in-transcript", "cue_range": [263, 265]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Devata comes from the root div, to shine, which the teacher explains as standing apart. A king who stood above the crowd was treated almost as divine; people sang his praise and he granted land or gifts according to what they asked.",
+          "cue_range": [197, 222]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Later, unseen forces were also named devatas: Indra with the thunderbolt for rain, Varuna for the sea and voyagers, Agni in rituals, Surya for health and progeny, Durga or Shakti for protection.",
+          "cue_range": [223, 239]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "In Advaita these deities are not ultimate; they are Saguna forms, upadhis of Parameshwara's sovereign power. The Sakama worshipper reveres the upadhi without seeing Brahman as its substratum, and receives the fruit fitting that deity, as the previous verse promised.",
+          "cue_range": [240, 262]
+        },
+        {
+          "kind": "quote",
+          "text": "It is not an error. It is a limitation of knowledge or vision.",
+          "cue_range": [249, 250]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Chapter 7, verse 23 calls the fruit of those with small understanding finite. Nobody condemns devata worship, since everything arises through Parameshwara's Maya; the ranking is epistemological, not moral, placing finite fruits below Madbhava gained through Tattvajnana.",
+          "cue_range": [263, 281]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Kshipram: the psychology of quick results",
+      "cue_range": [282, 348],
+      "shloka_refs": [
+        {"ref": "BG 7.23", "basis": "stated-in-transcript", "cue_range": [336, 338]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Kshipram, swiftly, is the explanatory heart of the verse. People drift towards paths with visible, fast results because they lack samadhanam and related inner qualities; worldly gains are seen by others, which makes them popular.",
+          "cue_range": [282, 299]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "What Tattvajnana achieves is invisible: a Jeevan Mukta looks like any ordinary person, so onlookers see nothing gained and prefer the sure, visible benefits of devata worship. This shows a limit in their thinking.",
+          "cue_range": [300, 314]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Manusha loka is the middle realm between the devas and the animals, where action and fruit meet with relative immediacy. Krishna's analysis is compassionate: people choose this not out of wickedness but from limitation combined with the pull of quick results.",
+          "cue_range": [315, 330]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Quick Karmaja siddhi is finite, antavat; Jnanaja siddhi needs longer sadhana but is eternal moksha. The choice springs from alpajnana, limited understanding, and Shankara responds with sympathy rather than condemnation.",
+          "cue_range": [331, 348]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Karmaja siddhi: conditional, finite, binding",
+      "cue_range": [349, 434],
+      "shloka_refs": [
+        {"ref": "BG 4.9", "basis": "stated-in-transcript", "cue_range": [423, 424]}
+      ],
+      "blocks": [
+        {
+          "kind": "unresolved",
+          "text": "He cites a Sanskrit line, rendered as Pariksha Logan Karmajidan Brahmana nirvaedamaya, about maturity arriving after such experience; the transcript does not name its source and the wording is garbled.",
+          "cue_range": [349, 351]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Karmaja qualifies siddhi as produced by action. Such success is contingent, needing the right rite matched to the right deity; finite, ending when the merit is spent and sending one back to the human world; and binding, keeping one in the round of karma and fruit.",
+          "cue_range": [353, 377]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "It is conditional: in Vedic rites the yajamana commissions and the priest performs, and faulty performance can withhold the result without the patron knowing. Moksha depends on nothing, not even Jnana, which only clears the covering, like smoke hiding a fire.",
+          "cue_range": [382, 401]
+        },
+        {
+          "kind": "quote",
+          "text": "Whereas Nirapeksha Moksha is unconditional.",
+          "cue_range": [395, 395]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Action-born fruit causes rebirth, tying the Jiva through punya and papa that must be spent; hence vasana destruction and chitta shuddhi matter. Even heaven is temporary. Jnanaja siddhi is infinite, imperishable and ends rebirth, as chapter 4, verse 9 said.",
+          "cue_range": [402, 424]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The contrast suits Arjuna, a Kshatriya thinking in terms of victory and protecting dharma; the Gita steadily lifts him from Sakama to Nishkama, to yajna, to Jnana, and this verse is a diagnostic step in that ascent.",
+          "cue_range": [424, 434]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Desire as distorted search; the wheel of repetition",
+      "cue_range": [435, 504],
+      "shloka_refs": [
+        {"ref": "BG 2.46", "basis": "stated-in-transcript", "cue_range": [465, 466]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Restating both lines, the teacher stresses Krishna's clear-eyed compassion: he admits how widespread this orientation is and grants its logic, while pointing beyond its fleeting fruits towards something lasting.",
+          "cue_range": [435, 452]
+        },
+        {
+          "kind": "quote",
+          "text": "This is the starting point of Samsara's journey, not condemnation.",
+          "cue_range": [453, 454]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Even kanksha is at root the Jiva seeking Brahman's Ananda, bent by Avidya into hoping finite things will satisfy. Once Brahman is known as Purna, partial desires dissolve, as chapter 2, verse 46 says: a small pond serves no purpose when everything is flooded.",
+          "cue_range": [455, 472]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Anityabuddhi, identifying with perishable upadhis, seeks results in time; the sthitaprajna accepts the longer Jnana tapas. Karma's fruit is quick but must be repeated endlessly, so its apparent efficiency is deep inefficiency, whereas knowledge is a single irreversible solution.",
+          "cue_range": [472, 504]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Levels of Krishna's path and the critique of Mimamsa",
+      "cue_range": [505, 569],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Even Sakama devata worship is Krishna's path, but at its most external, upadhi-bound level. Deities are vibhutis of Parameshwara through instruments like Surya, rain or fire; the worshipper, unaware, treats them as independent powers until, having examined such worlds, he turns to Jnana.",
+          "cue_range": [505, 528]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The path then ascends: Karma yoga, offering action to Parameshwara without wanting its fruits; Saguna upasana, following him knowingly but through mediation; and finally Jnana, direct recognition that the path is one's own Swarupa.",
+          "cue_range": [529, 543]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The word Karmaja is Shankara's pointed critique of Mimamsa, which treats ritual as the means to every purushartha including moksha. All action-born results, heaven included, are finite, like an arrow that flies only as far as its momentum carries it.",
+          "cue_range": [543, 560]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Jnana siddhi is not produced by action; it is recognising what was never absent, attaining the already attained, revealed when Avidya is removed.",
+          "cue_range": [561, 567]
+        },
+        {
+          "kind": "quote",
+          "text": "Only nyana can lead to moksha. Kevalat nyanaat moksha.",
+          "cue_range": [568, 569]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Reading Shankara's bhashya and previewing the next verse",
+      "cue_range": [570, 627],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "He reads the bhashya, which he says is long because it targets the varnashrama and Mimamsa positions: those craving results of action worship deities such as Indra and Agni here in this world.",
+          "cue_range": [570, 577]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The bhashya quotes the Brihadaranyaka Upanishad, which the teacher locates as chapter 1, section 4, verse 10: one who worships a deity as separate from himself does not know, and becomes like a domestic animal serving the gods.",
+          "cue_range": [578, 587]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Results come quickly in the human world because only there does eligibility for scripturally prescribed duties exist, especially those of varna and ashrama; saying quickly implies results also arise in other worlds such as those of ancestors and devatas.",
+          "cue_range": [588, 609]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Summing up, people prefer deities to liberation because they want fast success; those results stay ephemeral, and only after seeing that karma is not eternal do they progress towards knowledge of the non-dual self.",
+          "cue_range": [610, 620]
+        },
+        {
+          "kind": "unresolved",
+          "text": "He previews the following verse, recited as Yadur Varnam Maya Srushta, but here calls it the 12th; at the close of the session he corrects this to the 13th verse of chapter 4.",
+          "cue_range": [621, 627]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: efficiency of paths and the vehicle image",
+      "cue_range": [628, 735],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "After the closing invocation the host opens questions. A participant suggests that everyone is on the same journey, only in increasingly efficient vehicles.",
+          "cue_range": [628, 639]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher compares this to hiring: experienced people get demanding jobs, while trainees start at the bottom and rise at a speed set by their background. With knowledge one soon sees that action and results are impermanent; adhikara sets the pace, and some go straight from Brahmacharya to sannyasa.",
+          "cue_range": [640, 664]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Asked how someone in a bullock cart learns of better transport, he says it happens when a faster horse chariot overtakes you on the same road. A person who lives as an example both inspires and shows the way; the dissatisfied seeker asks why that person is content.",
+          "cue_range": [665, 698]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The verse he cites about setting an example is garbled in the transcript (yada yada hi dharmasya ... yeddyadar this reshdevi), so which shloka he means cannot be settled.",
+          "cue_range": [686, 689]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Wealthy people flock to gurus, offering riches the guru does not need, sensing the guru travels faster. A participant adds that low self-regard may freeze someone in their present mode; the teacher says the coming verses on guna and karma take that up.",
+          "cue_range": [699, 721]
+        },
+        {
+          "kind": "unresolved",
+          "text": "A participant recalls a verse, rendered as Bahadhar Renuka, saying everyone moves towards the Atma whatever their vehicle; the text meant is unclear from the transcript.",
+          "cue_range": [727, 731]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: adhidaivika, gunas, vasanas and rarity of seekers",
+      "cue_range": [736, 867],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Venkat asks whether ignorance of the adhidaivika dimension, for example Lakshmi as giver of inner as well as outer wealth, blocks spiritual progress, given that modern education leaves the divine dimension out.",
+          "cue_range": [736, 756]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher answers that it depends on the mind's sattva, rajas and tamas: sattvic minds are drawn to the divine; outer wealth becomes inner wealth as Lakshmi becomes Saraswati. Two people in the same house can differ completely because of their vasanas.",
+          "cue_range": [757, 788]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "With a self-confessedly crude example of a new express train that passengers soon stop keeping clean, he argues that inner disposition, not the domain itself, prevents appreciation.",
+          "cue_range": [797, 816]
+        },
+        {
+          "kind": "quote",
+          "text": "It is the individual's vasanas or qualities which makes the difference.",
+          "cue_range": [817, 818]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "On whether it is essential for Jnana: ultimately yes, but the road is long. He cites the Vivekachudamani on the rarity of human birth and of knowing something higher, and Krishna's remark that among thousands only one strives; most are absorbed in instant gratification.",
+          "cue_range": [820, 844]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The participant sees the verses as built to lift one from adhidaivika to adhyatmika. The teacher outlines the chapter: from devata worship it moves to Nishkama karma yoga, and its last ten verses are on the path of knowledge, so Krishna leads stage by stage.",
+          "cue_range": [845, 866]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "heading": "Closing remarks and preview of verse 13",
+      "cue_range": [868, 895],
+      "shloka_refs": [
+        {"ref": "BG 4.13", "basis": "stated-in-transcript", "cue_range": [890, 891]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Before closing, the teacher notes that people stand at different points of evolution, and that interest in non-dualism is growing in the West through figures such as Ramana Maharshi and Nisargadatta Maharaj and Western teachers using their own methods.",
+          "cue_range": [868, 880]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host announces the next session at 8:30 PM IST and thanks the teacher, who thanks the participants and says the next class takes up the 13th verse of chapter 4.",
+          "cue_range": [881, 891]
+        },
+        {
+          "kind": "quote",
+          "text": "Where there is a lot of misunderstanding is that the caste system in India has was created by God.",
+          "cue_range": [892, 893]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-kanksha", "label": "Kanksha", "gloss": "Craving directed at a specific anticipated result, stronger than a wish or longing.", "cue_range": [109, 116]},
+    {"id": "c-sakama-karma", "label": "Sakamakarma", "gloss": "Action performed with desire for a particular fruit.", "cue_range": [117, 121]},
+    {"id": "c-tattva-jnana", "label": "Tatvatnyana", "gloss": "Knowledge of reality whose fruit, moksha, never perishes.", "cue_range": [150, 151]},
+    {"id": "c-madbhava", "label": "Madbhava", "gloss": "The state of abiding in Krishna's own nature, reached through knowledge.", "cue_range": [193, 194]},
+    {"id": "c-devata", "label": "Devata", "gloss": "A deity, from the root meaning to shine or stand apart; worshipped for specific boons.", "cue_range": [197, 243]},
+    {"id": "c-upadhi", "label": "Upadhi", "gloss": "A limiting adjunct; the devatas are such adjuncts of Parameshwara's power.", "cue_range": [240, 248]},
+    {"id": "c-kshipram", "label": "Shipram", "gloss": "Swiftly; the reason devata worship is popular is that its results come fast.", "cue_range": [282, 287]},
+    {"id": "c-manusha-loka", "label": "Manusha loka", "gloss": "The human realm between devas and animals, where action and fruit meet quickly.", "cue_range": [315, 323]},
+    {"id": "c-karmaja-siddhi", "label": "Karmaja Siddhi", "gloss": "Success born of action: quick, conditional, finite and binding to rebirth.", "cue_range": [403, 419]},
+    {"id": "c-avidya", "label": "Avidya", "gloss": "Ignorance that bends the search for Brahman into pursuit of finite things.", "cue_range": [455, 458]},
+    {"id": "c-mama-vartma", "label": "Mamavartma", "gloss": "Krishna's path, which every approach finally follows at different levels.", "cue_range": [505, 510]},
+    {"id": "c-nishkama-karma", "label": "Niskama karma", "gloss": "Action offered to Parameshwara without desire for its fruits.", "cue_range": [529, 535]},
+    {"id": "c-mimamsa", "label": "Mimamsa", "gloss": "The ritualist school holding karma as the means to all goals, criticised by Shankara.", "cue_range": [543, 550]},
+    {"id": "c-viveka", "label": "Viveka", "gloss": "Discrimination; with dispassion, one of the two wings needed on the path of knowledge.", "cue_range": [74, 80]},
+    {"id": "c-vasanas", "label": "vasanas", "gloss": "Latent tendencies that explain why people differ in their attraction to the spiritual path.", "cue_range": [766, 788]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Recap, Krishna answers every approach] --> B[Verse 12, those craving results worship devatas]\n  B --> C[Why popular, results come quickly in the human world]\n  C --> D[Devatas as upadhis of Parameshwara, ranked but not condemned]\n  D --> E[Karmaja siddhi is conditional, finite and binds to rebirth]\n  E --> F[Desire as distorted search for Brahman, pond and flood]\n  F --> G[Levels of the path, sakama worship, karma yoga, upasana, jnana]\n  G --> H[Critique of Mimamsa, only jnana gives moksha]\n  H --> I[Bhashya reading and preview of verse 13]\n  I --> J[Q and A, efficiency of paths, gunas and vasanas]"
+  },
+  "gaps": [
+    {"cue_range": [20, 21], "note": "Invocation and opening Sanskrit garbled in the transcript; not reconstructed."},
+    {"cue_range": [349, 351], "note": "Garbled Sanskrit citation with no named source; recorded as unresolved, not reconstructed."},
+    {"cue_range": [367, 368], "note": "Garbled Sanskrit recitation about the return to the mortal world after merit is exhausted; verse not identified in the transcript."},
+    {"cue_range": [578, 579], "note": "Garbled Sanskrit of the Upanishad passage quoted in the bhashya; only the teacher's English rendering is summarised."},
+    {"cue_range": [687, 689], "note": "Garbled shloka citation during Q&A; not identified."},
+    {"cue_range": [851, 854], "note": "Participant's phrasing partly garbled (Amshav, Indra, Adyvika); only the gist is summarised."},
+    {"cue_range": [870, 872], "note": "Teacher's closing remark partly unintelligible (levels of the bus, B, which includes values)."}
+  ]
+}

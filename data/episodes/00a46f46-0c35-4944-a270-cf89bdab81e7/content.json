@@ -1,0 +1,52 @@
+{
+  "schema": "episode-content/v1", "guid": "00a46f46-0c35-4944-a270-cf89bdab81e7", "title": "Ch05-01-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "cf00a186e4fa127ab6831d43a9010f3543b3b69207f65e42543bcef2b20cc63d", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 introduction", "verified": false},
+  "summary": {"text": "The introduction revisits action as Brahman's offering and then examines Arjuna's apparent choice between renunciation and karma-yoga. Through a long objection-and-reply commentary, the teacher distinguishes the non-knower's preparatory choices from establishment in the actionless self. Karma-yoga is preferable to difficult renunciation undertaken while agency remains; this comparison does not assign a further liberating task to an accomplished knower. Bodily activity can continue without personal ownership. Questions locate the listener's own eligibility and push beyond retaining a subtle ego as witness: the final standpoint is non-separateness, not an individual claiming either action or observation.", "cue_ranges": [[24, 108], [112, 693], [701, 836]]},
+  "segments": [
+    {"id": "s01", "heading": "Chapter four prepares the new question", "cue_range": [24, 108], "shloka_refs": [{"ref": "BG 4.24", "basis": "stated-in-transcript", "cue_range": [66, 83]}], "blocks": [
+      {"kind": "paraphrase", "text": "Duty is to be performed without attraction, aversion or ownership of results. The prior sacrificial series culminates in seeing all elements of activity through Brahman.", "cue_range": [24, 91]},
+      {"kind": "paraphrase", "text": "Arjuna hears praise of both renunciation and action-yoga and asks for a definite recommendation. The teacher treats the question as natural rather than dismissing it.", "cue_range": [92, 108]}
+    ]},
+    {"id": "s02", "heading": "Why Arjuna thinks a choice is necessary", "cue_range": [109, 269], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary juxtaposes non-doership passages with the instruction to act. From Arjuna's standpoint, abandoning action and undertaking it seem incompatible, like standing still and moving.", "cue_range": [112, 191]},
+      {"kind": "paraphrase", "text": "An opponent objects that the prescriptions concern different qualified persons. The reply reconstructs Arjuna's assumption: both seem available to him as things to do, so asking which is better makes sense.", "cue_range": [192, 269]}
+    ]},
+    {"id": "s03", "heading": "The knower is not another choosing agent", "cue_range": [270, 401], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The proposed comparison is tested against the knower and non-knower. For the latter, preparatory options remain; for the former, the assumed agent underlying the choice has been corrected.", "cue_range": [270, 370]},
+      {"kind": "quote", "text": "One who knows actionless self as his very self.", "cue_range": [385, 385]},
+      {"kind": "paraphrase", "text": "The knower is defined by identity with the unmodified, actionless self. Renunciation in this sense is abidance, not a fresh deed performed by a self-agent.", "cue_range": [371, 401]}
+    ]},
+    {"id": "s04", "heading": "The commentary separates knowledge and agency", "cue_range": [402, 591], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Right knowledge and the error of agency cannot remain coequal standpoints. An objection cites instructions to fight; the reply distinguishes audiences and the preparatory role of karma-yoga.", "cue_range": [402, 550]},
+      {"kind": "paraphrase", "text": "The accomplished knower has no further self-completing duty. Bodily maintenance may continue, but seeing and hearing are not owned as my deeds. The denial concerns agency-based practice, not physical disappearance.", "cue_range": [551, 591]}
+    ]},
+    {"id": "s05", "heading": "Why karma-yoga is preferable for the seeker", "cue_range": [592, 694], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The comparison concerns a non-knower whose sense of agency persists. Formal renunciation is difficult and partial when its inward foundation has not matured; karma-yoga offers a more practicable preparation.", "cue_range": [592, 648]},
+      {"kind": "paraphrase", "text": "The teacher returns to Arjuna's earlier question and announces that the opening verse's detailed treatment will follow. This session supplies the commentary's framework rather than completing that verse-analysis.", "cue_range": [649, 694]}
+    ]},
+    {"id": "s06", "heading": "Eligibility is a question for the listener", "cue_range": [695, 755], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant asks how the distinction guides one's actions. The teacher describes knowing definitions of Atma while still identifying as the body that sees, eats and breathes.", "cue_range": [701, 734]},
+      {"kind": "paraphrase", "text": "Where that identification remains, karma-yoga prepares the actionless recognition. Its role is not opposition to the final state but guidance toward it.", "cue_range": [735, 755]}
+    ]},
+    {"id": "s07", "heading": "Even an owned witness-identity must be examined", "cue_range": [756, 858], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A second question confirms the distinction of eligibility. The teacher says bodily roles can appear without constituting identity, whether householder, ruler or mendicant.", "cue_range": [756, 793]},
+      {"kind": "paraphrase", "text": "A subtle sense of mine may survive even when one observes bodily activity as witness. The final account relinquishes the separate owner of witnessing and recognizes every element as Brahman.", "cue_range": [794, 836]},
+      {"kind": "quote", "text": "There is nothing other than Brahman", "cue_range": [820, 821]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-brahma-karma-samadhi", "label": "Brahmakarma samadhi", "gloss": "Activity understood as non-separate from Brahman.", "cue_range": [84, 91]},
+    {"id": "c-adhikara", "label": "Adikara Beda", "gloss": "Different eligibility explaining different instructions.", "cue_range": [760, 770]},
+    {"id": "c-karma-yoga", "label": "Karma Yoga", "gloss": "Preparatory discipline for one still holding agency.", "cue_range": [540, 550]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "Witnessing used provisionally without retaining a separate owner.", "cue_range": [794, 828]},
+    {"id": "c-mamata", "label": "mamatum", "gloss": "The lingering mine-sense that can appropriate body or witnessing.", "cue_range": [797, 811]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[All activity considered as Brahman offering] --> B[Arjuna asks action or renunciation]\n B --> C[Commentary distinguishes eligibility]\n C --> D[Non-knower needs preparation]\n C --> E[Knower abides as actionless self]\n D --> F[Karma-yoga is the practicable preparation]\n F --> E\n E --> G[No separate owner even of witnessing]"},
+  "gaps": [
+    {"cue_range": [24, 34], "note": "One recap phrase appears to repeat dharma where its contrast is intended; summary follows the explicit nearby contrast without reconstructing wording."},
+    {"cue_range": [192, 205], "note": "Alternating objection and reply are interrupted; opposing positions are not merged into a single assertion."},
+    {"cue_range": [592, 645], "note": "Several local ASR reversals of knower/non-knower occur; the explicit conclusion at cues 631-648 is the basis of the eligibility distinction."},
+    {"cue_range": [652, 660], "note": "Long Sanskrit passage is garbled and not reconstructed."}
+  ]
+}

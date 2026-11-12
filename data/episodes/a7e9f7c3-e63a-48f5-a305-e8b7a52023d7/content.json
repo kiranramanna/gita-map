@@ -1,0 +1,59 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "a7e9f7c3-e63a-48f5-a305-e8b7a52023d7",
+  "title": "Ch04-24-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "61cf57cc28a606ccbc3516e3ee55955009a81e15788938dea5ad6d560b9a9785", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verse 28", "verified": false},
+  "summary": {"text": "After clarifying sensory restraint and consecrated sensory contact, the teacher presents five sacrifices: material giving, austerity, yoga, scriptural study and knowledge. Each relinquishes a different attachment; knowledge-sacrifice relinquishes the apparent independence of the jiva itself. Inner restraint and sustained commitment matter more than outward renunciate status. The teacher arranges the practices through increasingly inward levels and previews breath-sacrifice. Questions distinguish practical understanding used in preparation from the identity-knowledge that removes doership; the particular subcommentaries informing the explanation are not named.", "cue_ranges": [[28, 186], [187, 586], [627, 727]]},
+  "segments": [
+    {"id": "s01", "heading": "Clarifying the two sensory sacrifices", "cue_range": [28, 186], "shloka_refs": [{"ref": "BG 4.26", "basis": "stated-in-transcript", "cue_range": [28, 33]}], "blocks": [
+      {"kind": "paraphrase", "text": "The seeker restrains sensory pursuit to prepare for inquiry. The upasaka consciously offers contact to the indwelling Brahman, while the established knower sees no independently owned experience.", "cue_range": [34, 181]},
+      {"kind": "unresolved", "text": "The teacher says this explanation draws on subcommentaries to Shankara, but does not identify their titles or authors here.", "cue_range": [182, 186]}
+    ]},
+    {"id": "s02", "heading": "Material giving loosens ownership", "cue_range": [187, 251], "shloka_refs": [{"ref": "BG 4.28", "basis": "stated-in-transcript", "cue_range": [187, 213]}], "blocks": [
+      {"kind": "paraphrase", "text": "The enumeration classifies sacrifice by what is offered and the instrument used. Material sacrifice includes ritual offerings and charitable provision of food, shelter or wealth.", "cue_range": [187, 229]},
+      {"kind": "paraphrase", "text": "Giving starts to loosen possessiveness. The ritual disclaimer of ownership is interpreted as recognizing that the offered substance was never independently the giver's property.", "cue_range": [230, 251]}
+    ]},
+    {"id": "s03", "heading": "Austerity and yoga offer different attachments", "cue_range": [252, 337], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Austerity offers attachment to ease through bodily, verbal and mental discipline. Without knowledge its achievements remain finite; with knowledge it serves the dissolution of bondage.", "cue_range": [252, 301]},
+      {"kind": "paraphrase", "text": "Yoga-sacrifice works on mental movements through sustained concentration, meditation and absorption. Returning a wandering movement to the chosen focus is described as an inward offering.", "cue_range": [302, 337]}
+    ]},
+    {"id": "s04", "heading": "Study prepares; knowledge dissolves separateness", "cue_range": [338, 416], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Swadhyaya includes Vedic recitation and inquiry into self through scripture, listening and reflection. Speech and intellect are offered into study that prepares the recognition of identity.", "cue_range": [338, 377]},
+      {"kind": "paraphrase", "text": "Knowledge-sacrifice is not merely more study. The supposed separate jiva is relinquished; offerer, offering and fire cease to be understood as independent realities.", "cue_range": [378, 416]}
+    ]},
+    {"id": "s05", "heading": "Inner restraint and sharpened commitment", "cue_range": [417, 476], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Yati is explained through inward discipline rather than clothing or social status. A householder may possess this restraint while a formally ordained renunciate may lack it.", "cue_range": [417, 444]},
+      {"kind": "quote", "text": "A commitment is only a commitment when it is continuous.", "cue_range": [458, 459]},
+      {"kind": "paraphrase", "text": "The image of sharpening a vow emphasizes maintained focus, not intermittent enthusiasm. This commitment makes the enumerated practices genuine rather than nominal.", "cue_range": [445, 476]}
+    ]},
+    {"id": "s06", "heading": "An inward progression through the koshas", "cue_range": [477, 586], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher arranges the sacrifices across material, vital, mental, intellectual and identity-related levels. Each loosens identification with the corresponding sheath, culminating in direct recognition rather than acquisition.", "cue_range": [477, 536]},
+      {"kind": "paraphrase", "text": "The commentary recapitulates giving, austerity, yoga, recitation and understanding scripture. The teacher treats the range as inclusive of sincere practice while reserving liberation for knowledge.", "cue_range": [541, 586]}
+    ]},
+    {"id": "s07", "heading": "Breath preview and a terminology question", "cue_range": [587, 626], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The next class will consider breathing, including its involuntary continuity, as sacrifice. This extends the account to activity usually overlooked as spiritual practice.", "cue_range": [587, 606]},
+      {"kind": "paraphrase", "text": "A participant asks about Kriya yoga. The teacher postpones the detailed prana-apana explanation and does not adopt that participant's label for the Gita passage.", "cue_range": [611, 625]}
+    ]},
+    {"id": "s08", "heading": "Preparation versus the fire of identity-knowledge", "cue_range": [627, 743], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant distinguishes knowledge guiding practice from Atma-knowledge. The teacher stresses that the culminating fire changes one's standpoint from agent to non-agent, not merely to a more efficient performer.", "cue_range": [627, 666]},
+      {"kind": "paraphrase", "text": "Fuel and fire illustrate practices meeting the conditions for recognition. The ensuing exchange accepts a preparatory role for practical understanding while distinguishing identity-knowledge; the teacher defers further breath discussion.", "cue_range": [667, 715]},
+      {"kind": "unresolved", "text": "Subcommentaries are again credited with enriching the explanation, but their precise sources remain unspecified.", "cue_range": [721, 727]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-brahman", "label": "Brahman", "gloss": "Reality recognized in sense faculties and their objects.", "cue_range": [123, 174]},
+    {"id": "c-dravya-yetna", "label": "Dravya Yetna", "gloss": "Material sacrifice that loosens ownership.", "cue_range": [213, 241]},
+    {"id": "c-yoga", "label": "Yoga", "gloss": "Sustained inward discipline of mental movements.", "cue_range": [302, 335]},
+    {"id": "c-swadhyaya", "label": "Swadhyaya", "gloss": "Recitation and self-directed scriptural inquiry preparing knowledge.", "cue_range": [338, 377]},
+    {"id": "c-yati", "label": "Yeti", "gloss": "One whose restraint is inward, not merely a renunciate appearance.", "cue_range": [418, 439]},
+    {"id": "c-kartritva", "label": "doership", "gloss": "The sense of being an individual agent removed by culminating knowledge.", "cue_range": [633, 647]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Clarify sensory offerings] --> B[Material giving loosens ownership]\n B --> C[Austerity offers attachment to comfort]\n C --> D[Yoga offers mental movements]\n D --> E[Study prepares recognition]\n E --> F[Knowledge relinquishes separate identity]\n G[Inner restraint and continuous commitment] --> B\n G --> F\n F --> H[Breath and non-doership questions]"},
+  "gaps": [
+    {"cue_range": [26, 27], "note": "Invocation is incomplete in the feed text."},
+    {"cue_range": [211, 212], "note": "Sanskrit enumeration contains repeated syllables; no reconstruction attempted."},
+    {"cue_range": [289, 294], "note": "The list of siddhi names is garbled; only the teacher's general contrast with finite achievements is summarized."},
+    {"cue_range": [643, 653], "note": "Interrupted, repetitive exchange; the paraphrase relies on the clearer adjacent statements rather than reconstructing missing syntax."}
+  ]
+}

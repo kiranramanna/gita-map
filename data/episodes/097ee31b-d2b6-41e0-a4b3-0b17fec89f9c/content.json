@@ -1,0 +1,54 @@
+{
+  "schema": "episode-content/v1", "guid": "097ee31b-d2b6-41e0-a4b3-0b17fec89f9c", "title": "Ch05-07-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "cd5f4333980408355540349aa43cfcf2b6bd63fb594606ff7679efb4e3ddca7c", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verses 11&12", "verified": false},
+  "summary": {"text": "The teacher analyzes karma-yoga through body, mind, discriminative intellect and senses, all used without possessiveness for purification. Atma-shuddhi means clearing the conditioned instrument, not cleaning the ever-pure self; a dusty mirror illustrates the distinction. This preparation leads toward knowledge rather than directly producing liberation. The next verse contrasts relinquished fruit-attachment and stable peace with desire-driven action and bondage. The same instruments can serve either orientation, and an unintegrated person need not be malicious. Questions distinguish the knower's non-identification from the seeker's practice, then use an actor maintaining inward identity while performing a role to explain inner renunciation and outer participation.", "cue_ranges": [[20, 354], [355, 567], [592, 758]]},
+  "segments": [
+    {"id": "s01", "heading": "The lotus recap rejects separation from the ground", "cue_range": [20, 103], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Dedication includes releasing the result while remaining within ordinary life. Sensory encounters are understood as appearances in consciousness rather than privately owned activities.", "cue_range": [20, 67]},
+      {"kind": "paraphrase", "text": "The teacher extends the lotus example to dependence on water: the individual is not an entity outside Brahman merely avoiding contact with it.", "cue_range": [68, 103]}
+    ]},
+    {"id": "s02", "heading": "Four instruments share one non-possessive orientation", "cue_range": [104, 200], "shloka_refs": [{"ref": "BG 5.11", "basis": "stated-in-transcript", "cue_range": [104, 141]}], "blocks": [
+      {"kind": "paraphrase", "text": "The preceding activity-list is grouped into body, mind, intellect and senses. Their common condition is relinquished attachment, and their stated purpose is purification.", "cue_range": [104, 147]},
+      {"kind": "paraphrase", "text": "Intellect is distinguished as determinative discrimination; sensory instruments are treated without an ego's possessiveness. Intellectual activity alone is not automatically karma-yoga without the purifying orientation.", "cue_range": [148, 200]}
+    ]},
+    {"id": "s03", "heading": "Atma-shuddhi cleans the mirror, not the light", "cue_range": [201, 354], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "These yogis are practitioners, neither fully established knowers nor simply reward-seeking worshippers. Purification concerns the inner adjunct and its distortions, not an impurity intrinsic to Atma.", "cue_range": [201, 270]},
+      {"kind": "paraphrase", "text": "Cleaning a mirror allows unchanged light to appear clearly. The teacher explicitly places purification before knowledge and denies that action itself directly supplies liberation.", "cue_range": [271, 334]},
+      {"kind": "quote", "text": "not for myself.", "cue_range": [342, 342]},
+      {"kind": "paraphrase", "text": "The commentary excludes possessiveness across all instruments, including the purpose of action. Arjuna is directed toward the practice fitting his present eligibility.", "cue_range": [335, 354]}
+    ]},
+    {"id": "s04", "heading": "Relinquishing fruit-attachment leads toward stable peace", "cue_range": [355, 448], "shloka_refs": [{"ref": "BG 5.12", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "The contrast pairs integrated and unintegrated agents, relinquishment and clinging, peace and bondage. Peace is unfolded through psychological stillness toward knowledge-established fulfillment.", "cue_range": [355, 411]},
+      {"kind": "paraphrase", "text": "The teacher returns to sequential preparation and recognition. Sense-object interactions belong to nature; inward appropriation is not what makes them function.", "cue_range": [412, 448]}
+    ]},
+    {"id": "s05", "heading": "Desire-driven action binds even a competent person", "cue_range": [449, 574], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "An unintegrated person need not be immoral. Desire for an owned result can govern competent and outwardly virtuous activity, keeping the sense of a separate claimant alive.", "cue_range": [449, 505]},
+      {"kind": "paraphrase", "text": "The familiar attachment-to-anger sequence explains renewed bondage. The commentary contrasts this with purification, knowledge, renunciation and establishment; the next verse is only previewed.", "cue_range": [506, 574]}
+    ]},
+    {"id": "s06", "heading": "The knower and practitioner integrate differently", "cue_range": [575, 706], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Asked how integration works with an individual body, the teacher distinguishes an observer's prarabdha-description from the knower's non-agency. Dream witnessing illustrates non-identification.", "cue_range": [592, 656]},
+      {"kind": "paraphrase", "text": "The practitioner understands the teaching but still seeks its firm recognition. Relinquishing fruit-attachment loosens the individuality that survives intellectual understanding; a participant's distinction between purification terms receives brief assent.", "cue_range": [657, 706]}
+    ]},
+    {"id": "s07", "heading": "The actor illustrates inner abidance and outer participation", "cue_range": [707, 778], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant asks for a fresh account of inner renunciation and outer participation. The teacher compares someone playing Julius Caesar while retaining the inward identity of the actor.", "cue_range": [708, 745]},
+      {"kind": "paraphrase", "text": "The role's required actions can be executed without making its events the actor's ultimate identity. The analogy points to inward self-abidance during bodily life, not avoidance of the role.", "cue_range": [746, 758]},
+      {"kind": "quote", "text": "there is an inner abundance and external actions", "cue_range": [746, 747]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-buddhi", "label": "buddhi", "gloss": "Determinative discrimination distinguished from ordinary mental activity.", "cue_range": [148, 175]},
+    {"id": "c-atma-shuddhi", "label": "Atma shuddhi", "gloss": "Purification of the conditioned inner instrument, not the ever-pure self.", "cue_range": [231, 256]},
+    {"id": "c-karma-yoga", "label": "Karma Yoga", "gloss": "Action oriented to purification rather than production of liberation.", "cue_range": [277, 296]},
+    {"id": "c-shanti", "label": "Shanti", "gloss": "Peace unfolded from settled inwardness toward establishment in Brahman.", "cue_range": [378, 408]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "Witness standpoint used to explain the knower's non-identification.", "cue_range": [629, 648]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Activity remains within Brahman] --> B[Four instruments act without possessiveness]\n B --> C[Inner purification clears the mirror]\n C --> D[Knowledge rather than action reveals freedom]\n D --> E[Relinquishment culminates in stable peace]\n B --> F[Desire and ownership instead renew bondage]\n E --> G[Knower and seeker distinguished]\n G --> H[Inner abidance accompanies outer role]"},
+  "gaps": [
+    {"cue_range": [19, 20], "note": "Invocation reduced to a fragment."},
+    {"cue_range": [224, 256], "note": "Purification terms have unstable ASR spellings; no silent normalization supplied as quotations."},
+    {"cue_range": [355, 358], "note": "Recitation repeats and stumbles; the following English contrast is the basis of the summary."},
+    {"cue_range": [568, 574], "note": "Next verse is a preview only; its detailed teaching is deferred."},
+    {"cue_range": [696, 705], "note": "Participant proposes a purification-term distinction that receives only brief agreement; no systematic hierarchy inferred."}
+  ]
+}

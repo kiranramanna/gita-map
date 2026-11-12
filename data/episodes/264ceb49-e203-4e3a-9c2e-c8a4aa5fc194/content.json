@@ -1,0 +1,461 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "264ceb49-e203-4e3a-9c2e-c8a4aa5fc194",
+  "title": "Ch04-15-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "ecf891e13788ba7ca7fc3c80eb5950e9c3a1add61a8c5a56edb646160f4f3cae",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 18",
+    "verified": false
+  },
+  "summary": {
+    "text": "The teacher presents the 18th verse as the answer promised in verses 16 and 17: seeing akarma in karma and karma in akarma. Pashyed means a direct, non-mediated seeing, not intellectual argument. The knower recognises the Atma as the non-doer amid all actions done by prakriti and its gunas, and also sees that mere physical stillness still contains action and ego. Such a person alone is the true Buddhiman, the Yukta, and the Krishna Karmakrit, a complete performer at the vyavaharika level while remaining akarta at the paramarthika level. Verse 19 and the bhashya are deferred. In the questions, both inversions are placed within one witnessing frame, and words are used only for those who still see the mirage.",
+    "cue_ranges": [[20, 46], [101, 135], [189, 315], [316, 470], [542, 594], [600, 886]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host announcements and replay options",
+      "cue_range": [1, 19],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners, notes that this is room 15 on chapter 4 of the Gita from an Advaita perspective, and lists where earlier talks can be found: Clubhouse replays, the Advaita Retold YouTube channel, Apple and Spotify podcasts, and a book summarising the teacher's insights.",
+          "cue_range": [1, 14]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Chat and hand raising are closed during the class and reopened afterwards for questions; the host hands over to the teacher.",
+          "cue_range": [15, 19]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap of verses 16 and 17, verse 18 introduced",
+      "cue_range": [20, 46],
+      "shloka_refs": [
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [29, 32]},
+        {"ref": "BG 4.17", "basis": "stated-in-transcript", "cue_range": [33, 36]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [37, 41]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The analysis of karma has been building toward Krishna's final teaching on karma yoga. Earlier he spoke of offering the fruits of action, but the difficulty is that the way karma works is too deep for ordinary minds.",
+          "cue_range": [20, 28]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verse 16 was a preamble: even the wise are confused about karma and akarma, and Krishna promised to explain karma, akarma and vikarma. Verse 17 said these three must be understood and that the path of karma is hard to grasp.",
+          "cue_range": [29, 36]
+        },
+        {
+          "kind": "quote",
+          "text": "the great Advaitic advaitic inversion that cuts through all confusion",
+          "cue_range": [37, 38]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verse 18 is called the philosophical summit of the karma section. It fulfils what verse 17 promised, especially the third and highest item to be understood, akarma, by reversing the ordinary way of seeing action.",
+          "cue_range": [39, 46]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "The double inversion and its bearer",
+      "cue_range": [47, 77],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [63, 66]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Seeing akarma in karma means recognising that the Atma never acts beneath all apparent actions. Seeing karma in akarma means recognising that prakriti and its gunas keep working even in outward stillness. This two-way reversal is a darsana, a vision that constitutes knowledge of the truth.",
+          "cue_range": [47, 54]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The one who has this vision is called the only truly intelligent person, integrated (yukta), and one who carries out every action in full. The teacher flags this last description as a paradox: the knower who recognises non-doership acts most completely, because doership no longer fragments or binds action.",
+          "cue_range": [55, 68]
+        },
+        {
+          "kind": "unresolved",
+          "text": "Shankaracharya's introductory question, roughly asking what the truth of karma is that Krishna promised to tell, and the recitation of the verse itself are rendered as garbled Sanskrit in the transcript; the exact wording is not reconstructed here.",
+          "cue_range": [68, 77]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Word analysis: pashyed as direct seeing",
+      "cue_range": [78, 135],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The teacher goes through the words: karmani is locative, in or within action; akarma is non-action, not mere inaction; ya is the one who; sa buddhiman manusheshu is that intelligent one among humans; yukta is integrated; and the compound Krishna Karmakrit means performer of complete action.",
+          "cue_range": [78, 100]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The key word is pashyed, an optative form meaning would, should, or is able to see. It names a capacity and a specific achievement of perception, not simple sight.",
+          "cue_range": [101, 108]
+        },
+        {
+          "kind": "quote",
+          "text": "The seeing is not is not ordinary shakshudharsana, a vision by physical eyes, but a pragna dharsana",
+          "cue_range": [109, 110]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This seeing is not reasoning or argument but realisation, a direct perception with no intermediary. Usually knowing involves a means and an object; in knowing one's own nature, knowing and being coincide, and the Atman is the seer. So pashyed here echoes the self seeing itself.",
+          "cue_range": [113, 135]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher cites the Brihadaranyaka Upanishad, 3rd chapter, 4th section, second mantra, on the knower by whom all is known not being knowable by anything. The Sanskrit in the transcript is garbled and the mantra text is not reconstructed.",
+          "cue_range": [129, 134]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Karmani akarma: non-doership seen within action",
+      "cue_range": [136, 188],
+      "shloka_refs": [
+        {"ref": "BG 3.27", "basis": "stated-in-transcript", "cue_range": [177, 179]},
+        {"ref": "BG 4.17", "basis": "stated-in-transcript", "cue_range": [183, 186]},
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [186, 188]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Within every kind of action, with no exception, the self is present as non-doer. This akarma is found not by stopping action, nor before or after it, but by seeing through the action, while it is going on, to the actionless Atman underneath.",
+          "cue_range": [136, 156]
+        },
+        {
+          "kind": "quote",
+          "text": "Wherever the light is falling, actions are happening because of light but at the same time light is remaining inactive in all those activities.",
+          "cue_range": [160, 162]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The locative matters: the seeing happens right inside karma, not by escaping to another realm. While body and mind act under prakriti and its gunas (citing chapter 3, verse 27), the self stays the still, illuminating witness.",
+          "cue_range": [165, 182]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This is the supreme bodhavyam named in verse 17, the understanding that frees one from the inauspicious, as verse 16 promised.",
+          "cue_range": [183, 188]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Ignorant seeing versus the knower's seeing",
+      "cue_range": [189, 243],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "the ordinary ignorant person, he sees only karma in a karma.",
+          "cue_range": [195, 196]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The ignorant person sees action and takes the Atman to be its doer, saying I eat, I sleep, I walk. This superimposition of doership on the non-doer self produces the impressions of karma and hence rebirth.",
+          "cue_range": [197, 213]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The knower, having realised the self as witness, sees non-doing within that same action: action goes on through the gunas of prakriti at the vyavaharika level of body, mind and intellect, while at the paramarthika level the Atman is known as akarta. That is not detachment from action but seeing through its empirical appearance.",
+          "cue_range": [214, 234]
+        },
+        {
+          "kind": "unresolved",
+          "text": "Two further scriptural supports are cited: a Brihadaranyaka passage given as 4th chapter, 4th section, mantra 23 about the seer of seeing, and a Katha Upanishad line that the self neither slays nor is slain. The Sanskrit is partly garbled and the exact passages are not verified here.",
+          "cue_range": [235, 243]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Akarmani karma: action hidden in apparent stillness",
+      "cue_range": [244, 315],
+      "shloka_refs": [
+        {"ref": "BG 3.5", "basis": "stated-in-transcript", "cue_range": [281, 284]},
+        {"ref": "BG 3.4", "basis": "stated-in-transcript", "cue_range": [297, 300]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The mirrored phrasing is not just elegant style; it carries the non-dual reversal at the core of karma yoga. Ordinary categories of acting and not acting are turned around at the paramarthika level.",
+          "cue_range": [244, 253]
+        },
+        {
+          "kind": "quote",
+          "text": "Non acting is in fact performing the karma of Ahankara.",
+          "cue_range": [262, 263]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Someone who sits still yet takes pride in not acting is still acting through ego; tamas, intention and vasanas keep working. Treating withdrawal as liberation is the mirror error of identifying with outer action, since both stay at the surface level.",
+          "cue_range": [254, 274]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Even a jeevan mukta's body keeps breathing and metabolising under prarabdha, since no one can stay actionless even for a moment (chapter 3, verse 5). Shankaracharya consistently argues that naishkarmya is not gained merely by not starting action (chapter 3, verse 4); real akarma is the Atman's non-doership known through knowledge.",
+          "cue_range": [275, 310]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This is why Krishna, in the middle of a war, can teach Arjuna that with right knowledge he may fully engage in action as a non-doer.",
+          "cue_range": [311, 315]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Buddhiman and Yukta: the true knower described",
+      "cue_range": [316, 385],
+      "shloka_refs": [
+        {"ref": "BG 4.11", "basis": "stated-in-transcript", "cue_range": [336, 340]},
+        {"ref": "BG 4.17", "basis": "stated-in-transcript", "cue_range": [321, 324]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Buddhiman here is not mere intellect. The teacher links buddhi to the bodhavyam of the previous verse: it is awakened, discriminating understanding, a purified inner instrument that reflects consciousness without distortion. Manusheshu, among humans, echoes its use in verse 11.",
+          "cue_range": [316, 340]
+        },
+        {
+          "kind": "quote",
+          "text": "Sangarajya says he alone is to be recognized as the Buddhiman.",
+          "cue_range": [347, 348]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Without this vision, learning, scriptural skill and logical cleverness all remain a kind of non-intelligence, because superimposition still operates. The real intellect discriminates Atma from anatma and penetrates the deep way of karma to the paramarthika reversal.",
+          "cue_range": [349, 368]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Yukta means established in yoga, with a collected mind. The Gita applies it to the sthitaprajna in chapter 2, the karma yogi in chapter 3, and here to the knower. Repeating sa before both titles is deliberate emphasis, not a stylistic flaw.",
+          "cue_range": [369, 385]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Krishna Karmakrit: the non-doer as complete performer",
+      "cue_range": [386, 470],
+      "shloka_refs": [
+        {"ref": "BG 4.13", "basis": "stated-in-transcript", "cue_range": [434, 437]}
+      ],
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "This is the supreme advaitic paradox.",
+          "cue_range": [398, 398]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The one who knows he does nothing is called the doer of everything. Having no ego of doership, the knower has no need to suppress or avoid action, so he acts fully as his own dharma requires, untouched by results, offering every action without remainder.",
+          "cue_range": [386, 432]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya resolves this with two standpoints. From knowledge, the knower is akarta, the self being non-doer and changeless as verse 13 said. From the empirical view, prarabdha keeps the body acting until it falls, and the knower simply witnesses it.",
+          "cue_range": [433, 449]
+        },
+        {
+          "kind": "quote",
+          "text": "like the wind in an open space, unobstructed, undistorted, unbound.",
+          "cue_range": [450, 451]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The compound holds both levels at once, and this double description is the living answer to the depth of karma's way, which cannot be decoded without rising to identify oneself as the non-doing Atman.",
+          "cue_range": [452, 470]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Seeing as aparoksha anubhava; the integrated jeevan mukta",
+      "cue_range": [471, 541],
+      "shloka_refs": [
+        {"ref": "BG 4.10", "basis": "stated-in-transcript", "cue_range": [534, 536]}
+      ],
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "It is not a logical solution, but a perpetual transformation.",
+          "cue_range": [471, 471]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya uses pashyed to establish that what is needed is immediate recognition, not intellectual conviction. It is the self knowing its own non-acting nature through a purified intellect, rather than a conceptual cognition.",
+          "cue_range": [472, 501]
+        },
+        {
+          "kind": "unresolved",
+          "text": "Several supporting passages from the Brihadaranyaka, Katha and a hymn on the sun-coloured Purusha beyond darkness are mentioned to show that seer words point to the same self; the transcript garbles their wording and sources, so they are not identified here.",
+          "cue_range": [487, 495]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The jeevan mukta is non-doer at the paramarthika level yet, through prarabdha, performs all duties at the vyavaharika level. Yukta signals full Atma yoga integrating both levels, the same person described as sthitaprajna, karma yogi, and in chapter 4, verse 10, as refuged in Krishna; he does not withdraw from the world.",
+          "cue_range": [502, 541]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Questions of verses 16 and 17 answered",
+      "cue_range": [542, 573],
+      "shloka_refs": [
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [542, 552]},
+        {"ref": "BG 4.17", "basis": "stated-in-transcript", "cue_range": [555, 557]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [557, 564]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 18 answers what is karma and what is akarma. Karma is the field in which the Atman's non-doership must be recognised; akarma is apparent stillness in which guna-driven activity continues. The knowing that frees, promised in verse 16, is specified as this seeing.",
+          "cue_range": [542, 555]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The depth of karma's way named in verse 17 is penetrated here: at the paramarthika level each contains the other, and only someone with direct Atma experience sees it. The shift is from surface seeing to seeing non-doership in all action and guna activity in all stillness.",
+          "cue_range": [555, 573]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Preview of verse 19 and the bhashya ahead",
+      "cue_range": [574, 599],
+      "shloka_refs": [
+        {"ref": "BG 4.19", "basis": "stated-in-transcript", "cue_range": [574, 579]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 19 will portray the knower's action concretely: all undertakings free of desire and intention, a life governed by the vision of verse 18. This completes the karma analysis before the section on yajna, where all action becomes one offering to Brahman.",
+          "cue_range": [574, 584]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The verse range of the coming yajna section is unclear in the transcript: one cue gives an apparently garbled number, and another mentions verses 19 to 23.",
+          "cue_range": [580, 584]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya's long commentary on this verse, which takes up an opponent's view from the ritualist Mimamsa standpoint, will be read over the next classes; the teacher says those older ritualists resemble people today who are absorbed in activity. The host then opens questions.",
+          "cue_range": [584, 599]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: mapping both inversions onto body-mind and prakriti",
+      "cue_range": [600, 810],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A participant pictures prakriti as a large circle containing the knower's body-mind-intellect, and asks how the two inversions map onto that individual body-mind versus the whole field of prakriti.",
+          "cue_range": [600, 632]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher replies that the knower no longer takes any one body-mind as his; the whole empirical world becomes the field of action he witnesses. He compares it to waking up: the person named Bindu becomes one more entity within the apparent waking world.",
+          "cue_range": [633, 663]
+        },
+        {
+          "kind": "quote",
+          "text": "both has to be seen in the same frame. You cannot separate out the frames.",
+          "cue_range": [689, 690]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Asked for everyday examples, and after the participant's court-witness analogy and his example of breathing while hearing his wife practise sitar, the teacher says there is no doer anywhere. The akarta witnessing all actions, from body to galaxies, is karmani akarma; others attributing actions to the knower who is non-doer is akarmani karma.",
+          "cue_range": [691, 796]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The participant concludes that both activity and withdrawal are seen from the witness and that the teaching is about going beyond both; the teacher agrees and says the commentary will make it clearer.",
+          "cue_range": [797, 810]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "heading": "Chat question on the witness, then closing",
+      "cue_range": [811, 914],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Chat comments are read: one that Brahman cannot be limited by these notions, another that the unity of the body-mind is the doer that is witnessed. The second participant joins and asks about this.",
+          "cue_range": [811, 838]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher says the witness is not limited to any body-mind; it witnesses all of prakriti, whose activities are only apparent. Talk of paramarthika and vyavaharika levels serves understanding in order finally to deny both; from Brahman's standpoint no words apply at all.",
+          "cue_range": [839, 874]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Recalling the Brihadaranyaka line Shankaracharya quoted, the teacher notes that asking who knows the knower leads to infinite regress.",
+          "cue_range": [875, 883]
+        },
+        {
+          "kind": "quote",
+          "text": "it is for person who are seeing the miraj as water but the water is not there.",
+          "cue_range": [884, 885]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host thanks everyone, defers a practice question to Sunday, points again to replays, and announces the next session at 8:30 PM IST. The teacher says the commentary continues tomorrow.",
+          "cue_range": [887, 914]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-gahana-karmano-gati", "label": "Gahana karmanagati", "gloss": "The way of karma is deep and hard to fathom for ordinary minds.", "cue_range": [555, 556]},
+    {"id": "c-akarma", "label": "akarma", "gloss": "Non-action in the sense of the Atman's essential non-doership, not mere inactivity.", "cue_range": [154, 156]},
+    {"id": "c-pashyet", "label": "Pashyed", "gloss": "Would or is able to see; a direct seeing rather than physical sight or inference.", "cue_range": [81, 87]},
+    {"id": "c-prajna-darshana", "label": "pragna dharsana", "gloss": "Seeing by the awakened intellect, immediate recognition available to knowers.", "cue_range": [109, 112]},
+    {"id": "c-aparoksha-anubhava", "label": "aparoksha anubhava", "gloss": "Direct, unmediated experience as opposed to intellectual conviction.", "cue_range": [482, 486]},
+    {"id": "c-akartritva", "label": "Akarthritva", "gloss": "Non-doership of the self amid all activity.", "cue_range": [140, 142]},
+    {"id": "c-adhyasa", "label": "adyasa", "gloss": "Superimposition of doership on the non-doer self.", "cue_range": [200, 202]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The witness that illumines action without acting.", "cue_range": [214, 216]},
+    {"id": "c-paramarthika", "label": "paramarthika", "gloss": "The ultimate standpoint, from which the Atman is akarta.", "cue_range": [222, 228]},
+    {"id": "c-vyavaharika", "label": "vyavaharika", "gloss": "The empirical standpoint at which body, mind and intellect act.", "cue_range": [222, 228]},
+    {"id": "c-nivritti", "label": "nirvarti", "gloss": "Withdrawal from action, mistaken for liberation.", "cue_range": [293, 296]},
+    {"id": "c-buddhiman", "label": "Buddhiman", "gloss": "The truly intelligent one whose discriminating understanding sees the double inversion.", "cue_range": [316, 318]},
+    {"id": "c-yukta", "label": "yukta", "gloss": "Established in yoga; integrated knowledge and action.", "cue_range": [369, 372]},
+    {"id": "c-kritsna-karmakrit", "label": "Krishna Karmakrit", "gloss": "Performer of all actions in totality while knowing oneself as non-doer.", "cue_range": [99, 100]},
+    {"id": "c-jivanmukta", "label": "Jeevan Mukta", "gloss": "One liberated while living, acting through prarabdha without doership.", "cue_range": [431, 432]},
+    {"id": "c-prarabdha", "label": "Prarabdha", "gloss": "Karma already in motion that drives the body until it falls.", "cue_range": [440, 441]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Verses 16 and 17, the deep way of karma] --> B[Verse 18, double inversion]\n  B --> C[Pashyed, direct seeing not argument]\n  C --> D[Akarma in karma, self as non doer within action]\n  C --> E[Karma in akarma, gunas and ego act in stillness]\n  D --> F[Buddhiman and Yukta, the true knower]\n  E --> F\n  F --> G[Krishna Karmakrit, complete doer yet akarta]\n  G --> H[Two levels, paramarthika and vyavaharika]\n  H --> I[Jeevan mukta, integrated in action]\n  I --> J[Next, verse 19 and the bhashya]\n  J --> K[Q and A, both inversions in one witnessing frame]"
+  },
+  "gaps": [
+    {"cue_range": [20, 20], "note": "Opening invocation is garbled in the transcript; not reconstructed."},
+    {"cue_range": [69, 77], "note": "Shankaracharya's introductory Sanskrit and the verse recitation are garbled ASR; only the teacher's English gloss is summarised."},
+    {"cue_range": [580, 581], "note": "Verse range for the coming yajna section is garbled (a number like 2033)."},
+    {"cue_range": [724, 731], "note": "Overlapping crosstalk between teacher and participant about levels of witness; only the gist is summarised."}
+  ]
+}

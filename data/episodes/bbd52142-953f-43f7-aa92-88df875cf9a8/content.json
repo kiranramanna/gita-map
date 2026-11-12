@@ -1,0 +1,56 @@
+{
+  "schema": "episode-content/v1", "guid": "bbd52142-953f-43f7-aa92-88df875cf9a8", "title": "Ch05-02-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "5f59a80ebf4e5838cc621d880e477dc1150c8e1c8c499f0ab6c3052e730e7a45", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verses 1 to 3", "verified": false},
+  "summary": {"text": "Arjuna asks for a definite choice between renunciation and karma-yoga. The teacher relates the question to steadiness amid worldly responsibilities, not withdrawal from the battlefield. Karma-yoga is preferred to premature external renunciation because it prepares the instrument; knowledge-established renunciation is not the inferior alternative. The perpetual renunciate lacks craving and aversion because the self is full and non-separate. Questions reject ranking household life over monastic settings, distinguish provisional eligibility from ultimate reality, and redirect an imported instrumentality phrase to its own context. The closing substantive exchange links concern for all beings with relinquishing otherness in everyday action.", "cue_ranges": [[21, 408], [410, 615], [668, 847], [849, 927], [935, 986]]},
+  "segments": [
+    {"id": "s01", "heading": "Arjuna asks for a definite practical direction", "cue_range": [21, 103], "shloka_refs": [{"ref": "BG 5.1", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "Renunciation and performance of action seem competing prescriptions. Arjuna asks which is appropriate for him, including a request that the answer leave no uncertainty.", "cue_range": [21, 67]},
+      {"kind": "paraphrase", "text": "Karma-yoga here includes inward disciplines performed as preparation, not merely ritual or household duties. The issue is how to proceed, not which label sounds higher.", "cue_range": [68, 103]}
+    ]},
+    {"id": "s02", "heading": "Steadiness matters in the midst of responsibility", "cue_range": [104, 229], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher asks why battlefield instruction concerns liberation rather than military technique. Arjuna seeks the steady understanding needed to face outcomes without being destabilized.", "cue_range": [104, 170]},
+      {"kind": "paraphrase", "text": "The listener likewise studies amid family and financial concerns. Preparation of the inner instrument and knowledge-established steadiness explain the dialogue's relevance rather than replacing practical life.", "cue_range": [171, 229]}
+    ]},
+    {"id": "s03", "heading": "Prefer preparation to premature outer renunciation", "cue_range": [230, 408], "shloka_refs": [{"ref": "BG 5.2", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "The superiority of karma-yoga concerns a seeker whose attachment and mine-sense remain. It does not demote renunciation that follows actual knowledge of non-doership.", "cue_range": [230, 320]},
+      {"kind": "paraphrase", "text": "Purification prepares recognition but cannot manufacture Brahman, which is not an effect within causation. Both properly completed approaches concern the highest good; mere outward abandonment is the weaker preparation.", "cue_range": [321, 408]}
+    ]},
+    {"id": "s04", "heading": "The perpetual renunciate lacks craving and aversion", "cue_range": [409, 531], "shloka_refs": [{"ref": "BG 5.3", "basis": "stated-in-transcript", "cue_range": [410, 420]}], "blocks": [
+      {"kind": "paraphrase", "text": "The defining mark is inward freedom from attraction and rejection, not robe, hairstyle or list of prohibited contacts. Nitya refers to establishment, not incessantly repeating an act of renunciation.", "cue_range": [410, 490]},
+      {"kind": "paraphrase", "text": "Aversion presupposes a threatened separate self, while craving presupposes incompleteness. Recognizing fullness and non-separateness undermines both.", "cue_range": [491, 531]}
+    ]},
+    {"id": "s05", "heading": "Freedom from dualities is not numbness", "cue_range": [532, 667], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Heat, cold and other pairs may be experienced, but the witness is not their captive. Effortless release means removing superimposition, not producing an otherwise absent free self.", "cue_range": [532, 605]},
+      {"kind": "paraphrase", "text": "The commentary describes one still engaged in activity as a renunciate through this absence of hatred and craving. An audio interruption then delays the discussion.", "cue_range": [606, 667]}
+    ]},
+    {"id": "s06", "heading": "Eligibility is not a ranking of social settings", "cue_range": [668, 847], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Participants ask how to combine the dialogue, commentary and personal readiness. The teacher cautions that outward signs cannot measure establishment and that seekers should not be disparaged.", "cue_range": [668, 742]},
+      {"kind": "quote", "text": "No, it is not like that.", "cue_range": [761, 761]},
+      {"kind": "paraphrase", "text": "He rejects the claim that household life is inherently more fertile than monastic life. Inner attitude matters. Provisional gradations can guide practice but are not ultimate divisions in reality.", "cue_range": [748, 847]}
+    ]},
+    {"id": "s07", "heading": "Do not import a different instrumentality context", "cue_range": [848, 934], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant asks about being merely an instrument. The teacher says that wording belongs to a later, different context and returns to freedom from dualities as the present goal.", "cue_range": [849, 882]},
+      {"kind": "unresolved", "text": "The participant's second question is not clearly articulated. He later reports that recollection of the teaching has clarified his own uncertainty; no additional doctrine is inferred.", "cue_range": [883, 927]}
+    ]},
+    {"id": "s08", "heading": "Everyday action and the welfare of all", "cue_range": [935, 1008], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Asked how to move from self-concern toward universal welfare, the teacher suggests noticing whether an action strengthens otherness. Seeing common existence-awareness requires understanding oneself, not merely adopting an intellectual slogan.", "cue_range": [935, 980]},
+      {"kind": "quote", "text": "because you are everyone.", "cue_range": [983, 983]},
+      {"kind": "unresolved", "text": "A brief closing question assigns chapter names and credits Vidyaranya. This attribution is not independently established here and is not used as verified metadata.", "cue_range": [988, 993]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-mamata", "label": "Mamata", "gloss": "The mine-sense tying identity to bodily relations and activity.", "cue_range": [282, 300]},
+    {"id": "c-karma-yoga", "label": "Karma Yoga", "gloss": "The effective preparation contrasted with premature external renunciation.", "cue_range": [320, 346]},
+    {"id": "c-nitya-sanyasi", "label": "Nitya sanyasi", "gloss": "The inwardly established renunciate without craving or aversion.", "cue_range": [463, 490]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The witness beyond the binding force of dualities.", "cue_range": [536, 550]},
+    {"id": "c-adhyasa", "label": "Adyasa", "gloss": "Superimposition removed rather than freedom newly produced.", "cue_range": [593, 605]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Arjuna requests one definite direction] --> B[Steadiness prepares responsible action]\n B --> C[Karma-yoga over premature outer renunciation]\n C --> D[Knowledge removes the mine-sense]\n D --> E[No craving or aversion]\n E --> F[Effortless freedom amid dualities]\n F --> G[Readiness is inward not social rank]\n G --> H[Daily action loosens otherness]"},
+  "gaps": [
+    {"cue_range": [19, 20], "note": "Invocation repeated and incomplete."},
+    {"cue_range": [279, 280], "note": "Apparent ASR reversal of non-doership; nearby explicit statements support the paraphrase."},
+    {"cue_range": [624, 667], "note": "Muting and connection troubleshooting; participants confirm the main lecture was audible but the closing was cut."},
+    {"cue_range": [883, 927], "note": "Fragmented participant references to an earlier session cannot be resolved reliably."}
+  ]
+}

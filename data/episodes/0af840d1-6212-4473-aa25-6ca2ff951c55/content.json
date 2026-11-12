@@ -1,0 +1,57 @@
+{
+  "schema": "episode-content/v1", "guid": "0af840d1-6212-4473-aa25-6ca2ff951c55", "title": "Ch05-08-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "2b0b2d33901845e526ddbaf43e60cd04a8ec24524439251a993bf5c619808814", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verse 13", "verified": false},
+  "summary": {"text": "The nine-gated city illustrates the body's continued functioning without making its indwelling self either direct agent or causal controller. Mental renunciation includes appropriation of waking, dream and sleep, not merely stopping selected outward deeds. Effortless abidance is explained as self-contained being rather than an entity sitting elsewhere. The commentary distinguishes bodily identification from knowing the body as an instrument and says non-agency belongs to self-nature, not an effect produced by renunciation. Questions ask when bondage began; dream and wave analogies shift the answer toward apparent identification rather than real alteration of Atma. Sleep alone is not enlightenment; recognition must correct waking identification.", "cue_ranges": [[9, 280], [281, 679], [684, 888]]},
+  "segments": [
+    {"id": "s01", "heading": "Mental renunciation includes the three state-identities", "cue_range": [9, 158], "shloka_refs": [{"ref": "BG 5.13", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher asks how stable happiness is possible when bodily pain and aging continue. Renouncing all actions cannot mean stopping necessary bodily functions.", "cue_range": [9, 99]},
+      {"kind": "paraphrase", "text": "The all includes the waking claim to dreaming and sleeping, not only outward deeds. Mental renunciation concerns those assumed identities and their ownership.", "cue_range": [100, 158]}
+    ]},
+    {"id": "s02", "heading": "Abidance is not an entity located elsewhere", "cue_range": [159, 280], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher analyzes abides as self-contained being, not effortful motion toward an object. Even a private witness relating to separate witnessed objects is treated as provisional.", "cue_range": [159, 220]},
+      {"kind": "paraphrase", "text": "Happiness and mastery are connected with the same presence, not a controller possessing happiness. Mastery is recognition through self-knowledge rather than violent suppression of instruments.", "cue_range": [221, 280]}
+    ]},
+    {"id": "s03", "heading": "The city's activity is not the sovereign's deed", "cue_range": [281, 358], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Nine bodily openings are compared with city-gates through which transactions occur. The city remains active while its sovereign illustrates the witness rather than the merchant or soldier.", "cue_range": [281, 320]},
+      {"kind": "paraphrase", "text": "Dehi is distinguished from the body it appears to inhabit. This is a corrective to bodily identification, not a claim that a little physical self is another organ.", "cue_range": [321, 358]}
+    ]},
+    {"id": "s04", "heading": "Both direct and controlling agency are denied", "cue_range": [359, 447], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The second negation addresses the thought that Atma at least commands bodily operations. Neither pushing an object nor indirectly prompting activity supplies the intended relation.", "cue_range": [359, 404]},
+      {"kind": "paraphrase", "text": "The teacher assigns operations to Prakriti's gunas and denies a separate self-controller. Whether Prakriti is itself separate is deferred to the next verse.", "cue_range": [405, 447]}
+    ]},
+    {"id": "s05", "heading": "Non-agency is recognized, not made by a process", "cue_range": [448, 540], "shloka_refs": [{"ref": "BG 5.13", "basis": "stated-in-transcript", "cue_range": [489, 495]}], "blocks": [
+      {"kind": "paraphrase", "text": "The city analogy is extended through gross, subtle and causal bodies while Atma is distinguished from all three. The chapter recap positions this as a turn toward the absolute standpoint.", "cue_range": [448, 495]},
+      {"kind": "quote", "text": "Not that we achieve.", "cue_range": [534, 534]},
+      {"kind": "paraphrase", "text": "Mental relinquishment reveals that direct and causal agency never belonged to the self. It does not manufacture an actionless nature that was previously missing.", "cue_range": [496, 540]}
+    ]},
+    {"id": "s06", "heading": "The commentary distinguishes the body from its knower", "cue_range": [541, 679], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary explains renunciation through discrimination. An objection says everyone already dwells in a body; the reply distinguishes bodily identity from knowing the body as an instrument.", "cue_range": [541, 622]},
+      {"kind": "paraphrase", "text": "A second objection asks if agency disappears through practice or never belongs to Atma. The reply chooses inherent non-agency, with unchanging self-nature as support; the next verse is previewed.", "cue_range": [623, 679]}
+    ]},
+    {"id": "s07", "heading": "Apparent bondage does not alter consciousness", "cue_range": [680, 851], "shloka_refs": [], "blocks": [
+      {"kind": "quote", "text": "It never happened.", "cue_range": [696, 696]},
+      {"kind": "paraphrase", "text": "Asked when binding began, the teacher denies a real alteration of Atma. Dreamer and wave analogies distinguish appearance and identification from change in their conscious ground.", "cue_range": [684, 770]},
+      {"kind": "paraphrase", "text": "Deep sleep does not itself confer knowledge. The waking body's assumed identity must be corrected while awake, even though state-appearances can continue without renewed appropriation.", "cue_range": [771, 851]}
+    ]},
+    {"id": "s08", "heading": "The known body-mind cannot be the knowing self", "cue_range": [852, 907], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The final question revisits abidance beyond a separate witness-role. The teacher points to body, thoughts and feelings as known objects, using negation to loosen mistaken identity.", "cue_range": [853, 876]},
+      {"kind": "paraphrase", "text": "Where direct and causal ownership are relinquished, the practitioner has no separate agent left to surrender. The next class will examine the nature underlying the appearances.", "cue_range": [877, 907]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-sarva-karmani", "label": "Sarva Karmani", "gloss": "All appropriated activity, including the three state-identities.", "cue_range": [134, 158]},
+    {"id": "c-dehi", "label": "Dehi", "gloss": "The embodied self distinguished from the body.", "cue_range": [64, 78]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "Witnessing used to distinguish self from its instruments.", "cue_range": [207, 220]},
+    {"id": "c-prakriti", "label": "Prakriti", "gloss": "The nature whose gunas account for the instruments' operations.", "cue_range": [417, 437]},
+    {"id": "c-neti-neti", "label": "neti Neti", "gloss": "Negation of what is known as the knowing self.", "cue_range": [864, 876]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[All state-related ownership examined] --> B[Self-contained effortless abidance]\n B --> C[Body likened to nine-gated city]\n C --> D[Self neither acts nor commands action]\n D --> E[Non-agency recognized as nature]\n E --> F[Commentary separates body and knower]\n F --> G[Apparent bondage is not an altered Atma]\n G --> H[Waking identification corrected through negation]"},
+  "gaps": [
+    {"cue_range": [4, 8], "note": "Invocation is incomplete."},
+    {"cue_range": [100, 158], "note": "Many one-word cues and false starts interrupt syntax; English progression is recoverable without reconstructing Sanskrit."},
+    {"cue_range": [568, 577], "note": "Gate-list commentary is garbled; earlier clear English list supports the city analogy."},
+    {"cue_range": [619, 622], "note": "A local negation conflicts with the surrounding point of the qualification; not quoted as a resolved sentence."},
+    {"cue_range": [668, 679], "note": "Following verse is previewed, with full discussion explicitly deferred."}
+  ]
+}

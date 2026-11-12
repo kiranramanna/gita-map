@@ -1,0 +1,769 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "4217f886-d35c-47ed-851b-24574e05a435",
+  "title": "Ch04-07-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "b79bb5548d60eede50482380591c4ce245c3036ac88ed15d7e749382d81fe891",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 10",
+    "verified": false
+  },
+  "summary": {
+    "text": "After recalling that 4.9 promised freedom from rebirth to one who knows the Lord's birth and action in truth, the teacher takes up verse 10, which both testifies that many earlier seekers reached this and prescribes how. Following Shankaracharya, he reads the order of qualifications as the Advaita sadhana sequence: first raga, bhaya and krodha, the projecting vikshepa of avidya, must fully depart; then manmaya and mam upashrita describe total saturation in and refuge in Parameshwara; then jnana tapas, knowledge itself as austerity through shravana, manana and nididhyasana, purifies the antahkarana of avarana. The result, madbhava, is not resemblance or proximity to the Lord but the unveiling of one's own swarupa, closing the chapter's opening arc with historical confirmation.",
+    "cue_ranges": [
+      [
+        17,
+        80
+      ],
+      [
+        172,
+        226
+      ],
+      [
+        227,
+        332
+      ],
+      [
+        333,
+        430
+      ],
+      [
+        431,
+        550
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Opening, invocation and recap of verse 4.9",
+      "cue_range": [
+        1,
+        24
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.9",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            17,
+            24
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Satsang, points to replays on Clubhouse, the Advaita Retold YouTube channel and podcast apps, mentions a book based on the teacher's approach, and explains that chat and hand raising stay closed until the class ends.",
+          "cue_range": [
+            1,
+            14
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "After an invocation, the teacher recalls the previous class: the Lord's birth and deeds are a divine manifestation through Maya rather than ordinary empirical events, and whoever grasps this in truth escapes rebirth and reaches the Lord, the fruit declared in 4.9.",
+          "cue_range": [
+            15,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Verse 10: testimony and prescription, sadhana order",
+      "cue_range": [
+        25,
+        80
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.10",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            28,
+            31
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A question follows from 4.9: is this knowledge in truth something new, has anyone reached it before, and what conditions make it possible? The tenth verse answers. The teacher glosses its words: freedom from raga, bhaya and krodha as three forms of avidya; being filled with the Lord; taking refuge in him; purification by the austerity of knowledge; and arrival at his state.",
+          "cue_range": [
+            25,
+            58
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "So the words just operates both at corroborating what is what has been said till now and also prescribing what must be done.",
+          "cue_range": [
+            64,
+            66
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The verse thus does double duty: it offers historical testimony that many predecessors gained moksha this way, and it lays down the required sadhanas. For Shankaracharya the order matters: first removing raga, bhaya and krodha, which are vikshepa, a consequence of avidya; then jnana tapas removing avarana, the covering aspect; the result is arrival at the Lord's swarupa, which is one's own.",
+          "cue_range": [
+            59,
+            80
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Freedom from attachment, anger and fear",
+      "cue_range": [
+        81,
+        171
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Vita means that from which something has gone. Raga arises when senses meet objects and a mind gripped by ignorance mistakes a passing satisfaction for lasting happiness; the pleasure fades and can turn to aversion. Freedom from it is intellectual, not forced restraint of the senses: understanding that senses move among their objects lets contact happen without entanglement, which is why jnana tapas matters.",
+          "cue_range": [
+            81,
+            113
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Krodha comes when a desire or expectation is blocked, and it can linger like a bodily disturbance that makes anything a trigger. The teacher advises watching the pressure build, finding its cause by discrimination, and asking whether it can be fixed: if so, work on it; if not, anger will not fix it. Practice reduces how often anger overwhelms.",
+          "cue_range": [
+            114,
+            145
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "ultimately you will win over that disease called anger. I would call it as a disease.",
+          "cue_range": [
+            145,
+            146
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Fear arises from a sense of separateness; we fear only what seems other than us. It departs permanently only through knowledge that dissolves duality: names and forms serve transactions, while the reality behind them is the same existence-awareness, Sachidananda, one's own Atma. Only when all three are handled through understanding do they truly leave.",
+          "cue_range": [
+            146,
+            171
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The ASR text says fear was examined at length in a source rendered as Type 3 open assets, and quotes a Sanskrit line about fear arising from a second. The named text is garbled; it may be the Taittiriya, which the teacher names later at cue 240, but the transcript does not confirm this or identify the quoted line's source.",
+          "cue_range": [
+            148,
+            153
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Shankara: the triad as vikshepa; vita, not weakened",
+      "cue_range": [
+        172,
+        226
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 3.37",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            202,
+            203
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Per Shankaracharya, raga, bhaya and krodha enumerate the projecting power, vikshepa. Raga is the chitta moving outward to objects, rooted in identification with the body and a feeling of incompleteness. Bhaya is the recoil inward from whatever threatens the ego, its deepest form being fear of death, which follows from taking oneself to be the body-mind-intellect. Krodha is the disturbance when desire is obstructed.",
+          "cue_range": [
+            172,
+            203
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Avidya links all three. If the Atman were known as eternal, imperishable and complete, nothing external could add to it, nothing could threaten it, and nothing would remain unfulfilled. Their full departure signals that avidya has been greatly thinned and the inner instrument purified, preparing the ground for the knowledge to come.",
+          "cue_range": [
+            204,
+            219
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Read the big Vita not heena. That is Vita is fully departed.",
+          "cue_range": [
+            220,
+            220
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The three are not merely weakened but gone entirely; that completeness belongs to the liberated person, while for the seeker it is a gradual process until full freedom.",
+          "cue_range": [
+            221,
+            226
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher cites the 37th verse of the previous chapter for anger being born from desire; the ASR rendering of the Sanskrit phrase is not verified against the text.",
+          "cue_range": [
+            202,
+            203
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Manmaya and mam upashrita: pervaded by and refuged in Me",
+      "cue_range": [
+        227,
+        332
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Manmaya uses the suffix mayat, meaning made of or pervaded by, as in the Taittiriya sheaths annamaya, pranamaya and anandamaya. Added to 'me', it says the seeker's whole being is the Lord: not merely devoted to him or fixing the mind on him, but non-different from him. The Lord becomes the constitutive ground rather than an external object of devotion.",
+          "cue_range": [
+            227,
+            255
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "But Manmaya I am their very substance or they are non different from me.",
+          "cue_range": [
+            252,
+            253
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Upashrita means having taken complete, unreserved refuge, the epitome of saranagati. True surrender requires that duality itself dissolve; any trace of separation shows an ego clinging to individuality. The two adjectives describe the many: one the inner instrument saturated with Parameshwara, the other a willed orientation of the whole being toward him, together a full Ishwara pranidhana.",
+          "cue_range": [
+            255,
+            298
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya treats mayat as the strongest available term for identity through pervasion. For the teacher, manmaya stands at the edge of nirvikalpa samadhi, in which Brahman is no longer meditated on as an object but is the medium of awareness itself. Mam upashrita implies complete vairagya, giving up reliance on wealth, relationships, ritual or position, and expresses the most intense mumukshutva.",
+          "cue_range": [
+            299,
+            325
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher anticipates later verses (the Brahmarpanam mantra and a line on ananya, non-separation) without giving verse numbers, and says Shankaracharya quotes a line from what the ASR renders as Muntagopanishad about the Atman not being gained by the weak; the Sanskrit is garbled and no verse is cited.",
+          "cue_range": [
+            285,
+            332
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Jnana tapas: knowledge as austerity that purifies",
+      "cue_range": [
+        333,
+        430
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.37",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            410,
+            414
+          ]
+        },
+        {
+          "ref": "BG 4.38",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            424,
+            430
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya prefers to read jnana tapas as knowledge being itself the austerity, rather than an austerity with knowledge as content. This displaces Purva Mimamsa penances such as krcchra and chandrayana and the notion of physical austerity; Advaita makes the steady burning away of avidya through shravana, manana and nididhyasana the supreme tapas.",
+          "cue_range": [
+            333,
+            351
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The knowledge itself is the austerity,",
+          "cue_range": [
+            343,
+            344
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Puta means cleansed: the inner instrument purified of the avarana built from accumulated attachment, aversion and delusion. Purification precedes arrival at madbhava, giving a chain from jnana tapas to purity to attaining the Lord's state.",
+          "cue_range": [
+            352,
+            370
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shravana is repeated hearing of the Upanishadic great sayings from a qualified guru, with shraddha silencing inner and outer objections. Manana is sustained reasoning that confirms scripture against every logical doubt. Nididhyasana is unbroken dwelling in the self until direct recognition. Each is tapas, which means burning, like fire refining gold.",
+          "cue_range": [
+            370,
+            409
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher links this to two later verses of the chapter: verse 37, where the fire of knowledge reduces all three kinds of karma to ash so no doership remains, and verse 38, where nothing is said to purify like knowledge. Verse 10 anticipates both.",
+          "cue_range": [
+            410,
+            430
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Madbhava: unveiling one's own nature, not resemblance",
+      "cue_range": [
+        431,
+        481
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.9",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            470,
+            477
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Madbhava is the Lord's own being, his swarupa as sachidananda, attributeless, imperishable and eternal; agata means having fully arrived, a complete and not provisional attainment by the many predecessors.",
+          "cue_range": [
+            431,
+            449
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya separates madbhava from sarupya and samipya, the similarity and nearness sought in saguna devotion, which keep jiva and Lord distinct. Here one recognises oneself as the Lord's very nature. Advaita prefers avirbhava, manifestation, over prapti, reaching, since nothing new is acquired.",
+          "cue_range": [
+            450,
+            470
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "which is the revelation of what one always already was, is not a new acquisition or attainment,",
+          "cue_range": [
+            467,
+            468
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Madbhava agata restates the fruit of the previous verse, attaining Me; what was said there to the listener is here told as testimony about others, and that consistency shows the result is real rather than theoretical.",
+          "cue_range": [
+            470,
+            481
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Sadhana sequence and the arc of verses one to ten",
+      "cue_range": [
+        482,
+        550
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.1",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            517,
+            521
+          ]
+        },
+        {
+          "ref": "BG 4.3",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            523,
+            524
+          ]
+        },
+        {
+          "ref": "BG 4.6-8",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            525,
+            527
+          ]
+        },
+        {
+          "ref": "BG 4.10",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            529,
+            532
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The method runs in order: freedom from the three leads to manmaya and total refuge; that recognition must be made lasting by jnana tapas, after which purification and merging into one's nature follow. Vikshepa is quietened through the sixfold disciplines such as shama and dama, part of the fourfold qualification; then shraddha and mumukshutva orient the mind to Brahman; then avarana is destroyed by shravana, manana and nididhyasana.",
+          "cue_range": [
+            482,
+            511
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The final recognition is immediate, self-luminous knowledge of oneself as Brahman, an unveiling of what was always present. With it the chapter's opening arc is complete: teaching given to Vivasvan and lost over time, its rediscovery for Arjuna, the Lord's manifestation in 4.6 to 8, the promised fruit in the previous verse, and now confirmation that many have attained it.",
+          "cue_range": [
+            512,
+            534
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The teaching works and the path is a proven path and the Pala or the fruit of this teaching is real.",
+          "cue_range": [
+            535,
+            536
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "These ten verses form a self-contained section, the foundation for the karma yoga and knowledge discussed from verse 11 onward: the self-manifesting Lord is identical with the inner self of every seeker, who through jnana tapas recognises never having been different from Brahman.",
+          "cue_range": [
+            537,
+            550
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "At cue 519 the ASR says 'In the 1st chapter' while describing the teaching given to Vivasvan; the surrounding context points to the first verse of this chapter, but the transcript wording is unclear.",
+          "cue_range": [
+            517,
+            521
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Reading Shankara's commentary; preview of verse 11",
+      "cue_range": [
+        551,
+        595
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.10",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            587,
+            591
+          ]
+        },
+        {
+          "ref": "BG 4.11",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            592,
+            595
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Since the content is already covered, the teacher reads and translates the commentary: those rid of attachment, fear and anger; absorbed in Me, knowers of Brahman seeing no difference from the Lord; resting in Me alone, established only in knowledge; purified by knowledge that is itself austerity about the Supreme Self; they reach My state, which is liberation.",
+          "cue_range": [
+            551,
+            573
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The phrase about the austerity of knowledge signals that steadiness in knowledge needs no other austerity. The teacher closes with a summary of verse 10, then recites verse 11 and defers it to the next day.",
+          "cue_range": [
+            573,
+            595
+          ]
+        },
+        {
+          "kind": "inferred",
+          "text": "Not stated by the teacher: his advice to handle anger and attachment through understanding rather than suppression foreshadows his later point that knowledge itself is the austerity, so the practical and doctrinal halves of the lecture share one method.",
+          "cue_range": [
+            575,
+            584
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Host closing; no questions raised",
+      "cue_range": [
+        596,
+        615
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host opens chat and hand raising, but no follow-up questions come, so there is no question-and-answer section.",
+          "cue_range": [
+            596,
+            599
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He announces the next class, a weekend open discussion on Advaita where the teacher will take questions, and repeats where replays and the book can be found. The teacher says verse 11 will follow tomorrow.",
+          "cue_range": [
+            600,
+            615
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-tattva-jnana",
+      "label": "tattvat nyana",
+      "gloss": "knowing the Lord's birth and action in their true nature, the knowledge whose fruit 4.9 declares",
+      "cue_range": [
+        23,
+        27
+      ]
+    },
+    {
+      "id": "c-avidya",
+      "label": "avidya",
+      "gloss": "ignorance; its two aspects are projection and covering",
+      "cue_range": [
+        32,
+        76
+      ]
+    },
+    {
+      "id": "c-raga",
+      "label": "raga",
+      "gloss": "attachment; the mind moving outward to objects for a sense of completion",
+      "cue_range": [
+        85,
+        113
+      ]
+    },
+    {
+      "id": "c-krodha",
+      "label": "kroda",
+      "gloss": "anger; the reaction when desire or expectation is blocked",
+      "cue_range": [
+        113,
+        145
+      ]
+    },
+    {
+      "id": "c-bhaya",
+      "label": "bhaya",
+      "gloss": "fear; arises from seeing something as separate, deepest as fear of death",
+      "cue_range": [
+        146,
+        171
+      ]
+    },
+    {
+      "id": "c-vikshepa",
+      "label": "Vikshepa",
+      "gloss": "the projecting power of avidya, enumerated as raga, bhaya and krodha",
+      "cue_range": [
+        172,
+        203
+      ]
+    },
+    {
+      "id": "c-avarana",
+      "label": "Avarana",
+      "gloss": "the covering aspect of avidya that conceals the truth, removed by jnana tapas",
+      "cue_range": [
+        73,
+        76
+      ]
+    },
+    {
+      "id": "c-manmaya",
+      "label": "Manmaya",
+      "gloss": "wholly pervaded by the Lord; non-different from him",
+      "cue_range": [
+        227,
+        311
+      ]
+    },
+    {
+      "id": "c-upashrita",
+      "label": "Upasrita",
+      "gloss": "having taken complete, unreserved refuge",
+      "cue_range": [
+        255,
+        261
+      ]
+    },
+    {
+      "id": "c-sharanagati",
+      "label": "Saranagati",
+      "gloss": "surrender in which duality itself dissolves",
+      "cue_range": [
+        261,
+        266
+      ]
+    },
+    {
+      "id": "c-mumukshutva",
+      "label": "Mumukshutwa",
+      "gloss": "intense longing for liberation",
+      "cue_range": [
+        322,
+        324
+      ]
+    },
+    {
+      "id": "c-jnana-tapas",
+      "label": "Nyana Tapasa",
+      "gloss": "knowledge itself as the austerity that burns away avidya",
+      "cue_range": [
+        54,
+        56
+      ]
+    },
+    {
+      "id": "c-shravana",
+      "label": "Shravana",
+      "gloss": "repeated hearing of the teaching from a qualified guru with faith",
+      "cue_range": [
+        370,
+        388
+      ]
+    },
+    {
+      "id": "c-manana",
+      "label": "Manana",
+      "gloss": "sustained reasoning that removes all doubt",
+      "cue_range": [
+        389,
+        396
+      ]
+    },
+    {
+      "id": "c-nididhyasana",
+      "label": "Nidhidhiyasana",
+      "gloss": "unbroken dwelling in the self until direct recognition",
+      "cue_range": [
+        397,
+        409
+      ]
+    },
+    {
+      "id": "c-madbhava",
+      "label": "Madbhava",
+      "gloss": "the Lord's own nature, recognised as one's own swarupa",
+      "cue_range": [
+        431,
+        472
+      ]
+    },
+    {
+      "id": "c-avirbhava",
+      "label": "Avir bhava",
+      "gloss": "manifestation of what always was, as opposed to new attainment",
+      "cue_range": [
+        463,
+        469
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Recap of 4.9: knowing the Lord in truth ends rebirth] --> B[Verse 10 as testimony and prescription]\n  B --> C[Freedom from raga bhaya krodha]\n  C --> D[Shankara: triad is vikshepa of avidya]\n  D --> E[Manmaya and total refuge in the Lord]\n  E --> F[Jnana tapas: hearing reflection meditation]\n  F --> G[Purification removes avarana]\n  G --> H[Madbhava: unveiling ones own nature]\n  H --> I[Arc of verses 1 to 10 confirmed]\n  I --> J[Commentary read; verse 11 next]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        16,
+        17
+      ],
+      "note": "Invocation in Sanskrit; ASR rendering garbled, not summarised."
+    },
+    {
+      "cue_range": [
+        22,
+        24
+      ],
+      "note": "Sanskrit commentary phrases on 4.9 rendered garbled by ASR; only the gist (fruit of the knowledge) is summarised."
+    },
+    {
+      "cue_range": [
+        29,
+        31
+      ],
+      "note": "Recitation of verse 10; ASR Sanskrit garbled and not reproduced."
+    },
+    {
+      "cue_range": [
+        493,
+        495
+      ],
+      "note": "Garbled stretch (e.g. 'Mysore So 2 activities') about removing vikshepa; only the clear gist is summarised."
+    },
+    {
+      "cue_range": [
+        554,
+        574
+      ],
+      "note": "Sanskrit commentary text read aloud; ASR garbled. Only the teacher's English translation is summarised."
+    },
+    {
+      "cue_range": [
+        592,
+        594
+      ],
+      "note": "Recitation of verse 11; ASR Sanskrit garbled and not reproduced."
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "2c48e9c6-2578-4fe7-9dc3-96eb53bdf554",
+  "title": "Ch04-17-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "2c8db4a11a77b7b2af308c20ed51e02141bbcb9a5aee509300698ceb55f127a1",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verses 19 & 20",
+    "verified": false
+  },
+  "summary": {
+    "text": "Binduji finishes the 19th verse: Nyanagni, the fire of knowledge, burns, purifies and destroys the seed of karma, so sanjita karma is consumed, no new karma arises and prarabdha only appears to continue. The awakened ones (Buddha) call such a person Pandita; only a Nyani recognises a Nyani, unlike the mithya pandita who merely knows shastra. Verse 19 bridges karma vichara to the coming Yagna section. Following Shankara's prelude, the 20th verse is introduced: having abandoned attachment to karmaphala, nithyatripta and nirashreya, the Pandita, though fully engaged in action, does nothing at all. The paradox is resolved through the vyavaharika and paramarthika levels, illustrated by sun, sky and actor analogies, and read as description, not prescription.",
+    "cue_ranges": [[20, 99], [100, 163], [216, 249], [318, 346], [347, 493], [494, 626]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome and invocation",
+      "cue_range": [1, 19],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita Vedanta satsang on the Gita, notes the series is in Chapter 4, points to replays on Clubhouse, YouTube and podcast platforms, mentions a related book, and explains that chat and hand raising stay closed during the class.",
+          "cue_range": [1, 15]
+        },
+        {
+          "kind": "unresolved",
+          "text": "Binduji opens with an invocation to Shankara; the recited Sanskrit is garbled in the transcript and is not reconstructed here.",
+          "cue_range": [16, 19]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap: three powers of the fire of knowledge",
+      "cue_range": [20, 99],
+      "shloka_refs": [
+        {"ref": "BG 4.37", "basis": "stated-in-transcript", "cue_range": [66, 70]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Resuming the phrase about one whose karma is burnt by Nyanagni, the teacher lists three properties of fire. Burning leaves nothing of the fuel; even empirical terms like Nirguna, Saguna, Ishwara, Brahman are firewood consumed in direct knowledge. Purifying removes avidya in the viveka and vairagya stage. Seed-destroying leaves the body like a burnt seed without volition.",
+          "cue_range": [20, 62]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He links this to the 37th verse, where knowledge reduces all karmas to ash as a kindled fire does fuel, and maps the three powers onto moksha: accumulated karma is destroyed, the antahkarana is purified, and the karma seed loses its power to sprout into rebirth.",
+          "cue_range": [63, 81]
+        },
+        {
+          "kind": "quote",
+          "text": "Similarly that nyanagdi dagda karma cannot produce punarjanma.",
+          "cue_range": [78, 78]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "On the three kinds of karma: sanjita is incinerated, new karma is not generated because the sense of doership is gone, and prarabdha keeps running only apparently, seen by others, while the knower no longer associates with the body.",
+          "cue_range": [82, 99]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Tam ahu panditam Buddha: the awakened recognise the Pandita",
+      "cue_range": [100, 163],
+      "shloka_refs": [
+        {"ref": "BG 4.19", "basis": "uploader-claim-only"},
+        {"ref": "BG 5.18", "basis": "stated-in-transcript", "cue_range": [115, 121]},
+        {"ref": "BG 2.19", "basis": "stated-in-transcript", "cue_range": [156, 160]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The final quarter of the verse says the wise declare such a person Pandita. Ahu here signals a settled, perennial declaration of tradition. Pandita does not mean a scholar of shastra but someone whose knowing has transformed their very being; the teacher points to the equal vision of the Pandita in the fifth chapter.",
+          "cue_range": [100, 126]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Buddha is explained as the awakened ones, moving from ignorance to the awakened state of Atma swarupa. Because they share the same non-doership, their declaration is a testimony of equals, as one who knows gold recognises gold.",
+          "cue_range": [127, 153]
+        },
+        {
+          "kind": "quote",
+          "text": "That is why a Nyani can be known only by another Nyani,",
+          "cue_range": [147, 148]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Contrasted is the false pandita who has learnt the shastras but lacks tattva knowledge, illustrated with the second chapter verse on those who think the Self kills or is killed.",
+          "cue_range": [154, 163]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Natural dispassion, sky and Agnihotra analogies, lineage",
+      "cue_range": [164, 215],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [168, 170]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The whole verse is restated: freedom from desire and intention, karma burnt by knowledge, and recognition by the awakened. Being free of kama sankalpa is not a practised virtue but the natural result of knowing the fullness of the Atman, unlike vairagya as effortful sadhana. Only one established in knowledge is the complete karma yogi of the 18th verse.",
+          "cue_range": [164, 186]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Two analogies follow. Fire does not burn the sky, and the sky holding clouds and dust stays untouched. In the Agnihotra, as Mimamsakas hold, fire transforms rather than destroys the offering; likewise knowledge transforms action from binding sakama karma into nishkama karma without stopping action.",
+          "cue_range": [187, 205]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "For Shankara the awakened ones are the guru parampara from Ishwara through Vivasvan, Manu and Ikshvaku, transmitting recognition within the lineage.",
+          "cue_range": [206, 215]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Verse 19 as bridge to the Yagna section",
+      "cue_range": [216, 249],
+      "shloka_refs": [
+        {"ref": "BG 4.19", "basis": "stated-in-transcript", "cue_range": [218, 219]},
+        {"ref": "BG 4.23", "basis": "stated-in-transcript", "cue_range": [229, 233]},
+        {"ref": "BG 4.20", "basis": "stated-in-transcript", "cue_range": [240, 242]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "With verse 19 done, the teacher previews structure: verses 20 to 22 complete the portrait of the Pandita, then a Yagna section begins at verse 23. The fire of knowledge prefigures the Nyana Yagna, where actions rather than material offerings are poured into the fire of knowledge.",
+          "cue_range": [216, 228]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The Pandita of verse 19 is the same person as the yagna performer of verse 23, free from attachment with mind set in knowledge. Verse 19 thus links the karma enquiry of 16 to 22 with the yagna discussion that follows.",
+          "cue_range": [229, 249]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The verse ranges given for the coming sections are stated inconsistently (23 to 33, 33 onward, 37 and 47, and 23 to 2033), so the exact boundaries the teacher intends are unclear from the transcript.",
+          "cue_range": [217, 240]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Shankara's bhashya on verse 19 and prelude",
+      "cue_range": [250, 317],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Reading the bhashya: the one who sees action and inaction rightly undertakes everything free of desire and its projections; actions are mere bodily movement, done for loka sangraha if engaged, or only to sustain the body if withdrawn. The knowledge that sees action in inaction is itself the fire, burning good and bad karma alike.",
+          "cue_range": [250, 279]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara's prelude to the next verse: a knower who sees inaction in action renounces action; but if prior prarabdha keeps him in action and abandonment is impossible, he acts without attachment to action or results, purely for the world's welfare, and though acting as before he does nothing, his action being inaction.",
+          "cue_range": [280, 317]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Verse 20 introduced: the Gita's sharpest paradox",
+      "cue_range": [318, 346],
+      "shloka_refs": [
+        {"ref": "BG 4.20", "basis": "stated-in-transcript", "cue_range": [318, 320]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [335, 339]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Where verse 19 defined the Pandita, verse 20 shows how that is lived moment by moment. Its second line holds the paradox that one fully engaged in action does nothing whatever; for Shankara this is a precise paramarthika description of the jivanmukta active at the vyavahara level.",
+          "cue_range": [318, 334]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The seeing of action in inaction from the 18th verse is now stated as lived reality. Three new marks of the Pandita are introduced: abandoning attachment to karmaphala, being nithyatripta, and being nirashreya.",
+          "cue_range": [335, 346]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Word study: abandoning attachment to fruits",
+      "cue_range": [347, 417],
+      "shloka_refs": [
+        {"ref": "BG 4.20", "basis": "uploader-claim-only"}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "After reciting the verse, the teacher parses it: jettwa (having relinquished) connects to karothi; karmafala asangam is attachment to results; nithyatripta is ever satisfied; nirashreya is without external refuge; abhi pravritta is fully immersed; api means even though; naiva kinchit karothi means he does nothing at all.",
+          "cue_range": [347, 383]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Karmaphala is the anticipated result behind sakama rites such as rituals for rain or progeny; the attachment to it turns action into bondage. Abandonment here is complete and irreversible, flowing from knowledge.",
+          "cue_range": [384, 403]
+        },
+        {
+          "kind": "quote",
+          "text": "It is not a gradual vairagya or sadhana but a natural effortless non attachment",
+          "cue_range": [404, 405]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This targets a subtle cognitive clinging to anticipated results that can persist even after gross karma has thinned; it is exactly this that the fire of knowledge burns.",
+          "cue_range": [409, 417]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Nithyatripta: satisfaction grounded in the full Atman",
+      "cue_range": [418, 493],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Nithya means unbroken and is the nature of the Atman; tripta means nothing more is needed. The satisfaction is permanent not because desires were fulfilled but because avidya, the root of incompleteness that breeds new karma, has been destroyed. The Brihadaranyaka's description of one whose desire is the Atman is cited.",
+          "cue_range": [418, 444]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Paired with nirashreya, the two terms entail each other: only the eternally satisfied can be without external support, and lacking such support confirms the satisfaction is internal. The Taittiriya teaching that Brahman is rasa, obtaining which one becomes blissful, is quoted.",
+          "cue_range": [445, 481]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Sakama results such as wealth or success give only momentary satisfaction that triggers fresh desire, keeping a person in a cycle.",
+          "cue_range": [482, 491]
+        },
+        {
+          "kind": "quote",
+          "text": "Only atmat nyana produce nithyatripti, for it addresses apoornada at the root level.",
+          "cue_range": [492, 493]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Brihadaranyaka citation is rendered as 446 in the transcript; the exact section intended is not clear from the text.",
+          "cue_range": [441, 444]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Nirashreya and the force of api and naiva",
+      "cue_range": [494, 560],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [553, 557]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Nirashreya does not deny practical supports; the jivanmukta still eats, sleeps and interacts. It means the mind does not lean on any external object for security, resting in the Atman that is support of all beings.",
+          "cue_range": [494, 504]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The double prefix abhi plus pra marks total engagement, refuting the idea that knowledge makes one a passive recluse. Api, used elsewhere in the Gita too, signals Krishna holding vyavahara and paramartha together.",
+          "cue_range": [505, 532]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Naiva is an emphatic denial and kinchit works as a quantifier of absolute zero, so the phrase means not even the slightest act. This is the starkest form of seeing inaction in action from the 18th verse, now a third-person description of the knower's state.",
+          "cue_range": [533, 560]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Two-level resolution, three analogies, Mimamsa objection",
+      "cue_range": [561, 626],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "At the vyavaharika level body, prana, senses and mind keep acting under prarabdha; at the paramarthika level the Atman the knower recognises as himself is a non-doer, the unchanging witness in whose presence prakriti acts.",
+          "cue_range": [561, 584]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Three illustrations: the sun lights all activity without acting; the sky stays unstained by storms and smoke; and, from Vivekachudamani, the skilled actor fully plays a role without ever losing his own identity.",
+          "cue_range": [584, 607]
+        },
+        {
+          "kind": "quote",
+          "text": "The answer Naiva Kinjit Karothi is not a prescription but a description.",
+          "cue_range": [611, 612]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "To the Mimamsa objection that the knower should then drop obligatory rites, the reply is that the Pandita still performs nitya and naimittika duties; the instruction is to act without the sense of doership. The verse traces an arc from inner transformation to its consequences and the paradoxical lived state of the jivanmukta.",
+          "cue_range": [608, 626]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Closing and plan for next session",
+      "cue_range": [627, 656],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The class stops here; the remaining verses are to be finished the next day, a Friday, so the Yagna section can begin the following week.",
+          "cue_range": [627, 636]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "No questions are recorded. The host thanks the teacher, gives the 8:30 PM IST timing and replay locations, and the teacher closes the room, mentioning the portion still to complete before the Yagna and Nyana sections.",
+          "cue_range": [637, 656]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-jnanagni", "label": "Nyanagni", "gloss": "the fire of knowledge that burns karma", "cue_range": [23, 23]},
+    {"id": "c-sanchita-karma", "label": "Sanjita karma", "gloss": "stored past karma awaiting fruition", "cue_range": [82, 83]},
+    {"id": "c-prarabdha-karma", "label": "prarabdha karma", "gloss": "karma already operating in the present body", "cue_range": [89, 90]},
+    {"id": "c-pandita", "label": "Pandita", "gloss": "one who embodies wisdom, not a mere scholar", "cue_range": [109, 114]},
+    {"id": "c-budha", "label": "Buddha", "gloss": "the awakened ones who recognise a Pandita", "cue_range": [127, 137]},
+    {"id": "c-mithya-pandita", "label": "mithyapanditas", "gloss": "those who know shastra without realisation", "cue_range": [160, 163]},
+    {"id": "c-kama-sankalpa", "label": "Kama Sangalpa", "gloss": "desire and the intention arising from it", "cue_range": [179, 181]},
+    {"id": "c-yajna", "label": "Eknya", "gloss": "sacrifice; here actions offered into knowledge", "cue_range": [221, 228]},
+    {"id": "c-loka-sangraha", "label": "Lokasangarhartham", "gloss": "acting for the welfare of the world", "cue_range": [305, 308]},
+    {"id": "c-karmaphala-asanga", "label": "Karmafala asangam", "gloss": "attachment to the fruits of action", "cue_range": [354, 357]},
+    {"id": "c-nityatripta", "label": "nithyatripta", "gloss": "eternally satisfied, lacking nothing", "cue_range": [418, 433]},
+    {"id": "c-nirashraya", "label": "Nirashreya", "gloss": "without dependence on external refuge", "cue_range": [445, 457]},
+    {"id": "c-jivanmukta", "label": "jeevan mukta", "gloss": "one liberated while living", "cue_range": [496, 497]},
+    {"id": "c-vyavahara", "label": "Vyavahara", "gloss": "the empirical, transactional level", "cue_range": [514, 521]},
+    {"id": "c-paramarthika", "label": "Paramarthika", "gloss": "the level of ultimate truth", "cue_range": [533, 536]},
+    {"id": "c-akartrtva", "label": "Akarthrutva", "gloss": "non-doership of the Atman", "cue_range": [561, 565]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Fire of knowledge burns, purifies, destroys karma seed] --> B[Sanjita burnt, no new karma, prarabdha only apparent]\n  B --> C[Awakened ones declare such a one Pandita]\n  C --> D[Only a knower recognises a knower, not a mere scholar]\n  D --> E[Verse 19 bridges karma enquiry to Yagna section]\n  E --> F[Verse 20 paradox, fully acting yet doing nothing]\n  F --> G[Abandoning attachment to fruits of action]\n  G --> H[Eternally satisfied and without external refuge]\n  H --> I[Two levels, vyavahara active and paramartha non doer]\n  I --> J[Sun, sky and actor analogies]\n  J --> K[Description not prescription, act without doership]"
+  },
+  "gaps": [
+    {"cue_range": [17, 19], "note": "Opening invocation is garbled in the transcript; Sanskrit not reconstructed."},
+    {"cue_range": [193, 193], "note": "Fragmentary, unintelligible line within the sky analogy."},
+    {"cue_range": [400, 401], "note": "Garbled phrasing about the precision of asanga; meaning not recovered."}
+  ]
+}

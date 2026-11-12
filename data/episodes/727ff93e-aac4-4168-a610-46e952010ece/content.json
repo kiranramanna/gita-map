@@ -1,0 +1,52 @@
+{
+  "schema": "episode-content/v1", "guid": "727ff93e-aac4-4168-a610-46e952010ece", "title": "Ch05-03-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "1fa2b60549a57f98a62641092ac5966739bc84fef6b0a32385f3bc687f50c6d9", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verses 4 to 6", "verified": false},
+  "summary": {"text": "The teacher reconciles differing disciplines with their single culmination. Sankhya here means knowledge-established discrimination, not Kapila's system; yoga prepares the inner instrument. Their practical differences do not imply two liberations. A change in terminology clarifies that real renunciation includes knowledge rather than external marks. The shared destination is recognition of one's nature, not travel to a new place, and seeing means immediate recognition rather than eyesight. Renunciation without preparation leaves desire and aversion active; mature karma-yoga supports the inward silence of the muni. The closing exchange emphasizes relinquishing agency and entitlement, not merely offering physical objects.", "cue_ranges": [[21, 228], [229, 429], [430, 648], [649, 684]]},
+  "segments": [
+    {"id": "s01", "heading": "Different disciplines do not imply different liberations", "cue_range": [21, 164], "shloka_refs": [{"ref": "BG 5.4", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "An objection asks why opposing practices should yield one highest good. The teacher distinguishes Sankhya as knowledge-established discrimination from Kapila's school and yoga as purification.", "cue_range": [21, 80]},
+      {"kind": "quote", "text": "There are no two different liberations or two anubhavas.", "cue_range": [143, 144]},
+      {"kind": "paraphrase", "text": "The immature interpretation assigns separate final fruits. Properly completed practices converge like rivers; practical eligibility differs, but the recognized Atma is not divided.", "cue_range": [81, 164]}
+    ]},
+    {"id": "s02", "heading": "The terminology clarifies the intended renunciation", "cue_range": [165, 228], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary repeats the unity of result and then asks why Krishna changes from renunciation-and-yoga to Sankhya-and-yoga. This is an explicit objection, not a change of subject unnoticed by the teacher.", "cue_range": [165, 200]},
+      {"kind": "paraphrase", "text": "The reply says knowledge and its preparatory means qualify the terms. Outer renunciation alone is not equated with the knowledge-established state.", "cue_range": [201, 228]}
+    ]},
+    {"id": "s03", "heading": "The destination is not a newly constructed place", "cue_range": [229, 306], "shloka_refs": [{"ref": "BG 5.5", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "Both approaches remove superimposition rather than manufacture their destination. The station denotes self-establishment, not another world reached through space or time.", "cue_range": [229, 277]},
+      {"kind": "paraphrase", "text": "Different verbs of reaching preserve differences in the approach while affirming one culmination. The teacher returns to both paths rather than presenting two independent ultimate realities.", "cue_range": [278, 306]}
+    ]},
+    {"id": "s04", "heading": "True seeing recognizes the common ground", "cue_range": [307, 429], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Seeing means immediate self-recognition, not sense-perception. Repetition of the seeing formula validates the recognition that the paths do not culminate in separate selves.", "cue_range": [307, 377]},
+      {"kind": "paraphrase", "text": "The teacher describes increasingly adequate views: separate paths and fruits, then paths with one fruit, then dissolution of path-related distinctions in recognition. The commentary explains dedicated action as a means toward knowledge.", "cue_range": [378, 429]}
+    ]},
+    {"id": "s05", "heading": "Why preparation remains necessary", "cue_range": [430, 527], "shloka_refs": [{"ref": "BG 5.6", "basis": "stated-in-transcript", "cue_range": [475, 487]}], "blocks": [
+      {"kind": "paraphrase", "text": "The objection returns: if culmination is one, why prefer karma-yoga? The comparison concerns external renunciation without established knowledge, not the highest renunciation itself.", "cue_range": [430, 474]},
+      {"kind": "paraphrase", "text": "Without purifying yoga, formal abandonment can leave desire and aversion agitating the mind. The resulting conflict explains why renunciation is difficult without preparation.", "cue_range": [475, 527]}
+    ]},
+    {"id": "s06", "heading": "The mature muni and prompt recognition", "cue_range": [528, 648], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Yoga means disciplined purification and relinquishment of ownership, not an ego's performance. The mature muni's silence concerns the end of inward complaint and desire-driven chatter, not simply refusing speech.", "cue_range": [528, 571]},
+      {"kind": "paraphrase", "text": "Prompt attainment means recognizing Brahman as one's own nature when obstruction ends. The commentary joins dedication without fruit-dependence, reflection and steadfast knowledge rather than imagining gradual production of Brahman.", "cue_range": [572, 648]}
+    ]},
+    {"id": "s07", "heading": "Offering includes relinquishing entitlement", "cue_range": [649, 723], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The closing exchange compares the approaches with two sides of a coin. The teacher stresses relinquishing the agent's claim to both action and result, not merely presenting flowers or ritual material.", "cue_range": [649, 684]},
+      {"kind": "quote", "text": "I am neither the doer nor the enjoyer of the karma.", "cue_range": [671, 671]},
+      {"kind": "unresolved", "text": "Replay and participant-led discussion arrangements conclude the room; they are not further claims about the knowledge-path.", "cue_range": [685, 723]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-sankhya", "label": "Sankhya", "gloss": "Knowledge-established self-discrimination in this teaching's usage.", "cue_range": [63, 80]},
+    {"id": "c-adhyasa", "label": "Adhyasa", "gloss": "Superimposition removed rather than a new destination created.", "cue_range": [246, 256]},
+    {"id": "c-samyag-darshanam", "label": "Samyagdharsana", "gloss": "The recognition in which final path-related distinctions dissolve.", "cue_range": [389, 394]},
+    {"id": "c-muni", "label": "muni", "gloss": "The mature reflective seeker with inward silence.", "cue_range": [552, 571]},
+    {"id": "c-mauna", "label": "Mauna", "gloss": "Inward stillness, not merely external silence.", "cue_range": [561, 570]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Different practices and eligibility] --> B[One recognized Atma]\n B --> C[Terminology includes knowledge]\n C --> D[Destination is revealed not produced]\n D --> E[True seeing recognizes unity]\n E --> F[Purification makes renunciation possible]\n F --> G[Muni matures in inward silence]\n G --> H[Agency and entitlement are relinquished]"},
+  "gaps": [
+    {"cue_range": [228, 234], "note": "Spoken numbering appears offset from the uploader sequence; only uploader-based verse references used for the first two main discussions."},
+    {"cue_range": [394, 397], "note": "Recap numbering assigns conflicting topics to verses; not silently corrected."},
+    {"cue_range": [406, 408], "note": "Brief interruption during commentary."},
+    {"cue_range": [572, 581], "note": "Glosses of prompt attainment fluctuate in ASR; surrounding immediate-recognition explanation is preserved without reconstructing Sanskrit."}
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "58acfc0a-ab2e-4c01-88d6-33958661d202",
+  "title": "Ch04-25-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "c8e7dc2ddc740b91970f9c8d56db743e29cb4f4139133609aa34cc0a4a1de1ea", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verses 29 & 30", "verified": false},
+  "summary": {"text": "Breathing becomes conscious sacrifice through reciprocal prana-apana offering and retention. The teacher distinguishes physiological practice, the calming of mental movement and recognition of the non-doing witness. Regulated nourishment then becomes prana offered into prana: material sustenance, vital self-offering and individual life understood through its universal ground. All sincere sacrifices weaken appropriation, though knowledge alone completes the removal of ignorance. Food discipline supports steadiness. Questions introduce personal therapeutic and advanced yoga claims, which remain attributed to participants; the teacher explicitly limits his expertise in such techniques and returns to Brahman.", "cue_ranges": [[24, 335], [336, 658], [665, 785], [809, 880]]},
+  "segments": [
+    {"id": "s01", "heading": "Breath as continuous conscious offering", "cue_range": [24, 138], "shloka_refs": [{"ref": "BG 4.29", "basis": "stated-in-transcript", "cue_range": [34, 56]}], "blocks": [
+      {"kind": "paraphrase", "text": "The catalog reaches an activity continuing through waking, dreaming and sleep. Conscious recognition, not the mere fact of breathing, makes this ordinary process a deliberate sacrifice.", "cue_range": [24, 54]},
+      {"kind": "paraphrase", "text": "In the opening explanation, prana and apana name complementary vital movements. Each phase yields to the other, so the complete cycle can be contemplated as mutual offering.", "cue_range": [55, 138]}
+    ]},
+    {"id": "s02", "heading": "Retention and three levels of understanding", "cue_range": [139, 255], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Retention is described as arresting both movements. The teacher first situates breath-offering in an Upanishadic sacrificial framework, then connects quieter breath with quieter mental activity.", "cue_range": [139, 227]},
+      {"kind": "paraphrase", "text": "The deepest reading concerns the ground of vital movement. Stillness is used to recognize the witness, which neither changes with breathing nor becomes its agent.", "cue_range": [228, 255]}
+    ]},
+    {"id": "s03", "heading": "Accessibility and an unresolved directional reversal", "cue_range": [256, 335], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher calls breath-offering universally available because it requires neither wealth nor learned recitation. Its decisive difference from ordinary breathing is awareness of the offering.", "cue_range": [256, 307]},
+      {"kind": "unresolved", "text": "The English commentary reading reverses the earlier association of prana and apana with incoming and outgoing breath. This transcript does not resolve that discrepancy; the terminology is not silently standardized.", "cue_range": [308, 331]},
+      {"kind": "paraphrase", "text": "The commentary's stated practical value is purification and steadiness in preparation for knowledge, rather than making a breathing achievement itself liberation.", "cue_range": [332, 335]}
+    ]},
+    {"id": "s04", "heading": "Regulated nourishment offers prana into prana", "cue_range": [336, 457], "shloka_refs": [{"ref": "BG 4.30", "basis": "stated-in-transcript", "cue_range": [336, 362]}], "blocks": [
+      {"kind": "paraphrase", "text": "Niyatahara maintains the body's capacity for practice without excess or debilitating deprivation. The teacher contrasts measured sustenance with eating for habit, pleasure or comfort.", "cue_range": [336, 389]},
+      {"kind": "paraphrase", "text": "Three connected readings follow: food sustains subtle vitality; vital forces return into their own ground; individual vitality is offered into cosmic prana. Nourishment becomes an occasion to relinquish separation.", "cue_range": [390, 457]}
+    ]},
+    {"id": "s05", "heading": "All sacrifices purify at their respective levels", "cue_range": [458, 625], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Nourishment closes the list because it is pervasive, not because it outranks knowledge. All genuine practitioners participate in purification, with differing depth of recognition.", "cue_range": [458, 535]},
+      {"kind": "paraphrase", "text": "Offering loosens the sense of mine and the ego's claim to agency. Giving, austerity, yoga and study address different attachments; knowledge reaches the root of bodily self-identification.", "cue_range": [536, 625]}
+    ]},
+    {"id": "s06", "heading": "Food discipline supports stable contemplation", "cue_range": [626, 658], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "An Upanishadic sequence links purity of intake, clarity of mind, steady remembrance and release of ignorance's knots. The teacher presents regulated eating as foundational support.", "cue_range": [626, 641]},
+      {"kind": "paraphrase", "text": "Higher practices become unstable when basic intake remains agitating. Accessibility therefore does not make nourishment discipline dispensable as the seeker proceeds toward knowledge.", "cue_range": [642, 658]}
+    ]},
+    {"id": "s07", "heading": "Participants relate diet, breath and samadhi", "cue_range": [659, 785], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant reports dietary treatment, skin symptoms and prolonged breathing practices. These are personal reports, not verified medical outcomes or instructions established by the lecture.", "cue_range": [665, 701]},
+      {"kind": "paraphrase", "text": "The teacher connects prana back to Atma; participants discuss mantra with breathing. Another asks about spontaneous breath quieting, and the teacher points to a future discussion in chapter six without identifying a verse.", "cue_range": [702, 785]}
+    ]},
+    {"id": "s08", "heading": "Technical claims meet the teacher's stated limit", "cue_range": [786, 897], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "After an event announcement, participants discuss subtle energy, breath counts and traditional breath-length claims. The teacher directs a technical question to a participant rather than claiming specialist authority.", "cue_range": [786, 864]},
+      {"kind": "quote", "text": "For me it's only Brahma.", "cue_range": [877, 877]},
+      {"kind": "paraphrase", "text": "The teacher says he is a novice in these practices apart from knowledge. He closes the technical exchange by including body, breath and proposed measurements within Brahman.", "cue_range": [865, 880]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-prana", "label": "prana", "gloss": "Vital movement considered as offering; directional terminology varies within this transcript.", "cue_range": [55, 96]},
+    {"id": "c-apana", "label": "apana", "gloss": "The complementary vital movement offered reciprocally with prana.", "cue_range": [65, 138]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The witness unaffected by vital activity.", "cue_range": [228, 248]},
+    {"id": "c-niyatahara", "label": "niyatahara", "gloss": "Regulated nourishment sustaining practice without indulgence or deficiency.", "cue_range": [363, 380]},
+    {"id": "c-mamata", "label": "Mamata", "gloss": "The appropriation of an object or benefit as mine.", "cue_range": [539, 550]},
+    {"id": "c-brahman", "label": "Brahman", "gloss": "The common reality of individual vitality and its universal ground.", "cue_range": [424, 457]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Reciprocal breath-offering] --> B[Retention and mental steadiness]\n B --> C[Recognition of the unaffected witness]\n C --> D[Regulated nourishment as offering]\n D --> E[Individual vitality in its universal ground]\n E --> F[Appropriation and impurity weaken]\n F --> G[Food discipline supports contemplation]\n G --> H[Technical questions distinguished from knowledge]"},
+  "gaps": [
+    {"cue_range": [21, 24], "note": "Invocation contains repetition and incomplete words; not reconstructed."},
+    {"cue_range": [308, 331], "note": "Garbled commentary and reversed breath-direction terminology prevent a reliable uniform technical account."},
+    {"cue_range": [431, 434], "note": "The Upanishad name is unclear; no specific source identification supplied."},
+    {"cue_range": [854, 864], "note": "Participant's breath-length and daily-count account includes corrections and uncertainty; not treated as established physiology."}
+  ]
+}

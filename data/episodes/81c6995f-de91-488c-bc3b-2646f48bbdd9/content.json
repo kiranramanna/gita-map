@@ -1,0 +1,53 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "81c6995f-de91-488c-bc3b-2646f48bbdd9",
+  "title": "Ch04-30-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "af1d9b73ccdd3724371fea1e82d8ac63a62eef755a3146f92e4e769bf52e9f59", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verses 37 & 38", "verified": false},
+  "summary": {"text": "The fully kindled fire illustrates knowledge rendering karma seedless, not physically burning deeds. Accumulated karma loses potency, new binding karma lacks an owner, and already-fructifying karma continues the body without binding the knower. Even preparatory disciplines complete their purpose. Knowledge is then praised as the unequalled purifier because it removes ignorance itself. Its discovery is inward and spontaneous when yoga has matured the instrument; time refers to ripening rather than a delayed external reward. The discussion affirms differing preparations while resisting the idea that technical yoga or intellectual understanding alone removes the root error.", "cue_ranges": [[18, 338], [339, 578], [582, 689]]},
+  "segments": [
+    {"id": "s01", "heading": "The fully blazing knowledge-fire", "cue_range": [18, 107], "shloka_refs": [{"ref": "BG 4.37", "basis": "stated-in-transcript", "cue_range": [21, 31]}], "blocks": [
+      {"kind": "paraphrase", "text": "Unlike partial or merely textual understanding, direct recognition is compared with a thoroughly kindled fire. Ash signifies the loss of any capacity to regenerate binding seeds.", "cue_range": [18, 77]},
+      {"kind": "paraphrase", "text": "The teacher stresses completeness and non-contamination: the knowledge is not made impure by what it removes. Recognizing non-doership removes the assumed owner of the actions.", "cue_range": [78, 107]}
+    ]},
+    {"id": "s02", "heading": "Prarabdha continues without binding the knower", "cue_range": [108, 199], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Accumulated karma and future accumulation are distinguished from karma already sustaining this body. The latter continues its trajectory without the knower identifying as its enjoyer.", "cue_range": [108, 136]},
+      {"kind": "quote", "text": "I am not the body.", "cue_range": [131, 131]},
+      {"kind": "paraphrase", "text": "A potter's wheel retains momentum after its task is complete. Likewise bodily activity can continue without renewed egoic ownership; the analogy does not imply a newly bound self.", "cue_range": [137, 199]}
+    ]},
+    {"id": "s03", "heading": "Preparation consumes itself when its purpose ends", "cue_range": [200, 264], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Listening and contemplation serve until recognition is established. The teacher compares this with kindling-wood consumed by its fire and clarifying powder settling with the turbidity it removes.", "cue_range": [200, 237]},
+      {"kind": "paraphrase", "text": "The seeker need not calculate unworthiness or fear that every discipline must continue as a personal burden. The remainder is the immortal self, not a residual karmic stock.", "cue_range": [238, 264]}
+    ]},
+    {"id": "s04", "heading": "The commentary qualifies literal burning", "cue_range": [265, 338], "shloka_refs": [], "blocks": [
+      {"kind": "quote", "text": "Knowledge destroys the ignorance", "cue_range": [275, 275]},
+      {"kind": "paraphrase", "text": "The commentary explicitly denies literal incineration of actions. Knowledge opposes ignorance, removing agency and rendering actions seedless; continued teachers would be impossible if knowledge immediately killed the body.", "cue_range": [265, 308]},
+      {"kind": "paraphrase", "text": "Actions accompanying the body's continued life do not acquire a new binding owner. Its inherited dispositions may still appear in teaching, rulership or household life.", "cue_range": [309, 338]}
+    ]},
+    {"id": "s05", "heading": "The unequalled purifier reveals itself", "cue_range": [339, 490], "shloka_refs": [{"ref": "BG 4.38", "basis": "stated-in-transcript", "cue_range": [338, 348]}], "blocks": [
+      {"kind": "paraphrase", "text": "Knowledge is incomparable as purifier because it removes ignorance at the root, unlike disciplines addressing particular impurities. The knowledge meant is direct self-recognition, not another intellectual acquisition.", "cue_range": [339, 437]},
+      {"kind": "paraphrase", "text": "Spontaneous discovery is illustrated by uncovering a lamp: illumination was already present. Removing obstruction does not manufacture the light or require it to visit objects separately.", "cue_range": [438, 490]}
+    ]},
+    {"id": "s06", "heading": "Maturity, time and inward discovery", "cue_range": [491, 578], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Yoga-samsiddhi describes the prepared instrument, with attraction and aversion attenuated. Time means the completion of ripening, not an arbitrary postponement of recognition.", "cue_range": [491, 533]},
+      {"kind": "paraphrase", "text": "Finding within oneself means discovery of one's existing nature, not winning something elsewhere. The commentary includes karma-yoga and concentration in this preparation.", "cue_range": [534, 578]}
+    ]},
+    {"id": "s07", "heading": "Different preparations meet the same root question", "cue_range": [579, 701], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant asks whether the verse prescribes technical yoga and describes his own change of practice. The teacher affirms varied disciplines but insists that only knowledge removes bodily misidentification.", "cue_range": [582, 633]},
+      {"kind": "paraphrase", "text": "Preparation differs with capacity. The concluding instruction is inward: action cannot produce Atma, and maturity reveals that the self one seeks was never absent.", "cue_range": [634, 689]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-prarabdha", "label": "Prarabdha", "gloss": "Already-fructifying karma continuing the body without binding the knower.", "cue_range": [120, 134]},
+    {"id": "c-aparoksha-anubhava", "label": "Aparoksha Anubhava", "gloss": "Direct recognition distinguished from partial textual understanding.", "cue_range": [86, 100]},
+    {"id": "c-sadhana", "label": "Sadhana", "gloss": "Preparation that completes its role in recognition.", "cue_range": [200, 221]},
+    {"id": "c-pavitra", "label": "Pavitra", "gloss": "Both purity and the capacity to remove impurity.", "cue_range": [410, 429]},
+    {"id": "c-yoga-samsiddhi", "label": "Yoga Samsiddhi", "gloss": "Ripened preparation making inward discovery possible.", "cue_range": [509, 552]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Fully kindled knowledge] --> B[Ignorance and claimed agency end]\n B --> C[Karma becomes seedless]\n C --> D[Prarabdha continues without ownership]\n C --> E[Preparation completes its purpose]\n E --> F[Knowledge is the root purifier]\n F --> G[Mature yoga uncovers inward recognition]"},
+  "gaps": [
+    {"cue_range": [59, 71], "note": "One phrase says reversible amid an explanation of irreversible loss of potency; no silent quote correction made."},
+    {"cue_range": [272, 290], "note": "Several ASR clauses about agency are malformed; the explicit distinction between ignorance and action supports the paraphrase."},
+    {"cue_range": [470, 473], "note": "The name of the self's nature is split or misheard; no Sanskrit reconstructed."}
+  ]
+}

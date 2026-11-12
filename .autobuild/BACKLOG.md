@@ -98,7 +98,7 @@ Use README.md and CLAUDE.md requirements. Delegate implementation to native Clau
 
 ### T-003 — Create source-grounded latest-episode study material
 
-**Priority:** P1 · **Owner:** unassigned · **Status:** ☐
+**Priority:** P1 · **Owner:** claude-autobuild · **Status:** ▶
 **Prerequisites:** none
 **Area:** content
 
@@ -107,6 +107,8 @@ Use only successfully acquired transcript. Stay close to teacher wording, distin
 - [ ] **Deliverable:** Latest verified episode has faithful summary, logical diagram and sourced graph nodes/edges, with traceable evidence; unresolved references explicitly marked.
 
 **Note 2026-11-09:** 2026-11-09 user: 'build the actual lecture content ... for the eps which already exist'. Scope plan: (1) newest ep -H0dwGkYmkM from automatic ASR (unreviewed, gaps 1951-1996 s and 2203-2251 s marked, Sanskrit uncertain); (2) the 48 feed-transcript episodes via new ingest task; (3) remaining 134 audio-only eps need ASR - needs confirmation. Published form = paraphrased summaries, short direct quotes, timestamps, diagrams, graph edges with evidence; not full transcripts on the site. Blocked on wave: u9 (T-002) active; dispatch after u9 closes.
+
+**Note 2026-11-12:** 48 feed-transcript episodes have data/episodes/<guid>/content.json (232 verbatim quotes; validator OK n=48): 24 by Copilot claude-opus-5.5 (u13), 24 by Devin gpt-6-1-sol-high (u14); validator by native builder u12. Implemented, unreviewed. NOT yet on the site: schema needs podcast-time evidence (site assumes YouTube videoId). Newest ep -H0dwGkYmkM content and cross-family review still pending.
 
 ### T-004 — Validate and prepare GitHub Pages deployment
 

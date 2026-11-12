@@ -1,0 +1,52 @@
+{
+  "schema": "episode-content/v1", "guid": "3c9205d6-43f4-467f-8d39-6b1e7c70bf28", "title": "Ch04-32-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "924624d4715a0f67646cca19222d95e9dcfe9cda689ea16fa60b04df0503dfe7", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verses 40 & 41", "verified": false},
+  "summary": {"text": "The teacher contrasts ignorance, unreceptivity and entrenched irresolution with the prepared seeker. Ignorance can be removed; refusal blocks the means; habitual doubt continually defeats commitment to resolving itself. The warning concerns lost worldly participation, higher attainment and happiness, not destruction of Atma. The next verse begins a portrait of renunciation through yoga: actions continue while claimed agency and their binding power are relinquished. Knowledge severs doubt at its root. Questions distinguish agnosticism from compulsive irresolution and explain listening as personally receiving the teaching, not completing a quota of texts. Participant anecdotes and the teacher's trust analogy remain attributed examples.", "cue_ranges": [[24, 401], [402, 549], [553, 686], [688, 752]]},
+  "segments": [
+    {"id": "s01", "heading": "Ignorance and refusal are different obstacles", "cue_range": [24, 144], "shloka_refs": [{"ref": "BG 4.40", "basis": "stated-in-transcript", "cue_range": [31, 45]}], "blocks": [
+      {"kind": "paraphrase", "text": "Ignorance is the initial condition of a seeker, not a permanent sentence. Instruction and prepared inquiry can remove it.", "cue_range": [24, 77]},
+      {"kind": "paraphrase", "text": "Lack of Shraddha adds refusal to receive the teaching as a means of knowledge. The teacher distinguishes this from informed engagement with its claims.", "cue_range": [78, 144]}
+    ]},
+    {"id": "s02", "heading": "Habitual irresolution defeats its own remedy", "cue_range": [145, 245], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Samsayatma is presented as a settled habit of oscillating without resolution, not an isolated question. The raft example depicts repeatedly boarding and retreating before a journey can begin.", "cue_range": [145, 207]},
+      {"kind": "paraphrase", "text": "Perishing here is explained as missing fulfillment through self-undermining commitment. The teacher ranks entrenched irresolution as more obstructive than ignorance or initial refusal.", "cue_range": [208, 245]}
+    ]},
+    {"id": "s03", "heading": "The three losses and Arjuna's predicament", "cue_range": [246, 401], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The losses concern worldly flourishing, higher attainment and happiness. Half-commitment to incompatible pursuits frustrates both; the subject's existence is not literally being denied.", "cue_range": [246, 333]},
+      {"kind": "paraphrase", "text": "Manana is the remedy, yet habitual doubt undermines the willingness to undertake it. The teacher relates this paralysis to Arjuna and previews the call to cut doubt.", "cue_range": [334, 401]}
+    ]},
+    {"id": "s04", "heading": "Renunciation through yoga leaves activity possible", "cue_range": [402, 506], "shloka_refs": [{"ref": "BG 4.41", "basis": "stated-in-transcript", "cue_range": [402, 413]}], "blocks": [
+      {"kind": "paraphrase", "text": "Yoga-based renunciation relinquishes agency and fruit-craving rather than physically abandoning action. Prarabdha can continue the body without renewing a binding owner.", "cue_range": [402, 488]},
+      {"kind": "quote", "text": "It is the inner state, not an external form.", "cue_range": [505, 506]},
+      {"kind": "paraphrase", "text": "A warrior can embody this renunciation while a robe-wearing renunciate may retain agency. Outward role does not establish freedom.", "cue_range": [489, 506]}
+    ]},
+    {"id": "s05", "heading": "Knowledge severs doubt completely", "cue_range": [507, 618], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The cutting image excludes a surviving root or thread. Direct recognition, not argument or austerity alone, removes the gap in which fundamental self-doubt persists.", "cue_range": [507, 549]},
+      {"kind": "paraphrase", "text": "Questions revisit whether the warning applies equally to all three conditions. The teacher distinguishes remediable unpreparedness from entrenched oscillation, and does not simply equate agnosticism with the latter.", "cue_range": [553, 618]}
+    ]},
+    {"id": "s06", "heading": "Listening matures through personal recognition", "cue_range": [619, 686], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Shravana is not completed by a numerical quota of Upanishads. Listening and reflection overlap until conviction matures; even a single statement can become the focus.", "cue_range": [620, 650]},
+      {"kind": "quote", "text": "it is talking about my reality.", "cue_range": [655, 656]},
+      {"kind": "paraphrase", "text": "Live or recorded delivery alone does not decide whether listening is transformative. The waiting-room name example illustrates attention changing when the words are received as concerning oneself.", "cue_range": [651, 685]}
+    ]},
+    {"id": "s07", "heading": "Trust analogies and their attributed context", "cue_range": [687, 788], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant raises fear-driven checking and misuse of faith. These anecdotes are his contribution, not diagnoses or a verified account of another person's condition.", "cue_range": [688, 711]},
+      {"kind": "paraphrase", "text": "The teacher recounts an aircraft-trust story to argue that receptivity can grow through reasoning. This is an illustrative argument; schedule announcements then close the room.", "cue_range": [712, 752]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-avidya", "label": "Avidya", "gloss": "The starting ignorance that knowledge can remove.", "cue_range": [47, 76]},
+    {"id": "c-shraddha", "label": "Shraddha", "gloss": "Receptivity that permits teaching to function as a means of knowledge.", "cue_range": [79, 109]},
+    {"id": "c-samsaya", "label": "Samsaya", "gloss": "Unresolved oscillation between alternatives.", "cue_range": [145, 181]},
+    {"id": "c-kartritva", "label": "Karthritwa Abhimana", "gloss": "Personal agency relinquished through yoga.", "cue_range": [419, 423]},
+    {"id": "c-shravana", "label": "Shravana", "gloss": "Hearing that concerns one's own reality and matures into conviction.", "cue_range": [620, 658]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Ignorance can receive a remedy] --> B[Refusal blocks receptivity]\n B --> C[Habitual doubt blocks commitment]\n C --> D[Worldly and spiritual fulfillment are frustrated]\n D --> E[Yoga relinquishes binding agency]\n E --> F[Knowledge severs fundamental doubt]\n F --> G[Listening matures into personal conviction]"},
+  "gaps": [
+    {"cue_range": [19, 22], "note": "Incomplete invocation not reconstructed."},
+    {"cue_range": [553, 562], "note": "Question about renunciation categories receives a brief answer without enough explanation to reconstruct a precise hierarchy."},
+    {"cue_range": [688, 711], "note": "Participant's checking and religious-violence examples are not used as clinical or social evidence."},
+    {"cue_range": [754, 788], "note": "Travel and future class arrangements are not teaching claims."}
+  ]
+}

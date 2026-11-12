@@ -1,0 +1,209 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "efade598-7ac5-4e84-976d-84f184114e99",
+  "title": "Ch04-20-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "c0c0c94e03ab82ce1e0858a8bf2a6824e71ece2eeaa394e5c04c3fc22a30a22c",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 23",
+    "verified": false
+  },
+  "summary": {
+    "text": "On Shankara Jayanti the teacher finishes Shankaracharya's bhashya on the 22nd verse, where the Jeevan Mukta, though seen by worldly people as acting, knows himself as the non-doer and is not bound. The 23rd verse then moves past 'not bound' to 'all karma completely dissolves'. Word by word: Gathasanga (attachment gone, not merely abandoned), Mukta (already liberated, so his Eknya does not produce mukti), Nyana Vasthida Chetasa (stable abidance, not a passing vritti), and acting as Eknya, read at three levels up to Brahma Eknya. Samagram covers Sanchita, Agami and even Prarabdha; previliate means absorption back into Brahman. The verse opens the Eknya Prakarana leading to the 24th verse. Q&A treats Prarabdha and the Sakshi from the Nyani's standpoint.",
+    "cue_ranges": [[30, 61], [62, 121], [151, 182], [183, 378], [379, 612], [613, 653], [662, 781]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Opening, Shankara Jayanti and the road to verse 24",
+      "cue_range": [1, 59],
+      "shloka_refs": [
+        {"ref": "BG 4.24", "basis": "stated-in-transcript", "cue_range": [42, 46]},
+        {"ref": "BG 4.22", "basis": "stated-in-transcript", "cue_range": [46, 48]},
+        {"ref": "BG 4.23", "basis": "stated-in-transcript", "cue_range": [46, 48]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The host welcomes listeners to the ongoing Gita sessions on Chapter 4, points to replays on Clubhouse, YouTube, Apple Podcasts and Spotify, mentions a book based on the teacher's earlier talks, and says chat and hand raising will reopen for Q&A after the class.", "cue_range": [1, 22]},
+        {"kind": "paraphrase", "text": "After the invocation, the teacher notes that the day is observed as Shankara Jayanti. Marking the birthday of a guru who taught that there is neither birth nor death may seem odd, yet honouring the day remains a sign of respect while one is not yet at the Paramarthika standpoint.", "cue_range": [23, 41]},
+        {"kind": "paraphrase", "text": "The class's tribute is to prepare for the best known verse of the chapter, the 24th, by finishing the 22nd and taking up the 23rd. Krishna himself sets the prerequisites for the 24th; the journey from Moha to Moksha in the field of karma is completed in these verses.", "cue_range": [42, 52]},
+        {"kind": "paraphrase", "text": "The 23rd verse goes further than the earlier claim that the Jeevan Mukta acts without bondage: it says all his action dissolves into the all-consuming fire of Brahman, the theme of the Yagna Pragarana.", "cue_range": [53, 59]}
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Bhashya on verse 22: the non-doer who appears to act",
+      "cue_range": [60, 121],
+      "shloka_refs": [
+        {"ref": "BG 4.22", "basis": "stated-in-transcript", "cue_range": [60, 61]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Reading Shankaracharya's commentary, the teacher describes the realized renunciate: satisfied with whatever comes unasked, untouched by pairs like heat and cold, without envy or hostility because he sees no one as separate, and even-minded in gain and loss.", "cue_range": [62, 81]},
+        {"kind": "quote", "text": "This is sufficient. Whatever comes is sufficient.", "cue_range": [67, 67]},
+        {"kind": "paraphrase", "text": "Established in knowledge of the self, he sees inaction in action; even activity such as begging for bodily upkeep is understood as gunas acting on gunas, while he does nothing at all.", "cue_range": [82, 94]},
+        {"kind": "paraphrase", "text": "Worldly people superimpose doership on him and see his bodily actions as his. From his own scripture-born realization, though, he is the non-doer; the karma that would bind has been burnt with its causes by the fire of knowledge, so the verse only restates earlier teaching.", "cue_range": [95, 121]}
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Verse 23 as hinge from Karma Vichara to Yajna",
+      "cue_range": [122, 182],
+      "shloka_refs": [
+        {"ref": "BG 4.20", "basis": "stated-in-transcript", "cue_range": [122, 124]},
+        {"ref": "BG 4.23", "basis": "stated-in-transcript", "cue_range": [141, 152]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Linking back to the 20th verse, the teacher explains that a realized person still driven by Prarabdha, such as Janaka or Arjuna, is fit to renounce action; if that is not possible and he keeps acting, he is still declared to do nothing. The qualities in the 23rd verse apply to such a person.", "cue_range": [122, 150]},
+        {"kind": "paraphrase", "text": "The 23rd verse does two things: it closes the Karma Vichara with the final statement of the Jeevan Mukta's condition, and it opens the section on Yagna running to verse 33. It packs together his inner condition, his way of acting as Yagna, and the ultimate fruit.", "cue_range": [151, 170]},
+        {"kind": "quote", "text": "1 is saying karma does not bind here. It is saying all karma dissolved.", "cue_range": [174, 175]},
+        {"kind": "paraphrase", "text": "The move from a negative statement of non-bondage to a positive statement of total dissolution is called a quantum leap, from freedom from bondage to dissolution of the very stuff of bondage, the resolution of all karma into Aksharabrahman.", "cue_range": [171, 182]}
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Gathasanga: attachment gone, not merely abandoned",
+      "cue_range": [183, 240],
+      "shloka_refs": [
+        {"ref": "BG 4.21", "basis": "stated-in-transcript", "cue_range": [219, 222]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Taking the verse word by word, two qualifiers describe the agent who acts: Gathasankasya, one whose attachment has gone, and Muktasya, the liberated one. Samagram means wholly, to the very tip; the two prefixes on previliate intensify dissolving into melting away without trace.", "cue_range": [183, 206]},
+        {"kind": "paraphrase", "text": "Gatha (gone) is stronger than the earlier word for abandoned. Abandonment is a sadhaka's deliberate effort through vairagya, and latent vasanas may resurface. For the Nyani, attachment has departed naturally because the fire of knowledge burnt its root, the superimposed sense of incompleteness on body, mind and intellect.", "cue_range": [207, 234]},
+        {"kind": "paraphrase", "text": "Once one knows oneself as the non-doer Atma, staying unattached needs no effort; the ego that would cling has been dissolved, leaving a natural state of fullness.", "cue_range": [235, 240]}
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Mukta: liberation precedes the Yajna, not its result",
+      "cue_range": [241, 282],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Mukta here means Jeevan Mukta, liberated while the body continues under Prarabdha. For Shankaracharya this word is decisive: liberation is a prior qualification of the actor, not the outcome of the Yagna.", "cue_range": [241, 253]},
+        {"kind": "quote", "text": "Yet performing Etnya, the Etnya does not produce mukti. The mukta performs Eknya.", "cue_range": [254, 255]},
+        {"kind": "paraphrase", "text": "This differs from the Yagna of the 3rd chapter, where an aspirant offers the fruits of action to a chosen deity. Here the Yagna is the natural expression of one who sees all as Brahman, an implicit anti-Mimamsa point to be developed with the 24th verse.", "cue_range": [255, 268]},
+        {"kind": "paraphrase", "text": "Is the verse prescriptive for a sadhaka or descriptive of a Jeevan Mukta? Both, the teacher says, but in sequence: the inner transformation of verses 18 to 22 is required for mukti, and acting as Yagna is that freedom expressing itself.", "cue_range": [269, 282]}
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Nyana Vasthida Chetasa: abiding knowledge versus passing vritti",
+      "cue_range": [283, 378],
+      "shloka_refs": [
+        {"ref": "BG 6.18", "basis": "stated-in-transcript", "cue_range": [367, 372]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Avastita means settled, firmly abiding: not a momentary insight but unbroken establishment. Knowledge that stays at the level of mind or intellect is a vritti; when it becomes one's being, it is the nature of the full, non-doing Self. Chetas is the luminous consciousness shining through the inner instrument, not mind or intellect alone.", "cue_range": [283, 321]},
+        {"kind": "paraphrase", "text": "An intermediate sadhaka has glimpses: a vritti that Atman is Brahman arises and passes, and ignorance returns under unburnt vasanas; he is still in Shravana and Manana. The Jeevan Mukta has gone beyond even Nididhyasana, so knowledge is the permanent ground of his consciousness.", "cue_range": [322, 349]},
+        {"kind": "paraphrase", "text": "Even amid empirical dealings he remains in a natural, effortless abidance, never identifying with the body, senses or inner organ, but as Aham Brahmasmi.", "cue_range": [350, 366]},
+        {"kind": "unresolved", "text": "Shankaracharya is said to connect this to the man of steady wisdom of the 2nd chapter and to the 18th verse of the 6th chapter, but the cited words are garbled in the transcript and the exact verses meant are not identifiable from the text.", "cue_range": [367, 372]}
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Acting as Yajna: three ascending levels",
+      "cue_range": [379, 453],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The same karma that binds when done with attachment and the pride of doership is transformed when done as Yagna. Here Yagna is neither the Mimamsa soma ritual nor the general Karma Yoga of the 3rd chapter, but the Jeevan Mukta's perpetual Brahma Yagna.", "cue_range": [379, 395]},
+        {"kind": "quote", "text": "What is a Brahmayaknya? The recognition that all actions, all action is occurring within, as and for Brahman,", "cue_range": [396, 397]},
+        {"kind": "paraphrase", "text": "Level one is Mimamsa Yagna, prescribed rites like Agnihotra and Shraddha, valid and fruit-yielding but not liberating. Level two is the sadhaka's Karma Yagna, offering all action to Parameswara without craving fruit, as in a 9th-chapter verse. Level three is Nyana Yagna, where offerer, offering, fire and recipient are all Brahman.", "cue_range": [413, 444]},
+        {"kind": "paraphrase", "text": "At this third level, acting as Yagna describes a cognitive state rather than a ritual: every act is at once Brahman acting, Brahman offered and Brahman receiving.", "cue_range": [445, 453]},
+        {"kind": "unresolved", "text": "The verse beginning 'yat karoshi' is placed only in the 9th chapter; its verse number is not stated in the transcript.", "cue_range": [427, 433]}
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Samagram: Sanchita, Agami and even Prarabdha dissolve",
+      "cue_range": [454, 538],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "With no separate agent, fruit or tie between them, the question of binding does not even arise. Samagram is stronger than Sarva: like a flame that burns fuel leaving no carbon, it means no edge or residue remains.", "cue_range": [454, 469]},
+        {"kind": "paraphrase", "text": "Previliate is passive: the karma itself undergoes the dissolving; the agent does not perform it. It is pictured as ice melting into water, salt into water, or a river joining the ocean, a merging into a greater reality rather than a destruction that leaves remains.", "cue_range": [470, 504]},
+        {"kind": "paraphrase", "text": "Sanchita is burnt by the fire of knowledge; no Agami arises since there is no attachment or doership. Prarabdha seems an exception that continues, yet when seen as Brahma Yagna, action propelled by Prarabdha is no longer felt as karma, so all three are included in Samagram.", "cue_range": [505, 538]}
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Why dissolution: Vivarta reversed, Brahma Yajna preview",
+      "cue_range": [539, 612],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankaracharya prefers dissolve over burn or perish because karma is reabsorbed into Brahman from which it was never really separate; Jiva and its karma were only appearance. This laya reverses Vivartavada: what seemed projected from Brahman is recognized as never apart.", "cue_range": [539, 556]},
+        {"kind": "paraphrase", "text": "The shift from the earlier verse's 'not bound' to complete dissolution marks the difference between a seeker's knowledge, where karma is still notionally present, and the Jeevan Mukta's completed knowledge.", "cue_range": [557, 573]},
+        {"kind": "paraphrase", "text": "Previewing the 24th verse, offering, oblation, fire, offerer and goal are all Brahman, so the ritual categories collapse into non-duality. Whatever the Mukta does, eating, teaching or fighting, is Brahman acting, and his abidance keeps this recognition unbroken.", "cue_range": [573, 596]},
+        {"kind": "quote", "text": "As water poured into water leaves no boundary.", "cue_range": [609, 609]},
+        {"kind": "paraphrase", "text": "Since cause and effect are non-different, karma returning to its cause leaves no remainder, like pot-space merging with total space when the pot breaks.", "cue_range": [600, 612]}
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Verse 23 as thesis of the Yajna Prakarana",
+      "cue_range": [613, 653],
+      "shloka_refs": [
+        {"ref": "BG 4.23", "basis": "stated-in-transcript", "cue_range": [613, 616]},
+        {"ref": "BG 4.24", "basis": "stated-in-transcript", "cue_range": [619, 620]},
+        {"ref": "BG 4.25-32", "basis": "stated-in-transcript", "cue_range": [620, 625]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankaracharya reads verse 23 as the thesis of a section running to verse 33. The 24th verse unpacks Brahma Yagna; 25 to 32 list many forms of Yagna, showing any human activity can be one with the right inner condition, culminating in the supremacy of knowledge-Yagna.", "cue_range": [613, 627]},
+        {"kind": "paraphrase", "text": "The bhashya is brief: free from attachment in every way, released from the bondage of merit and demerit, mind set in knowledge alone, acting only for Yagna; for such a one all action with its results, including future effects, dissolves into Brahman.", "cue_range": [631, 650]},
+        {"kind": "paraphrase", "text": "The teacher closes by calling the verse the gateway to Brahma Yagna, to be taken up the next day.", "cue_range": [651, 653]},
+        {"kind": "unresolved", "text": "The list of Yagna forms and the closing phrase about the supremacy of one Yagna are heavily garbled; the individual forms named are not reliably recoverable.", "cue_range": [621, 627]}
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: Prarabdha, the goldsmith, deep sleep and Sakshi",
+      "cue_range": [654, 781],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "A participant draws a parallel with steps taught after Ashtanga Yoga: raising an inner fire to higher centres, then either pushing the ego down daily or offering everything, doership included, into the fire with the Brahmarpanam mantra. He asks whether Prarabdha itself, or only its effect, is burnt.", "cue_range": [662, 696]},
+        {"kind": "paraphrase", "text": "The teacher answers that Prarabdha is how others see the Nyani; from his own standpoint there is no otherness, since he knows the ground of all appearances as his own consciousness. A related question about the Sakshi is folded in.", "cue_range": [697, 722]},
+        {"kind": "paraphrase", "text": "Analogy: a goldsmith weighs every ornament as gold, while a customer attends to names and forms. Likewise ignorant people, or a sadhaka offering fruits to the divine, see Prarabdha as separate; the Nyani does not.", "cue_range": [723, 747]},
+        {"kind": "paraphrase", "text": "In deep sleep there is only a mass of consciousness; waker, dreamer and world are its appearances. One who never loses that as his reality has no Sanchita, Agami or Prarabdha, and even the witness stance used by a seeker as a gateway dissolves.", "cue_range": [748, 779]},
+        {"kind": "quote", "text": "He is no more a Sakshi because there is nothing separate from him to witness.", "cue_range": [773, 774]}
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Closing remarks and next session",
+      "cue_range": [782, 814],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Brief exchanges with participants, including one who found the ideas close to what she knew from Buddhism. The host repeats where replays and the book can be found and confirms that the next session takes up verse 24 at 8:30 PM IST.", "cue_range": [782, 808]},
+        {"kind": "paraphrase", "text": "The teacher thanks everyone and says Brahmarpanam will be treated in detail the following day.", "cue_range": [809, 814]}
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-shankara-jayanti", "label": "Shankara Jayanti", "gloss": "Day observed as Adi Shankaracharya's birthday", "cue_range": [30, 41]},
+    {"id": "c-akarta", "label": "akarta", "gloss": "The Self as non-doer", "cue_range": [235, 240]},
+    {"id": "c-karma-vichara", "label": "Karma Vichara", "gloss": "The preceding section of inquiry into action, ending at verse 22", "cue_range": [151, 158]},
+    {"id": "c-gatasanga", "label": "Gathasanga", "gloss": "One whose attachment has naturally departed, not merely been given up", "cue_range": [207, 240]},
+    {"id": "c-jivanmukta", "label": "jeevan Mukta", "gloss": "One liberated while the body still acts under Prarabdha", "cue_range": [241, 282]},
+    {"id": "c-jnana-avasthita-chetas", "label": "Nyana Vasthida Chetasa", "gloss": "Consciousness stably established in Self-knowledge", "cue_range": [305, 321]},
+    {"id": "c-vritti", "label": "Vritti", "gloss": "A passing mental modification, contrasted with abiding knowledge", "cue_range": [326, 341]},
+    {"id": "c-yajna", "label": "Eknya", "gloss": "Sacrifice; here read at ritual, devotional and knowledge levels", "cue_range": [379, 453]},
+    {"id": "c-brahma-yajna", "label": "Brahmayaknya", "gloss": "Seeing all action as occurring within, as and for Brahman", "cue_range": [394, 412]},
+    {"id": "c-samagram", "label": "Samagram", "gloss": "Wholly, without any residue", "cue_range": [454, 469]},
+    {"id": "c-praviliyate", "label": "previliate", "gloss": "Melts away, is absorbed without trace", "cue_range": [470, 489]},
+    {"id": "c-sanchita", "label": "Sanchita", "gloss": "Accumulated past karma", "cue_range": [505, 538]},
+    {"id": "c-agami", "label": "Agami", "gloss": "Karma that would arise for the future", "cue_range": [505, 538]},
+    {"id": "c-prarabdha", "label": "Prarabdha", "gloss": "Karma already in operation for the present body", "cue_range": [505, 538]},
+    {"id": "c-vivartavada", "label": "Vivartavada", "gloss": "Doctrine that the world is an apparent projection of Brahman", "cue_range": [550, 556]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The witness stance, itself dissolved in abidance", "cue_range": [770, 781]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Verse 22 bhashya, the Nyani is a non-doer not bound] --> B[Verse 23 moves from not bound to all karma dissolves]\n  B --> C[Gathasanga, attachment gone not merely abandoned]\n  B --> D[Mukta, liberation precedes the Yajna]\n  B --> E[Nyana Vasthida Chetasa, abiding knowledge not a vritti]\n  C --> F[Acting as Yajna at three levels]\n  D --> F\n  E --> F\n  F --> G[Brahma Yajna, all is Brahman]\n  G --> H[Samagram previliate, Sanchita Agami Prarabdha dissolve into Brahman]\n  H --> I[Gateway to verse 24 and the Yajna Prakarana]\n  H --> J[Q and A, Prarabdha and Sakshi from the Nyani standpoint]"
+  },
+  "gaps": [
+    {"cue_range": [24, 29], "note": "Sanskrit invocation chant rendered as garbled ASR text; not summarised."},
+    {"cue_range": [369, 372], "note": "Cited verse words garbled; the reference to the 6th chapter verse cannot be checked."},
+    {"cue_range": [621, 627], "note": "List of Yajna forms garbled; individual items not recoverable."},
+    {"cue_range": [664, 679], "note": "Questioner's description of the practice steps is partly garbled; summarised only in outline."},
+    {"cue_range": [784, 792], "note": "Microphone trouble and brief housekeeping; summarised only in outline."}
+  ]
+}

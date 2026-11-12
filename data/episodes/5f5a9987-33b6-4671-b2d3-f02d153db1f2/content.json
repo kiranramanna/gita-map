@@ -1,0 +1,50 @@
+{
+  "schema": "episode-content/v1", "guid": "5f5a9987-33b6-4671-b2d3-f02d153db1f2", "title": "Ch04-31-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "61abcb758558d45455f1d21af84f74300d2bef23570a3c20f01aff9fabecb95b", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verse 39", "verified": false},
+  "summary": {"text": "The teacher unfolds three complementary qualifications: Shraddha receives scripture and instruction as a valid means of self-knowledge; tatpara makes that knowledge the governing priority; restrained senses support inward steadiness. Their fruit is supreme peace, explained as the self's nature rather than temporary conflict-resolution. Prompt attainment concerns recognition of the already-present self, not a shortcut bypassing preparation. The commentary contrasts genuine inward readiness with imitable outward gestures. Discussion preserves transactional distinctions within nondual knowledge and locates differences of eligibility within vyavahara, not as divisions in Brahman.", "cue_ranges": [[23, 317], [318, 560], [570, 805]]},
+  "segments": [
+    {"id": "s01", "heading": "Shraddha makes the teaching receivable", "cue_range": [23, 184], "shloka_refs": [{"ref": "BG 4.39", "basis": "stated-in-transcript", "cue_range": [29, 33]}], "blocks": [
+      {"kind": "paraphrase", "text": "Shraddha is distinguished from personal trust, dependence and devotion. It is informed receptivity to guru and scripture, not passive hearing or an unexamined belief.", "cue_range": [23, 93]},
+      {"kind": "paraphrase", "text": "The teacher argues that ordinary object-directed means cannot disclose the innermost subject. His critique of scientific accounts serves this epistemic distinction, not a separate verified account of neuroscience.", "cue_range": [94, 184]}
+    ]},
+    {"id": "s02", "heading": "Tatpara turns receptivity into commitment", "cue_range": [185, 227], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Knowledge is not one interest among many for the tatpara seeker. The desire for liberation governs attention and activity rather than remaining an occasional aspiration.", "cue_range": [185, 217]},
+      {"kind": "paraphrase", "text": "Shraddha supplies confidence in the teaching; tatpara supplies the will to pursue it. The teacher treats these as complementary orientations of the same instrument.", "cue_range": [218, 227]}
+    ]},
+    {"id": "s03", "heading": "Restrained senses protect inward steadiness", "cue_range": [228, 317], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Unregulated sensory pursuit scatters attention like uncontrolled horses. Mental turbulence prevents sustained contemplation even when confidence and commitment are present.", "cue_range": [228, 274]},
+      {"kind": "paraphrase", "text": "The qualifications develop together: confidence deepens commitment, commitment motivates restraint, and restraint allows clearer recognition. This is a mutually reinforcing maturation, not three unrelated virtues.", "cue_range": [275, 317]}
+    ]},
+    {"id": "s04", "heading": "Supreme peace is the self's fulfillment", "cue_range": [318, 405], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The resulting peace is not dullness or a temporary settlement of conflict. It is the stillness and fulfillment of Atma, independent of external conditions.", "cue_range": [318, 374]},
+      {"kind": "quote", "text": "not a state leading to moksha, but moksha itself", "cue_range": [377, 378]},
+      {"kind": "paraphrase", "text": "The teacher connects this with non-doership, freedom from duality and having nothing further to acquire. Restlessness belongs to the outwardly seeking instrument, not the self.", "cue_range": [379, 405]}
+    ]},
+    {"id": "s05", "heading": "Prompt recognition does not bypass preparation", "cue_range": [406, 564], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Sense-restraint is explained through disidentification and inward attention, not merely closing sensory entrances. Delay concerns obstruction in the instrument, never an absent or unfinished Atma.", "cue_range": [406, 495]},
+      {"kind": "paraphrase", "text": "The commentary warns that prostration and other external gestures can be simulated. Genuine confidence, diligence and restraint are the reliable means; knowledge's peace is the intended fruit.", "cue_range": [521, 560]}
+    ]},
+    {"id": "s06", "heading": "Nonduality does not erase practical distinctions", "cue_range": [565, 686], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Questions ask how a knower can distinguish or teach if all is Brahman. The teacher says appearances retain practical functions without possessing independent reality.", "cue_range": [570, 647]},
+      {"kind": "paraphrase", "text": "A wooden chair and tree share substance but are not used identically. Scriptural competence likewise operates transactionally while establishment in truth does not depend on that distinction.", "cue_range": [648, 686]}
+    ]},
+    {"id": "s07", "heading": "Eligibility belongs to the field of practice", "cue_range": [687, 825], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Shraddha is a qualification of the seeker. Different interests, preparations and capacities belong within transactional life, not to multiple grades of Brahman's reality.", "cue_range": [690, 768]},
+      {"kind": "paraphrase", "text": "Even reflection performed with personal agency remains preparation. Recognition looks back on those stages as responses to ignorance, while the self was present before and throughout them.", "cue_range": [769, 805]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-shraddha", "label": "Shraddha", "gloss": "Informed receptivity to the teaching as a means of self-knowledge.", "cue_range": [79, 93]},
+    {"id": "c-tatpara", "label": "tatpara", "gloss": "Wholehearted priority given to liberating knowledge.", "cue_range": [204, 227]},
+    {"id": "c-samyata-indriya", "label": "Samyata Indriya", "gloss": "Sense-restraint allowing the inner instrument to become tranquil.", "cue_range": [255, 274]},
+    {"id": "c-param-shanti", "label": "Param Shanti", "gloss": "Supreme peace identified with liberation, not temporary relief.", "cue_range": [318, 378]},
+    {"id": "c-vyavahara", "label": "Vyavahara", "gloss": "The dependent transactional field where practical differences remain.", "cue_range": [634, 667]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Shraddha receives the teaching] --> B[Tatpara sustains commitment]\n B --> C[Sense-restraint steadies attention]\n C --> A\n C --> D[Prepared instrument recognizes Atma]\n D --> E[Supreme peace is liberation]\n E --> F[Practical distinctions remain dependent appearances]\n F --> G[Eligibility differences belong to practice]"},
+  "gaps": [
+    {"cue_range": [19, 23], "note": "Invocation is garbled and truncated."},
+    {"cue_range": [442, 457], "note": "The explanation alternates instantaneous and not instantaneous; the summary preserves the distinction between immediate recognition and maturation without imposing a timetable."},
+    {"cue_range": [727, 730], "note": "Unrelated astrology interruption omitted from the teaching progression."}
+  ]
+}

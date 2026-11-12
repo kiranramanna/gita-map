@@ -1,0 +1,757 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "69541862-fb4f-41c3-9551-5a69830039d3",
+  "title": "Ch04-16-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "023e5df334eb637d4d5039060be3d21e85f93f26cc34bfd1ca2c85691643a0d6",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verses 18 & 19",
+    "verified": false
+  },
+  "summary": {
+    "text": "The teacher reads Shankara's bhashya on seeing akarma in karma and karma in akarma. Agent, instruments and action rest on avidya; the actionless Atman only appears to act through superimposition, like trees seeming to move from a boat; even resting idle is action. Shankara then rejects an earlier reading that took the verse to be about nitya karma and its omission, arguing from liberation, scriptural purpose and the impossibility of something arising from non-existence. Moving to the 19th verse, the teacher explains samaramba, kama and sankalpa, distinguishes dissolved desire from suppressed desire, and begins the image of nyanagni burning the seed of karma. Q&A covers chitta shuddhi, opinions and the inversion.",
+    "cue_ranges": [
+      [
+        19,
+        72
+      ],
+      [
+        129,
+        213
+      ],
+      [
+        213,
+        443
+      ],
+      [
+        443,
+        634
+      ],
+      [
+        635,
+        954
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome, housekeeping and invocation",
+      "cue_range": [
+        1,
+        18
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita Vedanta satsang, notes that the series on the Gita is in chapter 4 with karma vichara as the theme, and points to earlier recordings, podcast links and a book based on the teacher's talks.",
+          "cue_range": [
+            1,
+            12
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Chat and hand raising are closed during the class and reopened for about half an hour of discussion afterwards; the teacher then begins with an invocation.",
+          "cue_range": [
+            13,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Bhashya word meanings: inaction in action",
+      "cue_range": [
+        19,
+        72
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.18",
+          "basis": "uploader-claim-only"
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Recalling the previous day's line about seeing akarma in karma and karma in akarma, the teacher says the bhashya is long, so he will read it in parts and elaborate only where needed before moving to the next verse.",
+          "cue_range": [
+            19,
+            26
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara defines karma as whatever is done, mere activity. Both activity and its cessation depend on the notion of being an agent, and all ideas of action, agent and instruments arise on the ground of avidya, without reaching the real vastu.",
+          "cue_range": [
+            27,
+            54
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The one who sees this is called wise among humans, integrated, a yogi, and is regarded as having done all actions. The teacher sums up: the knower sees the self as actionless while the body acts, and this insight ends the illusion of doership and the bondage of karma.",
+          "cue_range": [
+            55,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Why Krishna repeats the teaching",
+      "cue_range": [
+        73,
+        128
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 2.25",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            100,
+            102
+          ]
+        },
+        {
+          "ref": "BG 2.20",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            111,
+            114
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Although Krishna already taught that the Atma is not a doer, he restates it in new words because people, deeply conditioned by mistaken perception, keep forgetting after hearing and keep raising objections from false assumptions; out of compassion the Lord answers each time.",
+          "cue_range": [
+            73,
+            97
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "We have been listening to this truth for the last 4-5 years, yet it has not become our reality.",
+          "cue_range": [
+            87,
+            88
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The truth is hard to grasp, as the second chapter says: the self is unmanifest, inconceivable and unchanging, neither born nor dying. Shruti, smriti and reasoning establish its actionlessness, yet people firmly see action in what is really without action.",
+          "cue_range": [
+            98,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Superimposition of doership and the boat analogy",
+      "cue_range": [
+        129,
+        212
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Actions of body and senses are superimposed on the self, giving rise to thoughts of being the doer and the one who must reap results. Likewise people credit to the self the rest and comfort that are really the body's inactivity, imagining they are happily doing nothing.",
+          "cue_range": [
+            129,
+            158
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Learned and unlearned alike ascribe action to the changeless self. Just as a person in a moving boat sees the motionless trees on the bank as moving, so action is wrongly seen in the self.",
+          "cue_range": [
+            159,
+            183
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "It is like the illusion of motion of trees standing on the riverbank.",
+          "cue_range": [
+            175,
+            176
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Sitting quiet is not true inaction either: the egoic sense of resting in comfort is still action, now taken as belonging to the self. The one who discerns this is freed from the evil of samsara and becomes kritakritya, with nothing left to do.",
+          "cue_range": [
+            184,
+            212
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "An earlier commentary reading the verse as nitya karma",
+      "cue_range": [
+        213,
+        264
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Having given Krishna's intent, Shankara reports an earlier commentator's reading. On that view obligatory daily duties offered to the Lord are figuratively called inaction since they yield no specific fruit, unlike rites done for rain or progeny.",
+          "cue_range": [
+            213,
+            238
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Their omission is figuratively called action because it brings sin, pratyavaya, or hell. The opponent compares this to calling a cow that gives no milk not a cow.",
+          "cue_range": [
+            239,
+            264
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The commentator Shankara is refuting is not named in the transcript; the speaker only says some earlier commentators read the words this way.",
+          "cue_range": [
+            221,
+            223
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Shankara refutes: false knowledge cannot free from evil",
+      "cue_range": [
+        265,
+        363
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara calls the reading unreasonable. Krishna promised freedom from evil through knowing, yet on this view freedom would come simply from doing the duties, and knowing they bear no fruit would play no role. Krishna never taught such a thing.",
+          "cue_range": [
+            265,
+            300
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Seeing action where there is none would be a mistaken view, and a mistaken view cannot liberate, nor would it earn the praise of being wise and integrated.",
+          "cue_range": [
+            301,
+            322
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The darkness cannot remove darkness.",
+          "cue_range": [
+            323,
+            325
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "If the opponent says it is merely figurative language, Shankara answers that scripture names no result for such knowing, nothing is gained by inventing an unheard meaning, and the point could have been said plainly; otherwise Krishna's words would only confuse people.",
+          "cue_range": [
+            326,
+            363
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Further arguments: nothing arises from non-existence",
+      "cue_range": [
+        364,
+        442
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 2.47",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            364,
+            369
+          ]
+        },
+        {
+          "ref": "BG 2.16",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            389,
+            390
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The point about duty was already made clearly in the verse on one's right being to action alone, so no repetition is needed. Scripture teaches only what is useful to know, never a falsehood or a mere appearance of reality.",
+          "cue_range": [
+            364,
+            382
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Non-performance is mere absence, so it cannot produce a real thing like sin. The teacher cites the second chapter on the real and unreal and the Chandogya Upanishad, which denies that existence comes from non-existence; claiming otherwise contradicts every means of knowledge.",
+          "cue_range": [
+            383,
+            404
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Against the Mimamsakas, scripture would not enjoin effortful, painful action with no result; if omission led to hell, doing and not doing would both bring harm, and the view contradicts itself by later linking these duties to liberation. So the text is to be taken as it reads.",
+          "cue_range": [
+            405,
+            442
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Verse 19: undertakings free of kama and sankalpa",
+      "cue_range": [
+        443,
+        566
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.19",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            443,
+            460
+          ]
+        },
+        {
+          "ref": "BG 2.55",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            558,
+            561
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The 19th verse fills out the portrait of the yukta from two sides: the inner state, free of desire and intention, and the ground, karmas burned in the fire of knowledge. Such a person is called pandita and buddha, the awakened one.",
+          "cue_range": [
+            443,
+            474
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Samaramba is a deliberate beginning of action where intention meets act; its root is the sankalpa that precedes movement. Sarve means every undertaking without exception, which is possible only when knowledge of non-doership as the Atman is complete and directly lived, not merely intellectual.",
+          "cue_range": [
+            474,
+            502
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Kama is the desiring side and sankalpa the cognitive side, the resolve to do one thing to get another, fed by vasanas. Removing both cuts desire-driven action at the root, so no karma lepa arises.",
+          "cue_range": [
+            503,
+            541
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "It is not a suppression of a desire,",
+          "cue_range": [
+            545,
+            546
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The seeker suppresses kama through vairagya, which is genuine sadhana though desire stays latent; in the knower it is simply absent, because the full Atman lacks nothing. This matches the sthitaprajna of the second chapter, the same knower seen from another angle.",
+          "cue_range": [
+            546,
+            566
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Nyanagni: the fire of knowledge burns karma seeds",
+      "cue_range": [
+        567,
+        634
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.37",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            606,
+            610
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Nyanagni is knowledge as fire, and dagda means wholly burnt, leaving no seed able to sprout. What burns is not ongoing action, which continues as prarabdha, but the karma bija formed by doership and longing for results that would generate future births.",
+          "cue_range": [
+            567,
+            595
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Fire has three properties: it consumes fuel, purifies, and destroys seeds. Knowledge consumes sanchita karma, as a later verse on fire reducing fuel to ash will say, purifies the mind of doership, and ends the seed's power to cause rebirth.",
+          "cue_range": [
+            596,
+            626
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "A burned seed datda bheja cannot sprout na ankurasya kalpate.",
+          "cue_range": [
+            620,
+            621
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher refers to a 10th verse and a ninth verse studied earlier without naming the chapter; which verses are meant is not clear from the transcript.",
+          "cue_range": [
+            617,
+            625
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The class stops here; how nyanagni treats the different kinds of karma and why the knower is called pandita and buddha is left for the next session, followed by a closing peace chant.",
+          "cue_range": [
+            627,
+            634
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Q&A: chitta shuddhi without knowledge; fire metaphor",
+      "cue_range": [
+        635,
+        745
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Asked whether the third chapter's karma yoga teaches suppression or dissolution, the teacher says offering actions to the Lord purifies the mind as a preamble but does not give the knowledge of being the non-doer; the pandita no longer sees any action as his own to offer.",
+          "cue_range": [
+            635,
+            681
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Purity of mind without knowledge does exist: a person may still feel he is the doer, yet with sattva increased he offers his actions to the Lord.",
+          "cue_range": [
+            682,
+            700
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Asked whether the fire of knowledge is only a metaphor, the teacher defers detail to the next class but compares it to refining metal, where heat burns off waste and separates impurities, just as knowledge separates the doership of mind and body from the pure Atman.",
+          "cue_range": [
+            716,
+            745
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: chakras, opinions as karma, transactional reality",
+      "cue_range": [
+        746,
+        894
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A question on activating chakras is declined: Advaita does not treat even the body as real, so it is a path of knowledge rather than yogic action, and the questioner should find a teacher of those practices.",
+          "cue_range": [
+            746,
+            765
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "A listener asks whether holding opinions about others on partial information blocks chitta shuddhi. The teacher first cites the Upanishad on approaching a guru versed in scripture and established in Brahman, adding that the scripture must not be bent to suit modern definitions.",
+          "cue_range": [
+            766,
+            824
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "That is, that is also karma only.",
+          "cue_range": [
+            838,
+            838
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Holding opinions is karma too, since action includes mind and speech. Facts and opinions belong to the changing transactional world, not the unchanging absolute; as the mind is purified one grows less interested in such matters.",
+          "cue_range": [
+            839,
+            894
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: the inversion, Abhinavagupta, and closing",
+      "cue_range": [
+        895,
+        991
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A participant stresses that seeing karma in akarma is the hard, critical shift, needing the earlier distinction of karma, vikarma and akarma; the teacher agrees that all three must be understood to see both views.",
+          "cue_range": [
+            895,
+            930
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The participant cites Abhinavagupta's reading: seeing inaction in one's own action and one's own action in the action of others. He links this to the sthitaprajna, and the teacher calls such a person the true knower seeing both sides.",
+          "cue_range": [
+            931,
+            946
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The verse 17 the participant refers to is not identified by chapter, and the Abhinavagupta source is not named beyond the commentator.",
+          "cue_range": [
+            911,
+            934
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host repeats where recordings and the book can be found and announces the next class. The teacher admits his explanation may fall short and urges everyone to read other commentaries and bring questions so all can benefit.",
+          "cue_range": [
+            955,
+            991
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-karma",
+      "label": "karma",
+      "gloss": "action; whatever is done, mere activity",
+      "cue_range": [
+        27,
+        33
+      ]
+    },
+    {
+      "id": "c-akarma",
+      "label": "akarma",
+      "gloss": "absence of action, inaction",
+      "cue_range": [
+        34,
+        39
+      ]
+    },
+    {
+      "id": "c-avidya",
+      "label": "avidya",
+      "gloss": "ignorance, the ground on which agent, action and instruments appear",
+      "cue_range": [
+        46,
+        54
+      ]
+    },
+    {
+      "id": "c-atma",
+      "label": "Atman",
+      "gloss": "the actionless, changeless self",
+      "cue_range": [
+        150,
+        152
+      ]
+    },
+    {
+      "id": "c-adhyaropa",
+      "label": "adyaropa",
+      "gloss": "superimposition of the body's action or rest onto the self",
+      "cue_range": [
+        156,
+        158
+      ]
+    },
+    {
+      "id": "c-kritakritya",
+      "label": "Kritam Kritya",
+      "gloss": "one for whom nothing remains to be done",
+      "cue_range": [
+        207,
+        212
+      ]
+    },
+    {
+      "id": "c-nitya-karma",
+      "label": "Nitya karma",
+      "gloss": "obligatory daily duties",
+      "cue_range": [
+        225,
+        229
+      ]
+    },
+    {
+      "id": "c-pratyavaya",
+      "label": "pratyavaya",
+      "gloss": "sin said to follow from omitting obligatory duties",
+      "cue_range": [
+        247,
+        248
+      ]
+    },
+    {
+      "id": "c-samarambha",
+      "label": "samaramba",
+      "gloss": "a deliberate undertaking where intention meets action",
+      "cue_range": [
+        459,
+        476
+      ]
+    },
+    {
+      "id": "c-kama",
+      "label": "Kama",
+      "gloss": "desire, the affective pole",
+      "cue_range": [
+        502,
+        504
+      ]
+    },
+    {
+      "id": "c-sankalpa",
+      "label": "Sankalpa",
+      "gloss": "formed intention or resolve toward a desired outcome",
+      "cue_range": [
+        505,
+        507
+      ]
+    },
+    {
+      "id": "c-kartrtva-abhimana",
+      "label": "Kartrutu Abhimana",
+      "gloss": "the sense of being the doer",
+      "cue_range": [
+        493,
+        493
+      ]
+    },
+    {
+      "id": "c-nishkama-karma",
+      "label": "Niskamakarma",
+      "gloss": "action without desire",
+      "cue_range": [
+        542,
+        544
+      ]
+    },
+    {
+      "id": "c-sthitaprajna",
+      "label": "Sitapraknya",
+      "gloss": "the one of steady wisdom",
+      "cue_range": [
+        558,
+        559
+      ]
+    },
+    {
+      "id": "c-jnanagni",
+      "label": "Nyanagni",
+      "gloss": "knowledge pictured as fire",
+      "cue_range": [
+        567,
+        572
+      ]
+    },
+    {
+      "id": "c-karma-bija",
+      "label": "karma bhija",
+      "gloss": "seed of karma that would cause future births",
+      "cue_range": [
+        579,
+        584
+      ]
+    },
+    {
+      "id": "c-chitta-shuddhi",
+      "label": "Chitta shuddhi",
+      "gloss": "purity of mind",
+      "cue_range": [
+        646,
+        649
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Bhashya on seeing inaction in action and action in inaction] --> B[Agent, action and instruments rest on avidya]\n  B --> C[Body action and rest superimposed on the actionless self]\n  C --> D[Knower is wise, a yogi, kritakritya]\n  D --> E[Earlier commentary reads verse as nitya karma]\n  E --> F[Shankara refutes it, false knowledge cannot liberate]\n  F --> G[Verse 19, every undertaking free of kama and sankalpa]\n  G --> H[Desire dissolved at the root, not suppressed]\n  H --> I[Fire of knowledge burns the seed of karma]\n  I --> J[Q and A on chitta shuddhi, opinions and the inversion]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        701,
+        715
+      ],
+      "note": "Questioner's connection breaks up; his question about pain is not heard and is deferred."
+    },
+    {
+      "cue_range": [
+        947,
+        954
+      ],
+      "note": "Participant's closing remark about the buddhi as a fulcrum is garbled and left for later; not summarised."
+    }
+  ]
+}

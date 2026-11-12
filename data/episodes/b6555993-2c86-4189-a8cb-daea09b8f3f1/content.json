@@ -1,0 +1,53 @@
+{
+  "schema": "episode-content/v1", "guid": "b6555993-2c86-4189-a8cb-daea09b8f3f1", "title": "Ch05-11-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "f93684a16e335eae2fb3aa79d6f38f27e6485fe6b762c6ab995c7d42daffc19b", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verse 17", "verified": false},
+  "summary": {"text": "The teacher distinguishes knowledge of objects and experiences from recognition that corrects self-ignorance, then connects the prior verses' non-agency and illumination. Four descriptions unfold the knower's orientation: intellect directed toward Brahman, self recognized as Brahman, stable establishment and complete refuge. These do not describe travel to a separate destination. Non-return is explained as irreversible recognition, not only a claim about rebirth after death. Knowledge removes the root impurity rather than merely suppressing its effects; karma-yoga's purification prepares for that completion. A chapter recap leads to equal vision as the next observable consequence, but its detailed explanation and a participant's question are deferred.", "cue_ranges": [[26, 154], [155, 404], [405, 573]]},
+  "segments": [
+    {"id": "s01", "heading": "Self-knowledge differs from learning about an object", "cue_range": [26, 71], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Learning a language, recognizing a material object and experiencing a particular happiness illustrate different kinds of empirical knowing. The teacher introduces self-ignorance as a different problem from lacking such content.", "cue_range": [26, 51]},
+      {"kind": "paraphrase", "text": "Taste, exam success and parenthood illustrate experiences one cannot acquire merely by hearing their names. These examples prepare the distinction rather than define self-knowledge as another new sensation.", "cue_range": [52, 71]}
+    ]},
+    {"id": "s02", "heading": "The prior verses dismantle the habitual agent", "cue_range": [72, 152], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Assumed doership keeps activity and expected result in a repeating loop. Long-standing impressions reinforce bodily identity and explanations of merit, fault and future experience.", "cue_range": [72, 110]},
+      {"kind": "paraphrase", "text": "The teacher insists the linked verses be read together: natural functioning does not require an Atma-agent, moral residue does not stain Atma, and knowledge corrects the deluded identification.", "cue_range": [111, 152]}
+    ]},
+    {"id": "s03", "heading": "Intellect turns inward and self is recognized as Brahman", "cue_range": [153, 241], "shloka_refs": [{"ref": "BG 5.17", "basis": "stated-in-transcript", "cue_range": [153, 157]}], "blocks": [
+      {"kind": "paraphrase", "text": "Four compounds describe a single orientation from different angles. The first directs discriminative intellect toward Brahman rather than its ordinary outward pursuit.", "cue_range": [155, 215]},
+      {"kind": "quote", "text": "There is no going or coming.", "cue_range": [227, 227]},
+      {"kind": "paraphrase", "text": "The second is stronger than thinking or reading about Brahman. It recognizes Brahman as the only self, not an object outside the thinker or a second reality beside Atman.", "cue_range": [216, 241]}
+    ]},
+    {"id": "s04", "heading": "Stable establishment and refuge remove imagined distance", "cue_range": [242, 296], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Firm establishment is distinguished from occasional glimpses. Recognition remains the ground of experience while ordinary interaction continues.", "cue_range": [242, 272]},
+      {"kind": "paraphrase", "text": "Refuge does not mean a separate individual traveling to Brahman. A river reaching the ocean illustrates how the preparatory language of approach gives way to non-separateness.", "cue_range": [273, 296]}
+    ]},
+    {"id": "s05", "heading": "Non-return concerns irreversible recognition", "cue_range": [297, 404], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Attainment is explained without spatial travel or a merely future event. Non-return concerns the ending of the ignorant cycle, not only absence of reincarnation after death.", "cue_range": [297, 355]},
+      {"kind": "paraphrase", "text": "Impurities include assumed individuality, attraction and aversion, and claimed agency. Their removal through knowledge complements the four positive descriptions of establishment; it is not mere behavioral suppression.", "cue_range": [356, 404]}
+    ]},
+    {"id": "s06", "heading": "Preparation matures into complete removal of the root", "cue_range": [405, 510], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher also presents the four descriptions as deepening stages, from hearing and intellectual direction to identity, stability and full existential orientation. A mirage can still appear without renewing belief in water.", "cue_range": [405, 450]},
+      {"kind": "quote", "text": "The sun is always shining.", "cue_range": [484, 484]},
+      {"kind": "paraphrase", "text": "The light analogy supports the claim of irreversible recognition. Karma-yoga clears gross obstruction as preparation; knowledge completes purification by removing the root self-ignorance.", "cue_range": [451, 510]}
+    ]},
+    {"id": "s07", "heading": "The recap leads toward equal vision", "cue_range": [511, 573], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The five-verse recap joins non-agency, the diagnosis of ignorance, knowledge's illumination and established freedom. Equal vision is introduced as the next visible consequence of that understanding.", "cue_range": [511, 549]},
+      {"kind": "unresolved", "text": "The next verse is recited and its significance announced, but full analysis is deferred. A participant explicitly holds a question for the next class, so no substantive question-and-answer resolution occurs here.", "cue_range": [550, 573]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-tad-buddhaya", "label": "Tad Buddhaya", "gloss": "Intellect oriented toward Brahman.", "cue_range": [185, 200]},
+    {"id": "c-tadatmanaha", "label": "Tadatmanaha", "gloss": "Recognition of Brahman as the self, not an external object.", "cue_range": [216, 240]},
+    {"id": "c-brahmanistha", "label": "Brahmanistha", "gloss": "Unwavering establishment distinguished from intermittent glimpses.", "cue_range": [250, 264]},
+    {"id": "c-tat-parayana", "label": "Tat parayana", "gloss": "Complete refuge without a separate destination or traveler.", "cue_range": [273, 293]},
+    {"id": "c-kalmasha", "label": "Kalmasha", "gloss": "Impurity rooted in self-ignorance and appropriated agency.", "cue_range": [364, 393]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Object knowledge differs from correcting self-ignorance] --> B[Habitual agent examined through prior verses]\n B --> C[Intellect turns toward Brahman]\n C --> D[Self recognized as Brahman]\n D --> E[Establishment and complete refuge]\n E --> F[Non-return as irreversible recognition]\n F --> G[Knowledge completes preparatory purification]\n G --> H[Equal vision introduced for the next class]"},
+  "gaps": [
+    {"cue_range": [23, 25], "note": "Invocation contains garbled Sanskrit."},
+    {"cue_range": [155, 181], "note": "Recited compound spellings vary; no reconstructed Sanskrit quotation supplied."},
+    {"cue_range": [380, 384], "note": "The claim that knowledge becomes redundant is framed beyond a separate knower; the local ASR syntax is unstable."},
+    {"cue_range": [504, 506], "note": "ASR repeats a clause about what karma-yoga cannot remove; surrounding contrast supplies the recoverable distinction."},
+    {"cue_range": [527, 560], "note": "Equal-vision verse is a preview, and the held question is not answered in this episode."}
+  ]
+}

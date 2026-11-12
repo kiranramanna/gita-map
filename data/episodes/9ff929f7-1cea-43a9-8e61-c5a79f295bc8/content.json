@@ -1,0 +1,53 @@
+{
+  "schema": "episode-content/v1", "guid": "9ff929f7-1cea-43a9-8e61-c5a79f295bc8", "title": "Ch05-06-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "0a8e08779589883c5d3475898a9cc5c2a319557b1c191040bc298ed78f8ee8b2", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verse 10", "verified": false},
+  "summary": {"text": "The verse bridges the knower's non-doership with a seeker's practical dedication and non-attachment. The teacher presents both placing actions in consciousness and offering them to Ishwara, distinguishing their standpoints while accepting their preparatory relationship. Attachment is the inward claim of agency and entitlement, so selective surrender is incomplete. The lotus leaf illustrates living within action without adhesion rather than fleeing contact. The lecture repeatedly moves between the advanced practitioner and ultimate recognition; the commentary explicitly identifies purification as the practitioner's result. A closing clarification connects surrender with recognizing waking, dream and sleep as appearances in consciousness.", "cue_ranges": [[27, 302], [303, 545], [572, 617]]},
+  "segments": [
+    {"id": "s01", "heading": "From realized non-doership to the seeker's instruction", "cue_range": [27, 129], "shloka_refs": [{"ref": "BG 5.10", "basis": "stated-in-transcript", "cue_range": [81, 90]}], "blocks": [
+      {"kind": "paraphrase", "text": "The recap explains inward non-doership as a mode of being rather than a verbal assertion. The new verse broadens the account toward the practitioner still approaching realization.", "cue_range": [27, 88]},
+      {"kind": "paraphrase", "text": "Placing actions in Brahman and abandoning attachment are introduced as conditions of non-staining. The lotus simile will explain the practical orientation rather than demand inactivity.", "cue_range": [89, 129]}
+    ]},
+    {"id": "s02", "heading": "Two readings of placing actions in Brahman", "cue_range": [130, 190], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The nondual reading locates action, instruments and even the sense of individuality in consciousness. Nothing has to be transported from a place outside Brahman.", "cue_range": [130, 160]},
+      {"kind": "paraphrase", "text": "The devotional reading dedicates activity to Ishwara. The teacher accepts this as effective purification while distinguishing it from complete recognition of the nondual ground.", "cue_range": [161, 190]}
+    ]},
+    {"id": "s03", "heading": "Surrender relinquishes the inward adhesive claim", "cue_range": [191, 302], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "All bodily, verbal and mental actions are included; retaining private ownership over selected actions defeats comprehensive dedication. Attachment is the individuality claiming action and its result.", "cue_range": [191, 240]},
+      {"kind": "paraphrase", "text": "The teacher contrasts the knower's first-person non-agency with instruction to a practitioner. He extends freedom from karmic adhesion to sincere dedication while continuing to distinguish the levels.", "cue_range": [241, 302]}
+    ]},
+    {"id": "s04", "heading": "The lotus stays in water without adhesion", "cue_range": [303, 405], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The leaf is born and lives in water without escaping it. The analogy concerns non-adhesion during activity, not proving freedom by avoiding contact or social categories.", "cue_range": [303, 328]},
+      {"kind": "paraphrase", "text": "The teacher's ultimate account sets aside an owned duty-agent within the totality. He criticizes exclusion based on caste or external contact as inconsistent with seeing Brahman in all; the account is framed through non-separateness, not a private permission for wrongdoing.", "cue_range": [329, 405]}
+    ]},
+    {"id": "s05", "heading": "Practice and recognition must not be conflated", "cue_range": [406, 527], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The lecture distinguishes the practitioner's dedication, provisional witnessing and the knower's complete recognition. Non-attachment is practiced where individual appropriation remains.", "cue_range": [406, 465]},
+      {"kind": "quote", "text": "it is a recognition that it is already happening in that Brahman.", "cue_range": [476, 477]},
+      {"kind": "paraphrase", "text": "At the final standpoint, depositing is no longer a separate act. The lotus points toward intrinsic non-contact, not an achievement maintained by forced avoidance.", "cue_range": [466, 527]}
+    ]},
+    {"id": "s06", "heading": "The commentary explicitly names purification as the fruit", "cue_range": [528, 553], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary describes working for Ishwara like service to a master and relinquishing attachment even to a liberating reward. Non-staining is followed by an explicit statement of inner purification.", "cue_range": [528, 545]},
+      {"kind": "quote", "text": "the only result action is purification of the mind by Satyaguna.", "cue_range": [544, 545]},
+      {"kind": "unresolved", "text": "The next verse on bodily, mental and sensory action is only previewed; its detailed explanation is deferred to the following class.", "cue_range": [546, 553]}
+    ]},
+    {"id": "s07", "heading": "Clarification returns to the three states", "cue_range": [554, 658], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant asks about shifting the individual I. The teacher connects attachment to claimed agency and explains waking, dreaming and sleep as appearances in the same consciousness.", "cue_range": [572, 600]},
+      {"kind": "paraphrase", "text": "Those experiences can continue without an owner separate from their ground. The remaining exchange concerns schedule confusion and replays, not a further doctrinal conclusion.", "cue_range": [601, 658]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-sangam", "label": "Sangam", "gloss": "The inward claim joining an individual agent to action and result.", "cue_range": [209, 227]},
+    {"id": "c-brahmani-adaya", "label": "Brahmani Adaya", "gloss": "Dedication interpreted through Ishwara or recognition of the nondual ground.", "cue_range": [174, 190]},
+    {"id": "c-brahma-karma-samadhi", "label": "Brahma Karma Samadhi", "gloss": "The integrated orientation in which activity is not privately owned.", "cue_range": [270, 289]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "A provisional witness standpoint distinguished from complete non-separateness.", "cue_range": [448, 465]},
+    {"id": "c-asangatva", "label": "asangatva", "gloss": "Intrinsic non-attachment indicated by the lotus simile.", "cue_range": [516, 527]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Knower has inward non-doership] --> B[Seeker dedicates action]\n B --> C[Both devotional and nondual readings distinguished]\n C --> D[Ownership and entitlement relinquished]\n D --> E[Lotus remains within water without adhesion]\n E --> F[Practice distinguished from complete recognition]\n F --> G[Commentary names inner purification]\n G --> H[Three states can continue without private ownership]"},
+  "gaps": [
+    {"cue_range": [23, 26], "note": "Invocation is garbled."},
+    {"cue_range": [258, 291], "note": "The spoken account alternates practitioner freedom and final recognition; it should not erase the explicit distinction retained later."},
+    {"cue_range": [310, 310], "note": "ASR misrenders lotus leaf; no fabricated corrected quote supplied."},
+    {"cue_range": [516, 523], "note": "Comparative scriptural references lack reliable passage identifiers; no verse numbers inferred."},
+    {"cue_range": [530, 542], "note": "Sanskrit commentary is partially corrupted; English explanation used."}
+  ]
+}

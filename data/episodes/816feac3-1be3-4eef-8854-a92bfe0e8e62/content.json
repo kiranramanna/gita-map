@@ -1,0 +1,53 @@
+{
+  "schema": "episode-content/v1", "guid": "816feac3-1be3-4eef-8854-a92bfe0e8e62", "title": "Ch05-09-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "0662e7da3ae62a80d91b71b76262b43d27001921f0c1f248b404fc775c0c83a4", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verse 14", "verified": false},
+  "summary": {"text": "The teacher expands non-doership into three denials: the sovereign self creates neither agency, actions nor their connection with results. The body's operations and assumed ownership are explained through nature, ignorance and Prakriti rather than a self-agent secretly creating them. Individual disposition, cosmic guna-operation and Maya are distinguished as explanatory levels without accepting a second ultimate reality. Space and dream analogies show appearance without transformation. Liberation is recognition of existing freedom, not a produced effect. The discussion asks where an eternal witness belongs and whether knowing itself binds; the teacher rejects turning witnessing or manifestation into a separate ultimate activity.", "cue_ranges": [[26, 331], [332, 580], [607, 720]]},
+  "segments": [
+    {"id": "s01", "heading": "The sovereign self does not create the binding mechanism", "cue_range": [26, 106], "shloka_refs": [{"ref": "BG 5.14", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "The prior embodied non-agency becomes three denials concerning agency, deeds and action-result connection. Nature operates; the self is not their hidden author.", "cue_range": [26, 72]},
+      {"kind": "paraphrase", "text": "The teacher discusses readings of Prabhu as embodied self and cosmic Lord, retaining continuity with the nine-gated city's indweller. The nondual identification connects the standpoints without inventing another agent.", "cue_range": [73, 106]}
+    ]},
+    {"id": "s02", "heading": "Agency is superimposed rather than created by Atma", "cue_range": [107, 226], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Identification with body and senses appropriates their natural interactions as mine. Making Atma create that agency would reintroduce the very agent the teaching denies.", "cue_range": [107, 168]},
+      {"kind": "paraphrase", "text": "The same reasoning extends beyond one's own bodily actions to the world's beings. The question of how Prakriti relates to nonduality is acknowledged, not solved by assigning Atma creative agency.", "cue_range": [169, 226]}
+    ]},
+    {"id": "s03", "heading": "Nature is analyzed without a second ultimate reality", "cue_range": [227, 331], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Nature can describe individual tendencies or cosmic guna-operation. The teacher contrasts independent Purusha-Prakriti dualism with an Advaitic account of Maya and apparent creation.", "cue_range": [227, 279]},
+      {"kind": "paraphrase", "text": "Objects depend on space without altering it; awareness includes even the cognition of space. The analogy aims at appearance without actual division or modification of consciousness.", "cue_range": [280, 331]}
+    ]},
+    {"id": "s04", "heading": "Recognition shifts identity from the waking individual", "cue_range": [332, 449], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The self is not an unknown object; immediate am-ness precedes particular state-identities. The teacher locates corrective inquiry in waking rather than seeking instruction within dreams.", "cue_range": [332, 379]},
+      {"kind": "paraphrase", "text": "Listening and reflection loosen the habitual identification with being only a human individual. The freedom disclosed is one's nature, not a new consequence manufactured by practice.", "cue_range": [380, 449]}
+    ]},
+    {"id": "s05", "heading": "Relocate the three claims rather than alter Brahman", "cue_range": [450, 580], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher revisits individual impressions, cosmic nature and Maya as levels of explanation. Agency, instruments and result-connection belong within that phenomenal account rather than modifying the self.", "cue_range": [450, 527]},
+      {"kind": "quote", "text": "The world appears without Brahman actually transforming.", "cue_range": [530, 530]},
+      {"kind": "paraphrase", "text": "Vivarta is contrasted with real transformation. Recognizing appearance removes the assumption of bondage; the next verse on merit, fault and obscured knowledge is only previewed.", "cue_range": [528, 580]}
+    ]},
+    {"id": "s06", "heading": "An eternal witness cannot be another located object", "cue_range": [581, 658], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "After a participant's appreciation, a question asks whether witnessing belongs to nature or Brahman. The teacher places every objectifiable description within the field being explained.", "cue_range": [583, 638]},
+      {"kind": "unresolved", "text": "The participant presses whether knowing itself establishes a binding connection. This is his question and formulation, not a settled conclusion endorsed by the teacher.", "cue_range": [639, 658]}
+    ]},
+    {"id": "s07", "heading": "Knowing is not another privately owned activity", "cue_range": [659, 733], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher returns to complete relinquishment: even claiming oneself as knower of Prakriti would retain a relation of ownership. Sleep illustrates absence of a second object without making waking interpretation ultimate.", "cue_range": [659, 684]},
+      {"kind": "quote", "text": "There is nothing separate from you to know", "cue_range": [679, 680]},
+      {"kind": "paraphrase", "text": "Pressed about nature's boundary, he distinguishes explaining human manifestation from recognizing pure consciousness. Manifestation is not another ultimate reality alongside it; the exchange ends with this discrimination.", "cue_range": [685, 720]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-prabhu", "label": "Prabhu", "gloss": "The sovereign self continued from the prior embodied-self analogy.", "cue_range": [73, 103]},
+    {"id": "c-prakriti", "label": "Prakriti", "gloss": "Nature's field of guna-operation, not an agency in Atma.", "cue_range": [133, 172]},
+    {"id": "c-maya-shakti", "label": "Maya Shakti", "gloss": "Apparent creation explained without a second ultimate substance.", "cue_range": [258, 274]},
+    {"id": "c-vivartavada", "label": "Vivarthavada", "gloss": "Appearance without real transformation of Brahman.", "cue_range": [528, 546]},
+    {"id": "c-viveka", "label": "viveka", "gloss": "Discrimination between explaining human appearance and self-identity.", "cue_range": [713, 720]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Self creates neither agency nor deeds nor result-link] --> B[Ownership arises through misidentification]\n B --> C[Nature explained at individual and cosmic levels]\n C --> D[Appearance does not transform consciousness]\n D --> E[Waking identification corrected]\n E --> F[Three binding claims relocated from Atma]\n F --> G[Witness is not a located object]\n G --> H[Knowing is not an owned ultimate action]"},
+  "gaps": [
+    {"cue_range": [23, 25], "note": "Invocation is garbled."},
+    {"cue_range": [118, 121], "note": "ASR reverses agent/non-agent phrasing; the repeated surrounding non-agency statements govern the summary."},
+    {"cue_range": [400, 403], "note": "Mantra attribution differs from other episodes and the Sanskrit is unclear; no authoritative source identifier inferred."},
+    {"cue_range": [564, 566], "note": "Teacher explicitly does not read the full commentary here."},
+    {"cue_range": [567, 580], "note": "Following verse is previewed only."}
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "ab377b1d-51a5-46dc-8d83-e71af6091cbc",
+  "title": "Ch04-26-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "bdc25aae5b244d50ffab0e11a50b3de9ebd77205819eea54ab2d0b5e866e97d4", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verses 31 & 32", "verified": false},
+  "summary": {"text": "The teacher interprets sacrificial remnants at ritual, karma-yoga and knowledge levels: the deepest remainder is the ever-present Atma, not a newly produced reward. Attaining eternal Brahman means recognition rather than travel. Sacrifice also sustains meaningful participation in the shared world. The next verse validates diverse Vedic practices while locating their actions in body, speech and mind, not the actionless self. Practice purifies; knowledge liberates. Questions address Arjuna's transformation, witnessing bodily change, and whether witnesses are many. The teacher uses state-analysis and neti neti, then explains why he uses awareness and consciousness interchangeably.", "cue_ranges": [[19, 425], [429, 733], [741, 953], [1007, 1042]]},
+  "segments": [
+    {"id": "s01", "heading": "Purification and the sacrificial remainder", "cue_range": [19, 158], "shloka_refs": [{"ref": "BG 4.31", "basis": "stated-in-transcript", "cue_range": [73, 86]}], "blocks": [
+      {"kind": "paraphrase", "text": "The preceding sacrifices remove inner impurities and prepare self-knowledge. The teacher then unfolds the remnant as consecrated food, acceptance without fruit-craving, and finally recognition of the immortal self.", "cue_range": [19, 127]},
+      {"kind": "paraphrase", "text": "At the deepest level, removing ignorance does not create a new possession. What remains is the Atma that identification with the body had obscured.", "cue_range": [128, 158]}
+    ]},
+    {"id": "s02", "heading": "Eternal Brahman is recognized, not reached", "cue_range": [159, 260], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Sanathana distinguishes Brahman from finite heavenly results. Going to Brahman means disclosure of an already-present reality, not movement toward a previously absent destination.", "cue_range": [159, 185]},
+      {"kind": "paraphrase", "text": "The flower example distinguishes existence and awareness from the names, categories and qualities occupying attention. The teacher relates self-recognition to existence, awareness and happiness not dependent on otherness.", "cue_range": [186, 260]},
+      {"kind": "quote", "text": "Knowing is not an action.", "cue_range": [188, 188]}
+    ]},
+    {"id": "s03", "heading": "Offering sustains meaningful participation", "cue_range": [261, 382], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The warning about a life without sacrifice is presented as a consequence of taking without contributing, not a divine curse. At the inward level, unchecked appropriation leaves ignorance and bondage intact.", "cue_range": [261, 317]},
+      {"kind": "paraphrase", "text": "Sacrifice supports both participation in the shared order and recognition of the deathless ground. The liberated person's world remains an appearance in awareness, not an independently binding reality.", "cue_range": [318, 382]}
+    ]},
+    {"id": "s04", "heading": "Diverse sacrifices across the Vedic teaching", "cue_range": [383, 498], "shloka_refs": [{"ref": "BG 4.32", "basis": "stated-in-transcript", "cue_range": [441, 444]}], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary connects sacrificial living with fitness for knowledge and eventual attainment for seekers. The next verse surveys the diversity rather than dismissing preparatory practices.", "cue_range": [383, 455]},
+      {"kind": "paraphrase", "text": "Brahman's mouth is explained through the Veda as the means of knowing these practices, and also through Brahman as their pervading ground. Diversity answers differing capacities.", "cue_range": [456, 498]}
+    ]},
+    {"id": "s05", "heading": "Action prepares but cannot manufacture liberation", "cue_range": [499, 638], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Even inward study and contemplation involve deliberate mental activity. They produce purification and readiness, whereas the immediate recognition of Atma is not an action-produced result.", "cue_range": [499, 568]},
+      {"kind": "paraphrase", "text": "Knowing the range of practices, their preparatory character, knowledge's directness and Brahman as the ground integrates the series. Complete release is distinguished from temporary or partial relief.", "cue_range": [569, 638]}
+    ]},
+    {"id": "s06", "heading": "Actions belong to the instruments, not Atma", "cue_range": [639, 738], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher warns against treating sophisticated practice as a machine that produces knowledge. Purification does its work at the mind's level without acting on the self.", "cue_range": [639, 674]},
+      {"kind": "quote", "text": "I am actionless and unattached", "cue_range": [695, 697]},
+      {"kind": "paraphrase", "text": "The commentary locates sacrifices in bodily, verbal and mental functions. Right understanding releases their ownership: the self is neither their producer nor something altered by their refinement.", "cue_range": [677, 733]}
+    ]},
+    {"id": "s07", "heading": "Questions preserve preparation and witnessing", "cue_range": [739, 816], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Asked about demotion to a lower birth, the teacher redirects the warning toward an unexamined human life. Asked about reflection, he affirms its necessity while separating it from the final conviction.", "cue_range": [741, 781]},
+      {"kind": "paraphrase", "text": "For changes in body and mind, the instruction is to witness rather than claim them as identity. The witness knows waking, dream and sleep without becoming any one state-person.", "cue_range": [782, 816]}
+    ]},
+    {"id": "s08", "heading": "Arjuna and the question of many witnesses", "cue_range": [817, 953], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Arjuna's transformation is explained as loss of personal agency while the body continues its dharmic activity. Another question challenges whether differing experiences require multiple witnesses.", "cue_range": [817, 858]},
+      {"kind": "paraphrase", "text": "The teacher distinguishes varying contents from indivisible awareness, using room-space and existence examples. When the questioner remains unconvinced, he recommends observing state-identities or negating whatever is observed.", "cue_range": [859, 953]},
+      {"kind": "unresolved", "text": "The questioner reports a persistent difficulty with the singularity of witnessing; the exchange offers approaches but does not establish that the difficulty has been resolved.", "cue_range": [927, 953]}
+    ]},
+    {"id": "s09", "heading": "Awareness as an experiential word", "cue_range": [954, 1082], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant offers a long account involving language and meditation. In response to a terminology question, the teacher says awareness and consciousness are interchangeable in his usage.", "cue_range": [968, 1015]},
+      {"kind": "paraphrase", "text": "He favors awareness when consciousness sounds like something separate from oneself. Awareness points to immediately relatable knowing; a brief later reply describes a pure mind free of words.", "cue_range": [1016, 1042]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-atma", "label": "Atma", "gloss": "The already-present self, not a result manufactured by discipline.", "cue_range": [128, 158]},
+    {"id": "c-sanathana", "label": "Sanathana", "gloss": "The eternal character of Brahman contrasted with finite rewards.", "cue_range": [159, 177]},
+    {"id": "c-karmaja", "label": "Karmaja", "gloss": "Born of action: the preparatory character of sacrificial practices.", "cue_range": [499, 554]},
+    {"id": "c-chitta-shuddhi", "label": "Chitta Shuddhi", "gloss": "Mental purification that prepares recognition rather than producing the self.", "cue_range": [523, 554]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The witness of bodily change and the three states.", "cue_range": [787, 812]},
+    {"id": "c-neti-neti", "label": "neti neti", "gloss": "Negating observed identifications to recognize the observer.", "cue_range": [944, 951]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Sacrifices remove impurity] --> B[The immortal remainder is recognized]\n B --> C[Eternal Brahman is not a new destination]\n C --> D[Offering supports shared and inward life]\n D --> E[Diverse practices arise through action]\n E --> F[Action purifies the instruments]\n F --> G[Knowledge recognizes the actionless self]\n G --> H[Witness states and negate observed identity]"},
+  "gaps": [
+    {"cue_range": [17, 19], "note": "Invocation is badly garbled."},
+    {"cue_range": [708, 712], "note": "One ASR phrase appears to call the self an agent; the surrounding explicit actionlessness statements support the summary without silently repairing the phrase."},
+    {"cue_range": [875, 894], "note": "One line appears to deny infinity, while the surrounding passage denies multiplicity and explicitly affirms infinity. This local wording is not quoted as doctrine."},
+    {"cue_range": [968, 1006], "note": "Participant's language, numerology and meditation references are unclear; not reconstructed or attributed to the teacher."},
+    {"cue_range": [1026, 1058], "note": "Participant's extended personal account is not treated as a source of additional Gita teachings."}
+  ]
+}

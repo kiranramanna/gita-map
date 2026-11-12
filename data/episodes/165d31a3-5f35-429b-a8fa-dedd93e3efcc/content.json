@@ -1,0 +1,240 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "165d31a3-5f35-429b-a8fa-dedd93e3efcc",
+  "title": "Ch04-14-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "a10a7ef9d51c6c2d34eaa28141ec379733cada5501762bff3477b22e3e7330ef",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 17",
+    "verified": false
+  },
+  "summary": {
+    "text": "Recalling the verse 16 promise that knowing karma frees one from ashubha, the teacher takes up verse 17 as a table of contents for the karma vichara. Krishna names three categories, karma, vikarma and akarma, each with its own bodhavyam, an injunction to awaken to it, not merely know it. Karma covers scriptural and natural duties; vikarma is prohibited or deviated action that binds more strongly; akarma is not sitting idle but the Atman's non-doership as witness. Gahana karmano gatih says the depth is intrinsic, at the Mimamsa, karma-phala and paramarthika levels, so a guru and a shift of standpoint are needed. The verse prepares the inversion of verse 18. Q&A uses rope-snake and dream-lion analogies.",
+    "cue_ranges": [[23, 62], [139, 247], [248, 437], [438, 629], [671, 937]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome and housekeeping",
+      "cue_range": [1, 18],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The host opens the satsang, notes that the series reads the Gita from an Advaita perspective and is now in chapter 4, and points listeners to replays on Clubhouse, the Advaita Retold YouTube channel, Apple Podcasts and Spotify.", "cue_range": [1, 9]},
+        {"kind": "paraphrase", "text": "He mentions a book by Artemisia based on the teacher's insights, titled The Imaginary Door, and explains that chat and hand raising stay closed during the roughly hour-long class, with questions afterwards.", "cue_range": [10, 18]}
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Invocation and recap of the verse 16 promise",
+      "cue_range": [19, 62],
+      "shloka_refs": [
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [23, 39]},
+        {"ref": "BG 4.17", "basis": "stated-in-transcript", "cue_range": [43, 57]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [47, 53]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Verse 16 formally opens the enquiry into karma. Krishna's admission that even the kavis are confused is read not as despair but as epistemological honesty: karma's real nature lies beyond empirical, vyavaharika knowledge and needs the paramarthika knowledge of non-doership.", "cue_range": [23, 32]},
+        {"kind": "paraphrase", "text": "Krishna's word pravakshyami is a guarantee, and the promised result of freedom from ashubha marks this as the most practically weighty teaching; here the knowing itself is the liberation.", "cue_range": [32, 39]},
+        {"kind": "paraphrase", "text": "Verse 17 begins the precise categorization into karma, vikarma and akarma, which leads to the inversion of verse 18, seeing action in inaction and inaction in action, revealing the Atman's non-doership as the ground of all apparent actions.", "cue_range": [40, 57]},
+        {"kind": "paraphrase", "text": "Since Shankara's two sentences on verse 16 were decoded in detail earlier, the teacher will only read and translate them.", "cue_range": [57, 62]}
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Shankara on verse 16: identification is the problem",
+      "cue_range": [63, 138],
+      "shloka_refs": [
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [120, 124]},
+        {"ref": "BG 4.17", "basis": "stated-in-transcript", "cue_range": [125, 138]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Translating verse 16: what action and inaction are confuses even the wise, so Krishna will explain it, and knowing it frees one from samsara. Someone may look inactive yet gather karma, while another acts intensely and stays unbound.", "cue_range": [63, 80]},
+        {"kind": "quote", "text": "It is the identification that goes along with the action.", "cue_range": [85, 85]},
+        {"kind": "paraphrase", "text": "Following Shankara, bondage comes from the sense of doership, not from movement as such; knowledge of action's true nature destroys bondage, and recognising the self as non-doer ends it. Hence knowledge stays central in Advaita.", "cue_range": [81, 104]},
+        {"kind": "paraphrase", "text": "Shankara rejects the common view that karma is just bodily activity and akarma just sitting quietly, as if nothing subtle needed understanding. Verse 17 fulfils the first part of the promise by listing what must be understood, a kind of table of contents, while the deeper knowledge comes in verse 18.", "cue_range": [105, 138]},
+        {"kind": "unresolved", "text": "The Sanskrit recited from Shankara's commentary is heavily mis-transcribed; only the teacher's English rendering is usable.", "cue_range": [105, 107]}
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Verse 17: three terms and a triple injunction",
+      "cue_range": [139, 196],
+      "shloka_refs": [
+        {"ref": "BG 4.17", "basis": "stated-in-transcript", "cue_range": [143, 164]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The verse has a classifying and a rhetorical role. It lists karma, vikarma and akarma; attaches bodhavyam to each, so each needs its own careful understanding rather than one deduced from another; and with gahana karmano gatih says the difficulty lies in karma itself, not in our intellect.", "cue_range": [139, 161]},
+        {"kind": "paraphrase", "text": "Word by word: hi is emphatic, api means even, and bodhavyam, from the root budh, is an injunction that something must be known. Vikarma is viparita, prohibited action, and akarma is non-action, which the teacher distinguishes from mere inactivity.", "cue_range": [163, 184]},
+        {"kind": "paraphrase", "text": "Gahana means dense or hard to penetrate and gati the course of karma. The tavya suffix turns the verb into an epistemic obligation: knowing this is necessary, not optional.", "cue_range": [185, 196]}
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Bodha as awakening; even karma must be known",
+      "cue_range": [197, 247],
+      "shloka_refs": [
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [243, 247]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Choosing budh over jna matters: bodha is waking up to something, a fully awake grasp, as in bodhi and Atma Bodha. Its final object is the awakened knowing that I am the Atman, which underlies all three categories.", "cue_range": [197, 217]},
+        {"kind": "quote", "text": "The awakened understanding of it is not mere understanding.", "cue_range": [202, 202]},
+        {"kind": "paraphrase", "text": "Api upsets the assumption that ordinary action is self-evident; even karma, the most obvious category, needs deep study, foreshadowing gahana karmano gatih. Hi makes this a necessity for the liberation promised in verse 16, not just advice.", "cue_range": [218, 247]}
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Karma: prescribed duties and natural action",
+      "cue_range": [248, 273],
+      "shloka_refs": [
+        {"ref": "BG 4.13", "basis": "stated-in-transcript", "cue_range": [263, 267]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Karma here means the nitya and naimittika duties laid down by shastra, such as Agnihotra and Sandhya Vandana, along with natural actions that arise from one's svabhava and vasanas, the guna-karma division mentioned in verse 13.", "cue_range": [248, 268]},
+        {"kind": "paraphrase", "text": "Even these clear prescribed actions have depth: done without the knowledge of non-doership they bind, and even natural actions bind us.", "cue_range": [268, 273]}
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Vikarma: prohibited, deviated and strongly binding action",
+      "cue_range": [274, 360],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The prefix vi signals opposition: vikarma is action against the Dharmashastra, the forbidden or nishiddha. Doing it in secret still leaves an impression, since the self and mind witness it; escaping punishment once builds a tendency to repeat it.", "cue_range": [274, 300]},
+        {"kind": "paraphrase", "text": "Vikarma is distinct from prescribed karma and from non-action. Shankara's examples include violence outside a dharmic context, theft and deception; such acts leave papa, an adharmic residue that strengthens samsaric bondage.", "cue_range": [300, 318]},
+        {"kind": "quote", "text": "So Karma can also become Vikarma.", "cue_range": [343, 343]},
+        {"kind": "paraphrase", "text": "Knowing the prohibited complements knowing the prescribed, because the boundary is not always clear; prescribed action done carelessly, left unfinished or deviated also becomes vikarma.", "cue_range": [318, 347]},
+        {"kind": "paraphrase", "text": "Vikarma binds more deeply because stronger desire and a heavier sense of doership drive it, so understanding it completes the range of action's binding power.", "cue_range": [348, 360]}
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Akarma: the Atman's non-doership as witness",
+      "cue_range": [361, 437],
+      "shloka_refs": [
+        {"ref": "BG 4.14", "basis": "stated-in-transcript", "cue_range": [382, 388]},
+        {"ref": "BG 3.4", "basis": "stated-in-transcript", "cue_range": [416, 420]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [424, 428]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Akarma works on two levels. In vyavahara it means physically refraining from action, and taking that as the full meaning is what deludes the kavis. At the paramarthika level it is the Atman's own nature of non-doership, the unchanging sakshi beneath all apparent action.", "cue_range": [361, 378]},
+        {"kind": "paraphrase", "text": "Akarma bodha is placed last and is the culmination: only recognising the Atman as non-doer makes possible the non-binding of verse 14 and the freedom promised in verse 16. Without it, knowing karma and vikarma remains only ethical knowledge.", "cue_range": [379, 393]},
+        {"kind": "paraphrase", "text": "The progression karma, vikarma, akarma climbs from practical rules about what to do to the Atman's eternal non-acting ground. Reading akarma as mere withdrawal would reduce the Gita to nivritti, against chapter 3 verse 4.", "cue_range": [394, 420]},
+        {"kind": "paraphrase", "text": "This akarma bodha is itself Atma jnana, the direct recognition that I am the witness, which never acted in past, present or future. Verse 18 will clarify it.", "cue_range": [421, 437]}
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Gahana karmano gatih: three levels of depth",
+      "cue_range": [438, 529],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [507, 516]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Gahana comes from a root meaning to plunge in, and is used of forests so dense light cannot enter. It is not ordinary difficulty: the depth belongs to karma itself, and only a shift from the empirical to the absolute standpoint sees through it.", "cue_range": [438, 463]},
+        {"kind": "quote", "text": "It is not a temporary obstacle, it is the nature of karma itself.", "cue_range": [454, 455]},
+        {"kind": "paraphrase", "text": "Gati covers how karma moves, its hidden mechanism and the destination it leads to.", "cue_range": [464, 476]},
+        {"kind": "paraphrase", "text": "Shankara gives three levels. For Mimamsa experts, the line between prescribed and prohibited is subtle and still debated. At the karma-phala level, how karma yields results through apurva, adrishta or Ishwara, and when it ripens, is opaque. At the paramarthika level, the non-doer Atman appears as doer through adhyasa.", "cue_range": [477, 522]},
+        {"kind": "paraphrase", "text": "The phrase is both a warning against complacency, since knowing Mimamsa rules is not knowing karma, and a motivation.", "cue_range": [523, 529]}
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Guru, verse structure and the two standpoints",
+      "cue_range": [530, 629],
+      "shloka_refs": [
+        {"ref": "BG 4.11", "basis": "stated-in-transcript", "cue_range": [566, 573]},
+        {"ref": "BG 3.27", "basis": "stated-in-transcript", "cue_range": [580, 584]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [616, 629]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Because karma's course cannot be penetrated by independent reasoning or reading alone, a guru established in non-doership, like Krishna, is indispensable. Gahana also echoes the Nasadiya Sukta of the Rig Veda, which asks who truly knows where creation arose; samsara is beginningless.", "cue_range": [530, 549]},
+        {"kind": "unresolved", "text": "The Sanskrit quoted from the Nasadiya Sukta is garbled in the transcript and cannot be reliably read.", "cue_range": [540, 541]},
+        {"kind": "paraphrase", "text": "The verse opens and closes with karma, with vikarma and akarma in between, and its gati recalls Krishna's mama vartma in verse 11.", "cue_range": [563, 574]},
+        {"kind": "quote", "text": "From the paramartika standpoint, no action ever truly occurs.", "cue_range": [577, 578]},
+        {"kind": "paraphrase", "text": "Paramarthika: only prakriti acts, as in chapter 3 verse 27, and even that is vivarta in Nirguna Brahman. Vyavaharika: action is real and its fruits drive samsara. Both hold at once, logic cannot reconcile them, and only akarma bodha transcends this, setting up the inversion of verse 18.", "cue_range": [579, 629]}
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Shankara's commentary on verse 17 and close",
+      "cue_range": [630, 670],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [665, 665]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Reading Shankara: something must be understood about action prescribed by scripture, about prohibited action, and about akarma that looks like mere quietness; the phrase is supplied to all three because the matter is deep, and karma in the last quarter stands for all three.", "cue_range": [630, 650]},
+        {"kind": "paraphrase", "text": "Ethically, the karma and vikarma distinction affirms dharma; metaphysically, the karma and akarma distinction reveals the actionless self. Action must be read through intention, identification and knowledge.", "cue_range": [651, 664]},
+        {"kind": "paraphrase", "text": "The teacher closes with the Purnamadah invocation and defers verse 18 to the next day; the host opens the floor for questions.", "cue_range": [665, 670]}
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: difficult or impossible; the jeevan mukta",
+      "cue_range": [671, 737],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "A questioner asks whether karma's course is impossible to understand rather than merely difficult. The teacher answers that it is impossible from the empirical standpoint, where karma is real; only as the witnessing Atman do karma and vikarma become appearance.", "cue_range": [673, 700]},
+        {"kind": "paraphrase", "text": "Asked whether even a jeevan mukta could predict karma's results, the teacher says such a person knows apurva and adrishta as unreal and does not bother tracing them.", "cue_range": [701, 719]},
+        {"kind": "quote", "text": "It is just like chasing the snake which was seen on the rope.", "cue_range": [720, 721]},
+        {"kind": "paraphrase", "text": "Participants thank the teacher, one likening the class to a maths lecture that finally delivers the formula.", "cue_range": [722, 737]}
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: identification, dream lion, knowledge versus knowing",
+      "cue_range": [738, 915],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Asked how the mistake of identification arises, the teacher says we assume we are involved in action and bound by prohibitions, which leads to endless Mimamsa-style questions about limits. Once one sees the rope was never a snake, such questions become irrelevant.", "cue_range": [740, 775]},
+        {"kind": "quote", "text": "It's just like the lion in the dream is attacking you", "cue_range": [787, 788]},
+        {"kind": "paraphrase", "text": "Knowing we are the akarta Atman releases fear, as waking does from a dream lion; the questioner prefers saying the Atman cannot be attacked rather than separating from the body.", "cue_range": [776, 814]},
+        {"kind": "paraphrase", "text": "Another participant describes awareness taking on the laws of whatever level it occupies. The teacher prefers ignorant of being the Atman to unconscious, since the latter implies a subject-object split.", "cue_range": [815, 856]},
+        {"kind": "paraphrase", "text": "On whether liberation means holding a piece of knowledge: knowledge held in the mind depends on words and forms; remaining as awareness is the jeevan mukta state, where knowledge becomes knowing, free of the mind as instrument.", "cue_range": [857, 915]}
+      ]
+    },
+    {
+      "id": "s14",
+      "heading": "Q&A: Krishna's own action; closing announcements",
+      "cue_range": [916, 975],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [946, 957]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Asked whether Krishna himself falls under this law of karma, the teacher recalls Krishna's answer that nothing in the three worlds remains for him to attain, yet he appears to act; verse 18 will show how a jeevan mukta or Ishwara only apparently acts.", "cue_range": [916, 937]},
+        {"kind": "unresolved", "text": "The teacher does not name the verse he paraphrases for Krishna's answer about the three worlds, so its location is left unidentified here.", "cue_range": [925, 927]},
+        {"kind": "paraphrase", "text": "The host thanks everyone, announces that the next session on verse 18 is at 8:30 PM IST, and repeats where replays and the book can be found; the teacher thanks the questioners and says goodnight.", "cue_range": [948, 975]}
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-karma", "label": "karma", "gloss": "Action prescribed by scripture, nitya and naimittika duties, together with natural action from one's disposition.", "cue_range": [248, 273]},
+    {"id": "c-vikarma", "label": "Vikarma", "gloss": "Prohibited or deviated action, more binding because of stronger desire and doership.", "cue_range": [274, 360]},
+    {"id": "c-akarma", "label": "Akarma", "gloss": "Not mere inactivity but the Atman's essential non-doership.", "cue_range": [361, 437]},
+    {"id": "c-bodhavyam", "label": "bodhavyam", "gloss": "That which must be awakened to; an injunction attached to each of the three categories.", "cue_range": [139, 247]},
+    {"id": "c-gahana", "label": "gahana", "gloss": "Dense, impenetrable; the intrinsic depth of karma's course.", "cue_range": [438, 529]},
+    {"id": "c-kavi", "label": "kavis", "gloss": "The wise or seers, who are said to be confused about action.", "cue_range": [23, 39]},
+    {"id": "c-akartritva", "label": "Akarthrutva", "gloss": "Non-doership as the nature of the Atman.", "cue_range": [361, 437]},
+    {"id": "c-kartritva", "label": "doership", "gloss": "The sense of being the doer, identified as the real cause of bondage.", "cue_range": [81, 104]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The unacting witness underlying all apparent action.", "cue_range": [361, 437]},
+    {"id": "c-vyavaharika", "label": "vyavaharika", "gloss": "The empirical standpoint, where action is real.", "cue_range": [23, 32]},
+    {"id": "c-paramarthika", "label": "paramarthika", "gloss": "The absolute standpoint, where no action truly occurs.", "cue_range": [23, 32]},
+    {"id": "c-apurva", "label": "Apoorva", "gloss": "A Mimamsa term for the unseen link between an action and its result.", "cue_range": [495, 505]},
+    {"id": "c-adhyasa", "label": "adyasa", "gloss": "Superimposition of doership on the non-doer Atman.", "cue_range": [506, 522]},
+    {"id": "c-vivarta", "label": "Vivarta", "gloss": "Apparent transformation; even prakriti's action is an appearance in Brahman.", "cue_range": [579, 590]},
+    {"id": "c-jivanmukta", "label": "Jeevan Mukta", "gloss": "One liberated while embodied, who remains as awareness.", "cue_range": [701, 719]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Verse 16: even the wise are confused, Krishna promises to explain karma] --> B[Verse 17 lists three categories, each to be awakened to]\n  B --> C[Karma: prescribed and natural duties, binding without non-doership]\n  B --> D[Vikarma: prohibited or deviated action, strongly binding]\n  B --> E[Akarma: the Atman as non-doing witness]\n  C --> F[Gahana karmano gatih: depth intrinsic to karma]\n  D --> F\n  E --> F\n  F --> G[Three levels: Mimamsa rules, karma and fruit, Atman appearing as doer]\n  G --> H[Guru needed and shift from empirical to absolute standpoint]\n  H --> I[Sets up verse 18 inversion: action in inaction]\n  I --> J[Q and A: rope snake and dream lion, knowledge becomes knowing]"
+  },
+  "gaps": [
+    {"cue_range": [19, 23], "note": "Opening invocation is mis-transcribed Sanskrit; not summarised."},
+    {"cue_range": [63, 64], "note": "Recitation of Shankara's commentary on verse 16 is garbled; only the English translation that follows is used."},
+    {"cue_range": [105, 107], "note": "Sanskrit commentary passage garbled in the transcript."},
+    {"cue_range": [540, 541], "note": "Nasadiya Sukta quotation garbled; not reproduced."},
+    {"cue_range": [938, 947], "note": "Host and participant chatter (names, emoji, reserving a question for verse 18); not summarised in detail."}
+  ]
+}

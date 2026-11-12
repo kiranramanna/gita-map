@@ -1,0 +1,55 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "d75a6826-9090-437f-86e8-814ebd2f10b6",
+  "title": "Ch04-28-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "86df7c58eaebbc1e5777e61f7ab95fd5ddda5c6598a02e881da3e566464dc6d5", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verses 34 & 35", "verified": false},
+  "summary": {"text": "The supremacy of knowledge raises a practical question: how does a seeker approach it? The teacher explains ego-surrender, comprehensive sincere questioning and sustained service as complementary aspects of discipleship. A teacher needs both scriptural means of communication and direct recognition of truth. Instruction redirects attention toward the innermost subject rather than supplying another object of knowledge. The next verse promises an end to delusion and a positive vision of all beings in Atma and in Krishna. These are explained as two perspectives on one nondual recognition; the teacher explicitly leaves the explanation unfinished.", "cue_ranges": [[21, 134], [135, 231], [232, 470], [472, 624]]},
+  "segments": [
+    {"id": "s01", "heading": "The seeker asks how knowledge is approached", "cue_range": [21, 134], "shloka_refs": [{"ref": "BG 4.34", "basis": "stated-in-transcript", "cue_range": [31, 47]}], "blocks": [
+      {"kind": "paraphrase", "text": "The next teaching answers how to approach the knowledge in which action culminates. The guru-disciple relationship is presented as its living vehicle.", "cue_range": [21, 69]},
+      {"kind": "paraphrase", "text": "Pranipata means more than bodily prostration: surrender the ego's claims to superior understanding, incompleteness and agency so the teaching can be received rather than defended against.", "cue_range": [70, 134]}
+    ]},
+    {"id": "s02", "heading": "Questioning is active reflection, not contest", "cue_range": [135, 186], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Pariprasna examines doubt and misunderstanding from every side. The teacher distinguishes this inquiry from trying to defeat, test or find fault with the teacher.", "cue_range": [135, 168]},
+      {"kind": "paraphrase", "text": "A declaration alone cannot do the student's reflecting. Voicing objections and receiving clarification makes manana interactive until uncertainty is removed.", "cue_range": [169, 186]}
+    ]},
+    {"id": "s03", "heading": "Service makes surrender continuous", "cue_range": [187, 258], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Seva is sustained, willing participation rather than hired labor. Daily proximity offers occasions to see the teaching embodied and to relinquish ego through ordinary responsibilities.", "cue_range": [187, 224]},
+      {"kind": "paraphrase", "text": "Together surrender, questioning and service express the disciple's preparation. The promise of instruction is explained conditionally: genuine receptivity meets a teacher who points toward directly seeing Atma.", "cue_range": [225, 258]}
+    ]},
+    {"id": "s04", "heading": "The teacher needs learning and direct recognition", "cue_range": [259, 392], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Scriptural expertise supplies content and reasoning, but alone does not establish direct recognition. Conversely, experience without communicative tools may fail to guide another person.", "cue_range": [270, 360]},
+      {"kind": "paraphrase", "text": "The ideal combines learned exposition with living establishment in truth. The teacher connects this pairing with the Upanishadic description of a qualified guru.", "cue_range": [361, 392]}
+    ]},
+    {"id": "s05", "heading": "Instruction turns attention toward the subject", "cue_range": [393, 471], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Independent study can remain indirect because Atma is the knowing subject, not another object. The guru's pointing redirects attention toward what was always present.", "cue_range": [393, 424]},
+      {"kind": "paraphrase", "text": "The commentary's sample questions concern bondage, release, knowledge and ignorance. It stresses the effectiveness of instruction grounded in truth rather than mere verbal learning.", "cue_range": [432, 470]}
+    ]},
+    {"id": "s06", "heading": "Delusion ends through corrected identification", "cue_range": [472, 548], "shloka_refs": [{"ref": "BG 4.35", "basis": "stated-in-transcript", "cue_range": [505, 510]}], "blocks": [
+      {"kind": "paraphrase", "text": "Moha includes confusing body with self, agent with non-agent, and transient things with permanence. Arjuna's paralysis illustrates the practical force of this confusion.", "cue_range": [472, 510]},
+      {"kind": "paraphrase", "text": "The promised non-return of delusion rests on sublation rather than temporary suppression. The bodily identification is recognized as a superimposition instead of being treated as reality.", "cue_range": [511, 548]}
+    ]},
+    {"id": "s07", "heading": "All beings in Atma and in Krishna", "cue_range": [549, 649], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The positive side of the same knowledge is seeing every being within Atma. Forms continue to appear, but no longer as realities independent of consciousness.", "cue_range": [549, 596]},
+      {"kind": "quote", "text": "not two different visions", "cue_range": [614, 617]},
+      {"kind": "paraphrase", "text": "Seeing beings in oneself and in Krishna discloses the identity of inward self and Brahman from complementary directions. The teacher says further explanation is needed and postpones completion.", "cue_range": [598, 626]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-pranipata", "label": "Pranipata", "gloss": "Surrender of the ego that makes discipleship receptive.", "cue_range": [225, 231]},
+    {"id": "c-pariprasna", "label": "Pariprasna", "gloss": "Sincere, comprehensive questioning that voices reflection.", "cue_range": [135, 150]},
+    {"id": "c-seva", "label": "Seva", "gloss": "Continuous service and proximity renewing surrender.", "cue_range": [195, 224]},
+    {"id": "c-tattva-darshi", "label": "Tattva darshi", "gloss": "A teacher who has directly recognized truth.", "cue_range": [314, 324]},
+    {"id": "c-pratyagatma", "label": "Prathyagatma", "gloss": "The innermost subject, not an ordinary object of cognition.", "cue_range": [393, 408]},
+    {"id": "c-moha", "label": "Moha", "gloss": "Confusion of self with body, agency and impermanence.", "cue_range": [480, 493]},
+    {"id": "c-sarvatma-bhava", "label": "Sarvat Mahava", "gloss": "The inclusive vision of Brahman without excluding any being.", "cue_range": [560, 588]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[How to approach liberating knowledge] --> B[Ego-surrender]\n A --> C[Sincere questioning]\n A --> D[Continuous service]\n B --> E[Receptive disciple and qualified teacher]\n C --> E\n D --> E\n E --> F[Instruction redirects attention to the subject]\n F --> G[Misidentification is sublated]\n G --> H[All beings recognized in Atma and Brahman]"},
+  "gaps": [
+    {"cue_range": [21, 24], "note": "Invocation and transition are truncated; no Sanskrit supplied."},
+    {"cue_range": [198, 210], "note": "An initial phrase denies temporal and embodied character before the following explanation affirms both; the coherent elaboration supports the paraphrase."},
+    {"cue_range": [262, 264], "note": "A quoted passage receives an uncertain chapter/verse attribution; not propagated as a scripture identifier."},
+    {"cue_range": [645, 648], "note": "Closing verse number differs from the main discussion and uploader description; the current explanation is explicitly unfinished."}
+  ]
+}

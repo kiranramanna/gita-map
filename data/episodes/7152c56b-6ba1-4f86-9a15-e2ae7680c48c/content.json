@@ -1,0 +1,432 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "7152c56b-6ba1-4f86-9a15-e2ae7680c48c",
+  "title": "Ch03-20-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "fbfe93dd4a0017c14bce63abd892a01b17333f523d33d9bbacbc39a9cfc48dc8",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 03 verses 40 & 41",
+    "verified": false
+  },
+  "summary": {
+    "text": "Having named Kama and Krodha as the eternal enemy, Krishna in verse 40 locates their seat: the indriyas, the mana and the buddhi. Following Shankaracharya, these run from grossest to subtlest; a corrupted buddhi, most dangerous, justifies desire as Dharma. Using these bases, Kama covers Nyana (avarana) and then deludes the dehin (vikshepa), which answers Arjuna's question in verse 36. Verse 41 begins the remedy with tasmat: Arjuna himself must first regulate the senses through viveka-based niyama, not forcible suppression, and then destroy Kama, the destroyer of Nyana and Vignana. This prajahihi sums up the third chapter and points back to the sthitaprajna of 2.55. The Q&A explores the three coverings, the jnani as akarta, and the chariot image.",
+    "cue_ranges": [[19, 59], [68, 173], [213, 311], [326, 348], [375, 619], [661, 923]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome, resources and invocation",
+      "cue_range": [1, 18],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host opens the Advaita Vedanta Satsang session, notes that the class is on chapter 3, points listeners to replays on Clubhouse, YouTube, Apple and Spotify and to a book based on Bindoji's insights, and explains that chat and hand raising stay closed until a Q&A period after the class.",
+          "cue_range": [1, 15]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks the host and recites an opening invocation addressed to Shankara.",
+          "cue_range": [15, 18]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap and verse 40: where Kama resides",
+      "cue_range": [19, 67],
+      "shloka_refs": [
+        {"ref": "BG 3.40", "basis": "stated-in-transcript", "cue_range": [38, 44]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Recap: Krishna had told Arjuna that desire and anger, insatiable like fire, are the eternal enemy that veils knowledge and keeps samsara going, so their dwelling places must be found. The teacher hopes to cover verses 40 to 43 today.",
+          "cue_range": [19, 26]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya's introduction frames the verse as an answer to a question: where do Kama and Krodha operate from? An enemy can be removed with the right means only once its hiding place is known.",
+          "cue_range": [27, 38]
+        },
+        {
+          "kind": "quote",
+          "text": "The sense organs, the mind, the intellect, Indriyani mano buddhi asthya adistana muchade are said to be the seat of this Kama and khroda.",
+          "cue_range": [42, 44]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Krishna's answer is direct: residing in senses, mind and intellect, desire covers knowledge and confuses the embodied one, the dehin.",
+          "cue_range": [45, 59]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Listeners are reminded of the three coverings given earlier: smoke over fire, dust on a mirror, and a thin membrane around an embryo, to be kept in mind for today's verses.",
+          "cue_range": [60, 67]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Indriyas and mind as seats of Kama",
+      "cue_range": [68, 146],
+      "shloka_refs": [
+        {"ref": "BG 3.6", "basis": "stated-in-transcript", "cue_range": [136, 140]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Per Shankaracharya, indriyas means all ten: five organs of perception and five of action. They are the outermost locus of Kama, where it pushes the organs toward objects through raga and dvesha. Being in direct contact with the world, they are listed first as the most grossly observable seat.",
+          "cue_range": [68, 95]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher compares this level with the embryo covered by its membrane: we meet the world only through names and forms, which hide the underlying Brahman or Atman so that our knowledge cannot break through.",
+          "cue_range": [95, 109]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The mana, including chitta, is subtler: Shankaracharya describes it as the inner organ of sankalpa and vikalpa. Desire here works as volition that reaches for objects even before sense contact; the senses only register what the mind directs them to, and fantasy can rehearse and enlarge a craving with no object present.",
+          "cue_range": [110, 135]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The hypocrite of 3.6, outwardly still but inwardly dwelling on sense objects, shows that closing the eyes or retreating to a cave does not stop desire if the mind keeps amplifying it.",
+          "cue_range": [136, 146]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Buddhi: subtlest seat; adhisthana as operational base",
+      "cue_range": [147, 212],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The buddhi, the faculty of determination and judgment, is the subtlest member of the triad. Shankaracharya calls it the inner organ of definite decision. Kama there is hardest to detect and most dangerous, since the buddhi is the very viveka that ought to see through desire.",
+          "cue_range": [147, 158]
+        },
+        {
+          "kind": "quote",
+          "text": "When Kama has penetrated the level of buddhi, it distorts the very judgment that should recognize it as an enemy.",
+          "cue_range": [159, 160]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Such a person rationalises: desire is presented as Dharma, attachment as love, and cravings, even for devotion or social service, as legitimate needs.",
+          "cue_range": [161, 173]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Adhisthana means a firm support, not just an address: Kama controls the three and uses them as instruments. Their gross-to-subtle order matches outer, middle and inner levels, and the sadhana of the coming verses. Through these, vimohayati, Kama thoroughly bewilders the embodied jiva.",
+          "cue_range": [174, 212]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Dehin deluded: avarana then vikshepa",
+      "cue_range": [213, 311],
+      "shloka_refs": [
+        {"ref": "BG 3.38-39", "basis": "stated-in-transcript", "cue_range": [220, 223]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The teacher says this is the first place Krishna uses the word dehin. Moha blocks viveka between self and non-self, desire and duty, enemy and friend. The knowledge veiled is the same as in verses 38 and 39.",
+          "cue_range": [213, 223]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The order is first covering, then deluding. Shankaracharya ties this to the two powers of avidya, concealment and projection, illustrated by rope and snake, nacre and silver, post and ghost.",
+          "cue_range": [224, 241]
+        },
+        {
+          "kind": "quote",
+          "text": "Avarana hides the truth reality and bhiksheba projects the false reality in its place and both are done by Kama.",
+          "cue_range": [242, 243]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Dehin, the bearer of the body, is chosen because only through bodily equipment can Kama operate; the Atman without that identification has no senses, mind or intellect and is never itself deluded. The teacher then summarises the map: sense craving, mental volition, and corrupted judgment, each subtler and harder to overcome.",
+          "cue_range": [244, 285]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Once knowledge is veiled, Kama projects its own reality: objects appear to be the source of Ananda, the body appears as the self, and doership seems real. Removing this needs more than lifting a veil; Nyana must positively arise through sadhana.",
+          "cue_range": [286, 311]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Sadhana in reverse order; answer to verse 36",
+      "cue_range": [312, 374],
+      "shloka_refs": [
+        {"ref": "BG 3.42-43", "basis": "stated-in-transcript", "cue_range": [319, 319]},
+        {"ref": "BG 3.36", "basis": "stated-in-transcript", "cue_range": [328, 330]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The same triad is where the remedy works, but from subtlest to grossest: steady the buddhi by Atma-viveka, govern the mind through it, then regulate the senses through the mind, as a charioteer reins horses. The teacher says verses 42 and 43 will explain this.",
+          "cue_range": [312, 325]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This answers Arjuna's question from verse 36 about sinning as if forced. With knowledge covered and the dehin deluded, Papa even looks virtuous; the person, whose faculties now serve Kama, acts as if compelled. Release comes through Karma Yoga and finally Atma-jnana.",
+          "cue_range": [326, 348]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Restating verse 40, the senses meet objects, the mind reacts with liking and aversion, and the intellect justifies and decides. Kama seizes the buddhi first by hiding knowledge, so it can no longer guide mind and senses, leaving many forms of misjudgement.",
+          "cue_range": [349, 374]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Verse 41: therefore, you, first regulate the senses",
+      "cue_range": [375, 464],
+      "shloka_refs": [
+        {"ref": "BG 3.41", "basis": "stated-in-transcript", "cue_range": [375, 380]},
+        {"ref": "BG 3.33", "basis": "stated-in-transcript", "cue_range": [452, 455]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 41 is recited and rendered: first discipline the senses, then destroy this sinful destroyer of Nyana and Vijnana. The word tasmat ties the practice in verses 41 to 43 to the preceding analysis of Kama; without that understanding it would be a bare command.",
+          "cue_range": [375, 398]
+        },
+        {
+          "kind": "quote",
+          "text": "Sadhana has to be performed by oneself on oneself.",
+          "cue_range": [405, 405]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The pronoun tvam stresses personal, urgent responsibility: unlike a yaga done by a priest for the patron, nobody else can do this. The senses naturally turn outward, as in the Katha Upanishad passage discussed earlier; regulation turns them in.",
+          "cue_range": [399, 427]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Adau, first, fixes the order: begin with the most accessible seat. Shankaracharya's chain runs from sense control to purity of mind, then of buddhi, then viveka-jnana.",
+          "cue_range": [428, 448]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Niyamya differs from the nigraha criticised in 3.33, which was forcible suppression without inner change. Here regulation is guided by viveka, a withdrawal of the senses from objects understood as pratyahara in an Advaitic sense.",
+          "cue_range": [449, 464]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Papmanam, prajahihi, and destroyer of Nyana and Vijnana",
+      "cue_range": [465, 559],
+      "shloka_refs": [
+        {"ref": "BG 3.37", "basis": "stated-in-transcript", "cue_range": [469, 471]},
+        {"ref": "BG 2.55", "basis": "stated-in-transcript", "cue_range": [486, 491]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya takes papmanam to be Kama itself, the cause of sin and the great sinner of verse 37. Prajahihi means abandon wholly or destroy; it is the culminating command of chapter 3, since Karma Yoga cannot succeed without it.",
+          "cue_range": [465, 484]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya links prajahihi to 2.55, where the sthitaprajna gives up all desires, so the third chapter circles back to the second. Enam, this one, makes the confrontation immediate: the enemy is present now in your own senses, mind and intellect.",
+          "cue_range": [485, 506]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Nyana is mediate scriptural knowledge of Atman from sravana and manana, an intellectual conviction. Vijnana is direct, experiential realisation through the teacher and nididhyasana, the aham brahmasmi that is the cause of moksha. Kama extinguishes both: the first by corrupting judgment, the second by sense disturbance and mental agitation.",
+          "cue_range": [507, 559]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Kama must be destroyed; chapter 3 synthesised",
+      "cue_range": [560, 619],
+      "shloka_refs": [
+        {"ref": "BG 3.1-2", "basis": "stated-in-transcript", "cue_range": [588, 590]},
+        {"ref": "BG 3.10-16", "basis": "stated-in-transcript", "cue_range": [591, 592]},
+        {"ref": "BG 3.30-35", "basis": "stated-in-transcript", "cue_range": [598, 599]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "We are Atman, but lapses in alertness bound us to the body and let Kama conquer the triad. Even close to realisation, perhaps after many lives, any remnant of desire or anger can strike, which is the only answer to Arjuna's question about the compelling force.",
+          "cue_range": [560, 583]
+        },
+        {
+          "kind": "quote",
+          "text": "This is why Khama must be completely destroyed, not merely managed.",
+          "cue_range": [568, 569]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher traces the chapter: Arjuna's opening question on knowledge versus action, the cycle of yajna, the jnani's freedom and lokasangraha, doership, practical Karma Yoga, and finally Kama as the root obstacle. Prajahihi is its essence, leading via chitta-shuddhi to Atma-jnana and back to the sthitaprajna of chapter 2.",
+          "cue_range": [584, 619]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Re-reading verse 41 with commentary; class closes",
+      "cue_range": [620, 660],
+      "shloka_refs": [
+        {"ref": "BG 3.42-43", "basis": "stated-in-transcript", "cue_range": [659, 660]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Saying the remaining two verses must wait for Monday, the teacher reads through verse 41 again: restrain the senses first, since desire enters through them, and cast off this inborn inner enemy that ruins knowledge and realisation.",
+          "cue_range": [620, 635]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Nyana is defined as understanding gained from scripture and the acharya; Vijnana as direct experience of that same truth. By blocking both, desire blocks the path to the highest good, so the seeker must see it as an enemy and abandon it. Verses 42 and 43 are deferred rather than rushed.",
+          "cue_range": [636, 660]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: sense discipline first; the three coverings",
+      "cue_range": [661, 742],
+      "shloka_refs": [
+        {"ref": "BG 2.62", "basis": "stated-in-transcript", "cue_range": [723, 725]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A participant recalls an austere hatha yoga regimen and says the lecture shows a bottom-up approach where disciplining the body comes first. The teacher agrees the verse gives the why, while the how follows; the buddhi part will become clear in the next two verses.",
+          "cue_range": [661, 695]
+        },
+        {
+          "kind": "quote",
+          "text": "What to be done is told, but how it is not told here.",
+          "cue_range": [682, 683]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Srini offers a thorn-removing analogy. The teacher prefers Krishna's three coverings as degrees of Kama's grip, and cites 2.62: desire arises at contact, but the fault begins with lost discrimination, then lost mind control. Delusion lies in buddhi and mind; senses follow.",
+          "cue_range": [697, 742]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: Karma Yoga levels and the jnani as akarta",
+      "cue_range": [743, 829],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Asked whether Karma Yoga suits only some of the three cases, the teacher says it must start at mind and intellect, while noting a two-way traffic: deluded intellect projects the self's Ananda onto objects, and sense contact keeps feeding confusion back until discrimination is strong.",
+          "cue_range": [743, 771]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "For the jnani there is no Karma Yoga level; he is akarta, seeing sense activity as the gunas acting on gunas. Kama acts only where doership and enjoyership remain.",
+          "cue_range": [772, 796]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Replying to Venkat, the teacher says knowledge and realisation in this sense run up to nididhyasana. At the manana stage one accepts being Atman yet can still be attacked by desire and anger; once nididhyasana bears fruit as aham brahmasmi, such confusion cannot arise.",
+          "cue_range": [797, 829]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: one instrument, and the chariot image",
+      "cue_range": [830, 923],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A participant asks whether three differently dirty dishes need three detergents. The teacher rejects the analogy: the three seats are levels of one instrument, the body, with mind and senses a composite unit, and an intellect that knows but has not yet realised itself as non-doer.",
+          "cue_range": [830, 864]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The fitting image is the chariot: Atman as owner, body as chariot, buddhi as charioteer, senses as horses. A charioteer who does not know the road lets the horses run until Atma-knowledge corrects the course.",
+          "cue_range": [865, 882]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher says Krishna gives this chariot image later in the Gita, but the transcript gives no verse number and the recited Sanskrit is garbled, so the exact source cannot be identified from the transcript.",
+          "cue_range": [866, 870]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Atma-jnana works at two levels: as textual understanding it is still under desire and anger; as direct realisation one is free, the waking world seen as unreal and the witness alone real. Then there is no charioteer at all.",
+          "cue_range": [883, 918]
+        },
+        {
+          "kind": "quote",
+          "text": "We are thinking we are the chariot, but we are not the chariot. We are owner of the chariot.",
+          "cue_range": [921, 923]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "heading": "Closing announcements",
+      "cue_range": [924, 945],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host thanks the teacher for the deep look at how desire and anger operate, repeats where replays are available, and announces a break day followed by a Sunday open Advaita discussion at 8:30 PM IST.",
+          "cue_range": [924, 939]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks participants and says the last two verses of chapter 3 will be taken on Monday before moving to chapter 4.",
+          "cue_range": [940, 945]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-kama", "label": "Kama", "gloss": "desire, named as the enemy that veils knowledge", "cue_range": [19, 59]},
+    {"id": "c-krodha", "label": "Kroda", "gloss": "anger, paired with desire as the enemy", "cue_range": [50, 53]},
+    {"id": "c-indriya", "label": "indriyas", "gloss": "the ten sense and action organs; the grossest seat of desire", "cue_range": [68, 95]},
+    {"id": "c-manas", "label": "mana", "gloss": "mind; faculty of volition and doubt, middle seat of desire", "cue_range": [110, 135]},
+    {"id": "c-buddhi", "label": "buddhi", "gloss": "intellect; faculty of decision, subtlest seat of desire", "cue_range": [147, 173]},
+    {"id": "c-adhisthana", "label": "Adisthanam", "gloss": "firm base from which desire operates", "cue_range": [174, 182]},
+    {"id": "c-viveka", "label": "viveka", "gloss": "discrimination between self and non-self", "cue_range": [154, 160]},
+    {"id": "c-dehin", "label": "dehin", "gloss": "the embodied one, the jiva identified with the body", "cue_range": [213, 254]},
+    {"id": "c-moha", "label": "Moha", "gloss": "delusion that prevents discrimination", "cue_range": [215, 216]},
+    {"id": "c-avarana", "label": "Avarana", "gloss": "power of concealment of avidya", "cue_range": [226, 243]},
+    {"id": "c-vikshepa", "label": "Vikshepa", "gloss": "power of projection of avidya", "cue_range": [233, 243]},
+    {"id": "c-niyama", "label": "Niyama", "gloss": "regulation of the senses guided by understanding", "cue_range": [449, 464]},
+    {"id": "c-nigraha", "label": "Nigraha", "gloss": "forcible suppression without inner change", "cue_range": [452, 455]},
+    {"id": "c-pratyahara", "label": "Pratyahara", "gloss": "withdrawing the senses from their objects", "cue_range": [460, 463]},
+    {"id": "c-jnana", "label": "Nyana", "gloss": "mediate knowledge of Atman from scripture and teacher", "cue_range": [507, 520]},
+    {"id": "c-vijnana", "label": "Vignana", "gloss": "direct experiential realisation of Atman as Brahman", "cue_range": [520, 555]},
+    {"id": "c-sthitaprajna", "label": "Sidapraknya", "gloss": "one of steady wisdom who has given up all desires", "cue_range": [485, 493]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[\"Kama and Krodha named the eternal enemy\"] --> B[\"Verse 40 asks where the enemy resides\"]\n  B --> C[\"Seats: senses, mind, intellect, gross to subtle\"]\n  C --> D[\"Kama covers knowledge then deludes the dehin\"]\n  D --> E[\"Explains acting as if compelled, verse 36\"]\n  D --> F[\"Remedy runs in reverse order\"]\n  F --> G[\"Verse 41: therefore you first regulate the senses\"]\n  G --> H[\"Niyama with viveka, not forcible suppression\"]\n  H --> I[\"Destroy Kama, destroyer of Nyana and Vijnana\"]\n  I --> J[\"Essence of chapter 3, back to sthitaprajna\"]\n  J --> K[\"Q and A: three coverings, akarta, chariot image\"]"
+  },
+  "gaps": [
+    {"cue_range": [17, 18], "note": "Invocation in Sanskrit is mis-transcribed; not reproduced."},
+    {"cue_range": [27, 29], "note": "Sanskrit from Shankaracharya's introduction is garbled ASR; only the teacher's English gloss is summarised."},
+    {"cue_range": [33, 34], "note": "Garbled Sanskrit of the commentary; not reproduced."},
+    {"cue_range": [39, 41], "note": "Recitation of verse 40 is garbled and repeated in the ASR; not reproduced."},
+    {"cue_range": [375, 378], "note": "Recitation of verse 41 is garbled and repeated in the ASR; not reproduced."},
+    {"cue_range": [421, 422], "note": "Katha Upanishad citation is garbled Sanskrit; only its point (senses face outward) is summarised and no verse number is given."},
+    {"cue_range": [866, 869], "note": "Recited Sanskrit of the chariot image is garbled; not reproduced."}
+  ]
+}

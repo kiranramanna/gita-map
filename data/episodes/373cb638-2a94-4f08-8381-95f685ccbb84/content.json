@@ -1,0 +1,829 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "373cb638-2a94-4f08-8381-95f685ccbb84",
+  "title": "Ch04-02-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "0c16e45d1d8ef31a473cdf2e53c5d254258cf4a8f509969e1f7406d39c88b62b",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verses 3 & 4",
+    "verified": false
+  },
+  "summary": {
+    "text": "Recalling that the yoga of self-knowledge was lost when its lineage weakened, the teacher reads verse 3. Krishna says the very same ancient yoga is now taught to Arjuna because he is bhakta and sakha. Following Shankaracharya, saha, ayam and adya are read like a Mahavakya: the old and present teaching are identical, so moksha is revealed rather than produced. Bhakti and sakhya are read as qualification (shraddha, mumukshutva, freedom to question), not emotion. Rahasya means inaccessible to the unqualified, and uttamam marks it as the highest knowledge. The next verse is Arjuna's objection about Krishna's recent birth versus Vivaswan's ancient one, an ideal purva paksha resting on perception and needing scriptural resolution through Avatara and Maya.",
+    "cue_ranges": [
+      [
+        23,
+        36
+      ],
+      [
+        37,
+        149
+      ],
+      [
+        145,
+        308
+      ],
+      [
+        309,
+        450
+      ],
+      [
+        451,
+        669
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome, resources and invocation",
+      "cue_range": [
+        1,
+        22
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita Vedanta satsang, says this is chapter 4 session 2, and points to replays on YouTube, Clubhouse, Apple and Spotify, plus a book called The Imaginary Door. Chat and hand raising stay closed during the class and reopen afterwards.",
+          "cue_range": [
+            1,
+            18
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks the host and recites an invocation honouring Shankara; the recitation is heavily garbled in the transcript.",
+          "cue_range": [
+            19,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap: the lineage broke and the teaching vanished",
+      "cue_range": [
+        23,
+        36
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The chapter is named Karma Yoga Sanyasa. Last time Krishna said the yoga of self-knowledge was given to the sun God and passed down by royal sages. When unfit people came to carry it, the tradition lost it, the world forgot the true goals of life, and adharma spread.",
+          "cue_range": [
+            23,
+            34
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher announces that Krishna will now explain his own purpose in coming to the world.",
+          "cue_range": [
+            35,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Verse 3 word by word: same ancient yoga today",
+      "cue_range": [
+        37,
+        79
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.3",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            37,
+            45
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "unresolved",
+          "text": "Right after announcing verse 3, a Sanskrit passage about the weak and those not in control of their senses and the yoga being lost is recited before the verse proper; the transcript does not say whether this is commentary or which text it comes from, and the Sanskrit is mis-heard.",
+          "cue_range": [
+            37,
+            42
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Saha points back to the primordial teaching given to Vivaswan; ayam and adya mean this very yoga, now, today. Puratana means it is ancient, so Krishna is not inventing anything new.",
+          "cue_range": [
+            43,
+            54
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "It is the same thing which I am going to teach you now also.",
+          "cue_range": [
+            54,
+            54
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Bhakta recalls Arjuna dropping his bow and asking to be taught as a disciple; sakha means friend. Rahasyam is glossed as secret or esoteric, also solitude, and uttamam as highest. Because Arjuna is devotee and friend, this supreme yoga is given to him.",
+          "cue_range": [
+            55,
+            79
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Saha, ayam, adya: timeless identity of the teaching",
+      "cue_range": [
+        80,
+        144
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.1",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            80,
+            81
+          ]
+        },
+        {
+          "ref": "BG 4.2",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            81,
+            83
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 4.1 gave the cosmic origin, 4.2 the loss in transmission, and now Krishna restores it. Calling Arjuna devotee and friend opens the question of the qualified recipient, since earlier unqualified carriers failed; these two words stand for the fourfold sadhana qualifications.",
+          "cue_range": [
+            80,
+            98
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "This is not a new yoga that I am going to teach you.",
+          "cue_range": [
+            102,
+            102
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Past, present and today collapse into one moment of transmission. The teacher says Shankaracharya treats this like a Mahavakya such as Tatumasi: the original yoga and the one spoken now are identical, and Krishna as the eternal guru re-establishes it. Whenever we hear it, there is no time gap from the first teaching.",
+          "cue_range": [
+            105,
+            133
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Moksha is not produced means not utpadhya.",
+          "cue_range": [
+            137,
+            138
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Teaching reveals what is already established; loss and restoration are a vyavaharika superimposition, while at the paramarthika level the teaching is always being declared.",
+          "cue_range": [
+            138,
+            144
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Bhakta and sakha as qualification, not sentiment",
+      "cue_range": [
+        145,
+        186
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Bhakta is read as shraddha in an epistemic sense: receptivity that lets the teaching be heard rightly, in a mind purified by earlier karma yoga. Shankaracharya is said to read it as the intellect turned toward the Atman, a form of mumukshutva, not emotional attachment.",
+          "cue_range": [
+            150,
+            164
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Friendship removes the awe that can block learning, so the student can question, probe and resist, engaging in manana instead of passively receiving. Together devotee and friend serve as shorthand for the fourfold sadhana, which Arjuna's crisis in chapters 1 and 2 has brought him to.",
+          "cue_range": [
+            165,
+            186
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The opening words of this part are garbled, and a later verse about the one with shraddha gaining knowledge is cited without a verse number, so it is not linked to a specific verse here.",
+          "cue_range": [
+            145,
+            178
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Rahasyam and uttamam: secret only to the unqualified",
+      "cue_range": [
+        187,
+        244
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Rahasya is not just secret: it also means being alone or apart, and as a Vedantic term it names teaching not handed out to everyone. It is given to the qualified one who approaches a teacher, as studied in the Mundaka Upanishad.",
+          "cue_range": [
+            187,
+            214
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The rahasya is not a secret in the vulgar sense of hidden information.",
+          "cue_range": [
+            218,
+            219
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Given to an unrefined mind it would only add confusion. Uttamam marks it as the knowledge of the fearless Atman, the one means to moksha. Citing the Katha Upanishad, teaching alone does not reach the self; it lands only with bhakti and friendship. It is the self disclosing itself to the self, passed like light from lamp to lamp.",
+          "cue_range": [
+            220,
+            244
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "A Brihadaranyaka chapter 6 line against indiscriminate teaching is cited, but the Sanskrit is mis-heard in the transcript and is not reconstructed here.",
+          "cue_range": [
+            199,
+            202
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Gita repeatedly guards its secret; devotion means mumukshutva",
+      "cue_range": [
+        245,
+        308
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 9.1",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            245,
+            247
+          ]
+        },
+        {
+          "ref": "BG 15.20",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            257,
+            259
+          ]
+        },
+        {
+          "ref": "BG 18.67",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            264,
+            267
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Krishna stresses the secrecy in 9.1 (the highest secret, knowledge with direct experience, for one free of fault-finding), 15.20 (this most secret scripture, understanding which one becomes wise) and 18.67 (not to be taught to those lacking austerity, devotion, service, or who object pettily).",
+          "cue_range": [
+            245,
+            272
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "This is a very esoteric, difficult to understand.",
+          "cue_range": [
+            274,
+            275
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher criticises today's casual Gita teaching that misses Krishna's import. The devotion meant here is not to God, nation or family but the longing to learn. Students must raise their doubts, or the knowledge will not settle; its fruit is freedom from samsara and the fearlessness Yajnavalkya declared to Janaka, possible only where there is no second.",
+          "cue_range": [
+            276,
+            308
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Shankara's three concerns and the brief bhashya",
+      "cue_range": [
+        309,
+        359
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "First, identity: self-knowledge is without history, and any seeming gap belongs to the vyavaharika level; and the eternal guru, the Atman, speaks through Krishna's form. Second, adhikara and antakarana shuddhi: bhakti is shraddha plus mumukshutva and sakhya is unobstructed intimacy, unlike later commentators such as Ramanuja or Madhva.",
+          "cue_range": [
+            309,
+            337
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Third, rahasyam and uttamam link to the Upanishadic tradition of secrecy and the Katha idea that the Atman reveals itself to the one it chooses. The final secret is non-duality, ending all seeking. Shankara's commentary on the verse is two lines, restating it and calling the yoga the highest knowledge.",
+          "cue_range": [
+            337,
+            359
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Upanishadic passages cited for the rahasya tradition (a Brihadaranyaka phrase and a Chandogya phrase) are garbled and not identified precisely.",
+          "cue_range": [
+            339,
+            349
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Ancient yet ever new; why the self is secret",
+      "cue_range": [
+        360,
+        450
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The yoga is ancient yet always new because self-knowledge is not invented; every Advaita teaching is a rediscovery. Arjuna was chosen for reverence and openness, and his questions in each chapter show both.",
+          "cue_range": [
+            360,
+            392
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "You are not the individual self, you are Brahman itself.",
+          "cue_range": [
+            402,
+            403
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "It is secret not because hidden but because few can grasp it; it overturns ordinary experience in an aha moment of what was always known. Shankara glosses yoga as knowledge here. Truth needs a living teacher-student relationship: devotion clears arrogance and doubt, friendship removes fear so one can admit not understanding. The mind identifies with body and mind; the teaching reveals the witness consciousness.",
+          "cue_range": [
+            393,
+            444
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Summary: the self-knowledge once passed through royal sages is now given to Arjuna for his devotion and intimacy, and it is the highest yoga because it reveals the self.",
+          "cue_range": [
+            445,
+            450
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Next verse: Arjuna's objection as purva paksha",
+      "cue_range": [
+        451,
+        523
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.7",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            519,
+            523
+          ]
+        },
+        {
+          "ref": "BG 4.8",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            519,
+            523
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Arjuna wonders how Krishna instructed Vivaswan at the dawn of creation, prompting Shankaracharya to explain Avatara. Shankara's introduction says Arjuna raises it so nobody thinks the Lord contradicted himself; he asks not from doubt but to clear confusion for us too.",
+          "cue_range": [
+            451,
+            474
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Advaita assumes scripture cannot be self contradictory.",
+          "cue_range": [
+            476,
+            476
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Three points: scripture welcomes questioning, doubt is part of the teaching method (purva paksha then siddhanta, with Arjuna as objector), and the text anticipates the reader's confusion. Brahman is unborn absolutely, while Ishvara appears to take birth through Maya, a word Krishna himself uses. This leads to the many births, and to 4.7 and 4.8.",
+          "cue_range": [
+            482,
+            523
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Sanskrit of Shankara's introductory remark to Arjuna's question is garbled in the transcript.",
+          "cue_range": [
+            456,
+            458
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Verse 4 explained: perception versus scriptural pramana",
+      "cue_range": [
+        524,
+        616
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.4",
+          "basis": "uploader-claim-only"
+        },
+        {
+          "ref": "BG 4.5-8",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            541,
+            542
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Arjuna's words: your birth is later, Vivaswan's earlier; how am I to understand that you taught him at the start? It is his only statement in chapter 4, not scepticism but the needed dialectical step that triggers the Avatara teaching of 4.5 to 4.8.",
+          "cue_range": [
+            524,
+            551
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "His ground is pratyaksha: he sees Krishna as Vasudeva's son, a contemporary charioteer. Empirically the objection is clean and irrefutable, so it needs a paramarthika answer from shastra pramana, Krishna's self-disclosure.",
+          "cue_range": [
+            552,
+            576
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "how can I know? Or by what means can I know it",
+          "cue_range": [
+            583,
+            583
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Arjuna does not deny the claim; trusting Krishna, he exposes a paradox. It dissolves only when Krishna reveals that the one who spoke at the beginning is not the historical body but the eternal paramatman, appearing through Maya while remaining unborn.",
+          "cue_range": [
+            598,
+            616
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "The objection's logic, Shankara's method, and the bhashya",
+      "cue_range": [
+        617,
+        669
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The verse is set out as premises: Krishna's birth is recent; Vivaswan's is at creation; so Krishna seemingly could not have taught him. Shankara builds his commentaries from objection and answer, so that the questioner ends up voicing the resolution himself.",
+          "cue_range": [
+            617,
+            643
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The bhashya glosses the two births and Arjuna's request to understand without contradiction. Shankara adds that the question exists to remove the doubt of dull people who think Vasudeva is not the Lord or not omniscient, so it teaches future listeners. The next verse, taken up in the next class, starts explaining how the eternal appears in time.",
+          "cue_range": [
+            644,
+            669
+          ]
+        },
+        {
+          "kind": "inferred",
+          "text": "Connection drawn by this summary, not stated by the teacher: his earlier insistence that students voice their doubts parallels his presentation of Arjuna's question as the model objection that makes the teaching possible.",
+          "cue_range": [
+            617,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Closing, no questions, next session announced",
+      "cue_range": [
+        670,
+        694
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The class ends with the Purnamadah peace chant. The host opens chat and hand raising for questions, repeats where replays and other lectures can be found, and, with no questions raised, announces the next session at 8:30 PM IST continuing chapter 4.",
+          "cue_range": [
+            670,
+            688
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks everyone and says the actual teaching of Krishna in chapter 4 continues from tomorrow, where many technical questions will be answered.",
+          "cue_range": [
+            689,
+            694
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The host mentions another set of lectures alongside the Upanishads, but its name is garbled in the transcript.",
+          "cue_range": [
+            680,
+            682
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-parampara",
+      "label": "parampara",
+      "gloss": "Teacher-to-student lineage through which the teaching is handed down.",
+      "cue_range": [
+        27,
+        27
+      ]
+    },
+    {
+      "id": "c-adhikari",
+      "label": "Adigari",
+      "gloss": "The qualified recipient of the teaching and the inquiry into that fitness.",
+      "cue_range": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "c-sadhana-chatushtaya",
+      "label": "sadhana Chaturstayya",
+      "gloss": "The fourfold set of preparatory qualifications for Brahma-knowledge.",
+      "cue_range": [
+        98,
+        98
+      ]
+    },
+    {
+      "id": "c-mahavakya",
+      "label": "Mahawatya",
+      "gloss": "Great statement of identity; used as a model for reading saha, ayam, adya.",
+      "cue_range": [
+        114,
+        114
+      ]
+    },
+    {
+      "id": "c-nitya-guru",
+      "label": "Nitya Guru",
+      "gloss": "The eternal teacher, the Atman speaking through Krishna.",
+      "cue_range": [
+        122,
+        122
+      ]
+    },
+    {
+      "id": "c-vivarta",
+      "label": "Vivarta",
+      "gloss": "Apparent manifestation; moksha is revealed, not produced.",
+      "cue_range": [
+        139,
+        139
+      ]
+    },
+    {
+      "id": "c-vyavaharika",
+      "label": "Vyavahariga",
+      "gloss": "The empirical standpoint, where loss and restoration seem real.",
+      "cue_range": [
+        315,
+        315
+      ]
+    },
+    {
+      "id": "c-paramarthika",
+      "label": "Paramartika",
+      "gloss": "The absolute standpoint from which the paradox is resolved.",
+      "cue_range": [
+        576,
+        576
+      ]
+    },
+    {
+      "id": "c-shraddha",
+      "label": "shraddha",
+      "gloss": "Receptive trust that lets the teaching be heard correctly.",
+      "cue_range": [
+        153,
+        153
+      ]
+    },
+    {
+      "id": "c-mumukshutva",
+      "label": "Mumukshuttwa",
+      "gloss": "Longing for liberation; what bhakti signifies here.",
+      "cue_range": [
+        161,
+        161
+      ]
+    },
+    {
+      "id": "c-sakhya",
+      "label": "Sakhya",
+      "gloss": "Friendship with the teacher that frees the student to question.",
+      "cue_range": [
+        333,
+        333
+      ]
+    },
+    {
+      "id": "c-antahkarana",
+      "label": "antakarana",
+      "gloss": "The inner instrument whose purity qualifies one for the knowledge.",
+      "cue_range": [
+        331,
+        331
+      ]
+    },
+    {
+      "id": "c-rahasya",
+      "label": "rahasya",
+      "gloss": "Secret in the sense of inaccessible to the unqualified, not hidden information.",
+      "cue_range": [
+        215,
+        215
+      ]
+    },
+    {
+      "id": "c-purva-paksha",
+      "label": "Purva paksha",
+      "gloss": "The objection stated before the settled view is given.",
+      "cue_range": [
+        495,
+        495
+      ]
+    },
+    {
+      "id": "c-siddhanta",
+      "label": "Siddhanda",
+      "gloss": "The established conclusion that answers the objection.",
+      "cue_range": [
+        495,
+        495
+      ]
+    },
+    {
+      "id": "c-avatara",
+      "label": "Avatara",
+      "gloss": "Divine incarnation, an appearance through Maya.",
+      "cue_range": [
+        485,
+        486
+      ]
+    },
+    {
+      "id": "c-maya",
+      "label": "Maya",
+      "gloss": "The power through which the unborn appears to be born.",
+      "cue_range": [
+        486,
+        486
+      ]
+    },
+    {
+      "id": "c-pramana",
+      "label": "pramana",
+      "gloss": "Means of valid knowledge; perception versus scripture here.",
+      "cue_range": [
+        584,
+        584
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Recap, lineage broke and yoga was lost] --> B[Verse 3, same ancient yoga taught today]\n  B --> C[Saha ayam adya, timeless identity, moksha revealed not produced]\n  B --> D[Bhakta and sakha as qualification of the student]\n  D --> E[Rahasyam and uttamam, secret only to the unqualified]\n  C --> F[Self knowledge ancient yet ever new]\n  E --> F\n  F --> G[Verse 4, Arjuna objects, recent birth versus Vivaswan]\n  G --> H[Purva paksha from perception needs scriptural pramana]\n  H --> I[Resolution ahead, Avatara through Maya]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        21,
+        22
+      ],
+      "note": "Invocation recitation is garbled ASR Sanskrit; not transcribed or reconstructed."
+    },
+    {
+      "cue_range": [
+        37,
+        44
+      ],
+      "note": "Sanskrit recitation of the verse and preceding passage is mis-heard; not reconstructed."
+    },
+    {
+      "cue_range": [
+        149,
+        150
+      ],
+      "note": "Short garbled phrase about the characteristic of the bhakta; meaning unclear."
+    },
+    {
+      "cue_range": [
+        456,
+        458
+      ],
+      "note": "Shankara's introductory Sanskrit to Arjuna's question is garbled."
+    },
+    {
+      "cue_range": [
+        644,
+        659
+      ],
+      "note": "Sanskrit of Shankara's bhashya on the verse is garbled; only the teacher's English glosses are summarised."
+    },
+    {
+      "cue_range": [
+        680,
+        682
+      ],
+      "note": "Name of an additional lecture series is garbled."
+    }
+  ]
+}

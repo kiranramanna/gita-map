@@ -1,0 +1,56 @@
+{
+  "schema": "episode-content/v1", "guid": "b530ddcb-cd26-4a61-aa88-6045176060b9", "title": "Ch05-04-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "bdefee90b44b99693d28479259578cdda740cae46e9648f3babfc232b8139bcf", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verse 7", "verified": false},
+  "summary": {"text": "The teacher traces verse seven's attributes from yoga and purification through mastery of mind and senses to recognizing the self of all beings. Purification belongs to the conditioned instrument, not the ever-pure Atma. Sense-mastery does not destroy sensory functioning. Universal self-recognition is distinguished from empathy alone and illustrated by undivided space. Action continues without acquiring a binding owner. Questions explore integration and transcendence, then challenge the language of absent impressions through memory loss and everyday life. The teacher rejects equating Alzheimer's with liberation and affirms recognition is not restricted to famous teachers. A final water analogy corrects identification with a limited wave.", "cue_ranges": [[51, 423], [424, 632], [633, 818], [842, 886]]},
+  "segments": [
+    {"id": "s01", "heading": "Purification concerns the instrument, not the pure self", "cue_range": [51, 211], "shloka_refs": [{"ref": "BG 5.7", "basis": "stated-in-transcript", "cue_range": [68, 89]}], "blocks": [
+      {"kind": "paraphrase", "text": "Yoga-yukta now describes culmination rather than merely beginning practice. The attributes explain how knowledge changes the identification of the empirical individual.", "cue_range": [51, 106]},
+      {"kind": "paraphrase", "text": "Vishuddhatma concerns removal of identifying impurity in the inner instrument. Clouds can obscure sunlight without changing the sun; likewise Atma itself never requires cleaning.", "cue_range": [107, 211]},
+      {"kind": "quote", "text": "Atman does not need any purification, it is ever pure.", "cue_range": [203, 204]}
+    ]},
+    {"id": "s02", "heading": "Mastery moves from mind to the senses", "cue_range": [212, 314], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Purification addresses accumulated error; mastery prevents renewed impulsive identification. Discrimination and dispassion settle seeking by correcting the assumed lack behind it.", "cue_range": [212, 281]},
+      {"kind": "paraphrase", "text": "Inner mastery supports restraint of cognitive and active organs. The senses remain functional but no longer dictate the individual's inward life or renew attraction and aversion.", "cue_range": [282, 314]}
+    ]},
+    {"id": "s03", "heading": "One self appears through many limiting adjuncts", "cue_range": [315, 423], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The compound describing the self of all beings points beyond a private purified ego. Clear understanding recognizes the same self through the apparently separate creations.", "cue_range": [315, 368]},
+      {"kind": "paraphrase", "text": "Empathy and compassion are distinguished from this nondual recognition, not dismissed as useless. Space in pots and rooms illustrates apparent divisions without division of the underlying reality.", "cue_range": [369, 423]}
+    ]},
+    {"id": "s04", "heading": "Continuing activity does not stain Atma", "cue_range": [424, 584], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The verse explicitly permits activity. Binding residue requires the assumed agent; the attributes trace how preparation matures into recognition rather than supplying unrelated accomplishments.", "cue_range": [424, 509]},
+      {"kind": "paraphrase", "text": "Non-adhesion is recognized as the self's nature, not maintained by effort. The teacher says continued bodily activity lacks a new karmic owner; observers may still describe it as prarabdha.", "cue_range": [510, 584]}
+    ]},
+    {"id": "s05", "heading": "The commentary returns to worldly functioning", "cue_range": [585, 632], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The answer to Arjuna's apparent paradox is renouncing doership rather than stopping bodily movement. The commentary identifies the inner consciousness as common from creator to grass.", "cue_range": [585, 620]},
+      {"kind": "paraphrase", "text": "Welfare-directed activity is included without binding the knower. The next paired verses are recited but their full explanation is explicitly deferred.", "cue_range": [621, 632]}
+    ]},
+    {"id": "s06", "heading": "Integration matures beyond an individual integrator", "cue_range": [633, 708], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant asks how bodily, mental and intellectual integration relate to the highest yoga. The teacher describes recognizing the self common to all these appearances.", "cue_range": [637, 670]},
+      {"kind": "paraphrase", "text": "Water remains water as wave, river, snow or cloud. Integration belongs to preparation; fulfillment no longer treats the private individual as an independent reality.", "cue_range": [671, 707]}
+    ]},
+    {"id": "s07", "heading": "Memory loss is not the recognition being taught", "cue_range": [709, 818], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant asks whether lack of impressions resembles Alzheimer's and whether ordinary life makes freedom impossible. The teacher explicitly distinguishes illness-related oblivion from recognized freedom, drawing on personal caregiving.", "cue_range": [712, 777]},
+      {"kind": "paraphrase", "text": "He denies that recognition is reserved for renowned teachers. His response locates binding impressions in held individuality; this is his spiritual explanation, not evidence that ordinary memory should be medically erased.", "cue_range": [778, 817]}
+    ]},
+    {"id": "s08", "heading": "The water analogy removes the last limited standpoint", "cue_range": [819, 896], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant speaks of a wave seeing other waves. The teacher refines the standpoint to water itself, not even a limited drop, while allowing normal transactions to continue.", "cue_range": [842, 877]},
+      {"kind": "quote", "text": "Self is not something separate from us.", "cue_range": [857, 858]},
+      {"kind": "paraphrase", "text": "World-welfare language belongs to the observer who sees a separate world. The knower's non-separateness is not another private role alongside such a world.", "cue_range": [878, 886]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-vishuddhatma", "label": "Vishuddhatma", "gloss": "Complete purification of the conditioned inner instrument.", "cue_range": [106, 141]},
+    {"id": "c-vijita-atma", "label": "Vijita Atma", "gloss": "Mastery of the mind's impulsive movements.", "cue_range": [235, 249]},
+    {"id": "c-jitendriya", "label": "jitendriya", "gloss": "Senses functioning without ruling inward life.", "cue_range": [282, 314]},
+    {"id": "c-abheda-darshana", "label": "Abheda Darshana", "gloss": "Non-difference recognized as liberation itself.", "cue_range": [388, 407]},
+    {"id": "c-adhyasa", "label": "adiyasa", "gloss": "The superimposed ego-attachment resolved in self-knowledge.", "cue_range": [510, 521]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Yoga purifies the instrument] --> B[Mind settles through understanding]\n B --> C[Senses remain functional without domination]\n C --> D[Same self recognized in all]\n D --> E[Action continues without binding ownership]\n E --> F[Integration fulfills itself in recognition]\n F --> G[Recognized freedom is not memory-loss]\n G --> H[Water rather than a separate wave]"},
+  "gaps": [
+    {"cue_range": [49, 51], "note": "Invocation is garbled and incomplete."},
+    {"cue_range": [456, 459], "note": "Grammatical explanation of non-staining is heavily corrupted; not reconstructed."},
+    {"cue_range": [626, 632], "note": "Next two verses are only previewed; full analysis is deferred."},
+    {"cue_range": [719, 817], "note": "Memory and illness discussion contains personal anecdotes and spiritual claims, not a clinical account of dementia or memory mechanisms."}
+  ]
+}

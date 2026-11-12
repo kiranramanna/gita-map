@@ -1,0 +1,235 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "35a241ce-2819-4588-9e86-d805e48e429c",
+  "title": "Ch04-03-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "b65627b0140abc75eaf6bf893dd90695629fe32fd240cadcda2015af10a8ab13",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verses 5 & 6",
+    "verified": false
+  },
+  "summary": {
+    "text": "Arjuna's doubt about how Krishna could have taught Vivasvan leads into verse 5: both have passed through many births, Krishna knows them all, Arjuna does not. Following Shankaracharya, the teacher reads this asymmetry of knowing as the epistemological mark separating Parameshwara from jiva: the jiva's knowledge is veiled by avidya and a karma-born upadhi, while Ishwara's is unobstructed witness-consciousness. Verse 6 supplies the ontological answer: though unborn, imperishable and Lord of beings, he presides over his own prakriti and appears through atma maya, not karma. This is vivarta, not parinama, and settles the saguna-nirguna confusion. A jivanmukta knows himself as Brahman yet is not an avatara. Questions cover rebirth of the upadhi, mind-reading and the jivanmukta's limits.",
+    "cue_ranges": [[21, 80], [167, 361], [362, 667], [684, 994]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Opening, recap of Arjuna's doubt, verse five introduced",
+      "cue_range": [1, 31],
+      "shloka_refs": [
+        {"ref": "BG 4.5", "basis": "stated-in-transcript", "cue_range": [26, 27]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The host welcomes listeners to the Advaita satsang on the Gita, now in chapter 4, points to the YouTube channel, podcast feeds and a published book for earlier sessions, and explains that chat and hand-raising will reopen for questions after the class.", "cue_range": [1, 18]},
+        {"kind": "paraphrase", "text": "After the invocation, the teacher recalls the previous class: Arjuna asked how Krishna, born recently, could have taught the ancient sun god. The question serves to clear the doubt that Vasudeva might not be the all-knowing Lord, and Krishna now answers it.", "cue_range": [19, 25]},
+        {"kind": "paraphrase", "text": "The fifth verse is presented as one of the densest in the Gita, because it shows why Ishwara remembers every birth while ordinary beings do not, opening onto the Advaitic account of Maya and Avatara.", "cue_range": [26, 31]}
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Verse five: many births, I know, you do not",
+      "cue_range": [32, 80],
+      "shloka_refs": [
+        {"ref": "BG 4.5", "basis": "stated-in-transcript", "cue_range": [55, 55]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The verse is recited and glossed word by word: many births of mine have gone by, and yours too, Arjuna; I know every one of them, but you lack that knowledge, Parantapa, the scorcher of foes.", "cue_range": [32, 43]},
+        {"kind": "paraphrase", "text": "Arjuna's objection rested on direct perception: Krishna was born recently, Vivasvan is ancient, so no single personal identity could link them. Krishna does not deny this reasoning or claim an earlier birth; instead he places both of them in a series of many births.", "cue_range": [44, 62]},
+        {"kind": "quote", "text": "He doesn't refute it but he transcends his premise.", "cue_range": [57, 57]},
+        {"kind": "paraphrase", "text": "Krishna accepts the empirical plurality of births yet claims complete knowledge of them, something no individual jiva could have. The contrast between I know and you do not know is called the epistemological signature of Ishwara, separating him from the jiva before the next verse makes that explicit.", "cue_range": [63, 80]}
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Births that pass, Maya, and the witness who knows",
+      "cue_range": [81, 166],
+      "shloka_refs": [
+        {"ref": "BG 4.5", "basis": "uploader-claim-only"}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankaracharya stresses that Krishna says births have passed rather than that he has births. From the absolute standpoint the atman is never born and never dies; births appear and go like waves on an ocean whose nature stays unaltered. The teacher says this is where the word Maya first occurs in the Gita.", "cue_range": [81, 102]},
+        {"kind": "unresolved", "text": "The teacher cites a line rendered as 'Naja najaatyam riyate', said to have been spoken by Krishna at the beginning, but the transcript names no chapter or verse for it.", "cue_range": [90, 91]},
+        {"kind": "paraphrase", "text": "Including Arjuna with the words 'you too' is read as compassionate teaching: both traverse samsara, but the jiva's memory is veiled by avidya while Parameshwara is never bound. This hints at the unity of the Atman underlying apparent multiplicity.", "cue_range": [105, 125]},
+        {"kind": "quote", "text": "It illumines without effort, without mediation, without temporal limitation.", "cue_range": [138, 139]},
+        {"kind": "paraphrase", "text": "Krishna's knowing is not memory but the self-luminous presence of the sakshi, the witness consciousness that lights all objects and is the very ground of Maya, so Maya cannot hide it. The parallel phrasing of aham veda and na tvam veda distinguishes Ishwara and jiva first on grounds of knowledge, before ontology.", "cue_range": [126, 166]},
+        {"kind": "unresolved", "text": "The teacher recalls that in the second chapter Krishna said the assembled kings were already dead in time; the transcript gives no verse number for this.", "cue_range": [147, 151]}
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Why Arjuna forgets; threshold to verse six; bhashya",
+      "cue_range": [167, 265],
+      "shloka_refs": [
+        {"ref": "BG 4.5", "basis": "stated-in-transcript", "cue_range": [228, 228]},
+        {"ref": "BG 4.6", "basis": "uploader-claim-only"}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Arjuna cannot recall past lives because avidya veils continuity: each birth brings a new upadhi of body and mind and a new ahankara, and memory belongs to that discarded complex. Parameshwara never identifies with an upadhi; his births are produced by his own Maya, so his witnessing runs unbroken from Rama to Krishna.", "cue_range": [167, 198]},
+        {"kind": "quote", "text": "Even the greatest tratriya is epistemologically bound by Avidya.", "cue_range": [207, 208]},
+        {"kind": "paraphrase", "text": "Calling Arjuna Parantapa reminds him of his worldly might while exposing his limits at the absolute level. Shankaracharya treats this verse as a carefully built threshold: the asymmetric knowledge claim demands an explanation, which the next verse, previewed here, gives as the ontological answer.", "cue_range": [198, 251]},
+        {"kind": "paraphrase", "text": "Shankara's commentary is read sentence by sentence: Arjuna's power of knowing is obstructed by dharma, adharma and similar karmic forces, whereas Krishna, by nature eternally pure, awake and free, has unobstructed knowledge and knows every birth.", "cue_range": [252, 265]}
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Ishwara versus jiva; does a jivanmukta equal Krishna",
+      "cue_range": [266, 361],
+      "shloka_refs": [
+        {"ref": "BG 4.7-8", "basis": "stated-in-transcript", "cue_range": [345, 345]},
+        {"ref": "BG 4.5", "basis": "uploader-claim-only"}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The verse is called the authority for distinguishing Ishwara from jiva. Arjuna is born through karma under avidya and bound by upadhi and ego; the avatara appears by choice through Maya, keeps omniscience and stays a free witness. Their shared human look is only superficial.", "cue_range": [266, 285]},
+        {"kind": "quote", "text": "The example is sun behind the clouds.", "cue_range": [295, 295]},
+        {"kind": "paraphrase", "text": "The jiva's knowledge is like sunlight dimmed by cloud, Ishwara's like the sun itself. In both the true self is Brahman; the difference lies only in the limiting adjunct.", "cue_range": [286, 303]},
+        {"kind": "paraphrase", "text": "The teacher recounts a question he once put to his guru: if Arjuna became a jivanmukta, would he equal Krishna? The answer: the liberated one still functions through a body he did not choose, so he is not an avatara; he knows himself as birthless Brahman, while Ishwara knows each of his Maya-assumed avataras.", "cue_range": [304, 339]},
+        {"kind": "paraphrase", "text": "Listeners are asked to keep this distinction in mind, since in 4.7 and 4.8 and later Krishna speaks as the avatara-Parameshwara, not as a liberated jiva.", "cue_range": [340, 361]}
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Verse six: unborn Lord manifesting through his own Maya",
+      "cue_range": [362, 447],
+      "shloka_refs": [
+        {"ref": "BG 4.6", "basis": "stated-in-transcript", "cue_range": [375, 375]},
+        {"ref": "BG 4.6", "basis": "stated-in-transcript", "cue_range": [390, 390]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "From the bhashya comes the implied question: if the eternal Ishwara has no dharma or adharma, how can he be born, since karma determines bodies? The sixth verse answers and is glossed: though unborn, imperishable in nature and Lord of all beings, resting on his own prakriti, he comes into being by his own Maya rather than by karma.", "cue_range": [362, 389]},
+        {"kind": "paraphrase", "text": "The verse is said to do three things at once: assert the speaker's absolute identity as unborn, imperishable Lord; grant the empirical appearance of birth; and state the mechanism reconciling them, presiding over prakriti through atma maya.", "cue_range": [390, 413]},
+        {"kind": "paraphrase", "text": "It is called the Gita's own account of adhyasa, superimposition of birth on the birthless; for the jiva the cause is avidya, for Ishwara his sovereign Maya-shakti.", "cue_range": [414, 422]},
+        {"kind": "unresolved", "text": "The transcript renders the cited text as 'Ramasutra' and 'Adyasabarshya'; the reference to the work where avidya is named as the cause of adhyasa is not clearly recoverable from the ASR text.", "cue_range": [418, 419]},
+        {"kind": "quote", "text": "The order is deliberate. Reality precedes appearance.", "cue_range": [427, 427]},
+        {"kind": "paraphrase", "text": "Aja negates birth, so he exists before time; avyaya negates decay and change, so he lasts without end. Together they mark the changeless, kutastha nitya nature of Paramatman.", "cue_range": [428, 447]}
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Sovereign choice, saguna and nirguna, presiding over prakriti",
+      "cue_range": [448, 537],
+      "shloka_refs": [
+        {"ref": "BG 13.21", "basis": "stated-in-transcript", "cue_range": [513, 513]},
+        {"ref": "BG 4.6", "basis": "uploader-claim-only"}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankara reads these words as a definition of Brahman, recalling the Taittiriya formula. Calling himself Ishwara shows the avatara is a free decision, not compulsion: the jiva is pushed into birth by karma, while Ishwara wields Maya as his own power.", "cue_range": [448, 477]},
+        {"kind": "paraphrase", "text": "The Ishwara of this verse is Brahman seen through the upadhi of Maya as saguna; the avatara happens at that level without altering nirguna Brahman. The teacher says grasping this would end disputes between nirguna and saguna views.", "cue_range": [478, 496]},
+        {"kind": "quote", "text": "The Jiva is driven by the Prakriti, whereas Ishwara presides over it.", "cue_range": [504, 505]},
+        {"kind": "paraphrase", "text": "This prakriti is Maya, not the Sankhya prakriti. Contrasting with Gita 13.21, where the purusha seated in prakriti experiences its gunas, Ishwara is its presiding ground, neither becoming it nor transforming into a body. This encodes vivarta against Sankhya's parinama, with Maya as the instrument.", "cue_range": [497, 537]}
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Atma maya versus avidya; the mirror teaching for jiva",
+      "cue_range": [538, 615],
+      "shloka_refs": [
+        {"ref": "BG 4.14", "basis": "stated-in-transcript", "cue_range": [554, 555]},
+        {"ref": "BG 4.7", "basis": "stated-in-transcript", "cue_range": [568, 570]},
+        {"ref": "BG 4.6", "basis": "stated-in-transcript", "cue_range": [598, 598]},
+        {"ref": "BG 4.7-8", "basis": "stated-in-transcript", "cue_range": [612, 613]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankara separates atma maya from the avidya that drives the jiva's births, a cycle of ignorance, desire, action and rebirth. Ishwara's coming into being is his free will, untouched by karma, as the fourteenth verse will say. The Shvetashvatara line identifying Maya as prakriti and its wielder as Maheshvara is cited.", "cue_range": [538, 563]},
+        {"kind": "paraphrase", "text": "The present tense 'sambhavami' marks the avatara as a recurring sovereign manifestation, linked forward to the yada yada hi verse in 4.7. Advaita accepts vivarta only: the avatara body is a Maya-made form, not a real transformation, so the Atman stays changeless.", "cue_range": [564, 584]},
+        {"kind": "paraphrase", "text": "The mirror lesson: the jiva's innermost self, one with Parameshwara at the absolute level, is equally unborn and imperishable; only avidya hides this, and recognising it is moksha.", "cue_range": [585, 601]},
+        {"kind": "quote", "text": "the question of when I spoke dissolves.", "cue_range": [604, 604]},
+        {"kind": "paraphrase", "text": "Because the speaker is the same never-born consciousness, the ancient and the present teaching are one speaking. This prepares the protection of dharma taken up in 4.7 and 4.8.", "cue_range": [602, 615]}
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Bhashya on verse six: as if embodied, as if born",
+      "cue_range": [616, 671],
+      "shloka_refs": [
+        {"ref": "BG 4.6", "basis": "uploader-claim-only"}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankara's commentary is read: though free of birth, of undecaying knowing power and Lord of all from Brahma downward, he takes hold of his own Vaishnavi Maya of three gunas, which controls the universe and deludes the world, and appears as though embodied and as though born, not in truth like ordinary beings.", "cue_range": [616, 637]},
+        {"kind": "paraphrase", "text": "The embodiment is only phenomenal; Brahman undergoes no birth or death. As Krishna is not limited by his body, our self is not limited by ours; birth belongs to Maya while the knowing witness stands beyond it.", "cue_range": [638, 662]},
+        {"kind": "paraphrase", "text": "Closing summary: the unborn, imperishable ruler of beings seems to take birth by mastering his own Maya, unlike beings born through karma. The teacher announces no class tomorrow, a general discussion on Sunday and the Gita resuming Monday.", "cue_range": [663, 671]}
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Q&A: unveiling shakti, yogic recall, chidabhasa",
+      "cue_range": [672, 790],
+      "shloka_refs": [
+        {"ref": "BG 4.5", "basis": "stated-in-transcript", "cue_range": [687, 687]},
+        {"ref": "BG 4.6", "basis": "stated-in-transcript", "cue_range": [759, 759]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The host opens questions. Venkat asks whether the unveiling knowledge-power named for verse 5 is the opposite of Maya's veiling power; the teacher agrees it is one shakti, controlled by Ishwara but making the jiva its victim.", "cue_range": [672, 696]},
+        {"kind": "paraphrase", "text": "On yogic glimpses of past births, the teacher says such claims stay within jiva capacity and are unverifiable, accepted only on faith. Advaita requires knowledge that is verifiable and common to all; the Gita's yoga is karma done without craving fruit and dedicated to the Lord.", "cue_range": [697, 744]},
+        {"kind": "unresolved", "text": "The teacher attributes the two criteria, verifiability and universality, to something Shankaracharya said, but the transcript does not identify which text.", "cue_range": [724, 731]},
+        {"kind": "paraphrase", "text": "Asked whether jiva and Ishwara are the same chidabhasa with avidya or vidya, the teacher says no: the jiva's reflected consciousness belongs to its mind-complex upadhi, whereas omniscient Ishwara controls these instruments. A guru also uses them but carries a prarabdha body.", "cue_range": [745, 790]}
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: what is reborn; pot and space",
+      "cue_range": [791, 846],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Asked whether a newborn has no karma, the teacher says Advaita does accept rebirth, but what is reborn is the karma-made upadhi of ego, mind, intellect and body, which returns to the elements and re-forms.", "cue_range": [791, 799]},
+        {"kind": "paraphrase", "text": "Analogy: clay from a broken pot can go into a new pot, carrying its qualities, while the space in either pot is never touched. Likewise the all-pervading atma works through the body but is not conditioned by it, and the sense of I belongs to the body.", "cue_range": [800, 819]},
+        {"kind": "paraphrase", "text": "There is one Atman; only body, mind and intellect differ between people, and only these take rebirth. The account of karma lies with the body, not the atma.", "cue_range": [820, 846]}
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: why can't I read minds like Krishna",
+      "cue_range": [847, 916],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Anu asks why, if her atma and Krishna's are the same, she cannot read minds or recall her births. The teacher replies that identification with body and mind creates the separate other; with that gone there is no second mind to read, and the truth is already known.", "cue_range": [847, 884]},
+        {"kind": "quote", "text": "Imagine you are a water drop and that water drop has now fallen into the ocean.", "cue_range": [891, 892]},
+        {"kind": "paraphrase", "text": "A drop merged in the ocean no longer sees itself as a drop. A jivanmukta knows himself as Atma, Krishna's true nature, but still works through a prarabdha-driven body and does not gain Ishwara's command of Maya.", "cue_range": [893, 916]}
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: limits of the jivanmukta; closing",
+      "cue_range": [917, 1009],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Madhur asks whether the jivanmukta is the furthest an embodied being can reach. The teacher agrees he can know Brahman while the body remains, though without identifying with it.", "cue_range": [917, 938]},
+        {"kind": "quote", "text": "a retired police officer knows very well", "cue_range": [943, 943]},
+        {"kind": "paraphrase", "text": "Like a retired officer who remembers the work but no longer wears the uniform, the jnani functions through body and mind without taking them as himself; that is freedom while embodied. Direct knowledge comes through sravana, manana and nididhyasana, not through desire or action.", "cue_range": [942, 990]},
+        {"kind": "paraphrase", "text": "The host announces the schedule: a break tomorrow, open discussion Sunday, and the Gita on Monday. The teacher urges listeners to hear this session again, since it makes the rest of the Gita easier.", "cue_range": [991, 1009]}
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-avatara", "label": "Avatara", "gloss": "Ishwara's apparent embodiment taken by choice through his own Maya, not through karma", "cue_range": [30, 30]},
+    {"id": "c-maya", "label": "Maya", "gloss": "Ishwara's own power through which births appear without touching the Atman", "cue_range": [98, 100]},
+    {"id": "c-paramarthika", "label": "paramarthika", "gloss": "the absolute standpoint, from which the Atman is unborn", "cue_range": [88, 88]},
+    {"id": "c-vyavaharika", "label": "vyavaharika", "gloss": "the empirical standpoint in which births appear", "cue_range": [400, 400]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "the witness consciousness that knows all births by its own light", "cue_range": [136, 140]},
+    {"id": "c-avidya", "label": "avidya", "gloss": "ignorance that veils the jiva's continuity across births", "cue_range": [168, 168]},
+    {"id": "c-upadhi", "label": "Upadhi", "gloss": "limiting adjunct of body and mind; the sole source of the Ishwara-jiva difference", "cue_range": [302, 302]},
+    {"id": "c-ishwara", "label": "Ishwara", "gloss": "Brahman as saguna Lord, omniscient and presiding over Maya", "cue_range": [266, 270]},
+    {"id": "c-jiva", "label": "Jiva", "gloss": "the individual, born through karma and bound by avidya", "cue_range": [268, 270]},
+    {"id": "c-anavarana-jnana-shakti", "label": "Anavarana nyana sakti", "gloss": "Ishwara's unobstructed power of knowing", "cue_range": [290, 290]},
+    {"id": "c-jivanmukta", "label": "jeevan Mukta", "gloss": "one liberated while living who knows himself as Brahman yet is not an avatara", "cue_range": [321, 321]},
+    {"id": "c-atma-maya", "label": "Atma Mayaya", "gloss": "by his own Maya; the instrument of the Lord's apparent birth", "cue_range": [383, 383]},
+    {"id": "c-adhyasa", "label": "adyasa", "gloss": "superimposition of birth upon the birthless", "cue_range": [416, 416]},
+    {"id": "c-vivarta", "label": "Vivartavada", "gloss": "apparent transformation without real change in Brahman", "cue_range": [528, 528]},
+    {"id": "c-parinama", "label": "Parinamavada", "gloss": "the view that Brahman really transforms into the world, rejected by Advaita", "cue_range": [528, 528]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[\"Arjuna asks how recent Krishna taught the ancient sun god\"] --> B[\"Verse 5, many births for both, I know them, you do not\"]\n  B --> C[\"Asymmetry of knowing, witness light versus knowledge veiled by avidya\"]\n  C --> D[\"Ishwara and jiva differ only by upadhi, avatara body versus karma body\"]\n  D --> E[\"Implicit question, how can the eternal Lord be born without karma\"]\n  E --> F[\"Verse 6, unborn imperishable Lord appears through his own Maya\"]\n  F --> G[\"Presiding over prakriti, vivarta not parinama\"]\n  G --> H[\"Mirror teaching, the inner self of the jiva is also unborn\"]\n  H --> I[\"Questions, jivanmukta knows Brahman but is not Ishwara\"]"
+  },
+  "gaps": [
+    {"cue_range": [119, 121], "note": "Sentence about Krishna's pedagogy of identification is repeated in the transcript."},
+    {"cue_range": [176, 180], "note": "Garbled phrasing about memory being acquired in this birth; summarised only at the level of the surrounding argument."},
+    {"cue_range": [432, 434], "note": "Garbled fragment ('very pregnant was lot of things to do'); not summarised."},
+    {"cue_range": [655, 657], "note": "Garbled sentence about liberation and delusion; not summarised beyond the surrounding point."},
+    {"cue_range": [774, 778], "note": "Overlapping, garbled exchange during the chidabhasa question; not summarised in detail."},
+    {"cue_range": [939, 941], "note": "Garbled fragment ('not it is not Qatar and it is not Ishwara'); not summarised."}
+  ]
+}

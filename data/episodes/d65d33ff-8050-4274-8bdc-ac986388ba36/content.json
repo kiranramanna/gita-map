@@ -1,0 +1,778 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "d65d33ff-8050-4274-8bdc-ac986388ba36",
+  "title": "Ch04-11-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "73db0a271869dad3d3eae44cc4daf9bde1ed7cae707acc878b4cea3a800598a8",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 13 & 14",
+    "verified": false
+  },
+  "summary": {
+    "text": "Continuing the chaturvarnya verse, the teacher explains how Krishna is karta at the vyavaharika level yet akarta and avyaya at the paramarthika level, and that the same holds for the atman in each of us. Avidya superimposes kartrutva, which drives kama, karma, samskara and punarjanma; tattvajnana removes this at the root. Varna rests on guna and karma, while one atman is equal in all. Following Shankara's bhashya, he then takes up the 14th verse: actions do not smear the Lord and he has no spriha for their fruits, because he is purna. Whoever knows him thus, through direct abhijnana, is not bound by action; the jeevan mukta acts like Parameshwara, echoing the Isha Upanishad.",
+    "cue_ranges": [
+      [
+        26,
+        101
+      ],
+      [
+        102,
+        139
+      ],
+      [
+        183,
+        249
+      ],
+      [
+        323,
+        373
+      ],
+      [
+        447,
+        527
+      ],
+      [
+        528,
+        615
+      ],
+      [
+        616,
+        675
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome, resources and opening invocation",
+      "cue_range": [
+        1,
+        25
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita Vedanta satsang, notes that the class is on Chapter 4 of the Gita, and points to replays on Clubhouse, YouTube, Apple Podcasts and Spotify, plus a related book on Amazon. Chat and hand raising will be closed during the hour-long talk.",
+          "cue_range": [
+            1,
+            18
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks Prakash and opens with traditional invocation verses to the line of teachers, including Shankara and Badarayana.",
+          "cue_range": [
+            19,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap: Krishna as doer and non-doer",
+      "cue_range": [
+        26,
+        69
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.13",
+          "basis": "uploader-claim-only"
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Resuming yesterday's verse on the fourfold order created according to guna and karma, the teacher says a few points remain before moving on. The word api holds two claims together: the Lord is creator, yet is to be known as akarta and avyaya.",
+          "cue_range": [
+            26,
+            40
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The karthatum or the doership is from the vywaharika point of view or the transactional empirical point of view",
+          "cue_range": [
+            41,
+            42
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Speaking as Parameshwara, Krishna tells Arjuna to see beyond the friend and charioteer and know him as neither doer nor perishable. If the creator of the whole order is akarta, then the atman behind every individual is too, since pratyagatma and Parameshwara are one; the jiva's doership is adhyasa on the body, mind and intellect.",
+          "cue_range": [
+            47,
+            65
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Removing this superimposed doership is tattvajnana, which the teacher calls the deepest teaching of karma yoga; karma yoga is perfected only without a sense of being the doer.",
+          "cue_range": [
+            66,
+            69
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "How avidya drives the cycle of samsara",
+      "cue_range": [
+        70,
+        101
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "Avidya produces karma because Avidya produces karthrutva.",
+          "cue_range": [
+            76,
+            76
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Not knowing one's nature, one takes oneself to be the body-mind-intellect. Its felt insufficiency, apoornata, becomes my insufficiency, and kama receives a push called spriha, a desire directed at external things. This pushes us into action for results, leaving samskaras that carry us from birth to birth.",
+          "cue_range": [
+            77,
+            96
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Once tattvajnana removes the superimposed doership, the chain breaks link by link: no kama, so no karma, so no samskara, so no rebirth.",
+          "cue_range": [
+            96,
+            101
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Varna by guna and karma; one atman in all",
+      "cue_range": [
+        102,
+        139
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 5.18",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            120,
+            122
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Chaturvarnya rests on the division of guna and karma, not on birth. Because gunas belong to prakriti rather than atman, varna distinctions are real and functional in the empirical world, reflecting genuine differences of capacity.",
+          "cue_range": [
+            102,
+            110
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "At the absolute level there is a single atman, not mine or yours, nirguna and unchanging in every varna. The teacher presents this as the Advaitic answer to what might look like social hierarchy: functional in transaction, transparent in reality.",
+          "cue_range": [
+            110,
+            119
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He cites the fifth chapter's eighteenth verse: the wise see the same truth in a learned and humble brahmana, a cow, an elephant, a dog and an outcaste, because they look past name and form to the pratyagatma.",
+          "cue_range": [
+            120,
+            139
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Krishna as model for the karma yogi",
+      "cue_range": [
+        140,
+        182
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Krishna presents himself as the pattern for the karma yogi: Parameshwara appears to create and act, yet knows himself as the unchanging self. Likewise the karma yogi fights, rules, trades or serves according to his nature while knowing the atman never truly acts.",
+          "cue_range": [
+            140,
+            161
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "know the me in you. In each one of us.",
+          "cue_range": [
+            164,
+            164
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher draws out a hidden message: 'know me' also means know the self in Arjuna. If the Lord who makes the cosmic order is akarta, Arjuna fighting one battle is surely akarta at the absolute level. Knowing this is what lets one act without the ego of doership.",
+          "cue_range": [
+            162,
+            182
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Avyaya as the ground of non-doership",
+      "cue_range": [
+        183,
+        249
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 3.27",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            183,
+            185
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara links this to the previous chapter's 27th verse: the gunas of prakriti do all actions, but one deluded by ahankara thinks he is the doer. Avidya superimposes doership on atman and so creates ahankara, which Krishna asks Arjuna to remove through knowledge.",
+          "cue_range": [
+            183,
+            193
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Avyaya, placed last, is read by Shankara as the foundation of akartrutva. Acting with doership changes the agent and conditions him to results; what is unmodified cannot be such an agent. So avyayatva gives rise to akartrutva, and freedom from doership and enjoyership is moksha.",
+          "cue_range": [
+            194,
+            224
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Viddhi is an injunction addressed to Arjuna and to every listener: know Parameshwara, and the pratyagatma in each, as akarta and avyaya. The atman is a sakshi, uninvolved in waking, dream or deep sleep, and so action is transcended from within action itself.",
+          "cue_range": [
+            225,
+            249
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Shankara's bhashya on the fourfold order",
+      "cue_range": [
+        250,
+        322
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.13",
+          "basis": "uploader-claim-only"
+        },
+        {
+          "ref": "BG 18.42",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            262,
+            266
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Reading the commentary, the teacher notes that Shankara cites the Purusha Sukta of the Rig Veda for the four varnas and splits the compound into divisions of qualities and of actions, the gunas being sattva, rajas and tamas.",
+          "cue_range": [
+            250,
+            260
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Referring to the 18th chapter's 42nd verse, the gunas are mapped to duties: sattva leads to tranquility and austerity for the brahmana; rajas with sattva to courage for the kshatriya; rajas with tamas to agriculture for the vaishya; tamas with rajas to service for the shudra.",
+          "cue_range": [
+            261,
+            280
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara adds that this fourfold order is named only for the human world, though the teacher says the three gunas of prakriti pervade the whole cosmos.",
+          "cue_range": [
+            281,
+            291
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "An objector asks: if you created this order, are you not tied to its results and so not eternally free or Lord? The reply: within Maya's dealings I seem to be a doer, but in truth know me as non-doer, immutable and outside samsara.",
+          "cue_range": [
+            292,
+            322
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Verse 14: actions do not taint me",
+      "cue_range": [
+        323,
+        373
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.14",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            323,
+            326
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The 14th verse explains why the Lord is akarta. Limpanti comes from a root meaning to smear or stain: actions do not cling to him. Nor does he long for their fruits, for one who is not the doer cannot crave results.",
+          "cue_range": [
+            323,
+            347
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Whoever fully knows him in this way, even while engaged in action as a karma yogi, is likewise not bound. The teacher calls this a logical extension of the previous verse, resting on two grounds: no karma lepa and no desire for fruit.",
+          "cue_range": [
+            347,
+            366
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "He calls this a causal explanation of the 'ninth verse' about no rebirth. Chapter 4 is implied by context, and later the transcript does say 4.9, but the ASR here does not name the chapter.",
+          "cue_range": [
+            367,
+            373
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Karma lepa and Shankara's three analogies",
+      "cue_range": [
+        374,
+        446
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Karma lepa is the residue that action leaves on the antahkarana of someone who acts with doership. Repeated ego-claims of 'I did this for that result' build impressions that generate agami karma and keep birth and rebirth going. Without doership no residue forms, so action no longer binds.",
+          "cue_range": [
+            374,
+            400
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Parameshwara creates the varnas, takes avatara and upholds dharma, yet none of it leaves a trace on him. Lepa arises only through the chain of avidya, doership, kama and attachment to fruit, which is samsara.",
+          "cue_range": [
+            401,
+            413
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The sky is never stained, but the clouds show that is there in the sky, but the sky still remains pure.",
+          "cue_range": [
+            416,
+            417
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara's three analogies: the sky only seems stained by clouds; the sun only seems to move because the earth turns, as prakriti acts in the witness's presence; fire burns everything without being changed. So the atman as pure awareness only witnesses what body, mind and intellect do.",
+          "cue_range": [
+            413,
+            446
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Spriha and the Lord's completeness",
+      "cue_range": [
+        447,
+        527
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Spriha is an active, forward-reaching craving for what one does not yet have, the motivating core of desire-driven action. The verse's two negations, no staining and no craving for fruit, together explain why karma does not bind; Shankara treats the absence of spriha as the more fundamental proof.",
+          "cue_range": [
+            447,
+            482
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Humans have spriha because they feel incomplete; Parameshwara has none because he lacks nothing. Creation, avatara and upholding dharma add nothing to his completeness.",
+          "cue_range": [
+            482,
+            503
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher recalls a statement from 'the previous verse' that nothing in the three worlds remains to be attained by him though he appears to act. The transcript does not identify which verse this is.",
+          "cue_range": [
+            486,
+            492
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "It is not a discipline, suppressing desire etcetera, but as the natural state of completeness or poornada.",
+          "cue_range": [
+            504,
+            506
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Citing the Brihadaranyaka Upanishad, he says the Lord's desirelessness is not renunciation but having all desires fulfilled because his desire is the self. Being eternally satisfied, nothing external remains for him to attain; he is what all seeking aims at.",
+          "cue_range": [
+            508,
+            527
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Abhijanati: direct knowledge that frees from bondage",
+      "cue_range": [
+        528,
+        615
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 7.3",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            533,
+            535
+          ]
+        },
+        {
+          "ref": "BG 4.9",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            538,
+            538
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Abhijanati is stronger than simply knowing: the prefix abhi points to a face-to-face, unmediated recognition, aparoksha anubhuti. The same verb appears in the seventh chapter's third verse on how rarely anyone knows him in truth, and in 4.9.",
+          "cue_range": [
+            528,
+            542
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He describes three levels of knowledge: indirect understanding heard from scripture and guru, necessary but insufficient; direct recognition that one's pratyagatma is the non-doer Lord; and sahaja nishta, effortless stable abiding, which is the jeevan mukta's unbroken experience of non-doership even while acting.",
+          "cue_range": [
+            548,
+            567
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Abhijanathi is the present tense which knows the right now and continuously",
+          "cue_range": [
+            567,
+            568
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The verse states a necessary law: whoever has this knowledge is free of karma bandha, as surely as sunrise ends darkness. It works because pratyagatma and Paramatma are not different; recognising the Lord's non-doership is recognising one's own, so doership, craving, residue, samskara and rebirth all fall away.",
+          "cue_range": [
+            579,
+            615
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "The jeevan mukta, prarabdha and the Isha Upanishad",
+      "cue_range": [
+        616,
+        675
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara's key distinction: in the jeevan mukta the body keeps acting on prarabdha, as others see, until it is exhausted, but no new residue forms because knowledge has dissolved the sense of doership.",
+          "cue_range": [
+            616,
+            622
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Therefore, the Jeevan Mukta acts like Parameshwara himself.",
+          "cue_range": [
+            623,
+            623
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He restates the two grounds of non-doership from the verse (no staining, no craving) and the knowledge that frees, calling them necessary and sufficient for liberation; freedom from karma bandha comes through knowledge alone.",
+          "cue_range": [
+            639,
+            656
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The Isha Upanishad mantra on living a hundred years while acting, with action not clinging, is said to teach the same as this verse: the Upanishad speaks from the seeker's side, the Gita from Parameshwara's. Reading the bhashya is left for the next day.",
+          "cue_range": [
+            656,
+            675
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "Further supporting citations (a Brihadaranyaka passage, an Upanishad named unclearly, and a second-chapter Gita idea that the atman is not slain) are too garbled in the ASR to identify reliably.",
+          "cue_range": [
+            628,
+            638
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Closing and next session",
+      "cue_range": [
+        676,
+        690
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host thanks the teacher and opens the chat and hand raising; no follow-up questions are recorded before the teacher says they will meet tomorrow.",
+          "cue_range": [
+            676,
+            679
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The next session is announced for 8:30 PM IST, listeners are encouraged to use the replays for sravana and manana, and the teacher closes, promising to continue through Chapter 4.",
+          "cue_range": [
+            680,
+            690
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-chaturvarnya",
+      "label": "Chadaruvarnya",
+      "gloss": "the fourfold order of varnas, said to be created by the Lord",
+      "cue_range": [
+        117,
+        119
+      ]
+    },
+    {
+      "id": "c-akarta",
+      "label": "Akarta",
+      "gloss": "non-doer; how Krishna asks to be known",
+      "cue_range": [
+        34,
+        57
+      ]
+    },
+    {
+      "id": "c-kartrutva",
+      "label": "Kartrutva",
+      "gloss": "the sense of being the doer, superimposed on atman",
+      "cue_range": [
+        70,
+        78
+      ]
+    },
+    {
+      "id": "c-adhyasa",
+      "label": "adhyasa",
+      "gloss": "superimposition of the body-mind-intellect's agency on the self",
+      "cue_range": [
+        62,
+        66
+      ]
+    },
+    {
+      "id": "c-avidya",
+      "label": "Avidya",
+      "gloss": "ignorance of one's nature, the root of the samsara chain",
+      "cue_range": [
+        76,
+        81
+      ]
+    },
+    {
+      "id": "c-spriha",
+      "label": "Spriha",
+      "gloss": "forward-directed craving for what is not yet possessed",
+      "cue_range": [
+        89,
+        91
+      ]
+    },
+    {
+      "id": "c-guna-karma-vibhaga",
+      "label": "guna karma vibhaga",
+      "gloss": "division by qualities and actions, the basis of varna",
+      "cue_range": [
+        102,
+        104
+      ]
+    },
+    {
+      "id": "c-vyavaharika",
+      "label": "Vyavaharika",
+      "gloss": "the empirical, transactional level",
+      "cue_range": [
+        105,
+        107
+      ]
+    },
+    {
+      "id": "c-paramarthika",
+      "label": "paramarthika",
+      "gloss": "the absolute level, where there is one atman",
+      "cue_range": [
+        110,
+        119
+      ]
+    },
+    {
+      "id": "c-avyaya",
+      "label": "Avaya",
+      "gloss": "unmodified, imperishable; the ground of non-doership",
+      "cue_range": [
+        196,
+        218
+      ]
+    },
+    {
+      "id": "c-sakshi",
+      "label": "Sakshi",
+      "gloss": "the witnessing self, uninvolved in activity",
+      "cue_range": [
+        245,
+        246
+      ]
+    },
+    {
+      "id": "c-karma-lepa",
+      "label": "Karma lepa",
+      "gloss": "residue that action with doership leaves on the mind",
+      "cue_range": [
+        375,
+        386
+      ]
+    },
+    {
+      "id": "c-purnata",
+      "label": "poornatham",
+      "gloss": "completeness, lacking nothing; why the Lord has no spriha",
+      "cue_range": [
+        484,
+        507
+      ]
+    },
+    {
+      "id": "c-abhijnana",
+      "label": "Abhijanathi",
+      "gloss": "direct, face-to-face recognition of the truth",
+      "cue_range": [
+        533,
+        548
+      ]
+    },
+    {
+      "id": "c-jivanmukta",
+      "label": "Jeevan Mukta",
+      "gloss": "one liberated while living, acting without doership",
+      "cue_range": [
+        562,
+        627
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Recap of verse 13: Lord as creator yet non-doer] --> B[Two levels: doer empirically, non-doer absolutely]\n  B --> C[Avidya superimposes doership, driving kama, karma, samskara, rebirth]\n  B --> D[Varna by guna and karma, one atman in all]\n  B --> E[Know the me in you: model for the karma yogi]\n  E --> F[Avyaya as the ground of non-doership]\n  F --> G[Verse 14: actions do not stain, no craving for fruit]\n  G --> H[Three analogies: sky, sun, fire]\n  G --> I[No spriha because the Lord is complete]\n  I --> J[Direct knowledge, abhijanati, frees from bondage]\n  C --> J\n  J --> K[Jeevan mukta acts like Parameshwara, as in Isha Upanishad]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        20,
+        25
+      ],
+      "note": "Sanskrit invocation rendered phonetically by ASR; not transcribed or interpreted."
+    },
+    {
+      "cue_range": [
+        509,
+        513
+      ],
+      "note": "Brihadaranyaka citation number ('446') and the Sanskrit are garbled; only the English gloss was summarised."
+    },
+    {
+      "cue_range": [
+        628,
+        635
+      ],
+      "note": "Upanishad citations garbled (Brihadaranyaka passage, an unclear 'Kaushik tithigi'/'KN' Upanishad); not reconstructed."
+    }
+  ]
+}

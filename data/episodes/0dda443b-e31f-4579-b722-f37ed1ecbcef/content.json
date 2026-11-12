@@ -1,0 +1,427 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "0dda443b-e31f-4579-b722-f37ed1ecbcef",
+  "title": "Ch04-05-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "18b4134ba49e7ac666f58423d4d6090f8275d06d5a670d5a02017c0bec5f6467",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 8",
+    "verified": false
+  },
+  "summary": {
+    "text": "Continuing the Avatara section, the teacher takes up verse 4.8 and its three purposes: Paritrana, the total deliverance of the sadhus; Vinasha, the total destruction of the evildoers; and Dharma samsthapana, the firm re-establishment of the ancient Dharma, which the first two serve. Each is read at two levels: the Lord acting in the world, and Nyana acting within the seeker, freeing Viveka and Vairagya, burning Avidya, Kama and Krodha, and restoring knowledge of the Atma. Yuge yuge, paired with yada yada, means whenever needed, even this very moment, through Guru, Shastra and Satsang. Arjuna is the immediate occasion. In Q&A, Ishwara, Guru and Atma are framed as knowledge principles, and premature renunciation is traced to unexamined Kama.",
+    "cue_ranges": [[21, 86], [87, 265], [266, 399], [400, 438], [504, 581], [582, 655], [671, 787]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host introduction and invocation",
+      "cue_range": [1, 20],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes everyone to the Advaita Vedanta satsang on the Gita, notes that the class is in chapter 4, and points to replays on Clubhouse, the Advaita Retold YouTube channel, Apple Podcasts and Spotify, plus a related book. Chat and hand raising stay closed during the class.",
+          "cue_range": [1, 15]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher greets the listeners and recites an opening invocation, which the transcript renders in garbled form.",
+          "cue_range": [16, 20]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap and the three purposes of the verse",
+      "cue_range": [21, 64],
+      "shloka_refs": [
+        {"ref": "BG 4.8", "basis": "uploader-claim-only"}
+      ],
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "Whenever the Dharma that sustains both the worldly prosperity and the spiritual liberation declines and adharma is on the rise,",
+          "cue_range": [22, 25]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Recapping the previous verse, the teacher recalls that the Avatara is needed at two levels: at the cosmic level as natural forces or as people who change the world, and within each individual as the restoration of Nyana, the sole remedy for Kama and Krodha, leading to Moksha.",
+          "cue_range": [26, 34]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Asked why the Lord must intervene at all, Krishna gives a purpose in three parts. The teacher glosses Paritranaya sadhunam as protection or deliverance of the virtuous, Vinashaya cha dushkritam as destruction of those who do evil and bring disharmony, and Dharma samsthapanarthaya as firmly establishing Dharma, which he calls an effect of the first two.",
+          "cue_range": [34, 57]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Sambhavami is rendered as I manifest or come into being, and yuge yuge as in every age, or whenever there is a need. Together the verse says the Lord arises again and again for these three ends.",
+          "cue_range": [57, 64]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Verse 4.8 as double closure, cosmic and inner",
+      "cue_range": [65, 86],
+      "shloka_refs": [
+        {"ref": "BG 4.8", "basis": "stated-in-transcript", "cue_range": [65, 66]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Following Shankaracharya, the teacher calls 4.8 a double closure: it completes the account of the Lord descending to the empirical level and opens the teaching on the three purposes.",
+          "cue_range": [65, 72]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "These purposes are not only cosmic events; they describe what Nyana does inside the jiva. Their deepest Advaita sense is the liberation of each mumukshu through a threefold action of knowledge on Avidya, which is the root of Kama and Krodha and of not knowing right from wrong.",
+          "cue_range": [73, 86]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Paritrana: total deliverance of the sadhus",
+      "cue_range": [87, 135],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Trana means rescue or protection; the prefix pari adds totality, so Paritrana is stronger than ordinary protection or refuge. Its deepest form is release from samsara itself, from repeated birth and death born of identifying with the body.",
+          "cue_range": [87, 101]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "At the empirical level the sadhus are the upright who are oppressed by adharma. At the absolute level they are mumukshus whose Viveka and Vairagya have ripened but who are still held by a trace of Avidya. For them Paritrana is Moksha, and the Gita teaching itself is the Lord's instrument for it.",
+          "cue_range": [102, 124]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher says Shankara reads Paritrana through a later verse, given in the transcript as 3.64 point 36, and recites it. The number is garbled in the transcript, so the verse is not identified here.",
+          "cue_range": [125, 128]
+        },
+        {
+          "kind": "quote",
+          "text": "you shall cross all evil by the boat of Nyana alone.",
+          "cue_range": [129, 132]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Such a crossing is what Paritrana means here; it comes about through Nyana, not through a miracle or a divine boon.",
+          "cue_range": [133, 135]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Vinasha: destroying evildoers, outside and within",
+      "cue_range": [136, 221],
+      "shloka_refs": [
+        {"ref": "BG 3.37-43", "basis": "stated-in-transcript", "cue_range": [199, 200]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Vinasha stands in deliberate contrast to Paritrana: the prefix vi intensifies destruction just as pari intensifies rescue, so the two are equal and opposite. What is destroyed is the evildoers themselves, not only their deeds, so that they do not repeat them.",
+          "cue_range": [136, 152]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara asks how a Lord who is equal to all, without enmity and devoted to every being's welfare, could destroy anyone. His answer: the destruction is not driven by hostility but follows naturally from restoring Dharma.",
+          "cue_range": [153, 175]
+        },
+        {
+          "kind": "quote",
+          "text": "Just as darkness is not destroyed by light out of hostility for darkness, but simply cannot coexist.",
+          "cue_range": [176, 178]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "When people ask why some suffer and others enjoy under an impartial God, the teacher says we see only part of the picture and do not know each person's prarabdha or past deeds.",
+          "cue_range": [179, 189]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "At the inner level the evildoers are the six inner enemies such as Kama, Krodha, Lobha and Moha, discussed in chapter 3 verses 37 to 43. Their destruction is the removal of Avidya in the seeker. Advice from outside rarely works; the fire of knowledge from within reduces all karmas to ashes.",
+          "cue_range": [189, 221]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Dharma samsthapana: restoring the primordial Dharma",
+      "cue_range": [222, 265],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The teacher breaks the compound into Dharma, sam, sthapana, artha and the ending aya: Dharma is the cosmic moral order, samsthapana is firm re-establishment, artha is purpose, and aya marks for the sake of. The whole means for the purpose of completely re-establishing Dharma.",
+          "cue_range": [222, 241]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This third purpose is the most comprehensive and the summit of the Avatara's aim; deliverance of the sadhus and destruction of the evildoers are the two means through which it is achieved.",
+          "cue_range": [246, 256]
+        },
+        {
+          "kind": "quote",
+          "text": "the Avatara does not create Dharma again.",
+          "cue_range": [263, 264]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The sam signals restoration, not novelty: the eternal Dharma handed down through Vivasvan, Manu, Ikshvaku and the royal sages, and declared lost, is being re-founded.",
+          "cue_range": [256, 265]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Yuge yuge: a timeless, recurring manifestation",
+      "cue_range": [266, 348],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Social and ritual dharmas are empirical, and restoring them is important, yet the highest Dharma the Avatara restores is the knowledge that the Atman is eternal and unborn, the lost yoga now redisclosed to Arjuna. In that sense the Gita itself, as Krishna's words, is the act of re-establishment.",
+          "cue_range": [266, 279]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Sambhavami yuge yuge does not mean once per age. The teacher lists the four yugas and their spans in divine years, then says the preceding yada yada cancels any fixed period: the Lord arises whenever Kama and Krodha overpower Nyana, be it every second or once in a lifetime.",
+          "cue_range": [280, 326]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The doubled words yada yada and yuge yuge are deliberate and bind verses 7 and 8 together as requirement and response. Per Shankara, the Avatara is a structural rule of Ishwara's governance, not a one-off historical exception.",
+          "cue_range": [326, 346]
+        },
+        {
+          "kind": "quote",
+          "text": "rest be assured, the divine intervention is bound to happen.",
+          "cue_range": [348, 348]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Present tense: knowledge clouded, then restored within",
+      "cue_range": [349, 399],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The present tense of Sambhavami collapses time: not only past ages, nor even this age, but this very moment. Knowledge is always present, yet clouded by Kama and Krodha, like fire veiled by smoke, when we identify with body, mind, intellect, lineage or country.",
+          "cue_range": [349, 368]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "That clouding is the decline of Dharma and the rise of adharma. Then, the teacher says, we find ourselves drawn toward sources of knowledge; these are instruments, while the real intervention happens inside us.",
+          "cue_range": [369, 384]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The Lord manifests continually through Guru, Shastra, Viveka and Satsang. Krishna at Kurukshetra is the peak within this ongoing self-disclosure. The triad is two particular purposes serving one universal final cause.",
+          "cue_range": [385, 399]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Inner reading: three functions of self-knowledge",
+      "cue_range": [400, 438],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Applied within the jiva, Paritrana frees qualities such as Viveka, Vairagya, Shama and Dama from the tyranny of Rajas and Tamas. Vinasha is the burning of Avidya, Kama, Krodha, Lobha and the rest, which keep superimposing body and mind on the Atman.",
+          "cue_range": [400, 423]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Through these two, the Atma is re-established as the jiva's supreme reality, recognised as eternal and unborn and as the independent ground of all experience. That knowledge, held not as belief but as direct, unmediated experience, is the highest Dharma within the individual.",
+          "cue_range": [423, 438]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Guru lineage, Avatara section and the two verbs",
+      "cue_range": [439, 503],
+      "shloka_refs": [
+        {"ref": "BG 4.5-8", "basis": "stated-in-transcript", "cue_range": [457, 459]},
+        {"ref": "BG 4.33-42", "basis": "stated-in-transcript", "cue_range": [471, 471]},
+        {"ref": "BG 4.7", "basis": "stated-in-transcript", "cue_range": [482, 482]},
+        {"ref": "BG 4.8", "basis": "stated-in-transcript", "cue_range": [482, 482]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "If the Lord manifests perpetually through Guru, Shastra and Satsang, every genuine guru who transmits self-knowledge expresses yuge yuge sambhavami. The lineage from Gaudapada through Shankara to living teachers and students is an unbroken micro-manifestation of the self recognising itself.",
+          "cue_range": [439, 457]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara notes that verses 5 to 8 establish the Lord himself as the birthless teacher of this yoga, giving the teaching full authority before the knowledge section of 4.33 to 42, where Nyana appears as fire and as a raft.",
+          "cue_range": [457, 482]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Across 4.7 and 4.8, Srijami stresses the Lord's sovereign agency in projecting himself, while Sambhavami stresses the fullness of the manifestation as experienced. Together they give the Advaita resolution: the Avatara is real from the Vyavaharika standpoint and a sovereign projection, Vivarta, from the Paramarthika standpoint.",
+          "cue_range": [482, 503]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Arjuna as occasion, and the Avatara in us",
+      "cue_range": [504, 581],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "With verse 8 the occasion for the Gita is fully set. It answers why Krishna teaches at all: Arjuna is a sadhu whose Viveka is overwhelmed by grief and delusion, a decline of Dharma in his own mind, and the 700 verses are the re-establishment that lets him take up his bow again.",
+          "cue_range": [504, 527]
+        },
+        {
+          "kind": "quote",
+          "text": "So the yuga is this very moment and the Atikari is Arjuna.",
+          "cue_range": [527, 528]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara sees this as the Gita's own account of why it exists. From the next verse the focus turns to the fruit of knowing the Avatara and on to the knowledge teaching, all resting on the foundation laid in these opening verses.",
+          "cue_range": [528, 546]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Because Arjuna did not grasp the earlier teaching on the deathless Self, Krishna starts again from how Kama and Krodha veil our nature. Pampering the body proves futile as age takes over; the body is an instrument to maintain, not who we are. The Avatara in us rekindles the knowledge that we are never born and never die.",
+          "cue_range": [547, 581]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher recites several lines from other parts of the Gita here, such as one about being merely an instrument, without giving chapter or verse numbers; they are not identified in this summary.",
+          "cue_range": [522, 581]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Shankara's commentary read and summed up",
+      "cue_range": [582, 655],
+      "shloka_refs": [
+        {"ref": "BG 4.8", "basis": "uploader-claim-only"}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara's commentary on the verse is a single sentence. The teacher reads it for those following the Bhashya: Paritrana is full protection of those on the path of truth, Vinasha is destruction of sinful doers, and the Lord manifests in each age for the proper re-establishment of Dharma.",
+          "cue_range": [582, 597]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara does not take destruction as merely physical; often it means ending the power and influence of the wicked. Ignorance is the root of adharma, so destroying evil ultimately means removing ignorance.",
+          "cue_range": [601, 620]
+        },
+        {
+          "kind": "quote",
+          "text": "And the real enemy is avidya, ignorance at the deepest level.",
+          "cue_range": [634, 634]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Krishna's key act is the teaching, not the battle; the Gita remains a living teaching while the rest became history. Dharma and adharma cycle only within Maya; the Self stays untouched. The next verse gives the fruit of understanding the Avatara, to be taken up tomorrow.",
+          "cue_range": [626, 655]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: Ishwara, Guru, Atma and the pramanas",
+      "cue_range": [656, 722],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "After a closing invocation the host opens the floor. A listener praises the treatment of Ishwara, Brahman and Atma and asks whether perception shows them the guru, inference shows Ishwara, and scripture shows the Atma.",
+          "cue_range": [656, 678]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher allows the correlation, as each works at a different level, but says all converge on the word as means of knowledge. Its effect is Aparoksha: direct, but inward rather than external. The guru is only an instrument; when the spoken word becomes meaningful conviction, it becomes direct realisation.",
+          "cue_range": [679, 695]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He adds that common ideas of God carry preconceptions; decoded from the scripture at both cosmic and individual levels, Ishwara takes on a different meaning from familiar deities.",
+          "cue_range": [702, 715]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "heading": "Q&A: premature renunciation, Kama, and closing",
+      "cue_range": [723, 808],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Asked about premature renunciation, the teacher says it arises from triggers not grounded in knowledge, such as passing despair, attraction to the scripture or a teacher's oratory. Viveka and Vairagya stay unsteady until the hidden workings of Kama are understood and handled.",
+          "cue_range": [724, 754]
+        },
+        {
+          "kind": "quote",
+          "text": "Kama and Kroda are truthless tigers.",
+          "cue_range": [760, 760]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Avidya cannot be seen directly; it shows itself as desire and anger, so one should watch those and trace them to one's own ignorance. Ishwara, Guru and Atma are embodiments of knowledge; when they remove ignorance, one rests in equanimity, and any renunciation then comes from knowledge.",
+          "cue_range": [761, 787]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host thanks everyone, repeats where recordings and the book can be found, and announces the next session; the teacher says the ninth verse will be taken up tomorrow.",
+          "cue_range": [788, 808]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-avatara", "label": "Avatara", "gloss": "The Lord's manifestation, read both as cosmic intervention and as knowledge arising within the individual", "cue_range": [26, 27]},
+    {"id": "c-dharma", "label": "Dharma", "gloss": "The order that sustains both worldly welfare and spiritual liberation", "cue_range": [22, 25]},
+    {"id": "c-jnana", "label": "Nyana", "gloss": "Knowledge, the only remedy for desire and anger", "cue_range": [31, 33]},
+    {"id": "c-avidya", "label": "Avidya", "gloss": "Ignorance, the root of desire and anger and of the decline of Dharma", "cue_range": [80, 83]},
+    {"id": "c-kama", "label": "Kama", "gloss": "Desire, one of the inner enemies", "cue_range": [31, 33]},
+    {"id": "c-krodha", "label": "Krotha", "gloss": "Anger, paired with desire as an inner enemy", "cue_range": [31, 33]},
+    {"id": "c-paritrana", "label": "Paritrana", "gloss": "Complete deliverance; at the deepest level release from samsara", "cue_range": [87, 98]},
+    {"id": "c-sadhu", "label": "sadhu", "gloss": "The upright person; at the deeper level the qualified seeker of liberation", "cue_range": [102, 112]},
+    {"id": "c-vinasha", "label": "Vinasha", "gloss": "Complete destruction, the counterpart of complete rescue", "cue_range": [136, 145]},
+    {"id": "c-dushkrita", "label": "Duskrit", "gloss": "Evildoers; within the individual, the inner enemies such as desire and anger", "cue_range": [146, 150]},
+    {"id": "c-dharma-samsthapana", "label": "Dharmasam stabana", "gloss": "Complete re-establishment of Dharma, the overarching purpose served by the other two", "cue_range": [232, 236]},
+    {"id": "c-jnanagni", "label": "Nyanagni", "gloss": "The fire of knowledge that burns ignorance and its offshoots", "cue_range": [415, 418]},
+    {"id": "c-parampara", "label": "Guru Parambara", "gloss": "The teacher lineage through which self-knowledge is transmitted", "cue_range": [446, 449]},
+    {"id": "c-vyavaharika", "label": "Vyavaharika", "gloss": "The empirical standpoint", "cue_range": [497, 501]},
+    {"id": "c-paramarthika", "label": "Paramartika", "gloss": "The absolute standpoint", "cue_range": [495, 502]},
+    {"id": "c-aparoksha-anubhuti", "label": "Aparoksha anubhuti", "gloss": "Immediate, unmediated realisation rather than belief", "cue_range": [436, 438]},
+    {"id": "c-premature-renunciation", "label": "premature renunciation", "gloss": "Renunciation triggered without grounding in knowledge, hard to sustain", "cue_range": [724, 729]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Recap, Avatara needed at cosmic and individual levels] --> B[Verse 8 gives three purposes of the Avatara]\n  B --> C[Paritrana, total deliverance of the sadhus]\n  B --> D[Vinasha, total destruction of evildoers]\n  C --> E[Dharma samsthapana, re-establishing the ancient Dharma]\n  D --> E\n  E --> F[Yuge yuge with yada yada, whenever needed, even now]\n  F --> G[Inner reading, knowledge frees virtues and burns ignorance]\n  G --> H[Guru lineage and the Avatara as real yet a projection]\n  H --> I[Arjuna as the occasion for the whole Gita]\n  I --> J[Shankara commentary, real enemy is ignorance]\n  J --> K[Q and A, Ishwara Guru Atma and premature renunciation]"
+  },
+  "gaps": [
+    {"cue_range": [17, 20], "note": "Opening invocation is garbled in the ASR; not reproduced."},
+    {"cue_range": [126, 128], "note": "Verse number given as 3.64 point 36 is garbled, and its Sanskrit recitation is garbled; only the teacher's English rendering is summarised."},
+    {"cue_range": [196, 199], "note": "List of inner enemies is partly garbled in the ASR (e.g. Mohammadhammal, Muhammad); only the clearly named ones are summarised."},
+    {"cue_range": [297, 305], "note": "Yuga durations and the divine-year conversion are given as heard; the figures are not checked or summarised in detail."},
+    {"cue_range": [656, 656], "note": "Closing invocation is garbled; not reproduced."},
+    {"cue_range": [696, 701], "note": "Listener's appreciative remarks; not summarised."},
+    {"cue_range": [716, 723], "note": "Listener's appreciative remarks about an earlier session; not summarised."}
+  ]
+}

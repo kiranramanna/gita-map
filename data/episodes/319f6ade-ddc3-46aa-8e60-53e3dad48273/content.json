@@ -1,0 +1,224 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "319f6ade-ddc3-46aa-8e60-53e3dad48273",
+  "title": "Ch04-10-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "a03592430675caf1da3e97fa75b7e9e52e0d302636910e9ac9647210e6360f96",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 13",
+    "verified": false
+  },
+  "summary": {
+    "text": "Following Shankara's preamble on why only humans hold varna-ashrama duties, the teacher reads verse 13 word by word. The fourfold order is projected by Parameshwara through his Atma Maya, a vivarta rather than a parinama, and is divided by guna and karma, not by birth; the Satyakama Jabala story shows varna as functional. Krishna then calls himself its karta yet asks Arjuna to know him as akarta and avyaya: doership needs will, ego and upadhi, and every action modifies its doer, so the imperishable Self cannot be the doer except vyavaharika-wise. Commentary is deferred to the next class. In Q&A, the waker-and-dream and space analogies address non-doership and whether Brahman wills.",
+    "cue_ranges": [[19, 59], [60, 159], [183, 259], [260, 464], [465, 653], [734, 1019]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Opening, invocation and recap of verse 12",
+      "cue_range": [1, 18],
+      "shloka_refs": [
+        {"ref": "BG 4.13", "basis": "stated-in-transcript", "cue_range": [3, 3]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The host announces that the class continues with chapter 4, verse 13, and the teacher recites an invocation to the guru lineage including Shankaracharya.", "cue_range": [1, 10]},
+        {"kind": "paraphrase", "text": "Recap: people wanting success in action worship various deities for quick returns in the human world, but such fruits are born of karma and stay limited, unlike the path of knowledge that culminates in realising the non-dual Self.", "cue_range": [11, 18]}
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Shankara's preamble: why humans follow the Lord's path",
+      "cue_range": [19, 59],
+      "shloka_refs": [
+        {"ref": "BG 4.11", "basis": "stated-in-transcript", "cue_range": [33, 36]},
+        {"ref": "BG 4.12", "basis": "stated-in-transcript", "cue_range": [47, 52]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankara's introduction to the verse raises a question: only in the human world is there eligibility for Vedic duties of varna and ashrama, so why should that rule hold, and why do humans necessarily follow Krishna's path rather than another's?", "cue_range": [19, 45]},
+        {"kind": "paraphrase", "text": "The teacher links this to the 11th verse (humans follow my path in every way) and the 12th (people seek karma-born success from desire-granting devatas). The implied issue is how Parameshwara, sovereign of all paths, relates to the social and cosmic order in which all karma is done.", "cue_range": [36, 57]},
+        {"kind": "unresolved", "text": "The Sanskrit of Shankara's preamble is rendered as heavily garbled ASR (e.g. 'na unusual Kim nimitaiti'); only the teacher's English gloss is summarised here, not the Sanskrit wording.", "cue_range": [22, 33]}
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Three moves of verse 13 and its grammar",
+      "cue_range": [60, 119],
+      "shloka_refs": [
+        {"ref": "BG 4.13", "basis": "stated-in-transcript", "cue_range": [77, 79]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The verse does three things at once: it claims Parameshwara made the fourfold order, it names guna and karma as the basis of that division, and it then paradoxically says the maker should be known as a non-doer and imperishable.", "cue_range": [60, 69]},
+        {"kind": "quote", "text": "Though I am its originator, creator or doer Karta know me as a karta non doer, aviya and imperial.", "cue_range": [68, 69]},
+        {"kind": "paraphrase", "text": "After reciting the verse, the teacher glosses each word: srishtam as projected rather than produced, guna-karma-vibhagashah as an adverbial compound, tasya as referring to the fourfold order, api as concessive. The single imperative 'viddhi' (know) governs three objects: me, the doer, and the non-doer who is imperishable.", "cue_range": [77, 103]},
+        {"kind": "paraphrase", "text": "He calls the verse a pivot for Shankara's doctrine of the Lord's non-doership, which extends to the Atman, and notes Krishna had earlier said there is nothing in the three worlds he still needs to attain.", "cue_range": [103, 119]},
+        {"kind": "unresolved", "text": "The earlier statement about having nothing to attain in the three worlds is cited only through garbled words ('Rishu Rishu Lokeshu king chana Mama'); the transcript does not give its chapter or verse number.", "cue_range": [108, 113]}
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Apparent doer, real non-doer; a model for karma yoga",
+      "cue_range": [120, 160],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The Advaitic resolution: at the vyavaharika level Parameshwara appears as the doer who projects the fourfold classification, while at the paramarthika level he remains essentially without any creatorship.", "cue_range": [120, 130]},
+        {"kind": "paraphrase", "text": "This double description is offered as the template for a karma yogi, who acts without craving results while knowing himself as the non-doing Self. Hence the verse is at once cosmological, theological and soteriological.", "cue_range": [130, 150]},
+        {"kind": "paraphrase", "text": "The teacher rejects the popular charge that Krishna founded the caste system; he says the verse does not speak of caste at all but of an order of engagement in action divided by guna and karma.", "cue_range": [151, 159]}
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Chaturvarnyam and srishtam: projected order, not birth",
+      "cue_range": [161, 259],
+      "shloka_refs": [
+        {"ref": "BG 4.7", "basis": "stated-in-transcript", "cue_range": [185, 192]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Chatur means four and varna, from a root meaning to describe or categorise, means class or order. The four are Brahmana (knowledge, teaching), Kshatriya (protection, rule), Vaishya (trade, agriculture) and Shudra (service). This differentiation is said to run through the whole cosmos, every species included.", "cue_range": [161, 182]},
+        {"kind": "paraphrase", "text": "Srishtam shares the root of the seventh verse's 'srijami', where Krishna projects himself when dharma declines. It means projection without self-transformation through his own Atma Maya.", "cue_range": [183, 201]},
+        {"kind": "quote", "text": "So it's the Vivarta Uvadhana rather than a Parinama.", "cue_range": [202, 202]},
+        {"kind": "paraphrase", "text": "The order is neither a human convention nor a historical accident; Parameshwara projects it as part of establishing dharma and himself appears within it. Krishna, born a Yadava, became king of Mathura and is regarded as a Kshatriya.", "cue_range": [203, 237]},
+        {"kind": "quote", "text": "The basis for the four varnas is not a hereditary birth but a natural division using the gunas and karma.", "cue_range": [244, 245]},
+        {"kind": "paraphrase", "text": "Jati originally meant a class such as a species; caste by birth began to assert itself as adharma grew even in Krishna's time, which the teacher ties to Krishna's stated purpose of restoring dharma.", "cue_range": [249, 259]}
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Guna karma vibhaga: gunas, svabhava and four functions",
+      "cue_range": [260, 400],
+      "shloka_refs": [
+        {"ref": "BG 18.41-44", "basis": "stated-in-transcript", "cue_range": [377, 378]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Vibhaga means division. The three gunas are sattva (clarity, knowledge), rajas (activity, passion) and tamas (inertia, heaviness). Their changing proportion in mind, intellect and body shapes a person's behaviour; the dominant one names the personality though the other two also appear.", "cue_range": [260, 289]},
+        {"kind": "paraphrase", "text": "Karma here means action flowing naturally from one's svabhava, the guna make-up. The qualities belong to the upadhi of body, mind and intellect, not to the Self. The compound can be read either as action of the gunas or as guna and karma together.", "cue_range": [290, 318]},
+        {"kind": "paraphrase", "text": "The scriptural profile: Brahmana is sattva-dominant (study, teaching, sacrifice, giving and receiving gifts); Kshatriya mixes sattva and rajas (valour, not fleeing battle); Vaishya is rajas-dominant (farming, cattle, trade); Shudra mixes tamas and rajas and supports the other three. The teacher insists none is higher or lower.", "cue_range": [319, 366]},
+        {"kind": "paraphrase", "text": "A Shudra assisting in a particular function can, over time, take on that varna. The natural duties are listed later in chapter 18, verses 41 to 44. The phrase grounds differentiation in svabhava, a functional cosmic and social organisation rather than four ranks fixed by birth.", "cue_range": [367, 400]}
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Varna is fluid: the story of Satyakama Jabala",
+      "cue_range": [401, 464],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "quote", "text": "since Varna is based on Guna and Karman, not by birth, it is in principle fluid.", "cue_range": [401, 402]},
+        {"kind": "paraphrase", "text": "Satyakama, son of a maid named Jabala who could not say who his father was, told Gautama Rishi exactly that. The teacher accepted him, praising the truthfulness of mother and son as a Brahmana quality; Satyakama is functionally a Brahmana regardless of lineage.", "cue_range": [405, 453]},
+        {"kind": "paraphrase", "text": "The teacher cites a Vanaparva statement in the Mahabharata that dharma is not born from jati. Functional differentiation is empirical, while the Atman underlying every varna is one and non-dual.", "cue_range": [453, 464]},
+        {"kind": "inferred", "text": "The teacher does not name the source of the Satyakama story; it matches the account usually read in the Chandogya Upanishad, but that identification is ours, not stated in the transcript.", "cue_range": [405, 448]}
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Kartaram api, viddhi akartaram: the injunction to know",
+      "cue_range": [465, 541],
+      "shloka_refs": [
+        {"ref": "BG 4.6", "basis": "stated-in-transcript", "cue_range": [481, 485]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "In Advaita, doership is what the jiva falsely superimposes on the Atman through adhyasa, by identifying with the body, as set out in Shankara's adhyasa bhashya opening the Brahma Sutra commentary.", "cue_range": [465, 476]},
+        {"kind": "paraphrase", "text": "Krishna accepts being the karta and in the same breath negates it, as in 4.6 where the unborn one says he comes into being. This is a typical Gita device for holding the empirical and absolute descriptions together, so properly understood there is no contradiction.", "cue_range": [477, 497]},
+        {"kind": "paraphrase", "text": "The acceptance is not false modesty: the order really is Ishwara's creation in empirical truth, and he projects it to uphold dharma, yet in doing so he undergoes no change and stays imperishable and a non-doer.", "cue_range": [498, 526]},
+        {"kind": "paraphrase", "text": "'Viddhi' is the strongest imperative available, addressed urgently to Arjuna; knowing Krishna as non-doer and imperishable is not optional, for that knowledge of truth bears moksha as its fruit.", "cue_range": [527, 541]}
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Why the imperishable Self cannot be the doer",
+      "cue_range": [542, 653],
+      "shloka_refs": [
+        {"ref": "BG 4.6", "basis": "stated-in-transcript", "cue_range": [639, 642]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Action needs doership, doership needs sankalpa (will), will needs ahankara (ego), and the ego needs an upadhi of body and mind. In deep sleep the self exists yet does nothing. The Atman, free of upadhi and ego, therefore has no doership; even 'aham' in aham brahmasmi refers to the Self.", "cue_range": [542, 578]},
+        {"kind": "quote", "text": "That is our state in deep sleep. I am there, but I am not a doer.", "cue_range": [559, 560]},
+        {"kind": "quote", "text": "Every activity modifies the doer.", "cue_range": [602, 602]},
+        {"kind": "paraphrase", "text": "Will, ego, effort, completion, expected result and the joy or anger at outcomes all alter mind, intellect and body. So being avyaya is possible only for a non-doer; adding 'avyayam' makes non-doership prevail, and Krishna is a doer only within the projection.", "cue_range": [603, 642]},
+        {"kind": "paraphrase", "text": "He warns that reading the Gita alone, without Shankara's bhashya, would be a disaster, and stops halfway, leaving the commentary for the next day.", "cue_range": [643, 653]}
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Q&A: devas, a roadside lesson and the yaksha offering",
+      "cue_range": [654, 733],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Asked whether devas fall within this order, the teacher says devas and asuras alike have gradations, and the order runs through the whole cosmos.", "cue_range": [658, 669]},
+        {"kind": "paraphrase", "text": "A participant recounts skipping a roadside temple visit his father wanted, then suffering car damage and a truck collision, and finally being seated at that temple by a police officer. He asks whether such a guardian deity is configured into the manifest world.", "cue_range": [670, 710]},
+        {"kind": "paraphrase", "text": "The teacher replies with a Mimamsa saying: the priest must first make an offering to the yaksha who guards the sacrificial area; when this is forgotten, some disturbance such as a bird or dog spoils the rite. What is due must be given first.", "cue_range": [711, 731]},
+        {"kind": "unresolved", "text": "The place names in the anecdote ('powerguard', 'Tumkur') and the identity of the 'Sharif temple' and 'ketra Pala' are unclear in the ASR and are not resolved here.", "cue_range": [674, 703]}
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: waker and dream, avyaya and deep sleep",
+      "cue_range": [734, 892],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Srini asks whether saying nirguna Brahman stays apart while saguna Brahman projects would be simpler. The teacher answers with the dream: the waker is its author yet is not acting inside it, just as Brahman projects through Atma Maya without becoming empirical.", "cue_range": [734, 765]},
+        {"kind": "quote", "text": "Now imagine who is the Carter of your dream.", "cue_range": [747, 748]},
+        {"kind": "paraphrase", "text": "Krishna speaks from the absolute standpoint as an avatara present within the world, which the dream analogy lacks. Avyaya matters because doership brings change through expected results; a karma yogi who knows himself as non-doer and imperishable is a jnani. Nirguna and saguna are two faces of one coin.", "cue_range": [766, 819]},
+        {"kind": "paraphrase", "text": "To the follow-up about who projects the waker, he cites Gaudapada on Mandukya: the deep-sleep seed projects waker and dreamer, in deep sleep all are one, and the waker merely constructs a memory of having known nothing.", "cue_range": [822, 892]},
+        {"kind": "unresolved", "text": "The text cited as 'Kaushiki Brahmana' and the Mandukya phrase rendered 'BJ Deidra Yuda Pragya' are garbled; the exact source and wording cannot be recovered from the transcript.", "cue_range": [843, 871]}
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: is there will in Brahman? The space analogy",
+      "cue_range": [893, 1019],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Patrick presses that if only Brahman exists, all doing and volition should simply be granted to Brahman, and calls non-doership an elementary teaching.", "cue_range": [893, 918]},
+        {"kind": "paraphrase", "text": "The teacher asks whether space itself moves: everything moves within it, yet it does not. Creation in Brahman is like that; dream, waking and world are Brahman, but genuine will would require an ego.", "cue_range": [919, 959]},
+        {"kind": "quote", "text": "Sure space is non movement, but all movements depend upon the space.", "cue_range": [929, 930]},
+        {"kind": "quote", "text": "If there is a will, there has to be an ego for it.", "cue_range": [944, 945]},
+        {"kind": "paraphrase", "text": "Srini asks if elements emerging from space conflict with space not moving. The teacher recalls the Taittiriya classes: space, air and the rest are Atman; a separated quality only seems independent while remaining dependent. Patrick leaves, calling it a matter of language.", "cue_range": [960, 1019]}
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Closing and next session",
+      "cue_range": [1020, 1036],
+      "shloka_refs": [
+        {"ref": "BG 4.13", "basis": "stated-in-transcript", "cue_range": [1034, 1035]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The host announces the next session at 8:30 PM IST and suggests replays for continuity; the teacher thanks the host and participants by name.", "cue_range": [1025, 1033]},
+        {"kind": "quote", "text": "We'll continue the remaining part of this 13 tourist tomorrow early on.", "cue_range": [1034, 1035]}
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-chaturvarnya", "label": "Chaturvarnyam", "gloss": "the fourfold order of varnas taken as one integrated whole", "cue_range": [78, 82]},
+    {"id": "c-guna-karma-vibhaga", "label": "guna Karma", "gloss": "division according to one's qualities and the actions natural to them", "cue_range": [260, 262]},
+    {"id": "c-kartritva", "label": "Kartrutva", "gloss": "doership or agency", "cue_range": [106, 117]},
+    {"id": "c-akartritva", "label": "Akartrutva", "gloss": "non-doership of Ishwara and of the Self", "cue_range": [106, 117]},
+    {"id": "c-avyaya", "label": "Avaya", "gloss": "imperishable, not modified by any action", "cue_range": [579, 587]},
+    {"id": "c-atma-maya", "label": "Atma Maya", "gloss": "the Lord's own creative power by which he projects the world", "cue_range": [233, 236]},
+    {"id": "c-vivarta", "label": "Vivarta", "gloss": "apparent projection without change in the source", "cue_range": [202, 202]},
+    {"id": "c-parinama", "label": "Parinama", "gloss": "real transformation of a cause into its effect", "cue_range": [202, 202]},
+    {"id": "c-jati", "label": "Jati", "gloss": "class or kind; later, caste by birth", "cue_range": [248, 254]},
+    {"id": "c-svabhava", "label": "Sobhava", "gloss": "one's inherent nature shaped by guna proportion", "cue_range": [292, 296]},
+    {"id": "c-adhyasa", "label": "adyasa", "gloss": "superimposition of the body and doership on the Self", "cue_range": [469, 476]},
+    {"id": "c-sankalpa", "label": "Sangalpa", "gloss": "will or volition required for action", "cue_range": [549, 553]},
+    {"id": "c-ahankara", "label": "ahankara", "gloss": "ego, the I-sense that authors actions", "cue_range": [566, 577]},
+    {"id": "c-upadhi", "label": "upadhi", "gloss": "limiting adjunct of body, mind and intellect", "cue_range": [552, 566]},
+    {"id": "c-vyavaharika", "label": "Vyavaharika", "gloss": "empirical level of truth", "cue_range": [120, 129]},
+    {"id": "c-paramarthika", "label": "Paramarthika", "gloss": "absolute level of truth", "cue_range": [120, 129]},
+    {"id": "c-karma-yoga", "label": "karma Yogi", "gloss": "one who acts without expecting results, modelling non-doership", "cue_range": [130, 143]},
+    {"id": "c-avatara", "label": "avatara", "gloss": null, "cue_range": [776, 782]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Preamble: why humans follow the Lords path] --> B[Verse 13 makes three moves]\n  B --> C[Fourfold order projected by Atma Maya, vivarta not parinama]\n  C --> D[Division by guna and karma, not birth]\n  D --> E[Varna is functional, Satyakama Jabala]\n  B --> F[Doer at empirical level, non doer in truth]\n  F --> G[Doership needs will, ego and upadhi]\n  G --> H[Action modifies doer, so avyaya means akarta]\n  H --> I[Model for the karma yogi]\n  H --> J[Q and A: dream and space analogies]"
+  },
+  "gaps": [
+    {"cue_range": [22, 33], "note": "Sanskrit of Shankara's preamble is garbled in the ASR; only the teacher's English rendering is summarised."},
+    {"cue_range": [474, 476], "note": "Quoted Sanskrit of the Brahma Sutra adhyasa bhashya opening is garbled; not reproduced."},
+    {"cue_range": [654, 657], "note": "Host housekeeping: chat and hand-raising reopened, repository links posted."},
+    {"cue_range": [960, 986], "note": "Overlapping cross-talk between participants; partly garbled ('attention primordial', 'Windows G'); only the eventual question about space and elements is summarised."},
+    {"cue_range": [1020, 1024], "note": "Farewells and cross-talk; not summarised."}
+  ]
+}

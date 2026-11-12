@@ -1,0 +1,392 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "de4332d5-f005-4957-8cb9-34f7f0ca4771",
+  "title": "Ch04-19-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "8d1a97d2a987120538952dd13a59bc26066f6269d7bc90244b313c10336e155b",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 22",
+    "verified": false
+  },
+  "summary": {
+    "text": "After finishing Shankara's bhashya on verse 21, where the renunciate keeps the body going only with what arrives unasked, the teacher presents verse 22 as the sealing verse of the Karma Vichara Prakarana begun at verse 16. Its four qualifications of the Jeevan Mukta follow: contentment with whatever comes by chance, the outward face of nithyatripti; transcendence of the pairs of opposites, unlike a sadhaka's titiksha; freedom from matsara through Sarvatma Bhava; and equanimity in success and failure, matching the samatvam definition of yoga in 2.48. Doership, desire for fruit and raga-dwesha, the three causes of bondage, are negated, so even having acted he is not bound. This answers Arjuna's fear and opens the yagna section at verse 23.",
+    "cue_ranges": [[18, 73], [74, 113], [144, 234], [234, 386], [386, 526], [527, 616]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host introduction and opening invocation",
+      "cue_range": [1, 17],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita Vedanta satsang, notes that the Gita sessions run on weekdays at 8:30 PM IST, points to replays on Clubhouse, the Advaita Retold YouTube channel and podcast platforms, mentions a book on Amazon, and hands over to the teacher with chat and hand raising closed until Q&A.",
+          "cue_range": [1, 13]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher greets everyone and recites an invocation honouring Shankara before starting.",
+          "cue_range": [14, 17]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Finishing Shankara's bhashya on verse 21",
+      "cue_range": [18, 73],
+      "shloka_refs": [
+        {"ref": "BG 4.21", "basis": "stated-in-transcript", "cue_range": [18, 25]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The pending part of Shankara's commentary on 4.21 is taken up. The word meanings are restated: mind and body restrained, all sense of ownership dropped, no desire for results, and only bodily action performed, so no sin is incurred. Shankara takes bodily action to mean only what keeps the body alive, done without ego or desire, and such action does not bind the knower.",
+          "cue_range": [18, 31]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The renunciate owns no stock of food, so when hunger arises he accepts what comes through begging or as a gift. He does not store grain against future need. The teacher says scripture permits taking what arrives on its own, unasked and unprepared.",
+          "cue_range": [32, 56]
+        },
+        {
+          "kind": "unresolved",
+          "text": "A scriptural source for the rule about accepting what comes unasked is named, heard as an 'ashu Parva' of the Mahabharata; the exact section is unclear in the transcript.",
+          "cue_range": [48, 53]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Recap of verse 21's three terms, niraashi, yatachitatma and tyakta sarva parigraha: no expectation of fruit, restraint of body and mind, and no accumulation, acting only at the body level. Living this way, the empirical world does not bind him.",
+          "cue_range": [61, 73]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Verse 22 as the culmination of Karma Vichara",
+      "cue_range": [74, 113],
+      "shloka_refs": [
+        {"ref": "BG 4.22", "basis": "stated-in-transcript", "cue_range": [74, 109]},
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [79, 84]},
+        {"ref": "BG 4.23", "basis": "stated-in-transcript", "cue_range": [89, 92]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 22 adds four more qualifications and closes the inquiry into karma that opened at verse 16 with the question of what action and non-action are, a matter on which even the wise were confused. Shankara treats it as the sealing verse before the next section begins at verse 23.",
+          "cue_range": [74, 96]
+        },
+        {
+          "kind": "quote",
+          "text": "Even while acting, he is not bound.",
+          "cue_range": [77, 78]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The four qualifications of the Jeevan Mukta go progressively deeper and end in the statement that action does not bind him. The teacher says this answers Arjuna's implicit question from the first chapter, then recites the verse, calling it a famous picture of one who is a jeevatma yet free.",
+          "cue_range": [96, 113]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Word meanings of the four qualifications",
+      "cue_range": [114, 143],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Yadrichha labha santushta means satisfied with what comes by chance, without effort. Dvandva atita is one gone beyond the pairs of opposites. Vimatsara is freedom from matsara, the competitive urge to be better than someone else.",
+          "cue_range": [114, 129]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Sama siddhau asiddhau cha means even-minded in success and failure. Kritva api means even after acting in the dual world, and na nibadhyate means he does not become bound.",
+          "cue_range": [130, 143]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Contentment with whatever comes unsought",
+      "cue_range": [144, 234],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Yadrichha is a karma yoga term for how the fruit of action is received, not rejected. A karma yogi may offer fruits to God, but the Jeevan Mukta, knowing himself as Atman, has no one to offer them to; food, clothing and circumstances simply arrive, since he never willed them.",
+          "cue_range": [144, 171]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "His satisfaction does not depend on the amount, quality or manner of what is given, even if it comes with scolding or is thrown at him. He accepts whatever prarabdha brings.",
+          "cue_range": [172, 190]
+        },
+        {
+          "kind": "quote",
+          "text": "His happiness is in his self.",
+          "cue_range": [182, 182]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "For Shankara this contentment is the outward face of nithyatripti from verse 20: one satisfaction seen inwardly as fullness in Atman and outwardly as acceptance of circumstances. Unlike the ajnani's endless craving rooted in incompleteness, the jnani rests in completeness, so outer variation does not matter.",
+          "cue_range": [191, 234]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Transcending the pairs of opposites",
+      "cue_range": [235, 300],
+      "shloka_refs": [
+        {"ref": "BG 2.14", "basis": "stated-in-transcript", "cue_range": [285, 291]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Dvandva atita has surpassed pairs such as pleasure and pain, honour and dishonour, cold and heat, gain and loss, victory and defeat. The jiva swings between the preferred and the disliked pole, and this raga-dwesha drives karma in the ajnani.",
+          "cue_range": [235, 256]
+        },
+        {
+          "kind": "quote",
+          "text": "these pair of opposites are the fundamental structure of sansaric experience or the empirical experience.",
+          "cue_range": [247, 248]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher refers to an earlier discussed passage, heard as 'Siddapratnasya basha', and quotes a phrase about pleasure and pain, gain and loss, victory and defeat; the transcript does not identify which verse or text is meant.",
+          "cue_range": [244, 246]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Raga and dwesha rest on mistaking the body-mind upadhi for Atman. Once Atman is known as complete, actionless and not an enjoyer, the pairs still touch the body, with heat, cold and hunger, but not the Self.",
+          "cue_range": [256, 282]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara contrasts this with titiksha, the forbearance of a sadhaka cited from 2.14, which is patient endurance with inner tension still present. The Jeevan Mukta has fully transcended the pairs because the body-identification that made them matter is replaced by knowing himself as Atman.",
+          "cue_range": [283, 300]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Freedom from envy through seeing one Self",
+      "cue_range": [301, 337],
+      "shloka_refs": [
+        {"ref": "BG 5.7", "basis": "stated-in-transcript", "cue_range": [320, 321]},
+        {"ref": "BG 5.18", "basis": "stated-in-transcript", "cue_range": [331, 333]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Matsara covers envy, jealousy and pain at another's gain or excellence, arising from ahankara: if someone has more than me, I am unhappy. Vimatsara means the ego's separating function, which sees selves competing for limited goods, has dissolved.",
+          "cue_range": [301, 316]
+        },
+        {
+          "kind": "quote",
+          "text": "That art self in me is the self in all Sarvatma Bhava, the self of all beings.",
+          "cue_range": [318, 319]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Citing 5.7 and the equal vision of 5.18, the teacher says there is no other whose prosperity could be envied. The wise one sees Brahman equally in the prosperous and the struggling, the praised and the blamed, since Atman does not compete with Atman.",
+          "cue_range": [320, 337]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Equanimity in success and failure as yoga",
+      "cue_range": [338, 385],
+      "shloka_refs": [
+        {"ref": "BG 2.48", "basis": "stated-in-transcript", "cue_range": [374, 377]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The Pandita stays even in siddhi and asiddhi without swinging into agitation. Of all the pairs, success and failure matter most because they sit at the level of outcome; the other pairs can be seen as derived from them, so this is the most practical form of transcendence for a karma yogi.",
+          "cue_range": [338, 362]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Since he is an akarta and the body acts from prarabdha, whether an action succeeds is outside his volition and irrelevant to him. Shankara links this to 2.48, where evenness in success and failure is defined as yoga, so verse 22 shows the Pandita has attained that samatvam.",
+          "cue_range": [363, 385]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Even having acted, he is not bound",
+      "cue_range": [386, 455],
+      "shloka_refs": [
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [424, 425]},
+        {"ref": "BG 4.19", "basis": "stated-in-transcript", "cue_range": [426, 431]},
+        {"ref": "BG 4.20", "basis": "stated-in-transcript", "cue_range": [432, 436]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Kritva api na nibadhyate compresses the teaching of chapters 3 and 4: even fighting a war as a kshatriya, Arjuna would not be bound if he held this equanimity. It settles the confusion of the wise named at verse 16. Action binds when one is driven by raga and dwesha; here the action happens but binding does not.",
+          "cue_range": [386, 412]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This is the practical meaning of seeing inaction in action: the action still functions, but as non-action, because it does not bind.",
+          "cue_range": [413, 421]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara's sequence is retraced: verse 18, Atman seen as non-doer in action; verse 19, free of desire-driven intention, karma burnt in the fire of knowledge; verse 20, attachment to fruit given up, ever satisfied and independent; verse 21, no expectation, restraint, no accumulation, only bodily action; verse 22, contentment, transcendence of opposites, no envy, equanimity.",
+          "cue_range": [422, 455]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Three causes of bondage, all negated",
+      "cue_range": [456, 526],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Bondage needs three things together: the sense of doership, craving for fruit, and raga-dwesha toward success and failure. The Jeevan Mukta's qualities cancel each: doership by seeing non-action in action and knowing nothing is done by him; craving by being free of desire and content with what comes; raga-dwesha by transcending opposites, envy, and gain and loss.",
+          "cue_range": [456, 501]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "To show the body simply doing its work, the teacher recalls Shankara on the Brahmasutra comparing the outward behaviour of a Jeevan Mukta to an animal: the body moves toward grass and away from a stick, while he himself neither desires nor fears.",
+          "cue_range": [475, 486]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The specific Brahmasutra passage and the Sanskrit phrase used for the animal comparison are not clearly identified in the transcript.",
+          "cue_range": [475, 479]
+        },
+        {
+          "kind": "quote",
+          "text": "Action does bind under ordinary conditions, but with these qualifications the binding mechanism is non operating.",
+          "cue_range": [516, 517]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Non-bondage is therefore no miracle but the logical result of the inner change across verses 18 to 22, moving from inner vision through motivation and effect to conduct and response to circumstances.",
+          "cue_range": [502, 526]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "The economy of contentment and Arjuna's question",
+      "cue_range": [527, 569],
+      "shloka_refs": [
+        {"ref": "BG 1.28", "basis": "stated-in-transcript", "cue_range": [558, 560]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Contentment with what comes is called the economic principle of karma yoga: act without seeking fruit, take what arrives, and be satisfied. The ajnani's craving runs a cycle of seeking more and staying dissatisfied, while the jnani lives in a circle of santushti, not by effortful discipline but naturally from abiding in Atman.",
+          "cue_range": [527, 545]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The one beyond opposites has gone past not only particular pairs, such as birth and death or gain and loss, but the very principle of pairing, recognising non-dual Atman as the ground of all apparent duality.",
+          "cue_range": [546, 556]
+        },
+        {
+          "kind": "quote",
+          "text": "It is a complete answer to the Gita's central question.",
+          "cue_range": [557, 557]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara reads this phrase as answering Arjuna's paralysis from chapter 1 verse 28 onward, his fear that action would bind him with sin and rebirth. Action is his svadharma, not optional; the concern about binding is acknowledged, yet with the inner change of verses 18 to 22 it does not bind.",
+          "cue_range": [558, 569]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "From moha to moksha, and the yagna ahead",
+      "cue_range": [570, 616],
+      "shloka_refs": [
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [590, 592]},
+        {"ref": "BG 4.23", "basis": "stated-in-transcript", "cue_range": [607, 611]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The whole Karma Vichara Prakarana elaborates one simple answer. Its key is the vision of inaction in action, grounded in knowledge that burns karma, expressed in freedom, bodily conduct for maintenance, and outward equanimity.",
+          "cue_range": [570, 585]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verse 16 was the promise to explain karma, vikarma and akarma; the following verses give the vision and the portrait. In these seven structured verses Krishna takes the seeker from moha to moksha where action is concerned.",
+          "cue_range": [590, 606]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "From verse 23 the teaching goes further: the Pandita's actions not only fail to bind but dissolve completely into the fire of Brahman, opening the section on yagna with Brahmarpanam. The long bhashya on it is left for the next session.",
+          "cue_range": [586, 616]
+        },
+        {
+          "kind": "inferred",
+          "text": "The teacher says seven verses but describes the section as running from verse 16 to 22; this summary takes the count to include those verses, an interpretation not spelled out in the transcript.",
+          "cue_range": [604, 606]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Closing, no questions taken",
+      "cue_range": [617, 630],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host opens chat and hand raising for questions, but none are taken and the session ends early. Listeners are told the next class at 8:30 PM IST will go into the yagna topic.",
+          "cue_range": [617, 623]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks those attending, mentions Brahmarpanam as tomorrow's start, and says good night.",
+          "cue_range": [624, 630]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-jivanmukta", "label": "Jeevan Mukta", "gloss": "one liberated while living, whose actions do not bind", "cue_range": [96, 103]},
+    {"id": "c-karma-vichara", "label": "Karma Vichara", "gloss": "the inquiry into action in chapter 4, verses 16 to 22", "cue_range": [399, 403]},
+    {"id": "c-yadrccha-labha-santushta", "label": "yedricha laba santushta", "gloss": "content with whatever comes unsought", "cue_range": [186, 188]},
+    {"id": "c-nityatripti", "label": "Nithyatripta", "gloss": "ever satisfied in the Self", "cue_range": [194, 201]},
+    {"id": "c-prarabdha", "label": "prarabdha", "gloss": "the karma already set in motion that shapes what arrives", "cue_range": [184, 186]},
+    {"id": "c-dvandvatita", "label": "Dhundu adita", "gloss": "one who has gone beyond the pairs of opposites", "cue_range": [235, 238]},
+    {"id": "c-raga-dvesha", "label": "raga", "gloss": "attraction and aversion that drive binding action", "cue_range": [249, 256]},
+    {"id": "c-titiksha", "label": "tithiksha", "gloss": "the seeker's patient forbearance, contrasted with full transcendence", "cue_range": [285, 294]},
+    {"id": "c-dehatma-adhyasa", "label": "dehatma adhyasa", "gloss": "mistaking the body for the Self", "cue_range": [297, 300]},
+    {"id": "c-matsarya", "label": "matsara", "gloss": "envy and competitive resentment rooted in ego", "cue_range": [301, 308]},
+    {"id": "c-vimatsara", "label": "vimatsaraha", "gloss": "free of envy and competition", "cue_range": [309, 313]},
+    {"id": "c-ahankara", "label": "Ahankara", "gloss": "the ego that separates itself from others", "cue_range": [306, 315]},
+    {"id": "c-sarvatma-bhava", "label": "Sarvatma Bhava", "gloss": "seeing one Self in all beings", "cue_range": [318, 325]},
+    {"id": "c-samatva", "label": "Samatthum", "gloss": "equanimity in success and failure, defined as yoga", "cue_range": [376, 383]},
+    {"id": "c-akarta", "label": "akarta", "gloss": "the Self as non-doer", "cue_range": [365, 369]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Verse 21 bhashya, body kept only by what comes unasked] --> B[Verse 22 seals the inquiry into karma begun at verse 16]\n  B --> C[Content with what comes, outer face of nithyatripti]\n  B --> D[Beyond pairs of opposites, not mere titiksha]\n  B --> E[Free of envy through seeing one Self in all]\n  B --> F[Even in success and failure, samatvam of 2.48]\n  C --> G[Doership, craving and raga dwesha all negated]\n  D --> G\n  E --> G\n  F --> G\n  G --> H[Even having acted, he is not bound]\n  H --> I[Answer to Arjuna, from moha to moksha]\n  I --> J[Next, actions dissolve in Brahman as yagna, verse 23]"
+  },
+  "gaps": [
+    {"cue_range": [15, 17], "note": "Opening Sanskrit invocation; ASR rendering is garbled and is not reconstructed."},
+    {"cue_range": [19, 20], "note": "Recitation of verse 21 is garbled in the transcript; only the teacher's word-by-word explanation is summarised."},
+    {"cue_range": [32, 37], "note": "Sanskrit lines from Shankara's bhashya are garbled; only the English explanation that follows is summarised."},
+    {"cue_range": [48, 49], "note": "Sanskrit quotation of the scriptural rule is garbled and not reconstructed."},
+    {"cue_range": [108, 109], "note": "Recitation of verse 22 is garbled in the transcript and is not reproduced."},
+    {"cue_range": [192, 194], "note": "Teacher first says 20th chapter, then 20th verse; taken as verse 20 of chapter 4."},
+    {"cue_range": [522, 525], "note": "The verse-to-dimension mapping is muddled in the ASR (conduct said to come in the 21st verse); summarised only in general terms."},
+    {"cue_range": [607, 607], "note": "Transcript reads 43rd, 23rd verse; taken as a self-correction to verse 23."}
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "00ffce19-7824-42d0-a678-a4cafb1adf2d",
+  "title": "Ch04-12-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "6fda3f83489a895c660a430f92b6de92e1fe8186f96479649caf6c15c398385f",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verses 14 & 15",
+    "verified": false
+  },
+  "summary": {
+    "text": "The teacher completes verse 14, presenting the jeevan mukta as its living form: acting through prarabdha, yet free of doership and of craving for fruits, so no new bondage arises, and only Nyana liberates. Shankara's bhashya extends this: whoever knows his own self as akarta is likewise unbound. The 15th verse then turns from knowing to doing: ancient mumukshus first knew thus and then acted, so Arjuna too must act. Karma here is an expression of Nyana, not a means to moksha, nor a samuchaya with it. The command is Arjuna's svadharma, backed by the parampara. Shankara adds two cases: action purifies the mind of one not yet a knower and serves lokasangraha for the knower, as with Janaka.",
+    "cue_ranges": [[33, 99], [100, 167], [168, 238], [239, 307], [473, 486], [557, 609]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Opening announcements and invocation",
+      "cue_range": [1, 25],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita satsang, notes that the series is on chapter 4, and points to replays on Clubhouse, the Advaita Retold YouTube channel and podcast platforms, plus a book based on the teacher's insights. Chat and hand raising stay closed until the talk ends.",
+          "cue_range": [1, 18]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher greets everyone and recites an opening invocation to the guru lineage and Shankaracharya before beginning.",
+          "cue_range": [19, 25]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Verse 14 recap: the jeevan mukta in action",
+      "cue_range": [26, 99],
+      "shloka_refs": [
+        {"ref": "BG 4.14", "basis": "stated-in-transcript", "cue_range": [26, 28]},
+        {"ref": "BG 4.13-14", "basis": "stated-in-transcript", "cue_range": [58, 63]},
+        {"ref": "BG 4.33-42", "basis": "stated-in-transcript", "cue_range": [96, 99]}
+      ],
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "Actions do not taint me. For me there is no desire for the results of actions.",
+          "cue_range": [29, 30]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Following Shankara, the teacher reads verse 14 as a portrait of the one liberated while living. The body keeps acting under prarabdha at the empirical level, but because the sense of being the doer has dissolved, actions leave no impressions. He watches as witness, wants no fruit, and even his work for lokasangraha is not a desire but an example set for others.",
+          "cue_range": [33, 57]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Such a person embodies what Krishna declared of the Parameswara in verses 13 and 14: seeming to act while being a non-doer, untainted. One who knows this is a Nyani living as a jeevan mukta.",
+          "cue_range": [58, 72]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Per Shankara, the phrase about not being bound shows that liberation comes from knowledge alone. Any karma, however refined, and any upasana, however devoted, still carries the notion of an agent; only knowing the non-doership of the Lord frees. This anticipates the Nyana section later in the chapter, from verse 33 to 42.",
+          "cue_range": [72, 99]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Shankara's bhashya on verse 14",
+      "cue_range": [100, 167],
+      "shloka_refs": [
+        {"ref": "BG 4.14", "basis": "stated-in-transcript", "cue_range": [160, 160]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The commentary says actions do not bind Krishna because, lacking ego, they do not start new bodies; and where there is no doer there can be no craving for results. Worldly people, who hold the notion of agency and want fruits, are the ones actions bind.",
+          "cue_range": [100, 121]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher stresses the word atmatvaena: knowing Krishna merely as friend, king or relative brings nothing. Arjuna must recognise that the non-doer free of craving Krishna describes is his own self too, since he is not body, mind or intellect.",
+          "cue_range": [122, 150]
+        },
+        {
+          "kind": "quote",
+          "text": "Na aham karta naame karamahalesh prahadi.",
+          "cue_range": [145, 145]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "For such a knower actions create no samskara, hence no further birth. Anyone realising the self as non-doer and free from craving is released from the cycle of birth and death.",
+          "cue_range": [150, 167]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Word-by-word reading of verse 15",
+      "cue_range": [168, 238],
+      "shloka_refs": [
+        {"ref": "BG 4.15", "basis": "stated-in-transcript", "cue_range": [168, 174]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 15 cites those who came before and avoided rebirth. Evam points back to the teaching of verses 13 and 14; nyatva means having known it; the earlier mumukshus, the seekers of liberation, acted with that understanding of non-doership and no craving.",
+          "cue_range": [168, 192]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Kuru karma is a direct injunction. Arjuna's action is the Kshatriya role in the Dharma Yuddha, just as Krishna's own birth serves to establish Dharma. Everyone in the tradition since creation who sought moksha acted with this knowledge, so Arjuna should do likewise.",
+          "cue_range": [193, 211]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verses 13 and 14 said what must be known; verse 15 moves from knowing to doing, back to action, but action now transformed by Nyana. After the long teaching, Krishna grounds the command in two proofs: past seekers acted this way, and the most ancient authorities did so first.",
+          "cue_range": [212, 238]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Knowledge comes first, then action",
+      "cue_range": [239, 315],
+      "shloka_refs": [
+        {"ref": "BG 4.9", "basis": "stated-in-transcript", "cue_range": [258, 259]},
+        {"ref": "BG 4.10", "basis": "stated-in-transcript", "cue_range": [260, 262]},
+        {"ref": "BG 4.16-23", "basis": "stated-in-transcript", "cue_range": [274, 276]},
+        {"ref": "BG 2.11", "basis": "stated-in-transcript", "cue_range": [308, 310]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The teacher calls this a subtle Advaitic synthesis: karma is not itself a sadhana for moksha but the expression of Nyana already gained. Non-doership as one's nature is possible only after knowledge, so the Gita keeps action while changing its inner basis.",
+          "cue_range": [239, 252]
+        },
+        {
+          "kind": "quote",
+          "text": "Gita is a handbook for living with the right knowledge.",
+          "cue_range": [254, 255]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Without that knowledge people misread and blame the Gita. The word evam, used in the 9th and 10th verses and again here, links back to the earlier teaching. To see how the self is a non-doer, one must understand what action is, which verses 16 to 23 will take up.",
+          "cue_range": [256, 277]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The word kritam downplays agency: the predecessors acted without the ego of doership. They did not act and then gain Nyana; they first knew, then acted. Shankara uses this against a Mimamsa reading: the liberating element is Nyana, and action grounded in it simply creates no new bondage.",
+          "cue_range": [277, 297]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verse 14 and verse 15 run in parallel: in both, knowing comes first and freedom from binding follows. This precedent is offered to Arjuna, echoing how Krishna began with knowledge in the 11th verse of chapter 2 before speaking of karma and of the sthitaprajna.",
+          "cue_range": [298, 315]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Purva, parampara and the intense mumukshu",
+      "cue_range": [316, 362],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The word purva evokes the guru parampara, the chain of knowers who also acted. It also supplies Aptavajana, testimony of reliable authorities, which the teacher places within Shabda as a means of knowledge, meaning not mere sound but knowledge of how the lineage walked to liberation.",
+          "cue_range": [316, 329]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "A mumukshu has an intense, continuous longing for liberation, not curiosity about how sages such as Ramana or Ramakrishna lived. Mumukshutva is the last of the fourfold qualifications after viveka, vairagya and the sixfold virtues, marking a mind purified enough to receive Brahmavidya.",
+          "cue_range": [330, 351]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The word api means even liberation-seekers acted. This answers the objection that if knowledge alone liberates, the seeker need not act at all: the ancient mumukshus stayed fully active in the world.",
+          "cue_range": [352, 362]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Rajarshis as precedent and the emphatic command",
+      "cue_range": [363, 427],
+      "shloka_refs": [
+        {"ref": "BG 3.20", "basis": "stated-in-transcript", "cue_range": [375, 377]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara identifies the earlier seekers as the rajarshis named in the second verse, such as Janaka and Ashvapati, who knew this yoga yet ruled and acted, and the primordial line from Vivasvan mentioned in the first verse, plus jeevan muktas who kept working for lokasangraha as taught in chapter 3, verse 20.",
+          "cue_range": [363, 379]
+        },
+        {
+          "kind": "quote",
+          "text": "These mumukshus were not acting in order to attain liberation,",
+          "cue_range": [380, 380]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Already oriented to liberation through Nyana, their action was a natural continuation of embodied life, not a means producing moksha as a fruit. Arjuna is to act as such a knowing seeker, not as one chasing results.",
+          "cue_range": [381, 389]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher recalls an earlier rebuke to Arjuna's unmanliness, given in a 'third verse' before the Ashochyan teaching, but the Sanskrit is garbled in the transcript and the chapter is not named.",
+          "cue_range": [391, 395]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Eva makes the command emphatic and specific: act, with no alternative, meaning Arjuna's Kshatriya duty. Tasmat makes it the logical outcome of verses 13 and 14 and of the predecessors' example. Tvam singles Arjuna out personally after the cosmic narrative of avatara and non-doership.",
+          "cue_range": [396, 427]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Three precedents, svadharma and an endless lineage",
+      "cue_range": [428, 472],
+      "shloka_refs": [
+        {"ref": "BG 4.6", "basis": "stated-in-transcript", "cue_range": [428, 429]},
+        {"ref": "BG 3.35", "basis": "stated-in-transcript", "cue_range": [446, 449]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Three supports stand behind the command: the cosmic precedent of the Lord acting as non-doer, the human precedent of the earlier seekers, and the principle that action does not bind once doership and craving for fruit are gone.",
+          "cue_range": [428, 436]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Krishna does not literally say fight here; he says act. That action is Arjuna's svadharma, the righteous war, since the duty enjoined is always fixed by one's own dharma, as chapter 3, verse 35 established when preferring one's own dharma even if imperfect.",
+          "cue_range": [437, 452]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Purvataram, more anciently still, sets up a regress of precedent reaching back to Vivasvan, Manu and Ikshvaku. The first line of the verse gives the historical movement and the second the practical injunction.",
+          "cue_range": [453, 472]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Resolution, not combination; Arjuna's arc; chapter roadmap",
+      "cue_range": [473, 556],
+      "shloka_refs": [
+        {"ref": "BG 2.11", "basis": "stated-in-transcript", "cue_range": [495, 497]},
+        {"ref": "BG 4.16-23", "basis": "stated-in-transcript", "cue_range": [544, 545]},
+        {"ref": "BG 4.24-33", "basis": "stated-in-transcript", "cue_range": [548, 549]},
+        {"ref": "BG 4.33-42", "basis": "stated-in-transcript", "cue_range": [551, 552]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Evam nyatva resolves the seeming conflict, raised in chapter 3, between Nyana Nishta and Karma Nishta. It is a resolution, not Karma Samuchaya, which Shankara rejects. Action grounded in knowledge of non-doership stops being binding karma and becomes the natural activity of a jeevan mukta.",
+          "cue_range": [473, 489]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Arjuna's grief and delusion only obscured a mumukshutva he already had. The Gita reawakens it step by step: viveka from chapter 2, verse 11, then karma yoga through chapter 3, then the Lord's nature in chapter 4 up to verse 14; in verse 15 Arjuna is treated as a mumukshu ready to act.",
+          "cue_range": [489, 506]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Citing the lineage is Aptavajana at two levels: immediate royal predecessors and the cosmic line from Vivasvan, finally Krishna himself. Tasmat completes this section of the chapter, from the lineage and avatara verses to non-doership, landing on Arjuna, paralysed on the battlefield.",
+          "cue_range": [507, 535]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Enjoined action is fully conscious, steeped in Nyana and modelled on Krishna. The rest of the chapter unfolds it: kinds of karma in verses 16 to 23, its practice from 24 to 33, and Nyana Yoga from 33 to 42, crowned by the declaration on Nyana's purity.",
+          "cue_range": [536, 556]
+        },
+        {
+          "kind": "quote",
+          "text": "There is nothing here as purifying as Nyana.",
+          "cue_range": [554, 555]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Shankara's bhashya on verse 15; verse 16 previewed",
+      "cue_range": [557, 620],
+      "shloka_refs": [
+        {"ref": "BG 4.16", "basis": "stated-in-transcript", "cue_range": [613, 620]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The short bhashya: since ancient seekers acted with this knowledge, Arjuna should neither stay idle nor take up renunciation of action, but follow his predecessors.",
+          "cue_range": [557, 565]
+        },
+        {
+          "kind": "quote",
+          "text": "If you are not yet the knower of the Self, then act for the purification of the mind.",
+          "cue_range": [567, 568]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara gives two cases. If Arjuna has not yet grasped non-doership, karma yoga purifies the mind by removing attachment and ego, preparing for Nyana Nishta. If he already knows, action continues for lokasangraha, without any sense of doership, as an example to others.",
+          "cue_range": [566, 595]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Janaka is the model: a king who, as in his dialogue with Yajnavalkya in the Brihadaranyaka Upanishad, had self-knowledge yet carried out royal duties. So Arjuna must not throw down his bow but perform the karma fitting his situation.",
+          "cue_range": [577, 609]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher recites the next portion and introduces the 16th verse: even the wise are confused about what action and inaction are, and Krishna promises to explain karma, knowing which one is freed from the inauspicious. Its study is deferred to the next session.",
+          "cue_range": [610, 620]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Discussion on reading the Gita as whole; closing",
+      "cue_range": [621, 717],
+      "shloka_refs": [
+        {"ref": "BG 4.16-23", "basis": "stated-in-transcript", "cue_range": [690, 691]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host remarks that moving between Nyana and karma is mind-bending and requires referring back to earlier verses. The teacher agrees: he weaves in earlier and later verses because studying one verse in isolation gives only a narrow picture, and he names key terms so listeners can locate them.",
+          "cue_range": [621, 653]
+        },
+        {
+          "kind": "quote",
+          "text": "Gita can never be should never be studied a single verse at a time",
+          "cue_range": [649, 650]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "A listener asks permission to use the teacher's voice in a piece shared on her social media, and the teacher grants it with a blessing.",
+          "cue_range": [667, 684]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher previews the next sessions: verses 16 to 23 on what is karma, then the practice section, then the final verses on Nyana. He calls chapter 4 second in importance only to chapter 2, which is why he goes one verse at a time, since its terms underpin later chapters.",
+          "cue_range": [685, 702]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host announces the next session time and replay locations, and the teacher closes the room.",
+          "cue_range": [703, 717]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-jivanmukta", "label": "Jeevan Mukta", "gloss": "one liberated while still living in the body", "cue_range": [33, 72]},
+    {"id": "c-kartritva-abhimana", "label": "Kartrutu Abhimana", "gloss": "the ego-notion of being the doer", "cue_range": [37, 45]},
+    {"id": "c-prarabdha", "label": "prarabdha", "gloss": "karma already in motion that sustains the present body", "cue_range": [37, 57]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "witness, uninvolved observer of action", "cue_range": [41, 45]},
+    {"id": "c-lokasangraha", "label": "lokasangraha", "gloss": "working for the good and upkeep of the world", "cue_range": [46, 53]},
+    {"id": "c-jnana", "label": "Nyana", "gloss": "knowledge of the self, the sole instrument of liberation", "cue_range": [72, 99]},
+    {"id": "c-akartritva", "label": "Akartrutva", "gloss": "non-doership as the nature of the self", "cue_range": [247, 252]},
+    {"id": "c-atma", "label": "atma", "gloss": "the true self, not body, mind or intellect", "cue_range": [122, 152]},
+    {"id": "c-guru-parampara", "label": "Guru Parambara", "gloss": "lineage of teachers who knew and acted", "cue_range": [319, 329]},
+    {"id": "c-aptavachana", "label": "Aptavajana", "gloss": "testimony of reliable authorities as a means of knowledge", "cue_range": [321, 329]},
+    {"id": "c-mumukshu", "label": "mumukshu", "gloss": "one intensely longing for liberation", "cue_range": [330, 351]},
+    {"id": "c-svadharma", "label": "swadharma", "gloss": "one's own duty, fixed by one's station", "cue_range": [441, 452]},
+    {"id": "c-karma-samuccaya", "label": "Karma Samuchaya", "gloss": "combining action and knowledge as joint means, rejected here", "cue_range": [478, 486]},
+    {"id": "c-chitta-shuddhi", "label": "purification of the mind", "gloss": "action as preparation for the not-yet-knower", "cue_range": [566, 573]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Verse 14 recap, actions do not taint the Lord] --> B[Jeevan mukta, acts from prarabdha without doership]\n  B --> C[Knowledge alone liberates, not karma or upasana]\n  C --> D[Know your own self as non doer]\n  D --> E[Verse 15, ancient seekers knew first, then acted]\n  E --> F[Karma as expression of Nyana, not samuchaya]\n  F --> G[Therefore you act, Arjuna, your svadharma]\n  G --> H[Shankara, unknower acts for purification]\n  G --> I[Knower acts for lokasangraha, like Janaka]\n  H --> J[Next, what is karma, verse 16]\n  I --> J"
+  },
+  "gaps": [
+    {"cue_range": [20, 25], "note": "Invocation recited in Sanskrit; ASR rendering is garbled and is not transcribed or summarised beyond its occurrence."},
+    {"cue_range": [392, 393], "note": "Sanskrit phrase addressed to Arjuna is garbled in the transcript; not reconstructed."},
+    {"cue_range": [528, 530], "note": "List of terms describing verses 9 to 14 is garbled; not reconstructed."},
+    {"cue_range": [542, 543], "note": "Verse ranges are garbled here (numbers such as 3023 and 3333); the following cues restate them clearly."},
+    {"cue_range": [610, 614], "note": "Recitation of the next portion of the bhashya and verse 16 is garbled; only the teacher's English explanation is summarised."},
+    {"cue_range": [716, 717], "note": "Trailing fragments after the close of the room."}
+  ]
+}

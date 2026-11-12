@@ -1,0 +1,62 @@
+{
+  "schema": "episode-content/v1", "guid": "647da4c6-dfa6-456b-af4a-dcda8aa82095", "title": "Ch05-12-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "43edac682888872bf6049dd2233ecf32b73f7d8a821ede677d6fa55384d74a75", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verses 18&19", "verified": false},
+  "summary": {"text": "Equal vision is presented as the natural consequence of self-knowledge across deliberately extreme social and biological differences. The teacher distinguishes recognizing one Brahman from treating every body as empirically identical, and discusses traditional stories as illustrations of that universality. The following verse grounds liberation here and now in Brahman's flawless equality rather than a future reward. Questions explore functional integration through a goldsmith's knowledge of diverse ornaments. The teacher then corrects the analogy's limit: the knower cannot remain separate from Brahman as the goldsmith remains separate from gold. Names and forms need not disappear; space and awareness offer further approaches to the same equanimity.", "cue_ranges": [[21, 319], [320, 550], [554, 814]]},
+  "segments": [
+    {"id": "s01", "heading": "Equal vision tests the prior account of establishment", "cue_range": [21, 113], "shloka_refs": [{"ref": "BG 5.18", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "The familiar verse is introduced as the observable consequence of the previous teaching. Its examples span learned humans, socially excluded people and different animals, rather than a narrow circle of similar beings.", "cue_range": [21, 78]},
+      {"kind": "paraphrase", "text": "Learning and humility qualify the respected person in the example. The teacher's point is that accomplishment does not confer a greater share of Brahman than another being possesses.", "cue_range": [79, 113]}
+    ]},
+    {"id": "s02", "heading": "The widest contrasts cannot divide the self", "cue_range": [114, 239], "shloka_refs": [], "blocks": [
+      {"kind": "quote", "text": "The Pandita sees the same Brahman in both.", "cue_range": [150, 150]},
+      {"kind": "paraphrase", "text": "The teacher describes inherited ritual and social rankings to explain the examples' contrast, not as ultimate measures of value. Nondual recognition removes their authority to rank the self.", "cue_range": [114, 178]},
+      {"kind": "paraphrase", "text": "Traditional accounts of a realized outcast and an elephant's liberation illustrate the claimed universality. The teacher attributes these possibilities to scripture and stories while allowing bodily nature to continue.", "cue_range": [179, 239]}
+    ]},
+    {"id": "s03", "heading": "One reality does not mean identical empirical treatment", "cue_range": [240, 319], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The sun illuminates without assigning greater reality to a favored recipient. Equal vision is described as spontaneous recognition, not merely cultivated tolerance or compassion.", "cue_range": [240, 259]},
+      {"kind": "paraphrase", "text": "Different situations still require appropriate transactions. The teacher holds ultimate equality and empirical distinctions together, rejecting both private superiority and literal uniformity of every action.", "cue_range": [260, 319]}
+    ]},
+    {"id": "s04", "heading": "Liberation belongs here and now", "cue_range": [320, 405], "shloka_refs": [{"ref": "BG 5.19", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "The next verse explains why equal vision signifies freedom: the mind established in equality recognizes flawless Brahman rather than owning the body's cycle of birth and death.", "cue_range": [320, 354]},
+      {"kind": "paraphrase", "text": "The emphatic here rejects postponement to death, another world or a future cosmic event. Conquering creation concerns the ignorance supporting assumed transmigration, not destroying physical creatures.", "cue_range": [355, 405]}
+    ]},
+    {"id": "s05", "heading": "Differences do not stain their conscious ground", "cue_range": [406, 473], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher connects this freedom with prior non-creation and non-agency. The mind no longer oscillates through attraction and aversion while recognizing distinct empirical bodies.", "cue_range": [406, 446]},
+      {"kind": "paraphrase", "text": "Unequal distributions of qualities belong to the adjuncts. Those differences do not become defects in Brahman, whose equality is the ground recognized by the steady person.", "cue_range": [447, 473]}
+    ]},
+    {"id": "s06", "heading": "Offering matures into non-separate abidance", "cue_range": [474, 550], "shloka_refs": [{"ref": "BG 5.18-19", "basis": "stated-in-transcript", "cue_range": [510, 519]}], "blocks": [
+      {"kind": "paraphrase", "text": "The practitioner's dedication becomes established recognition. There is no separate individual transporting offerings into Brahman at the final standpoint.", "cue_range": [474, 496]},
+      {"kind": "quote", "text": "There is no gap between recognition and abidance.", "cue_range": [497, 497]},
+      {"kind": "paraphrase", "text": "The paired verses join equal seeing, inward establishment and present freedom. The result is recognition of what was already true, not a new state produced by action.", "cue_range": [498, 550]}
+    ]},
+    {"id": "s07", "heading": "Functional diversity remains within a unifying recognition", "cue_range": [551, 694], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant asks about functional integration and several forms of discrimination. The teacher uses Krishna's worldly role to distinguish appropriate action from belief in ultimate separation.", "cue_range": [554, 606]},
+      {"kind": "paraphrase", "text": "A goldsmith trades diverse ornaments while knowing their gold. The exchange uses that analogy to keep practical distinctions together with a common reality, rather than pretending the forms have merged.", "cue_range": [607, 694]}
+    ]},
+    {"id": "s08", "heading": "The goldsmith analogy needs a nondual correction", "cue_range": [695, 761], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant distinguishes observers' questions about the knower from the knower's own standpoint. Another asks whether name and form lose their agency; the teacher says their assumed reality is corrected, not that appearances are physically removed.", "cue_range": [695, 722]},
+      {"kind": "paraphrase", "text": "The goldsmith remains separate from gold, a limit the teacher explicitly identifies. Here the knowing individual also cannot stand outside Brahman; elephant and human retain different functions without separate ultimate grounds.", "cue_range": [723, 761]}
+    ]},
+    {"id": "s09", "heading": "Space and awareness reopen the same inquiry", "cue_range": [762, 842], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Space is offered as a provisional way to consider dependence without separation, then awareness as immediately undeniable. These are approaches toward common reality, not demands to erase transactional differences.", "cue_range": [762, 798]},
+      {"kind": "paraphrase", "text": "The final emphasis is mental equanimity grounded in a shared reality rather than ranking oneself and others. Replay guidance, scheduling and open-house arrangements close the session.", "cue_range": [799, 842]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-samadarshana", "label": "Samadharshana", "gloss": "Equal recognition of Brahman across empirical differences.", "cue_range": [240, 259]},
+    {"id": "c-pandita", "label": "Pandita", "gloss": "The knower whose vision no longer ranks the self by bodily distinctions.", "cue_range": [150, 176]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The same unchanging awareness illuminating the diverse appearances.", "cue_range": [287, 300]},
+    {"id": "c-brahmani-sthiti", "label": "Brahmani Stiti", "gloss": "Established recognition in which knowing and abidance are inseparable.", "cue_range": [474, 499]},
+    {"id": "c-bhadita-anivritti", "label": "Bhadita Anivrithi", "gloss": "The correction of attributed reality without removal of name and form.", "cue_range": [713, 728]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Equal vision follows self-knowledge] --> B[Extreme contrasts cannot divide Brahman]\n B --> C[Empirical distinctions remain functional]\n C --> D[Liberation recognized here and now]\n D --> E[Adjunct differences do not stain the ground]\n E --> F[Offering matures into abidance]\n F --> G[Goldsmith illustrates functional diversity]\n G --> H[Knower cannot remain separate from the ground]\n H --> I[Space and awareness point toward equanimity]"},
+  "gaps": [
+    {"cue_range": [18, 23], "note": "Invocation and opening recitation are partly garbled."},
+    {"cue_range": [66, 77], "note": "Dharmashastra titles and critics are not precisely identified; no bibliographic claims supplied."},
+    {"cue_range": [195, 228], "note": "Stories are presented as traditional illustrations, not independently verified historical or animal-cognition claims."},
+    {"cue_range": [355, 363], "note": "The recited Upanishadic passage and attributed source are unreliable in ASR; no authoritative reference inferred."},
+    {"cue_range": [519, 522], "note": "A local negation appears to reverse the surrounding affirmation of Brahman's reality; not quoted as a resolved statement."},
+    {"cue_range": [723, 737], "note": "The teacher explicitly limits the goldsmith analogy; its earlier use must not imply a separate final knower."}
+  ]
+}

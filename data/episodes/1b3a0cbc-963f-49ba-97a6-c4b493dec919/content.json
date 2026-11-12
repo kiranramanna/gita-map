@@ -1,0 +1,62 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "1b3a0cbc-963f-49ba-97a6-c4b493dec919",
+  "title": "Ch04-27-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "84f7ae15a4aab87d15a4bedf6232d9e5ac603fe2266a62d120d273a6b60d2aac", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verse 33", "verified": false},
+  "summary": {"text": "Knowledge-sacrifice crowns the series because liberation is recognition of the already-free self, not an effect produced by material or mental action. The teacher separates inquiry as preparatory discipline from immediate self-recognition. All karma finds completion in knowledge through fulfillment of purpose, dissolution of binding agency, and inclusion in awareness as its ground. Preparatory action remains valuable without becoming knowledge's coequal liberating partner. Discussion tests the dissolution metaphor, locates impurity in the inner instrument rather than Atma, and distinguishes multiple contents of knowing from undivided awareness. A final terminology question contrasts transactional knowledge with Jnana.", "cue_ranges": [[19, 476], [489, 594], [642, 795], [798, 825]]},
+  "segments": [
+    {"id": "s01", "heading": "The culminating claim of knowledge-sacrifice", "cue_range": [19, 107], "shloka_refs": [{"ref": "BG 4.33", "basis": "stated-in-transcript", "cue_range": [19, 36]}], "blocks": [
+      {"kind": "paraphrase", "text": "The verse closes the sacrificial catalog while opening the question of how knowledge is approached. Superiority means direct relevance to liberation, not a quantitatively larger material reward.", "cue_range": [19, 84]},
+      {"kind": "paraphrase", "text": "The teacher takes material sacrifice as representative of action-based disciplines generally. Their culmination is knowledge rather than an enduring partnership of two equal liberating means.", "cue_range": [85, 107]}
+    ]},
+    {"id": "s02", "heading": "Inquiry and recognition are not identical", "cue_range": [108, 171], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Listening, reflection and contemplation are deliberate functions of the inner instrument. They prepare clarity and eligibility; this is knowledge-sacrifice understood as sadhana.", "cue_range": [108, 131]},
+      {"kind": "paraphrase", "text": "Immediate recognition is a different sense: self-luminous Atma is not fabricated by thought. The sun-and-lamps comparison emphasizes a difference of order, not simply a superior technique.", "cue_range": [132, 171]}
+    ]},
+    {"id": "s03", "heading": "Completion, dissolution and inclusion", "cue_range": [172, 249], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The repeated terms for totality exclude exceptions. Completion first means that action's preparatory purpose is fulfilled when knowledge arises.", "cue_range": [172, 213]},
+      {"kind": "paraphrase", "text": "Dissolution concerns karma's capacity to bind, not the disappearance of bodily activity. Inclusion means recognizing actions within Brahman rather than imagining an independently existing field outside it.", "cue_range": [214, 249]}
+    ]},
+    {"id": "s04", "heading": "Why knowledge surpasses finite achievements", "cue_range": [250, 338], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Directness, permanence, completeness and freedom from external conditions explain the comparison. Material and yogic achievements depend on resources or capacities; recognition concerns what is already present.", "cue_range": [250, 287]},
+      {"kind": "paraphrase", "text": "Knowledge is described as action's purpose, the dissolution of its binding seeds, and its very ground. Waves do not travel elsewhere to find the ocean that already constitutes them.", "cue_range": [288, 338]}
+    ]},
+    {"id": "s05", "heading": "Preparation matters without becoming a coequal cause", "cue_range": [339, 422], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The rejection of karma-knowledge combination does not make disciplined action worthless. Action purifies the instrument; recognition directly removes the error. The teacher insists on distinguishing these roles.", "cue_range": [339, 374]},
+      {"kind": "paraphrase", "text": "He recaps the chapter's lineage, manifestation, non-doership and sacrificial themes as converging here, then previews instruction, questioning, faith and the removal of doubt.", "cue_range": [375, 422]}
+    ]},
+    {"id": "s06", "heading": "Commentary: recognition is not a manufactured result", "cue_range": [423, 488], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary contrasts result-producing material sacrifice with knowledge, and uses inclusion of lesser waters in a flood to illustrate completion.", "cue_range": [423, 449]},
+      {"kind": "paraphrase", "text": "Practical disciplines prepare but do not manufacture the free Atma. Liberation is described as recognizing what was already attained, not obtaining a new effect.", "cue_range": [450, 476]}
+    ]},
+    {"id": "s07", "heading": "Testing what dissolution can mean", "cue_range": [489, 640], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant questions whether action can dissolve in knowledge and whether that conflicts with rejecting combination. The teacher replies through snake-rope and wave-water examples, returning to non-separateness.", "cue_range": [489, 543]},
+      {"kind": "paraphrase", "text": "Continued activity of a liberated person does not reinstate independent agency. The exchange defers some clarification to later verses and discusses why repeated listening supports retention.", "cue_range": [544, 640]}
+    ]},
+    {"id": "s08", "heading": "Impurity and multiplicity belong to the instruments", "cue_range": [641, 795], "shloka_refs": [], "blocks": [
+      {"kind": "quote", "text": "Atma is always Sakshi.", "cue_range": [653, 653]},
+      {"kind": "paraphrase", "text": "Asked how karma clouds Atma, the teacher corrects the premise: distortion belongs to the inner instrument. Cleaning a mirror removes obstruction without creating or cleaning the light itself.", "cue_range": [642, 674]},
+      {"kind": "paraphrase", "text": "A further exchange distinguishes operational knowledge and varying state-contents from the witnessing ground. The teacher rejects independent existence for those contents rather than denying their appearance.", "cue_range": [676, 795]}
+    ]},
+    {"id": "s09", "heading": "Transactional knowledge and Jnana", "cue_range": [796, 914], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Asked when knowledge becomes wisdom, the teacher contrasts knowing an object across a subject-object division with awareness of oneself as the knower. He calls the latter Jnana.", "cue_range": [798, 825]},
+      {"kind": "unresolved", "text": "The participant then relates Buddhist and Thai terms to personal practice. Their exact terminology and relation to the teacher's account are not established in this exchange.", "cue_range": [826, 881]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-jnana", "label": "Jnana", "gloss": "Self-knowing awareness distinguished from transactional object-knowledge.", "cue_range": [814, 825]},
+    {"id": "c-sadhana", "label": "Sadhana", "gloss": "Preparatory discipline rather than manufacture of the self.", "cue_range": [118, 145]},
+    {"id": "c-brahma-karma-samadhi", "label": "Brahma Karma Samadhi", "gloss": "Recognition of all elements of action within Brahman.", "cue_range": [515, 525]},
+    {"id": "c-samuchaya", "label": "Samuchaya", "gloss": "The proposed coequal combination of karma and knowledge rejected in this explanation.", "cue_range": [338, 374]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The unaffected witness rather than the contaminated inner instrument.", "cue_range": [646, 669]},
+    {"id": "c-ananyatva", "label": "ananyatom", "gloss": "Non-separateness of knowing and its apparent contents.", "cue_range": [758, 765]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Knowledge-sacrifice crowns the catalog] --> B[Inquiry prepares recognition]\n B --> C[Immediate recognition is not produced]\n C --> D[Action finds its purpose fulfilled]\n C --> E[Binding agency dissolves]\n C --> F[All action is included in awareness]\n D --> G[Preparation and liberation have different roles]\n E --> G\n F --> G\n G --> H[Witness differs from changing instruments]"},
+  "gaps": [
+    {"cue_range": [17, 18], "note": "Garbled invocation omitted."},
+    {"cue_range": [21, 22], "note": "The chapter-ending verse count is stated inconsistently with other episodes; not used to assign any verse."},
+    {"cue_range": [378, 397], "note": "Recap mixes verse labels and garbled phrases; its broad progression is retained without assigning new verse references."},
+    {"cue_range": [826, 881], "note": "Extended participant contribution contains unclear cross-tradition terminology; no doctrinal equivalence inferred."}
+  ]
+}

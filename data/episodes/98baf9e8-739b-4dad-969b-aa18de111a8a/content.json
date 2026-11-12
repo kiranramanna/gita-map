@@ -1,0 +1,789 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "98baf9e8-739b-4dad-969b-aa18de111a8a",
+  "title": "Ch04-21-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "afddab13a604aa6fa2bc0d879e1c656e22aa79707054d49d5d547c5df94e03dc",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 24 Part 1",
+    "verified": false
+  },
+  "summary": {
+    "text": "After recalling verse 23, where all karma of the liberated one dissolves, the teacher opens the 24th verse, which he ranks as the Gita's densest non-dual declaration. Following Shankaracharya, he reads each element of the Vedic yagna as Brahman: the instrument of offering, the oblation, the fire, the offerer and the destination, reached through Brahma Karma Samadhi. Picturing space in place of Brahman helps visualise this. When the offerer himself is seen as Brahman, ego and the offerer-offered-fire trinity dissolve. Gantavyam means disclosure of what is already present, not travel. Brahma Karma Samadhi is an active, continuous sahaja samadhi of the Jeevan Mukta, unlike nirvikalpa samadhi. Q&A covers paradox, wave and water, leela, and misuse of non-dual teaching.",
+    "cue_ranges": [
+      [
+        16,
+        31
+      ],
+      [
+        79,
+        163
+      ],
+      [
+        279,
+        334
+      ],
+      [
+        385,
+        408
+      ],
+      [
+        459,
+        529
+      ],
+      [
+        536,
+        808
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host introduction and invocation",
+      "cue_range": [
+        1,
+        15
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the ongoing Chapter 4 sessions, points to replays on Clubhouse, YouTube, Apple Podcasts and Spotify, mentions a book based on the teacher's insights, and explains that chat and hand raising stay closed until the Q&A.",
+          "cue_range": [
+            1,
+            12
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher greets everyone and recites an invocation to Shankaracharya before beginning.",
+          "cue_range": [
+            13,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap of verse 23: karma dissolves completely",
+      "cue_range": [
+        16,
+        25
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.23",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            16,
+            17
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The previous verse closed with Krishna's promise that the whole of karma is dissolved for the liberated person.",
+          "cue_range": [
+            16,
+            19
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Such a person has shed attachment, has a mind settled in self-knowledge, and performs action solely as yagna.",
+          "cue_range": [
+            20,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Why verse 24 is the crown of the Gita",
+      "cue_range": [
+        26,
+        78
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.24",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            26,
+            27
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 24 names Brahman as the ground into which action dissolves, repeating the word Brahma across every element of the yagna. The teacher ranks it as the Gita's densest non-dual declaration, applying the mahavakya that all this is Brahman to the field of karma.",
+          "cue_range": [
+            26,
+            46
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "For the jnani, every act, from cosmic yagna and protecting dharma down to eating and breathing, is recognised as Brahman, and in that recognition the action dissolves since it was always Brahman.",
+          "cue_range": [
+            47,
+            55
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "It is the only verse, in my opinion, which if understood properly, can replace the Brahmasutra,",
+          "cue_range": [
+            58,
+            60
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He expects the verse to need several days and asks listeners to attend fully, hearing each explanation as addressed to themselves rather than to something external, so that the sense of separation can give way to direct recognition (Aparoksha anubhuti).",
+          "cue_range": [
+            56,
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Word meanings and the space visualisation",
+      "cue_range": [
+        79,
+        163
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya introduces the verse by asking why actions done for one's own purposes dissolve without residue. The answer is the verse itself, which the teacher glosses word by word: offering instrument, oblation, fire, offerer, the goal to be reached, and the means, Brahma Karma Samadhi, which he says has no English equivalent.",
+          "cue_range": [
+            79,
+            118
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Nothing in the entire yetna structure is other than Brahman.",
+          "cue_range": [
+            125,
+            125
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "To visualise it, substitute space for Brahman: instrument, offering, fire, offerer, destination and the act itself all lie within space and cannot be outside it. Then replace space with Brahman as consciousness, existence and bliss.",
+          "cue_range": [
+            126,
+            151
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher links the verse to a Chandogya Upanishad passage from its seventh chapter (Sanatkumara teaching Narada, about where no other is seen or heard). The Sanskrit is heavily garbled in the transcript and is not reconstructed here.",
+          "cue_range": [
+            159,
+            163
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Havis, Vedic yagna terms and a vision statement",
+      "cue_range": [
+        164,
+        229
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "In Mimamsa ritual the havis is ghee, grain, soma and similar material chosen by the desire behind the rite. Here the desire is Brahman itself, so the oblation is Brahman; the first two identifications lay down the non-dual frame for the whole verse.",
+          "cue_range": [
+            164,
+            182
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Krishna keeps the familiar ritual vocabulary of arpana, havis, agni, hota and huta, but prefixes each with Brahman, so no element of the yagna is non-Brahman and the usual dualities collapse for the knower of truth.",
+          "cue_range": [
+            183,
+            207
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya raises an objection: should the ladle and butter literally be renamed Brahman in ritual? No; the verse describes the jnani's recognition during all activity, not a ritual rule.",
+          "cue_range": [
+            207,
+            229
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "This is not a ritual prescription but a vision statement.",
+          "cue_range": [
+            216,
+            217
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Fire of Brahman and surrender of the ego",
+      "cue_range": [
+        230,
+        303
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "This recognition is the steady consciousness mentioned in the previous verse, consciousness knowing itself. Whatever term carries one from limited individuality to identity with everything, without otherness, serves the purpose.",
+          "cue_range": [
+            230,
+            252
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Agni, in ritual the medium carrying offerings to the devas, is here the fire of Brahman: the receiving, consuming presence in which all karma dissolves, just as nothing moves outside space. It marks the place where otherness and duality are dissolved.",
+          "cue_range": [
+            253,
+            273
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The offerer is the ego, and offering it into Brahman is the ultimate surrender. Ego was never separate from Brahman; only ignorance (adhyasa) makes it seem so. Even the jnani's I is Brahman.",
+          "cue_range": [
+            274,
+            303
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "There is no space for ego in knowledge.",
+          "cue_range": [
+            297,
+            297
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Offerer as Brahman: the trinity dissolves",
+      "cue_range": [
+        304,
+        334
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The most radical step is recognising the offerer as Brahman. In ordinary ritual, even if oblation and fire are seen as Brahman, the yajamana stays separate because he wants a result. When he too is Brahman, offerer, offered and fire vanish as separate things.",
+          "cue_range": [
+            304,
+            324
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "That recognition is Brahma Karma Samadhi, the absorption of all action in Brahman's non-duality, the direct experience of the consciousness established in knowledge from the previous verse.",
+          "cue_range": [
+            325,
+            334
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Brahma eva gantavyam: goal as self-disclosure",
+      "cue_range": [
+        335,
+        408
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Eva makes Brahman alone the destination: not svarga, not Brahmaloka, not even liberation after death. Since Brahman has no birth or death, even the body cremated is an offering into Brahman.",
+          "cue_range": [
+            335,
+            360
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher recites a line about the Self being neither born nor dying, without naming its source in the transcript.",
+          "cue_range": [
+            350,
+            352
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Tena points back to the offerer; means and destination are both Brahman. Shankaracharya reads the fruit as matching the sadhana, so it is Brahman confirming its own identity, not a new acquisition.",
+          "cue_range": [
+            361,
+            384
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "If everything is already Brahman, why say to be reached? Shankaracharya explains gantavyam as no spatial journey but the revealing of what is always present, attaining the already attained: the jnani recognises Brahman as his own nature.",
+          "cue_range": [
+            385,
+            408
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Avir Bhava means a revelation or a disclosure of what is already present.",
+          "cue_range": [
+            396,
+            397
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Brahma Karma Samadhi as samadhi within action",
+      "cue_range": [
+        409,
+        470
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "unresolved",
+          "text": "The teacher says Krishna used a similar paradox earlier, in a ninth verse, and that a related phrase occurs in the Chandogya and Brihadaranyaka. The chapter of that verse and the Sanskrit are unclear in the transcript.",
+          "cue_range": [
+            409,
+            415
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Brahma Karma Samadhi is a three-part compound. Brahma is the qualifier; karma is the field in which samadhi happens. Shankaracharya rejects a reading that replaces action with withdrawn samadhi: the recognition of Brahman is kept up while acting.",
+          "cue_range": [
+            416,
+            448
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Ordinary samadhi suspends worldly activity, where knower, known and knowing merge. This samadhi is radically active: Brahman is seen in every object, medium and goal of action. It is sahaja samadhi, the effortless continuous absorption a Jeevan Mukta keeps amid full engagement.",
+          "cue_range": [
+            449,
+            470
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Three readings; contrast with nirvikalpa samadhi",
+      "cue_range": [
+        471,
+        532
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.23",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            485,
+            485
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya splits the compound three ways, all giving the same sense, and favours unbroken recognition that all action is Brahman, which is the steady consciousness of verse 23 seen in relation to karma. It is both the means to the goal and a description of the liberated state.",
+          "cue_range": [
+            471,
+            501
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "In nirvikalpa samadhi cognition stops and the Atman-Brahman identity is known, but it lapses on return to activity. In Brahma Karma Samadhi action does not interrupt it; karma itself becomes the field of samadhi.",
+          "cue_range": [
+            502,
+            524
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The Jeevan Mukta does not alternate between the samadhi and karma. They live in samadhi while acting.",
+          "cue_range": [
+            525,
+            527
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher stops here, promising to continue the next day, including the link with all this being Brahman.",
+          "cue_range": [
+            529,
+            532
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: why scriptures describe Brahman through paradox",
+      "cue_range": [
+        533,
+        588
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Rajesh asks why Brahman, said to be actionless, is linked with karma and why texts use paradoxes like smallest and biggest. The teacher says paradox targets the mind's fixations: what precedes space and time cannot be bound by here, there, big or small.",
+          "cue_range": [
+            533,
+            563
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "But that which is before the time and space, there is no paradox there.",
+          "cue_range": [
+            565,
+            566
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Brahman cannot be captured in speech, as the Taittiriya says words and mind turn back from it. Empirical transactions sit inside Brahman, just as things inside space cannot be used to describe space.",
+          "cue_range": [
+            567,
+            588
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: recognising Brahman, wave and water",
+      "cue_range": [
+        589,
+        693
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A questioner asks whether diving within is the only way to recognise Brahman. The teacher says it is not nonexistent but can only be pointed to; no object exists without being in awareness, showing everything is within existence-consciousness. Ananda is left for later.",
+          "cue_range": [
+            591,
+            623
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Asked whether Brahman sees Brahman when people meet, he says Brahman has no boundaries to be seen; seeing is through name and form. A wave that knows itself as water sees other waves as water, not as separate.",
+          "cue_range": [
+            624,
+            666
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "I am seeing the oneness in everything.",
+          "cue_range": [
+            666,
+            666
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He returns to the Chandogya idea of no otherness seen or heard; content can never be separated from experience or awareness.",
+          "cue_range": [
+            667,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: separation as leela and misused non-duality",
+      "cue_range": [
+        694,
+        808
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Brick asks whether multiplicity is an allowance of Brahman. The teacher says it is the nature of awareness: when one does not see everything as awareness, one sets oneself apart as an ego and otherness seems real; recognising oneself as awareness dissolves it.",
+          "cue_range": [
+            694,
+            727
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Whether you call it as ignorance or whether you call it as a Lila, it is immaterial.",
+          "cue_range": [
+            734,
+            735
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Rajesh describes people repeating everything is Brahman to justify abuse and argument without experience. The teacher cites Krishna's advice not to unsettle the understanding of those attached to action, and Shankaracharya's point that a jnani still acts discriminately; like knife or gold, use depends on context.",
+          "cue_range": [
+            740,
+            808
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Gita line about not confusing the ignorant is recited without a verse number, and the Brahmasutra commentary passage is named but not located; neither is identified further here.",
+          "cue_range": [
+            772,
+            790
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "heading": "Closing: verse continues through the week",
+      "cue_range": [
+        809,
+        844
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host notes a request to share an Instagram post (the teacher consents), thanks everyone, recommends replays with reflection, and announces the next session at 8:30 PM IST.",
+          "cue_range": [
+            809,
+            835
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher says this single verse will run until Friday and, if truly understood, makes further Advaita teaching unnecessary.",
+          "cue_range": [
+            836,
+            844
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-brahman",
+      "label": "Brahman",
+      "gloss": "The non-dual ground; everything in the yagna is identified with it",
+      "cue_range": [
+        26,
+        31
+      ]
+    },
+    {
+      "id": "c-sarvam-khalvidam-brahma",
+      "label": "Sarvam Kalvidham",
+      "gloss": "Mahavakya that all this is Brahman, here applied to action",
+      "cue_range": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "c-yajna",
+      "label": "Yagna",
+      "gloss": "Sacrificial offering; its structure is read as wholly Brahman",
+      "cue_range": [
+        41,
+        43
+      ]
+    },
+    {
+      "id": "c-brahmarpanam",
+      "label": "Brahmarpanam",
+      "gloss": "The instrument or act of offering seen as Brahman",
+      "cue_range": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "c-havis",
+      "label": "Havis",
+      "gloss": "The oblation, the material offered",
+      "cue_range": [
+        190,
+        191
+      ]
+    },
+    {
+      "id": "c-agni",
+      "label": "Agni",
+      "gloss": "The sacrificial fire, read as the fire of Brahman where duality dissolves",
+      "cue_range": [
+        191,
+        192
+      ]
+    },
+    {
+      "id": "c-ego",
+      "label": "ego",
+      "gloss": "The apparent separate offerer, surrendered into Brahman",
+      "cue_range": [
+        287,
+        297
+      ]
+    },
+    {
+      "id": "c-jnana-avasthita-chetas",
+      "label": "Nyana vastiza chedasa",
+      "gloss": "Mind established in knowledge, from the previous verse",
+      "cue_range": [
+        239,
+        241
+      ]
+    },
+    {
+      "id": "c-ananyatva",
+      "label": "ananyatum",
+      "gloss": "Absence of otherness",
+      "cue_range": [
+        252,
+        252
+      ]
+    },
+    {
+      "id": "c-gantavyam",
+      "label": "Gandhavyam",
+      "gloss": "That which is to be reached; here Brahman itself",
+      "cue_range": [
+        385,
+        387
+      ]
+    },
+    {
+      "id": "c-avirbhava",
+      "label": "Avir Bhava",
+      "gloss": "Disclosure of what is already present",
+      "cue_range": [
+        395,
+        397
+      ]
+    },
+    {
+      "id": "c-brahma-karma-samadhi",
+      "label": "Brahma Karma samadhi",
+      "gloss": "Absorption in Brahman maintained through and within action",
+      "cue_range": [
+        464,
+        467
+      ]
+    },
+    {
+      "id": "c-sahaja-samadhi",
+      "label": "Sahaja samadhi",
+      "gloss": "Effortless, continuous natural absorption",
+      "cue_range": [
+        467,
+        470
+      ]
+    },
+    {
+      "id": "c-nirvikalpa-samadhi",
+      "label": "nirvikalpa samadhi",
+      "gloss": "Temporary meditative absorption in which activity is suspended",
+      "cue_range": [
+        503,
+        511
+      ]
+    },
+    {
+      "id": "c-jivanmukta",
+      "label": "Jeevan Mukta",
+      "gloss": "One liberated while living",
+      "cue_range": [
+        487,
+        489
+      ]
+    },
+    {
+      "id": "c-leela",
+      "label": "Leela",
+      "gloss": "Play; an alternative name for apparent separateness",
+      "cue_range": [
+        728,
+        731
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Recap verse 23, all karma dissolves for the liberated] --> B[Verse 24 as the most concentrated non-dual statement]\n  B --> C[Each ritual element named Brahman, pictured as space]\n  C --> D[Ritual terms kept, this is a vision not a rule]\n  D --> E[Fire of Brahman receives the surrendered ego]\n  E --> F[Offerer as Brahman, offerer offered fire dissolve]\n  F --> G[Goal is Brahman, reached as disclosure not travel]\n  G --> H[Brahma Karma Samadhi, absorption while acting]\n  H --> I[Sahaja samadhi of the Jeevan Mukta versus nirvikalpa]\n  I --> J[Q and A on paradox, wave and water, leela, misuse]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        13,
+        15
+      ],
+      "note": "Invocation to Shankaracharya garbled in ASR; not reproduced."
+    },
+    {
+      "cue_range": [
+        159,
+        161
+      ],
+      "note": "Chandogya Upanishad Sanskrit heavily garbled; only the gist is noted as unresolved."
+    },
+    {
+      "cue_range": [
+        409,
+        412
+      ],
+      "note": "Reference to an earlier ninth verse and Upanishadic phrase garbled; chapter and wording unclear."
+    },
+    {
+      "cue_range": [
+        780,
+        782
+      ],
+      "note": "Part of the question is unintelligible in ASR."
+    },
+    {
+      "cue_range": [
+        819,
+        821
+      ],
+      "note": "Host remark garbled (session name unclear)."
+    }
+  ]
+}

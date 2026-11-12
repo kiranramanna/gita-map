@@ -1,0 +1,51 @@
+{
+  "schema": "episode-content/v1", "guid": "73caccd2-9040-45f4-b06e-65f497b73d0c", "title": "Ch04-33-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "af08c8c21019dd94ef33763e22cff2cc1b7b493be884c322e487411150390da9", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verse 41 & 42", "verified": false},
+  "summary": {"text": "The teacher completes the portrait of one whose actions are relinquished through yoga, doubts severed through knowledge, and identity established in Atma. Atmavan does not mean possessing a separate self-object. Nonbinding action, doubt-free knowing and self-establishment describe one liberation from different angles. The final verse turns this portrait into an instruction: cut ignorance-born doubt in the heart and arise in yoga. Heart means the inner instrument, not the bodily organ; its relation to knowledge is left for further explanation. Questions explore a computer analogy, continued planning, the gunas and the dependence of time, space and causation on awareness.", "cue_ranges": [[22, 415], [417, 596], [615, 660], [666, 799]]},
+  "segments": [
+    {"id": "s01", "heading": "Knowledge cuts several layers of doubt", "cue_range": [22, 122], "shloka_refs": [{"ref": "BG 4.41", "basis": "stated-in-transcript", "cue_range": [22, 25]}], "blocks": [
+      {"kind": "paraphrase", "text": "Renunciation through yoga removes personal ownership, while knowledge severs doubt without a surviving thread. The teacher distinguishes practical, seeker-related and deeper identity-related doubts.", "cue_range": [22, 83]},
+      {"kind": "paraphrase", "text": "The deepest questions concern self-Brahman identity and non-doership despite activity in Atma's presence. Direct recognition, rather than technical explanation alone, resolves these.", "cue_range": [84, 122]}
+    ]},
+    {"id": "s02", "heading": "Atmavan is established, not a possessor", "cue_range": [123, 210], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A literal possession reading would make Atma a separate object. Instead the teacher explains establishment in self rather than dependence on body, relationships or property.", "cue_range": [123, 170]},
+      {"kind": "paraphrase", "text": "Identity shifts from physical attributes to the inward self. This is not merely predominance of the sattva guna, but establishment beyond the gunas.", "cue_range": [171, 210]}
+    ]},
+    {"id": "s03", "heading": "Action loses its assumed power to bind", "cue_range": [211, 292], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "With no claimed agent, the binding mechanism cannot operate. The rope-snake comparison illustrates an apparent power losing force when its basis is understood.", "cue_range": [211, 259]},
+      {"kind": "paraphrase", "text": "Addressing Arjuna as a conqueror of wealth emphasizes that intense worldly activity need not bind. The teacher rejects equating liberation with physical withdrawal.", "cue_range": [260, 292]}
+    ]},
+    {"id": "s04", "heading": "One liberation expressed through three angles", "cue_range": [293, 416], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Sacrificial attitude, non-doership and relinquished fruit-craving synthesize karma-yoga. Instruction, knowledge-fire and inward readiness synthesize knowledge; Atmavan expresses establishment in their recognized ground.", "cue_range": [293, 357]},
+      {"kind": "quote", "text": "not separate paths but the same liberation", "cue_range": [363, 364]},
+      {"kind": "paraphrase", "text": "The commentary specifies actions seen as movements of gunas and describes the self-established person as vigilant. The three aspects are not independent routes requiring separate destinations.", "cue_range": [358, 415]}
+    ]},
+    {"id": "s05", "heading": "The final instruction becomes personal", "cue_range": [417, 543], "shloka_refs": [{"ref": "BG 4.42", "basis": "stated-in-transcript", "cue_range": [417, 451]}], "blocks": [
+      {"kind": "paraphrase", "text": "The final verse specifies problem, location, instrument and response: ignorance-born doubt, seated inwardly, cut by self-knowledge, followed by establishment in yoga and arising.", "cue_range": [417, 470]},
+      {"kind": "paraphrase", "text": "Therefore gathers the chapter's premises into a practical conclusion. Arjuna's confusion concerns bodily identity and agency; its inward root requires knowledge, not an external repair.", "cue_range": [471, 543]}
+    ]},
+    {"id": "s06", "heading": "Heart signifies the inner instrument", "cue_range": [544, 665], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Heart is explicitly distinguished from the physical organ. The paradox is ignorance appearing where self-luminosity is already present; the teacher postpones its fuller explanation.", "cue_range": [544, 596]},
+      {"kind": "paraphrase", "text": "A participant compares the discriminating intellect to a binary processor rather than an image on a monitor. The teacher receives the analogy as an illustration, not a literal description of consciousness.", "cue_range": [615, 660]}
+    ]},
+    {"id": "s07", "heading": "Planning, gunas and dependent appearance", "cue_range": [666, 824], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Asked whether purification ends activity and how planning continues, the teacher locates mental movements in the gunas. They can appear without a personal claimant to agency.", "cue_range": [666, 730]},
+      {"kind": "paraphrase", "text": "He rejects labeling this simply predetermined, preferring the gunas' nature. Dream and impossible-prince stories challenge independent reality assigned to time, space and causation; these are framed as appearances in awareness.", "cue_range": [731, 799]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-samsaya", "label": "Samsaya", "gloss": "Doubt addressed at practical and self-identity levels.", "cue_range": [38, 54]},
+    {"id": "c-atmavan", "label": "Atmaavan", "gloss": "Establishment in self rather than possession of an object.", "cue_range": [202, 210]},
+    {"id": "c-brahma-karma-samadhi", "label": "Brahma Karma Samadhi", "gloss": "The common ground of nonbinding action and self-establishment.", "cue_range": [340, 357]},
+    {"id": "c-gunas", "label": "gunas", "gloss": "Nature's dispositions through which bodily and mental activity appears.", "cue_range": [707, 734]},
+    {"id": "c-awareness", "label": "awareness", "gloss": "The ground on which time, space and causation depend.", "cue_range": [770, 794]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Yoga relinquishes owned action] --> D[One liberated standpoint]\n B[Knowledge severs doubt] --> D\n C[Atmavan is self-established] --> D\n D --> E[Actions no longer bind]\n E --> F[Final instruction to cut inward doubt]\n F --> G[Heart means the inner instrument]\n G --> H[Arise without assigning agency to Atma]"},
+  "gaps": [
+    {"cue_range": [32, 33], "note": "ASR appears to reverse non-doership; surrounding explicit relinquishment of agency governs the paraphrase."},
+    {"cue_range": [548, 559], "note": "Upanishadic Sanskrit is garbled; the teacher's English non-anatomical explanation is retained."},
+    {"cue_range": [680, 681], "note": "A local agency phrase conflicts with the surrounding non-agency explanation; not quoted or silently corrected."},
+    {"cue_range": [715, 719], "note": "Another apparent agency reversal occurs; no Sanskrit reconstruction attempted."}
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "8781728f-f216-4543-ab82-8c9a3e77fcbe",
+  "title": "Ch03-21-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "32f84738fecf167c9ffcdb9b11ef919da9cd98faf7b9cef50f6a6c96b972f759",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 03 verses 42 & 43",
+    "verified": false
+  },
+  "summary": {
+    "text": "Closing chapter 3, Bindoji takes up verse 42, which recasts the indriya, manas and buddhi triad from seats of Kama into a ladder of para: each level is subtler and governs the one below, and the Atman alone stands beyond the buddhi as the inner Pratyagatma. Because the buddhi is nearest the Atman, it is where Kama does its gravest damage. Verse 43 then gives the whole sadhana in brief: know what is beyond the intellect, steady the lower self by the higher, and destroy the hard-to-conquer enemy. Shankara's reading of the two atmans, the inner battle, and Kama turning toward the complete Atman follow, then a chapter summary and questions on the two selves, Kamadahana, paravare, truth and completeness.",
+    "cue_ranges": [[17, 47], [48, 205], [310, 410], [411, 527], [587, 621], [626, 1037]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Opening and recap of the sequential strategy",
+      "cue_range": [1, 36],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The host welcomes listeners to the Advaita satsang on the Gita, notes that the series is in Chapter 3, points to replay channels and a related book, and hands over to Bindoji.", "cue_range": [1, 14]},
+        {"kind": "quote", "text": "controlling the senses, reducing the desire, protect the knowledge and realize the self.", "cue_range": [17, 19]},
+        {"kind": "paraphrase", "text": "Bindoji recalls that the previous class laid out this order. Sense control comes first because the senses, mind and intellect are the places where Kama resides and produces delusion and superimposition on the inert body.", "cue_range": [20, 27]},
+        {"kind": "paraphrase", "text": "Having been told to restrain the senses and slay the enemy Kama, one asks on what basis that battle can be won. Krishna answers this in the next verse.", "cue_range": [28, 36]}
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Verse 42: the ladder of para",
+      "cue_range": [37, 121],
+      "shloka_refs": [
+        {"ref": "BG 3.42", "basis": "stated-in-transcript", "cue_range": [37, 38]},
+        {"ref": "BG 3.40", "basis": "stated-in-transcript", "cue_range": [53, 55]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Word by word: the senses are declared higher than their objects, the mind higher than the senses, the intellect higher than the mind, and what lies past the intellect is He, the Atman. This traces an inward ascent.", "cue_range": [37, 50]},
+        {"kind": "paraphrase", "text": "The same triad that verse 40 treated as Kama's seat is now viewed as a scale of subtlety and power, a shift from analysing Kama to inquiring into the Atman. Following Shankara, para means superior through subtlety and through greater pervading, controlling strength.", "cue_range": [50, 74]},
+        {"kind": "quote", "text": "Each level pervades and controls the lower.", "cue_range": [78, 80]},
+        {"kind": "paraphrase", "text": "The wise who see the truth say the senses govern our engagement with objects; the mind governs the senses, since they do not move without its volition; and the intellect surpasses the mind by deciding where the mind merely wavers.", "cue_range": [81, 109]},
+        {"kind": "paraphrase", "text": "The intellect also reflects consciousness most directly, giving it a luminosity the mind lacks. Bindoji links this to the Taittiriya sheaths studied earlier, where the vijnanamaya layer sits nearer the anandamaya than the manomaya does.", "cue_range": [109, 121]},
+        {"kind": "unresolved", "text": "The term rendered as Chaat Mgatwa, naming the intellect's deciding function, is unclear in the transcript and is not reconstructed here.", "cue_range": [106, 108]}
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Buddhi as Kama's target; Atman beyond it",
+      "cue_range": [122, 205],
+      "shloka_refs": [
+        {"ref": "BG 2.41", "basis": "stated-in-transcript", "cue_range": [122, 123]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankara reads this buddhi as the resolute, single-pointed intellect of the second chapter's verse 41. That faculty is both Kama's most dangerous seat and the one closest to the Atman, which makes it the central paradox and highest stake of inner practice.", "cue_range": [122, 135]},
+        {"kind": "quote", "text": "A karat buddhi is Kama's favorite spot because it can permanently conceal the Atman.", "cue_range": [136, 137]},
+        {"kind": "paraphrase", "text": "When the intellect is purified, self-knowledge dawns there and Kama vanishes like fog in sunlight. What is beyond the buddhi lies outside all of Prakriti's modifications and the three gunas; everything else, the inner instrument included, is lower, and only the Atman is higher.", "cue_range": [138, 161]},
+        {"kind": "paraphrase", "text": "That He is the Pratyagatma, the inquirer's own innermost self, identical with Paramatma and Brahman. The path runs from objects through senses, mind and intellect to that inner reality, culminating in the recognition that one is Brahman, not as some outer thing but as one's own nature.", "cue_range": [162, 205]}
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Governing relationships and Shankara's commentary on verse 42",
+      "cue_range": [206, 309],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Three relations of governance: senses rule over objects, mind over senses, intellect directs mind, and the Atman illumines the otherwise inert intellect through its reflected consciousness. At each step the higher pervades and lights up the lower.", "cue_range": [206, 227]},
+        {"kind": "paraphrase", "text": "Practically, one who recognises the Atman as highest gains access to the strongest level. From there the intellect becomes steady, the steady intellect rules the mind, the mind regulates the senses, and Kama is dissolved at all three levels. This prepares the final instruction.", "cue_range": [228, 245]},
+        {"kind": "paraphrase", "text": "The commentary: the five senses are subtler, more inward and more pervasive than the gross, external, limited body. The mind, whose nature is forming intentions and weighing alternatives, organises sensory input; the intellect gives firm judgement and ends the mind's wavering.", "cue_range": [246, 279]},
+        {"kind": "paraphrase", "text": "Beyond even the intellect is the inmost subject. The embodied one is deluded by desire veiling knowledge, whereas the Self, being no instrument, is the seer, a silent witness that observes body, senses, mind and intellect without joining their activity.", "cue_range": [279, 305]},
+        {"kind": "paraphrase", "text": "So the hierarchy shows a method of self-mastery: restrain the senses, discipline the mind, strengthen the intellect and realise the Self, which leads into the chapter's last verse.", "cue_range": [306, 309]}
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Verse 43: know, stabilise, destroy",
+      "cue_range": [310, 410],
+      "shloka_refs": [
+        {"ref": "BG 3.43", "basis": "stated-in-transcript", "cue_range": [310, 315]},
+        {"ref": "BG 3.37", "basis": "stated-in-transcript", "cue_range": [329, 329]},
+        {"ref": "BG 3.38-39", "basis": "stated-in-transcript", "cue_range": [330, 330]},
+        {"ref": "BG 3.40", "basis": "stated-in-transcript", "cue_range": [330, 331]},
+        {"ref": "BG 3.41", "basis": "stated-in-transcript", "cue_range": [332, 333]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The final verse of the chapter: having known what is beyond the intellect and steadied the self by the Self, O mighty-armed, slay the enemy in the form of Kama, so hard to overcome. Bindoji flags the question of which self is lower and which higher.", "cue_range": [310, 323]},
+        {"kind": "paraphrase", "text": "The word thus gathers up the whole teaching: Kama as enemy in verse 37, its veiling power in 38 and 39, its threefold seat in 40, sense restraint in 41, and the inward ascent in 42. Knowing, stabilising and destroying form the complete practice.", "cue_range": [324, 340]},
+        {"kind": "paraphrase", "text": "The object of knowing is the actionless, attributeless Atman beyond the intellect, the fruit of the previous verse's inquiry. Shankara separates this knowing from bare intellectual acquaintance; it means direct realisation, from which a resolute intellect follows.", "cue_range": [340, 376]},
+        {"kind": "paraphrase", "text": "Samstabhya means making firm or immovable; it is the middle step, steadying the inner instrument. The lower atman is the body, mind and intellect where the sense of I has lodged; it is steadied by establishing the higher Atman, which leaves the ego no footing.", "cue_range": [377, 398]},
+        {"kind": "quote", "text": "Unless you have a stability of the inner instrument, the destruction of Kama is impossible.", "cue_range": [385, 386]},
+        {"kind": "paraphrase", "text": "Here the verb lacks the intensifying prefix used earlier: once knowing and steadying are complete, destroying Kama is no longer laborious but a natural, immediate act, the path to freedom in miniature.", "cue_range": [399, 410]}
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "The inner battle and knowledge as root remedy",
+      "cue_range": [411, 461],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Knowing leads to steadiness in knowledge, which brings freedom from Kama. As Arjuna must defeat outer foes, the seeker must defeat Kama inside; that inner fight matters more, since outer foes harm only the body while Kama harms the jiva across births. Verses 37 to 43 explain why it is so hard to conquer.", "cue_range": [411, 430]},
+        {"kind": "quote", "text": "Warning, do not underestimate the enemy encouragement. It can be overcome.", "cue_range": [430, 432]},
+        {"kind": "paraphrase", "text": "Knowing the Atman as beyond the intellect is the primary discipline, the root of the whole method, not just one step. Sense restraint works on Kama's outer seat, mind and intellect on its middle seat, and self-knowledge removes the innermost root.", "cue_range": [435, 451]},
+        {"kind": "paraphrase", "text": "Bindoji cites a Mundaka mantra: when the supreme is seen, the heart's knot is pierced, doubts are cut and karmas dissolve. He says Krishna's phrase about knowing what is beyond the intellect points to exactly this.", "cue_range": [452, 461]},
+        {"kind": "unresolved", "text": "The Sanskrit of the Mundaka mantra is badly garbled in the transcript; the teacher's English gloss is followed, and the verse number in that Upanishad is not given.", "cue_range": [452, 454]}
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Two atmans and Kama turned toward Atman",
+      "cue_range": [462, 527],
+      "shloka_refs": [
+        {"ref": "BG 3.30", "basis": "stated-in-transcript", "cue_range": [515, 517]}
+      ],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Shankara separates the two atmans: the object is the jiva identified with the aggregate of body and inner instruments, while the instrument is the Atman beyond the intellect. Steadying means not letting Kama drag the intellect back to objects; this is Brahmanishtha, the condition for Kama's final end.", "cue_range": [462, 481]},
+        {"kind": "paraphrase", "text": "The stabilising force is self-knowledge, not an outer practice. Once the Atman is known as complete, nothing remains for Kama to seek; the same energy that pulled toward fleeting objects turns toward the eternal, complete Atman, and the person becomes Atma Kama.", "cue_range": [482, 503]},
+        {"kind": "paraphrase", "text": "So the destruction of outward desire is self-accomplished, following from steadiness in knowledge. The command is encouragement to Arjuna, not a picture of strenuous effort.", "cue_range": [507, 513]},
+        {"kind": "paraphrase", "text": "Shankara's closing note links the earlier command to fight, and the call in chapter 3 verse 30 to fight free from fever, with this final jahi. Outer and inner battles both need detachment and knowledge of the real enemy, the one blocking one's ever-free nature.", "cue_range": [513, 527]},
+        {"kind": "unresolved", "text": "The transcript says the command to fight was told in 218; this may mean chapter 2 verse 18, but the transcript does not make that explicit, so no reference is recorded.", "cue_range": [515, 516]}
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Commentary gist: steady the mind, conquer desire",
+      "cue_range": [528, 586],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The short commentary: realise the Self beyond the intellect as witness of all mental processes, and let that be the base for conquering desire. Steady and restrain the inner faculties so the mind does not wander to objects; the lower self is controlled by the Self.", "cue_range": [528, 547]},
+        {"kind": "paraphrase", "text": "The lower self is ego, mind and intellect driven by impulse. Shankara stresses a purified mind, which comes through karma yoga and self-control, and firm concentration in self-awareness. Desire is the enemy, appearing as craving, attachment and longing.", "cue_range": [548, 567]},
+        {"kind": "paraphrase", "text": "It is hard to conquer and hard to recognise because it takes many forms such as ambition, pride and pleasure-seeking. The strategy: know the hierarchy, restrain senses, steady mind, strengthen intellect, realise the Self beyond it.", "cue_range": [568, 581]},
+        {"kind": "quote", "text": "desire belongs to the mind andakarana, the self, which is beyond the intellect, is ever free from it.", "cue_range": [582, 584]}
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Chapter 3 summary and close of the lecture",
+      "cue_range": [587, 625],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Chapter 3 opens with two paths, knowledge and action, and closes with the command to slay the enemy. The karma yogi moves from action to sacrifice, purification of mind, discrimination, control of senses, mind and intellect, knowledge of the Atman, destruction of Kama and liberation, all within daily life.", "cue_range": [587, 609]},
+        {"kind": "quote", "text": "Kama is the sole obstruction and Atmatyana is the sole destroyer of that.", "cue_range": [610, 611]},
+        {"kind": "paraphrase", "text": "Chapter 4 begins next. The knower does not suppress desires but becomes that in which they find no hold. Citing the Brihadaranyaka, one who knows I am Brahman becomes all, with nothing more to seek.", "cue_range": [612, 621]},
+        {"kind": "paraphrase", "text": "The host thanks Bindoji and opens the floor for questions.", "cue_range": [622, 625]}
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Q&A: the two atmans in samstabhya",
+      "cue_range": [626, 708],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "A listener recalls children grabbing all the Halloween sweets and well-behaved colleagues losing themselves in Las Vegas, as signs that desire is innate and resurfaces despite discipline. He asks Bindoji to revisit steadying the self by the Self.", "cue_range": [626, 666]},
+        {"kind": "paraphrase", "text": "Bindoji explains that Atma also simply means I. Under superimposition, the body-mind-intellect is taken as I, yet it can only feel I because the supreme Atma is present in the intellect as reflected consciousness, which then wrongly identifies with the intellect.", "cue_range": [667, 682]},
+        {"kind": "paraphrase", "text": "Sanskrit has one word for both, and even the realised one says I, but then it means the complete, actionless, ever-free Atma. Steadying means putting the higher Atma in place of the lower as one's identity, which is possible only after knowing what lies beyond the intellect.", "cue_range": [683, 708]}
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: Kamadahana and the many forms of Kama",
+      "cue_range": [709, 768],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "The listener asks whether the story of Shiva burning Kamadeva connects to this verse.", "cue_range": [709, 718]},
+        {"kind": "paraphrase", "text": "Bindoji says it carries the same meaning. Kama is hard to conquer because it keeps changing form, from the grossest cravings for wealth and reputation to subtle ones posing as dharma, devotion or meditation, so one cannot pin down where to attack it.", "cue_range": [719, 739]},
+        {"kind": "paraphrase", "text": "It moves among the senses, the restless mind and the intellect; at the intellect it deceives by masquerading as righteous or devotional action, even during study and reflection. In the myth, Shiva as Ishvara, the Self, destroys Kamadeva.", "cue_range": [740, 764]},
+        {"kind": "quote", "text": "only the knowledge of the self can destroy the Kama.", "cue_range": [765, 766]}
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: resolute intellect, corrupt buddhi, paravare",
+      "cue_range": [769, 877],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "Asked whether the resolute intellect arises from a neti neti process, Bindoji says no such method is meant here. Desireless action weakens Kama at the senses, freeing the mind to support the intellect; the point is to locate Kama's seats and see that the inquirer is beyond the intellect.", "cue_range": [769, 812]},
+        {"kind": "paraphrase", "text": "He confirms that a corrupt intellect is the root problem. It is corrected when the teacher reveals something subtler than it; that knowledge, akin to tat tvam asi, turns the intellect into a proper instrument.", "cue_range": [813, 836]},
+        {"kind": "paraphrase", "text": "Chitta shuddhi, he clarifies, concerns vasanas at the level of the mind rather than the intellect.", "cue_range": [837, 845]},
+        {"kind": "paraphrase", "text": "On the Mundaka word paravare, Bindoji lists four senses, including near and far and forward and backward, and says superior is the one intended here.", "cue_range": [846, 877]},
+        {"kind": "unresolved", "text": "The listener also asks about another verse heard as Avrita Chekshu, glossed as reversed sight; its source is not named in the transcript.", "cue_range": [857, 866]}
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: a beginner asks what superior and change mean",
+      "cue_range": [878, 1003],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "After audio trouble, a self-described beginner asks what benchmark decides that something is supreme or lower, and clarifies he means truth rather than philosophy.", "cue_range": [878, 916]},
+        {"kind": "paraphrase", "text": "Bindoji defines truth in Advaita as what never changes anywhere or in any circumstance; it can only be one, since two would imply ranking. Vedic terms for it are Brahman or Atman; English words fall short. Brahman is that in which everything, even space, appears.", "cue_range": [917, 942]},
+        {"kind": "paraphrase", "text": "Asked what change means, he points to one's own life: everything perceived, and even the senses, keeps changing from childhood to old age, yet the knowing subject stays the same. Asking who that unchanging knower is starts the inquiry.", "cue_range": [943, 973]},
+        {"kind": "quote", "text": "This is where the journey begins.", "cue_range": [973, 974]},
+        {"kind": "paraphrase", "text": "The listener mentions exploring other schools; Bindoji recommends his Aparokshanubhuti series for beginners on the shared channels and wishes him well in his inquiry.", "cue_range": [976, 1003]}
+      ]
+    },
+    {
+      "id": "s14",
+      "heading": "Q&A: completeness of the Self, then closing",
+      "cue_range": [1004, 1074],
+      "shloka_refs": [],
+      "blocks": [
+        {"kind": "paraphrase", "text": "A returning listener asks what it means that the Self is complete. Bindoji answers that identifying with any experience brings lack and need; only in oneself is nothing wanted.", "cue_range": [1004, 1019]},
+        {"kind": "paraphrase", "text": "His example is deep sleep, where one exists without any desire, not even to wake. That name is the waker's; citing the Chandogya, one has merged into existence without knowing it, the Atma as Sachchidananda, free of desire.", "cue_range": [1019, 1037]},
+        {"kind": "paraphrase", "text": "The host closes, announcing the next session and a Sunday open discussion. Bindoji asks that tomorrow's class be numbered as the first lecture of chapter 4.", "cue_range": [1038, 1074]}
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-kama", "label": "Kama", "gloss": "desire, treated as the inner enemy that veils knowledge", "cue_range": [135, 137]},
+    {"id": "c-indriya", "label": "Indriya", "gloss": "sense organs", "cue_range": [48, 50]},
+    {"id": "c-manas", "label": "manas", "gloss": "mind, forming intentions and weighing options", "cue_range": [170, 173]},
+    {"id": "c-buddhi", "label": "buddhi", "gloss": "intellect, the deciding faculty nearest the Atman", "cue_range": [135, 141]},
+    {"id": "c-atma", "label": "Atman", "gloss": "the Self, beyond the intellect", "cue_range": [167, 169]},
+    {"id": "c-para", "label": "para", "gloss": "superior by subtlety and governing power", "cue_range": [58, 61]},
+    {"id": "c-pratyagatma", "label": "Pratyagatma", "gloss": "the inner self of the inquirer, one with Paramatma", "cue_range": [167, 169]},
+    {"id": "c-adhisthana", "label": "Adisthana", "gloss": "seat or locus where Kama operates", "cue_range": [21, 22]},
+    {"id": "c-vyavasayatmika-buddhi", "label": "devasayatmika buddhi", "gloss": "resolute, single-pointed intellect", "cue_range": [122, 123]},
+    {"id": "c-chidabhasa", "label": "Chidabasa", "gloss": "reflected consciousness in the intellect", "cue_range": [678, 681]},
+    {"id": "c-sankalpa", "label": "Sankalpa", "gloss": "volition or intention of the mind", "cue_range": [266, 270]},
+    {"id": "c-samstabhya", "label": "Samsabya", "gloss": "making firm, steadying the inner instrument", "cue_range": [377, 384]},
+    {"id": "c-atma-jnana", "label": "atmat nyana", "gloss": "knowledge of the Self", "cue_range": [138, 140]},
+    {"id": "c-adhyasa", "label": "Adyasa", "gloss": "superimposition of I onto body, mind and intellect", "cue_range": [672, 675]},
+    {"id": "c-drashta", "label": "drushta", "gloss": "seer or witness of the instruments", "cue_range": [297, 303]},
+    {"id": "c-brahman", "label": "Brahman", "gloss": "the one unchanging truth in which everything appears", "cue_range": [936, 942]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[\"Recap of the sequential spiritual strategy\"] --> B[\"Verse 42 ladder of objects, senses, mind, intellect\"]\n  B --> C[\"Para as subtlety and governing power\"]\n  C --> D[\"Intellect as Kama target and nearest the Atman\"]\n  D --> E[\"Atman beyond intellect as the inner Self\"]\n  E --> F[\"Verse 43 know, steady, destroy\"]\n  F --> G[\"Lower self steadied by the higher Self\"]\n  G --> H[\"Kama redirected toward the complete Atman\"]\n  H --> I[\"Chapter 3 summary, knowledge alone ends Kama\"]\n  I --> J[\"Questions on two selves, forms of Kama, truth, completeness\"]"
+  },
+  "gaps": [
+    {"cue_range": [62, 62], "note": "Garbled Sanskrit citation of Shankara's definition of para; only the teacher's English explanation is summarised."},
+    {"cue_range": [504, 507], "note": "Garbled Sanskrit recitation, source not named; not summarised."},
+    {"cue_range": [616, 618], "note": "Garbled Sanskrit recitation preceding the Brihadaranyaka citation; not reconstructed."},
+    {"cue_range": [880, 896], "note": "Audio echo and microphone housekeeping during the Q&A; not summarised."}
+  ]
+}

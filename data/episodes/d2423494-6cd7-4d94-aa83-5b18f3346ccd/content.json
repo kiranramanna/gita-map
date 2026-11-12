@@ -1,0 +1,67 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "d2423494-6cd7-4d94-aa83-5b18f3346ccd",
+  "title": "Ch04-23-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "1a659c5fcbd7a83d9777876c578b6304eb0c35fa67488ba6bd32c7d1176470ee", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 04 verses 26 & 27", "verified": false},
+  "summary": {"text": "The teacher moves from the inner offering of individuality into Brahman to two treatments of sensory life: restraining the senses and consecrating their contact with objects. He then includes all sensory and vital activity in Atma Samyama Yoga, stressing that knowledge, rather than suppression alone, kindles this sacrifice. The witnessing Atma is not an agent controlling the apparatus; recognizing non-doership removes its apparent independence. The discussion closes by connecting listening, reflection and practice, and by distinguishing participants' yoga experiences from the teaching itself.", "cue_ranges": [[21, 96], [113, 384], [385, 725], [734, 757], [764, 819], [843, 852]]},
+  "segments": [
+    {"id": "s01", "heading": "From ritual offering to inner sacrifice", "cue_range": [21, 112], "shloka_refs": [{"ref": "BG 4.25", "basis": "stated-in-transcript", "cue_range": [24, 26]}], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary contrasts worship directed to gods with the knowledge-sacrifice in which the apparently conditioned self is recognized as unconditioned Brahman. The limiting adjuncts belong to the appearance of individuality, not to a second self.", "cue_range": [21, 79]},
+      {"kind": "paraphrase", "text": "This perspective extends to the bodily instruments: seeing and hearing can be understood as offerings rather than independently owned acts. The coming account of sacrifices leads toward knowledge-sacrifice.", "cue_range": [80, 107]}
+    ]},
+    {"id": "s02", "heading": "Two directions of sensory offering", "cue_range": [113, 200], "shloka_refs": [{"ref": "BG 4.26", "basis": "stated-in-transcript", "cue_range": [113, 118]}], "blocks": [
+      {"kind": "paraphrase", "text": "The paired presentation reverses the relation between fire and offering. One practitioner offers the senses into restraint; another offers sense objects into the sensory fires. The teacher treats the reversal as deliberate, not contradictory.", "cue_range": [113, 152]},
+      {"kind": "paraphrase", "text": "The five senses correspond to five classes of objects. Restraint addresses attachment and aversion, whereas consecrated contact understands objects and sensory faculties through Brahman.", "cue_range": [153, 200]}
+    ]},
+    {"id": "s03", "heading": "Restraint prepares; consecration transforms contact", "cue_range": [201, 281], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Shama checks the mind's outward projection, dama regulates sensory pursuit, uparati ends that pursuit, and endurance avoids reactive attraction or rejection. These disciplines prepare the seeker for self-inquiry by weakening attachment.", "cue_range": [201, 245]},
+      {"kind": "paraphrase", "text": "The teacher distinguishes an upasaka's conscious offering of experience to the indwelling presence from the established knower's recognition that both objects and faculties are Brahman. Neither account licenses mere indulgence.", "cue_range": [246, 281]}
+    ]},
+    {"id": "s04", "heading": "Withdrawal and engagement share a direction", "cue_range": [282, 384], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Sensory contact can reinforce bondage through attachment or become sacrifice. Withdrawal and consecrated engagement converge when the inner orientation is knowledge rather than personal appropriation.", "cue_range": [282, 325]},
+      {"kind": "paraphrase", "text": "Pratyahara is recast as offering, not merely a technique. In reading the commentary, the teacher also describes regulated reception of appropriate objects as preparatory purification, preserving a distinction from the knower's standpoint.", "cue_range": [327, 384]}
+    ]},
+    {"id": "s05", "heading": "All sensory and vital activities enter", "cue_range": [385, 475], "shloka_refs": [{"ref": "BG 4.27", "basis": "stated-in-transcript", "cue_range": [385, 399]}], "blocks": [
+      {"kind": "paraphrase", "text": "The next offering includes activities, not simply sense organs or objects. Deliberate perception and action join involuntary breathing, digestion and circulation; nothing in the bodily apparatus is reserved as a separate possession.", "cue_range": [385, 442]},
+      {"kind": "paraphrase", "text": "Atma Samyama Yoga gathers this activity into the witnessing presence. The emphasis is on abiding in the non-doing Atma while functions continue, rather than forcibly stopping them.", "cue_range": [443, 475]}
+    ]},
+    {"id": "s06", "heading": "Knowledge kindles what suppression cannot burn", "cue_range": [476, 593], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Restraint without knowledge can leave latent tendencies intact. The teacher compares it to damp fuel: discipline may smoulder while the roots of attachment and personal agency remain available to return.", "cue_range": [476, 498]},
+      {"kind": "paraphrase", "text": "The comprehensive offering includes inward mental activity and dreaming as well as external perception. Recognizing Atma as neither faculty nor restrainer removes the ego's claim even to the work of restraint.", "cue_range": [499, 558]},
+      {"kind": "quote", "text": "The vasanas, the deep seated tendencies in US", "cue_range": [565, 565]},
+      {"kind": "paraphrase", "text": "The knowledge of non-doership is presented as consuming the seeds, not temporarily holding them down. Its efficacy is not credited to an additional agent maintaining the fire.", "cue_range": [562, 593]}
+    ]},
+    {"id": "s07", "heading": "Dispassion and the offering of life", "cue_range": [594, 695], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "An Upanishadic discussion of finite results motivates dispassion: accumulated action cannot produce the imperishable. The teacher uses this to distinguish preparatory disciplines from restraint genuinely illumined by knowledge.", "cue_range": [594, 631]},
+      {"kind": "paraphrase", "text": "Prana marks a deeply rooted sense of individual life. Offering its functions therefore extends sacrifice to the organism's most intimate level. The point is not a breathing technique alone, but recognition of life as Brahman's expression.", "cue_range": [632, 669]},
+      {"kind": "paraphrase", "text": "The witness observes senses and vital activity without becoming their controller. The apparent power of these functions to bind or delimit Atma dissolves through recognition.", "cue_range": [670, 695]}
+    ]},
+    {"id": "s08", "heading": "Commentary returns the apparatus to stillness", "cue_range": [696, 757], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The commentary compares discriminative knowledge to what brightens a lamp. Sensory and vital functions are offered into inward discipline, relinquishing their assumed individual ownership.", "cue_range": [698, 725]},
+      {"kind": "paraphrase", "text": "Asked whether this is a method of reflection and abiding, the teacher connects hearing and reflection to witnessing. The change is from identifying as the performer of bodily functions to recognizing the apparatus as belonging to Atma.", "cue_range": [729, 757]}
+    ]},
+    {"id": "s09", "heading": "Yoga experience and repeated practice", "cue_range": [758, 854], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant relates the account to yoga practiced without this knowledge. The teacher recommends Vivekananda's Raja Yoga writings; the participant emphasizes how practice changed his understanding of commentaries. These are discussion contributions, not additional verse claims.", "cue_range": [764, 819]},
+      {"kind": "quote", "text": "It is not just for hearing.", "cue_range": [845, 845]},
+      {"kind": "paraphrase", "text": "After room announcements, the teacher asks listeners to revisit the recording and embody the teaching. Repetition is meant to support actual practice and abiding, not simply another hearing.", "cue_range": [843, 852]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-brahman", "label": "Brahman", "gloss": "The unconditioned reality into which apparent individuality is offered through knowledge.", "cue_range": [57, 79]},
+    {"id": "c-shama", "label": "Shama", "gloss": "Restraint of the mind's outward movement toward objects.", "cue_range": [207, 210]},
+    {"id": "c-dama", "label": "Dama", "gloss": "Restraint of sensory pursuit.", "cue_range": [211, 213]},
+    {"id": "c-uparati", "label": "Uparati", "gloss": "Cessation of object-pursuit as restraint becomes established.", "cue_range": [213, 216]},
+    {"id": "c-pratyahara", "label": "pratyahara", "gloss": "Sensory withdrawal reconsidered as sacrifice.", "cue_range": [327, 340]},
+    {"id": "c-atma-samyama-yoga", "label": "Atma Samyama Yoga", "gloss": "Inward discipline grounded in the witnessing, non-doing Atma.", "cue_range": [458, 475]},
+    {"id": "c-vasanas", "label": "vasanas", "gloss": "Latent tendencies that suppression alone leaves capable of returning.", "cue_range": [562, 585]},
+    {"id": "c-sakshi", "label": "Sakshi", "gloss": "The witness rather than the owner or controller of bodily functions.", "cue_range": [679, 695]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Inner sacrifice of individuality] --> B[Senses offered into restraint]\n A --> C[Objects offered into sensory fires]\n B --> D[Purification and consecrated contact]\n C --> D\n D --> E[All sensory and vital activity included]\n E --> F[Knowledge kindles inward discipline]\n F --> G[Atma recognized as non-doing witness]\n G --> H[Reflection becomes lived practice]"},
+  "gaps": [
+    {"cue_range": [17, 18], "note": "Invocation is truncated and garbled; no Sanskrit reconstruction attempted."},
+    {"cue_range": [32, 36], "note": "ASR obscures the Sanskrit citations and names; exact wording and reference locations remain unverified."},
+    {"cue_range": [698, 711], "note": "Repeated and garbled Sanskrit commentary is not reconstructed; the adjacent English explanation supports the paraphrase."},
+    {"cue_range": [826, 842], "note": "Room scheduling and replay announcements are not treated as lecture teaching."}
+  ]
+}

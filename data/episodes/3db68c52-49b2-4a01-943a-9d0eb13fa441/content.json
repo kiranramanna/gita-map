@@ -1,0 +1,438 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "3db68c52-49b2-4a01-943a-9d0eb13fa441",
+  "title": "Ch04-22-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "a7f809de99389dbf0f88617e8f29092ec822009cc952f5821fe34cbeb75e58d8",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verses 24 & 25",
+    "verified": false
+  },
+  "summary": {
+    "text": "Binduji reads the Brahmarpanam verse through Shankara: the Chandogya declaration that all is Brahman is applied to yajna, so instrument, oblation, fire, offerer, act and goal are each Brahman. Seeing the offerer as Brahman removes the last duality, making Brahma Karma Samadhi the jivanmukta's continuous state where action dissolves. This verse founds the whole yajna section, which culminates in praising jnana yajna. The bhashya is read line by line, including Shankara's rejection of Brahman as a mere superimposition like Vishnu on an idol. Verse 25 then contrasts daiva yajna with offering into the fire of Brahman. Questions follow on sahaja samadhi, the meaning of yajna, and names and forms.",
+    "cue_ranges": [[21, 68], [116, 189], [190, 255], [352, 444], [445, 518], [606, 801]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome, resources and handover",
+      "cue_range": [1, 20],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host, Prakash, welcomes listeners to the Satsang house session on the Gita from an Advaita standpoint, notes the class is in Chapter 4, and points to replays on Clubhouse, the Advaita Retold YouTube channel, podcast platforms and a book by Artemisia.",
+          "cue_range": [1, 15]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Chat and hand raising are closed during the talk and reopened afterwards for questions; Binduji then begins with greetings and invocations.",
+          "cue_range": [15, 20]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Verse 24 as Sarvam Khalvidam Brahma applied to action",
+      "cue_range": [21, 68],
+      "shloka_refs": [
+        {"ref": "BG 4.24", "basis": "stated-in-transcript", "cue_range": [36, 38]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "After reciting the Brahmarpanam verse, already broken into word meanings earlier, Binduji turns to a deeper reading drawn from Shankara's bhashya: the verse takes the Chandogya mahavakya that everything is Brahman and applies it specifically to yajna.",
+          "cue_range": [21, 35]
+        },
+        {
+          "kind": "quote",
+          "text": "When you say Sarvan Khalidam Brahma, it is indicating that everything is Brahma.",
+          "cue_range": [39, 40]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Where the Upanishad states non-duality abstractly, verse 24 makes it concrete in action and offering, turning a metaphysical claim into a recognition active in every moment. We are always performing this Brahma yajna, but ignorance hides it; he links this to Krishna's statement that all paths are his path.",
+          "cue_range": [36, 57]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He walks through the identifications: the instrument, the oblation, the fire or field, the agent, the act of offering and the destination to be reached are each declared to be Brahman.",
+          "cue_range": [57, 65]
+        },
+        {
+          "kind": "quote",
+          "text": "This exhaustive identification leaves no non Brahman element in the field of action.",
+          "cue_range": [66, 67]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Vedic yajna as teaching device; the offerer dissolves",
+      "cue_range": [69, 128],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankara notes that Krishna borrows the full vocabulary of the Vedic sacrifice, the most explicitly structured action known to a scripturally trained audience. If even this apparently dual ritual is wholly Brahman, then every action, ritual or worldly, such as eating, breathing or thinking, must be Brahman too.",
+          "cue_range": [69, 103]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara singles out the phrase about the offering made by Brahman as the key. Ordinary yajna, even a mental one directed to Brahman, keeps the sacrificer distinct from the fire; once the agent is also Brahman, the final duality collapses and the mahavakya becomes Aham Brahmasmi.",
+          "cue_range": [103, 123]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "When this recognition is steady, which he connects to the one established in knowledge in the previous verse, there remains no offerer, no offering and no difference between them.",
+          "cue_range": [121, 128]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Brahma Karma Samadhi as the jivanmukta's natural state",
+      "cue_range": [129, 189],
+      "shloka_refs": [
+        {"ref": "BG 4.14", "basis": "stated-in-transcript", "cue_range": [142, 144]},
+        {"ref": "BG 4.23", "basis": "stated-in-transcript", "cue_range": [159, 163]},
+        {"ref": "BG 4.18", "basis": "stated-in-transcript", "cue_range": [164, 166]},
+        {"ref": "BG 4.20", "basis": "stated-in-transcript", "cue_range": [167, 170]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "For the jivanmukta, inwardly there is no action, so action wholly dissolves, though others still see him acting. With Brahman as doer there is no finite doer left for karma to stain, which deepens what the 14th verse said about actions not touching him.",
+          "cue_range": [129, 149]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Brahma Karma Samadhi is not an occasional meditative attainment but the unbroken substratum of all activity. Shankara ties it to verse 23 (established in knowledge), verse 18 (seeing non-action in action) and verse 20 (the knower does nothing at all).",
+          "cue_range": [150, 171]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He cites the Brihadaranyaka idea that being Brahman one attains Brahman, resolving the apparent paradox as immediate recognition, which matches the verse's statement that Brahman alone is to be reached. This concept unifies the karma discussion of verses 16 to 23 with the yajna section that follows.",
+          "cue_range": [172, 183]
+        },
+        {
+          "kind": "quote",
+          "text": "It is the cognitive state that makes all karma non binding,",
+          "cue_range": [184, 184]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Foundation of the yajna section and its culmination",
+      "cue_range": [190, 255],
+      "shloka_refs": [
+        {"ref": "BG 4.25", "basis": "stated-in-transcript", "cue_range": [195, 196]},
+        {"ref": "BG 4.33", "basis": "stated-in-transcript", "cue_range": [210, 213]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 24 is the philosophical base for the following verses on yajnas. He previews them: daiva and Brahma yajna in verse 25, then sense, yoga, knowledge, pranayama, regulated food and material yajnas, all particular forms of the one Brahma yajna, diversity within unity.",
+          "cue_range": [190, 208]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The verse-by-verse preview is inconsistent as transcribed: the 28th verse is named twice, once for knowledge yajna and once for material yajna, and verse 26 is mentioned without a stated number. The exact mapping of yajnas to verses is left unclear here.",
+          "cue_range": [196, 201]
+        },
+        {
+          "kind": "quote",
+          "text": "just as the Duaitens see many rivers where the Advaitens sees only one ocean.",
+          "cue_range": [209, 210]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The section closes in verse 33, where knowledge yajna is declared superior to material yajnas, since knowledge yajna is exactly the recognition of Brahma Karma Samadhi. With the sixfold repetition of Brahman, Binduji calls this the summit of the chapter's karma yoga teaching.",
+          "cue_range": [210, 234]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "This also resolves the earlier remark that even seers are confused about action: followed to its depth, the course of karma leads to Brahman rather than bondage, and the knower discovers that karma's way was always Brahman's way.",
+          "cue_range": [234, 255]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Bhashya on verse 24: shell and silver, non-action",
+      "cue_range": [256, 351],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Binduji now reads Shankara's commentary sentence by sentence. The knower sees the ladle as Brahman alone, not existing apart from the Self, in the way one who sees the shell knows there never was silver, or that the snake was only the rope.",
+          "cue_range": [256, 279]
+        },
+        {
+          "kind": "quote",
+          "text": "just as one who recognizes the absence of silver in the shell",
+          "cue_range": [267, 268]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The commentary repeats this for oblation, fire, agent, the act itself and the result, so the samadhi of one absorbed in this knowledge is Brahman too.",
+          "cue_range": [280, 296]
+        },
+        {
+          "kind": "quote",
+          "text": "Thus even action performed for the welfare of this world is in reality non action.",
+          "cue_range": [298, 299]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Because the notion of agent, instruments and results is sublated by knowledge of Brahman, there is no ritual action left, since rituals always presuppose doership and desire. As desire-driven rites stop being such when desire goes, the knower's outward activity becomes non-action.",
+          "cue_range": [300, 351]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The list of verses where Krishna teaches this sublation is garbled in the transcript (it reads like 18th, 20th, 28th and then fifth, eighth or fiftieth); which verses are meant cannot be determined.",
+          "cue_range": [334, 338]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Shankara refutes Brahman as mere symbolic superimposition",
+      "cue_range": [352, 444],
+      "shloka_refs": [
+        {"ref": "BG 4.33", "basis": "stated-in-transcript", "cue_range": [385, 401]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "An opponent's view is presented: Brahman takes the fivefold form of the factors of action, and the ladle, oblation and so on are not negated but merely regarded as Brahman.",
+          "cue_range": [352, 367]
+        },
+        {
+          "kind": "quote",
+          "text": "Just as one superimpresses the idea of Vishnu on a idol",
+          "cue_range": [368, 369]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara replies that such a reading would fit only if the context were not praising knowledge. The section ends in verse 33 praising knowledge yajna above material ones after listing ritual yajnas from verse 25 onwards, and that praise would be pointless for a mere upasana.",
+          "cue_range": [377, 401]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Superimposition would also make Brahman-knowledge limited to objects, and liberation does not come without right knowledge. The context begins with seeing non-action in action and the chapter ends praising knowledge, so a sudden symbolic practice would be out of place; the verse must be read as non-dual knowledge.",
+          "cue_range": [405, 444]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Verse 25: daiva yajna and offering into Brahman",
+      "cue_range": [445, 518],
+      "shloka_refs": [
+        {"ref": "BG 4.25", "basis": "stated-in-transcript", "cue_range": [445, 447]},
+        {"ref": "BG 4.11", "basis": "stated-in-transcript", "cue_range": [488, 491]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "In the 25th verse, the first line describes yogis who devotedly perform sacrifice aimed at the devatas, external divine beings; the second describes others who offer yajna by yajna into the fire of Brahman, an inward, non-dual orientation continuing the Brahmarpana idea.",
+          "cue_range": [445, 464]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara notes an ascent from the first line to the second: daiva yajna keeps duality and treats the offering materially, while Brahma yajna recognises that the receiving fire is Brahman itself.",
+          "cue_range": [464, 477]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The repeated word for others signals that the one Brahma yajna allows many valid approaches suited to differing adhikaris. Binduji ties this to verse 11, where Krishna responds to each according to their approach, so every sincere practitioner shares in the Brahma yajna.",
+          "cue_range": [478, 498]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He sets out a graded sequence: daiva yajna is entry level, desire-driven and yields finite results; selfless karma yoga offered to Parameshwara purifies the mind; Brahma yajna belongs to knowers who are jivanmuktas, where offerer, offering and fire all become Brahman.",
+          "cue_range": [498, 518]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Yajna offered by yajna; the cosmic sacrifice",
+      "cue_range": [519, 605],
+      "shloka_refs": [
+        {"ref": "BG 4.24", "basis": "stated-in-transcript", "cue_range": [542, 548]},
+        {"ref": "BG 4.25", "basis": "stated-in-transcript", "cue_range": [548, 554]},
+        {"ref": "BG 4.33", "basis": "stated-in-transcript", "cue_range": [594, 597]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The phrase about offering yajna through yajna is read as self-referential at three levels: at the empirical level ritual feeds ritual; at the inner level the seeker offers japa, meditation and listening into the inner Brahman; at the ultimate level Brahman offers Brahman into Brahman, an unbroken Brahman-shaped awareness.",
+          "cue_range": [519, 541]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verses 24 and 25 together frame the whole yajna section: 24 lays the foundation, 25 opens the spectrum from the most dual daiva yajna to the most inward Brahma yajna, and the intervening verses list forms that all dissolve into Brahma yajna.",
+          "cue_range": [542, 559]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankara invokes the Taittiriya Samhita identification of yajna with Vishnu and the Purusha Sukta, placing this within a cosmic sacrifice in which Brahman projects and withdraws the universe into itself; the individual's Brahma Karma Samadhi resonates with that universal yajna.",
+          "cue_range": [560, 578]
+        },
+        {
+          "kind": "quote",
+          "text": "So the creation and dissolution is a cosmic Etnya of Brahman itself.",
+          "cue_range": [568, 569]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "He previews the catalogue of yajnas up to verse 33, each suited to a different adhikari, and says the next class will read the verses from 26 to 32 mainly for meaning, elaborating only where needed.",
+          "cue_range": [588, 605]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Q&A: superimposition, sahaja samadhi, yoga and jnana",
+      "cue_range": [606, 698],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A participant suggests the superimposition view reflects a gap where the intellect still projects and samadhi has not ripened, and asks whether a yoga-based culmination, which Shankara also taught, is needed alongside immediate knowledge.",
+          "cue_range": [608, 636]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The participant cites a Shankara text on Raja Yoga steps with verse numbers that are garbled in the transcript (apparently Aparokshanubhuti, with a range near 100 to 129); the exact reference is unclear.",
+          "cue_range": [617, 626]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Binduji answers that hearing the verse as a participant, not intellectually, shifts one's identity to being part of Brahman's cosmic activity. That becomes a natural samadhi with no rising out of it, an undivided Brahman-shaped awareness in which the six named factors have no existence apart from Brahman.",
+          "cue_range": [637, 664]
+        },
+        {
+          "kind": "quote",
+          "text": "Yogi and Nyani becomes one and the same.",
+          "cue_range": [665, 665]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "In the coming verses even breathing, sensing and eating become offerings; there is no separation of yoga and knowledge. Both agree the remaining verses will clarify this, and that the yajna exposition will lead into knowledge.",
+          "cue_range": [666, 698]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: why ordinary experience is called yajna",
+      "cue_range": [699, 731],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A listener asks why something like watching TV would count as yajna. Binduji explains yajna here as dissolving one's separateness: subject and object are both existence and consciousness, and their division is offered into the non-dual substratum.",
+          "cue_range": [699, 723]
+        },
+        {
+          "kind": "quote",
+          "text": "So the Etna is the dissolution of the duality where there is no",
+          "cue_range": [724, 724]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Experiencer, experienced object and the act of experiencing all merge into awareness, and that is the knowledge the verses speak of.",
+          "cue_range": [727, 731]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: is all action Brahman, and names and forms",
+      "cue_range": [732, 833],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Patrick asks whether calling the agent and instrument Brahman is metaphor limited to ritual. Binduji says the coming verses use yajna language for our own experience, not Vedic ritual.",
+          "cue_range": [732, 745]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Recalling an earlier discussion with Srini, Binduji says Patrick speaks from the ultimate level and Srini from the empirical: names and forms matter practically, yet knowledge shows them to be nothing but Brahman. Patrick welcomes hearing this stated plainly.",
+          "cue_range": [746, 777]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Patrick holds that vibration and modification are not ignorance. Binduji replies that if all is Brahman, even words like ripple lose meaning; one who rejects names and forms could only stay silent, whereas speaking already works within them.",
+          "cue_range": [778, 803]
+        },
+        {
+          "kind": "quote",
+          "text": "You will become a mouni.",
+          "cue_range": [794, 794]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The exchange ends in friendly banter about replays and Srini's return from holiday, with thanks for the class.",
+          "cue_range": [804, 833]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Closing plans and host announcements",
+      "cue_range": [834, 861],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Binduji says the yajna section will continue next session and possibly Monday, without rushing; though these verses are framed more dualistically, studying them still helps toward one's own experience.",
+          "cue_range": [834, 840]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host thanks everyone, repeats where replays and the book can be found, and announces the next meeting at 8:30 PM IST to continue Chapter 4; Binduji thanks the questioners and says goodnight.",
+          "cue_range": [840, 861]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-brahmarpanam", "label": "Brahmarpanam", "gloss": "The verse declaring the offering instrument and every factor of sacrifice to be Brahman", "cue_range": [21, 21]},
+    {"id": "c-sarvam-khalvidam-brahma", "label": "Sarvam Kaluidam Brahma", "gloss": "Chandogya statement that all this is Brahman, here applied to action", "cue_range": [28, 28]},
+    {"id": "c-brahma-yajna", "label": "Brahma Yetnya", "gloss": "Every act seen as Brahman offering into Brahman", "cue_range": [100, 100]},
+    {"id": "c-aham-brahmasmi", "label": "Aham Brahmasmi", "gloss": "Recognition that the offerer is Brahman, collapsing the last duality", "cue_range": [120, 120]},
+    {"id": "c-jivanmukta", "label": "Jeevan Mukta", "gloss": "One liberated while living, who inwardly does nothing", "cue_range": [131, 131]},
+    {"id": "c-karma-samagram-praviliyate", "label": "Karma Samagram", "gloss": "Complete dissolution of action for the knower", "cue_range": [147, 147]},
+    {"id": "c-brahma-karma-samadhi", "label": "Brahma Karma Samadhi", "gloss": "Continuous absorption in the knowledge that action is Brahman", "cue_range": [180, 180]},
+    {"id": "c-akarma", "label": "akarma", "gloss": "Non-action seen in action", "cue_range": [164, 166]},
+    {"id": "c-jnana-yajna", "label": "Nyana yetnya", "gloss": "Sacrifice of knowledge, praised as superior", "cue_range": [199, 199]},
+    {"id": "c-purvapaksha", "label": "Purvapaksa", "gloss": "Opponent's view raised for refutation", "cue_range": [378, 378]},
+    {"id": "c-adhyasa", "label": "superimposition", "gloss": "Regarding something as Brahman symbolically, as Vishnu on an idol", "cue_range": [373, 379]},
+    {"id": "c-samyag-darshana", "label": "samyak darshanam", "gloss": "Right knowledge or true vision", "cue_range": [379, 379]},
+    {"id": "c-daiva-yajna", "label": "Daiva Etnya", "gloss": "Sacrifice directed to external deities", "cue_range": [465, 465]},
+    {"id": "c-adhikari", "label": "Adhikari", "gloss": "Seeker's eligibility, which shapes the suitable form of yajna", "cue_range": [593, 593]},
+    {"id": "c-akhandakara-vritti", "label": "Akhandakarabruti", "gloss": "Undivided mental mode shaped as Brahman", "cue_range": [652, 653]},
+    {"id": "c-sahaja-samadhi", "label": "Sahaja samadhi", "gloss": "Natural, unbroken samadhi with no emerging from it", "cue_range": [617, 617]},
+    {"id": "c-paramarthika", "label": "paramarthika", "gloss": "The ultimate standpoint", "cue_range": [168, 168]},
+    {"id": "c-vyavaharika", "label": "Vyavaharika", "gloss": "The empirical, transactional standpoint", "cue_range": [755, 755]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[All is Brahman, Chandogya] --> B[Verse 24 applies it to yajna]\n  B --> C[Six factors of offering are Brahman]\n  C --> D[Offerer is Brahman, Aham Brahmasmi]\n  D --> E[Brahma Karma Samadhi, action dissolves]\n  E --> F[Foundation of yajna section, culminates in jnana yajna]\n  C --> G[Bhashya, shell and silver, non-action]\n  G --> H[Refuting symbolic superimposition]\n  H --> F\n  F --> I[Verse 25, daiva yajna to Brahma yajna]\n  I --> J[Graded adhikaris and cosmic yajna]\n  J --> K[Q and A, sahaja samadhi, names and forms]"
+  },
+  "gaps": [
+    {"cue_range": [196, 201], "note": "Verse-number preview of the yajna list is inconsistent as transcribed (28th verse named twice); recorded as unresolved, not corrected."},
+    {"cue_range": [335, 336], "note": "Garbled list of verse numbers where Krishna teaches the sublation of action, agent and result; not interpreted."},
+    {"cue_range": [619, 620], "note": "Participant's reference to a Shankara text on Raja Yoga steps has garbled numbers; not interpreted."},
+    {"cue_range": [814, 828], "note": "Informal banter about Srini's absence and replays; summarised only briefly."}
+  ]
+}

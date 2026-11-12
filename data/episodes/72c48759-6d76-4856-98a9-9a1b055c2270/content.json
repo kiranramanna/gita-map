@@ -1,0 +1,417 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "72c48759-6d76-4856-98a9-9a1b055c2270",
+  "title": "Ch04-08-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "ed917296fea06670a8e5688743e1a489f9afd8eef9065c5d37c14bb58b5c5548",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 11",
+    "verified": false
+  },
+  "summary": {
+    "text": "After recalling verse 10, the teacher takes up verse 11 as answering why not everyone reaches the Lord's state. Krishna responds to every mode of approach, exactly as each person approaches, so the response is universal yet not equal. Following Shankaracharya, he distinguishes four seekers (jitnyasu, upasaka, karma yogi, kamin) and the four corresponding responses, unpacks the root of bajami and the meaning of vartma, and argues that all humans, knowingly or unknowingly, walk Ishwara's one path because nothing lies outside Brahman. Bondage and liberation differ only in the clarity of recognition. He reads the bhashya, previews the Karma Yoga section from verse 12, and in Q&A addresses siddhis and respect for other religions.",
+    "cue_ranges": [[21, 75], [141, 296], [323, 428], [429, 521], [559, 641], [691, 749]]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host welcome and opening invocation",
+      "cue_range": [1, 20],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita Vedanta Satsang room, notes that the Gita series is now in chapter 4, points to replays on Clubhouse, YouTube and podcast platforms and to a book based on the teacher's insights, and says the floor will open for questions after an hour.",
+          "cue_range": [1, 14]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher recites an opening invocation to the guru lineage and Shankaracharya; the Sanskrit is rendered phonetically and garbled by the transcript, so its exact wording cannot be recovered here.",
+          "cue_range": [15, 20]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap of verse 10 and words of verse 11",
+      "cue_range": [21, 75],
+      "shloka_refs": [
+        {"ref": "BG 4.10", "basis": "stated-in-transcript", "cue_range": [21, 26]},
+        {"ref": "BG 4.11", "basis": "stated-in-transcript", "cue_range": [27, 36]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 10, discussed last time, said many seekers freed of attachment, fear and anger, purified by knowledge, reached the Lord's state. That raises a question: if many reached it, why does not everyone? Verse 11 is presented as Krishna's reply.",
+          "cue_range": [21, 34]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Word by word: whoever approaches or takes refuge in Krishna in whatever manner, he rewards in just that manner. Mama vartma is his path or road, anuvartande means to follow it, manushyaha means human beings in the plural, and sarvashaha means in every respect, addressed to Arjuna as Partha.",
+          "cue_range": [35, 62]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The two halves are logically ordered. The first establishes Parameshwara's sovereign freedom to respond and the fact that he answers every kind of approach.",
+          "cue_range": [63, 75]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "All seeking is ultimately seeking Parameshwara",
+      "cue_range": [76, 140],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "It is not that he is responding to some and he is not responding to some. No, everyone is being rewarded.",
+          "cue_range": [76, 77]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The second half rests on the impossibility of approaching anything except Parameshwara, since everything is Brahman. Whether one approaches the Atma, a chosen deity or a sense object, the destination is the same Brahman; people simply seek him knowingly or unknowingly. The teacher stresses this is Krishna's own statement.",
+          "cue_range": [78, 95]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The implicit question is whether those who come by karma, upasana, surrender, devotion to a form, or even for worldly ends are left out. The answer is a universal, non-exclusive declaration: Krishna is the ground of all paths, not only the path of knowledge.",
+          "cue_range": [96, 113]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "For Shankaracharya this is among the most comprehensive verses in the Gita. It lets him rank the margas by depth and directness while affirming they do not differ in their ground. Believer or atheist, sensualist, devotee, karma or nyana yogi, all paths are his; the difference lies only in how people approach.",
+          "cue_range": [114, 140]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Four kinds of seekers, response universal not equal",
+      "cue_range": [141, 229],
+      "shloka_refs": [
+        {"ref": "BG 7.16", "basis": "stated-in-transcript", "cue_range": [182, 184]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya draws four modes of approach from the surrounding verses. The jitnyasu seeks the Nirguna Brahman through knowledge, aiming at Madbhava. The upasaka meditates on a Saguna Ishwara seen as separate and reaches liberation in stages, krama mukti, via the higher worlds.",
+          "cue_range": [141, 162]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The karma yogi cannot stay inactive by nature, so offers all work as service to the Lord without wanting its fruit. The kamin approaches for particular worldly objects. These sakama devotees are treated more fully in chapter 7, verse 16.",
+          "cue_range": [163, 184]
+        },
+        {
+          "kind": "quote",
+          "text": "That is universal but not equal.",
+          "cue_range": [194, 194]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The fruit matches the approach: the knower gains abidance in Brahman; the dualistic worshipper is freed only when time itself dissolves; the karma yogi's selfless work yields purity of mind, then steadiness in knowledge, turning him into a jitnyasu; the desirer receives what he asked for, because Parameshwara hears every desire.",
+          "cue_range": [195, 217]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "As an illustration, Kunti asked Krishna to keep giving her trouble so that she would never stop thinking of him, and he granted even that wish throughout her life.",
+          "cue_range": [218, 229]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Meaning of bajami, tata eva, and vartma",
+      "cue_range": [230, 322],
+      "shloka_refs": [
+        {"ref": "BG 7.21-22", "basis": "stated-in-transcript", "cue_range": [280, 285]},
+        {"ref": "BG 9.29", "basis": "stated-in-transcript", "cue_range": [300, 301]},
+        {"ref": "BG 4.1", "basis": "stated-in-transcript", "cue_range": [321, 322]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The root of bajami carries several senses: to allot or share, to serve and be devoted, to enjoy, and to favour in return. So Krishna shares himself with each seeker in the measure and manner of their approach; the eva in tata eva underlines exact correspondence, and the teacher calls this karmapala raised to the Lord's sovereign responsiveness.",
+          "cue_range": [230, 263]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya pairs four responses with the four modes: self-disclosure as one's own inner Self for the knower, gradual purification and krama mukti for the upasaka, a purified mind fit for knowledge for the karma yogi, and the wished-for object for the kamin. Chapter 7 verses 21 and 22 confirm that Krishna steadies each worshipper's faith in the chosen form.",
+          "cue_range": [263, 296]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Bajami implies no partiality; God's love is equal to all, as the ninth chapter says. Proportionality reflects law, not unequal regard.",
+          "cue_range": [297, 302]
+        },
+        {
+          "kind": "quote",
+          "text": "The same rain falls on all fields, but the harvest corresponds to the quality of the seed and the soil.",
+          "cue_range": [303, 304]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Vartma means a well-worn track that exists because many have travelled it. Ishwara's path is not a road he walks but the cosmic order of Dharma he sustains, the timeless truth he once taught Vivaswan and now teaches Arjuna.",
+          "cue_range": [309, 322]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The transcript renders the verse reference for Dharma as 'the 7th and 8th chapter' beside the words 'Yadda yadda hi Dharmasya'; which verses are meant is not stated clearly, so no reference is recorded. The rendering of the ninth-chapter verse as '20 ninth' is also ASR text.",
+          "cue_range": [300, 321]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Every human follows Ishwara's path, knowingly or not",
+      "cue_range": [324, 428],
+      "shloka_refs": [
+        {"ref": "BG 4.9-10", "basis": "stated-in-transcript", "cue_range": [369, 372]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Anuvartande is read as a timeless claim: no one, not even an atheist living in a world that is Brahman, leaves Ishwara's path. Shankaracharya treats it as the only path. Puranic tales show even those who hated Krishna reached moksha, since their hatred kept him constantly in mind.",
+          "cue_range": [324, 346]
+        },
+        {
+          "kind": "inferred",
+          "text": "Kunti's request for constant trouble, told earlier in the lecture, fits the same pattern as the hatred stories: remembrance of Krishna in any emotional form counts as an approach. The teacher does not draw this link himself.",
+          "cue_range": [341, 346]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Because the Lord is the Self of all, every act, even sinful action and avidya itself, happens within his domain; the teacher says this answers a question Patrick had asked him. Shankaracharya distinguishes following the path with knowledge, as in verses 9 and 10, from following it without knowledge, where every pursuit of happiness is a partial reach for fullness.",
+          "cue_range": [347, 394]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Manushyaha is deliberate: only humans can follow the path consciously through viveka, while animals follow it by instinct, which is why human birth is precious, as the Viveka Chudamani says. Joined with sarvataha it gives a double universality, across all persons and all modes.",
+          "cue_range": [395, 418]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The advaitic corollary: liberation is not finding a new road but recognising that the road already walked is Parameshwara's own. The kamin walks it blindly; the nyani walks it with direct knowledge of Brahman as his own nature.",
+          "cue_range": [419, 427]
+        },
+        {
+          "kind": "quote",
+          "text": "The path is the same, the clarity of recognition differs.",
+          "cue_range": [428, 428]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Calibrated divine response and one seeker within Brahman",
+      "cue_range": [429, 521],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The verse elevates the law of karmic fruit to the relation between Ishwara and the jiva. Unlike Purva Mimamsa, where an impersonal apurva links act to result, here the indwelling, all-knowing Lord himself answers each being from within.",
+          "cue_range": [429, 444]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Giving liberation to someone who asks for wealth would skip the sadhana they need to ripen, so they could not recognise it. That is our own case: told we are Brahman, we cannot grasp it because the inner instrument is unripe. Krishna gives exactly what each one's antahkarana can receive, the method of the eternal teacher.",
+          "cue_range": [445, 466]
+        },
+        {
+          "kind": "quote",
+          "text": "Not even a blade of grass can sway at his own will.",
+          "cue_range": [475, 475]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Every margam is a mode of one path seen with differing clarity; nobody can step off it. Citing the Mundaka declaration that there is no plurality here, the teacher says there is finally one path, one seeker and one arrival: Brahman playing hide and seek with itself as the jivas.",
+          "cue_range": [476, 498]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Answering Patrick, he compares Brahman to space: nothing can be removed from space and kept elsewhere. Jiva, path, knowledge and desired objects are all Brahman, but Brahman in the form of the jiva identifies with body, mind and intellect and then sets out to find its true nature.",
+          "cue_range": [499, 521]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Worship of devatas and the chapter's next sections",
+      "cue_range": [522, 592],
+      "shloka_refs": [
+        {"ref": "BG 7.21-22", "basis": "stated-in-transcript", "cue_range": [533, 534]},
+        {"ref": "BG 9.23", "basis": "stated-in-transcript", "cue_range": [533, 535]},
+        {"ref": "BG 4.12", "basis": "stated-in-transcript", "cue_range": [567, 570]},
+        {"ref": "BG 4.12-32", "basis": "stated-in-transcript", "cue_range": [591, 592]},
+        {"ref": "BG 4.33-42", "basis": "stated-in-transcript", "cue_range": [589, 592]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The verse settles a question raised by Saguna worship: when people worship Indra, Varuna, Shiva, Durga, Ganapati or Hanuman, who answers? All devatas are forms within his path, so every such worship reaches Brahman, though by a longer, mediated route. Chapter 7 verses 21-22 and chapter 9 verse 23 develop this; verse 11 is its foundation.",
+          "cue_range": [522, 542]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Sarvataha lets Shankaracharya assert that no seeker is excluded. Even the most adharmic or tamasic person is unknowingly on the path and receives what their present condition can hold, which over time ripens them toward discrimination and the realisation that lasting happiness is not in objects.",
+          "cue_range": [542, 558]
+        },
+        {
+          "kind": "unresolved",
+          "text": "A Sanskrit passage about examining the worlds won by action is quoted here, but the transcript garbles it and its source text is not named.",
+          "cue_range": [554, 557]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Recap of the Avatara section: verses 4 and 5 showed the Avatara's nature, verse 9 the knowledge of it, verse 10 the precedent of those who reached him, verse 11 the sovereignty over all paths. Verse 12 turns to why people seek the fruits of action, opening Karma Yoga.",
+          "cue_range": [559, 570]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The rest of the chapter answers how blind following becomes knowing following: verses 12 to 32 form the Karma Yoga section and verses 33 to 42 the Nyana Yoga section. The teaching has widened from the lineage to Vivaswan and Arjuna to all humanity.",
+          "cue_range": [570, 592]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Shankaracharya's bhashya read and summarised",
+      "cue_range": [593, 647],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "In the bhashya, Krishna grants each approacher the matching result. Many do not want liberation, and Shankaracharya holds that wanting liberation and wanting worldly fruit cannot exist together in one person at one time.",
+          "cue_range": [593, 607]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "So fruit-seekers get fruits; those who act as enjoined without desire and seek liberation get knowledge; knowers who have renounced and seek liberation get liberation; and the distressed are relieved.",
+          "cue_range": [608, 621]
+        },
+        {
+          "kind": "quote",
+          "text": "I do not favour anyone out of attachment aversion and delusion or delusion.",
+          "cue_range": [623, 624]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Summing up before Karma Yoga: the Lord answers beings by their intentions, acts impartially, and all human paths unfold within the divine order. Karma Yoga begins on Monday; Sunday is a general question-and-answer session.",
+          "cue_range": [634, 647]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Q&A: divine powers and the yogic distraction",
+      "cue_range": [648, 721],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A participant, Venkat, says the verse gives results for both pravritti and nivritti paths, recounts a Hanuman Jayanti meditation experience, and asks where wishes fulfilled in the divine realm, such as boons and powers of holy men, fall within this scheme.",
+          "cue_range": [648, 690]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The questioner's story of a figure who met Kali and received wisdom and wealth is too garbled in the transcript to reconstruct reliably.",
+          "cue_range": [670, 677]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher places all of it at the empirical, vyavaharika level, which has its own gradations. Mind-reading, time travel and visits to other planes are still experiences with an experiencer distinct from them; whoever wishes for them is granted them.",
+          "cue_range": [691, 705]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Scripture warns that devas, having themselves failed to gain knowledge, tempt seekers with boons. Choosing a yogic power instead of knowing oneself as Brahman means that desire is what gets fulfilled; the path of siddhi is a distraction one is advised to avoid.",
+          "cue_range": [706, 721]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: other religions and pravritti",
+      "cue_range": [722, 763],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Asked about the world's religions, the teacher says manushyaha is not limited to followers of Sanatana Dharma; tribal peoples anywhere are also walking a divine path, and we should learn to see divinity in all.",
+          "cue_range": [722, 735]
+        },
+        {
+          "kind": "quote",
+          "text": "We should not look down upon any other religion, any other faith or any other practice as different from the path which is universal.",
+          "cue_range": [736, 738]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Universal love comes only from appreciating this. People calling themselves Sanatanis yet hating other faiths show they have not understood this verse.",
+          "cue_range": [739, 750]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Venkat concludes that defending a combination of karma and knowledge as one's own desired goal still falls under pravritti, and the teacher agrees, adding that such a wish is fine as it is.",
+          "cue_range": [751, 763]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Closing thanks and schedule",
+      "cue_range": [764, 786],
+      "shloka_refs": [
+        {"ref": "BG 4.12", "basis": "stated-in-transcript", "cue_range": [784, 785]}
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host thanks the teacher and the questioner, repeats where replays can be found, and announces Sunday's open Advaita discussion at 8:30 PM IST.",
+          "cue_range": [764, 781]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher closes, saying Sunday is for general questions and the 12th verse follows on Monday.",
+          "cue_range": [782, 786]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {"id": "c-bhajami", "label": "Bajami", "gloss": "Krishna's act of responding to, sharing himself with, and rewarding each seeker in kind", "cue_range": [230, 249]},
+    {"id": "c-vartma", "label": "Vartma", "gloss": "a well-trodden path; here Ishwara's one path that all humans walk", "cue_range": [309, 317]},
+    {"id": "c-anuvartana", "label": "Anuvartande", "gloss": "to follow along a path", "cue_range": [56, 59]},
+    {"id": "c-brahman", "label": "Brahman", "gloss": "the one reality that is the ground of every path and seeker", "cue_range": [78, 93]},
+    {"id": "c-ishwara", "label": "Ishwara", "gloss": "the Lord, whose path is the cosmic order he sustains", "cue_range": [317, 320]},
+    {"id": "c-madbhava", "label": "Madbhava", "gloss": "the Lord's own state; abiding in the Self", "cue_range": [149, 149]},
+    {"id": "c-jijnasu", "label": "Jitnyasu", "gloss": "seeker who wants to know the attributeless Brahman", "cue_range": [144, 148]},
+    {"id": "c-upasaka", "label": "Upasaka", "gloss": "meditative worshipper of a Lord with attributes", "cue_range": [151, 154]},
+    {"id": "c-krama-mukti", "label": "krama mukti", "gloss": "liberation reached in stages rather than at once", "cue_range": [154, 157]},
+    {"id": "c-karma-yoga", "label": "Karma yogis", "gloss": "those who act as service to the Lord without seeking fruits", "cue_range": [163, 172]},
+    {"id": "c-kama", "label": "Kamin", "gloss": "one who approaches the Lord for desired worldly objects", "cue_range": [173, 177]},
+    {"id": "c-chitta-shuddhi", "label": "chitashuddhi", "gloss": "purity of mind that grows from selfless action", "cue_range": [205, 208]},
+    {"id": "c-karmaphala", "label": "Karmapala", "gloss": "the law that actions bear proportionate fruit", "cue_range": [258, 260]},
+    {"id": "c-avidya", "label": "Avidya", "gloss": "ignorance, which also occurs within the Lord's domain", "cue_range": [358, 365]},
+    {"id": "c-antahkarana", "label": "under karana", "gloss": "the inner instrument whose ripeness limits what can be received", "cue_range": [455, 460]},
+    {"id": "c-nitya-guru", "label": "Nithya guru", "gloss": "the eternal teacher who gives each student exactly what fits", "cue_range": [461, 464]},
+    {"id": "c-siddhi", "label": "Siddhi", "gloss": "yogic powers, treated as a distraction from knowledge", "cue_range": [716, 721]},
+    {"id": "c-pravritti", "label": "Pravathi", "gloss": "the outward path of action and desired results", "cue_range": [652, 657]}
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Verse 10 recap, many reached the Lord] --> B[Question, why not everyone]\n  B --> C[Verse 11, Lord answers every approach in kind]\n  C --> D[Four seekers, knower, worshipper, karma yogi, desirer]\n  D --> E[Response universal but proportionate, bajami]\n  E --> F[All humans walk one path, vartma]\n  F --> G[Knowing versus unknowing following]\n  G --> H[Liberation is recognising the path already walked]\n  H --> I[All devata worship reaches Brahman]\n  I --> J[Next, Karma Yoga from verse 12, Nyana Yoga from verse 33]\n  J --> K[Q and A, siddhis and respect for all faiths]"
+  },
+  "gaps": [
+    {"cue_range": [16, 20], "note": "Opening Sanskrit invocation rendered phonetically and garbled by the transcript; not reproduced."},
+    {"cue_range": [27, 28], "note": "Sanskrit recitation at the start of verse 11 discussion is garbled; only the teacher's English explanation is summarised."},
+    {"cue_range": [554, 557], "note": "Garbled Sanskrit quotation about examining the worlds won by action; not reconstructed."},
+    {"cue_range": [594, 632], "note": "Sanskrit of Shankaracharya's bhashya is heavily garbled; only the teacher's English translation is summarised."},
+    {"cue_range": [670, 677], "note": "Questioner's story about Kali granting boons is partly unintelligible."},
+    {"cue_range": [764, 781], "note": "Host housekeeping (thanks, replay links, schedule) summarised only briefly."}
+  ]
+}

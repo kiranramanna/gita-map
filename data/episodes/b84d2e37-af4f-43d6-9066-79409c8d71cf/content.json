@@ -1,0 +1,794 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "b84d2e37-af4f-43d6-9066-79409c8d71cf",
+  "title": "Ch04-18-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "1b4971f11c49840d2bbe8b00fee85328ea4c21e921fe3e7ab870c5688b752e48",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verses 20 & 21",
+    "verified": false
+  },
+  "summary": {
+    "text": "Continuing verse 20, the teacher completes Shankaracharya's four-stage portrait of the Jeevan Mukta: freedom from attachment to results, nithyatripta, nirasreya, and full engagement while doing nothing, called Naishkarma Siddhi. Verse 21 then translates this paramarthika truth into vyavaharika terms through three compounds, Nirashi, Yatachittatma and Tyakta Sarva Parigraha, plus the qualifier that only the body acts. Because the doer-ego, expectation and possessiveness are gone, the sage incurs no kilbisha, neither sin nor binding merit; the bhashya settles that bodily action means only action for the body's upkeep. In Q&A the teacher explains that knowledge removes ignorance rather than karma, since knowing is not action.",
+    "cue_ranges": [
+      [
+        1,
+        102
+      ],
+      [
+        181,
+        209
+      ],
+      [
+        210,
+        466
+      ],
+      [
+        510,
+        575
+      ],
+      [
+        645,
+        701
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Recap of verse 20: first three marks",
+      "cue_range": [
+        1,
+        45
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.20",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            2,
+            3
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "After the invocation the teacher resumes verse 20 and recalls Shankaracharya's four-stage portrait of the Jeevan Mukta in the Karma Vichara prakarana. Stage one is Karmaphala Asanga Tyaga: dropping the craving for results happens on its own once fullness comes through knowledge, much as a person who has eaten does not linger at the table.",
+          "cue_range": [
+            1,
+            15
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Stage two is nithyatripta, lasting contentment in the Atman as Ananda Swarupa. The teacher stresses that this is not a passing mood but simply being full, recognising the Atman's own completeness, as in the familiar poornamadah poornamidam line.",
+          "cue_range": [
+            15,
+            23
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "This nithyatripti is not a mental experience",
+          "cue_range": [
+            20,
+            20
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Stage three is nirasreya, needing no outside support. The Atman or Brahman, the substratum of all beings, is his only support. This is not mere distaste for objects but seeing one existence everywhere, so the ego that sets him apart from others is absent; the teacher calls this aparoksha experience.",
+          "cue_range": [
+            23,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Stage four: acting fully yet doing nothing",
+      "cue_range": [
+        46,
+        102
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.20",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            101,
+            102
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "How such a person lives in the world is the fourth mark: though wholly engaged, he does nothing, because non-doership of the Atman is his identity. Seeing inaction in action has become a steady abidance rather than a memory or a passing glimpse.",
+          "cue_range": [
+            46,
+            55
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The non doership of Atman is his identity.",
+          "cue_range": [
+            50,
+            50
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher notes that the 46th verse of the third chapter of the Mandukya Karika also speaks of nirasreya, freedom from support, as liberation itself. Doership needs an external object to lean on; when everything is seen as the one substratum, nothing remains to which activity can be attributed.",
+          "cue_range": [
+            56,
+            69
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The paradox is resolved by levels: at the vyavaharika level the body keeps acting under prarabdha for others to see, while at the paramarthika level there is no action at all; both hold together. This is no prescription to withdraw physically. The teacher names it Naishkarma Siddhi, essential non-agency rather than inactivity, also the title of Sureshwara's work (rendered Sureshwarasare).",
+          "cue_range": [
+            70,
+            102
+          ]
+        },
+        {
+          "kind": "inferred",
+          "text": "The phrase about seeing inaction in action, which the teacher says was seen earlier, appears to point back to an earlier verse of this chapter; the transcript does not give its number here.",
+          "cue_range": [
+            88,
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Verse 20 summed up, and its bhashya",
+      "cue_range": [
+        103,
+        160
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.21-22",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            118,
+            119
+          ]
+        },
+        {
+          "ref": "BG 4.23",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            123,
+            124
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The four quarters of verse 20 compress the whole Advaita resolution of the tension between karma and knowledge: inner abandonment of attachment, inner contentment without dependence, full outward engagement, and yet nothing done. The sage has not just heard that the Lord is a non-doer but lives it.",
+          "cue_range": [
+            103,
+            118
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher previews verses 21 and 22, which further describe the liberated person's conduct, before the yajna section from verse 23 shows all his action as an offering into Brahman, citing the Brahmarpanam line.",
+          "cue_range": [
+            118,
+            128
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Reading the bhashya, he explains: having dropped doership and attachment through knowledge, the sage is content and free of craving; he depends on no means for seen or unseen results; seeing his own self as actionless, he has no personal purpose in acting. If he cannot withdraw, he may keep acting to uphold the world or avoid criticism, yet does nothing.",
+          "cue_range": [
+            128,
+            160
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Verse 21 framed as the bridge verse",
+      "cue_range": [
+        161,
+        209
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.21",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            179,
+            181
+          ]
+        },
+        {
+          "ref": "BG 4.23",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            199,
+            200
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya's introduction to the next verse describes a different sage: one who realised the inner self, Brahman, before starting any action, sees no purpose in rituals for this world or the next, renounces action with its means, and does only what keeps the body going. Such a renunciate in knowledge is liberated.",
+          "cue_range": [
+            161,
+            181
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Where verse 20 gave the paramarthika truth, verse 21 shows its practical vyavaharika expression and declares that the sage incurs no kilbisha, meaning sin or moral taint. It bridges the metaphysical portrait and the yajna section beginning at verse 23, adding three new compounds plus the qualifier that only the body acts.",
+          "cue_range": [
+            181,
+            209
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Word meanings and Nirashi: freedom from expectation",
+      "cue_range": [
+        210,
+        267
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.21",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            210,
+            211
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "After reciting the verse, the teacher glosses each word: freedom from expectation; restraint of chitta and atma, where atma here means the body-mind complex; giving up every kind of grasping; action through the body alone; and not incurring kilbisha, which he renders as sin, guilt or Papa.",
+          "cue_range": [
+            210,
+            233
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Ashih is a subtle, scripture-sanctioned wish for results such as heaven or punya, finer than gross Kama. A seeker drops it through effortful practice with lapses; in the sage the fire of knowledge has burnt its root, the sense of incompleteness, so its absence is natural and permanent, the same as nithyatripta in verse 20.",
+          "cue_range": [
+            234,
+            263
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "He is non attached to anything. It is not a detachment from something. It is a non attachment.",
+          "cue_range": [
+            266,
+            267
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Yatachittatma: restraint that needs no effort",
+      "cue_range": [
+        268,
+        309
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Chitta is the stream of intention and memory carrying vasanas and samskaras; atma here is the secondary sense, the body, senses and mind as Jeevatman. Their restraint corresponds to sama, inner calm, and dama, control of the outer instruments, from the four-fold sadhana qualifications.",
+          "cue_range": [
+            268,
+            297
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Following Shankaracharya, the teacher stresses that for the sage this calm is effortless, born of knowledge rather than of a seeker's discipline; desire-born resolves no longer arise in him.",
+          "cue_range": [
+            297,
+            307
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "not a practitioner of restraint but one bit in whom the need for restraint has been dissolved by the identification of the atna.",
+          "cue_range": [
+            308,
+            309
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Tyakta sarva parigraha: outer and inner possession dropped",
+      "cue_range": [
+        310,
+        354
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Parigraha is grasping or accumulating beyond present need, for security, status or pleasure. The teacher links it to Aparigraha, one of the five yamas in Patanjali's Yoga darsana, but says the sage embodies it naturally rather than as a practice; it complements the inner marks already described.",
+          "cue_range": [
+            310,
+            325
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Outer parigraha is wealth and property; the sage keeps only what prarabdha brings, as the next verse will say. Inner parigraha is Mamata, the claim of mine, which is subtler and can persist even with no possessions. In the sage even ahankara and mamakara dissolve, since as the full Atman nothing is outside him.",
+          "cue_range": [
+            326,
+            354
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Sariram kevalam karma: action of the body alone",
+      "cue_range": [
+        355,
+        417
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Two complementary readings are given. First, bodily action means only what maintains the body, like eating, sleeping and breathing, with no enterprise for results. Second, it means what must be done through the body, including duties of one's station, such as a Kshatriya fighting or a Brahmana teaching, without the Atman being taken as the doer.",
+          "cue_range": [
+            355,
+            382
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The word kevalam is decisive: it strips away action for results, action from desire, the ego's claim of doership, expectation and accumulation. What remains is ongoing bodily functioning under prarabdha, a continuous mode of living rather than an occasional practice, and this is the sense of being fully engaged yet doing nothing.",
+          "cue_range": [
+            383,
+            417
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Why the sage incurs no kilbisha",
+      "cue_range": [
+        418,
+        466
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.14",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            456,
+            457
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Taint arises from the same mechanism as bondage: the doer-ego, craving for results, and attraction and aversion. With all three gone, the mechanism has nothing to work on, even when the body does what looks harmful, such as a Kshatriya slaying in war or a judge sentencing an offender.",
+          "cue_range": [
+            418,
+            438
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Conversely, for the ignorant even virtuous dharmic acts done with doership and desire leave subtle residue as samskara and rebirth. The sage is like the sun shining on pure and impure alike; as the witness, Sakshi, he is not the body.",
+          "cue_range": [
+            439,
+            455
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The sun incurs no taint from what it illuminates.",
+          "cue_range": [
+            451,
+            451
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher equates this with the 14th verse's statement that actions do not bind: verse 14 speaks of bondage and liberation, verse 21 of acquired sin, and together they complete the picture of the Jeevan Mukta's freedom.",
+          "cue_range": [
+            456,
+            466
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Toward yajna, and the bhashya on verse 21",
+      "cue_range": [
+        467,
+        509
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.23",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            471,
+            472
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Verse 21 is the negative specification, stripping action of everything that produces taint; verse 23 will give the positive one, the same action offered as yajna into Brahman, with one verse still in between.",
+          "cue_range": [
+            467,
+            482
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The bhashya glosses the compounds: one whose longings have gone, who has restrained both inner organ and body with senses, who has given up all ownership, acting only to keep the body alive and without ego. He incurs neither demerit nor merit, since for a seeker of liberation even merit binds, and so he is freed from samsara.",
+          "cue_range": [
+            483,
+            509
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Objection: what does bodily action mean",
+      "cue_range": [
+        510,
+        577
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya raises a question: does bodily action mean any act done by the body, or only acts for its upkeep? If the former, forbidden bodily acts would carry no sin, scriptural rituals would yield no results, and speech and mind alone would seem to bind, all of which contradict scripture or make the statement pointless.",
+          "cue_range": [
+            510,
+            541
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The accepted reading: action solely for maintaining the body, free from the thought that I am acting. Though he appears to act from the world's point of view, sin cannot reach him, because the fire of knowledge has burnt all his karma; the verse restates the fruit of right knowledge.",
+          "cue_range": [
+            542,
+            575
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher closes verse 21 and says the introduction to verse 22 and the verse itself will be taken up on Monday.",
+          "cue_range": [
+            575,
+            577
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: Buddhi yoga and knowledge burning ignorance",
+      "cue_range": [
+        578,
+        734
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host checks audio, opens chat and hand raising, and points to replays on YouTube, Apple, Spotify and Clubhouse.",
+          "cue_range": [
+            578,
+            589
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Venkit asks why the Gita is called Buddhi yoga and offers his reading: insight into action and inaction purifies the buddhi, which the fire of knowledge then burns clean, and he asks why a purified buddhi is still needed for yajna.",
+          "cue_range": [
+            589,
+            644
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher answers that the fire of knowledge only removes ignorance and never touches karma. The buddhi can only know, and knowing involves no action. Knowing oneself as the non-doer Atma burns the misidentification with body and mind; the sage then witnesses bodily functioning as Sakshi and incurs no sin, having become one with all beings.",
+          "cue_range": [
+            645,
+            701
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Knowing is not an action because when you are knowing a fire, there is no action involved in it.",
+          "cue_range": [
+            663,
+            664
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Here buddhi is the self-luminous Atma itself; only when the knower is mistaken for an object does it appear as mind, intellect and ego. The yajna of verse 23 onward differs from the third chapter's offering of fruits; it will show yajna as the natural behaviour of the sage.",
+          "cue_range": [
+            702,
+            734
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Further questions and closing announcements",
+      "cue_range": [
+        735,
+        792
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A listener suggests that the action-in-inaction teaching closely parallels another saying; the teacher agrees, adding that a similar paradox appears in the Ya Nisha Sarva Bhutani passage, with the same method in different words.",
+          "cue_range": [
+            735,
+            751
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The phrase rendered Avignyatam Vijayanatam is not attributed to any text in the transcript, and the Ya Nisha Sarva Bhutani passage is mentioned without a verse number; neither is identified here.",
+          "cue_range": [
+            736,
+            742
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Vinod asks whether the coming yajna also happens for ordinary people. The teacher agrees but says they do not know it; because the I-am-the-doer notion intervenes, they reap merit and demerit, which do not arise where non-doership is present.",
+          "cue_range": [
+            752,
+            767
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The comparison rendered Pashan Napina Pashyathi at the end of the answer is unclear in the transcript and is not identified.",
+          "cue_range": [
+            766,
+            766
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host announces Sunday's open Advaita discussion with Bindoji and Monday's resumption of the Gita at 8:30 PM IST, points to replays, and mentions the book The Imaginary Door by Artemisia based on Bindoji's talks. The teacher thanks everyone and closes the room.",
+          "cue_range": [
+            768,
+            792
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-jivanmukta",
+      "label": "Jeevan Mukta",
+      "gloss": "one liberated while living in the body",
+      "cue_range": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "c-nityatripta",
+      "label": "nithyatripta",
+      "gloss": "ever-content in the Atman as fullness",
+      "cue_range": [
+        16,
+        22
+      ]
+    },
+    {
+      "id": "c-nirashraya",
+      "label": "Nirasreya",
+      "gloss": "needing no external support; the Atman alone as support",
+      "cue_range": [
+        40,
+        59
+      ]
+    },
+    {
+      "id": "c-akartritva",
+      "label": "Akarthritva",
+      "gloss": "non-doership of the Atman",
+      "cue_range": [
+        54,
+        62
+      ]
+    },
+    {
+      "id": "c-naishkarmya-siddhi",
+      "label": "Naishkarma Siddhi",
+      "gloss": "accomplishment of actionlessness as essential non-agency, not inactivity",
+      "cue_range": [
+        91,
+        100
+      ]
+    },
+    {
+      "id": "c-paramarthika",
+      "label": "paramarthika",
+      "gloss": "the level of ultimate truth",
+      "cue_range": [
+        78,
+        86
+      ]
+    },
+    {
+      "id": "c-nirashih",
+      "label": "Nirashi",
+      "gloss": "free from even subtle expectation of results",
+      "cue_range": [
+        234,
+        263
+      ]
+    },
+    {
+      "id": "c-yatachittatma",
+      "label": "Yedachittatma",
+      "gloss": "one whose mind and body-mind complex are restrained",
+      "cue_range": [
+        268,
+        309
+      ]
+    },
+    {
+      "id": "c-aparigraha",
+      "label": "Aparigraha",
+      "gloss": "non-grasping; giving up accumulation and ownership",
+      "cue_range": [
+        319,
+        322
+      ]
+    },
+    {
+      "id": "c-mamata",
+      "label": "Mamata",
+      "gloss": "the inner claim of mine",
+      "cue_range": [
+        335,
+        342
+      ]
+    },
+    {
+      "id": "c-sharira-karma",
+      "label": "Shahira Karma",
+      "gloss": "action of the body alone, for its upkeep or duty, without doership",
+      "cue_range": [
+        355,
+        422
+      ]
+    },
+    {
+      "id": "c-kilbisha",
+      "label": "Kilbisha",
+      "gloss": "sin or moral taint",
+      "cue_range": [
+        418,
+        466
+      ]
+    },
+    {
+      "id": "c-kartritva-abhimana",
+      "label": "Karthratu Abhimana",
+      "gloss": "the ego-notion of being the doer",
+      "cue_range": [
+        425,
+        427
+      ]
+    },
+    {
+      "id": "c-sakshi",
+      "label": "Sakshi",
+      "gloss": "the witnessing Atman",
+      "cue_range": [
+        452,
+        455
+      ]
+    },
+    {
+      "id": "c-buddhi",
+      "label": "buddhi",
+      "gloss": "the faculty of knowing, here identified with the Atma itself",
+      "cue_range": [
+        599,
+        722
+      ]
+    },
+    {
+      "id": "c-yajna",
+      "label": "Etnya",
+      "gloss": "offering; action as offering into Brahman",
+      "cue_range": [
+        123,
+        128
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[Recap verse 20, four stage portrait of Jeevan Mukta] --> B[Acting fully yet doing nothing, Naishkarma Siddhi]\n  B --> C[Bhashya, knower may act for world order yet does nothing]\n  C --> D[Verse 21 as bridge to the practical level]\n  D --> E[Nirashi and Yatachittatma, inner freedom]\n  D --> F[Tyakta sarva parigraha, outer freedom]\n  E --> G[Sariram kevalam karma, bodily action only]\n  F --> G\n  G --> H[No kilbisha for the witness Atman]\n  H --> I[Bhashya objection, action only for body upkeep]\n  I --> J[Q and A, knowledge burns ignorance not karma]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        128,
+        136
+      ],
+      "note": "Sanskrit bhashya passage on verse 20 is rendered unevenly by the ASR; only the teacher's English glosses are summarised."
+    },
+    {
+      "cue_range": [
+        210,
+        211
+      ],
+      "note": "Recitation of verse 21 as rendered by the ASR is garbled; Sanskrit not reconstructed."
+    },
+    {
+      "cue_range": [
+        510,
+        544
+      ],
+      "note": "Sanskrit portions of the bhashya objection and answer are garbled; only the English explanation is summarised."
+    },
+    {
+      "cue_range": [
+        640,
+        644
+      ],
+      "note": "End of Venkit's question is fragmented and partly unintelligible; not summarised in detail."
+    },
+    {
+      "cue_range": [
+        731,
+        731
+      ],
+      "note": "Stray number 233 in the transcript is unclear; not interpreted."
+    }
+  ]
+}

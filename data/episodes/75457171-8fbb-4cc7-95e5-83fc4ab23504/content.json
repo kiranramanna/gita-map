@@ -1,0 +1,53 @@
+{
+  "schema": "episode-content/v1", "guid": "75457171-8fbb-4cc7-95e5-83fc4ab23504", "title": "Ch05-10-Shrimad Bhagavad Gita",
+  "source": {"transcript": "feed", "sha256": "7c03bc7d010d306a5a57bdba05b40f0a1992424b71da10b2e6b034185c781148", "review_status": "unreviewed", "time_base": "podcast audio time"},
+  "uploader_claim": {"text": "Shrimad Bhagavad Gita Chapter 05 verses 15&16", "verified": false},
+  "summary": {"text": "The teacher limits the city-king analogy: unlike a ruler receiving revenue or losses, the all-pervading self acquires neither merit nor fault. Ignorance conceals recognition and projects an owned individual, while Atma remains unstained. Knowledge then removes the same ignorance that seemed to cover it. The sun illustrates revelation rather than production, self-luminosity rather than a second knower illuminating Brahman as an object. The concluding discussion clarifies that covering is apparent: attraction, aversion and even the admission of not knowing are already known in awareness. Attention to the content of experience obscures recognition of its ever-present knowing ground.", "cue_ranges": [[20, 298], [299, 566], [574, 664]]},
+  "segments": [
+    {"id": "s01", "heading": "Do not extend the king analogy to karmic profit", "cue_range": [20, 110], "shloka_refs": [{"ref": "BG 5.15", "basis": "uploader-claim-only"}], "blocks": [
+      {"kind": "paraphrase", "text": "A city-ruler may gain or lose through citizens' deeds, but this limit of the analogy matters. The all-pervading self receives neither moral merit nor demerit.", "cue_range": [20, 77]},
+      {"kind": "paraphrase", "text": "The second half introduces ignorance covering knowledge and deluding living beings. The teacher identifies this as a question needing explanation, not an actual stain acquired by consciousness.", "cue_range": [78, 110]}
+    ]},
+    {"id": "s02", "heading": "Misidentification appropriates the qualities of the vessel", "cue_range": [111, 225], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "Non-creation of the karmic mechanism is paired with not absorbing its residue. Clay vessels and their contents illustrate confusing a conditioned role with its underlying nature.", "cue_range": [111, 188]},
+      {"kind": "paraphrase", "text": "Beginningless ignorance is described through concealing reality and projecting individuality. Like mistaking a rope, an assumed identity acquires the agency and experience attributed to its form.", "cue_range": [189, 225]}
+    ]},
+    {"id": "s03", "heading": "The covering affects recognition, not Atma itself", "cue_range": [226, 298], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "At the transactional level, attachment and aversion cloud discrimination. At the ultimate level, self-luminous knowing remains unchanged; individuality arises through identifying with instruments.", "cue_range": [226, 260]},
+      {"kind": "paraphrase", "text": "Karmic consequence is experienced as binding where one accepts a limited separate identity. The teacher turns toward knowledge as the correction and elects not to read the commentary word by word.", "cue_range": [261, 298]}
+    ]},
+    {"id": "s04", "heading": "Knowledge removes the ignorance that seemed to veil it", "cue_range": [299, 410], "shloka_refs": [{"ref": "BG 5.16", "basis": "stated-in-transcript", "cue_range": [299, 309]}], "blocks": [
+      {"kind": "paraphrase", "text": "The next verse reverses the apparent concealment. Direct recognition of self-Brahman identity removes ignorance; practices rooted in an assumed agent cannot independently supply that correction.", "cue_range": [299, 348]},
+      {"kind": "paraphrase", "text": "Smoke over fire and fog before the sun illustrate obstructed recognition. Relinquishing identification with attraction and aversion allows the knowing nature already present to be recognized.", "cue_range": [349, 410]}
+    ]},
+    {"id": "s05", "heading": "The sun points to self-luminosity, not another object", "cue_range": [411, 500], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "The teacher develops the sun as simultaneous illumination and independence from another light. Brahman is not an external object requiring a second observer to illuminate it.", "cue_range": [411, 466]},
+      {"kind": "quote", "text": "There is no separate knower who knows Brahman as a known object.", "cue_range": [463, 463]},
+      {"kind": "paraphrase", "text": "The highest referred to is connected with the earlier indweller and sovereign. The logic joins ignorance, its removal through knowledge and recognition, without making Brahman a produced result.", "cue_range": [467, 500]}
+    ]},
+    {"id": "s06", "heading": "Revelation does not create what is revealed", "cue_range": [501, 566], "shloka_refs": [], "blocks": [
+      {"kind": "quote", "text": "The sun does not create the objects, it reveals them.", "cue_range": [506, 506]},
+      {"kind": "paraphrase", "text": "The sun reveals what was already present without becoming each object. Self-knowledge similarly reveals the already-present nature rather than constructing Brahman.", "cue_range": [501, 529]},
+      {"kind": "paraphrase", "text": "Mahavakya references and the final recap return to recognition of the self-luminous ground. The following verse's synthesis is explicitly left for tomorrow.", "cue_range": [530, 566]}
+    ]},
+    {"id": "s07", "heading": "Even ignorance is known within awareness", "cue_range": [567, 685], "shloka_refs": [], "blocks": [
+      {"kind": "paraphrase", "text": "A participant distinguishes literal covering from apparent covering in the mind. The teacher agrees and redirects attention from attraction and aversion as contents to the knowing in which they appear.", "cue_range": [574, 619]},
+      {"kind": "paraphrase", "text": "The light analogy supports the point that experience requires awareness already present. Even admitting ignorance is a known experience; knowledge is not bounded by the particular content being noticed.", "cue_range": [620, 664]}
+    ]}
+  ],
+  "concepts": [
+    {"id": "c-vibhu", "label": "Vibhu", "gloss": "The all-pervading self not stained by merit or fault.", "cue_range": [56, 77]},
+    {"id": "c-avarana", "label": "Avarana", "gloss": "Concealing recognition together with the projection of individuality.", "cue_range": [211, 225]},
+    {"id": "c-aparoksha-anubhava", "label": "Aparoksha", "gloss": "Immediate self-recognition distinguished from mediated knowing.", "cue_range": [325, 337]},
+    {"id": "c-tatparam", "label": "Tatparam", "gloss": "The supreme recognized as Brahman rather than an external object.", "cue_range": [464, 484]},
+    {"id": "c-atmajyoti", "label": "Atmajodi", "gloss": "The light of self-knowing emphasized in the closing exchange.", "cue_range": [650, 664]}
+  ],
+  "diagram": {"mermaid": "flowchart TD\n A[Self acquires neither merit nor fault] --> B[Ignorance conceals and projects individuality]\n B --> C[Apparent covering affects recognition]\n C --> D[Knowledge removes ignorance]\n D --> E[Sun illustrates self-luminosity]\n E --> F[Brahman revealed rather than produced]\n F --> G[Known contents need not obscure knowing]\n G --> H[Even not knowing is already known]"},
+  "gaps": [
+    {"cue_range": [19, 20], "note": "Invocation incomplete."},
+    {"cue_range": [211, 218], "note": "ASR labels the concealing/projecting pair inconsistently; no invented Sanskrit correction quoted."},
+    {"cue_range": [357, 362], "note": "A smoke/fire clause appears reversed; the surrounding repeated removal analogy supports only the broader paraphrase."},
+    {"cue_range": [418, 423], "note": "Upanishadic passage numbering and Sanskrit are unreliable; no normalized reference supplied."},
+    {"cue_range": [524, 529], "note": "Scriptural attribution varies within the discussion; the illumination claim is summarized without verifying an external citation."}
+  ]
+}

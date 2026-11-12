@@ -1,0 +1,878 @@
+{
+  "schema": "episode-content/v1",
+  "guid": "6ef296d1-4161-415b-a93c-a5c07938e04f",
+  "title": "Ch04-04-Shrimad Bhagavad Gita",
+  "source": {
+    "transcript": "feed",
+    "sha256": "48873f6d59877a211933222b9f38a055596cbd64fb2c28828ff345837ee1a518",
+    "review_status": "unreviewed",
+    "time_base": "podcast audio time"
+  },
+  "uploader_claim": {
+    "text": "Shrimad Bhagavad Gita Chapter 04 verse 7",
+    "verified": false
+  },
+  "summary": {
+    "text": "After recapping Arjuna's doubt and Krishna's answer that the unborn Ishwara appears through Atma Maya, the teacher takes up 4.7, placing 4.6 to 4.8 together as the Gita's avatara section. Yada yada marks a fixed, recurring link: when Dharma glani (gradual waning, not destruction) meets the rise of adharma, Ishwara projects himself. Following Shankaracharya, both are read empirically and at the Paramarthika level, where the decline is the covering of Self-knowledge by avidya and adhyasa. Atmanam srijami means the Self projecting itself, as vivarta, without change. The present tense makes every dispelling of ignorance, and every teacher, a micro avatara. Questions then explore excess in nature, eternal order and pralaya, and why we cannot ask why from inside the system.",
+    "cue_ranges": [
+      [
+        24,
+        105
+      ],
+      [
+        125,
+        236
+      ],
+      [
+        265,
+        362
+      ],
+      [
+        404,
+        453
+      ],
+      [
+        505,
+        553
+      ],
+      [
+        563,
+        869
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "id": "s01",
+      "heading": "Host introduction and invocation",
+      "cue_range": [
+        1,
+        23
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host welcomes listeners to the Advaita Vedanta satsang, notes the series is on chapter 4 of the Gita, and points to replays on Clubhouse, the Advaita Retold YouTube channel and podcast platforms, plus a related book. Chat and hand raising are closed during the roughly hour-long talk and reopened afterwards for questions.",
+          "cue_range": [
+            1,
+            20
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The book title and author name are rendered unclearly by the transcript (an author name and a title about a door), so they are not identified here.",
+          "cue_range": [
+            11,
+            14
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher thanks the host and recites a brief invocation before starting.",
+          "cue_range": [
+            21,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "heading": "Recap: Arjuna's doubt and the unborn Lord's birth",
+      "cue_range": [
+        24,
+        64
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Arjuna doubted how Krishna, born in his own time, could have taught this yoga to the sun god at the start of creation. Krishna replied that both have had many births; he remembers them all while Arjuna does not.",
+          "cue_range": [
+            24,
+            42
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The previous week ended with Krishna's claim that, though unborn, free of decay and Ishwara of all created beings, he takes form by resting on his own nature and using Atma Maya, his power of Maya, to create an appearance.",
+          "cue_range": [
+            43,
+            64
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Sanskrit recitations of Arjuna's question and Krishna's replies are heavily mis-transcribed, and this recap does not give their verse numbers; they are not reconstructed here.",
+          "cue_range": [
+            28,
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "heading": "Word meaning of 4.7 and the avatara section",
+      "cue_range": [
+        65,
+        124
+      ],
+      "shloka_refs": [
+        {
+          "ref": "BG 4.7",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            101,
+            107
+          ]
+        },
+        {
+          "ref": "BG 4.6",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            92,
+            103
+          ]
+        },
+        {
+          "ref": "BG 4.8",
+          "basis": "stated-in-transcript",
+          "cue_range": [
+            100,
+            105
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The next two verses are to be studied together. Word by word: doubled yada means whenever; glani is decline of Dharma; abhyutthanam is the rise of adharma, the two happening together as one waxes when the other wanes; srijami can mean release, emit, project or create, and here is taken as I project myself.",
+          "cue_range": [
+            65,
+            91
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Verse 4.6 gave the ontology of an avatara, the birthless Lord appearing through Atma Maya. Verse 4.7 gives the occasion, and 4.8 the purpose, so 4.6 to 4.8 forms the complete avatara prakarana.",
+          "cue_range": [
+            92,
+            105
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Citing Sankaracharya, the verse works on two levels. Vyavaharically it is the familiar account of Dharma declining and Ishwara returning to restore it. At the paramarthika level it is avidya hiding Self-knowledge and Ishwara forever answering as a nitya guru who re-reveals the truth. The first is not dismissed, but the second must never be lost.",
+          "cue_range": [
+            106,
+            118
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The deepest Dharma that declines is the knowledge of the Self Atman,",
+          "cue_range": [
+            119,
+            120
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Correspondingly, what rises is avidya and its offshoots such as kama, krodha and lobha, and the truest avatara is the inner Self disclosing itself through the guru lineage and the shastra, removing avidya and establishing vidya.",
+          "cue_range": [
+            120,
+            124
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "heading": "Shankaracharya on yada yada and the meaning of glani",
+      "cue_range": [
+        125,
+        184
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya takes the doubled yada as asserting that the link between Dharma's decline and avatara is necessary, not accidental: a nitya sambandha built into Ishwara's governance, an eternal law of protecting Dharma rather than an ad hoc divine intervention. Those with viveka already see this.",
+          "cue_range": [
+            125,
+            140
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Glani means progressive exhaustion, like a lamp running low on oil or a river drying up, and is more exact than nasha (destruction) or kshaya (decay). Dharma never vanishes outright, otherwise no world would remain to protect; avatara intervenes at this weakened stage.",
+          "cue_range": [
+            141,
+            165
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Two modes of glani are distinguished: external, the weakening of varnashrama duties and social order, and internal, the loss of the Self-knowledge handed down from Vivasvan, Manu and Ikshvaku through the royal sages. For Shankaracharya the inner one, when parampara breaks and avidya spreads, is the deeper glani.",
+          "cue_range": [
+            165,
+            179
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The Gita itself, given by Krishna to Arjuna at the moment Arjuna lost sight of his Dharma in despair, is presented as the living enactment of this verse.",
+          "cue_range": [
+            180,
+            184
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "heading": "Rise of adharma as adhyasa; vichara restores",
+      "cue_range": [
+        185,
+        257
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Abhyutthanam adharmasya is the flourishing of adharma, inversely tied to Dharma's waning, and avatara reverses it. Outwardly it is social disorder, mixing of varnas, neglect of ashrama duties, and violence, desire and greed. Inwardly it is the rise of avidya, kama and karma, and ultimately adhyasa: superimposing anatman on Atman, asat on sat.",
+          "cue_range": [
+            185,
+            210
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "When that superimposition becomes the cultural norm, the covering grows so thick that Self-knowledge can be neither taught nor received; there is no teacher able to help and no student to hear. That is what calls for avatara.",
+          "cue_range": [
+            211,
+            217
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Ignorant does not attack knowledge because they are opposed to each other.",
+          "cue_range": [
+            226,
+            227
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Rather, ignorance fills the space vacated when vichara is absent. Neglecting shravana, manana and nididhyasana lets Self-knowledge wane; teacher and student together reclaim it through that same practice of vichara.",
+          "cue_range": [
+            228,
+            236
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "So the verse is not merely theological. Growing interest in Self-enquiry, discussions, teachers and satsangs are themselves forms of Parameswara's restoration; he need not appear as Krishna or Rama, since all creation is him. There has never been an age without some master, in India or elsewhere.",
+          "cue_range": [
+            237,
+            257
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "heading": "Atmanam srijami: the Self projects itself",
+      "cue_range": [
+        258,
+        362
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The yada and tada pairing sets condition and consequence, with tada opening the second line. In atmanam srijami the subject and the object are the same I, so the phrase is self-referential.",
+          "cue_range": [
+            258,
+            269
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The creator and the created are identical.",
+          "cue_range": [
+            270,
+            272
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Srij literally means to release, as an arrow or a river into the sea, and by extension to project or create the world. In Advaita it is projection as vivarta, like silver seen in nacre or a snake in a rope. It is not karomi (I make) or bhavami (I become): Brahman appears as the world without real change, nirguna and saguna being one.",
+          "cue_range": [
+            275,
+            304
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya reads atmanam as the Self itself, not a body entered by God, contrasting Advaita with Sankhya and Vaisheshika, where God makes a world separate from himself. The senses deliver the truth, but the mind grasps only name and form; a disciplined intellect can discern the sat and chit aspect, for all is Brahman.",
+          "cue_range": [
+            305,
+            340
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya ties srijami to the Aitareya Upanishad's opening, where the Atman alone existed and resolved to project the worlds: same verb, same agent. Avatara is thus a small-scale replay of that first creation, and the Aham speaking is the Aham of Aham Brahmasmi, not the historical warrior.",
+          "cue_range": [
+            341,
+            362
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The Upanishadic Sanskrit cited here is badly garbled in the transcript, so the exact passage wording is not reproduced.",
+          "cue_range": [
+            342,
+            350
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "heading": "Collective avarana, vikshepa and the micro avatara",
+      "cue_range": [
+        363,
+        424
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Reading the verse as one sentence: the two conditions mirror each other, like light fading as darkness grows, and the single response is always one and the same: the eternal Self revealing itself.",
+          "cue_range": [
+            363,
+            377
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "At its deepest, Dharma glani is a collective avarana: Maya's veiling working across a whole civilisation, when taking the body for the Self is accepted by most and kama and krodha become final values. The social disorder Arjuna listed in chapter 1 is only the symptom.",
+          "cue_range": [
+            378,
+            391
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The rise of adharma corresponds to vikshepa, the projecting power that drives the jiva into attachment, pride of doership and bondage to action. When the false is not only covering but celebrated as truth, the Self must disclose itself.",
+          "cue_range": [
+            392,
+            404
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Hence every genuine moment of Self-realisation in a seeker, knowing oneself as witness rather than body, mind or intellect, is a micro avatara. Krishna's avatara is the visible, cosmic form of what happens whenever nyana dispels avidya in one jiva, so the verse concerns each of us, not Krishna alone.",
+          "cue_range": [
+            404,
+            424
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "heading": "Present tense, Arjuna's crisis and the nitya guru",
+      "cue_range": [
+        425,
+        489
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Sambhavami in the sixth verse and srijami here are both present tense, signalling timeless recurrence: not a single appearance at the Mahabharata war but whenever the condition arises in any jiva. Each moment we forget ourselves, experience reminds us that we are the awareness behind it.",
+          "cue_range": [
+            425,
+            448
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "A short phrase in cue 447 is unintelligible in the transcript and is not interpreted.",
+          "cue_range": [
+            446,
+            447
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Addressing Arjuna as Bharata, heir of a dharmic lineage, makes him a participant in the occasion. Krishna had long been with him but taught only when Arjuna's collapse of viveka, refusing to fight, supplied the trigger, so Krishna took up the nitya guru role.",
+          "cue_range": [
+            449,
+            476
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Every genuine student's crisis of ignorance is an occasion for Ishwara's Atmanam Srijani.",
+          "cue_range": [
+            477,
+            478
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The next verse will finish the avatara section by naming the fourfold purpose, protecting the good, destroying wrongdoers and establishing Dharma.",
+          "cue_range": [
+            481,
+            489
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "heading": "Shankaracharya's gloss: Dharma for prosperity and liberation",
+      "cue_range": [
+        490,
+        557
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Shankaracharya's comment on this verse is a single sentence: Dharma, marked by varna and ashrama, is the means to living beings' abhyudaya and nihshreyasa; when it declines and adharma rises, the Lord manifests through his Maya.",
+          "cue_range": [
+            490,
+            504
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Varna is social role and ashrama stage of life; together they support ethical and spiritual life. Abhyudaya is worldly well-being and order; nihshreyasa is moksha. Glani means corruption, confusion, abandoned duties and lost spiritual values, letting adharma dominate. The Lord does not truly take birth but appears through Maya, an intentional, compassionate, teaching act.",
+          "cue_range": [
+            505,
+            526
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Social stability serves spiritual knowledge, so varnashrama ultimately supports moksha. Teachings like the Gita periodically reappear and spiritual teachers broadly play the avatara role; wherever wisdom arises, Dharma is restored.",
+          "cue_range": [
+            527,
+            545
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The real battle is against ignorance.",
+          "cue_range": [
+            546,
+            546
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Since adharma springs from ignorance of the Self, restoring Dharma finally means restoring knowledge. The purpose verse is recited and deferred to the next class.",
+          "cue_range": [
+            547,
+            557
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "heading": "Q&A: is avatara limited to human society?",
+      "cue_range": [
+        558,
+        667
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The host opens questions. A participant suggests nature balances itself and only human societies lose order, so is avatara confined to them?",
+          "cue_range": [
+            558,
+            573
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher says it is mainly about humans but applies wherever excess occurs: nature answers with earthquakes or drought, which are Brahman appearing in that form, and species vanish when they cannot withstand decline. Humans eliminated India's cheetahs through greed and are the real losers; parasitic plants that overwhelm their host perish too.",
+          "cue_range": [
+            574,
+            637
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host adds an example of Australian bush fires: pioneer species keep buds below ground, settlers and invasive species follow and pile up biomass, fire razes all, and the pioneers regrow, repeating the cycle.",
+          "cue_range": [
+            638,
+            664
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "Once you understand it, the fire is not just simply a destructive form, it's a reset.",
+          "cue_range": [
+            665,
+            666
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "heading": "Q&A: eternal order, pralaya and practising knowledge",
+      "cue_range": [
+        668,
+        743
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "Asked whether it is an eternal or a temporary order that declines, the teacher says the eternal order seen from afar stays, while up close temporary orders decline and renew. Wherever there is excess, decline follows at micro and macro scale; even the eternal order lasts only while order is kept, as the Puranic pralaya and mahapralaya resets show.",
+          "cue_range": [
+            668,
+            704
+          ]
+        },
+        {
+          "kind": "inferred",
+          "text": "The pralaya reset here parallels the host's forest-fire reset image just before; the speakers do not explicitly link the two.",
+          "cue_range": [
+            701,
+            704
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Asked whether srijami means a visible avatar for the masses, the teacher notes that Arjuna's teaching benefited later generations; those on the battlefield did not hear it, and Dhritarashtra heard via Sanjaya yet could not act on it because of attachment to his sons.",
+          "cue_range": [
+            705,
+            724
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "The knowledge has to be implemented, learnt to practice that perfected by every one of us.",
+          "cue_range": [
+            725,
+            727
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Merely listening will not save anyone; each must make the knowledge their own Dharma. Avatara is to be seen at both macro and micro levels, as every experience can serve as a nitya guru.",
+          "cue_range": [
+            727,
+            743
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The teacher says a later verse, not the next one, will address this, using a term rendered unclearly in the transcript; which verse is meant is not stated.",
+          "cue_range": [
+            732,
+            735
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "heading": "Q&A: why allow suffering? The limits of why",
+      "cue_range": [
+        744,
+        869
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "A participant observes that even one cell is immensely complex, so universal consciousness could easily transform eight billion people in a day; does it then allow pain and inefficiency deliberately, as a play?",
+          "cue_range": [
+            744,
+            779
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The teacher answers that why-questions arise only within time, space and causation, which govern waking. We never ask what causes a dream or deep sleep, yet treat waking as total reality and seek causes there.",
+          "cue_range": [
+            780,
+            813
+          ]
+        },
+        {
+          "kind": "quote",
+          "text": "We cannot ask why, when we are already inside a system",
+          "cue_range": [
+            824,
+            825
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "A pot already made of clay cannot ask why it is clay; that choice belonged to someone outside. Pressed with the image of moths circling a light, the teacher grants it may be play, but we cannot say why because we are part of it, the effect and not the cause.",
+          "cue_range": [
+            814,
+            862
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Only by standing apart as the witness beyond waking, dream and deep sleep can one see what happens in each; from inside waking the whole picture stays hidden.",
+          "cue_range": [
+            862,
+            869
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "A Sanskrit line recited around cues 863 to 864 is garbled in the transcript and is not reconstructed.",
+          "cue_range": [
+            863,
+            864
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "heading": "Q&A: incompleteness, axioms and closing",
+      "cue_range": [
+        870,
+        951
+      ],
+      "shloka_refs": [],
+      "blocks": [
+        {
+          "kind": "paraphrase",
+          "text": "The questioner links the reply to Godel's incompleteness theorems, as he recalls them: a system cannot be proved from within. The teacher agrees, adding that from inside we can know how parts of the system work but not the whole.",
+          "cue_range": [
+            870,
+            903
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "Another anecdote describes a mathematician-philosopher who could not prove his foundational axioms. The teacher notes all reasoning starts from hypotheses that are tested but never justified, and that the more we know, the less we understand.",
+          "cue_range": [
+            904,
+            934
+          ]
+        },
+        {
+          "kind": "unresolved",
+          "text": "The mathematician in the anecdote is named unclearly in the transcript, and the anecdote itself is a participant's recollection that is not verified here.",
+          "cue_range": [
+            905,
+            916
+          ]
+        },
+        {
+          "kind": "paraphrase",
+          "text": "The host thanks everyone, repeats where replays are available and announces the next session; the teacher thanks the questioners and closes.",
+          "cue_range": [
+            935,
+            951
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-avatara",
+      "label": "Avatara",
+      "gloss": "self-manifestation of the birthless Lord through Atma Maya",
+      "cue_range": [
+        92,
+        94
+      ]
+    },
+    {
+      "id": "c-atma-maya",
+      "label": "Atma Maya",
+      "gloss": "the Lord's own power of Maya by which he appears",
+      "cue_range": [
+        61,
+        63
+      ]
+    },
+    {
+      "id": "c-glani",
+      "label": "Glani",
+      "gloss": "gradual waning of Dharma, not its destruction",
+      "cue_range": [
+        150,
+        159
+      ]
+    },
+    {
+      "id": "c-abhyutthana",
+      "label": "Abhyudhana",
+      "gloss": "rising or ascendancy of adharma as Dharma wanes",
+      "cue_range": [
+        187,
+        190
+      ]
+    },
+    {
+      "id": "c-nitya-guru",
+      "label": "nitya guru",
+      "gloss": "Ishwara as the ever-present teacher who re-reveals Self-knowledge",
+      "cue_range": [
+        113,
+        116
+      ]
+    },
+    {
+      "id": "c-avidya",
+      "label": "avidya",
+      "gloss": "ignorance that conceals knowledge of the Self",
+      "cue_range": [
+        113,
+        124
+      ]
+    },
+    {
+      "id": "c-adhyasa",
+      "label": "Adhyasa",
+      "gloss": "superimposition of the non-Self on the Self",
+      "cue_range": [
+        208,
+        210
+      ]
+    },
+    {
+      "id": "c-vichara",
+      "label": "Vichara",
+      "gloss": "enquiry through shravana, manana and nididhyasana",
+      "cue_range": [
+        228,
+        236
+      ]
+    },
+    {
+      "id": "c-srijami",
+      "label": "Srijami",
+      "gloss": "I release or project, here the Self projecting itself",
+      "cue_range": [
+        287,
+        291
+      ]
+    },
+    {
+      "id": "c-vivarta",
+      "label": "Vivarta",
+      "gloss": "apparent projection without real transformation",
+      "cue_range": [
+        284,
+        300
+      ]
+    },
+    {
+      "id": "c-avarana",
+      "label": "avarana",
+      "gloss": "the veiling power of ignorance, here at a collective level",
+      "cue_range": [
+        379,
+        391
+      ]
+    },
+    {
+      "id": "c-vikshepa",
+      "label": "Vikshapasakti",
+      "gloss": "the projecting power of ignorance that binds the jiva to objects",
+      "cue_range": [
+        392,
+        396
+      ]
+    },
+    {
+      "id": "c-paramarthika",
+      "label": "Paramarthika",
+      "gloss": "the absolute standpoint, as against the empirical",
+      "cue_range": [
+        205,
+        210
+      ]
+    },
+    {
+      "id": "c-abhyudaya",
+      "label": "Abhyudaya",
+      "gloss": "worldly prosperity and social well-being",
+      "cue_range": [
+        511,
+        515
+      ]
+    },
+    {
+      "id": "c-nihshreyasa",
+      "label": "Vishreyasa",
+      "gloss": "the highest good, liberation",
+      "cue_range": [
+        511,
+        515
+      ]
+    }
+  ],
+  "diagram": {
+    "mermaid": "flowchart TD\n  A[\"Recap: unborn Lord appears through Atma Maya\"] --> B[\"4.6 to 4.8 as one avatara section\"]\n  B --> C[\"Whenever Dharma wanes and adharma rises\"]\n  C --> D[\"Glani as gradual decline, outer and inner\"]\n  C --> E[\"Rise of adharma as avidya and adhyasa\"]\n  D --> F[\"Atmanam srijami, the Self projects itself\"]\n  E --> F\n  F --> G[\"Vivarta, creator and created identical\"]\n  F --> H[\"Present tense, timeless recurrence\"]\n  H --> I[\"Micro avatara in each seeker and teacher\"]\n  I --> J[\"Restoring Dharma means restoring knowledge\"]\n  J --> K[\"Q and A on excess, order and the limits of why\"]"
+  },
+  "gaps": [
+    {
+      "cue_range": [
+        28,
+        52
+      ],
+      "note": "Recited Sanskrit for the recapped verses is heavily mis-transcribed; only the teacher's English explanation is summarised."
+    },
+    {
+      "cue_range": [
+        342,
+        350
+      ],
+      "note": "Aitareya Upanishad citation garbled in the transcript; summarised only at the level of the teacher's explanation."
+    },
+    {
+      "cue_range": [
+        446,
+        447
+      ],
+      "note": "Short unintelligible phrase."
+    },
+    {
+      "cue_range": [
+        487,
+        504
+      ],
+      "note": "Recited Sanskrit of the next verse and of the commentary sentence is garbled; only the teacher's English rendering is summarised."
+    },
+    {
+      "cue_range": [
+        554,
+        556
+      ],
+      "note": "Recitation of the next verse, garbled; not summarised beyond noting it is deferred."
+    },
+    {
+      "cue_range": [
+        863,
+        864
+      ],
+      "note": "Garbled Sanskrit line about the witness."
+    }
+  ]
+}
