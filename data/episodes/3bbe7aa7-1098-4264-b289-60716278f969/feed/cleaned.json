@@ -1,0 +1,5041 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "3bbe7aa7-1098-4264-b289-60716278f969",
+  "source_sha256": "693f2af721a8cf6978bb2bdb97eb2f0086ce39e76e6168326cb83e8e1c9807f1",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.6,
+      "end": 2.8,
+      "text": "Namaste everyone. Welcome to Advaita Vedanta"
+    },
+    {
+      "i": 2,
+      "start": 2.8,
+      "end": 7.16,
+      "text": "Satsang. The ongoing sessions are on"
+    },
+    {
+      "i": 3,
+      "start": 7.16,
+      "end": 11.08,
+      "text": "Bhagavad Gita offered from an Advaita perspective which is"
+    },
+    {
+      "i": 4,
+      "start": 11.08,
+      "end": 15.92,
+      "text": "very meticulously you know presented by Bindoji and we are"
+    },
+    {
+      "i": 5,
+      "start": 15.92,
+      "end": 19.56,
+      "text": "on chapter 4. The replays of all the previous"
+    },
+    {
+      "i": 6,
+      "start": 19.56,
+      "end": 23.68,
+      "text": "rooms are available in clubhouse or you can go into the links"
+    },
+    {
+      "i": 7,
+      "start": 23.68,
+      "end": 26.48,
+      "text": "shared in the chat. One is Advaita Ritual YouTube"
+    },
+    {
+      "i": 8,
+      "start": 26.48,
+      "end": 30.88,
+      "text": "channel, the other is the Apple podcast and they have one third"
+    },
+    {
+      "i": 9,
+      "start": 30.88,
+      "end": 34.76,
+      "text": "one is Spotify where you can access all the earlier talks,"
+    },
+    {
+      "i": 10,
+      "start": 34.76,
+      "end": 38.16,
+      "text": "not just Bhagavad Gita but Abarakshanabudi and the"
+    },
+    {
+      "i": 11,
+      "start": 38.16,
+      "end": 43.04,
+      "text": "Upanishads, which are all very profound trabanamana tools."
+    },
+    {
+      "i": 12,
+      "start": 44.6,
+      "end": 48.0,
+      "text": "There is also a book penned by Artemisia titled Art An"
+    },
+    {
+      "i": 13,
+      "start": 48.0,
+      "end": 53.32,
+      "text": "Imaginary Door, which are all a collection of insights from"
+    },
+    {
+      "i": 14,
+      "start": 53.32,
+      "end": 55.68,
+      "text": "Vidhodi's earlier talks on Advaita."
+    },
+    {
+      "i": 15,
+      "start": 57.64,
+      "end": 61.52,
+      "text": "For housekeeping, I'll close the chat in hand raising after which"
+    },
+    {
+      "i": 16,
+      "start": 61.88,
+      "end": 64.72,
+      "text": "after Binduji completes this talk, we'll open up these"
+    },
+    {
+      "i": 17,
+      "start": 64.72,
+      "end": 68.28,
+      "text": "channels for further questions and answers."
+    },
+    {
+      "i": 18,
+      "start": 69.32,
+      "end": 71.16,
+      "text": "As always, thank you Binduji, over to you."
+    },
+    {
+      "i": 19,
+      "start": 72.96,
+      "end": 76.12,
+      "text": "Thank you, Prakash, Namaste and hurry home to all of you."
+    },
+    {
+      "i": 20,
+      "start": 77.64,
+      "end": 87.52,
+      "text": "Let me do my invocation. No Brahmadi Bo brahma vidya"
+    },
+    {
+      "i": 21,
+      "start": 87.52,
+      "end": 95.88,
+      "text": "sampradaya guru biya shruti purana na malayam guru Namami"
+    },
+    {
+      "i": 22,
+      "start": 95.88,
+      "end": 114.44,
+      "text": "bhagavat padam sankaram sankaram sankaram sankaram."
+    },
+    {
+      "i": 23,
+      "start": 121.4,
+      "end": 135.04,
+      "text": "Yam Brahma."
+    },
+    {
+      "i": 24,
+      "start": 144.64,
+      "end": 169.2,
+      "text": "Last class we discussed in detail"
+    },
+    {
+      "i": 25,
+      "start": 170.44,
+      "end": 176.0,
+      "text": "Paritrana E Sadhuna binashaya duskrutam Dharma samsa banartha"
+    },
+    {
+      "i": 26,
+      "start": 176.0,
+      "end": 178.72,
+      "text": "E Sambhavami UK, UK, the eighth verse."
+    },
+    {
+      "i": 27,
+      "start": 183.4,
+      "end": 186.76,
+      "text": "The Lord manifests in every age to protect the righteous,"
+    },
+    {
+      "i": 28,
+      "start": 188.52,
+      "end": 194.32,
+      "text": "destroy the influence of the wicked and re establish Dharma,"
+    },
+    {
+      "i": 29,
+      "start": 195.64,
+      "end": 200.04,
+      "text": "thereby restoring the conditions necessary for both worldly order"
+    },
+    {
+      "i": 30,
+      "start": 200.04,
+      "end": 209.08,
+      "text": "and the spiritual liberation. Now having explained His nature"
+    },
+    {
+      "i": 31,
+      "start": 209.08,
+      "end": 217.0,
+      "text": "of Yada yada Hidaramasya and then Paritranaya were the"
+    },
+    {
+      "i": 32,
+      "start": 217.0,
+      "end": 223.2,
+      "text": "Avatara Pragrana or the nature of Avatara, the appearance of"
+    },
+    {
+      "i": 33,
+      "start": 224.96,
+      "end": 231.04,
+      "text": "Brahman as Ishwara Parameshwara has been explained."
+    },
+    {
+      "i": 34,
+      "start": 233.08,
+      "end": 239.96,
+      "text": "Now the next verse is the ninth verse, which is almost like a"
+    },
+    {
+      "i": 35,
+      "start": 240.12,
+      "end": 247.8,
+      "text": "halasrudhi or a root root of the knowing of these two verses of"
+    },
+    {
+      "i": 36,
+      "start": 247.8,
+      "end": 252.84,
+      "text": "seven and eight and some sort of a culmination to the Avatar."
+    },
+    {
+      "i": 37,
+      "start": 252.84,
+      "end": 261.24,
+      "text": "Pragrana janma karmacha main dhivyam ewam yo vetti tatvah"
+    },
+    {
+      "i": 38,
+      "start": 262.36,
+      "end": 274.04,
+      "text": "ektwa dehum punar janma na ETI maam ETI Saha arjunah janma"
+    },
+    {
+      "i": 39,
+      "start": 274.04,
+      "end": 287.44,
+      "text": "karmacha birth and action cha is the conjunction for an janma cha"
+    },
+    {
+      "i": 40,
+      "start": 287.52,
+      "end": 290.68,
+      "text": "karma. He will be in how it will be in"
+    },
+    {
+      "i": 41,
+      "start": 290.68,
+      "end": 302.88,
+      "text": "English Earth and action May divyam May is for my Divyam is"
+    },
+    {
+      "i": 42,
+      "start": 303.2,
+      "end": 308.8,
+      "text": "transcendent or luminous or divine is a adjective."
+    },
+    {
+      "i": 43,
+      "start": 312.08,
+      "end": 321.6,
+      "text": "So both janma and karma are divine appearances of mine."
+    },
+    {
+      "i": 44,
+      "start": 322.64,
+      "end": 330.12,
+      "text": "I am appearing as both karma and janma through my divinity."
+    },
+    {
+      "i": 45,
+      "start": 332.84,
+      "end": 338.28,
+      "text": "That is the name the word Krishna is telling Arjuna."
+    },
+    {
+      "i": 46,
+      "start": 340.48,
+      "end": 348.44,
+      "text": "Don't think that the Janma and Karma are insuffignician."
+    },
+    {
+      "i": 47,
+      "start": 348.44,
+      "end": 354.8,
+      "text": "Things are not important. They are divine in nature"
+    },
+    {
+      "i": 48,
+      "start": 354.8,
+      "end": 359.44,
+      "text": "because they come from me or therefore it is mine."
+    },
+    {
+      "i": 49,
+      "start": 362.0,
+      "end": 374.76,
+      "text": "Abam in this manner Yavati, one who knows or understands, in"
+    },
+    {
+      "i": 50,
+      "start": 374.76,
+      "end": 380.44,
+      "text": "accordance with reality or truly or as real truth, what it is."
+    },
+    {
+      "i": 51,
+      "start": 385.96,
+      "end": 392.76,
+      "text": "Ektwa deham unar janma. Nayeti, when having abandoned"
+    },
+    {
+      "i": 52,
+      "start": 392.76,
+      "end": 402.76,
+      "text": "the body or the association with the body, unar janma means"
+    },
+    {
+      "i": 53,
+      "start": 402.84,
+      "end": 412.2,
+      "text": "rebirth, Nayeti means does not attain mam ET Saha."
+    },
+    {
+      "i": 54,
+      "start": 413.92,
+      "end": 418.44,
+      "text": "Saha means he that one who knows me in the tattvadaha, in that"
+    },
+    {
+      "i": 55,
+      "start": 418.48,
+      "end": 426.92,
+      "text": "reality Mam ETI, he reaches me, he attains me, or he goes to me,"
+    },
+    {
+      "i": 56,
+      "start": 428.0,
+      "end": 436.92,
+      "text": "O Arjuna. So the connection to the 5th and"
+    },
+    {
+      "i": 57,
+      "start": 437.24,
+      "end": 441.64,
+      "text": "5th to 8th, the avatara pragana is established."
+    },
+    {
+      "i": 58,
+      "start": 441.64,
+      "end": 447.28,
+      "text": "What is the avatara in fourth, sixth verse and when it occurs"
+    },
+    {
+      "i": 59,
+      "start": 447.28,
+      "end": 450.24,
+      "text": "in the 7th 1 and why it occurs in the eighth one?"
+    },
+    {
+      "i": 60,
+      "start": 451.4,
+      "end": 459.84,
+      "text": "The verse 9th which we just read now performs the closure of"
+    },
+    {
+      "i": 61,
+      "start": 459.84,
+      "end": 465.64,
+      "text": "Moksha or Kaivalya, announcing the fruit of knowing the Avatara"
+    },
+    {
+      "i": 62,
+      "start": 465.64,
+      "end": 472.92,
+      "text": "truth or Palasruti with tatvatnyana, Tatvataha,"
+    },
+    {
+      "i": 63,
+      "start": 473.52,
+      "end": 478.16,
+      "text": "tatvatnyana, the knowledge of the Real as it truly is."
+    },
+    {
+      "i": 64,
+      "start": 482.16,
+      "end": 487.0,
+      "text": "It is the Prakarana's own Palasruti, the Avadhara"
+    },
+    {
+      "i": 65,
+      "start": 487.0,
+      "end": 491.4,
+      "text": "Pragranas, philosophy, the culminating statement that"
+    },
+    {
+      "i": 66,
+      "start": 491.4,
+      "end": 495.12,
+      "text": "reveals what the teaching is ultimately for."
+    },
+    {
+      "i": 67,
+      "start": 502.22,
+      "end": 511.02,
+      "text": "Among the philosophically concentrated verse in the Gita,"
+    },
+    {
+      "i": 68,
+      "start": 512.98,
+      "end": 518.919,
+      "text": "this has been This verse has accomplished in 2 lines."
+    },
+    {
+      "i": 69,
+      "start": 519.24,
+      "end": 524.4,
+      "text": "The entire purpose or what is the fruit of this thing"
+    },
+    {
+      "i": 70,
+      "start": 525.48,
+      "end": 528.24,
+      "text": "specifies the object of liberating knowledge."
+    },
+    {
+      "i": 71,
+      "start": 528.24,
+      "end": 530.12,
+      "text": "What is the liberating knowledge?"
+    },
+    {
+      "i": 72,
+      "start": 532.44,
+      "end": 539.24,
+      "text": "Yam yavetti, One who knows is what the word is that What is"
+    },
+    {
+      "i": 73,
+      "start": 539.24,
+      "end": 545.56,
+      "text": "the knowledge? Janma karmacha me Divya, the"
+    },
+    {
+      "i": 74,
+      "start": 545.56,
+      "end": 552.56,
+      "text": "birth and the action of the Avatara should be known it as"
+    },
+    {
+      "i": 75,
+      "start": 552.56,
+      "end": 560.04,
+      "text": "jivya #2. It specifies the mode of"
+    },
+    {
+      "i": 76,
+      "start": 560.04,
+      "end": 569.36,
+      "text": "liberating knowledge. One who knows this in accordance"
+    },
+    {
+      "i": 77,
+      "start": 569.36,
+      "end": 577.92,
+      "text": "with the reality na Puna Janma no rebirth maam eti attains me."
+    },
+    {
+      "i": 78,
+      "start": 580.96,
+      "end": 586.56,
+      "text": "This verse is also a bridge between the Avatar Pragrana and"
+    },
+    {
+      "i": 79,
+      "start": 586.56,
+      "end": 593.64,
+      "text": "the Karma Yoga Nyana teaching that follows till the end of"
+    },
+    {
+      "i": 80,
+      "start": 593.64,
+      "end": 596.6,
+      "text": "this chapter. That is, from the 10th, 10th"
+    },
+    {
+      "i": 81,
+      "start": 596.6,
+      "end": 605.2,
+      "text": "verse till the 43rd verse, what is going to be taught by Krishna"
+    },
+    {
+      "i": 82,
+      "start": 607.36,
+      "end": 611.44,
+      "text": "This verse is the bridging between the two."
+    },
+    {
+      "i": 83,
+      "start": 617.1,
+      "end": 624.26,
+      "text": "So knowing me thus yam yo veti tatva Taha is precisely that"
+    },
+    {
+      "i": 84,
+      "start": 624.26,
+      "end": 630.94,
+      "text": "Nyana whose nature, power and supremacy is being described in"
+    },
+    {
+      "i": 85,
+      "start": 630.94,
+      "end": 641.28,
+      "text": "the rest of the chapter 4. So janma karmacha main divyam."
+    },
+    {
+      "i": 86,
+      "start": 641.32,
+      "end": 645.76,
+      "text": "When Krishna says that my birth and action are divyam, Divyam"
+    },
+    {
+      "i": 87,
+      "start": 645.76,
+      "end": 653.72,
+      "text": "means divyam is an adjective here."
+    },
+    {
+      "i": 88,
+      "start": 653.76,
+      "end": 659.32,
+      "text": "Though it qualifies 2 nouns Janma and Karma, both of them"
+    },
+    {
+      "i": 89,
+      "start": 659.32,
+      "end": 667.24,
+      "text": "are divyam but together they constitute a single divinity and"
+    },
+    {
+      "i": 90,
+      "start": 667.24,
+      "end": 672.92,
+      "text": "that reality. So pairing of Janma and Karma as"
+    },
+    {
+      "i": 91,
+      "start": 674.16,
+      "end": 680.32,
+      "text": "together as Divyam is primary the philosophical targets of"
+    },
+    {
+      "i": 92,
+      "start": 680.72,
+      "end": 683.72,
+      "text": "this first quarter of this verse."
+    },
+    {
+      "i": 93,
+      "start": 687.32,
+      "end": 695.56,
+      "text": "It has got a deliberate echoing from the 4.6 Ajobisan Sambhavami"
+    },
+    {
+      "i": 94,
+      "start": 695.56,
+      "end": 699.04,
+      "text": "etcetera. Also from 7:00 and 8:00,"
+    },
+    {
+      "i": 95,
+      "start": 699.52,
+      "end": 707.44,
+      "text": "Surajami Sambhavami, which we studied the last few days, the"
+    },
+    {
+      "i": 96,
+      "start": 707.44,
+      "end": 713.72,
+      "text": "Janma, the birth and the karma, the action, the cosmic actions"
+    },
+    {
+      "i": 97,
+      "start": 713.72,
+      "end": 722.84,
+      "text": "of Paritrana Vinasha and Samsabana Dharma, Samsabana of"
+    },
+    {
+      "i": 98,
+      "start": 722.84,
+      "end": 731.56,
+      "text": "Parameshwara are not of the same order as that of a Jiva, Jiva,"
+    },
+    {
+      "i": 99,
+      "start": 731.56,
+      "end": 736.44,
+      "text": "Janma or Jivakarma. They are not divine."
+    },
+    {
+      "i": 100,
+      "start": 737.96,
+      "end": 750.24,
+      "text": "Whereas that of Parameshwara the action and Janma Mama Maya using"
+    },
+    {
+      "i": 101,
+      "start": 750.24,
+      "end": 756.56,
+      "text": "his own Maya when he projects himself, that is divine."
+    },
+    {
+      "i": 102,
+      "start": 760.0,
+      "end": 766.12,
+      "text": "While Jeeva Janma arises from avidya kamakarma, compulsions,"
+    },
+    {
+      "i": 103,
+      "start": 766.12,
+      "end": 772.68,
+      "text": "samskara, karma Banda etcetera, Parameswara's Nya Janma arises"
+    },
+    {
+      "i": 104,
+      "start": 772.68,
+      "end": 779.04,
+      "text": "from Atma Maya, sovereign, free and Avaya."
+    },
+    {
+      "i": 105,
+      "start": 779.8,
+      "end": 785.48,
+      "text": "It is independent. It is not due to any fruits of"
+    },
+    {
+      "i": 106,
+      "start": 785.48,
+      "end": 789.0,
+      "text": "action or anything like that, which is the case with the Jan"
+    },
+    {
+      "i": 107,
+      "start": 789.0,
+      "end": 794.2,
+      "text": "Jiva Janma. Similarly, the Jiva karma"
+    },
+    {
+      "i": 108,
+      "start": 795.4,
+      "end": 799.96,
+      "text": "produces karma Banda. What are the karma bandas?"
+    },
+    {
+      "i": 109,
+      "start": 800.08,
+      "end": 807.28,
+      "text": "Punya and Papa, the boons and this sins that bind through the"
+    },
+    {
+      "i": 110,
+      "start": 808.0,
+      "end": 810.16,
+      "text": "sanjita. Agami, prarabdha."
+    },
+    {
+      "i": 111,
+      "start": 812.6,
+      "end": 816.4,
+      "text": "Sanjita means accumulated. Agami means what is yet to"
+    },
+    {
+      "i": 112,
+      "start": 816.4,
+      "end": 819.88,
+      "text": "factify. Prarabdha is what is currently"
+    },
+    {
+      "i": 113,
+      "start": 819.88,
+      "end": 828.08,
+      "text": "being enforced on the jiva. So Parameswara's karma produces"
+    },
+    {
+      "i": 114,
+      "start": 828.08,
+      "end": 835.36,
+      "text": "no such Banda, no such bondage, namam karmani limpani."
+    },
+    {
+      "i": 115,
+      "start": 835.48,
+      "end": 840.72,
+      "text": "In the 14th verse Krishna will tell that because he is eternal,"
+    },
+    {
+      "i": 116,
+      "start": 843.12,
+      "end": 850.48,
+      "text": "he is a Nakarta non doer, He has no doership and he is a Sakshi"
+    },
+    {
+      "i": 117,
+      "start": 852.2,
+      "end": 861.64,
+      "text": "acting through Atma Maya using his own power of wailing."
+    },
+    {
+      "i": 118,
+      "start": 863.8,
+      "end": 868.24,
+      "text": "Without Kartratta Avimana there is no doership in him."
+    },
+    {
+      "i": 119,
+      "start": 873.36,
+      "end": 878.36,
+      "text": "The qualifier DM thus does the philosophical work of asserting"
+    },
+    {
+      "i": 120,
+      "start": 878.36,
+      "end": 882.52,
+      "text": "the categorical difference between the Ichira's birth and"
+    },
+    {
+      "i": 121,
+      "start": 882.52,
+      "end": 887.84,
+      "text": "action and all Samsariga birth and action of the Jiva."
+    },
+    {
+      "i": 122,
+      "start": 891.76,
+      "end": 897.92,
+      "text": "To know Janmakarma as Devyam is to know them as they truly are."
+    },
+    {
+      "i": 123,
+      "start": 898.56,
+      "end": 904.12,
+      "text": "What are they not? Through the lenses of Pratyaksha"
+    },
+    {
+      "i": 124,
+      "start": 905.72,
+      "end": 910.0,
+      "text": "which sees only the historical human appearing forms of form of"
+    },
+    {
+      "i": 125,
+      "start": 910.0,
+      "end": 916.76,
+      "text": "the Ishwara as Krishna, but through the Atmatnayana that"
+    },
+    {
+      "i": 126,
+      "start": 916.8,
+      "end": 921.24,
+      "text": "perceives the birthless Chaitanya expressing itself"
+    },
+    {
+      "i": 127,
+      "start": 921.24,
+      "end": 927.36,
+      "text": "through Maya for an independent purpose of Haritrana, S Arudham,"
+    },
+    {
+      "i": 128,
+      "start": 927.36,
+      "end": 930.44,
+      "text": "Vinasahi, Chadushkruta, Dharmasmstab and Arthaya."
+    },
+    {
+      "i": 129,
+      "start": 935.56,
+      "end": 939.32,
+      "text": "Now the word Krishna uses is tattvataha which is a very"
+    },
+    {
+      "i": 130,
+      "start": 940.56,
+      "end": 947.88,
+      "text": "pregnant word and Shankaracharya leaves no stone unturned in"
+    },
+    {
+      "i": 131,
+      "start": 948.64,
+      "end": 953.76,
+      "text": "bringing this word into a true advaitic format."
+    },
+    {
+      "i": 132,
+      "start": 957.44,
+      "end": 966.12,
+      "text": "The real Tatutaha meaning is thatness or as suchness, if I"
+    },
+    {
+      "i": 133,
+      "start": 966.12,
+      "end": 971.04,
+      "text": "can use such a word, the truth as suchness or the truth"
+    },
+    {
+      "i": 134,
+      "start": 971.04,
+      "end": 976.96,
+      "text": "thatness, that as it is the essential nature of the reality,"
+    },
+    {
+      "i": 135,
+      "start": 978.4,
+      "end": 983.6,
+      "text": "that is tattuta. In Advaida tattua means"
+    },
+    {
+      "i": 136,
+      "start": 984.28,
+      "end": 987.64,
+      "text": "Brahmasya swarupa. It is the swarupa of the Brahman"
+    },
+    {
+      "i": 137,
+      "start": 987.64,
+      "end": 996.6,
+      "text": "or the real Truth as truly it is Brahman as Sachitananda."
+    },
+    {
+      "i": 138,
+      "start": 999.68,
+      "end": 1005.72,
+      "text": "Therefore, Tattuta is asserting that knowing in question which"
+    },
+    {
+      "i": 139,
+      "start": 1005.72,
+      "end": 1011.04,
+      "text": "is not in the appearance level at the Vyavaharika level, but"
+    },
+    {
+      "i": 140,
+      "start": 1011.04,
+      "end": 1015.28,
+      "text": "knowing at the reality level at the paramartika level."
+    },
+    {
+      "i": 141,
+      "start": 1021.2,
+      "end": 1026.319,
+      "text": "Avam tattvaha is the adject aduar for the tattvaha."
+    },
+    {
+      "i": 142,
+      "start": 1028.04,
+      "end": 1031.92,
+      "text": "So avam here means thus or in this manner."
+    },
+    {
+      "i": 143,
+      "start": 1034.68,
+      "end": 1040.119,
+      "text": "First, there is a precise back reference that points back to"
+    },
+    {
+      "i": 144,
+      "start": 1040.119,
+      "end": 1044.839,
+      "text": "the specific contents from verse #5 through 8."
+    },
+    {
+      "i": 145,
+      "start": 1046.079,
+      "end": 1053.24,
+      "text": "The teaching about Janma as atmamaya, Krita as a effect of"
+    },
+    {
+      "i": 146,
+      "start": 1053.24,
+      "end": 1059.32,
+      "text": "Atmamaya and Karma as Dharma Rekshanarth for the purpose of"
+    },
+    {
+      "i": 147,
+      "start": 1059.44,
+      "end": 1069.92,
+      "text": "protecting the Dharma, and the speaker as ajaha avayaha atma"
+    },
+    {
+      "i": 148,
+      "start": 1070.4,
+      "end": 1077.56,
+      "text": "Ishwara. Therefore, to know avam is to"
+    },
+    {
+      "i": 149,
+      "start": 1077.56,
+      "end": 1081.4,
+      "text": "know in the specific manner just expounded."
+    },
+    {
+      "i": 150,
+      "start": 1081.4,
+      "end": 1087.48,
+      "text": "It is not a vague general knowing, but a very precise"
+    },
+    {
+      "i": 151,
+      "start": 1087.6,
+      "end": 1093.52,
+      "text": "Arduaitic apprehension of Parameshwara's nature as"
+    },
+    {
+      "i": 152,
+      "start": 1093.52,
+      "end": 1108.32,
+      "text": "disclosed in the Avatar Pragana. Avatar pragana yahavati Saha na"
+    },
+    {
+      "i": 153,
+      "start": 1108.32,
+      "end": 1114.2,
+      "text": "eti eti Terry SEC. Relative correlative"
+    },
+    {
+      "i": 154,
+      "start": 1114.2,
+      "end": 1117.12,
+      "text": "construction. When we use this word like"
+    },
+    {
+      "i": 155,
+      "start": 1117.68,
+      "end": 1125.08,
+      "text": "Yahavati, one who knows Saha, he na ETI punarjanma, he doesn't go"
+    },
+    {
+      "i": 156,
+      "start": 1125.08,
+      "end": 1130.16,
+      "text": "through the Punarjanma SA ETI maam, he reaches me."
+    },
+    {
+      "i": 157,
+      "start": 1131.24,
+      "end": 1137.6,
+      "text": "So he who knows that one does not go to rebirth, he attains"
+    },
+    {
+      "i": 158,
+      "start": 1137.6,
+      "end": 1140.76,
+      "text": "me. This is a universal condition."
+    },
+    {
+      "i": 159,
+      "start": 1143.24,
+      "end": 1150.52,
+      "text": "It is not that it is any specific person, but whoever"
+    },
+    {
+      "i": 160,
+      "start": 1150.52,
+      "end": 1157.8,
+      "text": "knows me in this fashion or in this manner, irrespective of"
+    },
+    {
+      "i": 161,
+      "start": 1157.8,
+      "end": 1162.6,
+      "text": "what colour cast, cleared anything, Mandaman, nothing,"
+    },
+    {
+      "i": 162,
+      "start": 1162.64,
+      "end": 1165.56,
+      "text": "anything, no conditions put in the condition."
+    },
+    {
+      "i": 163,
+      "start": 1166.72,
+      "end": 1172.52,
+      "text": "The one whoever knows me like this, that person, he attains"
+    },
+    {
+      "i": 164,
+      "start": 1172.52,
+      "end": 1179.08,
+      "text": "the fruit. The fruit is Napoonerjanma and"
+    },
+    {
+      "i": 165,
+      "start": 1179.08,
+      "end": 1183.64,
+      "text": "he attains me. The universality is the most"
+    },
+    {
+      "i": 166,
+      "start": 1183.64,
+      "end": 1188.28,
+      "text": "important aspect in this. Any Adhikari who attains this"
+    },
+    {
+      "i": 167,
+      "start": 1188.28,
+      "end": 1196.32,
+      "text": "Tatvatnyana attains the results of not having to go through"
+    },
+    {
+      "i": 168,
+      "start": 1196.32,
+      "end": 1202.08,
+      "text": "Punarjanma or rebirth, or he attains oneness with Brahman."
+    },
+    {
+      "i": 169,
+      "start": 1205.72,
+      "end": 1211.56,
+      "text": "So tattvataha is the crux of this second-half of the first"
+    },
+    {
+      "i": 170,
+      "start": 1211.56,
+      "end": 1216.32,
+      "text": "part first line. There are three levels of"
+    },
+    {
+      "i": 171,
+      "start": 1216.32,
+      "end": 1225.6,
+      "text": "knowing the avatara, but the tattvataha is to be understood"
+    },
+    {
+      "i": 172,
+      "start": 1225.96,
+      "end": 1227.76,
+      "text": "in comparison with the other two."
+    },
+    {
+      "i": 173,
+      "start": 1229.68,
+      "end": 1234.72,
+      "text": "The first one is Laukiga knowledge or Laukigat Nyanam"
+    },
+    {
+      "i": 174,
+      "start": 1235.32,
+      "end": 1243.92,
+      "text": "knowing, as the commoners will understand, seeing Krishna as a"
+    },
+    {
+      "i": 175,
+      "start": 1243.92,
+      "end": 1251.88,
+      "text": "great historical king of Yadavas a hero or as a teacher knowing"
+    },
+    {
+      "i": 176,
+      "start": 1251.88,
+      "end": 1255.4,
+      "text": "the Avatara as an extraordinary human being."
+    },
+    {
+      "i": 177,
+      "start": 1256.2,
+      "end": 1264.2,
+      "text": "He is a human being but special. This is the pratyaksha based"
+    },
+    {
+      "i": 178,
+      "start": 1264.2,
+      "end": 1271.44,
+      "text": "knowing, seeing him from the understanding of what has been"
+    },
+    {
+      "i": 179,
+      "start": 1271.44,
+      "end": 1275.92,
+      "text": "heard about him. What are the things we have done"
+    },
+    {
+      "i": 180,
+      "start": 1275.92,
+      "end": 1280.0,
+      "text": "from birth to death? All those things."
+    },
+    {
+      "i": 181,
+      "start": 1280.0,
+      "end": 1291.4,
+      "text": "Knowing him at the level that is the level of Arjuna's"
+    },
+    {
+      "i": 182,
+      "start": 1291.4,
+      "end": 1295.4,
+      "text": "Purvapaksha in the 4.4, the 4th was he is."
+    },
+    {
+      "i": 183,
+      "start": 1295.4,
+      "end": 1300.52,
+      "text": "I think he asked the question. I am seeing you now teaching me"
+    },
+    {
+      "i": 184,
+      "start": 1300.52,
+      "end": 1305.0,
+      "text": "this Avaya Yoga. But you said you have taught"
+    },
+    {
+      "i": 185,
+      "start": 1305.0,
+      "end": 1309.88,
+      "text": "this to Vivaswan, the sun God and the beginning of creation."
+    },
+    {
+      "i": 186,
+      "start": 1311.04,
+      "end": 1316.88,
+      "text": "So Arjuna's Purvapaksha question in the fourth verse was from the"
+    },
+    {
+      "i": 187,
+      "start": 1317.12,
+      "end": 1321.96,
+      "text": "Laukiga knowledge or from the worldly knowledge."
+    },
+    {
+      "i": 188,
+      "start": 1323.88,
+      "end": 1327.36,
+      "text": "Then there is a second category of people who are known through"
+    },
+    {
+      "i": 189,
+      "start": 1327.36,
+      "end": 1333.72,
+      "text": "the shastrik knowledge or the knowing through shrabhana of the"
+    },
+    {
+      "i": 190,
+      "start": 1333.72,
+      "end": 1337.8,
+      "text": "shastra. It is coming under"
+    },
+    {
+      "i": 191,
+      "start": 1337.8,
+      "end": 1342.24,
+      "text": "parokshaknyana. They know that Krishna is"
+    },
+    {
+      "i": 192,
+      "start": 1342.24,
+      "end": 1346.8,
+      "text": "Parameswara, that his birth is Atma Maya Krita."
+    },
+    {
+      "i": 193,
+      "start": 1348.64,
+      "end": 1353.36,
+      "text": "They know these two things and that his actions are for the"
+    },
+    {
+      "i": 194,
+      "start": 1353.36,
+      "end": 1357.0,
+      "text": "Dharma Samsabanartha or reestablishing Sanathana Dharma."
+    },
+    {
+      "i": 195,
+      "start": 1359.48,
+      "end": 1364.6,
+      "text": "But their knowing is an intellectual comprehension of"
+    },
+    {
+      "i": 196,
+      "start": 1364.6,
+      "end": 1372.28,
+      "text": "the Avatara doctrine. This is immediate indirect"
+    },
+    {
+      "i": 197,
+      "start": 1372.28,
+      "end": 1380.32,
+      "text": "knowledge or Akshat Nyana necessary, but not yet"
+    },
+    {
+      "i": 198,
+      "start": 1380.72,
+      "end": 1384.28,
+      "text": "muktihetu. It does not help in liberation"
+    },
+    {
+      "i": 199,
+      "start": 1384.28,
+      "end": 1394.44,
+      "text": "or freedom from avidyakamakarma. Therefore, Tatvatnyana, the"
+    },
+    {
+      "i": 200,
+      "start": 1394.44,
+      "end": 1398.28,
+      "text": "third category, is the most important one."
+    },
+    {
+      "i": 201,
+      "start": 1401.12,
+      "end": 1407.88,
+      "text": "Tatvatnyana is the aparok Shanubhava itself, the immediate"
+    },
+    {
+      "i": 202,
+      "start": 1407.96,
+      "end": 1414.04,
+      "text": "non mediated recognition that the Parameshwara who manifests"
+    },
+    {
+      "i": 203,
+      "start": 1414.08,
+      "end": 1420.32,
+      "text": "as Avatara is identical with my Pratyagatma or the Pratyagatma"
+    },
+    {
+      "i": 204,
+      "start": 1420.32,
+      "end": 1423.6,
+      "text": "itself, the innermost self of the knower who knows this."
+    },
+    {
+      "i": 205,
+      "start": 1425.24,
+      "end": 1432.16,
+      "text": "So Tattutaha Vaati, when it is said, knows not merely about the"
+    },
+    {
+      "i": 206,
+      "start": 1432.16,
+      "end": 1435.8,
+      "text": "tattva of the truth, which is the second category."
+    },
+    {
+      "i": 207,
+      "start": 1435.8,
+      "end": 1441.76,
+      "text": "People knows it as intellectual knowledge, but as tattva, the"
+    },
+    {
+      "i": 208,
+      "start": 1441.76,
+      "end": 1445.28,
+      "text": "self luminous recognition of Atman by Atman."
+    },
+    {
+      "i": 209,
+      "start": 1450.48,
+      "end": 1457.48,
+      "text": "This alone is that Nyana which fructifies into Napunarjanma"
+    },
+    {
+      "i": 210,
+      "start": 1457.84,
+      "end": 1465.48,
+      "text": "without any rebirth. Sankaracharya cites that"
+    },
+    {
+      "i": 211,
+      "start": 1465.6,
+      "end": 1471.92,
+      "text": "Bradharani Upanishad four 4th chapter, 4th Pada and the 7th"
+    },
+    {
+      "i": 212,
+      "start": 1471.92,
+      "end": 1482.16,
+      "text": "Mantra Tamayevadero Vizaniya Ratnanam Kurvida Brahmana Having"
+    },
+    {
+      "i": 213,
+      "start": 1482.16,
+      "end": 1490.52,
+      "text": "known that alone that that is with a capital T, the vice"
+    },
+    {
+      "i": 214,
+      "start": 1490.52,
+      "end": 1493.4,
+      "text": "Bramana should cultivate understanding."
+    },
+    {
+      "i": 215,
+      "start": 1494.96,
+      "end": 1499.44,
+      "text": "That is where the Tattva Nyayanamgil rectify."
+    },
+    {
+      "i": 216,
+      "start": 1502.2,
+      "end": 1507.48,
+      "text": "The Vignaya here is the equal to the Tattva Tattva, Tattva."
+    },
+    {
+      "i": 217,
+      "start": 1509.52,
+      "end": 1516.2,
+      "text": "Knowing Tattva not merely conceptually, the avam yo veti"
+    },
+    {
+      "i": 218,
+      "start": 1516.2,
+      "end": 1522.92,
+      "text": "Tattva Taha Das set the epistemological bar for"
+    },
+    {
+      "i": 219,
+      "start": 1522.92,
+      "end": 1526.56,
+      "text": "liberation at the level of Aparokratnyana."
+    },
+    {
+      "i": 220,
+      "start": 1530.52,
+      "end": 1533.44,
+      "text": "It is the same bar that Shankaracharya maintained"
+    },
+    {
+      "i": 221,
+      "start": 1533.44,
+      "end": 1539.2,
+      "text": "throughout his barshiyas as the sole direct cause for moksha."
+    },
+    {
+      "i": 222,
+      "start": 1540.16,
+      "end": 1550.72,
+      "text": "Kevalat Nyanath Moksha. Liberation or emancipation is"
+    },
+    {
+      "i": 223,
+      "start": 1554.12,
+      "end": 1565.12,
+      "text": "possible only through knowledge. Therefore, Bhattojaha Edithwa"
+    },
+    {
+      "i": 224,
+      "start": 1567.12,
+      "end": 1572.24,
+      "text": "knowing as Tattva, not merely conceptually, that is the most"
+    },
+    {
+      "i": 225,
+      "start": 1572.24,
+      "end": 1579.36,
+      "text": "important aspect of it. Then when he goes towards the"
+    },
+    {
+      "i": 226,
+      "start": 1579.36,
+      "end": 1583.68,
+      "text": "Kalashruti or the fruit of eating, he uses the word tetua."
+    },
+    {
+      "i": 227,
+      "start": 1586.8,
+      "end": 1592.12,
+      "text": "It's very tricky word. Tetua means actually means"
+    },
+    {
+      "i": 228,
+      "start": 1592.12,
+      "end": 1599.8,
+      "text": "having abandoned or abandoning the body that does not go"
+    },
+    {
+      "i": 229,
+      "start": 1599.8,
+      "end": 1607.12,
+      "text": "through rebirth. Now it it feels there is some"
+    },
+    {
+      "i": 230,
+      "start": 1609.0,
+      "end": 1612.04,
+      "text": "sequential things which is mentioned by that."
+    },
+    {
+      "i": 231,
+      "start": 1612.52,
+      "end": 1615.68,
+      "text": "The word tektua means after abandoning the body."
+    },
+    {
+      "i": 232,
+      "start": 1615.72,
+      "end": 1619.96,
+      "text": "So after abandoning body he doesn't go."
+    },
+    {
+      "i": 233,
+      "start": 1620.0,
+      "end": 1624.4,
+      "text": "That means this knowledge will be beneficial."
+    },
+    {
+      "i": 234,
+      "start": 1624.4,
+      "end": 1632.24,
+      "text": "Only after the body is discarded a doubt can arise."
+    },
+    {
+      "i": 235,
+      "start": 1634.6,
+      "end": 1636.92,
+      "text": "And what is Punarjanma? He is referred to."
+    },
+    {
+      "i": 236,
+      "start": 1637.28,
+      "end": 1640.4,
+      "text": "We should know Tektwa Punarjanma Nayeti."
+    },
+    {
+      "i": 237,
+      "start": 1641.16,
+      "end": 1645.24,
+      "text": "After abandoning the body he does not go through a rebirth."
+    },
+    {
+      "i": 238,
+      "start": 1647.04,
+      "end": 1649.36,
+      "text": "It is an indiscipline, A declinable."
+    },
+    {
+      "i": 239,
+      "start": 1649.64,
+      "end": 1656.04,
+      "text": "Modifying the Janma Punar means again birth."
+    },
+    {
+      "i": 240,
+      "start": 1658.56,
+      "end": 1662.16,
+      "text": "What does it means? A compulsive reentry into the"
+    },
+    {
+      "i": 241,
+      "start": 1662.16,
+      "end": 1665.2,
+      "text": "cycle of birth, death, birth, death, etc."
+    },
+    {
+      "i": 242,
+      "start": 1666.08,
+      "end": 1672.84,
+      "text": "Through karmabhanda. So having Tektva, the body,"
+    },
+    {
+      "i": 243,
+      "start": 1673.32,
+      "end": 1679.24,
+      "text": "nayeti, Punarjanma, he does not go through rebirth and Mameti,"
+    },
+    {
+      "i": 244,
+      "start": 1680.12,
+      "end": 1684.96,
+      "text": "he attains me. The same verb describes both the"
+    },
+    {
+      "i": 245,
+      "start": 1684.96,
+      "end": 1690.36,
+      "text": "negative aspect of rejecting the rebirth and the positive"
+    },
+    {
+      "i": 246,
+      "start": 1691.8,
+      "end": 1695.56,
+      "text": "attaining or going or merging with Parameshwara."
+    },
+    {
+      "i": 247,
+      "start": 1702.51,
+      "end": 1709.99,
+      "text": "Now Chetwadeham and this ETI, what?"
+    },
+    {
+      "i": 248,
+      "start": 1709.99,
+      "end": 1719.6,
+      "text": "How are they connected? First, let us look the having"
+    },
+    {
+      "i": 249,
+      "start": 1719.6,
+      "end": 1725.44,
+      "text": "abandoned the body Chituadeva, how does it fit in the picture?"
+    },
+    {
+      "i": 250,
+      "start": 1727.52,
+      "end": 1731.16,
+      "text": "There is a sequential interpretation for this that"
+    },
+    {
+      "i": 251,
+      "start": 1731.16,
+      "end": 1737.56,
+      "text": "Nyani first drops the body, he knew it intellectually."
+    },
+    {
+      "i": 252,
+      "start": 1738.44,
+      "end": 1743.6,
+      "text": "He drops the body physical death and then does not take rebirth,"
+    },
+    {
+      "i": 253,
+      "start": 1744.32,
+      "end": 1748.28,
+      "text": "suggesting videha mukti liberation after death."
+    },
+    {
+      "i": 254,
+      "start": 1752.72,
+      "end": 1756.76,
+      "text": "That is what called the videha mukti."
+    },
+    {
+      "i": 255,
+      "start": 1757.84,
+      "end": 1762.92,
+      "text": "Deha means body. Videha means after having left"
+    },
+    {
+      "i": 256,
+      "start": 1762.92,
+      "end": 1765.36,
+      "text": "the body. Mukti means liberation."
+    },
+    {
+      "i": 257,
+      "start": 1767.12,
+      "end": 1771.32,
+      "text": "Whereas Sankaracharya prefers the Advaitic interpretation,"
+    },
+    {
+      "i": 258,
+      "start": 1773.36,
+      "end": 1778.56,
+      "text": "Jettwa deham means having inwardly relinquished the"
+    },
+    {
+      "i": 259,
+      "start": 1778.56,
+      "end": 1784.0,
+      "text": "identification with the body dehatma buddhi jettwa, that is"
+    },
+    {
+      "i": 260,
+      "start": 1784.04,
+      "end": 1789.64,
+      "text": "through nyana, not through physical death resulting in"
+    },
+    {
+      "i": 261,
+      "start": 1789.64,
+      "end": 1793.2,
+      "text": "jeevan mukti liberation while living."
+    },
+    {
+      "i": 262,
+      "start": 1795.56,
+      "end": 1800.16,
+      "text": "This is after which the physical death merely removes the"
+    },
+    {
+      "i": 263,
+      "start": 1800.16,
+      "end": 1804.16,
+      "text": "prarabdha sustained body without any consequent rebirth."
+    },
+    {
+      "i": 264,
+      "start": 1806.96,
+      "end": 1815.88,
+      "text": "This needs a bit of explanation. Having inwardly relinquished the"
+    },
+    {
+      "i": 265,
+      "start": 1815.88,
+      "end": 1824.4,
+      "text": "identification with the body, this we have to now connect to"
+    },
+    {
+      "i": 266,
+      "start": 1824.4,
+      "end": 1831.64,
+      "text": "the Janma Karma Chadivyam, their birth and the actions being"
+    },
+    {
+      "i": 267,
+      "start": 1831.64,
+      "end": 1847.8,
+      "text": "divine that when helps us to abandon the identification with"
+    },
+    {
+      "i": 268,
+      "start": 1847.8,
+      "end": 1854.24,
+      "text": "the body. That can happen only when we"
+    },
+    {
+      "i": 269,
+      "start": 1854.24,
+      "end": 1867.44,
+      "text": "know the reality of the Janma and the Karma Janma is now to be"
+    },
+    {
+      "i": 270,
+      "start": 1867.44,
+      "end": 1872.28,
+      "text": "understood as identification with the body, mind, intellect,"
+    },
+    {
+      "i": 271,
+      "start": 1872.28,
+      "end": 1875.2,
+      "text": "complex. That is exactly what is Janma."
+    },
+    {
+      "i": 272,
+      "start": 1876.68,
+      "end": 1883.36,
+      "text": "My birth means I identify myself with my body, mind, intellect"
+    },
+    {
+      "i": 273,
+      "start": 1883.36,
+      "end": 1887.4,
+      "text": "and the physicality of this Sharira or this body."
+    },
+    {
+      "i": 274,
+      "start": 1888.28,
+      "end": 1896.4,
+      "text": "That is what is called the Janma and Karma is all accents"
+    },
+    {
+      "i": 275,
+      "start": 1897.12,
+      "end": 1901.48,
+      "text": "performed thereafter using the body, mind, intellect, complex."
+    },
+    {
+      "i": 276,
+      "start": 1905.52,
+      "end": 1910.28,
+      "text": "If I am considering myself to be this physical entity of body,"
+    },
+    {
+      "i": 277,
+      "start": 1910.28,
+      "end": 1921.36,
+      "text": "mind, intellect complex, how can I call this as Devyam, divine?"
+    },
+    {
+      "i": 278,
+      "start": 1922.76,
+      "end": 1929.0,
+      "text": "It cannot be called divine. But Krishna said that Janma"
+    },
+    {
+      "i": 279,
+      "start": 1929.0,
+      "end": 1934.92,
+      "text": "karamacha devyam yo veti tattotaha one who knows it in"
+    },
+    {
+      "i": 280,
+      "start": 1934.92,
+      "end": 1940.4,
+      "text": "reality. So what does it mean?"
+    },
+    {
+      "i": 281,
+      "start": 1943.44,
+      "end": 1950.44,
+      "text": "We have to now understand that Krishna is indicating towards"
+    },
+    {
+      "i": 282,
+      "start": 1952.12,
+      "end": 1966.48,
+      "text": "that reality which can merge with the Parameshwara and which"
+    },
+    {
+      "i": 283,
+      "start": 1966.48,
+      "end": 1973.0,
+      "text": "will not have a rebirth. So the knowing principle"
+    },
+    {
+      "i": 284,
+      "start": 1975.6,
+      "end": 1980.16,
+      "text": "obviously is not the body, neither the mind nor the"
+    },
+    {
+      "i": 285,
+      "start": 1980.16,
+      "end": 1983.32,
+      "text": "intellect. Independently, the mind and"
+    },
+    {
+      "i": 286,
+      "start": 1983.32,
+      "end": 1993.32,
+      "text": "intellect and the body is inert and insentient Jada, inert"
+    },
+    {
+      "i": 287,
+      "start": 1993.32,
+      "end": 2000.52,
+      "text": "materials. Only when the Chaitanya is"
+    },
+    {
+      "i": 288,
+      "start": 2001.12,
+      "end": 2008.32,
+      "text": "present in the body, the mind and the intellect feels like it"
+    },
+    {
+      "i": 289,
+      "start": 2008.32,
+      "end": 2012.4,
+      "text": "is knowing. Even then, the knowledge is"
+    },
+    {
+      "i": 290,
+      "start": 2012.4,
+      "end": 2018.04,
+      "text": "limited by the conditions of the sense organs."
+    },
+    {
+      "i": 291,
+      "start": 2020.4,
+      "end": 2026.68,
+      "text": "Therefore the potency of the knowing is not fully utilized."
+    },
+    {
+      "i": 292,
+      "start": 2029.28,
+      "end": 2036.96,
+      "text": "But when it is mentioned that the Knowing principle is divine,"
+    },
+    {
+      "i": 293,
+      "start": 2039.84,
+      "end": 2043.32,
+      "text": "Krishna is not referring to, definitely not."
+    },
+    {
+      "i": 294,
+      "start": 2043.32,
+      "end": 2047.28,
+      "text": "The Jiva identified with the physical body, mind and"
+    },
+    {
+      "i": 295,
+      "start": 2047.28,
+      "end": 2061.96,
+      "text": "intellect is referring to the Atma, and that Atma is known by"
+    },
+    {
+      "i": 296,
+      "start": 2062.0,
+      "end": 2066.04,
+      "text": "Atma itself. That is the knowing principle"
+    },
+    {
+      "i": 297,
+      "start": 2066.04,
+      "end": 2071.88,
+      "text": "which knowing What is the truth? That then it becomes tatotaha,"
+    },
+    {
+      "i": 298,
+      "start": 2072.76,
+      "end": 2077.159,
+      "text": "the knowing as suchness, the truth as suchness."
+    },
+    {
+      "i": 299,
+      "start": 2082.159,
+      "end": 2091.199,
+      "text": "Only when that takes place, we will be able to de identify"
+    },
+    {
+      "i": 300,
+      "start": 2091.199,
+      "end": 2096.76,
+      "text": "ourself from the body, mind, intellect complex to the"
+    },
+    {
+      "i": 301,
+      "start": 2096.76,
+      "end": 2100.44,
+      "text": "awareness or the consciousness which knows the body, mind and"
+    },
+    {
+      "i": 302,
+      "start": 2100.44,
+      "end": 2110.32,
+      "text": "intellect. Only when that 5th to the"
+    },
+    {
+      "i": 303,
+      "start": 2110.32,
+      "end": 2113.52,
+      "text": "knowing principle of the consciousness or the awareness"
+    },
+    {
+      "i": 304,
+      "start": 2115.96,
+      "end": 2124.56,
+      "text": "takes place, such a knowledge knows that it is not the one"
+    },
+    {
+      "i": 305,
+      "start": 2124.56,
+      "end": 2128.88,
+      "text": "which is going through that birth again and again, because"
+    },
+    {
+      "i": 306,
+      "start": 2128.88,
+      "end": 2131.56,
+      "text": "knowledge doesn't have birth or death."
+    },
+    {
+      "i": 307,
+      "start": 2132.76,
+      "end": 2136.72,
+      "text": "Awareness has no birth or death. Consciousness has no birth or"
+    },
+    {
+      "i": 308,
+      "start": 2136.72,
+      "end": 2138.72,
+      "text": "death. Whichever 1 you want to"
+    },
+    {
+      "i": 309,
+      "start": 2140.2,
+      "end": 2146.0,
+      "text": "associate with, you can. The birth and death is of the"
+    },
+    {
+      "i": 310,
+      "start": 2146.0,
+      "end": 2150.28,
+      "text": "physical body. Even the mind and the intellect"
+    },
+    {
+      "i": 311,
+      "start": 2150.28,
+      "end": 2153.68,
+      "text": "goes through the association because they are part of the"
+    },
+    {
+      "i": 312,
+      "start": 2153.68,
+      "end": 2161.56,
+      "text": "body and when it knows that it doesn't have the birth and their"
+    },
+    {
+      "i": 313,
+      "start": 2161.56,
+      "end": 2167.8,
+      "text": "rebirth and everything is the knowledge which makes that"
+    },
+    {
+      "i": 314,
+      "start": 2167.8,
+      "end": 2170.76,
+      "text": "knowing principle. The consciousness or the"
+    },
+    {
+      "i": 315,
+      "start": 2170.76,
+      "end": 2180.52,
+      "text": "awareness that I am is what Krishna referring to as Mom ET"
+    },
+    {
+      "i": 316,
+      "start": 2181.16,
+      "end": 2188.32,
+      "text": "He attains me the my hood, the me hood or whatever."
+    },
+    {
+      "i": 317,
+      "start": 2189.44,
+      "end": 2196.64,
+      "text": "I don't know how to express it in English, but that that nature"
+    },
+    {
+      "i": 318,
+      "start": 2197.56,
+      "end": 2208.48,
+      "text": "that I am pure consciousness, which is Brahman, Atma or"
+    },
+    {
+      "i": 319,
+      "start": 2208.48,
+      "end": 2213.28,
+      "text": "Parameswara, whatever is the way in which we want to associate."
+    },
+    {
+      "i": 320,
+      "start": 2215.56,
+      "end": 2226.52,
+      "text": "Only when that happens then we will realize that the nature is"
+    },
+    {
+      "i": 321,
+      "start": 2226.8,
+      "end": 2231.8,
+      "text": "nitya, Sudha, Buddha, mukta, Subhava nitya."
+    },
+    {
+      "i": 322,
+      "start": 2231.8,
+      "end": 2236.76,
+      "text": "It is eternal suddaha. It's pure because there is"
+    },
+    {
+      "i": 323,
+      "start": 2236.76,
+      "end": 2242.24,
+      "text": "nothing other than that Buddha. It is pure awareness or"
+    },
+    {
+      "i": 324,
+      "start": 2242.24,
+      "end": 2248.08,
+      "text": "consciousness muktaha. It is ever liberated there is."
+    },
+    {
+      "i": 325,
+      "start": 2248.16,
+      "end": 2252.64,
+      "text": "It was never under bondage. Even when knowing through the"
+    },
+    {
+      "i": 326,
+      "start": 2252.64,
+      "end": 2255.24,
+      "text": "body, mind and intellect we were free."
+    },
+    {
+      "i": 327,
+      "start": 2257.16,
+      "end": 2263.92,
+      "text": "The absence of the knowledge who we are make us feel that we are"
+    },
+    {
+      "i": 328,
+      "start": 2263.92,
+      "end": 2265.76,
+      "text": "the limited body, mind, intellect."
+    },
+    {
+      "i": 329,
+      "start": 2270.44,
+      "end": 2280.2,
+      "text": "Therefore, the Tatotaha Yatva Deham is to know that we are not"
+    },
+    {
+      "i": 330,
+      "start": 2280.2,
+      "end": 2288.28,
+      "text": "the body, mind and intellect. So the abandonment of the body"
+    },
+    {
+      "i": 331,
+      "start": 2288.28,
+      "end": 2294.12,
+      "text": "that matters is not the physical death which every being"
+    },
+    {
+      "i": 332,
+      "start": 2294.12,
+      "end": 2301.36,
+      "text": "undergoes and which in itself produces no moksha, but the"
+    },
+    {
+      "i": 333,
+      "start": 2301.36,
+      "end": 2306.48,
+      "text": "abandonment of the Deha Atma Adyasa, the mutual"
+    },
+    {
+      "i": 334,
+      "start": 2306.48,
+      "end": 2309.28,
+      "text": "superimposition between the body and the atma."
+    },
+    {
+      "i": 335,
+      "start": 2312.16,
+      "end": 2318.48,
+      "text": "When tattvatnyana arises, evam yuvaiti tattvataha, that is the"
+    },
+    {
+      "i": 336,
+      "start": 2318.48,
+      "end": 2324.08,
+      "text": "tattvatnyana, the fundamental adyasa superimposition that I am"
+    },
+    {
+      "i": 337,
+      "start": 2324.08,
+      "end": 2327.84,
+      "text": "this body, born at such and such a time of such and such a"
+    },
+    {
+      "i": 338,
+      "start": 2327.84,
+      "end": 2332.36,
+      "text": "lineage, subject to birth, subject to death, subject to"
+    },
+    {
+      "i": 339,
+      "start": 2332.36,
+      "end": 2337.48,
+      "text": "disease, decay, ageing, etc, that is dissolved at its root."
+    },
+    {
+      "i": 340,
+      "start": 2339.72,
+      "end": 2346.8,
+      "text": "This is the truth Dehat Yaga, not a future event, but the"
+    },
+    {
+      "i": 341,
+      "start": 2346.8,
+      "end": 2354.0,
+      "text": "present dissolution of Ahankara, body identification through Atma"
+    },
+    {
+      "i": 342,
+      "start": 2354.0,
+      "end": 2360.84,
+      "text": "Sarshakara by realizing that I am the Atman or I am the pure"
+    },
+    {
+      "i": 343,
+      "start": 2360.84,
+      "end": 2364.8,
+      "text": "Self. And once this Adyasa is"
+    },
+    {
+      "i": 344,
+      "start": 2364.8,
+      "end": 2370.6,
+      "text": "dissolved, that is once the false identification that I am"
+    },
+    {
+      "i": 345,
+      "start": 2370.6,
+      "end": 2375.52,
+      "text": "the body, mind, intellect is dissolved or abandoned, there is"
+    },
+    {
+      "i": 346,
+      "start": 2375.52,
+      "end": 2383.96,
+      "text": "no karta left behind the Karma. The entire karma is being done"
+    },
+    {
+      "i": 347,
+      "start": 2383.96,
+      "end": 2388.52,
+      "text": "by the body, mind and intellect. I am the seer, I am the eater, I"
+    },
+    {
+      "i": 348,
+      "start": 2388.52,
+      "end": 2392.64,
+      "text": "am the tringer, I am the Walker, I am the swimmer."
+    },
+    {
+      "i": 349,
+      "start": 2392.96,
+      "end": 2395.28,
+      "text": "All those things are related to the body."
+    },
+    {
+      "i": 350,
+      "start": 2397.76,
+      "end": 2401.04,
+      "text": "And when there is no Karta left to accumulate the new karma,"
+    },
+    {
+      "i": 351,
+      "start": 2401.8,
+      "end": 2406.76,
+      "text": "there is no Bhopta left behind also or the Karmahala."
+    },
+    {
+      "i": 352,
+      "start": 2408.96,
+      "end": 2411.44,
+      "text": "And therefore no mechanism of punar janma."
+    },
+    {
+      "i": 353,
+      "start": 2412.2,
+      "end": 2416.48,
+      "text": "That is how Punar janma is negated."
+    },
+    {
+      "i": 354,
+      "start": 2419.08,
+      "end": 2422.72,
+      "text": "But the moment the identification, superimposition,"
+    },
+    {
+      "i": 355,
+      "start": 2423.6,
+      "end": 2428.32,
+      "text": "the hatma buddhi happens, then the karma is that done by the"
+    },
+    {
+      "i": 356,
+      "start": 2428.6,
+      "end": 2431.96,
+      "text": "Deha is assumed to be done by the Atma."
+    },
+    {
+      "i": 357,
+      "start": 2432.76,
+      "end": 2437.72,
+      "text": "And the karma fala of which comes from the karma is now to"
+    },
+    {
+      "i": 358,
+      "start": 2437.72,
+      "end": 2441.72,
+      "text": "be going through the Atma, will go through the birth again."
+    },
+    {
+      "i": 359,
+      "start": 2442.36,
+      "end": 2449.12,
+      "text": "But Atma is a Sakshi of all the events which is being done by"
+    },
+    {
+      "i": 360,
+      "start": 2449.12,
+      "end": 2454.32,
+      "text": "the body and the intellect and the sense organs."
+    },
+    {
+      "i": 361,
+      "start": 2455.52,
+      "end": 2459.32,
+      "text": "Therefore no mechanism will be left behind."
+    },
+    {
+      "i": 362,
+      "start": 2459.32,
+      "end": 2463.64,
+      "text": "The one who knows that I am not the body, mind, intellect, but I"
+    },
+    {
+      "i": 363,
+      "start": 2463.64,
+      "end": 2469.6,
+      "text": "am the Atma Unarjanma requires 3 conditions."
+    },
+    {
+      "i": 364,
+      "start": 2472.92,
+      "end": 2476.92,
+      "text": "The first and foremost is Savidya, the ignorance"
+    },
+    {
+      "i": 365,
+      "start": 2476.92,
+      "end": 2480.16,
+      "text": "generating the identification with the body, mind, intellect"
+    },
+    {
+      "i": 366,
+      "start": 2483.2,
+      "end": 2489.04,
+      "text": "and from that arises the desire born out of the identification"
+    },
+    {
+      "i": 367,
+      "start": 2489.04,
+      "end": 2493.04,
+      "text": "with the body, mind, intellect which is the Karma."
+    },
+    {
+      "i": 368,
+      "start": 2494.36,
+      "end": 2506.4,
+      "text": "So Avidya Kama, which prompts us action based desires or the"
+    },
+    {
+      "i": 369,
+      "start": 2507.04,
+      "end": 2514.0,
+      "text": "fruits of action to enjoy that a future birth is also desired."
+    },
+    {
+      "i": 370,
+      "start": 2515.84,
+      "end": 2522.48,
+      "text": "Therefore, Karma becomes the third pillar, Avidya, Kama"
+    },
+    {
+      "i": 371,
+      "start": 2522.48,
+      "end": 2528.24,
+      "text": "Karma. These are the three which makes"
+    },
+    {
+      "i": 372,
+      "start": 2528.24,
+      "end": 2530.16,
+      "text": "us feel that we have Punar Janma."
+    },
+    {
+      "i": 373,
+      "start": 2534.84,
+      "end": 2541.2,
+      "text": "When Tattvyana removes the Avidya and with it the entire,"
+    },
+    {
+      "i": 374,
+      "start": 2541.2,
+      "end": 2545.4,
+      "text": "the combination of Avidya, Kamakarma Janma chain collapses."
+    },
+    {
+      "i": 375,
+      "start": 2548.24,
+      "end": 2554.8,
+      "text": "Now Punar Janma is thus not a future reward, but a logical"
+    },
+    {
+      "i": 376,
+      "start": 2554.8,
+      "end": 2560.8,
+      "text": "consequence of the dissolution of the samsara mechanism at its"
+    },
+    {
+      "i": 377,
+      "start": 2560.8,
+      "end": 2569.32,
+      "text": "root by Nyana. Not only Punar Janma."
+    },
+    {
+      "i": 378,
+      "start": 2569.52,
+      "end": 2574.76,
+      "text": "Krishna says, Mom 80 He attains me, he reaches me, he comes to"
+    },
+    {
+      "i": 379,
+      "start": 2574.76,
+      "end": 2577.4,
+      "text": "me, he merges with me, or he becomes me."
+    },
+    {
+      "i": 380,
+      "start": 2580.16,
+      "end": 2589.72,
+      "text": "This is the positive pole of Moksha, the complement to denial"
+    },
+    {
+      "i": 381,
+      "start": 2589.72,
+      "end": 2594.04,
+      "text": "of Punar Janma. The two together define Moksha"
+    },
+    {
+      "i": 382,
+      "start": 2594.84,
+      "end": 2603.08,
+      "text": "from its negative removal of samsara and positive praati of"
+    },
+    {
+      "i": 383,
+      "start": 2603.08,
+      "end": 2606.84,
+      "text": "Parameswara or attainment of Mukti."
+    },
+    {
+      "i": 384,
+      "start": 2609.12,
+      "end": 2612.32,
+      "text": "The both the aspects are happening simultaneously."
+    },
+    {
+      "i": 385,
+      "start": 2614.52,
+      "end": 2618.56,
+      "text": "Thus the universal law, the connection between Tatvatnyana"
+    },
+    {
+      "i": 386,
+      "start": 2618.56,
+      "end": 2621.92,
+      "text": "and Moksha is necessary, not contigent."
+    },
+    {
+      "i": 387,
+      "start": 2622.96,
+      "end": 2630.84,
+      "text": "It operates like a natural law. Nityanyama, not a divine reward"
+    },
+    {
+      "i": 388,
+      "start": 2631.8,
+      "end": 2636.96,
+      "text": "contigently bestowed by Parameshwara or divine blessing."
+    },
+    {
+      "i": 389,
+      "start": 2639.12,
+      "end": 2643.32,
+      "text": "It is a natural law. If you have this knowledge,"
+    },
+    {
+      "i": 390,
+      "start": 2644.32,
+      "end": 2651.72,
+      "text": "freedom is yours. So Sankaracharya says Mameti"
+    },
+    {
+      "i": 391,
+      "start": 2651.8,
+      "end": 2656.36,
+      "text": "attains me is the most philosophically charged phrase"
+    },
+    {
+      "i": 392,
+      "start": 2656.4,
+      "end": 2661.0,
+      "text": "of this verse. The crucial question is, what"
+    },
+    {
+      "i": 393,
+      "start": 2661.0,
+      "end": 2663.96,
+      "text": "does it mean to attain Parameshwara?"
+    },
+    {
+      "i": 394,
+      "start": 2665.04,
+      "end": 2669.16,
+      "text": "Mameti means attain me. What is that mean?"
+    },
+    {
+      "i": 395,
+      "start": 2672.68,
+      "end": 2676.24,
+      "text": "Sankaracharya resolutely rejects the dualistic interpretation"
+    },
+    {
+      "i": 396,
+      "start": 2676.24,
+      "end": 2680.84,
+      "text": "that Nyani travels to some vaikunda or a divine rail ambar"
+    },
+    {
+      "i": 397,
+      "start": 2680.84,
+      "end": 2684.0,
+      "text": "Parameshwara dals as a separate being."
+    },
+    {
+      "i": 398,
+      "start": 2684.72,
+      "end": 2690.6,
+      "text": "Such a reading would imply A spatial separation between Jiva"
+    },
+    {
+      "i": 399,
+      "start": 2690.6,
+      "end": 2697.6,
+      "text": "and Parameshwara, which will contradict the Advaita #2."
+    },
+    {
+      "i": 400,
+      "start": 2698.12,
+      "end": 2703.0,
+      "text": "There is a temporal future attainment, something not yet"
+    },
+    {
+      "i": 401,
+      "start": 2703.0,
+      "end": 2708.92,
+      "text": "accomplished while living, which is contradicting the Upanishad,"
+    },
+    {
+      "i": 402,
+      "start": 2708.92,
+      "end": 2714.52,
+      "text": "the Jitya Siddhatva of Moksha, because Upanishad always talks"
+    },
+    {
+      "i": 403,
+      "start": 2714.52,
+      "end": 2721.2,
+      "text": "about Ayamatma Brahma, Aham Brahmasmi, ratnanam Brahma,"
+    },
+    {
+      "i": 404,
+      "start": 2722.56,
+      "end": 2726.08,
+      "text": "Sarvan Kalvidam Brahma, all those things are indicating"
+    },
+    {
+      "i": 405,
+      "start": 2726.08,
+      "end": 2733.12,
+      "text": "towards Nityasiddhatva means eternal attainment of moksha."
+    },
+    {
+      "i": 406,
+      "start": 2735.92,
+      "end": 2740.16,
+      "text": "Then the third one is the duality of attainer and"
+    },
+    {
+      "i": 407,
+      "start": 2740.16,
+      "end": 2746.28,
+      "text": "attained. There is a duality one who"
+    },
+    {
+      "i": 408,
+      "start": 2747.36,
+      "end": 2750.52,
+      "text": "attains and there is something which is attained."
+    },
+    {
+      "i": 409,
+      "start": 2751.44,
+      "end": 2756.08,
+      "text": "The Sadhaka or the Jiva is trying is the attainer and the"
+    },
+    {
+      "i": 410,
+      "start": 2756.08,
+      "end": 2762.64,
+      "text": "attained is Parameshwara contradicting Brahma's non dual"
+    },
+    {
+      "i": 411,
+      "start": 2762.64,
+      "end": 2764.84,
+      "text": "nature. Brahman is non dual."
+    },
+    {
+      "i": 412,
+      "start": 2766.96,
+      "end": 2772.36,
+      "text": "But when you have an attainer who is attaining Brahma then"
+    },
+    {
+      "i": 413,
+      "start": 2773.12,
+      "end": 2780.88,
+      "text": "that attainer and attain negates the very definition that eka"
+    },
+    {
+      "i": 414,
+      "start": 2780.88,
+      "end": 2785.52,
+      "text": "mewa dudhiyam Brahma. There is only one non dual"
+    },
+    {
+      "i": 415,
+      "start": 2785.8,
+      "end": 2790.48,
+      "text": "Brahman. Therefore Shankaracharya says Ma"
+    },
+    {
+      "i": 416,
+      "start": 2790.48,
+      "end": 2794.96,
+      "text": "meti is actually meaning Ma mewa Bhavati."
+    },
+    {
+      "i": 417,
+      "start": 2796.32,
+      "end": 2804.04,
+      "text": "He becomes me alone. The person who were knows this"
+    },
+    {
+      "i": 418,
+      "start": 2804.04,
+      "end": 2808.08,
+      "text": "way which has been explained as my avatara."
+    },
+    {
+      "i": 419,
+      "start": 2809.16,
+      "end": 2813.96,
+      "text": "The recognition of the non difference abhedanusandhanam"
+    },
+    {
+      "i": 420,
+      "start": 2815.48,
+      "end": 2818.68,
+      "text": "between the Jivas pratyakatma and Parameshwara."
+    },
+    {
+      "i": 421,
+      "start": 2821.88,
+      "end": 2827.0,
+      "text": "The pratyakatma or the in the jivasatma, the individual self"
+    },
+    {
+      "i": 422,
+      "start": 2829.0,
+      "end": 2831.72,
+      "text": "is not different from the parameshwara."
+    },
+    {
+      "i": 423,
+      "start": 2835.2,
+      "end": 2839.56,
+      "text": "Therefore, attaining me is not a journey but a recognition."
+    },
+    {
+      "i": 424,
+      "start": 2841.36,
+      "end": 2846.84,
+      "text": "The jiva discovers that it already is what it is seeking."
+    },
+    {
+      "i": 425,
+      "start": 2846.96,
+      "end": 2852.24,
+      "text": "Prabhasya, Prabhati, you are already that."
+    },
+    {
+      "i": 426,
+      "start": 2852.32,
+      "end": 2857.84,
+      "text": "At this very moment we all are. But only the Knowledge can"
+    },
+    {
+      "i": 427,
+      "start": 2857.84,
+      "end": 2861.8,
+      "text": "reveal that to us. As long as that knowledge"
+    },
+    {
+      "i": 428,
+      "start": 2861.8,
+      "end": 2870.32,
+      "text": "doesn't rectify in US, Pattodaha naveti ya tattodaha veti, he"
+    },
+    {
+      "i": 429,
+      "start": 2870.32,
+      "end": 2873.52,
+      "text": "attains it. Ya tattodaha naveti."
+    },
+    {
+      "i": 430,
+      "start": 2873.6,
+      "end": 2878.16,
+      "text": "One who does not know in the reality, he will never attain"
+    },
+    {
+      "i": 431,
+      "start": 2878.16,
+      "end": 2881.68,
+      "text": "it. Therefore, Mameti as per"
+    },
+    {
+      "i": 432,
+      "start": 2881.68,
+      "end": 2888.44,
+      "text": "Sangarajaya is a word, a statement similar to Aham"
+    },
+    {
+      "i": 433,
+      "start": 2888.44,
+      "end": 2895.64,
+      "text": "Brahmasmi, the Mahavakya expressed as a root of action of"
+    },
+    {
+      "i": 434,
+      "start": 2895.64,
+      "end": 2902.92,
+      "text": "Tatvatnyana. This reading is supported by the"
+    },
+    {
+      "i": 435,
+      "start": 2902.92,
+      "end": 2908.76,
+      "text": "Burhat Arniyubaneshat also Brahmayivasan Brahma Aapeti, the"
+    },
+    {
+      "i": 436,
+      "start": 2908.76,
+      "end": 2911.44,
+      "text": "4th chapter, 4th or the 6th mantra."
+    },
+    {
+      "i": 437,
+      "start": 2912.44,
+      "end": 2915.52,
+      "text": "Being Brahman alone, the knower attains Brahman."
+    },
+    {
+      "i": 438,
+      "start": 2916.92,
+      "end": 2925.72,
+      "text": "Ver Aapeti means goes towards or merges into recognition of"
+    },
+    {
+      "i": 439,
+      "start": 2925.72,
+      "end": 2929.6,
+      "text": "already accomplished identity, not a special movement."
+    },
+    {
+      "i": 440,
+      "start": 2932.16,
+      "end": 2936.04,
+      "text": "Shankarajariya also cites the Muntagopinisht 329"
+    },
+    {
+      "i": 441,
+      "start": 2937.84,
+      "end": 2942.96,
+      "text": "Brahmayivatat, Amratham Purasthaad Brahma Pasthaad"
+    },
+    {
+      "i": 442,
+      "start": 2942.96,
+      "end": 2947.64,
+      "text": "Brahma Dakshinasa de Chotarata Sarbam Brahmayvaeda."
+    },
+    {
+      "i": 443,
+      "start": 2949.28,
+      "end": 2956.08,
+      "text": "Brahmalone is Brahmanalone is the immortal before, behind, to"
+    },
+    {
+      "i": 444,
+      "start": 2956.08,
+      "end": 2960.84,
+      "text": "the left, to the right, to the top, to the bottom, and all is"
+    },
+    {
+      "i": 445,
+      "start": 2960.84,
+      "end": 2964.16,
+      "text": "this Brahman. And one who knows like this"
+    },
+    {
+      "i": 446,
+      "start": 2964.8,
+      "end": 2969.36,
+      "text": "Brahman, he warily becomes the Brahman himself."
+    },
+    {
+      "i": 447,
+      "start": 2969.36,
+      "end": 2982.12,
+      "text": "At the end of the verse Krishna says O Arjuna, it's a"
+    },
+    {
+      "i": 448,
+      "start": 2982.12,
+      "end": 2989.6,
+      "text": "personalizing seal of this route of action of knowing which is"
+    },
+    {
+      "i": 449,
+      "start": 2989.6,
+      "end": 2995.04,
+      "text": "Napunarjanma na na Mameti is being declared directly to"
+    },
+    {
+      "i": 450,
+      "start": 2995.04,
+      "end": 3003.44,
+      "text": "Arjuna or to the listener of this sloka, this verse, or to"
+    },
+    {
+      "i": 451,
+      "start": 3003.44,
+      "end": 3009.52,
+      "text": "the sadhu who's paritrana is being enacted in the real time"
+    },
+    {
+      "i": 452,
+      "start": 3009.52,
+      "end": 3015.4,
+      "text": "through this very Avatara. Teaching the words thus"
+    },
+    {
+      "i": 453,
+      "start": 3015.4,
+      "end": 3021.36,
+      "text": "completes the circle. 4.8 announced the paritrana as sadhu"
+    },
+    {
+      "i": 454,
+      "start": 3021.36,
+      "end": 3027.48,
+      "text": "Nam as the purpose of avatara. 4.9 specified what that"
+    },
+    {
+      "i": 455,
+      "start": 3027.48,
+      "end": 3032.72,
+      "text": "paritrana consists of for the individual sadhu na punarjanmam"
+    },
+    {
+      "i": 456,
+      "start": 3033.72,
+      "end": 3039.08,
+      "text": "AAM 80 liberation through from the samsara and recognition of"
+    },
+    {
+      "i": 457,
+      "start": 3039.08,
+      "end": 3046.16,
+      "text": "the identity of Parameshwara. Thus the single verse with"
+    },
+    {
+      "i": 458,
+      "start": 3046.16,
+      "end": 3054.04,
+      "text": "giving relative and correlative sentence is embedded conditions"
+    },
+    {
+      "i": 459,
+      "start": 3054.04,
+      "end": 3058.4,
+      "text": "being Janma karmacha divyam me ya vaiti satputaha, one who"
+    },
+    {
+      "i": 460,
+      "start": 3058.4,
+      "end": 3060.68,
+      "text": "knows. Thus in accordance with the"
+    },
+    {
+      "i": 461,
+      "start": 3060.68,
+      "end": 3067.84,
+      "text": "Tattva that my birth and actions are divyam or divine, Saha"
+    },
+    {
+      "i": 462,
+      "start": 3068.12,
+      "end": 3074.32,
+      "text": "chettuadehum punar janman nayeti ma meti charjuna that one having"
+    },
+    {
+      "i": 463,
+      "start": 3074.32,
+      "end": 3079.28,
+      "text": "abandoned the body, does not go for rebirth, he attains verily"
+    },
+    {
+      "i": 464,
+      "start": 3079.28,
+      "end": 3085.6,
+      "text": "me O arjuna. The philosophical structure is"
+    },
+    {
+      "i": 465,
+      "start": 3085.6,
+      "end": 3090.28,
+      "text": "Janmakarma. 2 objects is connected with one predicate."
+    },
+    {
+      "i": 466,
+      "start": 3091.44,
+      "end": 3097.44,
+      "text": "The unity of Parameswara's being and action is divine in reality."
+    },
+    {
+      "i": 467,
+      "start": 3100.04,
+      "end": 3107.92,
+      "text": "Then there is na, ETI and ETI, 2 verbs of the same root, the"
+    },
+    {
+      "i": 468,
+      "start": 3107.92,
+      "end": 3111.76,
+      "text": "negative and positive poles of moksha expressed through"
+    },
+    {
+      "i": 469,
+      "start": 3111.76,
+      "end": 3117.28,
+      "text": "identical verbal morphology, emphasizing that liberation is a"
+    },
+    {
+      "i": 470,
+      "start": 3117.28,
+      "end": 3124.12,
+      "text": "single reality described from two sides, one from the"
+    },
+    {
+      "i": 471,
+      "start": 3124.12,
+      "end": 3131.0,
+      "text": "empirical side, no punar janma, no rebirth, and maameti from the"
+    },
+    {
+      "i": 472,
+      "start": 3131.12,
+      "end": 3139.2,
+      "text": "absolute paramarthika level. Therefore, the divyam as an"
+    },
+    {
+      "i": 473,
+      "start": 3139.2,
+      "end": 3143.8,
+      "text": "epistemological key Singaracharya reads Divyam as"
+    },
+    {
+      "i": 474,
+      "start": 3143.8,
+      "end": 3150.08,
+      "text": "the qualifier for both Janma and Karma is the philosophical"
+    },
+    {
+      "i": 475,
+      "start": 3150.08,
+      "end": 3152.16,
+      "text": "philosophical fulcrum of this verse."
+    },
+    {
+      "i": 476,
+      "start": 3153.48,
+      "end": 3158.52,
+      "text": "To know Janma Karma as divyam is to know them belonging to the"
+    },
+    {
+      "i": 477,
+      "start": 3158.52,
+      "end": 3165.6,
+      "text": "order of Chaitanya chit, not the order of Jada inarthmath or"
+    },
+    {
+      "i": 478,
+      "start": 3165.6,
+      "end": 3169.6,
+      "text": "Karma Banda or Avidya driven compulsion."
+    },
+    {
+      "i": 479,
+      "start": 3171.6,
+      "end": 3176.24,
+      "text": "This is the specific content of Tattvatnayana in this context"
+    },
+    {
+      "i": 480,
+      "start": 3176.24,
+      "end": 3181.16,
+      "text": "seeing through the upadhi of Krishna's historical form to the"
+    },
+    {
+      "i": 481,
+      "start": 3181.16,
+      "end": 3186.8,
+      "text": "Avaya Aja Chit Swaruba Ishwara Parameshwara that the avatar"
+    },
+    {
+      "i": 482,
+      "start": 3186.8,
+      "end": 3192.92,
+      "text": "Pragarana has revealed Sankarajaria know for knowing"
+    },
+    {
+      "i": 483,
+      "start": 3192.92,
+      "end": 3198.08,
+      "text": "Janma as Debyam is equal to knowing it as non different from"
+    },
+    {
+      "i": 484,
+      "start": 3198.08,
+      "end": 3204.04,
+      "text": "Atma Maya or as the sovereign self protection projection of"
+    },
+    {
+      "i": 485,
+      "start": 3204.24,
+      "end": 3210.36,
+      "text": "Chaitanya rather than the karma driven compulsive worth for the"
+    },
+    {
+      "i": 486,
+      "start": 3210.36,
+      "end": 3213.84,
+      "text": "purpose of Paritra nayas Aruna and Devuna Shahaja Dushkuda."
+    },
+    {
+      "i": 487,
+      "start": 3214.6,
+      "end": 3222.04,
+      "text": "It is not a karma driven compulsion, but knowing karma as"
+    },
+    {
+      "i": 488,
+      "start": 3222.2,
+      "end": 3228.16,
+      "text": "divyam, knowing it as akruthatva expressed through action, non"
+    },
+    {
+      "i": 489,
+      "start": 3228.16,
+      "end": 3235.4,
+      "text": "doership expressed through action, How can it be?"
+    },
+    {
+      "i": 490,
+      "start": 3236.16,
+      "end": 3239.4,
+      "text": "That is, Shankaracharya says that Parameshwara acting without"
+    },
+    {
+      "i": 491,
+      "start": 3239.4,
+      "end": 3245.2,
+      "text": "the doership Kartrutha abhimana without karma Banda."
+    },
+    {
+      "i": 492,
+      "start": 3245.2,
+      "end": 3250.2,
+      "text": "Therefore, there is no bondage from the action in pure Dharma"
+    },
+    {
+      "i": 493,
+      "start": 3250.2,
+      "end": 3255.8,
+      "text": "samsa Banartha. So all his actions are driven by"
+    },
+    {
+      "i": 494,
+      "start": 3258.08,
+      "end": 3263.76,
+      "text": "not a volition, need or compulsion from his side."
+    },
+    {
+      "i": 495,
+      "start": 3264.4,
+      "end": 3268.88,
+      "text": "It is a pure establishment of Dharma."
+    },
+    {
+      "i": 496,
+      "start": 3270.44,
+      "end": 3277.4,
+      "text": "This Divya Karma is the model of Karma Yoga that the rest of the"
+    },
+    {
+      "i": 497,
+      "start": 3277.56,
+      "end": 3283.92,
+      "text": "4th chapter will elaborate. Action without Sanga, without"
+    },
+    {
+      "i": 498,
+      "start": 3283.92,
+      "end": 3288.52,
+      "text": "Karthritva Abhimana. Divya Karma in the Jiva's life"
+    },
+    {
+      "i": 499,
+      "start": 3291.76,
+      "end": 3296.88,
+      "text": "and the Aparok Shanubhava is the same as Satvatmana."
+    },
+    {
+      "i": 500,
+      "start": 3298.24,
+      "end": 3304.4,
+      "text": "It is not a mere doctrine. The liberating knowing is not a"
+    },
+    {
+      "i": 501,
+      "start": 3304.4,
+      "end": 3310.88,
+      "text": "doctrinal aspent but an approach anubhava, immediate non mediated"
+    },
+    {
+      "i": 502,
+      "start": 3310.88,
+      "end": 3317.16,
+      "text": "experience of the truth. One can intellectually accept"
+    },
+    {
+      "i": 503,
+      "start": 3317.2,
+      "end": 3322.56,
+      "text": "that Krishna is Krishna's birth is Divya and he is Ajobi son."
+    },
+    {
+      "i": 504,
+      "start": 3322.56,
+      "end": 3327.24,
+      "text": "He is a parmeshwara. Still he may not attain Moksha."
+    },
+    {
+      "i": 505,
+      "start": 3328.84,
+      "end": 3333.68,
+      "text": "The tattvatnayana that liberates is the self referential"
+    },
+    {
+      "i": 506,
+      "start": 3333.68,
+      "end": 3338.48,
+      "text": "recognition where the knower recognizes that the Parameswara"
+    },
+    {
+      "i": 507,
+      "start": 3338.48,
+      "end": 3343.8,
+      "text": "whose Janma karma are divine is identical with my own Atma or"
+    },
+    {
+      "i": 508,
+      "start": 3343.8,
+      "end": 3349.36,
+      "text": "self. The collapse of the nowhere"
+    },
+    {
+      "i": 509,
+      "start": 3349.36,
+      "end": 3353.08,
+      "text": "known duality will happen in the fire of Atma Satratkara."
+    },
+    {
+      "i": 510,
+      "start": 3353.92,
+      "end": 3356.44,
+      "text": "That is when the tattvant Nyana takes place."
+    },
+    {
+      "i": 511,
+      "start": 3361.08,
+      "end": 3364.64,
+      "text": "So Shankaracharya analysis this poon."
+    },
+    {
+      "i": 512,
+      "start": 3364.64,
+      "end": 3368.92,
+      "text": "Napunarjanma follows the caste causal chain of samsara after"
+    },
+    {
+      "i": 513,
+      "start": 3368.92,
+      "end": 3373.4,
+      "text": "slicely driven by Avidya Kamakarma Samsara Punarjanma."
+    },
+    {
+      "i": 514,
+      "start": 3374.84,
+      "end": 3381.48,
+      "text": "Whereas Tattvatnayana strikes at the root of the Avidya Moola and"
+    },
+    {
+      "i": 515,
+      "start": 3381.48,
+      "end": 3386.84,
+      "text": "when Avidya is destroyed by the Nyanagni which will be coming in"
+    },
+    {
+      "i": 516,
+      "start": 3386.84,
+      "end": 3391.48,
+      "text": "the 37th verse, the entire chain collapses."
+    },
+    {
+      "i": 517,
+      "start": 3391.56,
+      "end": 3394.84,
+      "text": "How? No avidya means no Kartar to"
+    },
+    {
+      "i": 518,
+      "start": 3394.84,
+      "end": 3398.4,
+      "text": "Abhimana, therefore no karma, no desires."
+    },
+    {
+      "i": 519,
+      "start": 3398.96,
+      "end": 3403.6,
+      "text": "And when you have no desires, no karma bhanda producing actions,"
+    },
+    {
+      "i": 520,
+      "start": 3403.88,
+      "end": 3408.6,
+      "text": "the actions won't be binding you because you have no desire in"
+    },
+    {
+      "i": 521,
+      "start": 3408.6,
+      "end": 3411.84,
+      "text": "the action, but you do the action for the purpose of the"
+    },
+    {
+      "i": 522,
+      "start": 3411.84,
+      "end": 3415.0,
+      "text": "action. Therefore no karmabanda."
+    },
+    {
+      "i": 523,
+      "start": 3415.0,
+      "end": 3418.76,
+      "text": "When you don't have the karmabanda, there is no samskara"
+    },
+    {
+      "i": 524,
+      "start": 3418.76,
+      "end": 3425.32,
+      "text": "generating the future birth, no fruits of action, or no desire"
+    },
+    {
+      "i": 525,
+      "start": 3425.32,
+      "end": 3429.84,
+      "text": "for the fruits of action which normally generates the future"
+    },
+    {
+      "i": 526,
+      "start": 3429.84,
+      "end": 3433.44,
+      "text": "birth and the absence of that samskara."
+    },
+    {
+      "i": 527,
+      "start": 3434.12,
+      "end": 3438.4,
+      "text": "There is no punar janma, no rebirth."
+    },
+    {
+      "i": 528,
+      "start": 3440.52,
+      "end": 3443.8,
+      "text": "This is not a miraculous intervention, but a logical"
+    },
+    {
+      "i": 529,
+      "start": 3443.8,
+      "end": 3448.24,
+      "text": "necessity. Avidya's destruction necessarily"
+    },
+    {
+      "i": 530,
+      "start": 3448.24,
+      "end": 3456.56,
+      "text": "implies samsara, secession. Sankaracharya refers in the"
+    },
+    {
+      "i": 531,
+      "start": 3458.48,
+      "end": 3469.52,
+      "text": "viveka. The birth of a human birth alone"
+    },
+    {
+      "i": 532,
+      "start": 3470.72,
+      "end": 3474.32,
+      "text": "offers in the opportunity for this destruction of avidya,"
+    },
+    {
+      "i": 533,
+      "start": 3474.92,
+      "end": 3479.28,
+      "text": "because that is, a human birth is a rare birth and its fruit is"
+    },
+    {
+      "i": 534,
+      "start": 3479.28,
+      "end": 3484.88,
+      "text": "precisely no punar janma. Only if the knowledge practifies"
+    },
+    {
+      "i": 535,
+      "start": 3485.0,
+      "end": 3492.48,
+      "text": "in us, then Mameti the three levels."
+    },
+    {
+      "i": 536,
+      "start": 3492.64,
+      "end": 3497.56,
+      "text": "Advaithic levels Mameti across 3 levels of understanding."
+    },
+    {
+      "i": 537,
+      "start": 3498.16,
+      "end": 3501.68,
+      "text": "One is the level 1 which is the Saguna understanding of Upasaka"
+    },
+    {
+      "i": 538,
+      "start": 3502.52,
+      "end": 3505.84,
+      "text": "where he attains Parameswara, reaches through the divine realm"
+    },
+    {
+      "i": 539,
+      "start": 3505.84,
+      "end": 3513.24,
+      "text": "of Brahmaloka, Vekunda etcetera is valid as an empirical"
+    },
+    {
+      "i": 540,
+      "start": 3513.24,
+      "end": 3517.32,
+      "text": "description for those who still are in the Saguna."
+    },
+    {
+      "i": 541,
+      "start": 3517.32,
+      "end": 3524.6,
+      "text": "Upasana number level 2 is Saguna dissolving into Nirguna."
+    },
+    {
+      "i": 542,
+      "start": 3526.6,
+      "end": 3529.68,
+      "text": "He attains Parameshwara, the upadhi condition."
+    },
+    {
+      "i": 543,
+      "start": 3529.68,
+      "end": 3537.6,
+      "text": "Jiva merges with Brahman after the Mahapralaya, that is Karma"
+    },
+    {
+      "i": 544,
+      "start": 3537.6,
+      "end": 3545.04,
+      "text": "mukti through the path of Devayana it is through the Karma"
+    },
+    {
+      "i": 545,
+      "start": 3545.04,
+      "end": 3547.92,
+      "text": "again. But the person will have to"
+    },
+    {
+      "i": 546,
+      "start": 3548.48,
+      "end": 3557.08,
+      "text": "accumulate his Ooms Punya to remain in the Brahma Loka and"
+    },
+    {
+      "i": 547,
+      "start": 3557.08,
+      "end": 3563.2,
+      "text": "the Brahma Loka will dissolve at the end of the total"
+    },
+    {
+      "i": 548,
+      "start": 3563.2,
+      "end": 3571.28,
+      "text": "dissolution. Mahapralaya Level 3 is the"
+    },
+    {
+      "i": 549,
+      "start": 3571.28,
+      "end": 3577.96,
+      "text": "Nirguna as per the Advaitic Siddhanda Trammayeevasan."
+    },
+    {
+      "i": 550,
+      "start": 3577.96,
+      "end": 3583.04,
+      "text": "Brahma Aapiadi is already Brahman when he recognizes this,"
+    },
+    {
+      "i": 551,
+      "start": 3584.64,
+      "end": 3591.2,
+      "text": "and the apparent separation is renowned and dissolved as"
+    },
+    {
+      "i": 552,
+      "start": 3591.72,
+      "end": 3599.72,
+      "text": "mithyas is not a reality. The Sayuja in its most radical"
+    },
+    {
+      "i": 553,
+      "start": 3599.76,
+      "end": 3606.92,
+      "text": "advaitic sense is not union, which implies prior duality, but"
+    },
+    {
+      "i": 554,
+      "start": 3606.92,
+      "end": 3610.16,
+      "text": "a recognition of never having been separate"
+    },
+    {
+      "i": 555,
+      "start": 3611.6,
+      "end": 3615.88,
+      "text": "Abhayathanusamdhana. Therefore, the third level is"
+    },
+    {
+      "i": 556,
+      "start": 3615.88,
+      "end": 3619.32,
+      "text": "the Tattva Taha in accordance with the Tatva and he is the"
+    },
+    {
+      "i": 557,
+      "start": 3619.32,
+      "end": 3621.92,
+      "text": "only one that produces Napunar Janma."
+    },
+    {
+      "i": 558,
+      "start": 3622.4,
+      "end": 3626.16,
+      "text": "No rebirth definitively and immediately."
+    },
+    {
+      "i": 559,
+      "start": 3627.72,
+      "end": 3631.68,
+      "text": "The 1st 2 levels produces Punar Janma eventually."
+    },
+    {
+      "i": 560,
+      "start": 3631.68,
+      "end": 3637.64,
+      "text": "Even Brahmaloga is transverse before Karma Mukti or the Saguna"
+    },
+    {
+      "i": 561,
+      "start": 3637.64,
+      "end": 3642.8,
+      "text": "Pasaga. Only the 3rd atyenda nirvarti."
+    },
+    {
+      "i": 562,
+      "start": 3642.88,
+      "end": 3646.28,
+      "text": "Nirvarti at the final irreversible cessation of"
+    },
+    {
+      "i": 563,
+      "start": 3646.28,
+      "end": 3648.76,
+      "text": "samsara can happen only from Satvatnyana."
+    },
+    {
+      "i": 564,
+      "start": 3653.0,
+      "end": 3659.64,
+      "text": "As said earlier, this is Geeta's internal falasruti, a statement"
+    },
+    {
+      "i": 565,
+      "start": 3659.64,
+      "end": 3664.44,
+      "text": "of fruit, of hearing or knowing that text or teaching serves"
+    },
+    {
+      "i": 566,
+      "start": 3664.44,
+      "end": 3667.68,
+      "text": "both the motivational scene and epistemological guarantee."
+    },
+    {
+      "i": 567,
+      "start": 3668.88,
+      "end": 3671.0,
+      "text": "That is what the teaching accomplishes."
+    },
+    {
+      "i": 568,
+      "start": 3672.36,
+      "end": 3678.56,
+      "text": "When properly received, the ninth verse functions as Gita's"
+    },
+    {
+      "i": 569,
+      "start": 3678.56,
+      "end": 3684.88,
+      "text": "own internal falasruti or the Avatar Pragarana, no Janma,"
+    },
+    {
+      "i": 570,
+      "start": 3684.88,
+      "end": 3691.6,
+      "text": "Karma as divine, that is, the tattvatnana, and one who knows"
+    },
+    {
+      "i": 571,
+      "start": 3691.6,
+      "end": 3695.44,
+      "text": "that no pular Janma and he attains mukti."
+    },
+    {
+      "i": 572,
+      "start": 3696.48,
+      "end": 3699.68,
+      "text": "The verse simultaneously completes the Avatara pragarana"
+    },
+    {
+      "i": 573,
+      "start": 3699.68,
+      "end": 3704.16,
+      "text": "and inaugurates the theoreological teaching proper."
+    },
+    {
+      "i": 574,
+      "start": 3704.84,
+      "end": 3710.64,
+      "text": "For the question now naturally arising is, how does 1 attain"
+    },
+    {
+      "i": 575,
+      "start": 3710.64,
+      "end": 3718.64,
+      "text": "this satvatiyana? And the answer lies in what lies"
+    },
+    {
+      "i": 576,
+      "start": 3718.64,
+      "end": 3726.76,
+      "text": "in the rest of the chapter 4 from verse #10 to verse #43 That"
+    },
+    {
+      "i": 577,
+      "start": 3726.76,
+      "end": 3730.8,
+      "text": "is the heart. So this is the heart of the"
+    },
+    {
+      "i": 578,
+      "start": 3730.8,
+      "end": 3735.28,
+      "text": "Avatara Paragrana, which is fully now revealed to us."
+    },
+    {
+      "i": 579,
+      "start": 3740.16,
+      "end": 3746.4,
+      "text": "The teaching began 4.1 where the Cosmic Parampara was mentioned"
+    },
+    {
+      "i": 580,
+      "start": 3746.4,
+      "end": 3753.0,
+      "text": "as Abhayya Yoga by Do I know teaching this to Vivachvan at"
+    },
+    {
+      "i": 581,
+      "start": 3753.0,
+      "end": 3757.6,
+      "text": "the time of creation and has arrived its its personal,"
+    },
+    {
+      "i": 582,
+      "start": 3757.6,
+      "end": 3761.52,
+      "text": "intimate and liberating conclusion now as Parameshwara's"
+    },
+    {
+      "i": 583,
+      "start": 3761.52,
+      "end": 3768.36,
+      "text": "Nyana Karma as Divyam known as Divine is the Tattvatnana which"
+    },
+    {
+      "i": 584,
+      "start": 3768.36,
+      "end": 3771.76,
+      "text": "results in the end of Samsara and the recognition of Brahman."
+    },
+    {
+      "i": 585,
+      "start": 3773.12,
+      "end": 3780.44,
+      "text": "Tatisht is the Paritrana that is the uplifting of sadhus mean"
+    },
+    {
+      "i": 586,
+      "start": 3780.44,
+      "end": 3788.24,
+      "text": "those who are doing Dharma. The verse that follows next 410"
+    },
+    {
+      "i": 587,
+      "start": 3789.44,
+      "end": 3794.0,
+      "text": "Vidaraga by Kroda will describe the inner state that enables the"
+    },
+    {
+      "i": 588,
+      "start": 3794.0,
+      "end": 3798.92,
+      "text": "Tattvatnyana and begin the transition towards Nyana Yoga"
+    },
+    {
+      "i": 589,
+      "start": 3799.36,
+      "end": 3802.4,
+      "text": "Pragarana that crowns the 4th chapter."
+    },
+    {
+      "i": 590,
+      "start": 3804.84,
+      "end": 3808.2,
+      "text": "There are only two statements by Shankarajya in the commentary."
+    },
+    {
+      "i": 591,
+      "start": 3810.2,
+      "end": 3814.64,
+      "text": "Janamaya rubam karmacha sadhu naam paritrana the main Mama"
+    },
+    {
+      "i": 592,
+      "start": 3814.88,
+      "end": 3825.08,
+      "text": "devyam apragatam aishwaryam ebam ektam yabeti deham Imam punar"
+    },
+    {
+      "i": 593,
+      "start": 3825.08,
+      "end": 3839.48,
+      "text": "janma punarukti mameti Saha agacheti muchte E arjuna janma"
+    },
+    {
+      "i": 594,
+      "start": 3839.48,
+      "end": 3842.64,
+      "text": "Maya rupa. My birth is the nature of Maya"
+    },
+    {
+      "i": 595,
+      "start": 3843.28,
+      "end": 3848.04,
+      "text": "as an apparent manifestation. Karmacha sadhuram paritranadi"
+    },
+    {
+      "i": 596,
+      "start": 3848.04,
+      "end": 3851.12,
+      "text": "Mein mamadivyam apragratam Aishwarya."
+    },
+    {
+      "i": 597,
+      "start": 3852.04,
+      "end": 3856.88,
+      "text": "My actions, such as protecting the righteous, are divine, not"
+    },
+    {
+      "i": 598,
+      "start": 3856.88,
+      "end": 3861.64,
+      "text": "belonging to the ordinary material order, but a sovereign"
+    },
+    {
+      "i": 599,
+      "start": 3862.52,
+      "end": 3869.6,
+      "text": "lordly action. Evam yatoktam yavati tatvataha"
+    },
+    {
+      "i": 600,
+      "start": 3869.68,
+      "end": 3876.2,
+      "text": "tatvana yavat ethavat he who knows thus in truth and as it"
+    },
+    {
+      "i": 601,
+      "start": 3876.28,
+      "end": 3881.84,
+      "text": "really is, jetwa deham Imam punar janma punaruthin na ETI na"
+    },
+    {
+      "i": 602,
+      "start": 3881.84,
+      "end": 3884.56,
+      "text": "prabhnodi. After abandoning this body"
+    },
+    {
+      "i": 603,
+      "start": 3885.08,
+      "end": 3889.84,
+      "text": "that's not returned for a birth again, mamati agachati Saha"
+    },
+    {
+      "i": 604,
+      "start": 3889.84,
+      "end": 3894.92,
+      "text": "mujtesh arjuna he comes to me, he becomes liberated O arjuna."
+    },
+    {
+      "i": 605,
+      "start": 3896.76,
+      "end": 3900.12,
+      "text": "So this verse explains how the knowledge of Lords to nature"
+    },
+    {
+      "i": 606,
+      "start": 3900.12,
+      "end": 3910.56,
+      "text": "leads to the liberation. So divyam APRA rhythm Aishwarya"
+    },
+    {
+      "i": 607,
+      "start": 3911.24,
+      "end": 3916.88,
+      "text": "are the actions are Lords action divine, not part of ordinary"
+    },
+    {
+      "i": 608,
+      "start": 3916.88,
+      "end": 3918.96,
+      "text": "nature, expression of sovereign power."
+    },
+    {
+      "i": 609,
+      "start": 3920.12,
+      "end": 3923.68,
+      "text": "Therefore Krishna acts. He is not bound by karma nor"
+    },
+    {
+      "i": 610,
+      "start": 3923.68,
+      "end": 3934.3,
+      "text": "combelled by the desire. With this the summary will be"
+    },
+    {
+      "i": 611,
+      "start": 3934.58,
+      "end": 3940.94,
+      "text": "like this. The birth of Parameshwara and"
+    },
+    {
+      "i": 612,
+      "start": 3940.94,
+      "end": 3948.92,
+      "text": "actions by him are divine manifestations through Maya, not"
+    },
+    {
+      "i": 613,
+      "start": 3948.92,
+      "end": 3952.68,
+      "text": "ordinary events. One who truly understands this"
+    },
+    {
+      "i": 614,
+      "start": 3952.68,
+      "end": 3958.4,
+      "text": "reality becomes free from the birth and attains liberation in"
+    },
+    {
+      "i": 615,
+      "start": 3958.4,
+      "end": 3966.12,
+      "text": "the Lord. Na Asha moksha margam iranim"
+    },
+    {
+      "i": 616,
+      "start": 3966.12,
+      "end": 3969.72,
+      "text": "pravrtaha Kim tarhi punaram punapurbamapi."
+    },
+    {
+      "i": 617,
+      "start": 3970.76,
+      "end": 3975.84,
+      "text": "The question is being asked for which Krishna gives the answer."
+    },
+    {
+      "i": 618,
+      "start": 3976.8,
+      "end": 3983.72,
+      "text": "Vidaraga by Prada manmaya ma mubasrita bahabon nyana tapasa"
+    },
+    {
+      "i": 619,
+      "start": 3984.6,
+      "end": 3989.92,
+      "text": "UDA madhavam Agatha. That is the 10th verse, which we"
+    },
+    {
+      "i": 620,
+      "start": 3989.92,
+      "end": 4008.2,
+      "text": "will see tomorrow. Thank you."
+    },
+    {
+      "i": 621,
+      "start": 4008.2,
+      "end": 4025.5,
+      "text": "Thank you very. Much Mendoji, I've opened the"
+    },
+    {
+      "i": 622,
+      "start": 4025.5,
+      "end": 4029.26,
+      "text": "chat in hand, raising as always a very deep manana."
+    },
+    {
+      "i": 623,
+      "start": 4030.7,
+      "end": 4033.86,
+      "text": "Any follow up questions or discussions you can come up or"
+    },
+    {
+      "i": 624,
+      "start": 4033.86,
+      "end": 4047.0,
+      "text": "put it in the chat. It's namaste, Karin."
+    },
+    {
+      "i": 625,
+      "start": 4047.92,
+      "end": 4052.2,
+      "text": "Namaste, Venkat. Namaste."
+    },
+    {
+      "i": 626,
+      "start": 4052.36,
+      "end": 4056.72,
+      "text": "Yes, Yes, Karin. Quick question, you were"
+    },
+    {
+      "i": 627,
+      "start": 4056.72,
+      "end": 4061.04,
+      "text": "speaking about the Brahmaloka it that it will dissolve?"
+    },
+    {
+      "i": 628,
+      "start": 4062.72,
+      "end": 4070.8,
+      "text": "I didn't get that part totally. Can you OK see as per the"
+    },
+    {
+      "i": 629,
+      "start": 4071.52,
+      "end": 4079.88,
+      "text": "Shastra the books not in the Vedas but in the Puranas it is"
+    },
+    {
+      "i": 630,
+      "start": 4079.88,
+      "end": 4088.92,
+      "text": "mentioned that the cycle of the time Kala Chakra is has a"
+    },
+    {
+      "i": 631,
+      "start": 4088.92,
+      "end": 4095.04,
+      "text": "beginning and an end because time has got a beginning and end"
+    },
+    {
+      "i": 632,
+      "start": 4095.28,
+      "end": 4097.76,
+      "text": "even though in between it will become eternal."
+    },
+    {
+      "i": 633,
+      "start": 4098.8,
+      "end": 4103.439,
+      "text": "The beginning and end of the time itself is a cycle called"
+    },
+    {
+      "i": 634,
+      "start": 4103.439,
+      "end": 4107.399,
+      "text": "the Kalachakra, and the end of the Kalachakra is when"
+    },
+    {
+      "i": 635,
+      "start": 4109.359,
+      "end": 4114.76,
+      "text": "everything, including the universe and the appearances,"
+    },
+    {
+      "i": 636,
+      "start": 4115.479,
+      "end": 4120.279,
+      "text": "everything will go into a state of hibernation back to the"
+    },
+    {
+      "i": 637,
+      "start": 4120.279,
+      "end": 4125.84,
+      "text": "source from where it came. That is where we said the Brahma"
+    },
+    {
+      "i": 638,
+      "start": 4125.84,
+      "end": 4129.08,
+      "text": "Loka. Now then there are 14 lokas I"
+    },
+    {
+      "i": 639,
+      "start": 4129.08,
+      "end": 4133.359,
+      "text": "told you know, in the, in the Purana where they describe it is"
+    },
+    {
+      "i": 640,
+      "start": 4133.8,
+      "end": 4136.52,
+      "text": "there are all different levels of experiences."
+    },
+    {
+      "i": 641,
+      "start": 4137.56,
+      "end": 4141.88,
+      "text": "The Brahma Loka supposed to be the the ultimate in the"
+    },
+    {
+      "i": 642,
+      "start": 4142.8,
+      "end": 4145.88,
+      "text": "experiential world which is in the empirical world."
+    },
+    {
+      "i": 643,
+      "start": 4147.399,
+      "end": 4154.6,
+      "text": "And the highest point anybody can reach by action through"
+    },
+    {
+      "i": 644,
+      "start": 4154.6,
+      "end": 4159.76,
+      "text": "action is Brahmaloga. And once he reaches Brahmaloga"
+    },
+    {
+      "i": 645,
+      "start": 4159.76,
+      "end": 4164.08,
+      "text": "then he has to stay put there till the time collapses into the"
+    },
+    {
+      "i": 646,
+      "start": 4164.08,
+      "end": 4168.6,
+      "text": "source of beginning itself like The Big Bang, reversing"
+    },
+    {
+      "i": 647,
+      "start": 4168.6,
+      "end": 4172.08,
+      "text": "everything into back to from where The Big Bang took place."
+    },
+    {
+      "i": 648,
+      "start": 4173.56,
+      "end": 4177.04,
+      "text": "So that is what is the the IT is."
+    },
+    {
+      "i": 649,
+      "start": 4177.279,
+      "end": 4181.88,
+      "text": "It is an explanation in the Puranas but not in the Vedas or"
+    },
+    {
+      "i": 650,
+      "start": 4181.88,
+      "end": 4187.04,
+      "text": "Udupunishad Karid. Thank you."
+    },
+    {
+      "i": 651,
+      "start": 4188.279,
+      "end": 4191.08,
+      "text": "Thank you, Karan. Namaste, Venkat."
+    },
+    {
+      "i": 652,
+      "start": 4193.0,
+      "end": 4195.68,
+      "text": "Pilluji follow up on the same follow up on the same question,"
+    },
+    {
+      "i": 653,
+      "start": 4195.68,
+      "end": 4200.44,
+      "text": "because here there's a clear separation."
+    },
+    {
+      "i": 654,
+      "start": 4200.56,
+      "end": 4207.28,
+      "text": "So that means after leaving the body, you will reach."
+    },
+    {
+      "i": 655,
+      "start": 4207.28,
+      "end": 4215.4,
+      "text": "You know they will merge with me than while living it's clear"
+    },
+    {
+      "i": 656,
+      "start": 4215.4,
+      "end": 4219.88,
+      "text": "call out. That means who knows my Divya"
+    },
+    {
+      "i": 657,
+      "start": 4220.16,
+      "end": 4222.8,
+      "text": "that Daivika right? It is Adi Daivika."
+    },
+    {
+      "i": 658,
+      "start": 4223.56,
+      "end": 4228.76,
+      "text": "It is falling into Adi Daivika than Adyatmika here it is"
+    },
+    {
+      "i": 659,
+      "start": 4229.6,
+      "end": 4233.92,
+      "text": "creating a boundary within which is sadhaka."
+    },
+    {
+      "i": 660,
+      "start": 4234.36,
+      "end": 4240.08,
+      "text": "You know, who knows the glory of Paramatman in the Daivika form"
+    },
+    {
+      "i": 661,
+      "start": 4241.12,
+      "end": 4244.88,
+      "text": "and feels it, you know, experienced it, etcetera."
+    },
+    {
+      "i": 662,
+      "start": 4246.04,
+      "end": 4252.6,
+      "text": "Will you know, reach him after leaving the body And that's,"
+    },
+    {
+      "i": 663,
+      "start": 4253.6,
+      "end": 4257.72,
+      "text": "that is a clear call out. Why are we giving an advaitic"
+    },
+    {
+      "i": 664,
+      "start": 4259.16,
+      "end": 4264.8,
+      "text": "model to it? The reason why we are giving"
+    },
+    {
+      "i": 665,
+      "start": 4264.8,
+      "end": 4267.96,
+      "text": "advaitic model to it is because the word Tetua."
+    },
+    {
+      "i": 666,
+      "start": 4270.36,
+      "end": 4274.4,
+      "text": "In Sanskrit the word Tetua means having abandoned."
+    },
+    {
+      "i": 667,
+      "start": 4276.24,
+      "end": 4282.4,
+      "text": "If it had been what you have said, Adi Deviga or the Deviga"
+    },
+    {
+      "i": 668,
+      "start": 4282.4,
+      "end": 4289.8,
+      "text": "form, then the word should have been Murtua having died he will"
+    },
+    {
+      "i": 669,
+      "start": 4289.8,
+      "end": 4293.52,
+      "text": "attain Punar, not to get punar Janma he will not."
+    },
+    {
+      "i": 670,
+      "start": 4293.56,
+      "end": 4298.12,
+      "text": "He will reach me. OK, then the word instead of"
+    },
+    {
+      "i": 671,
+      "start": 4298.12,
+      "end": 4301.52,
+      "text": "chetwa should have been murtwa having died."
+    },
+    {
+      "i": 672,
+      "start": 4302.2,
+      "end": 4307.32,
+      "text": "But instead of having died, Krishna used the word having"
+    },
+    {
+      "i": 673,
+      "start": 4307.36,
+      "end": 4311.16,
+      "text": "abandoned. Abandoning is possible only when"
+    },
+    {
+      "i": 674,
+      "start": 4311.16,
+      "end": 4317.52,
+      "text": "the what is what is being held is released or dropped."
+    },
+    {
+      "i": 675,
+      "start": 4319.4,
+      "end": 4325.88,
+      "text": "It is not as good as dying. Therefore, advaitic explanation"
+    },
+    {
+      "i": 676,
+      "start": 4326.32,
+      "end": 4330.72,
+      "text": "that identification with the body, mind, intellect, having"
+    },
+    {
+      "i": 677,
+      "start": 4330.72,
+      "end": 4337.56,
+      "text": "abandoned that with the knowledge tektwa tatvaha veditva"
+    },
+    {
+      "i": 678,
+      "start": 4337.88,
+      "end": 4341.16,
+      "text": "there see that is also supporting that advaitic"
+    },
+    {
+      "i": 679,
+      "start": 4341.68,
+      "end": 4345.56,
+      "text": "principle. Only Tatotaha veti means Veti"
+    },
+    {
+      "i": 680,
+      "start": 4345.56,
+      "end": 4349.68,
+      "text": "means to know. Tatotaha means by in truth,"
+    },
+    {
+      "i": 681,
+      "start": 4350.0,
+      "end": 4357.0,
+      "text": "reality as such or as suchness. So knowing as suchness is the"
+    },
+    {
+      "i": 682,
+      "start": 4357.0,
+      "end": 4362.76,
+      "text": "reason why he is able to do the abandonment of the association"
+    },
+    {
+      "i": 683,
+      "start": 4362.76,
+      "end": 4364.4,
+      "text": "with the body, mind and intellect."
+    },
+    {
+      "i": 684,
+      "start": 4366.24,
+      "end": 4371.52,
+      "text": "If he is dying, then Tatotaha veti has no role to play."
+    },
+    {
+      "i": 685,
+      "start": 4372.28,
+      "end": 4373.64,
+      "text": "He doesn't have to know anything."
+    },
+    {
+      "i": 686,
+      "start": 4374.56,
+      "end": 4380.6,
+      "text": "He dies and he goes right. So it is very clear that the"
+    },
+    {
+      "i": 687,
+      "start": 4380.6,
+      "end": 4384.44,
+      "text": "advaitic explanation is the only possible explanation possible"
+    },
+    {
+      "i": 688,
+      "start": 4384.44,
+      "end": 4388.16,
+      "text": "for this particular verse. Otherwise Krishna should have"
+    },
+    {
+      "i": 689,
+      "start": 4388.24,
+      "end": 4392.52,
+      "text": "changed the words Tattva Taka Vidiptva has to be changed to"
+    },
+    {
+      "i": 690,
+      "start": 4393.08,
+      "end": 4396.56,
+      "text": "you know something else and Jetta should have been then"
+    },
+    {
+      "i": 691,
+      "start": 4396.72,
+      "end": 4404.0,
+      "text": "changed into Marititva Maritva. If you take this line of"
+    },
+    {
+      "i": 692,
+      "start": 4404.0,
+      "end": 4409.64,
+      "text": "argument with the G, this knowledge of Janmakarmachami,"
+    },
+    {
+      "i": 693,
+      "start": 4409.88,
+      "end": 4418.68,
+      "text": "DBM, avam, that Nana of that you know avatara followed by actions"
+    },
+    {
+      "i": 694,
+      "start": 4418.88,
+      "end": 4424.12,
+      "text": "to maintain the order etcetera. Is this knowledge falling into"
+    },
+    {
+      "i": 695,
+      "start": 4424.64,
+      "end": 4427.84,
+      "text": "Nana, vignana or pragnana? Then it will fall into pragnana."
+    },
+    {
+      "i": 696,
+      "start": 4430.16,
+      "end": 4436.04,
+      "text": "No, no no. Is Janma Karma the purpose of a"
+    },
+    {
+      "i": 697,
+      "start": 4436.08,
+      "end": 4448.96,
+      "text": "divine Avatara or divine hand in the order of things and activity"
+    },
+    {
+      "i": 698,
+      "start": 4448.96,
+      "end": 4455.28,
+      "text": "for re establishment of Dharma and annihilation of Adharma"
+    },
+    {
+      "i": 699,
+      "start": 4455.96,
+      "end": 4466.64,
+      "text": "Durkruta thereby re establishing the Sanathana Dharma is done"
+    },
+    {
+      "i": 700,
+      "start": 4467.16,
+      "end": 4474.56,
+      "text": "only by a power which is not within the empirical means"
+    },
+    {
+      "i": 701,
+      "start": 4475.6,
+      "end": 4478.28,
+      "text": "because in the empirical means it was going on."
+    },
+    {
+      "i": 702,
+      "start": 4478.8,
+      "end": 4483.88,
+      "text": "Then why does Hita have to go through the decay of Dharma and"
+    },
+    {
+      "i": 703,
+      "start": 4484.28,
+      "end": 4490.28,
+      "text": "and the enhancement of adharma? Because empirically it is not"
+    },
+    {
+      "i": 704,
+      "start": 4490.28,
+      "end": 4495.08,
+      "text": "possible for rectification. That is the time when yada yada"
+    },
+    {
+      "i": 705,
+      "start": 4495.08,
+      "end": 4498.88,
+      "text": "hi dharmasya glaner bhavati bharada appyutanam adharmasya"
+    },
+    {
+      "i": 706,
+      "start": 4498.88,
+      "end": 4505.76,
+      "text": "tadat manam surajamya. That word Surajati surajdatu is"
+    },
+    {
+      "i": 707,
+      "start": 4505.76,
+      "end": 4510.88,
+      "text": "to project, to appear or to present myself."
+    },
+    {
+      "i": 708,
+      "start": 4512.08,
+      "end": 4516.28,
+      "text": "So that is what is being referred here as Janma and karma"
+    },
+    {
+      "i": 709,
+      "start": 4516.68,
+      "end": 4521.52,
+      "text": "of the purpose of that divine force."
+    },
+    {
+      "i": 710,
+      "start": 4522.8,
+      "end": 4527.8,
+      "text": "It is not the physical body of Krishna as it is what is being"
+    },
+    {
+      "i": 711,
+      "start": 4527.8,
+      "end": 4533.2,
+      "text": "referred here. That is why he said I am say I"
+    },
+    {
+      "i": 712,
+      "start": 4533.2,
+      "end": 4536.08,
+      "text": "have given this knowledge to the Viaswan in the beginning of"
+    },
+    {
+      "i": 713,
+      "start": 4536.08,
+      "end": 4542.48,
+      "text": "Karma, beginning of creation. When Karjun asked how can you be"
+    },
+    {
+      "i": 714,
+      "start": 4542.48,
+      "end": 4545.2,
+      "text": "there in the beginning of creation when I am seeing you,"
+    },
+    {
+      "i": 715,
+      "start": 4545.2,
+      "end": 4549.12,
+      "text": "you as a born out of the Devaki and Vasudeva."
+    },
+    {
+      "i": 716,
+      "start": 4549.88,
+      "end": 4552.88,
+      "text": "So you are not there present for the viewers want to be there."
+    },
+    {
+      "i": 717,
+      "start": 4553.24,
+      "end": 4556.88,
+      "text": "That is why Krishna has to say that you are looking at my"
+    },
+    {
+      "i": 718,
+      "start": 4556.88,
+      "end": 4562.12,
+      "text": "physical body and thinking that I am a Vasudeva son of De Devaki"
+    },
+    {
+      "i": 719,
+      "start": 4562.12,
+      "end": 4565.44,
+      "text": "and Vasudeva. But I am seeing myself as the"
+    },
+    {
+      "i": 720,
+      "start": 4565.44,
+      "end": 4571.36,
+      "text": "Atma or Brahman, which was never limited to the body which is"
+    },
+    {
+      "i": 721,
+      "start": 4571.36,
+      "end": 4577.36,
+      "text": "which you are seeing. I know myself as the Brahman"
+    },
+    {
+      "i": 722,
+      "start": 4577.96,
+      "end": 4580.88,
+      "text": "from birth. The Parameshwara created the"
+    },
+    {
+      "i": 723,
+      "start": 4580.88,
+      "end": 4583.84,
+      "text": "Vibhaswan, Ikshagu, etcetera, the Rajarshis."
+    },
+    {
+      "i": 724,
+      "start": 4584.84,
+      "end": 4589.84,
+      "text": "So when that knowledge is there in the Krishna, we should not"
+    },
+    {
+      "i": 725,
+      "start": 4589.84,
+      "end": 4595.92,
+      "text": "limit Krishna to Vasudeva, Vasudeva as Krishna son of"
+    },
+    {
+      "i": 726,
+      "start": 4596.04,
+      "end": 4603.12,
+      "text": "Vasudeva and Jana Devaki. If we do that then Tattva Taha"
+    },
+    {
+      "i": 727,
+      "start": 4603.12,
+      "end": 4606.32,
+      "text": "will not happen. Then Janma Karma will not be"
+    },
+    {
+      "i": 728,
+      "start": 4606.32,
+      "end": 4611.32,
+      "text": "divyam. It is not this create the"
+    },
+    {
+      "i": 729,
+      "start": 4611.32,
+      "end": 4613.12,
+      "text": "Avatara alone that he is talking about."
+    },
+    {
+      "i": 730,
+      "start": 4613.6,
+      "end": 4616.36,
+      "text": "He is talking about all the avataras which had happened"
+    },
+    {
+      "i": 731,
+      "start": 4616.36,
+      "end": 4625.24,
+      "text": "right from the Viviswan creation onwards till what is being"
+    },
+    {
+      "i": 732,
+      "start": 4625.24,
+      "end": 4630.92,
+      "text": "talked about to Arjuna. So we have to take it from a"
+    },
+    {
+      "i": 733,
+      "start": 4630.92,
+      "end": 4639.52,
+      "text": "total picture rather than a convenient level of Krishna as a"
+    },
+    {
+      "i": 734,
+      "start": 4639.52,
+      "end": 4644.96,
+      "text": "divine Lord born out of Devaki and Vosdeva."
+    },
+    {
+      "i": 735,
+      "start": 4645.16,
+      "end": 4650.28,
+      "text": "That should not be taken because he is a guru jagat guru who is"
+    },
+    {
+      "i": 736,
+      "start": 4650.28,
+      "end": 4653.56,
+      "text": "teaching the truth to the entire humanity."
+    },
+    {
+      "i": 737,
+      "start": 4654.12,
+      "end": 4658.8,
+      "text": "Arjunam Nimiti Gruthya By keeping Arjuna as an it was a"
+    },
+    {
+      "i": 738,
+      "start": 4658.8,
+      "end": 4664.12,
+      "text": "means to explain this. The listener Arjuna is"
+    },
+    {
+      "i": 739,
+      "start": 4664.12,
+      "end": 4668.48,
+      "text": "benefited, but by listening to what he told to Arjuna, the"
+    },
+    {
+      "i": 740,
+      "start": 4668.48,
+      "end": 4672.2,
+      "text": "humanity gets benefited. Ages in ages."
+    },
+    {
+      "i": 741,
+      "start": 4680.63,
+      "end": 4686.11,
+      "text": "Binduji, this I am seeing in the domain of you know, Adi"
+    },
+    {
+      "i": 742,
+      "start": 4686.11,
+      "end": 4693.12,
+      "text": "Daivikrnanam because you know, when I pondered over it over it"
+    },
+    {
+      "i": 743,
+      "start": 4693.52,
+      "end": 4699.12,
+      "text": "over the weekend that we were sworn the the passing of this"
+    },
+    {
+      "i": 744,
+      "start": 4699.16,
+      "end": 4706.72,
+      "text": "yoga, the light, right Suryadeva in yoga after Samyama that"
+    },
+    {
+      "i": 745,
+      "start": 4707.44,
+      "end": 4712.16,
+      "text": "combining all the steps into collapsing into one the stage"
+    },
+    {
+      "i": 746,
+      "start": 4712.16,
+      "end": 4718.32,
+      "text": "taken where the the light in the form of light is an experience"
+    },
+    {
+      "i": 747,
+      "start": 4719.4,
+      "end": 4723.48,
+      "text": "is where before Nanam, basically it's a the light."
+    },
+    {
+      "i": 748,
+      "start": 4723.52,
+      "end": 4728.48,
+      "text": "It is taken close to the light beyond which we are told that's"
+    },
+    {
+      "i": 749,
+      "start": 4728.48,
+      "end": 4731.52,
+      "text": "it. Your yoga sadhana stops here"
+    },
+    {
+      "i": 750,
+      "start": 4732.36,
+      "end": 4739.08,
+      "text": "after that move into Nanam. So Aditya."
+    },
+    {
+      "i": 751,
+      "start": 4739.08,
+      "end": 4741.44,
+      "text": "What nanam? What nanam is that?"
+    },
+    {
+      "i": 752,
+      "start": 4742.12,
+      "end": 4746.32,
+      "text": "Nanam is Swarupatnam. And what is the Swarupatnam?"
+    },
+    {
+      "i": 753,
+      "start": 4746.84,
+      "end": 4751.84,
+      "text": "Swarupatnam is you know there is a Prakasha Vimarsha."
+    },
+    {
+      "i": 754,
+      "start": 4752.68,
+      "end": 4757.24,
+      "text": "Prakasha is the most you can you know from a Vimarsha point of"
+    },
+    {
+      "i": 755,
+      "start": 4757.24,
+      "end": 4759.96,
+      "text": "view, that's the the closest experience."
+    },
+    {
+      "i": 756,
+      "start": 4760.8,
+      "end": 4763.8,
+      "text": "You can see that form of light. That's the most."
+    },
+    {
+      "i": 757,
+      "start": 4764.32,
+      "end": 4767.96,
+      "text": "So there is a seer, there is a seer, and there is a light"
+    },
+    {
+      "i": 758,
+      "start": 4767.96,
+      "end": 4771.04,
+      "text": "separate from the seer isn't? It yeah, that's a yoga."
+    },
+    {
+      "i": 759,
+      "start": 4771.04,
+      "end": 4773.04,
+      "text": "That's that's where the yoga stops there."
+    },
+    {
+      "i": 760,
+      "start": 4775.72,
+      "end": 4779.68,
+      "text": "Yeah, then you say that after the yoga start stops that Nyana"
+    },
+    {
+      "i": 761,
+      "start": 4779.68,
+      "end": 4782.64,
+      "text": "has to take place. So I am asking what Nyana?"
+    },
+    {
+      "i": 762,
+      "start": 4783.4,
+      "end": 4787.04,
+      "text": "That's Karu Pagnana, that you are the light, right?"
+    },
+    {
+      "i": 763,
+      "start": 4787.04,
+      "end": 4793.32,
+      "text": "That's it. You are the light and what way I"
+    },
+    {
+      "i": 764,
+      "start": 4793.32,
+      "end": 4800.04,
+      "text": "am knowing I am light is going to give me freedom from fear,"
+    },
+    {
+      "i": 765,
+      "start": 4800.2,
+      "end": 4806.72,
+      "text": "rebirth and moksha. No, that's perfect, Panaji."
+    },
+    {
+      "i": 766,
+      "start": 4806.84,
+      "end": 4811.16,
+      "text": "There's no other way. Because recognizing that's it."
+    },
+    {
+      "i": 767,
+      "start": 4811.16,
+      "end": 4814.0,
+      "text": "I am not. I am not saying yoga and per"
+    },
+    {
+      "i": 768,
+      "start": 4814.0,
+      "end": 4817.48,
+      "text": "light and that knowledge what is being told when the yoga is"
+    },
+    {
+      "i": 769,
+      "start": 4817.48,
+      "end": 4821.96,
+      "text": "wrong. But my question is that where"
+    },
+    {
+      "i": 770,
+      "start": 4821.96,
+      "end": 4827.04,
+      "text": "does it solve my Karmabanda poonar janma and my miseries of"
+    },
+    {
+      "i": 771,
+      "start": 4827.12,
+      "end": 4832.52,
+      "text": "samsara, prarabdha etc. Yeah, the duality need to drop,"
+    },
+    {
+      "i": 772,
+      "start": 4832.52,
+      "end": 4836.08,
+      "text": "you know, the sear and seam that separation need to drop off"
+    },
+    {
+      "i": 773,
+      "start": 4836.68,
+      "end": 4838.72,
+      "text": "completely. Yeah."
+    },
+    {
+      "i": 774,
+      "start": 4838.88,
+      "end": 4843.8,
+      "text": "So that is why where when we are talking about the Adi Dayiviga"
+    },
+    {
+      "i": 775,
+      "start": 4843.8,
+      "end": 4849.32,
+      "text": "thing, which is limiting only to the yoga aspect, up to that"
+    },
+    {
+      "i": 776,
+      "start": 4849.32,
+      "end": 4851.72,
+      "text": "whatever is explained is perfect."
+    },
+    {
+      "i": 777,
+      "start": 4852.52,
+      "end": 4857.24,
+      "text": "But then there is beyond that level also the IIT Dayiviga is"
+    },
+    {
+      "i": 778,
+      "start": 4857.24,
+      "end": 4862.44,
+      "text": "operational where it is Parameshwara's Swarupa itself,"
+    },
+    {
+      "i": 779,
+      "start": 4863.52,
+      "end": 4868.96,
+      "text": "that is the Brahma Swarupa, that Brahma Swarupa and Atma Swarupa"
+    },
+    {
+      "i": 780,
+      "start": 4869.08,
+      "end": 4874.56,
+      "text": "Atma Brahmaiva Napara or when Atma Ayamatma Brahma when the"
+    },
+    {
+      "i": 781,
+      "start": 4874.56,
+      "end": 4878.2,
+      "text": "Upanishad says. It is from that point of view"
+    },
+    {
+      "i": 782,
+      "start": 4878.2,
+      "end": 4884.32,
+      "text": "what is being referred here as Janma and Karma as the divine of"
+    },
+    {
+      "i": 783,
+      "start": 4885.68,
+      "end": 4891.56,
+      "text": "Ishwara who comes for the purpose of restoring Dharma and"
+    },
+    {
+      "i": 784,
+      "start": 4891.56,
+      "end": 4896.48,
+      "text": "annihilating Adharma, thereby estab reestablishing the"
+    },
+    {
+      "i": 785,
+      "start": 4896.48,
+      "end": 4903.36,
+      "text": "Sanadhana Dharma. So this Dhanam, where does this"
+    },
+    {
+      "i": 786,
+      "start": 4903.36,
+      "end": 4904.72,
+      "text": "fall? This kind of Dhanam."
+    },
+    {
+      "i": 787,
+      "start": 4905.16,
+      "end": 4908.52,
+      "text": "Will that fall into Pragnanam or Vignanam or Vignanam?"
+    },
+    {
+      "i": 788,
+      "start": 4910.36,
+      "end": 4913.44,
+      "text": "Which vignanam you are talking pratya daha?"
+    },
+    {
+      "i": 789,
+      "start": 4914.12,
+      "end": 4916.24,
+      "text": "Yeah, yeah, the Janma, Janma Karma."
+    },
+    {
+      "i": 790,
+      "start": 4917.52,
+      "end": 4922.56,
+      "text": "Janma karma Janma karma is a vitnyana which will lead you to"
+    },
+    {
+      "i": 791,
+      "start": 4922.56,
+      "end": 4929.92,
+      "text": "pratnyana by tattuta yvetti. Janma karma are divine is"
+    },
+    {
+      "i": 792,
+      "start": 4929.92,
+      "end": 4938.8,
+      "text": "vitnyana, that knowing Janma karma of anavatara is divine is"
+    },
+    {
+      "i": 793,
+      "start": 4938.8,
+      "end": 4945.68,
+      "text": "a vitnyana and that when it is applied that that were the"
+    },
+    {
+      "i": 794,
+      "start": 4945.68,
+      "end": 4951.16,
+      "text": "swarupa of that avatara and the pratyagatma of mine are non"
+    },
+    {
+      "i": 795,
+      "start": 4951.16,
+      "end": 4953.84,
+      "text": "different. When you know that that is the"
+    },
+    {
+      "i": 796,
+      "start": 4953.84,
+      "end": 4957.08,
+      "text": "time, then that becomes Pragyana."
+    },
+    {
+      "i": 797,
+      "start": 4960.24,
+      "end": 4964.12,
+      "text": "This is a Brahma Swarupa Lakshana, maybe the Saguna"
+    },
+    {
+      "i": 798,
+      "start": 4964.28,
+      "end": 4971.84,
+      "text": "Lakshana, right? Saguna Lakshana of Brahma is not"
+    },
+    {
+      "i": 799,
+      "start": 4971.84,
+      "end": 4978.44,
+      "text": "mentioned here at all. It is mentioned as Avatara."
+    },
+    {
+      "i": 800,
+      "start": 4979.04,
+      "end": 4984.16,
+      "text": "Brahma has not shown as Brahman has not shown as Saguna in"
+    },
+    {
+      "i": 801,
+      "start": 4984.16,
+      "end": 4989.52,
+      "text": "Varguna. Here it is Brahman the word, the"
+    },
+    {
+      "i": 802,
+      "start": 4989.52,
+      "end": 4993.52,
+      "text": "one who comes Atma Mahaya. That word has got importance"
+    },
+    {
+      "i": 803,
+      "start": 4993.52,
+      "end": 4997.72,
+      "text": "here. When Brahman want to project"
+    },
+    {
+      "i": 804,
+      "start": 4999.04,
+      "end": 5004.56,
+      "text": "that is what air sasya Sobha. That Maya is the sobhava of"
+    },
+    {
+      "i": 805,
+      "start": 5004.56,
+      "end": 5007.72,
+      "text": "Ishwara Brahman. Brahman is in the form of"
+    },
+    {
+      "i": 806,
+      "start": 5007.72,
+      "end": 5011.6,
+      "text": "projection projective nature. Projection comes into projection"
+    },
+    {
+      "i": 807,
+      "start": 5011.6,
+      "end": 5016.44,
+      "text": "nature. Then the projection is what"
+    },
+    {
+      "i": 808,
+      "start": 5016.44,
+      "end": 5020.92,
+      "text": "becomes the world because it is through the Maya."
+    },
+    {
+      "i": 809,
+      "start": 5022.76,
+      "end": 5030.88,
+      "text": "And then when the Maya is in the Maya, if avidya happens due to"
+    },
+    {
+      "i": 810,
+      "start": 5030.88,
+      "end": 5037.4,
+      "text": "the Kama and Kama and Kuroda located in our three locations"
+    },
+    {
+      "i": 811,
+      "start": 5037.4,
+      "end": 5044.36,
+      "text": "like the sense organs, manas and the buddhi, then we lose our"
+    },
+    {
+      "i": 812,
+      "start": 5045.12,
+      "end": 5051.12,
+      "text": "knowledge of who we are and we get superimposed with that."
+    },
+    {
+      "i": 813,
+      "start": 5051.12,
+      "end": 5052.76,
+      "text": "We are the mind, body and intellect."
+    },
+    {
+      "i": 814,
+      "start": 5052.76,
+      "end": 5056.48,
+      "text": "And the rest of the story, You know it, I don't have to repeat"
+    },
+    {
+      "i": 815,
+      "start": 5056.48,
+      "end": 5059.76,
+      "text": "it. So that is why we need to know"
+    },
+    {
+      "i": 816,
+      "start": 5059.76,
+      "end": 5066.68,
+      "text": "it from the point of view of there is saguna is only for the"
+    },
+    {
+      "i": 817,
+      "start": 5066.68,
+      "end": 5073.12,
+      "text": "purpose of explanation that saguna aspect was is present in"
+    },
+    {
+      "i": 818,
+      "start": 5073.12,
+      "end": 5077.52,
+      "text": "the Nirguna itself but not separately definable."
+    },
+    {
+      "i": 819,
+      "start": 5080.8,
+      "end": 5085.24,
+      "text": "That means there is no boundary between Nana, Pagna, Arnana,"
+    },
+    {
+      "i": 820,
+      "start": 5085.24,
+      "end": 5087.08,
+      "text": "Vignana and Pragnana. You can't."
+    },
+    {
+      "i": 821,
+      "start": 5087.6,
+      "end": 5093.4,
+      "text": "You know it after all of these are from the same source."
+    },
+    {
+      "i": 822,
+      "start": 5094.4,
+      "end": 5096.48,
+      "text": "After Tatutaha, there is nothing else."
+    },
+    {
+      "i": 823,
+      "start": 5097.08,
+      "end": 5098.88,
+      "text": "Nothing else. Basically, there is no"
+    },
+    {
+      "i": 824,
+      "start": 5098.92,
+      "end": 5104.96,
+      "text": "separation altogether. Yeah, K Kaivali, Kaivali."
+    },
+    {
+      "i": 825,
+      "start": 5109.4,
+      "end": 5111.44,
+      "text": "OK, that total set. Yes."
+    },
+    {
+      "i": 826,
+      "start": 5114.2,
+      "end": 5117.52,
+      "text": "Bhandaji, we'll continue to contemplate on this."
+    },
+    {
+      "i": 827,
+      "start": 5117.8,
+      "end": 5119.84,
+      "text": "OK. Thank you."
+    },
+    {
+      "i": 828,
+      "start": 5119.84,
+      "end": 5128.92,
+      "text": "OK, OK, Prakash. All right, Bhandaji, let's Yeah,"
+    },
+    {
+      "i": 829,
+      "start": 5128.96,
+      "end": 5130.84,
+      "text": "we have. It's already getting to 10:30."
+    },
+    {
+      "i": 830,
+      "start": 5130.84,
+      "end": 5136.6,
+      "text": "So thanks everyone for coming. Tomorrow we'll reconvene for the"
+    },
+    {
+      "i": 831,
+      "start": 5136.6,
+      "end": 5144.04,
+      "text": "next class 4/07 at 8:30 PM IST and the replays again are"
+    },
+    {
+      "i": 832,
+      "start": 5144.04,
+      "end": 5147.8,
+      "text": "available for you to access in Clubhouse, or you can go to the"
+    },
+    {
+      "i": 833,
+      "start": 5147.8,
+      "end": 5151.24,
+      "text": "link shared in the chat. And as always, thank you,"
+    },
+    {
+      "i": 834,
+      "start": 5151.24,
+      "end": 5153.88,
+      "text": "Binduji, over to you to close the room."
+    },
+    {
+      "i": 835,
+      "start": 5155.24,
+      "end": 5156.92,
+      "text": "Thank you, Prakash. Thank you, Karin."
+    },
+    {
+      "i": 836,
+      "start": 5156.96,
+      "end": 5160.52,
+      "text": "Thank you, Venkat for your questions and thank all of you"
+    },
+    {
+      "i": 837,
+      "start": 5161.04,
+      "end": 5162.96,
+      "text": "for being there. We'll continue our class"
+    },
+    {
+      "i": 838,
+      "start": 5162.96,
+      "end": 5164.72,
+      "text": "tomorrow. Hari Om."
+    },
+    {
+      "i": 839,
+      "start": 5165.16,
+      "end": 5166.76,
+      "text": "Goodnight, Hari Om."
+    }
+  ]
+}

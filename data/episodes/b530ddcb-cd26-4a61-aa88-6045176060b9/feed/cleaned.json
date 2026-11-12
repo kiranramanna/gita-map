@@ -1,0 +1,5383 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "b530ddcb-cd26-4a61-aa88-6045176060b9",
+  "source_sha256": "bdefee90b44b99693d28479259578cdda740cae46e9648f3babfc232b8139bcf",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.16,
+      "end": 2.48,
+      "text": "Yeah. OK, Namaste everyone."
+    },
+    {
+      "i": 2,
+      "start": 2.48,
+      "end": 4.84,
+      "text": "Welcome to Advaita Vedanta Satsang House."
+    },
+    {
+      "i": 3,
+      "start": 6.48,
+      "end": 10.2,
+      "text": "As you might be familiar, if not, you know the new schedule"
+    },
+    {
+      "i": 4,
+      "start": 10.2,
+      "end": 13.28,
+      "text": "we have follow. We follow with the live rooms"
+    },
+    {
+      "i": 5,
+      "start": 13.28,
+      "end": 16.48,
+      "text": "with Binduji where we're starting with chapter 5."
+    },
+    {
+      "i": 6,
+      "start": 17.96,
+      "end": 22.0,
+      "text": "We had three rooms last week it was Monday, Wednesday, Friday,"
+    },
+    {
+      "i": 7,
+      "start": 22.0,
+      "end": 25.36,
+      "text": "6:30 AM. But we are switching because"
+    },
+    {
+      "i": 8,
+      "start": 25.36,
+      "end": 28.68,
+      "text": "Binduji is scheduled. Due to the schedule, we are"
+    },
+    {
+      "i": 9,
+      "start": 28.68,
+      "end": 32.72,
+      "text": "switching to Tuesday, Wednesday, Thursday 6:30 AM IST."
+    },
+    {
+      "i": 10,
+      "start": 33.8,
+      "end": 38.4,
+      "text": "So please make a note of that. You can access the replays in"
+    },
+    {
+      "i": 11,
+      "start": 38.56,
+      "end": 41.6,
+      "text": "Clubhouse or you could go to the link shared in the chat."
+    },
+    {
+      "i": 12,
+      "start": 41.72,
+      "end": 44.68,
+      "text": "Advaita Retold YouTube channel where they are well catalogued"
+    },
+    {
+      "i": 13,
+      "start": 45.28,
+      "end": 49.64,
+      "text": "in a series. There are also links from Apple"
+    },
+    {
+      "i": 14,
+      "start": 49.64,
+      "end": 53.08,
+      "text": "Broadcast and Spotify where you can access these stocks."
+    },
+    {
+      "i": 15,
+      "start": 53.96,
+      "end": 58.96,
+      "text": "There is also a book written by Artemisia based on Binduji's"
+    },
+    {
+      "i": 16,
+      "start": 58.96,
+      "end": 63.76,
+      "text": "insights into Advaita, which can be a good companion to as a"
+    },
+    {
+      "i": 17,
+      "start": 63.76,
+      "end": 67.6,
+      "text": "reading companion where you can gain deeper insights into the"
+    },
+    {
+      "i": 18,
+      "start": 67.84,
+      "end": 71.8,
+      "text": "Advaitic method for housekeeping."
+    },
+    {
+      "i": 19,
+      "start": 71.8,
+      "end": 74.28,
+      "text": "I'll close the chat in hand raising when Binduji is"
+    },
+    {
+      "i": 20,
+      "start": 74.28,
+      "end": 77.52,
+      "text": "conducting the class, after which the channels will be open"
+    },
+    {
+      "i": 21,
+      "start": 77.6,
+      "end": 80.08,
+      "text": "for Q&A. You can either come up and ask"
+    },
+    {
+      "i": 22,
+      "start": 80.08,
+      "end": 83.16,
+      "text": "or you can put it in the chat. And as always, thank you,"
+    },
+    {
+      "i": 23,
+      "start": 83.16,
+      "end": 87.6,
+      "text": "Binduji, over to you. Thank you, Prakash."
+    },
+    {
+      "i": 24,
+      "start": 87.8,
+      "end": 90.96,
+      "text": "Thank you, admission. Welcome and Hariyum to all of"
+    },
+    {
+      "i": 25,
+      "start": 90.96,
+      "end": 97.4,
+      "text": "you. I have listened to the open"
+    },
+    {
+      "i": 26,
+      "start": 97.4,
+      "end": 102.16,
+      "text": "house on Sunday. It was a very good beginning and"
+    },
+    {
+      "i": 27,
+      "start": 102.16,
+      "end": 110.16,
+      "text": "I would say that contributions by Prakash, Al Mahadir, Srinivas"
+    },
+    {
+      "i": 28,
+      "start": 110.16,
+      "end": 117.6,
+      "text": "and Uma have been very, you know, in in what you call"
+    },
+    {
+      "i": 29,
+      "start": 117.6,
+      "end": 123.6,
+      "text": "informative and insight into how they are looking into the"
+    },
+    {
+      "i": 30,
+      "start": 124.12,
+      "end": 129.56,
+      "text": "teachings and the subject. As a whole, Madhir was very,"
+    },
+    {
+      "i": 31,
+      "start": 129.56,
+      "end": 133.6,
+      "text": "very expressive. And I really appreciate his way"
+    },
+    {
+      "i": 32,
+      "start": 133.6,
+      "end": 137.76,
+      "text": "in which he did it. And the questions with Prakash"
+    },
+    {
+      "i": 33,
+      "start": 138.44,
+      "end": 143.16,
+      "text": "gave kept the, you know, temper of the room going."
+    },
+    {
+      "i": 34,
+      "start": 143.92,
+      "end": 147.52,
+      "text": "I would like you to continue the same effort so that, you know,"
+    },
+    {
+      "i": 35,
+      "start": 147.84,
+      "end": 151.44,
+      "text": "like when I listen to the replay, I know exactly where,"
+    },
+    {
+      "i": 36,
+      "start": 151.44,
+      "end": 155.52,
+      "text": "you know, some misunderstanding has happened from my"
+    },
+    {
+      "i": 37,
+      "start": 155.52,
+      "end": 159.6,
+      "text": "explanation, which I can correct it and explain it later."
+    },
+    {
+      "i": 38,
+      "start": 160.2,
+      "end": 165.0,
+      "text": "But I didn't find any in this gone episode of last Sunday."
+    },
+    {
+      "i": 39,
+      "start": 165.84,
+      "end": 170.72,
+      "text": "So with that let me do my invocation for today's class and"
+    },
+    {
+      "i": 40,
+      "start": 170.72,
+      "end": 175.12,
+      "text": "because I had to change it to Tuesday, Wednesday and Thursday,"
+    },
+    {
+      "i": 41,
+      "start": 175.12,
+      "end": 181.92,
+      "text": "mainly because either Monday or Friday family of my daughter,"
+    },
+    {
+      "i": 42,
+      "start": 182.4,
+      "end": 185.12,
+      "text": "they have some related activities."
+    },
+    {
+      "i": 43,
+      "start": 185.6,
+      "end": 188.76,
+      "text": "But normally Tuesday, Wednesday, Thursday they are busy with"
+    },
+    {
+      "i": 44,
+      "start": 188.76,
+      "end": 192.64,
+      "text": "their routine. So I also thought it is better"
+    },
+    {
+      "i": 45,
+      "start": 192.64,
+      "end": 196.36,
+      "text": "for me to do it on Tuesday, Wednesday, Thursday so that the"
+    },
+    {
+      "i": 46,
+      "start": 196.36,
+      "end": 199.92,
+      "text": "classes are not broken or it can be continuous."
+    },
+    {
+      "i": 47,
+      "start": 201.48,
+      "end": 207.0,
+      "text": "With that, we will continue to build to today's class the 4th"
+    },
+    {
+      "i": 48,
+      "start": 207.0,
+      "end": 212.6,
+      "text": "class in 5th chapter my invocations."
+    },
+    {
+      "i": 49,
+      "start": 217.64,
+      "end": 228.68,
+      "text": "Namo brahma dibyo brahma vidya sampraday karthiya Guru Bhagavat"
+    },
+    {
+      "i": 50,
+      "start": 228.68,
+      "end": 240.0,
+      "text": "Padam Shankaram logo Shankaram Shankaram sankaram ishwaru guru"
+    },
+    {
+      "i": 51,
+      "start": 240.0,
+      "end": 303.96,
+      "text": "ratmedi murti de da vibhagini. So in the last class we"
+    },
+    {
+      "i": 52,
+      "start": 303.96,
+      "end": 314.92,
+      "text": "discussed about the Sanyasastu Zanmahabaho, the verse which was"
+    },
+    {
+      "i": 53,
+      "start": 316.08,
+      "end": 319.84,
+      "text": "talking about the psychology of Dandakarana and the pedagogy of"
+    },
+    {
+      "i": 54,
+      "start": 319.84,
+      "end": 324.88,
+      "text": "Dandakaran. Viveka yoga yukta muni."
+    },
+    {
+      "i": 55,
+      "start": 325.12,
+      "end": 329.04,
+      "text": "One who has walked the preparatory path with full"
+    },
+    {
+      "i": 56,
+      "start": 329.04,
+      "end": 334.36,
+      "text": "commitments, he will find Brahman not at the end of the"
+    },
+    {
+      "i": 57,
+      "start": 334.36,
+      "end": 337.56,
+      "text": "road. Chirena Adi Gachdi immediately"
+    },
+    {
+      "i": 58,
+      "start": 338.36,
+      "end": 343.04,
+      "text": "falling away of the Vale, the Atnyana samshe Vipariya"
+    },
+    {
+      "i": 59,
+      "start": 343.84,
+      "end": 349.8,
+      "text": "Nachirena, as swiftly as possible, effortless as the dawn"
+    },
+    {
+      "i": 60,
+      "start": 350.04,
+      "end": 354.44,
+      "text": "dissolving the darkness of the night as the."
+    },
+    {
+      "i": 61,
+      "start": 354.76,
+      "end": 359.8,
+      "text": "That is the example given. Having told about that, how does"
+    },
+    {
+      "i": 62,
+      "start": 359.8,
+      "end": 370.8,
+      "text": "he achieve it instantaneously. The next verse is a explanatory"
+    },
+    {
+      "i": 63,
+      "start": 371.88,
+      "end": 378.4,
+      "text": "verse from different aspects of our understanding of the"
+    },
+    {
+      "i": 64,
+      "start": 378.84,
+      "end": 381.64,
+      "text": "Jivatma, the individual empirical."
+    },
+    {
+      "i": 65,
+      "start": 381.64,
+      "end": 389.64,
+      "text": "Self and how does he. Get impacted by the the"
+    },
+    {
+      "i": 66,
+      "start": 389.96,
+      "end": 394.08,
+      "text": "Brahmatnyana or the knowledge of the Brahmat which was mentioned"
+    },
+    {
+      "i": 67,
+      "start": 394.08,
+      "end": 395.24,
+      "text": "in the earlier. Verse."
+    },
+    {
+      "i": 68,
+      "start": 396.96,
+      "end": 401.2,
+      "text": "So the seventh verse says. That yoga yukto vishuddhatma"
+    },
+    {
+      "i": 69,
+      "start": 401.88,
+      "end": 407.92,
+      "text": "vichitatma jitendriya sarva bhutasma bhutatma kuruvan"
+    },
+    {
+      "i": 70,
+      "start": 407.92,
+      "end": 409.0,
+      "text": "nabina. Lipyathe."
+    },
+    {
+      "i": 71,
+      "start": 411.8,
+      "end": 418.76,
+      "text": "The first line and the second line, first word are all"
+    },
+    {
+      "i": 72,
+      "start": 418.76,
+      "end": 424.48,
+      "text": "adjectives of the Jeevan. Mukta are the man of"
+    },
+    {
+      "i": 73,
+      "start": 424.48,
+      "end": 432.0,
+      "text": "realization, Yoga Yukta, bishut datma, Jiji Datma."
+    },
+    {
+      "i": 74,
+      "start": 432.0,
+      "end": 437.44,
+      "text": "Jitendriya means one who yoked with yoga or integrated with"
+    },
+    {
+      "i": 75,
+      "start": 437.44,
+      "end": 445.28,
+      "text": "yoga of completely pure, a pure inner being, Vishuddha atma and"
+    },
+    {
+      "i": 76,
+      "start": 445.28,
+      "end": 448.4,
+      "text": "Vijita atma. Means he has mastered the mind,"
+    },
+    {
+      "i": 77,
+      "start": 449.48,
+      "end": 452.8,
+      "text": "jitendriya. Not only he has mastered the"
+    },
+    {
+      "i": 78,
+      "start": 452.8,
+      "end": 456.52,
+      "text": "mind, he also has conquered his senses."
+    },
+    {
+      "i": 79,
+      "start": 458.56,
+      "end": 464.8,
+      "text": "Such a person, sarvabhuda atma bhuda atma, the one who has,"
+    },
+    {
+      "i": 80,
+      "start": 465.28,
+      "end": 472.72,
+      "text": "whose self has become the self of all this is the actual"
+    },
+    {
+      "i": 81,
+      "start": 474.68,
+      "end": 482.8,
+      "text": "happening or what is? Being understood as the"
+    },
+    {
+      "i": 82,
+      "start": 482.8,
+      "end": 487.48,
+      "text": "realization and the word Kuruvan nabina."
+    },
+    {
+      "i": 83,
+      "start": 487.48,
+      "end": 495.4,
+      "text": "Lipyathe is the you know the result, even though he is"
+    },
+    {
+      "i": 84,
+      "start": 495.4,
+      "end": 500.44,
+      "text": "continuing to live in this world, Kuruvan Nabi even while"
+    },
+    {
+      "i": 85,
+      "start": 500.44,
+      "end": 503.68,
+      "text": "acting in this world as a normally as any other human"
+    },
+    {
+      "i": 86,
+      "start": 503.68,
+      "end": 509.0,
+      "text": "being. Nalipyathe He is not tainted or"
+    },
+    {
+      "i": 87,
+      "start": 509.0,
+      "end": 512.159,
+      "text": "stained. Or touched or adhered by the"
+    },
+    {
+      "i": 88,
+      "start": 513.32,
+      "end": 519.159,
+      "text": "Karma or Karmafala, because he is never the doer nor the"
+    },
+    {
+      "i": 89,
+      "start": 519.2,
+      "end": 524.44,
+      "text": "enjoyer of it. Let us look at the individual"
+    },
+    {
+      "i": 90,
+      "start": 524.44,
+      "end": 531.28,
+      "text": "words Yoga. Yuktah is a compound word of 2"
+    },
+    {
+      "i": 91,
+      "start": 531.28,
+      "end": 537.16,
+      "text": "words Yoga and Yukta. Yoga is We know what is yoga."
+    },
+    {
+      "i": 92,
+      "start": 537.16,
+      "end": 541.76,
+      "text": "We have learned the yoga in our previous verses where Krishna"
+    },
+    {
+      "i": 93,
+      "start": 541.76,
+      "end": 548.36,
+      "text": "has explained what is yoga. Yuktah means one who is yoked to"
+    },
+    {
+      "i": 94,
+      "start": 548.36,
+      "end": 552.72,
+      "text": "yoga or integrated through yoga is."
+    },
+    {
+      "i": 95,
+      "start": 553.64,
+      "end": 556.36,
+      "text": "A attribute of the Jiva Jeevan Mukta."
+    },
+    {
+      "i": 96,
+      "start": 558.44,
+      "end": 563.56,
+      "text": "There has been actually continuation from the same 6th"
+    },
+    {
+      "i": 97,
+      "start": 563.56,
+      "end": 569.36,
+      "text": "words word he said Yogayukta Yogayukta Munir that he used the"
+    },
+    {
+      "i": 98,
+      "start": 569.36,
+      "end": 575.36,
+      "text": "word Munidhar to here now. It describes not the aspirant"
+    },
+    {
+      "i": 99,
+      "start": 575.36,
+      "end": 580.08,
+      "text": "who is approaching the knowledge of Brahman, but one who has"
+    },
+    {
+      "i": 100,
+      "start": 580.08,
+      "end": 587.72,
+      "text": "arrived Brahma Atigata. Who has whose yoga or whose?"
+    },
+    {
+      "i": 101,
+      "start": 588.2,
+      "end": 593.96,
+      "text": "You know identification or integration or abundance has"
+    },
+    {
+      "i": 102,
+      "start": 593.96,
+      "end": 598.08,
+      "text": "reached its culmination the term."
+    },
+    {
+      "i": 103,
+      "start": 598.08,
+      "end": 607.12,
+      "text": "Now describes the state of the person, not a practice."
+    },
+    {
+      "i": 104,
+      "start": 607.4,
+      "end": 610.52,
+      "text": "It is not a yoga which is an action."
+    },
+    {
+      "i": 105,
+      "start": 611.4,
+      "end": 618.96,
+      "text": "Here Yoga becomes the state by the through the integration that"
+    },
+    {
+      "i": 106,
+      "start": 618.96,
+      "end": 622.68,
+      "text": "is the yoga Yukta. The second word is Vishuddhatma."
+    },
+    {
+      "i": 107,
+      "start": 624.08,
+      "end": 631.36,
+      "text": "Vishuddha means purified Atma. Here is not the self which is"
+    },
+    {
+      "i": 108,
+      "start": 631.36,
+      "end": 637.68,
+      "text": "being referred here. It is the Self as an individual,"
+    },
+    {
+      "i": 109,
+      "start": 639.24,
+      "end": 645.32,
+      "text": "not the ego, not the individuality, but the same Self"
+    },
+    {
+      "i": 110,
+      "start": 646.2,
+      "end": 653.48,
+      "text": "which is now being seen by the Jeevan Mukta as his Self."
+    },
+    {
+      "i": 111,
+      "start": 655.6,
+      "end": 661.68,
+      "text": "We also are perceiving our Self as the individualized ego."
+    },
+    {
+      "i": 112,
+      "start": 662.96,
+      "end": 665.28,
+      "text": "That is where the Adyasa is taking place."
+    },
+    {
+      "i": 113,
+      "start": 666.12,
+      "end": 669.56,
+      "text": "Therefore, we think we are the. Body, mind, intellect."
+    },
+    {
+      "i": 114,
+      "start": 669.64,
+      "end": 672.24,
+      "text": "At the same time we know we are not the body, mind and"
+    },
+    {
+      "i": 115,
+      "start": 672.24,
+      "end": 677.56,
+      "text": "intellect, yet we are unable to declutch ourself from the"
+    },
+    {
+      "i": 116,
+      "start": 677.56,
+      "end": 680.96,
+      "text": "identity of the body, mind, intellect complex."
+    },
+    {
+      "i": 117,
+      "start": 681.72,
+      "end": 685.2,
+      "text": "So for us the Atma is the individuality."
+    },
+    {
+      "i": 118,
+      "start": 686.48,
+      "end": 691.08,
+      "text": "But the one who has arrived at the knowledge of Brahmatmagh, he"
+    },
+    {
+      "i": 119,
+      "start": 691.08,
+      "end": 694.32,
+      "text": "is the one who is being here referred as Vishuddhatma."
+    },
+    {
+      "i": 120,
+      "start": 696.48,
+      "end": 699.88,
+      "text": "One who has Atma is completely purified."
+    },
+    {
+      "i": 121,
+      "start": 700.88,
+      "end": 706.32,
+      "text": "Therefore, the Atma is of the end of the Jeevan Mukta."
+    },
+    {
+      "i": 122,
+      "start": 707.0,
+      "end": 710.84,
+      "text": "Do not identify with the body, mind, intellect complex like how"
+    },
+    {
+      "i": 123,
+      "start": 710.84,
+      "end": 716.28,
+      "text": "we do one of completely purified inner being."
+    },
+    {
+      "i": 124,
+      "start": 717.44,
+      "end": 724.76,
+      "text": "He is not seeing himself as the identifier with the body, mind,"
+    },
+    {
+      "i": 125,
+      "start": 724.76,
+      "end": 729.8,
+      "text": "intellect, complex. He has purified that identity,"
+    },
+    {
+      "i": 126,
+      "start": 729.88,
+      "end": 735.64,
+      "text": "that purification is the wrong notion which we have, that we"
+    },
+    {
+      "i": 127,
+      "start": 735.64,
+      "end": 739.32,
+      "text": "are the individuality with the body, mind, intellect, complex."
+    },
+    {
+      "i": 128,
+      "start": 740.92,
+      "end": 748.16,
+      "text": "That wrong identification is the avidya or the ignorance."
+    },
+    {
+      "i": 129,
+      "start": 748.56,
+      "end": 754.6,
+      "text": "Or what is called the malam or the effect of Atmana Sanchez"
+    },
+    {
+      "i": 130,
+      "start": 754.6,
+      "end": 759.44,
+      "text": "Viparia. The Vishuddhatma is Vishuddha"
+    },
+    {
+      "i": 131,
+      "start": 759.44,
+      "end": 766.76,
+      "text": "Andakarana, one whose Andakarana or the inner being has been"
+    },
+    {
+      "i": 132,
+      "start": 766.76,
+      "end": 773.12,
+      "text": "rendered completely transparent through the sustained karma Yoga"
+    },
+    {
+      "i": 133,
+      "start": 774.8,
+      "end": 781.16,
+      "text": "where he has started with offering the karmas to a higher"
+    },
+    {
+      "i": 134,
+      "start": 781.16,
+      "end": 784.2,
+      "text": "pedestal or any stage, Ishta devata or Ishwara."
+    },
+    {
+      "i": 135,
+      "start": 784.96,
+      "end": 794.32,
+      "text": "As he matured he moved away from a doer to the non doer, non"
+    },
+    {
+      "i": 136,
+      "start": 794.32,
+      "end": 798.12,
+      "text": "enjoer ship. That is the transparency which"
+    },
+    {
+      "i": 137,
+      "start": 798.12,
+      "end": 802.48,
+      "text": "is taking place and it is through the Karma Yoga he has"
+    },
+    {
+      "i": 138,
+      "start": 802.48,
+      "end": 808.16,
+      "text": "achieved that. The prefix Vishuddha is to show"
+    },
+    {
+      "i": 139,
+      "start": 808.16,
+      "end": 811.48,
+      "text": "that we is to show the completeness of the"
+    },
+    {
+      "i": 140,
+      "start": 811.48,
+      "end": 814.84,
+      "text": "purification. Sudha means purifying, Visuddha"
+    },
+    {
+      "i": 141,
+      "start": 814.84,
+      "end": 816.92,
+      "text": "means completeness of purification."
+    },
+    {
+      "i": 142,
+      "start": 817.52,
+      "end": 823.84,
+      "text": "It is not a partial suddhi like we have a partial knowledge."
+    },
+    {
+      "i": 143,
+      "start": 824.6,
+      "end": 828.4,
+      "text": "We know that we are not the body, mind, intellect complex."
+    },
+    {
+      "i": 144,
+      "start": 828.4,
+      "end": 836.12,
+      "text": "At the same time, we are not Dick D, you know, identified our"
+    },
+    {
+      "i": 145,
+      "start": 836.12,
+      "end": 842.0,
+      "text": "self with the body mind complex. So we still continue to remain"
+    },
+    {
+      "i": 146,
+      "start": 842.0,
+      "end": 845.96,
+      "text": "as the empirical being in an empirical world."
+    },
+    {
+      "i": 147,
+      "start": 846.76,
+      "end": 850.84,
+      "text": "Whereas a person who is Vishuddhatma, it is not a"
+    },
+    {
+      "i": 148,
+      "start": 850.84,
+      "end": 855.12,
+      "text": "partial shuddhi or partial purification but the total"
+    },
+    {
+      "i": 149,
+      "start": 855.12,
+      "end": 860.12,
+      "text": "removal of the malla impurity in the form of raga, dvesha, moha"
+    },
+    {
+      "i": 150,
+      "start": 860.28,
+      "end": 865.12,
+      "text": "and identification with the the inner being or on the karna."
+    },
+    {
+      "i": 151,
+      "start": 866.36,
+      "end": 872.24,
+      "text": "And these are all. Clouds in the Chitta were the"
+    },
+    {
+      "i": 152,
+      "start": 872.24,
+      "end": 878.6,
+      "text": "Sachitananda. That nature of pure Atman should"
+    },
+    {
+      "i": 153,
+      "start": 878.6,
+      "end": 881.32,
+      "text": "be the is the one which is shining."
+    },
+    {
+      "i": 154,
+      "start": 881.36,
+      "end": 886.68,
+      "text": "In spite of that we are unable to see that nature of ours as"
+    },
+    {
+      "i": 155,
+      "start": 886.68,
+      "end": 892.24,
+      "text": "the Sudha Atma because of this Raghadhuva Mohai etcetera, which"
+    },
+    {
+      "i": 156,
+      "start": 892.24,
+      "end": 895.92,
+      "text": "we identify. It is not that Agar Dwesha Moha"
+    },
+    {
+      "i": 157,
+      "start": 895.96,
+      "end": 902.24,
+      "text": "is not happening but we identify with that and say that it is my"
+    },
+    {
+      "i": 158,
+      "start": 902.48,
+      "end": 910.52,
+      "text": "desire, my you know hatred, my you know attachments etcetera."
+    },
+    {
+      "i": 159,
+      "start": 911.12,
+      "end": 913.28,
+      "text": "All those things comes with the mind."
+    },
+    {
+      "i": 160,
+      "start": 913.84,
+      "end": 918.68,
+      "text": "The mind is the reason why the impurity is still clung, clung"
+    },
+    {
+      "i": 161,
+      "start": 918.68,
+      "end": 925.84,
+      "text": "to us or clinging to us. And they are like clouds, they"
+    },
+    {
+      "i": 162,
+      "start": 925.84,
+      "end": 931.92,
+      "text": "cannot permanently remain there. The clouds which prohibit the"
+    },
+    {
+      "i": 163,
+      "start": 931.92,
+      "end": 938.92,
+      "text": "sun from shining is actually not touching the sun nor making the"
+    },
+    {
+      "i": 164,
+      "start": 938.92,
+      "end": 944.36,
+      "text": "sun ineffective. But the effect of the sun is"
+    },
+    {
+      "i": 165,
+      "start": 945.04,
+      "end": 950.52,
+      "text": "clouded by the thickness of the cloud depending upon if it is a."
+    },
+    {
+      "i": 166,
+      "start": 950.52,
+      "end": 956.64,
+      "text": "Dark cloud or a thin cloud? Same way the raga, Dvesha, Moha"
+    },
+    {
+      "i": 167,
+      "start": 957.24,
+      "end": 960.56,
+      "text": "and Abhimana etcetera which are which are the part of the"
+    },
+    {
+      "i": 168,
+      "start": 960.68,
+      "end": 964.92,
+      "text": "Yandakarana were the shining of the Atma is permanent."
+    },
+    {
+      "i": 169,
+      "start": 965.44,
+      "end": 970.56,
+      "text": "Even while talking this, even while listening this every"
+    },
+    {
+      "i": 170,
+      "start": 970.56,
+      "end": 975.56,
+      "text": "moment of our experience pratibodha, every moment of the"
+    },
+    {
+      "i": 171,
+      "start": 975.56,
+      "end": 979.76,
+      "text": "side, it is that Atma which is because of which we are able to"
+    },
+    {
+      "i": 172,
+      "start": 979.8,
+      "end": 986.0,
+      "text": "identify everything which is happening outside as the objects"
+    },
+    {
+      "i": 173,
+      "start": 986.68,
+      "end": 992.16,
+      "text": "and we as the subject. This subject is not the"
+    },
+    {
+      "i": 174,
+      "start": 992.16,
+      "end": 995.56,
+      "text": "andakarana, not the inner instrument where the mind, body"
+    },
+    {
+      "i": 175,
+      "start": 995.56,
+      "end": 999.8,
+      "text": "in them etcetera is acting, but it is the pure self."
+    },
+    {
+      "i": 176,
+      "start": 1001.08,
+      "end": 1006.68,
+      "text": "But that self is not identified by us or one the when the"
+    },
+    {
+      "i": 177,
+      "start": 1006.68,
+      "end": 1011.0,
+      "text": "visuddha Atma, one who has purified his antakarana with"
+    },
+    {
+      "i": 178,
+      "start": 1011.2,
+      "end": 1016.28,
+      "text": "from the raga dvesa and the mala etcetera, his atman shines"
+    },
+    {
+      "i": 179,
+      "start": 1016.28,
+      "end": 1020.64,
+      "text": "completely. That is why the visuddha word is"
+    },
+    {
+      "i": 180,
+      "start": 1020.64,
+      "end": 1023.28,
+      "text": "used. So the atman in this compound"
+    },
+    {
+      "i": 181,
+      "start": 1023.28,
+      "end": 1032.52,
+      "text": "refers to the jivatma. Jivatma means it is the same"
+    },
+    {
+      "i": 182,
+      "start": 1032.56,
+      "end": 1036.44,
+      "text": "atma. It is like the example you know"
+    },
+    {
+      "i": 183,
+      "start": 1036.68,
+      "end": 1043.96,
+      "text": "which we saw earlier. It is the IT is the reflection"
+    },
+    {
+      "i": 184,
+      "start": 1044.4,
+      "end": 1048.68,
+      "text": "or it is the part of the sunlight which is reflected on"
+    },
+    {
+      "i": 185,
+      "start": 1048.68,
+      "end": 1055.52,
+      "text": "this on the surface which we call it as jeevatma."
+    },
+    {
+      "i": 186,
+      "start": 1056.64,
+      "end": 1060.56,
+      "text": "The Sanskrit term for it is Andak Karana, Upahita Chaitanya."
+    },
+    {
+      "i": 187,
+      "start": 1061.12,
+      "end": 1067.76,
+      "text": "Andakarana means the body, the the mind and the intellect that"
+    },
+    {
+      "i": 188,
+      "start": 1067.76,
+      "end": 1071.04,
+      "text": "is the under Karana. Upahitha Chaitanya means"
+    },
+    {
+      "i": 189,
+      "start": 1072.4,
+      "end": 1078.36,
+      "text": "functioning through Upahitha means restricted and functioning"
+    },
+    {
+      "i": 190,
+      "start": 1078.36,
+      "end": 1083.8,
+      "text": "through what is restricted and finding functioning through the"
+    },
+    {
+      "i": 191,
+      "start": 1084.24,
+      "end": 1086.92,
+      "text": "under karana or the mind and the intellect."
+    },
+    {
+      "i": 192,
+      "start": 1087.64,
+      "end": 1093.44,
+      "text": "The same Chaitanya, if there are No 2 Chaitanya, it is the same"
+    },
+    {
+      "i": 193,
+      "start": 1093.44,
+      "end": 1101.16,
+      "text": "self which is now in you, me and every object or every creation."
+    },
+    {
+      "i": 194,
+      "start": 1103.08,
+      "end": 1110.92,
+      "text": "But due to the Upahita or the conditioning of the mind and the"
+    },
+    {
+      "i": 195,
+      "start": 1110.92,
+      "end": 1117.4,
+      "text": "intellect, we feel I am that you know the individuality is born."
+    },
+    {
+      "i": 196,
+      "start": 1119.56,
+      "end": 1123.56,
+      "text": "So the the self which is being referred here is Vishuddha."
+    },
+    {
+      "i": 197,
+      "start": 1123.56,
+      "end": 1131.64,
+      "text": "Atma is of that which is fear, which is conditioned by the mind"
+    },
+    {
+      "i": 198,
+      "start": 1131.64,
+      "end": 1134.72,
+      "text": "and intellect, not the transcendent atma which is ever"
+    },
+    {
+      "i": 199,
+      "start": 1134.72,
+      "end": 1137.84,
+      "text": "pure. That is Nitishuddha Buddha Mukta"
+    },
+    {
+      "i": 200,
+      "start": 1137.88,
+      "end": 1142.4,
+      "text": "subhaba, that atma is pure, ever pure."
+    },
+    {
+      "i": 201,
+      "start": 1143.32,
+      "end": 1147.76,
+      "text": "Therefore, the purification is of the upahitha means the upadhi"
+    },
+    {
+      "i": 202,
+      "start": 1148.6,
+      "end": 1151.12,
+      "text": "conditioned through the instruments of mind and"
+    },
+    {
+      "i": 203,
+      "start": 1151.12,
+      "end": 1156.04,
+      "text": "intellect. Because the Atman does not need"
+    },
+    {
+      "i": 204,
+      "start": 1156.04,
+      "end": 1158.16,
+      "text": "any purification, it is ever pure."
+    },
+    {
+      "i": 205,
+      "start": 1158.72,
+      "end": 1161.76,
+      "text": "So purity is when it is functioning through the"
+    },
+    {
+      "i": 206,
+      "start": 1161.76,
+      "end": 1165.48,
+      "text": "instrument. The instrument need to be sharp,"
+    },
+    {
+      "i": 207,
+      "start": 1166.04,
+      "end": 1169.56,
+      "text": "the instrument need to be pure. The instrument need to be"
+    },
+    {
+      "i": 208,
+      "start": 1169.56,
+      "end": 1176.32,
+      "text": "functional 100% to convey the power of the operator."
+    },
+    {
+      "i": 209,
+      "start": 1177.52,
+      "end": 1181.8,
+      "text": "If you are considering Atma as the operator, but it is he is"
+    },
+    {
+      "i": 210,
+      "start": 1181.8,
+      "end": 1185.0,
+      "text": "not even an operator. His presence is the one with"
+    },
+    {
+      "i": 211,
+      "start": 1185.0,
+      "end": 1190.0,
+      "text": "which we feel that the in in the mind and intellect is"
+    },
+    {
+      "i": 212,
+      "start": 1190.0,
+      "end": 1195.68,
+      "text": "functioning. To add to this aspect, the next"
+    },
+    {
+      "i": 213,
+      "start": 1195.68,
+      "end": 1203.72,
+      "text": "word vijita atma is specifically referring to the mind or the"
+    },
+    {
+      "i": 214,
+      "start": 1203.72,
+      "end": 1210.48,
+      "text": "inner self as the mind. Vijita Jita means mastered or"
+    },
+    {
+      "i": 215,
+      "start": 1210.48,
+      "end": 1214.96,
+      "text": "conquered. Vijadat Vijitat means completely"
+    },
+    {
+      "i": 216,
+      "start": 1214.96,
+      "end": 1219.8,
+      "text": "conquered or mastered. Again here Atman is referring to"
+    },
+    {
+      "i": 217,
+      "start": 1219.8,
+      "end": 1223.68,
+      "text": "the mind and the karuna, not specifically the mind and"
+    },
+    {
+      "i": 218,
+      "start": 1223.68,
+      "end": 1229.4,
+      "text": "intellect complex. Here it is referring to the very"
+    },
+    {
+      "i": 219,
+      "start": 1229.4,
+      "end": 1236.44,
+      "text": "mind with which we call as mind human being, Manasa Mann in"
+    },
+    {
+      "i": 220,
+      "start": 1236.56,
+      "end": 1239.36,
+      "text": "Sanskrit. In Hindi we call it as man."
+    },
+    {
+      "i": 221,
+      "start": 1239.96,
+      "end": 1245.56,
+      "text": "In Sanskrit we call it. As manas and it is the IT."
+    },
+    {
+      "i": 222,
+      "start": 1245.56,
+      "end": 1248.08,
+      "text": "Is it is that? Which is."
+    },
+    {
+      "i": 223,
+      "start": 1248.76,
+      "end": 1256.52,
+      "text": "The nodal aspect of the inner instrument, even the intellect"
+    },
+    {
+      "i": 224,
+      "start": 1256.6,
+      "end": 1261.56,
+      "text": "depends upon the mind. Even the memory depends upon the"
+    },
+    {
+      "i": 225,
+      "start": 1261.56,
+      "end": 1265.8,
+      "text": "mind. Even the, you know, emotions,"
+    },
+    {
+      "i": 226,
+      "start": 1265.8,
+      "end": 1270.24,
+      "text": "feelings, thoughts and operations of the the incense"
+    },
+    {
+      "i": 227,
+      "start": 1270.24,
+      "end": 1279.08,
+      "text": "organs depends upon the mind. So the mind as an inner organ is"
+    },
+    {
+      "i": 228,
+      "start": 1279.32,
+      "end": 1285.64,
+      "text": "called the atma itself because it is through the mind."
+    },
+    {
+      "i": 229,
+      "start": 1285.68,
+      "end": 1290.12,
+      "text": "The entire functions of the Andakarana, of the Mano,"
+    },
+    {
+      "i": 230,
+      "start": 1290.12,
+      "end": 1292.84,
+      "text": "buddhiya, hangarachitta, all of them are functioning."
+    },
+    {
+      "i": 231,
+      "start": 1294.32,
+      "end": 1299.0,
+      "text": "So when it is mentioned here, the jidatma, it is referring to"
+    },
+    {
+      "i": 232,
+      "start": 1299.0,
+      "end": 1304.64,
+      "text": "that aspect of the mind which is being needed, conquered."
+    },
+    {
+      "i": 233,
+      "start": 1307.04,
+      "end": 1311.12,
+      "text": "While we said the purification is required for the intellect"
+    },
+    {
+      "i": 234,
+      "start": 1311.12,
+      "end": 1317.72,
+      "text": "and the other things, the Andakarana, the victory of the"
+    },
+    {
+      "i": 235,
+      "start": 1317.72,
+      "end": 1324.12,
+      "text": "mind is the most important aspect, not purification alone."
+    },
+    {
+      "i": 236,
+      "start": 1325.68,
+      "end": 1330.2,
+      "text": "By purification you are purifying what has already been"
+    },
+    {
+      "i": 237,
+      "start": 1330.2,
+      "end": 1335.6,
+      "text": "impacted upon. But how will you stop further"
+    },
+    {
+      "i": 238,
+      "start": 1335.6,
+      "end": 1344.2,
+      "text": "impact or the further? You know, the ignorance and the"
+    },
+    {
+      "i": 239,
+      "start": 1344.48,
+      "end": 1348.48,
+      "text": "misapprehension, etcetera. Happening again from the the"
+    },
+    {
+      "i": 240,
+      "start": 1348.48,
+      "end": 1352.64,
+      "text": "mental level, for that we need to conquer the mind."
+    },
+    {
+      "i": 241,
+      "start": 1353.24,
+      "end": 1356.32,
+      "text": "That is why he is referring here as Vijita Atma."
+    },
+    {
+      "i": 242,
+      "start": 1357.96,
+      "end": 1362.52,
+      "text": "So if we look at the Visuddhatma, the Amdakarna"
+    },
+    {
+      "i": 243,
+      "start": 1363.2,
+      "end": 1368.56,
+      "text": "purified of impurities, whereas in the case of Vijita Atma it is"
+    },
+    {
+      "i": 244,
+      "start": 1368.56,
+      "end": 1374.72,
+      "text": "the mind were the reactive, impulsive and the accumulation"
+    },
+    {
+      "i": 245,
+      "start": 1374.72,
+      "end": 1381.04,
+      "text": "of all current activities becoming memories etc being"
+    },
+    {
+      "i": 246,
+      "start": 1383.28,
+      "end": 1387.32,
+      "text": "prohibited or one over conquered."
+    },
+    {
+      "i": 247,
+      "start": 1388.68,
+      "end": 1392.56,
+      "text": "Where the Visuddhatma's nature is positive quality of purity"
+    },
+    {
+      "i": 248,
+      "start": 1392.56,
+      "end": 1397.88,
+      "text": "which is being achieved. In the case of Vijithatma, it is"
+    },
+    {
+      "i": 249,
+      "start": 1397.88,
+      "end": 1403.64,
+      "text": "the mastery over the manoverthis or the mental thought flows,"
+    },
+    {
+      "i": 250,
+      "start": 1403.64,
+      "end": 1408.4,
+      "text": "etc. The mind longer, longer drags"
+    },
+    {
+      "i": 251,
+      "start": 1408.4,
+      "end": 1417.64,
+      "text": "the jiva toward the objects. When we win over our mind, the"
+    },
+    {
+      "i": 252,
+      "start": 1417.64,
+      "end": 1426.28,
+      "text": "self is not dragged to the objects of, you know, Indriyas,"
+    },
+    {
+      "i": 253,
+      "start": 1426.96,
+      "end": 1432.44,
+      "text": "where the mind is the one which is, you know, evaluating the"
+    },
+    {
+      "i": 254,
+      "start": 1432.48,
+      "end": 1439.04,
+      "text": "sensory inputs from the sense organs, both external sense"
+    },
+    {
+      "i": 255,
+      "start": 1439.04,
+      "end": 1441.08,
+      "text": "organs and internal sense organs."
+    },
+    {
+      "i": 256,
+      "start": 1442.52,
+      "end": 1446.76,
+      "text": "So Vijitatna, A concurred self, points to the mastery of the"
+    },
+    {
+      "i": 257,
+      "start": 1446.76,
+      "end": 1453.04,
+      "text": "manohritis, the cessation of the mind's habitual movement towards"
+    },
+    {
+      "i": 258,
+      "start": 1453.04,
+      "end": 1458.16,
+      "text": "the sense object, Vishaya in Advaita."
+    },
+    {
+      "i": 259,
+      "start": 1458.16,
+      "end": 1462.84,
+      "text": "This is not the suppression in the nigraha which is there in"
+    },
+    {
+      "i": 260,
+      "start": 1462.84,
+      "end": 1466.32,
+      "text": "the Patanjali Yoga, but in the Advaita."
+    },
+    {
+      "i": 261,
+      "start": 1466.32,
+      "end": 1471.2,
+      "text": "It is not a nigraha, but a natural settling of the mind."
+    },
+    {
+      "i": 262,
+      "start": 1471.2,
+      "end": 1478.4,
+      "text": "Prasamana where Vidyagya is complete and Viveka becomes"
+    },
+    {
+      "i": 263,
+      "start": 1478.4,
+      "end": 1484.24,
+      "text": "operative. That is the that is the place"
+    },
+    {
+      "i": 264,
+      "start": 1484.24,
+      "end": 1487.88,
+      "text": "where it is the winning over the mind takes place."
+    },
+    {
+      "i": 265,
+      "start": 1488.76,
+      "end": 1492.56,
+      "text": "It has to be done handled with both Viveka and Vairagya."
+    },
+    {
+      "i": 266,
+      "start": 1493.88,
+      "end": 1498.64,
+      "text": "Vairagya is withdrawal from the object."
+    },
+    {
+      "i": 267,
+      "start": 1499.52,
+      "end": 1506.0,
+      "text": "Viveka becomes operative that it it knows that it no more need to"
+    },
+    {
+      "i": 268,
+      "start": 1506.0,
+      "end": 1511.68,
+      "text": "be withdrawing from the object. But because the objects are"
+    },
+    {
+      "i": 269,
+      "start": 1512.44,
+      "end": 1519.2,
+      "text": "understood from the Atma level, the mind no longer seeks because"
+    },
+    {
+      "i": 270,
+      "start": 1519.2,
+      "end": 1526.72,
+      "text": "the jiva has recognized that all seeking was rooted in the false"
+    },
+    {
+      "i": 271,
+      "start": 1526.72,
+      "end": 1536.48,
+      "text": "premises of pornata abhava, no, the pornatum, which is of the"
+    },
+    {
+      "i": 272,
+      "start": 1536.48,
+      "end": 1539.2,
+      "text": "nature of the self, our own nature."
+    },
+    {
+      "i": 273,
+      "start": 1540.92,
+      "end": 1548.6,
+      "text": "When that is absent, we feel a lacuna or a need or a desire or"
+    },
+    {
+      "i": 274,
+      "start": 1548.96,
+      "end": 1557.52,
+      "text": "a sense of need to fulfill something that apoornatu or"
+    },
+    {
+      "i": 275,
+      "start": 1557.52,
+      "end": 1561.72,
+      "text": "koornata bhava. Why is the false premises based"
+    },
+    {
+      "i": 276,
+      "start": 1561.72,
+      "end": 1566.68,
+      "text": "on which the mind was moving towards the objects, Vishaya,"
+    },
+    {
+      "i": 277,
+      "start": 1568.24,
+      "end": 1574.72,
+      "text": "the sense of lack with the Atmatnyana or with that"
+    },
+    {
+      "i": 278,
+      "start": 1575.72,
+      "end": 1580.92,
+      "text": "knowledge of the Self, the Jeevan Mukta has now dissolved"
+    },
+    {
+      "i": 279,
+      "start": 1580.92,
+      "end": 1588.0,
+      "text": "that sense of lack or absence or need in him."
+    },
+    {
+      "i": 280,
+      "start": 1589.24,
+      "end": 1594.24,
+      "text": "Therefore the Vijayat Vijidatma is the one who has completely"
+    },
+    {
+      "i": 281,
+      "start": 1594.24,
+      "end": 1599.08,
+      "text": "conquered the mind. While the mind is conquered, the"
+    },
+    {
+      "i": 282,
+      "start": 1599.08,
+      "end": 1604.6,
+      "text": "next word jitendriya talks about the external organs."
+    },
+    {
+      "i": 283,
+      "start": 1606.08,
+      "end": 1611.88,
+      "text": "The Indriya doesn't mean the senses of cognition but senses"
+    },
+    {
+      "i": 284,
+      "start": 1611.88,
+      "end": 1616.84,
+      "text": "of action also. While by whom the senses have"
+    },
+    {
+      "i": 285,
+      "start": 1616.84,
+      "end": 1621.36,
+      "text": "conquered, He is a master of the senses."
+    },
+    {
+      "i": 286,
+      "start": 1622.76,
+      "end": 1630.88,
+      "text": "He is nor never a subjugate or subjugized by the the sense"
+    },
+    {
+      "i": 287,
+      "start": 1630.88,
+      "end": 1640.04,
+      "text": "organs and making him powerless. So vijitaatma of the previous"
+    },
+    {
+      "i": 288,
+      "start": 1640.04,
+      "end": 1646.68,
+      "text": "word is moving now from the mental level to the external"
+    },
+    {
+      "i": 289,
+      "start": 1646.68,
+      "end": 1652.24,
+      "text": "level, from the inner to the outer, from the mastery of the"
+    },
+    {
+      "i": 290,
+      "start": 1652.24,
+      "end": 1657.16,
+      "text": "andakarana, the sense organs, to the mastery of the Bahir karana,"
+    },
+    {
+      "i": 291,
+      "start": 1657.28,
+      "end": 1661.8,
+      "text": "the external organs, both nyanendriyas and karmendriyas,"
+    },
+    {
+      "i": 292,
+      "start": 1661.8,
+      "end": 1666.16,
+      "text": "that is, sense senses of cognition and senses of action."
+    },
+    {
+      "i": 293,
+      "start": 1668.76,
+      "end": 1673.64,
+      "text": "Shankaracharya consistently holds that you know the outer"
+    },
+    {
+      "i": 294,
+      "start": 1673.64,
+      "end": 1680.04,
+      "text": "sense restrainment cannot happen unless it flows naturally from"
+    },
+    {
+      "i": 295,
+      "start": 1680.04,
+      "end": 1684.32,
+      "text": "the mastery of the inner sense inner organ under Karana."
+    },
+    {
+      "i": 296,
+      "start": 1685.92,
+      "end": 1688.32,
+      "text": "In other words, the Dhamma follows Sama."
+    },
+    {
+      "i": 297,
+      "start": 1691.24,
+      "end": 1696.4,
+      "text": "Just as a river can be controlled at its source,"
+    },
+    {
+      "i": 298,
+      "start": 1697.28,
+      "end": 1702.48,
+      "text": "thereby controlling the flow and the securing the banks,"
+    },
+    {
+      "i": 299,
+      "start": 1702.48,
+      "end": 1707.56,
+      "text": "etcetera, if it is tied at that, when the river has taken its"
+    },
+    {
+      "i": 300,
+      "start": 1707.56,
+      "end": 1710.4,
+      "text": "full force, it cannot be controlled."
+    },
+    {
+      "i": 301,
+      "start": 1710.4,
+      "end": 1714.92,
+      "text": "You cannot build a dam when the river is in the full or full"
+    },
+    {
+      "i": 302,
+      "start": 1714.92,
+      "end": 1718.04,
+      "text": "force. Therefore, the jitendriya does"
+    },
+    {
+      "i": 303,
+      "start": 1718.04,
+      "end": 1720.8,
+      "text": "not mean the senses have been destroyed."
+    },
+    {
+      "i": 304,
+      "start": 1722.8,
+      "end": 1729.08,
+      "text": "The Jeevan Mukta continues to see here touch, taste, function"
+    },
+    {
+      "i": 305,
+      "start": 1729.08,
+      "end": 1733.72,
+      "text": "with all his sensory cognition, sensory actions."
+    },
+    {
+      "i": 306,
+      "start": 1734.12,
+      "end": 1737.0,
+      "text": "It means the senses no longer drag the jiva."
+    },
+    {
+      "i": 307,
+      "start": 1741.52,
+      "end": 1751.04,
+      "text": "They function as instruments of a Sakshi A1 who knows that"
+    },
+    {
+      "i": 308,
+      "start": 1751.04,
+      "end": 1757.04,
+      "text": "neither I am the doer nor the enjoyer without generating the"
+    },
+    {
+      "i": 309,
+      "start": 1757.04,
+      "end": 1762.16,
+      "text": "raga dvesha. There is no potency for the raga"
+    },
+    {
+      "i": 310,
+      "start": 1762.16,
+      "end": 1769.48,
+      "text": "dvesha to generate because raga dvesha is a result of ill"
+    },
+    {
+      "i": 311,
+      "start": 1769.48,
+      "end": 1776.12,
+      "text": "educated on the karuna or an andakarana which is which is"
+    },
+    {
+      "i": 312,
+      "start": 1776.16,
+      "end": 1780.32,
+      "text": "under the influence of ignorance avidya."
+    },
+    {
+      "i": 313,
+      "start": 1783.48,
+      "end": 1788.16,
+      "text": "Therefore the senses are jita mean conquered or in the senses."
+    },
+    {
+      "i": 314,
+      "start": 1788.16,
+      "end": 1791.56,
+      "text": "They are no longer the masters for the inner life."
+    },
+    {
+      "i": 315,
+      "start": 1794.88,
+      "end": 1804.24,
+      "text": "The next word in the first of the second life is a complex"
+    },
+    {
+      "i": 316,
+      "start": 1804.24,
+      "end": 1811.2,
+      "text": "Bhubrihi compound compound Sarva bhuta atma, bhuta atma."
+    },
+    {
+      "i": 317,
+      "start": 1813.6,
+      "end": 1818.32,
+      "text": "Please listen carefully. The words included are Sarva"
+    },
+    {
+      "i": 318,
+      "start": 1819.04,
+      "end": 1826.32,
+      "text": "bhuta, atma, bhuta atma. The bhuta atma is repeated, but"
+    },
+    {
+      "i": 319,
+      "start": 1827.4,
+      "end": 1831.16,
+      "text": "EE if at each level it has a different meaning."
+    },
+    {
+      "i": 320,
+      "start": 1836.24,
+      "end": 1839.64,
+      "text": "Sarva means all, Buddha means being."
+    },
+    {
+      "i": 321,
+      "start": 1840.2,
+      "end": 1847.32,
+      "text": "Atma means the self, the second Buddha instead of being."
+    },
+    {
+      "i": 322,
+      "start": 1847.84,
+      "end": 1854.04,
+      "text": "It is. It is used here as become, and"
+    },
+    {
+      "i": 323,
+      "start": 1854.44,
+      "end": 1862.24,
+      "text": "Atman remains as Atman. So one whose Hartman has become"
+    },
+    {
+      "i": 324,
+      "start": 1862.6,
+      "end": 1869.44,
+      "text": "the Hartman of all beings. That is the meaning of the"
+    },
+    {
+      "i": 325,
+      "start": 1869.44,
+      "end": 1872.76,
+      "text": "compound. Listen."
+    },
+    {
+      "i": 326,
+      "start": 1872.96,
+      "end": 1879.28,
+      "text": "One whose Hartman has become the Hartman of all beings."
+    },
+    {
+      "i": 327,
+      "start": 1881.8,
+      "end": 1888.92,
+      "text": "Repeating again one whose Atman means what he now identifies as"
+    },
+    {
+      "i": 328,
+      "start": 1888.92,
+      "end": 1894.32,
+      "text": "his own Atman. This is the Atman."
+    },
+    {
+      "i": 329,
+      "start": 1895.4,
+      "end": 1902.04,
+      "text": "Now he sees this Atman as the Atman of all beings."
+    },
+    {
+      "i": 330,
+      "start": 1903.12,
+      "end": 1910.68,
+      "text": "He identifies just as I am now the Self, the Atma, everyone,"
+    },
+    {
+      "i": 331,
+      "start": 1910.68,
+      "end": 1915.96,
+      "text": "every being, every creation in the world is also the similar"
+    },
+    {
+      "i": 332,
+      "start": 1915.96,
+      "end": 1920.4,
+      "text": "way. I have been seeing difference"
+    },
+    {
+      "i": 333,
+      "start": 1920.76,
+      "end": 1927.44,
+      "text": "till now based on my my mind and the sense organs which were not"
+    },
+    {
+      "i": 334,
+      "start": 1927.44,
+      "end": 1932.56,
+      "text": "under my control. So I was seeing the creation of"
+    },
+    {
+      "i": 335,
+      "start": 1932.56,
+      "end": 1937.24,
+      "text": "all beings as different independent individual with"
+    },
+    {
+      "i": 336,
+      "start": 1937.24,
+      "end": 1939.56,
+      "text": "names and forms and qualifications."
+    },
+    {
+      "i": 337,
+      "start": 1942.08,
+      "end": 1950.8,
+      "text": "The moment when I knew my atma as one which is Vishuddha, means"
+    },
+    {
+      "i": 338,
+      "start": 1950.8,
+      "end": 1957.4,
+      "text": "purified without any raga, dwesha and the mala of all those"
+    },
+    {
+      "i": 339,
+      "start": 1957.4,
+      "end": 1965.12,
+      "text": "things I the upahidat Atma or the instrument on the karana"
+    },
+    {
+      "i": 340,
+      "start": 1965.16,
+      "end": 1971.28,
+      "text": "which through which I was seeing the whole thing is now pure and"
+    },
+    {
+      "i": 341,
+      "start": 1971.28,
+      "end": 1979.16,
+      "text": "clear and transparent. Therefore, I am seeing myself as"
+    },
+    {
+      "i": 342,
+      "start": 1979.16,
+      "end": 1983.96,
+      "text": "the Atman, not as the individualized ego."
+    },
+    {
+      "i": 343,
+      "start": 1985.68,
+      "end": 1990.48,
+      "text": "And when I am seeing myself as the Atman which is pure and"
+    },
+    {
+      "i": 344,
+      "start": 1990.48,
+      "end": 1999.6,
+      "text": "nithya and shuddha, I am able to see the same in all creations"
+    },
+    {
+      "i": 345,
+      "start": 2001.28,
+      "end": 2005.72,
+      "text": "because all the creations were seen as different due to my"
+    },
+    {
+      "i": 346,
+      "start": 2005.72,
+      "end": 2008.16,
+      "text": "impurity of the my and the Karana."
+    },
+    {
+      "i": 347,
+      "start": 2010.08,
+      "end": 2014.96,
+      "text": "Where I identified myself as the individual and looked at the"
+    },
+    {
+      "i": 348,
+      "start": 2014.96,
+      "end": 2020.16,
+      "text": "whole world as names and forms with raga, dwesha,"
+    },
+    {
+      "i": 349,
+      "start": 2020.16,
+      "end": 2025.36,
+      "text": "qualifications of likes and dislikes, aggrandizing, hatring,"
+    },
+    {
+      "i": 350,
+      "start": 2025.44,
+      "end": 2030.68,
+      "text": "all those things. But when under Karana and the"
+    },
+    {
+      "i": 351,
+      "start": 2030.68,
+      "end": 2036.68,
+      "text": "mind became Vishuddha and Vijitaatma, the sense organs"
+    },
+    {
+      "i": 352,
+      "start": 2036.68,
+      "end": 2042.72,
+      "text": "which were seeing and operating is no more under the control of"
+    },
+    {
+      "i": 353,
+      "start": 2042.72,
+      "end": 2047.48,
+      "text": "the uneducated mind intellect. Etcetera."
+    },
+    {
+      "i": 354,
+      "start": 2049.239,
+      "end": 2055.239,
+      "text": "Therefore myself which is now seeing the world is the one who"
+    },
+    {
+      "i": 355,
+      "start": 2055.239,
+      "end": 2061.32,
+      "text": "seeing the world as Atman itself, and that is the time"
+    },
+    {
+      "i": 356,
+      "start": 2061.32,
+      "end": 2064.36,
+      "text": "when I am seeing the whole world as also at."
+    },
+    {
+      "i": 357,
+      "start": 2065.639,
+      "end": 2071.08,
+      "text": "So one whose self has become the self of all Being is the meaning"
+    },
+    {
+      "i": 358,
+      "start": 2071.08,
+      "end": 2073.52,
+      "text": "of the word Sarvabhudhatna Budhatma."
+    },
+    {
+      "i": 359,
+      "start": 2078.08,
+      "end": 2082.8,
+      "text": "We can unpack this compound into three different levels."
+    },
+    {
+      "i": 360,
+      "start": 2084.56,
+      "end": 2089.52,
+      "text": "At the grammatical level, Sarvabhudhatna Budhatma becomes"
+    },
+    {
+      "i": 361,
+      "start": 2089.52,
+      "end": 2096.44,
+      "text": "one. Atma means the whose Atman has"
+    },
+    {
+      "i": 362,
+      "start": 2096.44,
+      "end": 2104.28,
+      "text": "become Buddha, the Atman or the self of all beings, Serva"
+    },
+    {
+      "i": 363,
+      "start": 2104.28,
+      "end": 2107.2,
+      "text": "Buddha. That is the grammatical simple"
+    },
+    {
+      "i": 364,
+      "start": 2107.68,
+      "end": 2113.24,
+      "text": "translation. The layer two or the second"
+    },
+    {
+      "i": 365,
+      "start": 2113.24,
+      "end": 2115.24,
+      "text": "level. When we look at the advaitic"
+    },
+    {
+      "i": 366,
+      "start": 2115.24,
+      "end": 2120.68,
+      "text": "wave, the compound encodes the Mahavakya level recognition,"
+    },
+    {
+      "i": 367,
+      "start": 2123.92,
+      "end": 2131.72,
+      "text": "Tarvatra, Samadharsena, the direct seeing of 1's own self,"
+    },
+    {
+      "i": 368,
+      "start": 2131.84,
+      "end": 2137.08,
+      "text": "Atman as the self of all beings, the Atman of all beings."
+    },
+    {
+      "i": 369,
+      "start": 2139.32,
+      "end": 2144.56,
+      "text": "This is not an empathy. Empathy is a feeling what others"
+    },
+    {
+      "i": 370,
+      "start": 2144.56,
+      "end": 2147.64,
+      "text": "feel. It is a saguna quality."
+    },
+    {
+      "i": 371,
+      "start": 2149.16,
+      "end": 2154.52,
+      "text": "It is not a compassion, responding to others, suffering"
+    },
+    {
+      "i": 372,
+      "start": 2156.24,
+      "end": 2161.4,
+      "text": "with a soft mind. No, that is a virtue or the"
+    },
+    {
+      "i": 373,
+      "start": 2161.4,
+      "end": 2170.12,
+      "text": "empirical level, or the vyahara world, universal love, prema or"
+    },
+    {
+      "i": 374,
+      "start": 2170.12,
+      "end": 2173.36,
+      "text": "the, you know, loving everybody as the same."
+    },
+    {
+      "i": 375,
+      "start": 2174.16,
+      "end": 2180.96,
+      "text": "That is, a bhavatmakarto is the state of the individuality."
+    },
+    {
+      "i": 376,
+      "start": 2181.88,
+      "end": 2190.12,
+      "text": "But here it is the absolute recognition, Paramarthikar's"
+    },
+    {
+      "i": 377,
+      "start": 2190.16,
+      "end": 2196.44,
+      "text": "recognition, that the same single Atman Eka Chaitanya"
+    },
+    {
+      "i": 378,
+      "start": 2198.92,
+      "end": 2206.88,
+      "text": "appears as me and as Jiwas appears as the multiplicity of"
+    },
+    {
+      "i": 379,
+      "start": 2206.88,
+      "end": 2211.24,
+      "text": "the jivas through Uvadi Veda distinction of the limiting"
+    },
+    {
+      "i": 380,
+      "start": 2211.24,
+      "end": 2220.2,
+      "text": "adjuncts, such as the one space appears as many space depending"
+    },
+    {
+      "i": 381,
+      "start": 2220.2,
+      "end": 2225.56,
+      "text": "upon the distinction of limiting adjuncts, either the part, the"
+    },
+    {
+      "i": 382,
+      "start": 2225.56,
+      "end": 2231.04,
+      "text": "rooms, the buildings, the space around the sun, moon, etcetera."
+    },
+    {
+      "i": 383,
+      "start": 2232.88,
+      "end": 2236.36,
+      "text": "That is the distinction. But the space is neither"
+    },
+    {
+      "i": 384,
+      "start": 2236.6,
+      "end": 2244.4,
+      "text": "bifurcated, limited, or divided. When we identify it through the"
+    },
+    {
+      "i": 385,
+      "start": 2244.4,
+      "end": 2249.8,
+      "text": "limiting adjuncts, upaji Veda, then it is the part space in the"
+    },
+    {
+      "i": 386,
+      "start": 2249.8,
+      "end": 2254.36,
+      "text": "part, the space in the room, the space in the hall, the space in"
+    },
+    {
+      "i": 387,
+      "start": 2254.36,
+      "end": 2258.28,
+      "text": "a hospital, Oregon room, house or a school like that."
+    },
+    {
+      "i": 388,
+      "start": 2260.28,
+      "end": 2263.4,
+      "text": "The Jeevan Mukta sees through these supathis."
+    },
+    {
+      "i": 389,
+      "start": 2263.72,
+      "end": 2268.16,
+      "text": "He is seeing the upathis, but he is seeing the space which is"
+    },
+    {
+      "i": 390,
+      "start": 2268.16,
+      "end": 2275.56,
+      "text": "undivided, the one atman every verb that is the Sarvatma"
+    },
+    {
+      "i": 391,
+      "start": 2275.56,
+      "end": 2279.52,
+      "text": "Brahmadharsanam. He is seeing the same Self in"
+    },
+    {
+      "i": 392,
+      "start": 2279.52,
+      "end": 2286.52,
+      "text": "every bird or he doesn't see the Atma or Brahman separate when we"
+    },
+    {
+      "i": 393,
+      "start": 2286.52,
+      "end": 2289.76,
+      "text": "look at the satirological. Layer."
+    },
+    {
+      "i": 394,
+      "start": 2290.56,
+      "end": 2297.88,
+      "text": "This recognition is precisely what cannot coexist with Banda"
+    },
+    {
+      "i": 395,
+      "start": 2298.24,
+      "end": 2307.0,
+      "text": "or the limited activities. The jiva in Bandaj sees the"
+    },
+    {
+      "i": 396,
+      "start": 2307.0,
+      "end": 2311.6,
+      "text": "Vedas. When we through use our limiting"
+    },
+    {
+      "i": 397,
+      "start": 2311.6,
+      "end": 2317.4,
+      "text": "agents of the Indriyas or the mind or the intellect, we"
+    },
+    {
+      "i": 398,
+      "start": 2317.4,
+      "end": 2322.64,
+      "text": "separate ourselves and everything in the world are"
+    },
+    {
+      "i": 399,
+      "start": 2322.64,
+      "end": 2325.92,
+      "text": "separate jivas or separate objects."
+    },
+    {
+      "i": 400,
+      "start": 2328.32,
+      "end": 2334.64,
+      "text": "But the Nyani sees, Abheda sees in non difference, not"
+    },
+    {
+      "i": 401,
+      "start": 2334.64,
+      "end": 2341.48,
+      "text": "indifference, non difference, the one Atman appearing as many."
+    },
+    {
+      "i": 402,
+      "start": 2343.16,
+      "end": 2348.48,
+      "text": "This Abheda Darshana is itself what is called liberation,"
+    },
+    {
+      "i": 403,
+      "start": 2348.48,
+      "end": 2353.16,
+      "text": "moksha, freedom, etcetera. It is not a consequence of very"
+    },
+    {
+      "i": 404,
+      "start": 2353.16,
+      "end": 2356.72,
+      "text": "activity or learning or pyaana etcetera."
+    },
+    {
+      "i": 405,
+      "start": 2358.0,
+      "end": 2366.8,
+      "text": "It is the consequence of liberation, but not as an"
+    },
+    {
+      "i": 406,
+      "start": 2366.8,
+      "end": 2370.4,
+      "text": "effect. It is the very content of"
+    },
+    {
+      "i": 407,
+      "start": 2370.4,
+      "end": 2374.2,
+      "text": "liberation. It is the nature of the self"
+    },
+    {
+      "i": 408,
+      "start": 2374.2,
+      "end": 2378.16,
+      "text": "itself. So when we are saying Jeevan"
+    },
+    {
+      "i": 409,
+      "start": 2378.16,
+      "end": 2386.56,
+      "text": "Mukta, he is being liberated from the limiting agent which he"
+    },
+    {
+      "i": 410,
+      "start": 2386.56,
+      "end": 2390.76,
+      "text": "was thinking himself as the body, mind, intellect."
+    },
+    {
+      "i": 411,
+      "start": 2391.2,
+      "end": 2396.64,
+      "text": "He is now freed from liberated from that identification of"
+    },
+    {
+      "i": 412,
+      "start": 2396.64,
+      "end": 2403.68,
+      "text": "limitation into the agent of the self, which is."
+    },
+    {
+      "i": 413,
+      "start": 2407.16,
+      "end": 2417.96,
+      "text": "Unlimited eternal infinite time and space is embedded in that"
+    },
+    {
+      "i": 414,
+      "start": 2418.56,
+      "end": 2423.84,
+      "text": "state, not. Thus individual is embedded in"
+    },
+    {
+      "i": 415,
+      "start": 2423.84,
+      "end": 2428.16,
+      "text": "space and time. The difference between the space"
+    },
+    {
+      "i": 416,
+      "start": 2428.16,
+      "end": 2434.92,
+      "text": "and time is limiting urgent for the jiva because he say I am"
+    },
+    {
+      "i": 417,
+      "start": 2434.92,
+      "end": 2439.48,
+      "text": "located such and such a place and my time is so and so."
+    },
+    {
+      "i": 418,
+      "start": 2439.64,
+      "end": 2443.4,
+      "text": "I am so many years old or from bed that within six years human"
+    },
+    {
+      "i": 419,
+      "start": 2443.4,
+      "end": 2448.2,
+      "text": "life etcetera, etcetera. But when he is liberated as a"
+    },
+    {
+      "i": 420,
+      "start": 2448.2,
+      "end": 2460.04,
+      "text": "Jiva atma, he sees that the time and the space as contents of his"
+    },
+    {
+      "i": 421,
+      "start": 2460.04,
+      "end": 2465.0,
+      "text": "own liberation or his own awareness or his own existence."
+    },
+    {
+      "i": 422,
+      "start": 2465.96,
+      "end": 2470.44,
+      "text": "The time exists. The space exists in me, in my"
+    },
+    {
+      "i": 423,
+      "start": 2470.44,
+      "end": 2479.32,
+      "text": "cognition, in my awareness, in my, what you call my own nature."
+    },
+    {
+      "i": 424,
+      "start": 2482.68,
+      "end": 2491.44,
+      "text": "So now having dealt with all these adjectives, Krishna is"
+    },
+    {
+      "i": 425,
+      "start": 2491.44,
+      "end": 2501.12,
+      "text": "moving to 2 words Kuruvan Nabi na lipyate which is very"
+    },
+    {
+      "i": 426,
+      "start": 2501.12,
+      "end": 2508.56,
+      "text": "important. It is to bring back from the"
+    },
+    {
+      "i": 427,
+      "start": 2508.56,
+      "end": 2519.84,
+      "text": "state of apex liberation that remaining in the state of apex"
+    },
+    {
+      "i": 428,
+      "start": 2519.84,
+      "end": 2526.36,
+      "text": "liberation, the bodily functions, the instrument"
+    },
+    {
+      "i": 429,
+      "start": 2526.36,
+      "end": 2531.68,
+      "text": "functions, the world functions, everything can continue."
+    },
+    {
+      "i": 430,
+      "start": 2533.16,
+      "end": 2539.12,
+      "text": "Kuruven is a present active participle word used in a"
+    },
+    {
+      "i": 431,
+      "start": 2539.12,
+      "end": 2546.16,
+      "text": "masculine nominative singular form to indicate that while"
+    },
+    {
+      "i": 432,
+      "start": 2546.16,
+      "end": 2552.16,
+      "text": "acting, or even as he acts, or in the very act of doing, or in"
+    },
+    {
+      "i": 433,
+      "start": 2552.16,
+      "end": 2559.6,
+      "text": "simple word even while in action, kuruvan."
+    },
+    {
+      "i": 434,
+      "start": 2560.08,
+      "end": 2563.48,
+      "text": "Kuruvan is the word verb to do, to act."
+    },
+    {
+      "i": 435,
+      "start": 2564.84,
+      "end": 2571.52,
+      "text": "So kuruvan means acting while acting is the concessive element"
+    },
+    {
+      "i": 436,
+      "start": 2571.52,
+      "end": 2575.68,
+      "text": "of this verse. The verse does not say that"
+    },
+    {
+      "i": 437,
+      "start": 2575.68,
+      "end": 2581.36,
+      "text": "Jeevan Mukta does not act. He acts kuruvan."
+    },
+    {
+      "i": 438,
+      "start": 2581.36,
+      "end": 2590.36,
+      "text": "He is present and he is active. The teaching is precisely about"
+    },
+    {
+      "i": 439,
+      "start": 2591.04,
+      "end": 2598.64,
+      "text": "action continuing while non binding in the Jeevan Muktas"
+    },
+    {
+      "i": 440,
+      "start": 2598.64,
+      "end": 2602.32,
+      "text": "vyabahara. That is how he is functioning in"
+    },
+    {
+      "i": 441,
+      "start": 2602.32,
+      "end": 2607.36,
+      "text": "the world. His conduct as a liberated self"
+    },
+    {
+      "i": 442,
+      "start": 2608.32,
+      "end": 2613.76,
+      "text": "or liberated one in the world is that he is perpetually"
+    },
+    {
+      "i": 443,
+      "start": 2613.76,
+      "end": 2619.52,
+      "text": "liberated. He is never bound by the body,"
+    },
+    {
+      "i": 444,
+      "start": 2619.52,
+      "end": 2622.6,
+      "text": "mind complex which otherwise binds us."
+    },
+    {
+      "i": 445,
+      "start": 2623.92,
+      "end": 2630.6,
+      "text": "He is seeing himself in all. Therefore he is not limited by"
+    },
+    {
+      "i": 446,
+      "start": 2630.6,
+      "end": 2639.8,
+      "text": "the adjunct of 1 body or Dadar Kuruvan Nabi, even though"
+    },
+    {
+      "i": 447,
+      "start": 2640.36,
+      "end": 2647.92,
+      "text": "despite being active in the body of an individual, the Jeevan"
+    },
+    {
+      "i": 448,
+      "start": 2647.92,
+      "end": 2658.08,
+      "text": "Mukta, this actions nalipiate is not tainted or not smeared or"
+    },
+    {
+      "i": 449,
+      "start": 2658.08,
+      "end": 2661.44,
+      "text": "does not adhere or do not bound bind."
+    },
+    {
+      "i": 450,
+      "start": 2664.2,
+      "end": 2670.24,
+      "text": "So it is a central declaration of this verse that action occurs"
+    },
+    {
+      "i": 451,
+      "start": 2670.48,
+      "end": 2676.48,
+      "text": "but leaves no residue in the form of karma samskara or karma"
+    },
+    {
+      "i": 452,
+      "start": 2676.48,
+      "end": 2684.92,
+      "text": "Pala aasakti or the you know, the volition, the impression,"
+    },
+    {
+      "i": 453,
+      "start": 2685.36,
+      "end": 2693.0,
+      "text": "the desire, the memories, all those things which are happening"
+    },
+    {
+      "i": 454,
+      "start": 2693.0,
+      "end": 2698.76,
+      "text": "in the ordinary person do not happen in this case of a jeevan"
+    },
+    {
+      "i": 455,
+      "start": 2698.76,
+      "end": 2704.72,
+      "text": "mukta. The passive word lipyate is a"
+    },
+    {
+      "i": 456,
+      "start": 2704.72,
+      "end": 2712.8,
+      "text": "passive presentence. Singular third person is Mered"
+    },
+    {
+      "i": 457,
+      "start": 2712.8,
+      "end": 2721.6,
+      "text": "by is Nas, Mered by Nali. Pyate is not Sphere by frames"
+    },
+    {
+      "i": 458,
+      "start": 2721.6,
+      "end": 2726.8,
+      "text": "the karma as an agent of potential bondage and the Jeevan"
+    },
+    {
+      "i": 459,
+      "start": 2726.8,
+      "end": 2732.84,
+      "text": "Mpta's Atman as a surface upon which it cannot adhere."
+    },
+    {
+      "i": 460,
+      "start": 2736.92,
+      "end": 2741.84,
+      "text": "The Atman recognized as asangaha virlitta."
+    },
+    {
+      "i": 461,
+      "start": 2742.84,
+      "end": 2746.52,
+      "text": "Asanga means unattached, Nirlita means unstained."
+    },
+    {
+      "i": 462,
+      "start": 2746.72,
+      "end": 2753.92,
+      "text": "Such thing shows that cannot be bound by the action because it"
+    },
+    {
+      "i": 463,
+      "start": 2753.92,
+      "end": 2759.44,
+      "text": "was never in contact with action in the absolute sense."
+    },
+    {
+      "i": 464,
+      "start": 2760.76,
+      "end": 2765.72,
+      "text": "Actions belongs to the upadhis, the body, mind, sense, complex"
+    },
+    {
+      "i": 465,
+      "start": 2766.24,
+      "end": 2773.32,
+      "text": "not to the Atman. Therefore, kuruvan napina"
+    },
+    {
+      "i": 466,
+      "start": 2773.32,
+      "end": 2777.36,
+      "text": "lipati. The second part of the last"
+    },
+    {
+      "i": 467,
+      "start": 2777.36,
+      "end": 2783.72,
+      "text": "second sentence is to indicate that the five adjectives which"
+    },
+    {
+      "i": 468,
+      "start": 2783.72,
+      "end": 2788.96,
+      "text": "was mentioned earlier in the case of a Jeevan Mukta Yoga"
+    },
+    {
+      "i": 469,
+      "start": 2788.96,
+      "end": 2797.28,
+      "text": "Yukta visudhatma, vijaydatma jitendriyaha sarvabhudhatma"
+    },
+    {
+      "i": 470,
+      "start": 2797.28,
+      "end": 2801.76,
+      "text": "Bhudhatma. So that one who sees the self in"
+    },
+    {
+      "i": 471,
+      "start": 2801.76,
+      "end": 2812.48,
+      "text": "all as his own self, He is like any other sense objects or the"
+    },
+    {
+      "i": 472,
+      "start": 2812.48,
+      "end": 2818.4,
+      "text": "Vishayas, all of them are operational due to the adjuncts"
+    },
+    {
+      "i": 473,
+      "start": 2818.4,
+      "end": 2826.92,
+      "text": "in which they are operating. Like he is liberated, he see"
+    },
+    {
+      "i": 474,
+      "start": 2826.92,
+      "end": 2831.52,
+      "text": "everything else liberated. It is not that he sees himself"
+    },
+    {
+      "i": 475,
+      "start": 2831.52,
+      "end": 2837.16,
+      "text": "as liberated alone. No, he sees only liberation"
+    },
+    {
+      "i": 476,
+      "start": 2837.16,
+      "end": 2841.36,
+      "text": "everywhere. He sees only freedom everywhere."
+    },
+    {
+      "i": 477,
+      "start": 2842.12,
+      "end": 2848.2,
+      "text": "There is no bondage anywhere. Therefore he is seeing no"
+    },
+    {
+      "i": 478,
+      "start": 2848.2,
+      "end": 2855.2,
+      "text": "bondage can bind him. He has no desire to be having,"
+    },
+    {
+      "i": 479,
+      "start": 2855.6,
+      "end": 2859.56,
+      "text": "you know, seeing anything separate from him to make it as"
+    },
+    {
+      "i": 480,
+      "start": 2859.56,
+      "end": 2864.48,
+      "text": "his own. So the five contribute at"
+    },
+    {
+      "i": 481,
+      "start": 2864.48,
+      "end": 2871.72,
+      "text": "compound attributes of this verse is not a random list which"
+    },
+    {
+      "i": 482,
+      "start": 2871.72,
+      "end": 2877.08,
+      "text": "Krishna is talking to Arjuna. They trace a complete inner"
+    },
+    {
+      "i": 483,
+      "start": 2877.08,
+      "end": 2886.64,
+      "text": "journey from practice to liberation, starting with yoga."
+    },
+    {
+      "i": 484,
+      "start": 2886.64,
+      "end": 2892.6,
+      "text": "Yukta is a sadhana engaged in the discipline of Karma Yoga as"
+    },
+    {
+      "i": 485,
+      "start": 2892.6,
+      "end": 2896.92,
+      "text": "an ongoing commitment. When he started, he saw every"
+    },
+    {
+      "i": 486,
+      "start": 2896.92,
+      "end": 2901.76,
+      "text": "difference himself as separate from every object but his"
+    },
+    {
+      "i": 487,
+      "start": 2901.76,
+      "end": 2908.64,
+      "text": "actions which he began as requirement for the sustenance"
+    },
+    {
+      "i": 488,
+      "start": 2908.64,
+      "end": 2914.36,
+      "text": "of the world, the cosmic cycle, he started offering it the"
+    },
+    {
+      "i": 489,
+      "start": 2914.36,
+      "end": 2918.2,
+      "text": "higher pedestal which became the karma yoga."
+    },
+    {
+      "i": 490,
+      "start": 2920.12,
+      "end": 2924.84,
+      "text": "Through the Karma Yoga he started becoming Shuddhi"
+    },
+    {
+      "i": 491,
+      "start": 2925.12,
+      "end": 2932.2,
+      "text": "Bisuddhatman, rendering the Andakarana transparent as a"
+    },
+    {
+      "i": 492,
+      "start": 2932.2,
+      "end": 2941.84,
+      "text": "fruit of sustained yoga, which over a period he understood that"
+    },
+    {
+      "i": 493,
+      "start": 2942.64,
+      "end": 2950.64,
+      "text": "he is no longer a reactive mind holder, a fully operative"
+    },
+    {
+      "i": 494,
+      "start": 2950.64,
+      "end": 2954.84,
+      "text": "mindsama. He is the master of his own"
+    },
+    {
+      "i": 495,
+      "start": 2954.84,
+      "end": 2959.96,
+      "text": "mind. He is not under the manovriti."
+    },
+    {
+      "i": 496,
+      "start": 2961.64,
+      "end": 2965.48,
+      "text": "Therefore he moves from the Manovriti to the Jitendriya,"
+    },
+    {
+      "i": 497,
+      "start": 2966.36,
+      "end": 2972.24,
+      "text": "where he can function in the world not controlled by the mind"
+    },
+    {
+      "i": 498,
+      "start": 2972.24,
+      "end": 2977.24,
+      "text": "but free from the mind. Yet the sense organs are"
+    },
+    {
+      "i": 499,
+      "start": 2977.24,
+      "end": 2981.64,
+      "text": "functioning as as case of every ordinary person."
+    },
+    {
+      "i": 500,
+      "start": 2982.4,
+      "end": 2987.12,
+      "text": "But the sense organs do not take him away toward the sensory"
+    },
+    {
+      "i": 501,
+      "start": 2987.12,
+      "end": 2992.48,
+      "text": "objects as separate from him, because he has seen the"
+    },
+    {
+      "i": 502,
+      "start": 2992.48,
+      "end": 2998.92,
+      "text": "Sarvabhudhatma Budhatma. It is the Sachatkara or Brahma"
+    },
+    {
+      "i": 503,
+      "start": 2998.92,
+      "end": 3003.04,
+      "text": "recognition, the Atman seen as the self of all."
+    },
+    {
+      "i": 504,
+      "start": 3006.48,
+      "end": 3011.28,
+      "text": "The Yoga Yuktat Vishuddhatma Jitendra Viddhatma Jitendriya"
+    },
+    {
+      "i": 505,
+      "start": 3011.28,
+      "end": 3016.96,
+      "text": "belong to the Sadhana bhoomi or the ground of practice, while"
+    },
+    {
+      "i": 506,
+      "start": 3016.96,
+      "end": 3021.84,
+      "text": "the Sarvabhuddhatma Bhutdhatma, the fifth one, belongs to the"
+    },
+    {
+      "i": 507,
+      "start": 3021.84,
+      "end": 3026.12,
+      "text": "Jet Nyanabhumi, the ground of recognition."
+    },
+    {
+      "i": 508,
+      "start": 3026.6,
+      "end": 3031.6,
+      "text": "The words thus encounter the complete transition from a"
+    },
+    {
+      "i": 509,
+      "start": 3031.6,
+      "end": 3034.36,
+      "text": "sadhaga to a jeevan mukta siddha."
+    },
+    {
+      "i": 510,
+      "start": 3037.24,
+      "end": 3041.96,
+      "text": "Sonalithyate Asanga Atman is showing the Asanga Atman nature"
+    },
+    {
+      "i": 511,
+      "start": 3041.96,
+      "end": 3049.0,
+      "text": "of the fundamental Advaitic teaching that the Atman is ever"
+    },
+    {
+      "i": 512,
+      "start": 3049.32,
+      "end": 3054.52,
+      "text": "suddha. The brother Nabarishads says"
+    },
+    {
+      "i": 513,
+      "start": 3054.92,
+      "end": 3059.72,
+      "text": "Asangoyam Purushaha. This Purusha is unattached."
+    },
+    {
+      "i": 514,
+      "start": 3061.24,
+      "end": 3065.88,
+      "text": "The Purusha Minta Atman was never attached to action, to the"
+    },
+    {
+      "i": 515,
+      "start": 3065.88,
+      "end": 3068.44,
+      "text": "body, to the mind, to the senses, etcetera."
+    },
+    {
+      "i": 516,
+      "start": 3069.16,
+      "end": 3072.96,
+      "text": "What appears as Sangha attachment is the"
+    },
+    {
+      "i": 517,
+      "start": 3072.96,
+      "end": 3078.96,
+      "text": "superimposition of the sense of ego Ahankara upon the atman"
+    },
+    {
+      "i": 518,
+      "start": 3078.96,
+      "end": 3085.32,
+      "text": "through the ignorant adiyasa. And when you become that Nyani,"
+    },
+    {
+      "i": 519,
+      "start": 3085.32,
+      "end": 3089.92,
+      "text": "he sees through them the adiyasa is resolved."
+    },
+    {
+      "i": 520,
+      "start": 3089.92,
+      "end": 3095.64,
+      "text": "Through the atmat nyanas. The structural impossibility of"
+    },
+    {
+      "i": 521,
+      "start": 3097.32,
+      "end": 3101.28,
+      "text": "lipide becomes apparent. It is no more lipide."
+    },
+    {
+      "i": 522,
+      "start": 3102.4,
+      "end": 3111.72,
+      "text": "Lipide requires a surface to smear or attach only when karma"
+    },
+    {
+      "i": 523,
+      "start": 3111.72,
+      "end": 3116.84,
+      "text": "can attach, because there is a drevya, karma, guna, etcetera."
+    },
+    {
+      "i": 524,
+      "start": 3117.92,
+      "end": 3123.64,
+      "text": "The Atman is pure drashta sakshin with no drashta nature"
+    },
+    {
+      "i": 525,
+      "start": 3123.96,
+      "end": 3127.32,
+      "text": "whatsoever. He is not even a seer."
+    },
+    {
+      "i": 526,
+      "start": 3129.16,
+      "end": 3132.76,
+      "text": "Karma belongs to the Kariya Karta, Kariya karana rhythm in"
+    },
+    {
+      "i": 527,
+      "start": 3132.76,
+      "end": 3138.84,
+      "text": "the realm of causation in the field of Prakriti, whereas Atman"
+    },
+    {
+      "i": 528,
+      "start": 3138.84,
+      "end": 3144.96,
+      "text": "belongs is beyond the Prakriti and Prakriti Paraha, thus"
+    },
+    {
+      "i": 529,
+      "start": 3144.96,
+      "end": 3148.24,
+      "text": "structurally beyond the reach of the Karma's addition and"
+    },
+    {
+      "i": 530,
+      "start": 3148.24,
+      "end": 3152.44,
+      "text": "possibility. Therefore Nalipathy is not a"
+    },
+    {
+      "i": 531,
+      "start": 3152.44,
+      "end": 3157.52,
+      "text": "moral achievement but it is an ontological fact recognized by"
+    },
+    {
+      "i": 532,
+      "start": 3157.52,
+      "end": 3161.8,
+      "text": "that Nyani. The Lotus leaf in water."
+    },
+    {
+      "i": 533,
+      "start": 3162.88,
+      "end": 3168.4,
+      "text": "Gita's metaphor will be that is unstained not because of the"
+    },
+    {
+      "i": 534,
+      "start": 3169.04,
+      "end": 3174.44,
+      "text": "because it tries to remain unstained in the water, but it"
+    },
+    {
+      "i": 535,
+      "start": 3174.44,
+      "end": 3180.8,
+      "text": "is the nature of the leaf of Lotus or a non adhesion."
+    },
+    {
+      "i": 536,
+      "start": 3181.64,
+      "end": 3187.04,
+      "text": "Same way the Jeevan Mukta unstained by the action, not"
+    },
+    {
+      "i": 537,
+      "start": 3187.04,
+      "end": 3190.72,
+      "text": "through the effort but through the recognition of his own true"
+    },
+    {
+      "i": 538,
+      "start": 3190.72,
+      "end": 3194.92,
+      "text": "nature of Atman, he continues to function in the world of"
+    },
+    {
+      "i": 539,
+      "start": 3194.92,
+      "end": 3200.36,
+      "text": "operation and the Sarvabhudatma Buddhatma."
+    },
+    {
+      "i": 540,
+      "start": 3201.28,
+      "end": 3206.84,
+      "text": "There is no other upon whom action is performed by such a"
+    },
+    {
+      "i": 541,
+      "start": 3206.84,
+      "end": 3212.0,
+      "text": "person. So the apparent others, which is"
+    },
+    {
+      "i": 542,
+      "start": 3212.0,
+      "end": 3219.12,
+      "text": "called the Sarvabhudhani are manifestations of myself, the"
+    },
+    {
+      "i": 543,
+      "start": 3219.12,
+      "end": 3225.72,
+      "text": "one Atman action direct atman directed, no action directed"
+    },
+    {
+      "i": 544,
+      "start": 3225.72,
+      "end": 3228.76,
+      "text": "toward the other is actually this."
+    },
+    {
+      "i": 545,
+      "start": 3228.76,
+      "end": 3233.68,
+      "text": "Oneself cannot generate in a karmabanda."
+    },
+    {
+      "i": 546,
+      "start": 3233.68,
+      "end": 3237.64,
+      "text": "That requires a real subject, object, duality, kartha karma"
+    },
+    {
+      "i": 547,
+      "start": 3237.64,
+      "end": 3240.76,
+      "text": "baeda. But when the duality is"
+    },
+    {
+      "i": 548,
+      "start": 3240.76,
+      "end": 3246.48,
+      "text": "dissolved by the Sarvabhudhatma bhudhatma in the Atmatyana, the"
+    },
+    {
+      "i": 549,
+      "start": 3246.48,
+      "end": 3252.04,
+      "text": "karmic mechanism of karth, karta, karma etcetera gets"
+    },
+    {
+      "i": 550,
+      "start": 3252.04,
+      "end": 3260.04,
+      "text": "dissolved and with it the karma laypana the the smearing of the"
+    },
+    {
+      "i": 551,
+      "start": 3260.04,
+      "end": 3267.36,
+      "text": "karma is also nullified. Therefore the Sarvabhuta Atma,"
+    },
+    {
+      "i": 552,
+      "start": 3267.36,
+      "end": 3272.28,
+      "text": "Buddha Atma is the Jeevan Muktas Atman has become the become"
+    },
+    {
+      "i": 553,
+      "start": 3272.28,
+      "end": 3275.52,
+      "text": "means, the bhuta, the Atman of all beings."
+    },
+    {
+      "i": 554,
+      "start": 3276.2,
+      "end": 3280.68,
+      "text": "Buddhatma not through the process of expansion, but"
+    },
+    {
+      "i": 555,
+      "start": 3280.68,
+      "end": 3286.32,
+      "text": "through the process of recognition that it always,"
+    },
+    {
+      "i": 556,
+      "start": 3286.52,
+      "end": 3293.6,
+      "text": "already and ever nityasuddha Brahman appearing as jiva and"
+    },
+    {
+      "i": 557,
+      "start": 3293.6,
+      "end": 3297.96,
+      "text": "jagat through the upadhis created by Maya."
+    },
+    {
+      "i": 558,
+      "start": 3299.4,
+      "end": 3304.4,
+      "text": "When ignorance takes over, we feel the separation."
+    },
+    {
+      "i": 559,
+      "start": 3305.36,
+      "end": 3310.56,
+      "text": "When this ignorance is dissolved through the atmatyana, the Sarva"
+    },
+    {
+      "i": 560,
+      "start": 3310.56,
+      "end": 3315.32,
+      "text": "Buddha, Atma Buddha Atma sees only Sir Yomam Pashti Sarvatra"
+    },
+    {
+      "i": 561,
+      "start": 3315.32,
+      "end": 3318.24,
+      "text": "Sarvan Jamai Pashti. Krishna says later we will see"
+    },
+    {
+      "i": 562,
+      "start": 3318.24,
+      "end": 3326.6,
+      "text": "that Sarva Buddha, He becomes the the deer of all because he"
+    },
+    {
+      "i": 563,
+      "start": 3326.6,
+      "end": 3330.08,
+      "text": "sees all in himself. He becomes all by himself."
+    },
+    {
+      "i": 564,
+      "start": 3331.32,
+      "end": 3332.96,
+      "text": "There is nothing other than himself."
+    },
+    {
+      "i": 565,
+      "start": 3336.0,
+      "end": 3344.04,
+      "text": "When this knowledge dawns in US, that is the time the liberation"
+    },
+    {
+      "i": 566,
+      "start": 3344.04,
+      "end": 3349.2,
+      "text": "takes place. Kuruvan Nabina Lipyathi, the"
+    },
+    {
+      "i": 567,
+      "start": 3349.2,
+      "end": 3354.96,
+      "text": "actions of the Jeevan Mukta becomes a act of liberation."
+    },
+    {
+      "i": 568,
+      "start": 3356.44,
+      "end": 3363.76,
+      "text": "It is no more binding. He doesn't cease to act, he"
+    },
+    {
+      "i": 569,
+      "start": 3363.76,
+      "end": 3367.68,
+      "text": "continues to act. It may."
+    },
+    {
+      "i": 570,
+      "start": 3367.76,
+      "end": 3371.48,
+      "text": "Others may call it as a prarabdha karma, but from his"
+    },
+    {
+      "i": 571,
+      "start": 3371.48,
+      "end": 3375.2,
+      "text": "own point view, there is no karma at all."
+    },
+    {
+      "i": 572,
+      "start": 3376.6,
+      "end": 3381.88,
+      "text": "The karma kartha, everything becomes atna, the knowledge."
+    },
+    {
+      "i": 573,
+      "start": 3383.8,
+      "end": 3393.76,
+      "text": "So the Jeevan Mukta acts through the body as seen by himself and"
+    },
+    {
+      "i": 574,
+      "start": 3393.76,
+      "end": 3401.52,
+      "text": "others, but he sees them, all of them, as in his own atma, as not"
+    },
+    {
+      "i": 575,
+      "start": 3401.52,
+      "end": 3406.48,
+      "text": "separate from atma. Therefore his Atma doesn't bind"
+    },
+    {
+      "i": 576,
+      "start": 3406.48,
+      "end": 3408.68,
+      "text": "actions, doesn't bind Nulli Pierre."
+    },
+    {
+      "i": 577,
+      "start": 3410.76,
+      "end": 3415.96,
+      "text": "The continued action generates no new karma, the Agami karma,"
+    },
+    {
+      "i": 578,
+      "start": 3416.32,
+      "end": 3424.96,
+      "text": "etc, because there is no Karta, the Ahankara which was there"
+    },
+    {
+      "i": 579,
+      "start": 3425.12,
+      "end": 3430.72,
+      "text": "before that that I am the doer. I am the enjoyer because the"
+    },
+    {
+      "i": 580,
+      "start": 3430.72,
+      "end": 3434.6,
+      "text": "separation is real. Therefore I am an enjoyer of the"
+    },
+    {
+      "i": 581,
+      "start": 3434.6,
+      "end": 3439.2,
+      "text": "separated, an object that is dissolved now."
+    },
+    {
+      "i": 582,
+      "start": 3441.0,
+      "end": 3445.6,
+      "text": "So there is no sense in no ego sense as the I am the doer"
+    },
+    {
+      "i": 583,
+      "start": 3447.64,
+      "end": 3453.08,
+      "text": "actions appears to be happening through badi whereas while the"
+    },
+    {
+      "i": 584,
+      "start": 3453.08,
+      "end": 3456.04,
+      "text": "atman remains untouched by everything."
+    },
+    {
+      "i": 585,
+      "start": 3458.96,
+      "end": 3465.04,
+      "text": "The paradox. How can a sanyasi act or a"
+    },
+    {
+      "i": 586,
+      "start": 3465.04,
+      "end": 3469.36,
+      "text": "jeevan mukta act? The very question implicit in"
+    },
+    {
+      "i": 587,
+      "start": 3469.36,
+      "end": 3471.6,
+      "text": "Arjuna's confusion. Chapter 3."
+    },
+    {
+      "i": 588,
+      "start": 3474.68,
+      "end": 3479.64,
+      "text": "The Jeevan Mukta is a true sanyasi, nitya sanyasi, which we"
+    },
+    {
+      "i": 589,
+      "start": 3479.64,
+      "end": 3488.24,
+      "text": "saw in the third verse because not that he has stopped acting,"
+    },
+    {
+      "i": 590,
+      "start": 3489.32,
+      "end": 3496.96,
+      "text": "but because he has renounced the doership karthritwa, the sense"
+    },
+    {
+      "i": 591,
+      "start": 3496.96,
+      "end": 3507.92,
+      "text": "of being the doer, which was the reason for the karthritwa and"
+    },
+    {
+      "i": 592,
+      "start": 3507.92,
+      "end": 3511.96,
+      "text": "that was the source of bondage, not the action itself."
+    },
+    {
+      "i": 593,
+      "start": 3512.44,
+      "end": 3517.28,
+      "text": "Action can continue as long as you do not have the ownership or"
+    },
+    {
+      "i": 594,
+      "start": 3517.28,
+      "end": 3527.08,
+      "text": "the doership in you. So the bhashya is very simple"
+    },
+    {
+      "i": 595,
+      "start": 3527.08,
+      "end": 3530.84,
+      "text": "bhashya given by Shankaracharya here, Yogi Anna Yuktaha."
+    },
+    {
+      "i": 596,
+      "start": 3530.88,
+      "end": 3533.56,
+      "text": "Yoga yuktaha. One who is endowed with yoga is"
+    },
+    {
+      "i": 597,
+      "start": 3533.56,
+      "end": 3536.76,
+      "text": "called a yoga. Yukta vishuddhatma vishuddha"
+    },
+    {
+      "i": 598,
+      "start": 3536.76,
+      "end": 3541.32,
+      "text": "sattva. One whose mind is purified or"
+    },
+    {
+      "i": 599,
+      "start": 3541.32,
+      "end": 3547.36,
+      "text": "purified Sattva vijita Vijita deha."
+    },
+    {
+      "i": 600,
+      "start": 3549.04,
+      "end": 3553.04,
+      "text": "One who has controlled the self, that is one who has mastered the"
+    },
+    {
+      "i": 601,
+      "start": 3553.04,
+      "end": 3559.88,
+      "text": "body. The body means the mind,"
+    },
+    {
+      "i": 602,
+      "start": 3559.88,
+      "end": 3561.72,
+      "text": "intellect, etcetera and sense organs."
+    },
+    {
+      "i": 603,
+      "start": 3561.72,
+      "end": 3564.32,
+      "text": "Jitendriya. Who has controlled the sense"
+    },
+    {
+      "i": 604,
+      "start": 3564.32,
+      "end": 3568.28,
+      "text": "organs. Sarva bhutaatna bhutaatma"
+    },
+    {
+      "i": 605,
+      "start": 3568.28,
+      "end": 3573.28,
+      "text": "sarvesham BA brahmadinam sarma Brahmas tambapadhyandanam"
+    },
+    {
+      "i": 606,
+      "start": 3573.84,
+      "end": 3580.04,
+      "text": "bhudaatam atma bhutaha atmaha pratek chetna ho yesyaha Saha"
+    },
+    {
+      "i": 607,
+      "start": 3580.08,
+      "end": 3583.24,
+      "text": "sarva bhutaatma bhutaatma sammed darshinat."
+    },
+    {
+      "i": 608,
+      "start": 3586.6,
+      "end": 3591.88,
+      "text": "He who sees his self has become the self of all being, from"
+    },
+    {
+      "i": 609,
+      "start": 3591.88,
+      "end": 3593.8,
+      "text": "Brahma down to the blade of grass."
+    },
+    {
+      "i": 610,
+      "start": 3594.16,
+      "end": 3599.24,
+      "text": "That is, that is whose inner consciousness is the self of"
+    },
+    {
+      "i": 611,
+      "start": 3599.24,
+      "end": 3602.56,
+      "text": "all. He is not saying he and the"
+    },
+    {
+      "i": 612,
+      "start": 3602.56,
+      "end": 3605.68,
+      "text": "grass is the same. He is and Brahma is the same."
+    },
+    {
+      "i": 613,
+      "start": 3606.92,
+      "end": 3610.84,
+      "text": "But what is Brahma's real reality?"
+    },
+    {
+      "i": 614,
+      "start": 3611.24,
+      "end": 3614.76,
+      "text": "What is the blade reality? What is the dust reality?"
+    },
+    {
+      "i": 615,
+      "start": 3614.76,
+      "end": 3617.6,
+      "text": "What is the reality of everything that is being seen?"
+    },
+    {
+      "i": 616,
+      "start": 3618.48,
+      "end": 3624.2,
+      "text": "The atma of everything. They may have the mind, body,"
+    },
+    {
+      "i": 617,
+      "start": 3624.2,
+      "end": 3630.48,
+      "text": "intellect or the name and form of the, but their reality is"
+    },
+    {
+      "i": 618,
+      "start": 3630.48,
+      "end": 3634.56,
+      "text": "that they are all. The Self becomes therefore the"
+    },
+    {
+      "i": 619,
+      "start": 3634.56,
+      "end": 3638.0,
+      "text": "Self of all beings. He does not see the difference"
+    },
+    {
+      "i": 620,
+      "start": 3638.0,
+      "end": 3642.08,
+      "text": "between the self in himself and the Self in others."
+    },
+    {
+      "i": 621,
+      "start": 3643.52,
+      "end": 3648.12,
+      "text": "SA tatrevam vartamana ha lokasangrahaya karma kurvan"
+    },
+    {
+      "i": 622,
+      "start": 3648.12,
+      "end": 3651.64,
+      "text": "nabina lipyate na karma bihi badya."
+    },
+    {
+      "i": 623,
+      "start": 3653.84,
+      "end": 3657.52,
+      "text": "He thus having established, even while performing the actions for"
+    },
+    {
+      "i": 624,
+      "start": 3657.52,
+      "end": 3662.36,
+      "text": "this welfare of this world is not tainted or bound by the"
+    },
+    {
+      "i": 625,
+      "start": 3662.36,
+      "end": 3667.0,
+      "text": "actions. This is the meaning of the"
+    },
+    {
+      "i": 626,
+      "start": 3667.0,
+      "end": 3672.36,
+      "text": "verse. The verse 8 and 9 have to be"
+    },
+    {
+      "i": 627,
+      "start": 3672.36,
+      "end": 3677.96,
+      "text": "done together. Naiva Kinjit Karomi TI yukto"
+    },
+    {
+      "i": 628,
+      "start": 3677.96,
+      "end": 3683.84,
+      "text": "mannyathe tattvit Paschens Renuan's present Jigran Asnan"
+    },
+    {
+      "i": 629,
+      "start": 3684.24,
+      "end": 3690.72,
+      "text": "Gachan Swapan Sachan Prapalan pralapan Visarjan Granan"
+    },
+    {
+      "i": 630,
+      "start": 3690.96,
+      "end": 3694.68,
+      "text": "unmission nimishan Nabi indriyani indriyas Deshu"
+    },
+    {
+      "i": 631,
+      "start": 3694.68,
+      "end": 3698.12,
+      "text": "Varshanda Editharayan. These two verses together."
+    },
+    {
+      "i": 632,
+      "start": 3698.2,
+      "end": 3713.04,
+      "text": "We will do it tomorrow. I will stop it here."
+    },
+    {
+      "i": 633,
+      "start": 3729.64,
+      "end": 3738.52,
+      "text": "Thank you. Thank you very much Pindoji."
+    },
+    {
+      "i": 634,
+      "start": 3738.96,
+      "end": 3743.08,
+      "text": "I've opened the chat in the hand raising put any follow up"
+    },
+    {
+      "i": 635,
+      "start": 3743.08,
+      "end": 3767.0,
+      "text": "questions or discussions. Sorry, I think look like there's"
+    },
+    {
+      "i": 636,
+      "start": 3767.0,
+      "end": 3770.56,
+      "text": "some glitch I'm not yet come up. OK, I can now see myself."
+    },
+    {
+      "i": 637,
+      "start": 3772.08,
+      "end": 3777.68,
+      "text": "Yeah, it is sort of culmination that yoga and now because"
+    },
+    {
+      "i": 638,
+      "start": 3777.68,
+      "end": 3783.08,
+      "text": "earlier it was from Harpanam that still talked about, you"
+    },
+    {
+      "i": 639,
+      "start": 3783.08,
+      "end": 3787.04,
+      "text": "know, we should want to become shuddha that Silka talked about"
+    },
+    {
+      "i": 640,
+      "start": 3787.04,
+      "end": 3791.84,
+      "text": "Kama yoga here. It sort of brought everything"
+    },
+    {
+      "i": 641,
+      "start": 3791.84,
+      "end": 3796.8,
+      "text": "together. But I was doing yoga also this."
+    },
+    {
+      "i": 642,
+      "start": 3797.04,
+      "end": 3798.76,
+      "text": "This is the integration you talked about."
+    },
+    {
+      "i": 643,
+      "start": 3798.76,
+      "end": 3804.08,
+      "text": "I have some questions there. The integration at body level"
+    },
+    {
+      "i": 644,
+      "start": 3804.84,
+      "end": 3808.12,
+      "text": "and integration about, you know, mind level because we do yoga at"
+    },
+    {
+      "i": 645,
+      "start": 3808.12,
+      "end": 3812.76,
+      "text": "different levels and samadhi is also yoga at a buddhi level."
+    },
+    {
+      "i": 646,
+      "start": 3813.84,
+      "end": 3816.64,
+      "text": "Right. Here, here it's talked about"
+    },
+    {
+      "i": 647,
+      "start": 3816.88,
+      "end": 3819.4,
+      "text": "that Vishuddha yoga, Yukta Vishuddha."
+    },
+    {
+      "i": 648,
+      "start": 3819.48,
+      "end": 3821.92,
+      "text": "This is, you know, living the truth, right Banuji?"
+    },
+    {
+      "i": 649,
+      "start": 3821.96,
+      "end": 3826.16,
+      "text": "The whole thing now talked about living the truth by recognizing"
+    },
+    {
+      "i": 650,
+      "start": 3826.16,
+      "end": 3830.04,
+      "text": "it completely. The highest yoga is what is"
+    },
+    {
+      "i": 651,
+      "start": 3830.04,
+      "end": 3834.08,
+      "text": "talked about here, right Banuji? It is actually talking about the"
+    },
+    {
+      "i": 652,
+      "start": 3834.28,
+      "end": 3841.56,
+      "text": "state of transcendence of even the body, mind and intellect, as"
+    },
+    {
+      "i": 653,
+      "start": 3841.56,
+      "end": 3854.6,
+      "text": "seen as not what you call the identity, but as from the level"
+    },
+    {
+      "i": 654,
+      "start": 3854.6,
+      "end": 3859.92,
+      "text": "of the self. Thus there is a Self for the"
+    },
+    {
+      "i": 655,
+      "start": 3859.92,
+      "end": 3862.56,
+      "text": "mind, there is a self for the intellect, there is a Self for"
+    },
+    {
+      "i": 656,
+      "start": 3862.56,
+      "end": 3865.64,
+      "text": "the body, there is a Self for the sense organs, there is a"
+    },
+    {
+      "i": 657,
+      "start": 3865.64,
+      "end": 3867.88,
+      "text": "Self for the world of objects outside."
+    },
+    {
+      "i": 658,
+      "start": 3868.84,
+      "end": 3875.12,
+      "text": "He is transcending from the level of the multiplicity to the"
+    },
+    {
+      "i": 659,
+      "start": 3875.12,
+      "end": 3878.84,
+      "text": "level of the Self which is the Self of all."
+    },
+    {
+      "i": 660,
+      "start": 3879.8,
+      "end": 3884.6,
+      "text": "Sarva budhatma. Budhatma, that transcendence"
+    },
+    {
+      "i": 661,
+      "start": 3884.6,
+      "end": 3894.24,
+      "text": "into that state of avoidance in Brahman or Atman, and seeing the"
+    },
+    {
+      "i": 662,
+      "start": 3894.24,
+      "end": 3899.36,
+      "text": "names and forms, including the body, mind, complex and the"
+    },
+    {
+      "i": 663,
+      "start": 3899.36,
+      "end": 3904.24,
+      "text": "world of empirical objects. Everything has appearances in"
+    },
+    {
+      "i": 664,
+      "start": 3904.24,
+      "end": 3910.8,
+      "text": "the Self. It is just like that by becoming"
+    },
+    {
+      "i": 665,
+      "start": 3910.8,
+      "end": 3921.8,
+      "text": "the water from the point of water, the waves, the the drops,"
+    },
+    {
+      "i": 666,
+      "start": 3922.24,
+      "end": 3929.2,
+      "text": "the river, the cloud, the ice, the snow, everything is seen as"
+    },
+    {
+      "i": 667,
+      "start": 3929.2,
+      "end": 3938.76,
+      "text": "water itself, even though the names and their appearances make"
+    },
+    {
+      "i": 668,
+      "start": 3938.76,
+      "end": 3944.92,
+      "text": "them look separately from the physical sense organ of eye,"
+    },
+    {
+      "i": 669,
+      "start": 3946.32,
+      "end": 3951.8,
+      "text": "from the sense organ which is beyond the senses of the mind"
+    },
+    {
+      "i": 670,
+      "start": 3951.8,
+      "end": 3956.04,
+      "text": "and the intellect, as the cognition of the pure self."
+    },
+    {
+      "i": 671,
+      "start": 3957.64,
+      "end": 3963.28,
+      "text": "From the view of the self, the separation dissolves."
+    },
+    {
+      "i": 672,
+      "start": 3964.4,
+      "end": 3973.52,
+      "text": "He sees only that self as himself, as the self of the"
+    },
+    {
+      "i": 673,
+      "start": 3973.52,
+      "end": 3978.32,
+      "text": "water of the. Waves, the river, the cloud, the"
+    },
+    {
+      "i": 674,
+      "start": 3978.32,
+      "end": 3986.88,
+      "text": "snow, everything as himself. This transcendence vision is"
+    },
+    {
+      "i": 675,
+      "start": 3986.88,
+      "end": 3994.28,
+      "text": "what is being referred here as Sarva Bodhatma Bodhatma before"
+    },
+    {
+      "i": 676,
+      "start": 3994.92,
+      "end": 4000.88,
+      "text": "he says Nakurvan Nabina Lipete that is flowing back into the"
+    },
+    {
+      "i": 677,
+      "start": 4001.6,
+      "end": 4006.04,
+      "text": "appearances of. The wave, the water, the river"
+    },
+    {
+      "i": 678,
+      "start": 4006.04,
+      "end": 4011.36,
+      "text": "there, etc. Having identified as the water"
+    },
+    {
+      "i": 679,
+      "start": 4011.84,
+      "end": 4016.16,
+      "text": "remaining as the waves, the river, the the snow, the cloud"
+    },
+    {
+      "i": 680,
+      "start": 4016.76,
+      "end": 4025.68,
+      "text": "does not change the wateriness. The self of all that is what is"
+    },
+    {
+      "i": 681,
+      "start": 4025.68,
+      "end": 4031.88,
+      "text": "being discussed here. This integration is of"
+    },
+    {
+      "i": 682,
+      "start": 4031.88,
+      "end": 4037.96,
+      "text": "particular, you know, attention in this verse that that"
+    },
+    {
+      "i": 683,
+      "start": 4038.08,
+      "end": 4042.96,
+      "text": "integration of everything and living the truth seems like"
+    },
+    {
+      "i": 684,
+      "start": 4044.72,
+      "end": 4049.92,
+      "text": "that's the high focus, while transcendence is, you know, is"
+    },
+    {
+      "i": 685,
+      "start": 4049.92,
+      "end": 4052.32,
+      "text": "inside out. I think you worried well, you"
+    },
+    {
+      "i": 686,
+      "start": 4052.32,
+      "end": 4054.6,
+      "text": "know, the Dhamma cannot cannot happen with Sharma."
+    },
+    {
+      "i": 687,
+      "start": 4055.0,
+      "end": 4059.72,
+      "text": "It has to be inside first, you know, rest will manifest as as"
+    },
+    {
+      "i": 688,
+      "start": 4059.72,
+      "end": 4063.8,
+      "text": "you know. So that's 2 levels are used one"
+    },
+    {
+      "i": 689,
+      "start": 4063.8,
+      "end": 4068.2,
+      "text": "at a yoga level and that integration and the"
+    },
+    {
+      "i": 690,
+      "start": 4068.2,
+      "end": 4071.16,
+      "text": "transcendence leading to the Tarva, both Atma, both Atma,"
+    },
+    {
+      "i": 691,
+      "start": 4072.44,
+      "end": 4075.24,
+      "text": "that's a result of it. It look like that's an inside"
+    },
+    {
+      "i": 692,
+      "start": 4075.24,
+      "end": 4080.4,
+      "text": "out is now talked about as yoga. That's an integration of"
+    },
+    {
+      "i": 693,
+      "start": 4080.4,
+      "end": 4083.56,
+      "text": "everything. Is the true yoga Is that the net"
+    },
+    {
+      "i": 694,
+      "start": 4083.56,
+      "end": 4087.92,
+      "text": "summary? Yeah, see integration is at the"
+    },
+    {
+      "i": 695,
+      "start": 4088.12,
+      "end": 4094.0,
+      "text": "sadhana level, but sadhana has to move beyond the sadhana to"
+    },
+    {
+      "i": 696,
+      "start": 4094.0,
+      "end": 4096.88,
+      "text": "the sadhya. At the sadhya level."
+    },
+    {
+      "i": 697,
+      "start": 4098.12,
+      "end": 4102.08,
+      "text": "When you look back, you will see the integration saraya where"
+    },
+    {
+      "i": 698,
+      "start": 4102.68,
+      "end": 4105.479,
+      "text": "from the point of the identification of the"
+    },
+    {
+      "i": 699,
+      "start": 4105.479,
+      "end": 4111.359,
+      "text": "individuality, the individuality is no more a reality."
+    },
+    {
+      "i": 700,
+      "start": 4117.92,
+      "end": 4120.68,
+      "text": "I think this is very clear. This is the first time saw, you"
+    },
+    {
+      "i": 701,
+      "start": 4120.68,
+      "end": 4123.92,
+      "text": "know, Vivek and Vayaragya coming together in a big way."
+    },
+    {
+      "i": 702,
+      "start": 4124.88,
+      "end": 4127.279,
+      "text": "It culminates everything in this verse."
+    },
+    {
+      "i": 703,
+      "start": 4131.6,
+      "end": 4136.279,
+      "text": "And the next verse takes us back to the world of operation, the"
+    },
+    {
+      "i": 704,
+      "start": 4136.279,
+      "end": 4141.439,
+      "text": "seven eighth and ninth verse. So we will see that what Krishna"
+    },
+    {
+      "i": 705,
+      "start": 4141.439,
+      "end": 4149.479,
+      "text": "is talking in the Kuruvan Nabina Lipete how it is applicable or"
+    },
+    {
+      "i": 706,
+      "start": 4149.479,
+      "end": 4156.479,
+      "text": "at Nyani while living in this world that also we will see in"
+    },
+    {
+      "i": 707,
+      "start": 4156.479,
+      "end": 4160.72,
+      "text": "the tomorrow's class. We'll wait for this."
+    },
+    {
+      "i": 708,
+      "start": 4162.84,
+      "end": 4169.72,
+      "text": "Thank you, Prakash. Then we'll meet tomorrow."
+    },
+    {
+      "i": 709,
+      "start": 4174.88,
+      "end": 4178.88,
+      "text": "Sure, Binduj, I think Kaam has raised her hand, but I think"
+    },
+    {
+      "i": 710,
+      "start": 4180.359,
+      "end": 4182.399,
+      "text": "she's not able to come up, but I'm not sure."
+    },
+    {
+      "i": 711,
+      "start": 4187.96,
+      "end": 4190.399,
+      "text": "Namaste, mistake. Namaste."
+    },
+    {
+      "i": 712,
+      "start": 4190.399,
+      "end": 4197.6,
+      "text": "So it was a wonderful session, Vinduji and you know, just I"
+    },
+    {
+      "i": 713,
+      "start": 4197.6,
+      "end": 4203.72,
+      "text": "have no doubts or anything, but but just on a lighter note, if"
+    },
+    {
+      "i": 714,
+      "start": 4203.72,
+      "end": 4205.6,
+      "text": "I'm allowed, I'd like to share something."
+    },
+    {
+      "i": 715,
+      "start": 4206.92,
+      "end": 4209.76,
+      "text": "Please go ahead. You know, you were mentioning"
+    },
+    {
+      "i": 716,
+      "start": 4209.76,
+      "end": 4217.12,
+      "text": "about, you know, doing Kriya actions that leave no imprints,"
+    },
+    {
+      "i": 717,
+      "start": 4218.6,
+      "end": 4223.08,
+      "text": "that kind of detachment, such an absolute detachment with no"
+    },
+    {
+      "i": 718,
+      "start": 4223.08,
+      "end": 4227.64,
+      "text": "imprints and no memories. And you are extrapolating like"
+    },
+    {
+      "i": 719,
+      "start": 4227.64,
+      "end": 4231.12,
+      "text": "that. So I was just thinking like, is"
+    },
+    {
+      "i": 720,
+      "start": 4231.12,
+      "end": 4234.84,
+      "text": "it really possible? And, you know, sometimes some"
+    },
+    {
+      "i": 721,
+      "start": 4234.84,
+      "end": 4242.28,
+      "text": "people go into this Alzheimer's. So I was just thinking like, is"
+    },
+    {
+      "i": 722,
+      "start": 4242.28,
+      "end": 4245.36,
+      "text": "it a blessing then because they forget everything, right?"
+    },
+    {
+      "i": 723,
+      "start": 4246.32,
+      "end": 4250.48,
+      "text": "Memories are erased, yeah, but the different."
+    },
+    {
+      "i": 724,
+      "start": 4250.56,
+      "end": 4254.04,
+      "text": "But the different. Third, it is that the patient in"
+    },
+    {
+      "i": 725,
+      "start": 4254.04,
+      "end": 4259.4,
+      "text": "Alzheimer's do not realize the liberation or the freedom while"
+    },
+    {
+      "i": 726,
+      "start": 4259.4,
+      "end": 4265.12,
+      "text": "action. They are in a state of oblivion,"
+    },
+    {
+      "i": 727,
+      "start": 4265.84,
+      "end": 4270.6,
+      "text": "not in a state of liberation where while in action, the"
+    },
+    {
+      "i": 728,
+      "start": 4270.6,
+      "end": 4276.48,
+      "text": "freedom of the action, in action that cannot be realized by the"
+    },
+    {
+      "i": 729,
+      "start": 4276.48,
+      "end": 4279.84,
+      "text": "people of Alzheimer's. My mother-in-law, she passed"
+    },
+    {
+      "i": 730,
+      "start": 4279.84,
+      "end": 4281.92,
+      "text": "away after an Alzheimer's patient."
+    },
+    {
+      "i": 731,
+      "start": 4281.92,
+      "end": 4285.88,
+      "text": "So I have seen it. I have served her and I have"
+    },
+    {
+      "i": 732,
+      "start": 4285.88,
+      "end": 4290.56,
+      "text": "been living with her for almost for four years with the height"
+    },
+    {
+      "i": 733,
+      "start": 4290.56,
+      "end": 4295.52,
+      "text": "of Alzheimer's. So it is my personal experience"
+    },
+    {
+      "i": 734,
+      "start": 4295.88,
+      "end": 4300.8,
+      "text": "of an Alzheimer's patient which is making me tell that what they"
+    },
+    {
+      "i": 735,
+      "start": 4300.8,
+      "end": 4305.72,
+      "text": "are going through and what their state is different from that of"
+    },
+    {
+      "i": 736,
+      "start": 4305.72,
+      "end": 4309.4,
+      "text": "a Jeevan Mukta. Yes, yes, absolutely,"
+    },
+    {
+      "i": 737,
+      "start": 4309.4,
+      "end": 4311.76,
+      "text": "absolutely. Yeah, yeah, yeah."
+    },
+    {
+      "i": 738,
+      "start": 4311.84,
+      "end": 4315.92,
+      "text": "I have been with a relative of mine undergoing that."
+    },
+    {
+      "i": 739,
+      "start": 4316.4,
+      "end": 4320.72,
+      "text": "No, but what I was thinking like, you know, like as long as"
+    },
+    {
+      "i": 740,
+      "start": 4320.72,
+      "end": 4325.32,
+      "text": "we have this brain working, as long as we have this structure"
+    },
+    {
+      "i": 741,
+      "start": 4325.32,
+      "end": 4329.56,
+      "text": "and functioning with all the system intact and the"
+    },
+    {
+      "i": 742,
+      "start": 4329.56,
+      "end": 4334.16,
+      "text": "conditioning and the memories going by default into our brain."
+    },
+    {
+      "i": 743,
+      "start": 4335.12,
+      "end": 4340.0,
+      "text": "You know, I, I, I mean, I was just thinking like with the how"
+    },
+    {
+      "i": 744,
+      "start": 4340.0,
+      "end": 4344.16,
+      "text": "much of A we try, is it going to be really possible?"
+    },
+    {
+      "i": 745,
+      "start": 4344.72,
+      "end": 4351.72,
+      "text": "You know, can someone, it was possible for jagat gurus and you"
+    },
+    {
+      "i": 746,
+      "start": 4351.72,
+      "end": 4356.92,
+      "text": "know, rishis and all those people who were doing tapas all"
+    },
+    {
+      "i": 747,
+      "start": 4356.92,
+      "end": 4360.4,
+      "text": "the time, refining themselves from this Loka Vyabhara."
+    },
+    {
+      "i": 748,
+      "start": 4361.48,
+      "end": 4365.52,
+      "text": "But for the people like me who day in and out have to interact"
+    },
+    {
+      "i": 749,
+      "start": 4365.52,
+      "end": 4369.8,
+      "text": "with people, being in this, you know, in the social media"
+    },
+    {
+      "i": 750,
+      "start": 4369.8,
+      "end": 4373.2,
+      "text": "interacting and all that. And we interact with so many"
+    },
+    {
+      "i": 751,
+      "start": 4373.2,
+      "end": 4375.6,
+      "text": "people. Apart from essential pivotal"
+    },
+    {
+      "i": 752,
+      "start": 4375.6,
+      "end": 4378.4,
+      "text": "people, we also interact with unwanted people."
+    },
+    {
+      "i": 753,
+      "start": 4378.4,
+      "end": 4380.84,
+      "text": "Also. We listen to news and all so, so"
+    },
+    {
+      "i": 754,
+      "start": 4380.84,
+      "end": 4384.92,
+      "text": "many input go into our brain. So how much over yoga,"
+    },
+    {
+      "i": 755,
+      "start": 4384.92,
+      "end": 4387.56,
+      "text": "meditation and dhana and all this we do?"
+    },
+    {
+      "i": 756,
+      "start": 4387.6,
+      "end": 4392.08,
+      "text": "OK, that's a part of us maybe like a speed breaker help"
+    },
+    {
+      "i": 757,
+      "start": 4392.2,
+      "end": 4396.04,
+      "text": "definitely helps us. But still that absolute state of"
+    },
+    {
+      "i": 758,
+      "start": 4396.2,
+      "end": 4399.92,
+      "text": "you know what we talk about this mukti and all that."
+    },
+    {
+      "i": 759,
+      "start": 4400.52,
+      "end": 4404.64,
+      "text": "Is it going to be possible? That's my real thing."
+    },
+    {
+      "i": 760,
+      "start": 4404.64,
+      "end": 4408.48,
+      "text": "Like that's that's one serious thing."
+    },
+    {
+      "i": 761,
+      "start": 4408.84,
+      "end": 4411.36,
+      "text": "But on the lighter note, I was thinking like, only for these"
+    },
+    {
+      "i": 762,
+      "start": 4411.36,
+      "end": 4414.76,
+      "text": "people, it's really possible for other people, you know, the"
+    },
+    {
+      "i": 763,
+      "start": 4414.76,
+      "end": 4419.08,
+      "text": "memory is never going to be erased as long as we are alive."
+    },
+    {
+      "i": 764,
+      "start": 4419.08,
+      "end": 4421.88,
+      "text": "You know, how much of it we do at least some memory lingers,"
+    },
+    {
+      "i": 765,
+      "start": 4421.88,
+      "end": 4428.04,
+      "text": "you know, and second thing I was talking about thinking about is"
+    },
+    {
+      "i": 766,
+      "start": 4428.04,
+      "end": 4432.56,
+      "text": "like our early childhood, like say for some people up to four"
+    },
+    {
+      "i": 767,
+      "start": 4432.56,
+      "end": 4437.36,
+      "text": "years or some people up to six years, We would we would have"
+    },
+    {
+      "i": 768,
+      "start": 4437.36,
+      "end": 4441.32,
+      "text": "done so many actions, you know, and the inference everything"
+    },
+    {
+      "i": 769,
+      "start": 4441.32,
+      "end": 4447.32,
+      "text": "goes as an emotional experience and registers before the verbal"
+    },
+    {
+      "i": 770,
+      "start": 4447.32,
+      "end": 4453.88,
+      "text": "language develops in someone. But whether that memory, you"
+    },
+    {
+      "i": 771,
+      "start": 4453.88,
+      "end": 4459.44,
+      "text": "know, it goes as some kind of memory probably which you know,"
+    },
+    {
+      "i": 772,
+      "start": 4459.44,
+      "end": 4462.68,
+      "text": "we sometimes decode in therapies, but otherwise"
+    },
+    {
+      "i": 773,
+      "start": 4462.68,
+      "end": 4465.52,
+      "text": "sometimes you know, them we don't remember also."
+    },
+    {
+      "i": 774,
+      "start": 4466.28,
+      "end": 4472.64,
+      "text": "So possibly in that state, you know, where we are only learners"
+    },
+    {
+      "i": 775,
+      "start": 4472.64,
+      "end": 4477.08,
+      "text": "in the childhood, you know, so it's possible when we are in"
+    },
+    {
+      "i": 776,
+      "start": 4477.08,
+      "end": 4480.24,
+      "text": "that state of mind otherwise. So I was just thinking like this"
+    },
+    {
+      "i": 777,
+      "start": 4480.24,
+      "end": 4482.72,
+      "text": "and all when you were telling about this memory part of it."
+    },
+    {
+      "i": 778,
+      "start": 4484.88,
+      "end": 4490.8,
+      "text": "Well, two things you are saying about jagat gurus and those who"
+    },
+    {
+      "i": 779,
+      "start": 4490.8,
+      "end": 4496.84,
+      "text": "are achieved are the so-called people of realization whom we"
+    },
+    {
+      "i": 780,
+      "start": 4496.84,
+      "end": 4500.08,
+      "text": "call it as. Are this possible to only for"
+    },
+    {
+      "i": 781,
+      "start": 4500.08,
+      "end": 4502.2,
+      "text": "them to achieve? The."
+    },
+    {
+      "i": 782,
+      "start": 4502.2,
+      "end": 4506.68,
+      "text": "Answer is no. Everyone of us are already in a"
+    },
+    {
+      "i": 783,
+      "start": 4506.68,
+      "end": 4510.64,
+      "text": "state but we are not able to recognize it."
+    },
+    {
+      "i": 784,
+      "start": 4512.32,
+      "end": 4515.16,
+      "text": "As you rightly said, from childhood onwards, whatever"
+    },
+    {
+      "i": 785,
+      "start": 4515.16,
+      "end": 4520.16,
+      "text": "actions we have done, it is a mixture of both."
+    },
+    {
+      "i": 786,
+      "start": 4521.36,
+      "end": 4526.0,
+      "text": "Action with ego, individuality, action without ego."
+    },
+    {
+      "i": 787,
+      "start": 4526.28,
+      "end": 4531.96,
+      "text": "We have done both in our from childhood till now and it is the"
+    },
+    {
+      "i": 788,
+      "start": 4531.96,
+      "end": 4536.32,
+      "text": "actions with the with the individuality idea or the ego"
+    },
+    {
+      "i": 789,
+      "start": 4537.44,
+      "end": 4542.76,
+      "text": "which is remaining as a imprint as long as we hold on to that."
+    },
+    {
+      "i": 790,
+      "start": 4544.28,
+      "end": 4548.72,
+      "text": "It is holding on to the ego, not to the atma."
+    },
+    {
+      "i": 791,
+      "start": 4549.68,
+      "end": 4554.6,
+      "text": "But when we are working without that ego, individuality actions"
+    },
+    {
+      "i": 792,
+      "start": 4554.6,
+      "end": 4561.16,
+      "text": "which have we have done through this body has been done with"
+    },
+    {
+      "i": 793,
+      "start": 4562.88,
+      "end": 4566.76,
+      "text": "liberation mukti or freedom state because our that is our"
+    },
+    {
+      "i": 794,
+      "start": 4568.16,
+      "end": 4573.2,
+      "text": "absolute true nature. But we do not realize because"
+    },
+    {
+      "i": 795,
+      "start": 4574.04,
+      "end": 4578.6,
+      "text": "every now and then we go back to the individuality ego for"
+    },
+    {
+      "i": 796,
+      "start": 4579.56,
+      "end": 4583.76,
+      "text": "fulfilling something thinking we are not full the poornatham."
+    },
+    {
+      "i": 797,
+      "start": 4583.76,
+      "end": 4588.0,
+      "text": "We do not realize it, but there are times when we have acted"
+    },
+    {
+      "i": 798,
+      "start": 4589.6,
+      "end": 4594.72,
+      "text": "with Poornatham, not knowing Poornathu, but because we are"
+    },
+    {
+      "i": 799,
+      "start": 4594.72,
+      "end": 4599.2,
+      "text": "poornam in our nature, we are complete in our nature, so our"
+    },
+    {
+      "i": 800,
+      "start": 4599.2,
+      "end": 4605.2,
+      "text": "actions were done in that level. Those actions will never be"
+    },
+    {
+      "i": 801,
+      "start": 4605.2,
+      "end": 4612.08,
+      "text": "remembered, nor will they be needed to be remembered because"
+    },
+    {
+      "i": 802,
+      "start": 4612.08,
+      "end": 4615.2,
+      "text": "that is our true nature. To remember means to have the"
+    },
+    {
+      "i": 803,
+      "start": 4615.2,
+      "end": 4620.64,
+      "text": "memory in the mind when the mind is not what we are."
+    },
+    {
+      "i": 804,
+      "start": 4621.16,
+      "end": 4625.0,
+      "text": "Where can you remember them? You won't remember them, but we"
+    },
+    {
+      "i": 805,
+      "start": 4625.0,
+      "end": 4628.64,
+      "text": "have acted last. We are our true natures as self."
+    },
+    {
+      "i": 806,
+      "start": 4629.12,
+      "end": 4631.52,
+      "text": "Very. Every now and then we do that,"
+    },
+    {
+      "i": 807,
+      "start": 4632.68,
+      "end": 4636.32,
+      "text": "but we do not recognize that. We do not realize it."
+    },
+    {
+      "i": 808,
+      "start": 4636.72,
+      "end": 4640.48,
+      "text": "So what is Krishna telling us in these through these verses is"
+    },
+    {
+      "i": 809,
+      "start": 4640.48,
+      "end": 4647.0,
+      "text": "that remember you are acting as an individual only when you are"
+    },
+    {
+      "i": 810,
+      "start": 4647.0,
+      "end": 4648.84,
+      "text": "identifying yourself as an individual."
+    },
+    {
+      "i": 811,
+      "start": 4651.16,
+      "end": 4658.48,
+      "text": "So please be informed through knowledge that you are not the"
+    },
+    {
+      "i": 812,
+      "start": 4658.48,
+      "end": 4662.56,
+      "text": "individual, and when that knowledge becomes your"
+    },
+    {
+      "i": 813,
+      "start": 4664.04,
+      "end": 4669.04,
+      "text": "realization. You will realize that all the"
+    },
+    {
+      "i": 814,
+      "start": 4669.04,
+      "end": 4673.16,
+      "text": "while you were free from everything, bondage or action."
+    },
+    {
+      "i": 815,
+      "start": 4674.04,
+      "end": 4678.52,
+      "text": "It was a feeling that that I am the individual, I am the acting"
+    },
+    {
+      "i": 816,
+      "start": 4678.52,
+      "end": 4680.28,
+      "text": "through the body and mind in mental health."
+    },
+    {
+      "i": 817,
+      "start": 4681.36,
+      "end": 4683.48,
+      "text": "This is what Krishna wants us to understand."
+    },
+    {
+      "i": 818,
+      "start": 4688.08,
+      "end": 4691.92,
+      "text": "Thank you, Bintaj. Thank you Ka."
+    },
+    {
+      "i": 819,
+      "start": 4697.52,
+      "end": 4704.84,
+      "text": "Namaste, Revathi coming up by mistake."
+    },
+    {
+      "i": 820,
+      "start": 4707.96,
+      "end": 4710.28,
+      "text": "Looks like Devathi pressed by hand by mistake."
+    },
+    {
+      "i": 821,
+      "start": 4711.2,
+      "end": 4715.56,
+      "text": "Prakash, we'll wind up today. OK, Mendoji."
+    },
+    {
+      "i": 822,
+      "start": 4716.68,
+      "end": 4719.0,
+      "text": "So thanks everyone for attending this session."
+    },
+    {
+      "i": 823,
+      "start": 4720.08,
+      "end": 4723.88,
+      "text": "The replays will be available shortly in the retold channel,"
+    },
+    {
+      "i": 824,
+      "start": 4723.88,
+      "end": 4727.04,
+      "text": "but they are already available, will be available in clubhouse,"
+    },
+    {
+      "i": 825,
+      "start": 4728.04,
+      "end": 4732.6,
+      "text": "so you can listen to it and come for the next lecture, which is"
+    },
+    {
+      "i": 826,
+      "start": 4732.72,
+      "end": 4736.88,
+      "text": "tomorrow at the same time at 6:30 AM IST."
+    },
+    {
+      "i": 827,
+      "start": 4738.04,
+      "end": 4740.12,
+      "text": "And then the following class will be on Thursday."
+    },
+    {
+      "i": 828,
+      "start": 4742.0,
+      "end": 4745.64,
+      "text": "As always, thank you very much, Mintoji, and thank you Artemisia"
+    },
+    {
+      "i": 829,
+      "start": 4745.64,
+      "end": 4749.68,
+      "text": "for joining us today. And for the people who came up"
+    },
+    {
+      "i": 830,
+      "start": 4749.68,
+      "end": 4751.44,
+      "text": "and asked the questions, a special thank you."
+    },
+    {
+      "i": 831,
+      "start": 4753.48,
+      "end": 4755.16,
+      "text": "Go to Bindarji to close the room."
+    },
+    {
+      "i": 832,
+      "start": 4756.44,
+      "end": 4758.36,
+      "text": "Thank you, Prakash. I think Revathi is here."
+    },
+    {
+      "i": 833,
+      "start": 4758.36,
+      "end": 4762.08,
+      "text": "Yeah, yeah. Devathi can you can ask if you"
+    },
+    {
+      "i": 834,
+      "start": 4762.08,
+      "end": 4770.56,
+      "text": "want to ask unmute yourself. Sorry Bindarji network issue was"
+    },
+    {
+      "i": 835,
+      "start": 4770.56,
+      "end": 4772.6,
+      "text": "here so couldn't come. OK."
+    },
+    {
+      "i": 836,
+      "start": 4773.8,
+      "end": 4776.68,
+      "text": "Thank you Bindarji, very beautiful session."
+    },
+    {
+      "i": 837,
+      "start": 4778.4,
+      "end": 4779.92,
+      "text": "Am I audible? Can you hear?"
+    },
+    {
+      "i": 838,
+      "start": 4779.92,
+      "end": 4780.4,
+      "text": "Me. Yes, yes."
+    },
+    {
+      "i": 839,
+      "start": 4780.6,
+      "end": 4782.44,
+      "text": "You are audible. Yes, you are audible."
+    },
+    {
+      "i": 840,
+      "start": 4783.72,
+      "end": 4787.68,
+      "text": "Yes, Bindoji very beautifully explained Bindoji, very."
+    },
+    {
+      "i": 841,
+      "start": 4788.64,
+      "end": 4792.36,
+      "text": "Thank you so much. And here it is."
+    },
+    {
+      "i": 842,
+      "start": 4792.72,
+      "end": 4799.64,
+      "text": "I understood it as being a wave though I am even I am water"
+    },
+    {
+      "i": 843,
+      "start": 4800.16,
+      "end": 4805.84,
+      "text": "ocean being a wave, I can. I am seeing the pratyak atma in"
+    },
+    {
+      "i": 844,
+      "start": 4806.0,
+      "end": 4811.0,
+      "text": "other wave not as it's. I am not saying the wave as a"
+    },
+    {
+      "i": 845,
+      "start": 4812.08,
+      "end": 4816.4,
+      "text": "wave. Is it understanding?"
+    },
+    {
+      "i": 846,
+      "start": 4816.56,
+      "end": 4819.68,
+      "text": "It's clear, Yeah. What you are saying is there was"
+    },
+    {
+      "i": 847,
+      "start": 4819.72,
+      "end": 4821.84,
+      "text": "slight modification of the wordings."
+    },
+    {
+      "i": 848,
+      "start": 4822.16,
+      "end": 4828.84,
+      "text": "What you said is right. The water of the ocean sees the"
+    },
+    {
+      "i": 849,
+      "start": 4829.04,
+      "end": 4836.04,
+      "text": "ocean and the waves, the other forms of water."
+    },
+    {
+      "i": 850,
+      "start": 4836.6,
+      "end": 4841.56,
+      "text": "Everything has water only, so the water cannot differentiate"
+    },
+    {
+      "i": 851,
+      "start": 4841.56,
+      "end": 4843.52,
+      "text": "between 1 water in another water."
+    },
+    {
+      "i": 852,
+      "start": 4844.64,
+      "end": 4846.96,
+      "text": "The wateriness or the nature of water."
+    },
+    {
+      "i": 853,
+      "start": 4849.12,
+      "end": 4852.36,
+      "text": "Like you imagining yourself as water."
+    },
+    {
+      "i": 854,
+      "start": 4853.52,
+      "end": 4857.4,
+      "text": "You know water, not even a drop of water, because even a drop of"
+    },
+    {
+      "i": 855,
+      "start": 4857.4,
+      "end": 4862.4,
+      "text": "water is a limitation of water. But I am talking about the water"
+    },
+    {
+      "i": 856,
+      "start": 4862.44,
+      "end": 4869.28,
+      "text": "as a nature of water, that type of a feeling."
+    },
+    {
+      "i": 857,
+      "start": 4869.28,
+      "end": 4874.68,
+      "text": "Only you can see that the self as what is the self?"
+    },
+    {
+      "i": 858,
+      "start": 4876.2,
+      "end": 4878.8,
+      "text": "Self is not something separate from us."
+    },
+    {
+      "i": 859,
+      "start": 4879.8,
+      "end": 4884.76,
+      "text": "We are the self. What is that self that Satchit"
+    },
+    {
+      "i": 860,
+      "start": 4884.76,
+      "end": 4887.64,
+      "text": "and Anand, the swarupa that is our swarupa."
+    },
+    {
+      "i": 861,
+      "start": 4889.0,
+      "end": 4892.12,
+      "text": "And you can see the sat in everything, the chit in"
+    },
+    {
+      "i": 862,
+      "start": 4892.12,
+      "end": 4894.44,
+      "text": "everything, the Ananda in everything."
+    },
+    {
+      "i": 863,
+      "start": 4894.8,
+      "end": 4898.8,
+      "text": "So what I am experiencing is Satchit Ananda, not as an human"
+    },
+    {
+      "i": 864,
+      "start": 4898.8,
+      "end": 4905.68,
+      "text": "being, but as my swaroopa. Every moment of mine is what is"
+    },
+    {
+      "i": 865,
+      "start": 4905.68,
+      "end": 4912.44,
+      "text": "nothing but Satan, Chitananda. Every location, every space,"
+    },
+    {
+      "i": 866,
+      "start": 4912.6,
+      "end": 4916.32,
+      "text": "everything is in that. So from that point of view, when"
+    },
+    {
+      "i": 867,
+      "start": 4916.32,
+      "end": 4920.84,
+      "text": "I look at anything and everything, I'm not going to"
+    },
+    {
+      "i": 868,
+      "start": 4920.84,
+      "end": 4922.8,
+      "text": "differentiate because of the name."
+    },
+    {
+      "i": 869,
+      "start": 4922.8,
+      "end": 4924.64,
+      "text": "It is Revathi, Prakash, etcetera."
+    },
+    {
+      "i": 870,
+      "start": 4926.64,
+      "end": 4930.44,
+      "text": "Seeing the same Sachit Ananda as everything."
+    },
+    {
+      "i": 871,
+      "start": 4931.04,
+      "end": 4937.36,
+      "text": "When that becomes a reality to me, I will be transacting with"
+    },
+    {
+      "i": 872,
+      "start": 4937.36,
+      "end": 4939.04,
+      "text": "Revathi. I'll be transacting with"
+    },
+    {
+      "i": 873,
+      "start": 4939.04,
+      "end": 4949.0,
+      "text": "everyone as normal as everyone, but my inner avoidance is not as"
+    },
+    {
+      "i": 874,
+      "start": 4949.0,
+      "end": 4954.92,
+      "text": "bindu, not as an individual human being, but as the Tyana"
+    },
+    {
+      "i": 875,
+      "start": 4954.92,
+      "end": 4958.2,
+      "text": "satti, Rananda Swarupa. That is the way in which it has"
+    },
+    {
+      "i": 876,
+      "start": 4958.2,
+      "end": 4963.24,
+      "text": "to be understood, you know, appreciated."
+    },
+    {
+      "i": 877,
+      "start": 4963.4,
+      "end": 4965.56,
+      "text": "That is the avoidance which is being asked."
+    },
+    {
+      "i": 878,
+      "start": 4968.88,
+      "end": 4971.88,
+      "text": "Yes, Bindaji, there's a Sarvatma bhava."
+    },
+    {
+      "i": 879,
+      "start": 4973.16,
+      "end": 4975.88,
+      "text": "Yes. To understand yes, yes Bindaji."
+    },
+    {
+      "i": 880,
+      "start": 4976.84,
+      "end": 4981.8,
+      "text": "Thank you Bindaji and Loka Kalayana here is always"
+    },
+    {
+      "i": 881,
+      "start": 4981.8,
+      "end": 4986.92,
+      "text": "misunderstood that Sitabratnya should do the Loka Kalayana"
+    },
+    {
+      "i": 882,
+      "start": 4986.92,
+      "end": 4989.76,
+      "text": "things. So that is from the."
+    },
+    {
+      "i": 883,
+      "start": 4989.8,
+      "end": 4992.2,
+      "text": "Other it is from the others point of view."
+    },
+    {
+      "i": 884,
+      "start": 4993.16,
+      "end": 4996.96,
+      "text": "For whom Loka is there, there will be Loka Kalyana, but one"
+    },
+    {
+      "i": 885,
+      "start": 4997.0,
+      "end": 4999.52,
+      "text": "who doesn't see the Loka separately from himself."
+    },
+    {
+      "i": 886,
+      "start": 5000.12,
+      "end": 5003.36,
+      "text": "Where is the Loka Kalyana? Thank you."
+    },
+    {
+      "i": 887,
+      "start": 5003.64,
+      "end": 5006.84,
+      "text": "Thank you. Thank you, Revathi."
+    },
+    {
+      "i": 888,
+      "start": 5008.36,
+      "end": 5012.64,
+      "text": "So thank you Prakash, I found Artmicha said she will be there"
+    },
+    {
+      "i": 889,
+      "start": 5012.64,
+      "end": 5015.6,
+      "text": "for only for some time. Stayed back till now."
+    },
+    {
+      "i": 890,
+      "start": 5016.32,
+      "end": 5020.84,
+      "text": "And thank you to her Ajay, Atmisha, Revathi, Venkat for"
+    },
+    {
+      "i": 891,
+      "start": 5021.16,
+      "end": 5025.72,
+      "text": "asking the questions. And we'll continue with verses"
+    },
+    {
+      "i": 892,
+      "start": 5025.76,
+      "end": 5028.8,
+      "text": "8:00 and 9:00 tomorrow. See you all tomorrow."
+    },
+    {
+      "i": 893,
+      "start": 5029.24,
+      "end": 5031.68,
+      "text": "Have a good day. Good night for those who are"
+    },
+    {
+      "i": 894,
+      "start": 5032.56,
+      "end": 5036.08,
+      "text": "winding up the day. See you all tomorrow."
+    },
+    {
+      "i": 895,
+      "start": 5036.8,
+      "end": 5039.24,
+      "text": "Same time, Rio. Namaste."
+    },
+    {
+      "i": 896,
+      "start": 5040.44,
+      "end": 5040.76,
+      "text": "Have you?"
+    }
+  ]
+}

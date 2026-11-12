@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "72c48759-6d76-4856-98a9-9a1b055c2270",
+  "title": "Ch04-08-Shrimad Bhagavad Gita",
+  "pubDate": "Sat, 04 Apr 2026 00:24:37 GMT",
+  "duration": "01:14:03",
+  "description": "Shrimad Bhagavad Gita Chapter 04 verse 11",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch04-08-Shrimad-Bhagavad-Gita-e3hdfv0",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/4auV5e9UYFjAdchjmDq5PD/transcript.srt",
+  "fetched_at": "2026-11-09T22:08:04Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 70329,
+  "sha256": "ed917296fea06670a8e5688743e1a489f9afd8eef9065c5d37c14bb58b5c5548",
+  "cue_count": 786,
+  "first_cue_start": "00:00:01,120",
+  "last_cue_end": "01:13:56,120",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}

@@ -1,0 +1,4345 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "727ff93e-aac4-4168-a610-46e952010ece",
+  "source_sha256": "1fa2b60549a57f98a62641092ac5966739bc84fef6b0a32385f3bc687f50c6d9",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.04,
+      "end": 2.6,
+      "text": "Yep, numbers three everyone welcome to Advaita Vedanta"
+    },
+    {
+      "i": 2,
+      "start": 2.6,
+      "end": 6.44,
+      "text": "Satsang House. We are on class 3 of chapter 5"
+    },
+    {
+      "i": 3,
+      "start": 7.16,
+      "end": 14.08,
+      "text": "on the new schedule 630 AMI St. So the replays for the earlier"
+    },
+    {
+      "i": 4,
+      "start": 14.08,
+      "end": 16.04,
+      "text": "rooms are available. You can access them in"
+    },
+    {
+      "i": 5,
+      "start": 16.04,
+      "end": 19.44,
+      "text": "clubhouse. I've also put them in the chat"
+    },
+    {
+      "i": 6,
+      "start": 19.52,
+      "end": 22.72,
+      "text": "the links to the Advaita Retold YouTube channel where they're"
+    },
+    {
+      "i": 7,
+      "start": 22.72,
+      "end": 25.72,
+      "text": "well cataloged. Or you can go to the Apple"
+    },
+    {
+      "i": 8,
+      "start": 25.72,
+      "end": 30.24,
+      "text": "podcast with Spotify link that is shared for reading material."
+    },
+    {
+      "i": 9,
+      "start": 30.24,
+      "end": 36.04,
+      "text": "There's also a book available titled The Imaginary Door by Pen"
+    },
+    {
+      "i": 10,
+      "start": 36.04,
+      "end": 40.56,
+      "text": "by Artemisia based on Bindoji's insights into Advaita for"
+    },
+    {
+      "i": 11,
+      "start": 40.56,
+      "end": 42.92,
+      "text": "housekeeping. I will close the chat and hand"
+    },
+    {
+      "i": 12,
+      "start": 42.92,
+      "end": 46.28,
+      "text": "raising. The channels will be reopened"
+    },
+    {
+      "i": 13,
+      "start": 46.28,
+      "end": 49.4,
+      "text": "after about an hour when you can post questions or"
+    },
+    {
+      "i": 14,
+      "start": 49.4,
+      "end": 53.44,
+      "text": "clarifications. Thank you very much, Bindoji,"
+    },
+    {
+      "i": 15,
+      "start": 53.44,
+      "end": 57.24,
+      "text": "over to you. Thank you Prakash."
+    },
+    {
+      "i": 16,
+      "start": 59.0,
+      "end": 60.44,
+      "text": "I must stay in hariyum to all of you."
+    },
+    {
+      "i": 17,
+      "start": 61.48,
+      "end": 72.2,
+      "text": "Let me to my invocation. Namo brahmadibyo Brahmavidya"
+    },
+    {
+      "i": 18,
+      "start": 72.2,
+      "end": 82.72,
+      "text": "sampradaya namo guru pyaar Namami bhagwat padam shankaram"
+    },
+    {
+      "i": 19,
+      "start": 82.72,
+      "end": 86.56,
+      "text": "loga shankaram shankaram shankaracharyam keshavan"
+    },
+    {
+      "i": 20,
+      "start": 86.56,
+      "end": 154.68,
+      "text": "badarayanam. Krishna's was talking about"
+    },
+    {
+      "i": 21,
+      "start": 154.88,
+      "end": 163.6,
+      "text": "karma yoga and karma sanyasa. So having told the Nityasanyasi"
+    },
+    {
+      "i": 22,
+      "start": 164.4,
+      "end": 172.24,
+      "text": "who is Nadweshti Nakanshati who has no repulsion or attraction"
+    },
+    {
+      "i": 23,
+      "start": 172.24,
+      "end": 181.12,
+      "text": "towards anything in the world, he is the one who is the one who"
+    },
+    {
+      "i": 24,
+      "start": 181.12,
+      "end": 187.92,
+      "text": "is achieving the knowledge. But Karma yoga is superior if"
+    },
+    {
+      "i": 25,
+      "start": 188.6,
+      "end": 194.76,
+      "text": "you are not able to do the, you know, desires under control."
+    },
+    {
+      "i": 26,
+      "start": 196.8,
+      "end": 199.92,
+      "text": "He is further elaborating on this same subject."
+    },
+    {
+      "i": 27,
+      "start": 200.96,
+      "end": 207.2,
+      "text": "Sanyasat karma yoga yoho bina purusha yoho virudu yoho Hale"
+    },
+    {
+      "i": 28,
+      "start": 207.2,
+      "end": 213.12,
+      "text": "abhi. Virudo yuktaha."
+    },
+    {
+      "i": 29,
+      "start": 216.48,
+      "end": 221.44,
+      "text": "This is the introduction to the next words by Sanyasat."
+    },
+    {
+      "i": 30,
+      "start": 221.44,
+      "end": 226.36,
+      "text": "Karma Yoga yoho bina purusha yoho virudu yoho Hale abhi"
+    },
+    {
+      "i": 31,
+      "start": 226.84,
+      "end": 232.08,
+      "text": "vidhho yuktha means. In the case of renunciation and"
+    },
+    {
+      "i": 32,
+      "start": 232.08,
+      "end": 236.64,
+      "text": "karma yoga which are opposed to each other and are to be"
+    },
+    {
+      "i": 33,
+      "start": 236.64,
+      "end": 243.24,
+      "text": "practiced by different persons, it would be reasonable that"
+    },
+    {
+      "i": 34,
+      "start": 243.36,
+      "end": 246.2,
+      "text": "their results too should be mutually opposed."
+    },
+    {
+      "i": 35,
+      "start": 248.76,
+      "end": 256.72,
+      "text": "Because the person who is renunciate cannot be doing karma"
+    },
+    {
+      "i": 36,
+      "start": 256.72,
+      "end": 265.04,
+      "text": "yoga because he has he has no attitude or he has no karthurtu"
+    },
+    {
+      "i": 37,
+      "start": 265.04,
+      "end": 269.24,
+      "text": "bhava. The doership nathu ubayoho"
+    },
+    {
+      "i": 38,
+      "start": 269.24,
+      "end": 276.52,
+      "text": "nisreyas karatvam Eva is I Prabhpe and not only that that"
+    },
+    {
+      "i": 39,
+      "start": 276.64,
+      "end": 280.4,
+      "text": "both alike should be conducive to the highest good."
+    },
+    {
+      "i": 40,
+      "start": 282.24,
+      "end": 286.88,
+      "text": "This being the prima facie conclusion that arises,"
+    },
+    {
+      "i": 41,
+      "start": 287.76,
+      "end": 291.64,
+      "text": "therefore Krishna is explaining that in the next verse."
+    },
+    {
+      "i": 42,
+      "start": 293.96,
+      "end": 298.04,
+      "text": "Sankya yoga yo pritak Bala pravatandina pandita."
+    },
+    {
+      "i": 43,
+      "start": 298.04,
+      "end": 306.84,
+      "text": "A kamapi astita ha samya gubayo ho vindade palam Sankya yogo"
+    },
+    {
+      "i": 44,
+      "start": 306.84,
+      "end": 315.0,
+      "text": "pritak Bala pravatandina pandita napravatanti pantita"
+    },
+    {
+      "i": 45,
+      "start": 315.0,
+      "end": 326.88,
+      "text": "napravatanti. The wise do not discriminate or"
+    },
+    {
+      "i": 46,
+      "start": 326.96,
+      "end": 334.64,
+      "text": "separate pratak. They do not explain these two or"
+    },
+    {
+      "i": 47,
+      "start": 334.64,
+      "end": 340.44,
+      "text": "declare these two are separate. What Sankya yoga yogyo sankya"
+    },
+    {
+      "i": 48,
+      "start": 340.52,
+      "end": 347.16,
+      "text": "and yoga? We have to be here very careful."
+    },
+    {
+      "i": 49,
+      "start": 348.52,
+      "end": 354.48,
+      "text": "Krishna could have used Sanya SA Yoga Yoho, but instead of using"
+    },
+    {
+      "i": 50,
+      "start": 354.48,
+      "end": 358.16,
+      "text": "Sanya SA yoga Yoho, which was the way in which he was"
+    },
+    {
+      "i": 51,
+      "start": 358.16,
+      "end": 362.04,
+      "text": "explaining the previous verses, in this verse he has used"
+    },
+    {
+      "i": 52,
+      "start": 362.04,
+      "end": 366.32,
+      "text": "Sankhya Yogayo instead of Sanya SA Yogayoho."
+    },
+    {
+      "i": 53,
+      "start": 368.08,
+      "end": 372.12,
+      "text": "There is a reason for this. We will see that when we explain"
+    },
+    {
+      "i": 54,
+      "start": 372.12,
+      "end": 378.56,
+      "text": "these explanations. Ekamapi astitaha samyuk ubayoho"
+    },
+    {
+      "i": 55,
+      "start": 378.56,
+      "end": 382.48,
+      "text": "vindadeepalam. One who is properly established"
+    },
+    {
+      "i": 56,
+      "start": 382.48,
+      "end": 387.72,
+      "text": "in even in one of these two paths obtains the fruit for"
+    },
+    {
+      "i": 57,
+      "start": 387.72,
+      "end": 394.88,
+      "text": "both. Looks like confusing statement"
+    },
+    {
+      "i": 58,
+      "start": 394.88,
+      "end": 399.92,
+      "text": "from Krishna. 1 is he is talking about Sankhya and yoga."
+    },
+    {
+      "i": 59,
+      "start": 400.72,
+      "end": 406.28,
+      "text": "Second he is saying that both these paths will give the"
+    },
+    {
+      "i": 60,
+      "start": 407.08,
+      "end": 410.84,
+      "text": "result. Both of them are achievable."
+    },
+    {
+      "i": 61,
+      "start": 410.84,
+      "end": 414.6,
+      "text": "Both paths can yield to the same result."
+    },
+    {
+      "i": 62,
+      "start": 417.56,
+      "end": 422.24,
+      "text": "Sankhya yoga yoho is a compound word Sankhya plus yoga."
+    },
+    {
+      "i": 63,
+      "start": 425.44,
+      "end": 429.36,
+      "text": "The word sankhya here in entire Bhagavad Gita."
+    },
+    {
+      "i": 64,
+      "start": 429.88,
+      "end": 435.04,
+      "text": "Sankhya doesn't mean the sankhyas of Kapila."
+    },
+    {
+      "i": 65,
+      "start": 435.36,
+      "end": 445.96,
+      "text": "That what you call the Kapila Sankhya philosophical school"
+    },
+    {
+      "i": 66,
+      "start": 445.96,
+      "end": 452.0,
+      "text": "were Sankhya darsana of 22 tattvas. 25 tattvas are"
+    },
+    {
+      "i": 67,
+      "start": 452.0,
+      "end": 456.24,
+      "text": "explained by Kapila that is also called Sankhya."
+    },
+    {
+      "i": 68,
+      "start": 457.04,
+      "end": 460.88,
+      "text": "But here in the entire Bhagavad Gita the word Sankhya means"
+    },
+    {
+      "i": 69,
+      "start": 461.28,
+      "end": 468.16,
+      "text": "Nyana. Sankhya Yoga Yoho means Nyana"
+    },
+    {
+      "i": 70,
+      "start": 468.16,
+      "end": 472.32,
+      "text": "Nishta and Karma Yoga are the two parts which is being thing."
+    },
+    {
+      "i": 71,
+      "start": 472.32,
+      "end": 476.4,
+      "text": "Sankhya means the path of knowledge and renunciation."
+    },
+    {
+      "i": 72,
+      "start": 477.56,
+      "end": 485.2,
+      "text": "Sankhyate parichiyate, Atma anena that by which atma is"
+    },
+    {
+      "i": 73,
+      "start": 485.2,
+      "end": 489.24,
+      "text": "fully discriminated is what is called sankhya."
+    },
+    {
+      "i": 74,
+      "start": 490.72,
+      "end": 495.16,
+      "text": "Karma yoga is the Antakarana shuddhi sadhana, what is used"
+    },
+    {
+      "i": 75,
+      "start": 495.16,
+      "end": 497.96,
+      "text": "for the Chitta shuddhi and Antakarana shuddhi."
+    },
+    {
+      "i": 76,
+      "start": 499.6,
+      "end": 502.36,
+      "text": "So we have to be very careful when we are using the word"
+    },
+    {
+      "i": 77,
+      "start": 502.36,
+      "end": 505.2,
+      "text": "sankhya in the context of Bhagavad Gita."
+    },
+    {
+      "i": 78,
+      "start": 505.88,
+      "end": 510.32,
+      "text": "It does not refer to the Sankhya philosophy or Sankhya Darshana"
+    },
+    {
+      "i": 79,
+      "start": 510.44,
+      "end": 516.039,
+      "text": "of Kapila here. It is that Nanishta or Vivekat"
+    },
+    {
+      "i": 80,
+      "start": 516.039,
+      "end": 528.36,
+      "text": "Nanishta of Vedanta. Prithak means separate are"
+    },
+    {
+      "i": 81,
+      "start": 528.36,
+      "end": 535.48,
+      "text": "different from each other so they are declared as separate by"
+    },
+    {
+      "i": 82,
+      "start": 535.84,
+      "end": 539.0,
+      "text": "Balaha. Now who are Bala?"
+    },
+    {
+      "i": 83,
+      "start": 540.12,
+      "end": 545.96,
+      "text": "That the literal meaning of Bala means child but metaphorically"
+    },
+    {
+      "i": 84,
+      "start": 546.44,
+      "end": 550.92,
+      "text": "it is indicating the immature or uninstructed."
+    },
+    {
+      "i": 85,
+      "start": 550.92,
+      "end": 554.28,
+      "text": "Uninstructed or the childish ones."
+    },
+    {
+      "i": 86,
+      "start": 556.32,
+      "end": 560.56,
+      "text": "Those who lack discrimination, they are called Balaha."
+    },
+    {
+      "i": 87,
+      "start": 561.2,
+      "end": 569.32,
+      "text": "So pravadanti is the verb means they declare or proclaim or they"
+    },
+    {
+      "i": 88,
+      "start": 570.64,
+      "end": 573.08,
+      "text": "announce that these two are separate."
+    },
+    {
+      "i": 89,
+      "start": 573.32,
+      "end": 579.84,
+      "text": "What Sankhya and yoga by the immature or the the one who have"
+    },
+    {
+      "i": 90,
+      "start": 579.84,
+      "end": 586.28,
+      "text": "not understood it properly. Napandita not the wise."
+    },
+    {
+      "i": 91,
+      "start": 587.0,
+      "end": 589.48,
+      "text": "The wise do not discriminate between the two."
+    },
+    {
+      "i": 92,
+      "start": 591.52,
+      "end": 605.48,
+      "text": "Ekam appi, even 1 alone, even 1 aasthitah mean abiding, stand"
+    },
+    {
+      "i": 93,
+      "start": 605.48,
+      "end": 611.36,
+      "text": "upon, resort to or establish, having resorted to one of the"
+    },
+    {
+      "i": 94,
+      "start": 611.36,
+      "end": 616.88,
+      "text": "two or even one of them. Being is or is established in"
+    },
+    {
+      "i": 95,
+      "start": 616.88,
+      "end": 620.4,
+      "text": "one of them. Samyuk means properly,"
+    },
+    {
+      "i": 96,
+      "start": 620.4,
+      "end": 626.52,
+      "text": "completely in a correct manner. So one who is properly"
+    },
+    {
+      "i": 97,
+      "start": 626.52,
+      "end": 631.96,
+      "text": "established or one who has properly following the path of"
+    },
+    {
+      "i": 98,
+      "start": 632.36,
+      "end": 642.52,
+      "text": "Yana Nishta or Karma yoga, these are the Ubayoho means both the"
+    },
+    {
+      "i": 99,
+      "start": 642.52,
+      "end": 649.4,
+      "text": "fruit of both Ubayoho palam means the fruits of Kankya path"
+    },
+    {
+      "i": 100,
+      "start": 649.8,
+      "end": 658.28,
+      "text": "and the yoga path bindate means attains, experiences or gains."
+    },
+    {
+      "i": 101,
+      "start": 660.72,
+      "end": 673.8,
+      "text": "So this verse is saying that the both paths, whether it is the"
+    },
+    {
+      "i": 102,
+      "start": 673.8,
+      "end": 679.2,
+      "text": "path of Karma Yoga or path of Nainanishta both yield the same"
+    },
+    {
+      "i": 103,
+      "start": 679.2,
+      "end": 683.56,
+      "text": "fruit. But if both yield the same fruit"
+    },
+    {
+      "i": 104,
+      "start": 683.64,
+      "end": 691.08,
+      "text": "and even 1 suffices to obtain it, then their separateness is"
+    },
+    {
+      "i": 105,
+      "start": 691.88,
+      "end": 695.4,
+      "text": "in what way? Why should there be having two"
+    },
+    {
+      "i": 106,
+      "start": 695.4,
+      "end": 699.4,
+      "text": "separate names? Why should there be declared AS2"
+    },
+    {
+      "i": 107,
+      "start": 699.4,
+      "end": 703.64,
+      "text": "separate paths? Sankaracharya says that it is"
+    },
+    {
+      "i": 108,
+      "start": 703.64,
+      "end": 708.44,
+      "text": "from the Vyavaharika point of view valid at the level of"
+    },
+    {
+      "i": 109,
+      "start": 708.44,
+      "end": 715.48,
+      "text": "practice and Atigari were the the person who is processing or"
+    },
+    {
+      "i": 110,
+      "start": 715.72,
+      "end": 720.48,
+      "text": "practicing it. But when it comes to the both"
+    },
+    {
+      "i": 111,
+      "start": 720.48,
+      "end": 727.2,
+      "text": "giving the fruit, the fruit is not in the Vyavaharika level."
+    },
+    {
+      "i": 112,
+      "start": 727.64,
+      "end": 731.2,
+      "text": "At the ultimate level, they converge in a single yakhavala."
+    },
+    {
+      "i": 113,
+      "start": 734.36,
+      "end": 738.56,
+      "text": "This is the precise advaitic description."
+    },
+    {
+      "i": 114,
+      "start": 739.4,
+      "end": 743.8,
+      "text": "Distinctions are real at the path level or the practice level"
+    },
+    {
+      "i": 115,
+      "start": 744.76,
+      "end": 750.64,
+      "text": "at the path of Nyananishta and path of Chitta Shuddhi Sadhana."
+    },
+    {
+      "i": 116,
+      "start": 751.72,
+      "end": 757.0,
+      "text": "But they both dissolve when they yield the result at the"
+    },
+    {
+      "i": 117,
+      "start": 757.0,
+      "end": 761.36,
+      "text": "Paramarthika level or the absolute level by giving rise to"
+    },
+    {
+      "i": 118,
+      "start": 761.36,
+      "end": 765.12,
+      "text": "the Prathyakshanubhava of Hartman or Brahman."
+    },
+    {
+      "i": 119,
+      "start": 767.48,
+      "end": 772.88,
+      "text": "So the difference is by people who are in the Vyavaharika level"
+    },
+    {
+      "i": 120,
+      "start": 773.04,
+      "end": 777.84,
+      "text": "who are uninstructed. They see the difference."
+    },
+    {
+      "i": 121,
+      "start": 779.28,
+      "end": 784.2,
+      "text": "The Bala or the uninstructed see two separate paths with two"
+    },
+    {
+      "i": 122,
+      "start": 784.2,
+      "end": 788.0,
+      "text": "separate fruits. They say 1 is for chittasuddhi,"
+    },
+    {
+      "i": 123,
+      "start": 788.0,
+      "end": 792.52,
+      "text": "the other is for nyana. But the chittasuddhi and the"
+    },
+    {
+      "i": 124,
+      "start": 792.56,
+      "end": 796.92,
+      "text": "nyana is yielding the same result of tatvatnyana."
+    },
+    {
+      "i": 125,
+      "start": 797.6,
+      "end": 801.88,
+      "text": "That can be seen only when you realize that both the parts are"
+    },
+    {
+      "i": 126,
+      "start": 802.28,
+      "end": 805.28,
+      "text": "converging in the paramartika level at the same place."
+    },
+    {
+      "i": 127,
+      "start": 806.32,
+      "end": 810.96,
+      "text": "These two parts with one fruit is what is being referred by the"
+    },
+    {
+      "i": 128,
+      "start": 810.96,
+      "end": 815.28,
+      "text": "Pantitha. The difference is in the"
+    },
+    {
+      "i": 129,
+      "start": 815.28,
+      "end": 822.16,
+      "text": "Vyavasarika Rashti at the in the uninstructed or those who are"
+    },
+    {
+      "i": 130,
+      "start": 822.16,
+      "end": 827.04,
+      "text": "feeling it as different. But when the Pantitha Pantithyam"
+    },
+    {
+      "i": 131,
+      "start": 827.4,
+      "end": 833.56,
+      "text": "one who sees the Samadhar sittum or Samyukdarshanam, for them"
+    },
+    {
+      "i": 132,
+      "start": 834.04,
+      "end": 836.64,
+      "text": "there is These two paths are not separate."
+    },
+    {
+      "i": 133,
+      "start": 838.04,
+      "end": 841.76,
+      "text": "They have apparent separation. Their separations are not real."
+    },
+    {
+      "i": 134,
+      "start": 843.28,
+      "end": 848.48,
+      "text": "So the veda or the separatedness is due to the superimposition of"
+    },
+    {
+      "i": 135,
+      "start": 848.48,
+      "end": 853.48,
+      "text": "the karma aspect by those who are not able to realize the"
+    },
+    {
+      "i": 136,
+      "start": 853.68,
+      "end": 857.84,
+      "text": "ultimate fruit. Therefore, the ajigaris are also"
+    },
+    {
+      "i": 137,
+      "start": 857.84,
+      "end": 863.4,
+      "text": "different for these two deep paths as per the path of"
+    },
+    {
+      "i": 138,
+      "start": 863.4,
+      "end": 865.84,
+      "text": "Indhyaya walk. From the Vyabharika point of"
+    },
+    {
+      "i": 139,
+      "start": 865.84,
+      "end": 873.32,
+      "text": "view, the unity of the fruit, how does it happen?"
+    },
+    {
+      "i": 140,
+      "start": 873.44,
+      "end": 876.0,
+      "text": "Adora what how they say uweo halam."
+    },
+    {
+      "i": 141,
+      "start": 878.32,
+      "end": 887.16,
+      "text": "The fruit of both attained through one end result is a"
+    },
+    {
+      "i": 142,
+      "start": 887.16,
+      "end": 893.36,
+      "text": "compressed advaitic statement. Eka Bhalatu Moksha or the"
+    },
+    {
+      "i": 143,
+      "start": 894.0,
+      "end": 899.6,
+      "text": "aparoksha Anubhava is 1. There are no two different"
+    },
+    {
+      "i": 144,
+      "start": 899.96,
+      "end": 905.36,
+      "text": "liberations or two anubhavas. The knowing or the knowledge of"
+    },
+    {
+      "i": 145,
+      "start": 905.36,
+      "end": 913.84,
+      "text": "Atma is 1/1 for the Karma, Yogin separate and one for Jnan."
+    },
+    {
+      "i": 146,
+      "start": 913.84,
+      "end": 919.84,
+      "text": "Ishta separate is not there because Atma is only one because"
+    },
+    {
+      "i": 147,
+      "start": 919.84,
+      "end": 922.08,
+      "text": "Ekatva. Both paths lead to the"
+    },
+    {
+      "i": 148,
+      "start": 922.08,
+      "end": 928.24,
+      "text": "recognition of Atman which is Ekaha, Atman or Brahman which is"
+    },
+    {
+      "i": 149,
+      "start": 929.72,
+      "end": 932.24,
+      "text": "without. When there all the bondages to"
+    },
+    {
+      "i": 150,
+      "start": 932.24,
+      "end": 938.56,
+      "text": "the karma and the path is lost in the fructification of the"
+    },
+    {
+      "i": 151,
+      "start": 938.56,
+      "end": 944.32,
+      "text": "result. Marganam Ikm is the culmination,"
+    },
+    {
+      "i": 152,
+      "start": 944.44,
+      "end": 951.36,
+      "text": "that is, both the paths appear prithak or separate when they"
+    },
+    {
+      "i": 153,
+      "start": 951.36,
+      "end": 958.32,
+      "text": "are starting point but toward the end the result converge at"
+    },
+    {
+      "i": 154,
+      "start": 958.32,
+      "end": 962.44,
+      "text": "their terminus. Like 2 separate rivers they"
+    },
+    {
+      "i": 155,
+      "start": 962.44,
+      "end": 971.2,
+      "text": "merge together in one ocean. But there is a Samyuk word used"
+    },
+    {
+      "i": 156,
+      "start": 971.2,
+      "end": 976.48,
+      "text": "here. That is the word the entire"
+    },
+    {
+      "i": 157,
+      "start": 976.48,
+      "end": 981.36,
+      "text": "sadhana. Chatustya is intended by that"
+    },
+    {
+      "i": 158,
+      "start": 981.36,
+      "end": 985.84,
+      "text": "word. For Karma yoga to yield the"
+    },
+    {
+      "i": 159,
+      "start": 985.84,
+      "end": 991.72,
+      "text": "fruit, it must be practiced by all the viveka, Vairagya,"
+    },
+    {
+      "i": 160,
+      "start": 991.72,
+      "end": 996.68,
+      "text": "Satsambhati and Mumukshutta. That is the time when that"
+    },
+    {
+      "i": 161,
+      "start": 996.68,
+      "end": 1002.04,
+      "text": "Samyuk darshanam which the Pandithya by through the path of"
+    },
+    {
+      "i": 162,
+      "start": 1002.04,
+      "end": 1006.84,
+      "text": "knowledge also achieves. So dissolving these two"
+    },
+    {
+      "i": 163,
+      "start": 1006.84,
+      "end": 1012.8,
+      "text": "separatedness establishing in the Pantitya a Kapala is the"
+    },
+    {
+      "i": 164,
+      "start": 1012.8,
+      "end": 1016.16,
+      "text": "recognition of Atman or Brahman which is being integrated in"
+    },
+    {
+      "i": 165,
+      "start": 1016.16,
+      "end": 1020.84,
+      "text": "this verse. Sankya Yogi ho prathak Virudh"
+    },
+    {
+      "i": 166,
+      "start": 1020.88,
+      "end": 1026.119,
+      "text": "Binnapalai Palau balaha Pravathanthina Pantina the"
+    },
+    {
+      "i": 167,
+      "start": 1026.119,
+      "end": 1030.28,
+      "text": "childish Sankaracharya's Vash is commentary is what I am reading"
+    },
+    {
+      "i": 168,
+      "start": 1030.28,
+      "end": 1033.68,
+      "text": "now. The child is with the with, but"
+    },
+    {
+      "i": 169,
+      "start": 1033.68,
+      "end": 1037.319,
+      "text": "who does not speak of knowledge from the point of view knowledge"
+    },
+    {
+      "i": 170,
+      "start": 1038.16,
+      "end": 1042.079,
+      "text": "for him the Sankhya Yoga is Sankhya and Yoga are distinct,"
+    },
+    {
+      "i": 171,
+      "start": 1042.079,
+      "end": 1044.079,
+      "text": "opposed and having different results."
+    },
+    {
+      "i": 172,
+      "start": 1045.56,
+      "end": 1052.04,
+      "text": "Panditaha tu nyaninaha ekampalam aviriddham ichandi."
+    },
+    {
+      "i": 173,
+      "start": 1053.24,
+      "end": 1060.28,
+      "text": "But the wise that the knowers of Hathman are Brahman understand"
+    },
+    {
+      "i": 174,
+      "start": 1060.28,
+      "end": 1065.52,
+      "text": "them as having one and the same non opposed result there they"
+    },
+    {
+      "i": 175,
+      "start": 1065.52,
+      "end": 1068.76,
+      "text": "don't see the separation or the result from the Pandavanda"
+    },
+    {
+      "i": 176,
+      "start": 1068.76,
+      "end": 1074.0,
+      "text": "result. Katham, how is it Ekhmapi sankye"
+    },
+    {
+      "i": 177,
+      "start": 1074.0,
+      "end": 1079.4,
+      "text": "yoga yo ho samyek aashti taha samyek yanushti Dhawan ityartha"
+    },
+    {
+      "i": 178,
+      "start": 1079.48,
+      "end": 1088.08,
+      "text": "ubeyo vinda re palam and the one who has properly resorted to"
+    },
+    {
+      "i": 179,
+      "start": 1088.08,
+      "end": 1092.16,
+      "text": "even one of the two either sankhya the path of nyana nishta"
+    },
+    {
+      "i": 180,
+      "start": 1092.56,
+      "end": 1099.12,
+      "text": "or yoga. This is who has duly practiced"
+    },
+    {
+      "i": 181,
+      "start": 1099.12,
+      "end": 1108.72,
+      "text": "it attains the same results of atma nyana tatvatnyana ubayo ho"
+    },
+    {
+      "i": 182,
+      "start": 1108.72,
+      "end": 1115.2,
+      "text": "tadeva hi nishreyasam palam ataha na pale giruddha hasti for"
+    },
+    {
+      "i": 183,
+      "start": 1115.2,
+      "end": 1119.24,
+      "text": "the fruit for both is indeed the same, the highest good of"
+    },
+    {
+      "i": 184,
+      "start": 1119.64,
+      "end": 1122.08,
+      "text": "satvatyana. Therefore, there is no"
+    },
+    {
+      "i": 185,
+      "start": 1122.08,
+      "end": 1128.96,
+      "text": "opposition in the in the result Nanu sanyasa karma yogaya"
+    },
+    {
+      "i": 186,
+      "start": 1128.96,
+      "end": 1135.2,
+      "text": "sabdeyana prastutas prastus pratuskya syank sankya yogayo ho"
+    },
+    {
+      "i": 187,
+      "start": 1135.28,
+      "end": 1139.2,
+      "text": "halai khatum katham iha a prakratum brevidi."
+    },
+    {
+      "i": 188,
+      "start": 1141.6,
+      "end": 1144.84,
+      "text": "But when? But then, having introduced the"
+    },
+    {
+      "i": 189,
+      "start": 1144.84,
+      "end": 1152.68,
+      "text": "topic with terms sanyasa and Karma yoga, how does he speak"
+    },
+    {
+      "i": 190,
+      "start": 1152.68,
+      "end": 1157.08,
+      "text": "here? Seemingly irrelevantly, the"
+    },
+    {
+      "i": 191,
+      "start": 1157.08,
+      "end": 1162.84,
+      "text": "unity of the result of sankhya and yoga being 1 S the Siddhandi"
+    },
+    {
+      "i": 192,
+      "start": 1162.84,
+      "end": 1165.52,
+      "text": "says Nath Dwosha. There is no defect in saying"
+    },
+    {
+      "i": 193,
+      "start": 1165.52,
+      "end": 1170.44,
+      "text": "that Yeddyabi arjunayana sanyasan, Karma yogam,"
+    },
+    {
+      "i": 194,
+      "start": 1170.44,
+      "end": 1173.6,
+      "text": "chakewalam abhi pratya prasnahakarta."
+    },
+    {
+      "i": 195,
+      "start": 1174.72,
+      "end": 1179.92,
+      "text": "Although Krishna Arjuna has asked the question as Karmasa"
+    },
+    {
+      "i": 196,
+      "start": 1179.92,
+      "end": 1186.68,
+      "text": "Sanyasa Yoga or Yoga sweet save the SRE which is the better of"
+    },
+    {
+      "i": 197,
+      "start": 1186.68,
+      "end": 1189.24,
+      "text": "the two. You talk both about the same"
+    },
+    {
+      "i": 198,
+      "start": 1189.32,
+      "end": 1193.8,
+      "text": "that Sanyasa and Karma Yoga, but of that term which is the 2 is"
+    },
+    {
+      "i": 199,
+      "start": 1193.8,
+      "end": 1196.16,
+      "text": "the beginning. The question which Karjuna has"
+    },
+    {
+      "i": 200,
+      "start": 1196.16,
+      "end": 1202.56,
+      "text": "asked. Bhagavahastu sada parityagena"
+    },
+    {
+      "i": 201,
+      "start": 1202.56,
+      "end": 1209.44,
+      "text": "Eva swabhi pratham cha vishesham samyogya sabdandara vachya"
+    },
+    {
+      "i": 202,
+      "start": 1210.24,
+      "end": 1213.52,
+      "text": "prativachanam vadhav sanche yogayo hoyi."
+    },
+    {
+      "i": 203,
+      "start": 1214.84,
+      "end": 1219.92,
+      "text": "Krishna, without abandoning that very topic added his own"
+    },
+    {
+      "i": 204,
+      "start": 1219.96,
+      "end": 1225.36,
+      "text": "intended distinction. That is important, the intended"
+    },
+    {
+      "i": 205,
+      "start": 1225.36,
+      "end": 1228.76,
+      "text": "indistinction. And gave the reply by means of"
+    },
+    {
+      "i": 206,
+      "start": 1228.76,
+      "end": 1232.24,
+      "text": "different terminology Sankhya and yoga."
+    },
+    {
+      "i": 207,
+      "start": 1233.64,
+      "end": 1236.64,
+      "text": "Even though Karjuna's question was sanyasa and yoga."
+    },
+    {
+      "i": 208,
+      "start": 1237.24,
+      "end": 1242.96,
+      "text": "Now Krishna is talking about Sankya and yoga Tau Eva sanyasa,"
+    },
+    {
+      "i": 209,
+      "start": 1242.96,
+      "end": 1252.32,
+      "text": "Karma yoga yanatha dupa aya sambhudita Adi samyuktau Sankya"
+    },
+    {
+      "i": 210,
+      "start": 1252.32,
+      "end": 1255.4,
+      "text": "yoga sabdavatyo Idi bhagavatao Mata."
+    },
+    {
+      "i": 211,
+      "start": 1257.12,
+      "end": 1264.88,
+      "text": "It is Krishna's view that those very renunciation and karma yoga"
+    },
+    {
+      "i": 212,
+      "start": 1265.32,
+      "end": 1269.8,
+      "text": "when associated respectively with the knowledge and with such"
+    },
+    {
+      "i": 213,
+      "start": 1269.8,
+      "end": 1277.36,
+      "text": "means of knowledge as equanimity of mind and the like are denoted"
+    },
+    {
+      "i": 214,
+      "start": 1277.36,
+      "end": 1281.32,
+      "text": "by the term Sankhya and Yoga in place of Sanyasaya and Yoga"
+    },
+    {
+      "i": 215,
+      "start": 1282.44,
+      "end": 1286.92,
+      "text": "ataha na apragrti apragartha prakriya ETI."
+    },
+    {
+      "i": 216,
+      "start": 1287.72,
+      "end": 1290.8,
+      "text": "Therefore, there is no irrelevance or departure from"
+    },
+    {
+      "i": 217,
+      "start": 1290.8,
+      "end": 1295.6,
+      "text": "the topic here. So now you understood no Why in"
+    },
+    {
+      "i": 218,
+      "start": 1295.6,
+      "end": 1300.2,
+      "text": "the pre till now Krishna's Arjuna's question was Sanyasa"
+    },
+    {
+      "i": 219,
+      "start": 1300.2,
+      "end": 1303.52,
+      "text": "and Yoga. Why did Krishna suddenly shift"
+    },
+    {
+      "i": 220,
+      "start": 1303.52,
+      "end": 1311.48,
+      "text": "it into Sankhya and Yoga? Because the sanyasa end result"
+    },
+    {
+      "i": 221,
+      "start": 1313.2,
+      "end": 1316.92,
+      "text": "and the sankhya and prasalt are one and the same."
+    },
+    {
+      "i": 222,
+      "start": 1319.0,
+      "end": 1323.0,
+      "text": "Those who are following that, not the what you call"
+    },
+    {
+      "i": 223,
+      "start": 1323.4,
+      "end": 1329.76,
+      "text": "lingasanyasa, but those who are doing that, you know the nithya"
+    },
+    {
+      "i": 224,
+      "start": 1329.76,
+      "end": 1336.04,
+      "text": "nithya sanyasi, one who has done that aspect of Dhundhwadita."
+    },
+    {
+      "i": 225,
+      "start": 1338.88,
+      "end": 1344.08,
+      "text": "He what he is achieving is the same thing what is achieved by"
+    },
+    {
+      "i": 226,
+      "start": 1344.08,
+      "end": 1347.36,
+      "text": "the nyayanista, those who are following Sankhya yoga."
+    },
+    {
+      "i": 227,
+      "start": 1348.0,
+      "end": 1351.8,
+      "text": "Therefore, Krishna has interchangeably used the word"
+    },
+    {
+      "i": 228,
+      "start": 1351.8,
+      "end": 1358.44,
+      "text": "sanyasa and sankhya here. The next verse, the fourth verse"
+    },
+    {
+      "i": 229,
+      "start": 1358.44,
+      "end": 1367.12,
+      "text": "is yasyapi samyaganustanath katham ubayoho palam vindhade"
+    },
+    {
+      "i": 230,
+      "start": 1367.12,
+      "end": 1370.24,
+      "text": "iduchate. Why?"
+    },
+    {
+      "i": 231,
+      "start": 1370.4,
+      "end": 1374.76,
+      "text": "How can 1 result be achieved by the two parts?"
+    },
+    {
+      "i": 232,
+      "start": 1375.88,
+      "end": 1380.56,
+      "text": "That is being explained here. Yeh sankhyehi prapya de estanam"
+    },
+    {
+      "i": 233,
+      "start": 1380.68,
+      "end": 1386.84,
+      "text": "tad yogai rabi gamyatay ekam sankyam cha yogamcha yap pasyaji"
+    },
+    {
+      "i": 234,
+      "start": 1386.84,
+      "end": 1392.64,
+      "text": "sapasyati. This is an explanation which is"
+    },
+    {
+      "i": 235,
+      "start": 1392.64,
+      "end": 1398.8,
+      "text": "very important in the sense that yapasyati sapasyati yet sankya"
+    },
+    {
+      "i": 236,
+      "start": 1398.8,
+      "end": 1402.76,
+      "text": "yoga pratyate ES thanam that yoga rabbi gamyate."
+    },
+    {
+      "i": 237,
+      "start": 1404.08,
+      "end": 1411.0,
+      "text": "What is achieved by Sankya is the same thing what is being"
+    },
+    {
+      "i": 238,
+      "start": 1411.0,
+      "end": 1417.32,
+      "text": "achieved by the yoga karma yoga also ekam sankyam cha yogam cha"
+    },
+    {
+      "i": 239,
+      "start": 1418.68,
+      "end": 1423.64,
+      "text": "yapashati sapashati. He who sees Sankya and yoga as"
+    },
+    {
+      "i": 240,
+      "start": 1423.64,
+      "end": 1428.84,
+      "text": "one is the one who really sees or really understands it."
+    },
+    {
+      "i": 241,
+      "start": 1431.08,
+      "end": 1441.12,
+      "text": "Yet that which is being reached, that is being indicated by the"
+    },
+    {
+      "i": 242,
+      "start": 1441.12,
+      "end": 1446.64,
+      "text": "word, yet Sankhya ihi by through the path of sankhya, by those"
+    },
+    {
+      "i": 243,
+      "start": 1446.64,
+      "end": 1449.92,
+      "text": "who follow the path of Nyanunistha."
+    },
+    {
+      "i": 244,
+      "start": 1454.16,
+      "end": 1461.48,
+      "text": "So those who follow the Jnanishta prapyate, they arrive"
+    },
+    {
+      "i": 245,
+      "start": 1461.48,
+      "end": 1470.36,
+      "text": "at or they reach a certain achievement, the prapyate"
+    },
+    {
+      "i": 246,
+      "start": 1470.36,
+      "end": 1476.96,
+      "text": "gamyate, sankhya and Yoga produces the same destination."
+    },
+    {
+      "i": 247,
+      "start": 1477.88,
+      "end": 1488.28,
+      "text": "Therefore they arrive at what is already a achieved with Singh."
+    },
+    {
+      "i": 248,
+      "start": 1488.6,
+      "end": 1493.56,
+      "text": "What is being done by both these process through Nyana and"
+    },
+    {
+      "i": 249,
+      "start": 1493.56,
+      "end": 1498.24,
+      "text": "through Karma Yoga? What is being removed is the the"
+    },
+    {
+      "i": 250,
+      "start": 1498.24,
+      "end": 1502.6,
+      "text": "Adhyasa or the superimposition or the misunderstanding we have"
+    },
+    {
+      "i": 251,
+      "start": 1502.6,
+      "end": 1509.48,
+      "text": "about ourselves. Both these paths help us to get"
+    },
+    {
+      "i": 252,
+      "start": 1509.48,
+      "end": 1513.08,
+      "text": "rid of our adyasa or the superimposition which we have."
+    },
+    {
+      "i": 253,
+      "start": 1514.72,
+      "end": 1518.84,
+      "text": "So the stana is not constructed by either of the path."
+    },
+    {
+      "i": 254,
+      "start": 1518.92,
+      "end": 1524.24,
+      "text": "It is not a product of Sankhya path or the this yoga path."
+    },
+    {
+      "i": 255,
+      "start": 1525.2,
+      "end": 1529.88,
+      "text": "But it is revealed upon the removal of the avarana or the"
+    },
+    {
+      "i": 256,
+      "start": 1530.52,
+      "end": 1538.04,
+      "text": "adyasa. That is why both the landing at"
+    },
+    {
+      "i": 257,
+      "start": 1538.04,
+      "end": 1541.96,
+      "text": "the same result even though the apparently the paths are"
+    },
+    {
+      "i": 258,
+      "start": 1541.96,
+      "end": 1547.08,
+      "text": "different. The sthanam or the station place"
+    },
+    {
+      "i": 259,
+      "start": 1547.08,
+      "end": 1551.28,
+      "text": "or aboard which is being referred is the philosophical"
+    },
+    {
+      "i": 260,
+      "start": 1551.28,
+      "end": 1557.04,
+      "text": "summit of this particular verse. Sankaracharya identifies this as"
+    },
+    {
+      "i": 261,
+      "start": 1557.04,
+      "end": 1563.64,
+      "text": "Brahman or Atma Iykem Atma Swarupa, identical with Brahman."
+    },
+    {
+      "i": 262,
+      "start": 1565.52,
+      "end": 1573.44,
+      "text": "This is not any special place or any loka which is to be reached"
+    },
+    {
+      "i": 263,
+      "start": 1574.36,
+      "end": 1580.12,
+      "text": "specially by space or time, but as the recognition of 1's own"
+    },
+    {
+      "i": 264,
+      "start": 1580.12,
+      "end": 1588.68,
+      "text": "nature, Swatma vastanam atmanishta, the standing in"
+    },
+    {
+      "i": 265,
+      "start": 1588.68,
+      "end": 1591.8,
+      "text": "one's own ground of pure Sachidananda swarupa."
+    },
+    {
+      "i": 266,
+      "start": 1593.04,
+      "end": 1600.08,
+      "text": "So the word stana astita here in this verse is the same"
+    },
+    {
+      "i": 267,
+      "start": 1600.52,
+      "end": 1605.68,
+      "text": "stithapraknya when they use the word stithapraknya, the place"
+    },
+    {
+      "i": 268,
+      "start": 1605.68,
+      "end": 1612.44,
+      "text": "where he is established or he has landed through praknya using"
+    },
+    {
+      "i": 269,
+      "start": 1612.44,
+      "end": 1620.52,
+      "text": "his praknya or the knowledge and both are showing the unwavering"
+    },
+    {
+      "i": 270,
+      "start": 1620.52,
+      "end": 1625.08,
+      "text": "establishment in the swarupa or Tawas, atma, Swarupa or atma,"
+    },
+    {
+      "i": 271,
+      "start": 1626.24,
+      "end": 1632.04,
+      "text": "the stana reached by the paths is decisively."
+    },
+    {
+      "i": 272,
+      "start": 1632.52,
+      "end": 1639.6,
+      "text": "Thus Sitapratnachiba stana the immovable ground of Atman or"
+    },
+    {
+      "i": 273,
+      "start": 1639.6,
+      "end": 1644.44,
+      "text": "Brahman which is being recognized and not being"
+    },
+    {
+      "i": 274,
+      "start": 1645.08,
+      "end": 1650.8,
+      "text": "specially reached or you know by travelling or anytime and space"
+    },
+    {
+      "i": 275,
+      "start": 1651.36,
+      "end": 1656.08,
+      "text": "given all that is being done is both these paths are removing"
+    },
+    {
+      "i": 276,
+      "start": 1656.08,
+      "end": 1660.92,
+      "text": "our ignorance. The avarana because of which we"
+    },
+    {
+      "i": 277,
+      "start": 1660.92,
+      "end": 1663.36,
+      "text": "have the adyasa or the superimposition."
+    },
+    {
+      "i": 278,
+      "start": 1665.64,
+      "end": 1676.48,
+      "text": "So that tad tad yogai apigamyate what is being reached by the"
+    },
+    {
+      "i": 279,
+      "start": 1678.0,
+      "end": 1682.56,
+      "text": "sankhya is the same thing what Yoga API means."
+    },
+    {
+      "i": 280,
+      "start": 1682.64,
+      "end": 1689.56,
+      "text": "Even yoga is helping us to reach or arriving at."
+    },
+    {
+      "i": 281,
+      "start": 1690.48,
+      "end": 1694.32,
+      "text": "So the prapyate gamyate that is the two different verbs are"
+    },
+    {
+      "i": 282,
+      "start": 1694.76,
+      "end": 1702.8,
+      "text": "indicating towards reaching or achieving to indicate there are"
+    },
+    {
+      "i": 283,
+      "start": 1702.8,
+      "end": 1707.4,
+      "text": "two different paths at the Vyavaharika level, but at the"
+    },
+    {
+      "i": 284,
+      "start": 1707.68,
+      "end": 1711.52,
+      "text": "end result or where the achievement has been received,"
+    },
+    {
+      "i": 285,
+      "start": 1712.0,
+      "end": 1721.04,
+      "text": "both reach the same end result. The differences in the approach"
+    },
+    {
+      "i": 286,
+      "start": 1721.08,
+      "end": 1723.76,
+      "text": "with establishing the identity of the definition."
+    },
+    {
+      "i": 287,
+      "start": 1724.08,
+      "end": 1730.96,
+      "text": "Prapyate is used for sankhya and gamyate is used for yoga."
+    },
+    {
+      "i": 288,
+      "start": 1732.76,
+      "end": 1736.68,
+      "text": "There is separate. There is a progressive movement"
+    },
+    {
+      "i": 289,
+      "start": 1736.68,
+      "end": 1738.72,
+      "text": "in the case of sadhana for a yoga."
+    },
+    {
+      "i": 290,
+      "start": 1739.44,
+      "end": 1741.96,
+      "text": "Therefore the word gamyade is being used."
+    },
+    {
+      "i": 291,
+      "start": 1743.56,
+      "end": 1747.76,
+      "text": "There are subtle nuances of Sanskrit language and not"
+    },
+    {
+      "i": 292,
+      "start": 1747.76,
+      "end": 1755.24,
+      "text": "delving into that. Ekam is the Sankyamcha Yogamcha"
+    },
+    {
+      "i": 293,
+      "start": 1756.28,
+      "end": 1764.36,
+      "text": "that is the one or identical or non separate end result for both"
+    },
+    {
+      "i": 294,
+      "start": 1765.56,
+      "end": 1770.84,
+      "text": "Sankhya and Yoga which is at the Brahmasattratkara or the"
+    },
+    {
+      "i": 295,
+      "start": 1770.84,
+      "end": 1778.68,
+      "text": "destination of Thirupavasthastanam dissolving"
+    },
+    {
+      "i": 296,
+      "start": 1778.72,
+      "end": 1783.68,
+      "text": "all the apparent dualities and ending in the non dual."
+    },
+    {
+      "i": 297,
+      "start": 1787.2,
+      "end": 1790.8,
+      "text": "Krishna used the word Sankyam cha yogamcha."
+    },
+    {
+      "i": 298,
+      "start": 1791.32,
+      "end": 1798.2,
+      "text": "The cha word is very important even though the word cha has the"
+    },
+    {
+      "i": 299,
+      "start": 1798.2,
+      "end": 1803.04,
+      "text": "meaning and it can also be used for both."
+    },
+    {
+      "i": 300,
+      "start": 1804.8,
+      "end": 1812.68,
+      "text": "So Sankyam cha yogamcha, it is not Sankya and yoga and it is"
+    },
+    {
+      "i": 301,
+      "start": 1812.68,
+      "end": 1819.4,
+      "text": "Sankya both Sankya and Yoga. That is the way in which the"
+    },
+    {
+      "i": 302,
+      "start": 1819.4,
+      "end": 1824.08,
+      "text": "sankya cha yogam cha. So the cha one cha will go in"
+    },
+    {
+      "i": 303,
+      "start": 1824.08,
+      "end": 1829.08,
+      "text": "the beginning to say both sankyam yogam cha sankyam cha"
+    },
+    {
+      "i": 304,
+      "start": 1829.16,
+      "end": 1832.8,
+      "text": "yogam. So both sankya and yoga will"
+    },
+    {
+      "i": 305,
+      "start": 1832.8,
+      "end": 1838.6,
+      "text": "give the same result. But the most important aspect of"
+    },
+    {
+      "i": 306,
+      "start": 1838.6,
+      "end": 1841.64,
+      "text": "this verse is Yapashati Safashat."
+    },
+    {
+      "i": 307,
+      "start": 1846.36,
+      "end": 1850.64,
+      "text": "Pascheti is coming from a verbal root dhrisheti."
+    },
+    {
+      "i": 308,
+      "start": 1854.76,
+      "end": 1861.48,
+      "text": "So one who sees is the meaning. Pascheti means cease or seeing."
+    },
+    {
+      "i": 309,
+      "start": 1863.84,
+      "end": 1866.92,
+      "text": "Pascheti is not an ordinary sensory perception."
+    },
+    {
+      "i": 310,
+      "start": 1866.92,
+      "end": 1875.12,
+      "text": "What is being indicated here in the Upanishad and the Gita they"
+    },
+    {
+      "i": 311,
+      "start": 1875.12,
+      "end": 1882.72,
+      "text": "register seeing, Darshyati, Pasyati etcetera refers to the"
+    },
+    {
+      "i": 312,
+      "start": 1883.56,
+      "end": 1889.44,
+      "text": "direct immediate, non immediate recognition of Hathman which is"
+    },
+    {
+      "i": 313,
+      "start": 1889.44,
+      "end": 1893.36,
+      "text": "the Sachatkara. It is the culmination of"
+    },
+    {
+      "i": 314,
+      "start": 1893.36,
+      "end": 1899.84,
+      "text": "Sravanamananani Vidyasana as a form of realization."
+    },
+    {
+      "i": 315,
+      "start": 1901.48,
+      "end": 1908.08,
+      "text": "So the word seeing and used by two different verbs drishti,"
+    },
+    {
+      "i": 316,
+      "start": 1908.08,
+      "end": 1915.64,
+      "text": "pashti etc is to indicate that the realization is direct,"
+    },
+    {
+      "i": 317,
+      "start": 1915.64,
+      "end": 1920.84,
+      "text": "immediate and non mediate recognition of the swarupa of"
+    },
+    {
+      "i": 318,
+      "start": 1920.84,
+      "end": 1926.08,
+      "text": "oneself. So this is not a physical vision"
+    },
+    {
+      "i": 319,
+      "start": 1926.08,
+      "end": 1932.24,
+      "text": "by the eye, but it is the eye of the self."
+    },
+    {
+      "i": 320,
+      "start": 1932.96,
+      "end": 1937.48,
+      "text": "Nyanachakshu Krishna will talk about this in the 15th chapter."
+    },
+    {
+      "i": 321,
+      "start": 1938.36,
+      "end": 1942.88,
+      "text": "Nyanachakshu means the wish, the eye of the knowledge."
+    },
+    {
+      "i": 322,
+      "start": 1942.92,
+      "end": 1948.0,
+      "text": "Through the knowledge we get a vision that is not the vision"
+    },
+    {
+      "i": 323,
+      "start": 1948.0,
+      "end": 1956.32,
+      "text": "which we see using our physical eye, which is a sense organ."
+    },
+    {
+      "i": 324,
+      "start": 1957.04,
+      "end": 1961.4,
+      "text": "But there is something beyond the senses which is also"
+    },
+    {
+      "i": 325,
+      "start": 1961.92,
+      "end": 1966.84,
+      "text": "equivalent to seeing or knowing, and that is what is here"
+    },
+    {
+      "i": 326,
+      "start": 1966.84,
+      "end": 1972.8,
+      "text": "indicated by Yapaschathi Sapaschathi."
+    },
+    {
+      "i": 327,
+      "start": 1975.52,
+      "end": 1980.24,
+      "text": "You should we should see that is the most celebrated rhetorical"
+    },
+    {
+      "i": 328,
+      "start": 1980.24,
+      "end": 1982.2,
+      "text": "and philosophical move in the Gita."
+    },
+    {
+      "i": 329,
+      "start": 1983.24,
+      "end": 1988.0,
+      "text": "The first Paschathi state the condition, while the second"
+    },
+    {
+      "i": 330,
+      "start": 1988.0,
+      "end": 1996.36,
+      "text": "Paschathi state the validation. He who sees them as one he truly"
+    },
+    {
+      "i": 331,
+      "start": 1996.36,
+      "end": 2000.0,
+      "text": "sees is the meaning, literal meaning of it."
+    },
+    {
+      "i": 332,
+      "start": 2000.76,
+      "end": 2007.28,
+      "text": "So Yuppaschati Sapaschati is the one who sees both Yoga and"
+    },
+    {
+      "i": 333,
+      "start": 2007.28,
+      "end": 2011.32,
+      "text": "Sankhya, leading to one end result."
+    },
+    {
+      "i": 334,
+      "start": 2011.32,
+      "end": 2016.6,
+      "text": "As one he truly sees Yuppaschati Sapaschati."
+    },
+    {
+      "i": 335,
+      "start": 2017.52,
+      "end": 2022.52,
+      "text": "So this doubling of Paschati as a repetitiveness is not a"
+    },
+    {
+      "i": 336,
+      "start": 2022.52,
+      "end": 2027.44,
+      "text": "redundant usage but it is the athletic declaration that the"
+    },
+    {
+      "i": 337,
+      "start": 2027.44,
+      "end": 2036.08,
+      "text": "true seeing is self validating of the recognition of Ekam atma"
+    },
+    {
+      "i": 338,
+      "start": 2036.84,
+      "end": 2041.36,
+      "text": "which is achieved through the Sankhyaya path and the Yoga"
+    },
+    {
+      "i": 339,
+      "start": 2041.36,
+      "end": 2047.68,
+      "text": "path. Not giving end result of two"
+    },
+    {
+      "i": 340,
+      "start": 2047.68,
+      "end": 2051.639,
+      "text": "different nature. It is the cognitive act that is"
+    },
+    {
+      "i": 341,
+      "start": 2053.159,
+      "end": 2059.8,
+      "text": "liberation itself. Yanam Eva Moksha, there were the"
+    },
+    {
+      "i": 342,
+      "start": 2059.8,
+      "end": 2070.48,
+      "text": "seer and the seer are dissolved into a pure act of being in the"
+    },
+    {
+      "i": 343,
+      "start": 2070.48,
+      "end": 2073.719,
+      "text": "Sakshi Chaitanya or the Satchidananda Chaitanya."
+    },
+    {
+      "i": 344,
+      "start": 2074.6,
+      "end": 2083.04,
+      "text": "So there is while the path may have the one who is practicing"
+    },
+    {
+      "i": 345,
+      "start": 2083.12,
+      "end": 2087.56,
+      "text": "and twisting but at the end result both of them dissolve"
+    },
+    {
+      "i": 346,
+      "start": 2087.56,
+      "end": 2092.0,
+      "text": "their individuality and they identify their true nature as"
+    },
+    {
+      "i": 347,
+      "start": 2092.0,
+      "end": 2098.0,
+      "text": "Sachidananda Atma. So the first father in this"
+    },
+    {
+      "i": 348,
+      "start": 2098.0,
+      "end": 2104.84,
+      "text": "world is a structural form of Vedanta yat parappya desu thanam"
+    },
+    {
+      "i": 349,
+      "start": 2104.88,
+      "end": 2110.12,
+      "text": "tat gamyate. It is something very similar to"
+    },
+    {
+      "i": 350,
+      "start": 2110.12,
+      "end": 2117.84,
+      "text": "the Mahawa Kya Tatumasi Yat Brahma Tatumasi that Yat Tat"
+    },
+    {
+      "i": 351,
+      "start": 2118.8,
+      "end": 2123.32,
+      "text": "equation of the grammatical level performs the unity it"
+    },
+    {
+      "i": 352,
+      "start": 2123.32,
+      "end": 2128.2,
+      "text": "declares. Just as Tadhtomasi equates the"
+    },
+    {
+      "i": 353,
+      "start": 2128.2,
+      "end": 2133.4,
+      "text": "Jiva and Brahma across the apparent differences, here"
+    },
+    {
+      "i": 354,
+      "start": 2133.4,
+      "end": 2139.12,
+      "text": "Yatsankya Tat Yoga equates the two paths across the two"
+    },
+    {
+      "i": 355,
+      "start": 2139.12,
+      "end": 2144.88,
+      "text": "apparent differences and their Mahavakya Marga of unity of"
+    },
+    {
+      "i": 356,
+      "start": 2144.88,
+      "end": 2149.56,
+      "text": "statement that both the paths correspondingly lead to the"
+    },
+    {
+      "i": 357,
+      "start": 2149.56,
+      "end": 2153.4,
+      "text": "unity of the statement about Atman."
+    },
+    {
+      "i": 358,
+      "start": 2156.48,
+      "end": 2164.32,
+      "text": "The double usage of Pashati is indicating the Darsana as"
+    },
+    {
+      "i": 359,
+      "start": 2164.32,
+      "end": 2169.36,
+      "text": "Moksha. Pashati means seeing so Darsana"
+    },
+    {
+      "i": 360,
+      "start": 2169.36,
+      "end": 2175.76,
+      "text": "is also the seen. So the repetition Yap Pashati SA"
+    },
+    {
+      "i": 361,
+      "start": 2175.76,
+      "end": 2181.92,
+      "text": "Pashati has been a subject of the commentary by"
+    },
+    {
+      "i": 362,
+      "start": 2181.92,
+      "end": 2185.36,
+      "text": "Shankaracharya. His insight is that the second"
+    },
+    {
+      "i": 363,
+      "start": 2185.36,
+      "end": 2190.24,
+      "text": "paschati is not a merely confirmatory but ontological"
+    },
+    {
+      "i": 364,
+      "start": 2190.24,
+      "end": 2196.76,
+      "text": "declarative, that is saying one who sees unity, that one is the"
+    },
+    {
+      "i": 365,
+      "start": 2196.76,
+      "end": 2201.0,
+      "text": "true seer or the pure Atma himself."
+    },
+    {
+      "i": 366,
+      "start": 2204.64,
+      "end": 2207.44,
+      "text": "The movement apparent movement is South paschati."
+    },
+    {
+      "i": 367,
+      "start": 2207.44,
+      "end": 2210.76,
+      "text": "The empirical description of one who achieves this vision."
+    },
+    {
+      "i": 368,
+      "start": 2212.28,
+      "end": 2218.76,
+      "text": "Tapashti means he is identical with the self as a drashta or"
+    },
+    {
+      "i": 369,
+      "start": 2218.76,
+      "end": 2225.76,
+      "text": "pure atman itself. Reference to the Brahadarani"
+    },
+    {
+      "i": 370,
+      "start": 2225.76,
+      "end": 2235.52,
+      "text": "upanishad drashta drashti na drashti in the three 4.2 of"
+    },
+    {
+      "i": 371,
+      "start": 2235.52,
+      "end": 2239.6,
+      "text": "Brahadarani Upanishad. The seer cannot be seen as an"
+    },
+    {
+      "i": 372,
+      "start": 2239.6,
+      "end": 2243.8,
+      "text": "object, it is a pure subjectivity."
+    },
+    {
+      "i": 373,
+      "start": 2244.76,
+      "end": 2249.28,
+      "text": "Therefore, the Sapasyati declares that the one who"
+    },
+    {
+      "i": 374,
+      "start": 2249.52,
+      "end": 2257.24,
+      "text": "recognizes one as Ekam in the two paths become identified with"
+    },
+    {
+      "i": 375,
+      "start": 2257.24,
+      "end": 2262.0,
+      "text": "the Sakshi or the pure Sachitananda, and that is his"
+    },
+    {
+      "i": 376,
+      "start": 2262.0,
+      "end": 2268.6,
+      "text": "Sobhava or Swarupa, which is the nature of the truths here, and"
+    },
+    {
+      "i": 377,
+      "start": 2268.6,
+      "end": 2272.16,
+      "text": "that is the Stana, the destination as Brahman."
+    },
+    {
+      "i": 378,
+      "start": 2274.36,
+      "end": 2281.48,
+      "text": "The verse is giving the result of the paths of Sankhya and Yoga"
+    },
+    {
+      "i": 379,
+      "start": 2283.0,
+      "end": 2289.68,
+      "text": "as the ultimate standing in Brahman as the realization which"
+    },
+    {
+      "i": 380,
+      "start": 2289.68,
+      "end": 2294.04,
+      "text": "is not locative, but the recognition of 1's own true"
+    },
+    {
+      "i": 381,
+      "start": 2294.04,
+      "end": 2304.68,
+      "text": "nature. The two differences, Bala"
+    },
+    {
+      "i": 382,
+      "start": 2304.76,
+      "end": 2312.08,
+      "text": "Prabhatanti, Napandita there, that is those who make the"
+    },
+    {
+      "i": 383,
+      "start": 2312.08,
+      "end": 2317.92,
+      "text": "differentiation here that Pantita is the one who is"
+    },
+    {
+      "i": 384,
+      "start": 2317.92,
+      "end": 2324.0,
+      "text": "Nityasanyasi Nirudhwanda where he doesn't have the duality of"
+    },
+    {
+      "i": 385,
+      "start": 2324.52,
+      "end": 2326.28,
+      "text": "the previous verse which was said."
+    },
+    {
+      "i": 386,
+      "start": 2327.8,
+      "end": 2331.28,
+      "text": "So Bala Drishti 2 paths are there, 2 fruits and two"
+    },
+    {
+      "i": 387,
+      "start": 2331.28,
+      "end": 2335.32,
+      "text": "suppress, realize, achieve, two goals will be there."
+    },
+    {
+      "i": 388,
+      "start": 2335.92,
+      "end": 2337.76,
+      "text": "That is what they think about it."
+    },
+    {
+      "i": 389,
+      "start": 2339.08,
+      "end": 2343.0,
+      "text": "But at the Madhyam and Drishti, those who are proceeding in the"
+    },
+    {
+      "i": 390,
+      "start": 2343.0,
+      "end": 2347.28,
+      "text": "path, they know that there are two paths but the fruit is only"
+    },
+    {
+      "i": 391,
+      "start": 2347.28,
+      "end": 2351.72,
+      "text": "one. But when they realize it at the"
+    },
+    {
+      "i": 392,
+      "start": 2351.72,
+      "end": 2356.52,
+      "text": "end of the path, when the Samyagdharsana takes place, the"
+    },
+    {
+      "i": 393,
+      "start": 2356.52,
+      "end": 2361.2,
+      "text": "path, the fruit, the seer and the sea all dissolve into the"
+    },
+    {
+      "i": 394,
+      "start": 2362.08,
+      "end": 2369.12,
+      "text": "Atman or Brahman. So the verse 5.3 started it as 2"
+    },
+    {
+      "i": 395,
+      "start": 2369.12,
+      "end": 2375.48,
+      "text": "paths. 5.4 is talking about the Nithya sannyasi and this verse"
+    },
+    {
+      "i": 396,
+      "start": 2375.48,
+      "end": 2382.76,
+      "text": "5.5 is the graded revelation where the ultimate goal is or"
+    },
+    {
+      "i": 397,
+      "start": 2382.76,
+      "end": 2385.2,
+      "text": "the end result is only one and the same."
+    },
+    {
+      "i": 398,
+      "start": 2391.56,
+      "end": 2397.04,
+      "text": "Yet Sankhyat Nyanand Ishtai Sanyasi ghihi prapya desh thanam"
+    },
+    {
+      "i": 399,
+      "start": 2397.08,
+      "end": 2402.2,
+      "text": "Mokshakyam Bashim of Shankaracharya says that the"
+    },
+    {
+      "i": 400,
+      "start": 2402.2,
+      "end": 2405.8,
+      "text": "state called liberation which is attained by the Sankhyas."
+    },
+    {
+      "i": 401,
+      "start": 2406.52,
+      "end": 2411.08,
+      "text": "The renunciates established in the knowledge that Yogihi API."
+    },
+    {
+      "i": 402,
+      "start": 2411.72,
+      "end": 2420.8,
+      "text": "Yana pratyupaya tuena ishwari samarpya karbani aatman palam"
+    },
+    {
+      "i": 403,
+      "start": 2422.92,
+      "end": 2434.12,
+      "text": "anabhisanthaya anusristanti yeh TE yogaa yoginaha tahi API the"
+    },
+    {
+      "i": 404,
+      "start": 2434.12,
+      "end": 2447.2,
+      "text": "very same result. The very same result what is"
+    },
+    {
+      "i": 405,
+      "start": 2447.68,
+      "end": 2464.99,
+      "text": "achieved by the Sankhyas and the yoga, both of them One minute."
+    },
+    {
+      "i": 406,
+      "start": 2464.99,
+      "end": 2473.27,
+      "text": "I I think I just shifted my age. Just hold a minute."
+    },
+    {
+      "i": 407,
+      "start": 2479.72,
+      "end": 2487.92,
+      "text": "Yeah, that very same Justin. That yoga I attained through the"
+    },
+    {
+      "i": 408,
+      "start": 2489.64,
+      "end": 2502.2,
+      "text": "Yana Ishwara Samarthiya Karmani Kalam Yoga, Yoga Yogi."
+    },
+    {
+      "i": 409,
+      "start": 2502.32,
+      "end": 2506.24,
+      "text": "The path of Yogi is also those who regarding action as the"
+    },
+    {
+      "i": 410,
+      "start": 2506.24,
+      "end": 2508.2,
+      "text": "means to the attainment of knowledge."
+    },
+    {
+      "i": 411,
+      "start": 2508.72,
+      "end": 2513.52,
+      "text": "By dedicating their actions to the Ishwara, the God and"
+    },
+    {
+      "i": 412,
+      "start": 2513.52,
+      "end": 2519.96,
+      "text": "performing them without seeking any fruit of action, they too"
+    },
+    {
+      "i": 413,
+      "start": 2519.96,
+      "end": 2523.76,
+      "text": "achieve the same. That is why Krishna said that"
+    },
+    {
+      "i": 414,
+      "start": 2524.2,
+      "end": 2528.72,
+      "text": "Karmanyevaatika raste ma kaleeshukata Jana ma karma kala"
+    },
+    {
+      "i": 415,
+      "start": 2528.72,
+      "end": 2531.12,
+      "text": "hai durupu matai sangastva karmani."
+    },
+    {
+      "i": 416,
+      "start": 2531.68,
+      "end": 2536.12,
+      "text": "It is not because he wanted Arjuna to not think about the"
+    },
+    {
+      "i": 417,
+      "start": 2536.12,
+      "end": 2540.48,
+      "text": "fruit of action. But if he does a job like that,"
+    },
+    {
+      "i": 418,
+      "start": 2541.2,
+      "end": 2545.48,
+      "text": "the end result is that he will also have the knowledge what"
+    },
+    {
+      "i": 419,
+      "start": 2545.48,
+      "end": 2549.08,
+      "text": "through that Nananista others are also have achieved."
+    },
+    {
+      "i": 420,
+      "start": 2551.96,
+      "end": 2560.2,
+      "text": "This is the one who sees the two different separation as Sankhya"
+    },
+    {
+      "i": 421,
+      "start": 2560.2,
+      "end": 2569.08,
+      "text": "and Yoga is not the separate from the point of view of the"
+    },
+    {
+      "i": 422,
+      "start": 2569.08,
+      "end": 2572.88,
+      "text": "end result. Paramarthak nyana sanya SAP"
+    },
+    {
+      "i": 423,
+      "start": 2573.24,
+      "end": 2579.36,
+      "text": "prapti Dwarina gamyadevipraya through the gateway of attaining"
+    },
+    {
+      "i": 424,
+      "start": 2579.36,
+      "end": 2582.8,
+      "text": "supreme knowledge and renunciation is the ultimate"
+    },
+    {
+      "i": 425,
+      "start": 2584.0,
+      "end": 2588.8,
+      "text": "place where they land. Ataha ekam sankyamcha yogamcha"
+    },
+    {
+      "i": 426,
+      "start": 2589.56,
+      "end": 2594.76,
+      "text": "pashti palaikatwas sapashti samyat pashti tyrtaha."
+    },
+    {
+      "i": 427,
+      "start": 2595.08,
+      "end": 2600.32,
+      "text": "Therefore those who sees the Sankya and Yoga as one because"
+    },
+    {
+      "i": 428,
+      "start": 2600.32,
+      "end": 2606.44,
+      "text": "of the fruit is 1. He truly deserves or he truly"
+    },
+    {
+      "i": 429,
+      "start": 2606.44,
+      "end": 2611.4,
+      "text": "sees the end result as his own swaroopa as non dual."
+    },
+    {
+      "i": 430,
+      "start": 2616.16,
+      "end": 2622.8,
+      "text": "Then the next verse before starting Shankaracharya is"
+    },
+    {
+      "i": 431,
+      "start": 2622.8,
+      "end": 2630.12,
+      "text": "giving a explanation. Yevan tarhi yoga sanyasa yeva"
+    },
+    {
+      "i": 432,
+      "start": 2630.12,
+      "end": 2636.24,
+      "text": "visheshethe katham tarhi tuktam tayohu karma sanya saath karma"
+    },
+    {
+      "i": 433,
+      "start": 2636.24,
+      "end": 2641.4,
+      "text": "yoga vishishte ETI trunu tatrakarna."
+    },
+    {
+      "i": 434,
+      "start": 2643.72,
+      "end": 2648.92,
+      "text": "If that is so, then the renunciation itself is superior"
+    },
+    {
+      "i": 435,
+      "start": 2648.92,
+      "end": 2653.08,
+      "text": "to yoga. Then how can Krishna say that"
+    },
+    {
+      "i": 436,
+      "start": 2653.6,
+      "end": 2658.6,
+      "text": "tayostu karma sanya saath karma yoga vishishte in the second"
+    },
+    {
+      "i": 437,
+      "start": 2658.6,
+      "end": 2663.64,
+      "text": "verse of the two Karma yoga is superior to renunciation if both"
+    },
+    {
+      "i": 438,
+      "start": 2663.64,
+      "end": 2667.04,
+      "text": "the results are leading to the same end result."
+    },
+    {
+      "i": 439,
+      "start": 2668.04,
+      "end": 2670.16,
+      "text": "Why is he making this distinction?"
+    },
+    {
+      "i": 440,
+      "start": 2671.4,
+      "end": 2675.44,
+      "text": "Sunu tatra karanam and Karachali is saying that Listen to the"
+    },
+    {
+      "i": 441,
+      "start": 2675.44,
+      "end": 2679.4,
+      "text": "answer. Why is he saying to you Toya"
+    },
+    {
+      "i": 442,
+      "start": 2679.4,
+      "end": 2684.76,
+      "text": "prashtam kevanam karma sanyasam karma yogamcha abipreya thyoho"
+    },
+    {
+      "i": 443,
+      "start": 2684.8,
+      "end": 2690.76,
+      "text": "Anya taraha ka shreya nidhi? Arjuna asked, having in mind"
+    },
+    {
+      "i": 444,
+      "start": 2690.76,
+      "end": 2695.64,
+      "text": "only renunciation of action and karma yoga as to which one of"
+    },
+    {
+      "i": 445,
+      "start": 2695.64,
+      "end": 2701.32,
+      "text": "the two is superior. Prathibachanam Maya uptam Karma"
+    },
+    {
+      "i": 446,
+      "start": 2701.32,
+      "end": 2705.32,
+      "text": "Sanya saath Karma yoga Vishesh Jayidityanam Anapaksha."
+    },
+    {
+      "i": 447,
+      "start": 2706.52,
+      "end": 2708.64,
+      "text": "Accordingly, Krishna gave the reply."
+    },
+    {
+      "i": 448,
+      "start": 2709.6,
+      "end": 2712.0,
+      "text": "I gave the reply suited to the question."
+    },
+    {
+      "i": 449,
+      "start": 2712.6,
+      "end": 2718.6,
+      "text": "Karma yoga is superior to renunciation of is bet superior"
+    },
+    {
+      "i": 450,
+      "start": 2718.6,
+      "end": 2721.8,
+      "text": "to renunciation of action. Setting aside the knowledge,"
+    },
+    {
+      "i": 451,
+      "start": 2723.32,
+      "end": 2729.12,
+      "text": "nyana pekshastu sanyasaha santyamiti Maya abhiprath but"
+    },
+    {
+      "i": 452,
+      "start": 2729.12,
+      "end": 2731.8,
+      "text": "renunciation when connected with the knowledge."
+    },
+    {
+      "i": 453,
+      "start": 2733.96,
+      "end": 2737.32,
+      "text": "So the difference between the Lingasanyasa and the"
+    },
+    {
+      "i": 454,
+      "start": 2738.04,
+      "end": 2742.04,
+      "text": "nityasanyasi, that is what is being integrated here."
+    },
+    {
+      "i": 455,
+      "start": 2742.76,
+      "end": 2746.16,
+      "text": "The renunciation, when connected with the knowledge becomes the"
+    },
+    {
+      "i": 456,
+      "start": 2746.16,
+      "end": 2749.96,
+      "text": "Nithya Sanyadi. And that is what I intended by"
+    },
+    {
+      "i": 457,
+      "start": 2749.96,
+      "end": 2755.84,
+      "text": "the term Sankhya, not lingasanyasa or the external"
+    },
+    {
+      "i": 458,
+      "start": 2755.92,
+      "end": 2759.92,
+      "text": "renunciation, Paramartha Yogastha Eva."
+    },
+    {
+      "i": 459,
+      "start": 2760.88,
+      "end": 2766.4,
+      "text": "And that alone is the highest yoga in the ultimate sense, the"
+    },
+    {
+      "i": 460,
+      "start": 2766.4,
+      "end": 2774.72,
+      "text": "ultimate yoga or why the yoga also ending the same place the"
+    },
+    {
+      "i": 461,
+      "start": 2774.72,
+      "end": 2780.2,
+      "text": "yoga when we do, we do it as Ishrarapana or by dedicating to"
+    },
+    {
+      "i": 462,
+      "start": 2780.2,
+      "end": 2785.44,
+      "text": "the higher pedestal or Hari yoga or in the highest in the karma"
+    },
+    {
+      "i": 463,
+      "start": 2785.52,
+      "end": 2790.52,
+      "text": "karma yoga mark. But when that when will the"
+    },
+    {
+      "i": 464,
+      "start": 2790.52,
+      "end": 2796.84,
+      "text": "dedication be perfect? That is what is being indicated."
+    },
+    {
+      "i": 465,
+      "start": 2796.84,
+      "end": 2801.76,
+      "text": "Paramartha Yogasta yvata. That alone will become the"
+    },
+    {
+      "i": 466,
+      "start": 2801.8,
+      "end": 2807.48,
+      "text": "highest yoga. When it is with the knowledge"
+    },
+    {
+      "i": 467,
+      "start": 2807.48,
+      "end": 2811.8,
+      "text": "that I am not the one who is even dedicating to the God."
+    },
+    {
+      "i": 468,
+      "start": 2813.52,
+      "end": 2817.68,
+      "text": "Otherwise that individuality, the ego will be there, which"
+    },
+    {
+      "i": 469,
+      "start": 2817.68,
+      "end": 2821.44,
+      "text": "says that I am dedicating to God Southern, I am doing karma yoga."
+    },
+    {
+      "i": 470,
+      "start": 2821.6,
+      "end": 2827.12,
+      "text": "That ego can still be there. Yestu karma yoga vaidi kaha"
+    },
+    {
+      "i": 471,
+      "start": 2827.12,
+      "end": 2837.24,
+      "text": "Sacha dadar kya yoga sanya Saha Idi the the Vedic karma yoga is"
+    },
+    {
+      "i": 472,
+      "start": 2837.44,
+      "end": 2843.76,
+      "text": "too figuratively spoken as yoga and as renunciation because it"
+    },
+    {
+      "i": 473,
+      "start": 2843.76,
+      "end": 2847.96,
+      "text": "serves that end. Kadam tat kadarthi."
+    },
+    {
+      "i": 474,
+      "start": 2851.12,
+      "end": 2855.92,
+      "text": "How it serves that end is now being explained by Krishna in"
+    },
+    {
+      "i": 475,
+      "start": 2855.92,
+      "end": 2862.0,
+      "text": "the next verse. It is the verse #6 Sanya sastu"
+    },
+    {
+      "i": 476,
+      "start": 2862.0,
+      "end": 2870.0,
+      "text": "Mahaba ho dukka map tu ma yoga taha yoga yukto Munir brahma na"
+    },
+    {
+      "i": 477,
+      "start": 2870.0,
+      "end": 2878.48,
+      "text": "achire na Ji gachti sanya sastu Mahaba ho yoga map tu mayogata E"
+    },
+    {
+      "i": 478,
+      "start": 2878.48,
+      "end": 2886.96,
+      "text": "Mahaba ho E arjuna Tanya sastu. But renunciation dukka maaptuma"
+    },
+    {
+      "i": 479,
+      "start": 2886.96,
+      "end": 2894.08,
+      "text": "yoga taha without yoga ayoga taha means without yoga is"
+    },
+    {
+      "i": 480,
+      "start": 2894.08,
+      "end": 2897.16,
+      "text": "difficult to attain. That is, renunciation is"
+    },
+    {
+      "i": 481,
+      "start": 2897.16,
+      "end": 2900.0,
+      "text": "difficult to attain without yoga."
+    },
+    {
+      "i": 482,
+      "start": 2900.28,
+      "end": 2906.4,
+      "text": "O Arjuna yoga yuktaha Munir brahma na achire na Ji kachati"
+    },
+    {
+      "i": 483,
+      "start": 2907.16,
+      "end": 2914.6,
+      "text": "yoga yuktaha, who has integrated the yoga into his sanyasa, his"
+    },
+    {
+      "i": 484,
+      "start": 2914.64,
+      "end": 2925.72,
+      "text": "renunciation, he becomes a muni Munihi Brahma Nachirena gachati"
+    },
+    {
+      "i": 485,
+      "start": 2926.04,
+      "end": 2931.44,
+      "text": "adigachati. That muni achieves."
+    },
+    {
+      "i": 486,
+      "start": 2932.04,
+      "end": 2935.56,
+      "text": "Adigachati means achieves Achnachi."
+    },
+    {
+      "i": 487,
+      "start": 2935.56,
+      "end": 2939.0,
+      "text": "Raina means swiftly without delay."
+    },
+    {
+      "i": 488,
+      "start": 2940.56,
+      "end": 2945.84,
+      "text": "So when the yoga is integrated with the knowledge, the"
+    },
+    {
+      "i": 489,
+      "start": 2946.68,
+      "end": 2951.84,
+      "text": "attainment of self or Atma or Brahma happens instantaneously."
+    },
+    {
+      "i": 490,
+      "start": 2956.12,
+      "end": 2965.0,
+      "text": "Sanyasa Here the sanyasa you would use is S to bring back the"
+    },
+    {
+      "i": 491,
+      "start": 2965.52,
+      "end": 2970.52,
+      "text": "question of arjuna into picture. The sanyasa spoken here is the"
+    },
+    {
+      "i": 492,
+      "start": 2970.52,
+      "end": 2973.6,
+      "text": "same restricted reference in the 5.2."
+    },
+    {
+      "i": 493,
+      "start": 2974.28,
+      "end": 2978.76,
+      "text": "Not the nyada nishta samnyasa which is the paramahamsa"
+    },
+    {
+      "i": 494,
+      "start": 2978.76,
+      "end": 2986.32,
+      "text": "sanyasa. That sanyasa which is the"
+    },
+    {
+      "i": 495,
+      "start": 2987.2,
+      "end": 2997.36,
+      "text": "external sanyasa when yoked or integrated with Nyana then only"
+    },
+    {
+      "i": 496,
+      "start": 2997.36,
+      "end": 3000.32,
+      "text": "that yoga becomes a purefactory discipline."
+    },
+    {
+      "i": 497,
+      "start": 3001.64,
+      "end": 3007.48,
+      "text": "Otherwise it is a it is an outward your sanyasa with the"
+    },
+    {
+      "i": 498,
+      "start": 3007.48,
+      "end": 3015.28,
+      "text": "ego that I am a sanyasi. Therefore, this verse the Karma"
+    },
+    {
+      "i": 499,
+      "start": 3015.28,
+      "end": 3022.96,
+      "text": "Yoga is indispensable antecedent for genuine Sanyasa."
+    },
+    {
+      "i": 500,
+      "start": 3024.88,
+      "end": 3035.2,
+      "text": "Benin Sanyasa is not taking place unless it is accompanied"
+    },
+    {
+      "i": 501,
+      "start": 3035.2,
+      "end": 3040.92,
+      "text": "or it is starting from the Karma Yoga which is also genuine in"
+    },
+    {
+      "i": 502,
+      "start": 3040.92,
+      "end": 3049.16,
+      "text": "nature that you are not doing the offering to the Lord without"
+    },
+    {
+      "i": 503,
+      "start": 3049.68,
+      "end": 3057.2,
+      "text": "mentally detaching itself. So what is being offered or as a"
+    },
+    {
+      "i": 504,
+      "start": 3057.24,
+      "end": 3064.8,
+      "text": "as a devotion to the Lord is never bequeathed by the person"
+    },
+    {
+      "i": 505,
+      "start": 3064.8,
+      "end": 3070.48,
+      "text": "again. He has to totally renounce what"
+    },
+    {
+      "i": 506,
+      "start": 3070.48,
+      "end": 3076.04,
+      "text": "is being offered to the Lord. So this verse is very important"
+    },
+    {
+      "i": 507,
+      "start": 3076.04,
+      "end": 3080.28,
+      "text": "in the practicality of what is the yoga and the Sanya Sahir."
+    },
+    {
+      "i": 508,
+      "start": 3084.08,
+      "end": 3090.4,
+      "text": "The word started with a word. Tu means, however Mahabaho"
+    },
+    {
+      "i": 509,
+      "start": 3090.4,
+      "end": 3099.72,
+      "text": "arjuna dukkum aptum ayogataha. Dukkum means hardship or"
+    },
+    {
+      "i": 510,
+      "start": 3099.72,
+      "end": 3106.2,
+      "text": "difficulty. Aptum means achain."
+    },
+    {
+      "i": 511,
+      "start": 3108.52,
+      "end": 3114.96,
+      "text": "Ayogataha means without yoga. So what does it say?"
+    },
+    {
+      "i": 512,
+      "start": 3116.6,
+      "end": 3124.08,
+      "text": "It says that it is difficult to attain the sanyasa that is"
+    },
+    {
+      "i": 513,
+      "start": 3124.08,
+      "end": 3129.6,
+      "text": "attempted. Ayogataha without yoga is not"
+    },
+    {
+      "i": 514,
+      "start": 3129.72,
+      "end": 3134.68,
+      "text": "merely ineffective, but it is actively painful."
+    },
+    {
+      "i": 515,
+      "start": 3136.0,
+      "end": 3141.88,
+      "text": "It is. It is giving rise to the Soro or"
+    },
+    {
+      "i": 516,
+      "start": 3141.88,
+      "end": 3144.56,
+      "text": "the Dukha. Why?"
+    },
+    {
+      "i": 517,
+      "start": 3145.12,
+      "end": 3150.24,
+      "text": "Because kamak kroda di vasana which are residuential"
+    },
+    {
+      "i": 518,
+      "start": 3150.44,
+      "end": 3155.32,
+      "text": "impressions of the desire and aversion that will remain"
+    },
+    {
+      "i": 519,
+      "start": 3155.36,
+      "end": 3160.8,
+      "text": "unburnt in the andakarana if he don't use the yoga, karma yoga."
+    },
+    {
+      "i": 520,
+      "start": 3162.08,
+      "end": 3167.68,
+      "text": "And without purifactory fire of karma yoga, they cannot continue"
+    },
+    {
+      "i": 521,
+      "start": 3170.16,
+      "end": 3174.08,
+      "text": "to the path of sanyasa because they continue to agitate the"
+    },
+    {
+      "i": 522,
+      "start": 3174.08,
+      "end": 3181.12,
+      "text": "mind even in the formal, you know, sanyasi's mind producing"
+    },
+    {
+      "i": 523,
+      "start": 3181.12,
+      "end": 3185.16,
+      "text": "inner conflict, suppression, restlessness, etc."
+    },
+    {
+      "i": 524,
+      "start": 3186.72,
+      "end": 3191.32,
+      "text": "So dukamapta means to difficult to attain the sanyasa."
+    },
+    {
+      "i": 525,
+      "start": 3192.08,
+      "end": 3197.24,
+      "text": "The true sanyasa, the Nithya sanyasi is difficult to add."
+    },
+    {
+      "i": 526,
+      "start": 3197.24,
+      "end": 3203.8,
+      "text": "State is difficult to be achieved unless it is coupled"
+    },
+    {
+      "i": 527,
+      "start": 3203.8,
+      "end": 3212.64,
+      "text": "with a true karma yoga, the destination being the same."
+    },
+    {
+      "i": 528,
+      "start": 3214.56,
+      "end": 3217.64,
+      "text": "The Ayoga taha means the absence of yoga."
+    },
+    {
+      "i": 529,
+      "start": 3219.4,
+      "end": 3227.28,
+      "text": "It makes the sanyasa difficult. Yoga here means karma yoga in"
+    },
+    {
+      "i": 530,
+      "start": 3227.28,
+      "end": 3232.56,
+      "text": "the sense that it is not a merely an action by the"
+    },
+    {
+      "i": 531,
+      "start": 3234.32,
+      "end": 3236.64,
+      "text": "individuality with egoistic mind."
+    },
+    {
+      "i": 532,
+      "start": 3236.64,
+      "end": 3241.96,
+      "text": "In the in the picture it is a systematic purification of the"
+    },
+    {
+      "i": 533,
+      "start": 3241.96,
+      "end": 3245.64,
+      "text": "andakarana were the Nishkama karma."
+    },
+    {
+      "i": 534,
+      "start": 3248.72,
+      "end": 3254.44,
+      "text": "When it happens, then only it becomes a Ishwararapana and the"
+    },
+    {
+      "i": 535,
+      "start": 3254.44,
+      "end": 3258.56,
+      "text": "prasada buddhi which was discussed earlier then only it"
+    },
+    {
+      "i": 536,
+      "start": 3258.56,
+      "end": 3262.88,
+      "text": "is the real karma yoga in its proper interpretation."
+    },
+    {
+      "i": 537,
+      "start": 3265.12,
+      "end": 3278.08,
+      "text": "So yoga yukta ha munihi a muni essays yoga yukta when he is,"
+    },
+    {
+      "i": 538,
+      "start": 3280.84,
+      "end": 3286.48,
+      "text": "you know, yoked with, doubled with yoga and sanyasa."
+    },
+    {
+      "i": 539,
+      "start": 3288.32,
+      "end": 3295.16,
+      "text": "This samyuk state or the proper complete total establishment in"
+    },
+    {
+      "i": 540,
+      "start": 3295.16,
+      "end": 3301.76,
+      "text": "the part of nyana sanyasa with the karma with the karma yoga."
+    },
+    {
+      "i": 541,
+      "start": 3303.4,
+      "end": 3308.48,
+      "text": "Therefore, the Yoga Yoga is pointing toward the mature"
+    },
+    {
+      "i": 542,
+      "start": 3308.48,
+      "end": 3314.92,
+      "text": "nature of the Karma Yogi, who is now a not only a karma Yogi, but"
+    },
+    {
+      "i": 543,
+      "start": 3314.92,
+      "end": 3320.4,
+      "text": "he is also a Karma Sanyasi, one whose Andakarna has been"
+    },
+    {
+      "i": 544,
+      "start": 3321.0,
+      "end": 3326.08,
+      "text": "sufficiently purified through the sustained Niskama karma to"
+    },
+    {
+      "i": 545,
+      "start": 3326.08,
+      "end": 3332.48,
+      "text": "be ripe, and there his Karma Yoga and Nyan nishta."
+    },
+    {
+      "i": 546,
+      "start": 3333.24,
+      "end": 3339.96,
+      "text": "There is absolutely no difference in the attitude is"
+    },
+    {
+      "i": 547,
+      "start": 3340.16,
+      "end": 3344.08,
+      "text": "karma yoga is in the state of established Nyana."
+    },
+    {
+      "i": 548,
+      "start": 3344.08,
+      "end": 3347.84,
+      "text": "When the karma yoga is doing that, he doesn't even feel that"
+    },
+    {
+      "i": 549,
+      "start": 3347.84,
+      "end": 3354.16,
+      "text": "he is doing a karma yoga for him it is that some other sitto"
+    },
+    {
+      "i": 550,
+      "start": 3354.72,
+      "end": 3359.28,
+      "text": "which has been mentioned earlier Nithya karnithyogi, nithya"
+    },
+    {
+      "i": 551,
+      "start": 3359.28,
+      "end": 3367.04,
+      "text": "sanyasi. So that is indicating to that"
+    },
+    {
+      "i": 552,
+      "start": 3367.04,
+      "end": 3375.2,
+      "text": "Yogi Yogi or Muni who is a transitional figure standing"
+    },
+    {
+      "i": 553,
+      "start": 3375.2,
+      "end": 3380.44,
+      "text": "between the Pravrtimarga and the Nivrtimarga, the one who for"
+    },
+    {
+      "i": 554,
+      "start": 3380.44,
+      "end": 3384.04,
+      "text": "whom the renunciation will now be Sukham."
+    },
+    {
+      "i": 555,
+      "start": 3384.36,
+      "end": 3390.88,
+      "text": "No more giving Dukham because he is descent to toilet as a karma"
+    },
+    {
+      "i": 556,
+      "start": 3390.88,
+      "end": 3395.96,
+      "text": "yoga in the beginning. Therefore he is called a muni"
+    },
+    {
+      "i": 557,
+      "start": 3396.0,
+      "end": 3398.72,
+      "text": "because he has become silent. He has no complaint."
+    },
+    {
+      "i": 558,
+      "start": 3399.8,
+      "end": 3406.32,
+      "text": "His life is he has taken it as in a stride where he doesn't own"
+    },
+    {
+      "i": 559,
+      "start": 3406.32,
+      "end": 3409.6,
+      "text": "anything, he doesn't offer anything he has he has"
+    },
+    {
+      "i": 560,
+      "start": 3409.6,
+      "end": 3413.4,
+      "text": "established himself in the nature of the self."
+    },
+    {
+      "i": 561,
+      "start": 3414.52,
+      "end": 3418.32,
+      "text": "So the muni is etymologically one who has maintained Mauna,"
+    },
+    {
+      "i": 562,
+      "start": 3418.72,
+      "end": 3427.52,
+      "text": "inner silence, not any external silence of speech, but the"
+    },
+    {
+      "i": 563,
+      "start": 3427.52,
+      "end": 3434.6,
+      "text": "cessation of the internal prattle of vikalpa, of the mind"
+    },
+    {
+      "i": 564,
+      "start": 3435.8,
+      "end": 3440.0,
+      "text": "or the endless stream of desire driven thoughts and formations."
+    },
+    {
+      "i": 565,
+      "start": 3441.68,
+      "end": 3446.08,
+      "text": "This inner silence or inner Mauna is precisely the fruit of"
+    },
+    {
+      "i": 566,
+      "start": 3446.08,
+      "end": 3454.28,
+      "text": "Karma Yoga, the purified andakarna that has become still"
+    },
+    {
+      "i": 567,
+      "start": 3454.28,
+      "end": 3461.0,
+      "text": "enough prasanna or prasada to receive the highest light of"
+    },
+    {
+      "i": 568,
+      "start": 3461.0,
+      "end": 3466.2,
+      "text": "Atmak Nyana. Therefore, the complete Yogi"
+    },
+    {
+      "i": 569,
+      "start": 3466.2,
+      "end": 3473.84,
+      "text": "Muni or the Yoga Yukta Muni is one who has achieved both the"
+    },
+    {
+      "i": 570,
+      "start": 3473.84,
+      "end": 3479.36,
+      "text": "outer discipline of Yoga and the inner silence of Mauna and"
+    },
+    {
+      "i": 571,
+      "start": 3479.36,
+      "end": 3483.4,
+      "text": "stands at the threshold of Brahmasatkara."
+    },
+    {
+      "i": 572,
+      "start": 3485.16,
+      "end": 3491.88,
+      "text": "Brahma na Achirena Adigachati Brahma means that state of Atma"
+    },
+    {
+      "i": 573,
+      "start": 3491.88,
+      "end": 3498.08,
+      "text": "or Brahma ATI. Achirena na Achirena means"
+    },
+    {
+      "i": 574,
+      "start": 3498.08,
+      "end": 3501.6,
+      "text": "immediately. Achirena means eternally."
+    },
+    {
+      "i": 575,
+      "start": 3502.04,
+      "end": 3505.36,
+      "text": "Nachirena means instantaneously or swiftly."
+    },
+    {
+      "i": 576,
+      "start": 3507.04,
+      "end": 3513.08,
+      "text": "Akshikena at the moment, very moment is when the result"
+    },
+    {
+      "i": 577,
+      "start": 3513.16,
+      "end": 3521.28,
+      "text": "obstacles are gone for him. Adhigamyate means direct"
+    },
+    {
+      "i": 578,
+      "start": 3521.28,
+      "end": 3525.64,
+      "text": "knowledge. It is not gamyate on the"
+    },
+    {
+      "i": 579,
+      "start": 3525.64,
+      "end": 3529.56,
+      "text": "ordinary sense. Here Adhigamyate is a satrat"
+    },
+    {
+      "i": 580,
+      "start": 3529.76,
+      "end": 3534.72,
+      "text": "Aparokhatyana, not mediated inference, but the enemy in"
+    },
+    {
+      "i": 581,
+      "start": 3534.72,
+      "end": 3539.08,
+      "text": "immediate recognition without any mediate."
+    },
+    {
+      "i": 582,
+      "start": 3540.32,
+      "end": 3548.84,
+      "text": "The Yoga Yuktamuni does not merely approach the Self or"
+    },
+    {
+      "i": 583,
+      "start": 3548.84,
+      "end": 3555.92,
+      "text": "Brahman as an object, but he directly knows it as his own"
+    },
+    {
+      "i": 584,
+      "start": 3555.92,
+      "end": 3559.96,
+      "text": "Atman. He has from the intellectual"
+    },
+    {
+      "i": 585,
+      "start": 3559.96,
+      "end": 3564.08,
+      "text": "understanding of Atman or Brahman, he has now realized"
+    },
+    {
+      "i": 586,
+      "start": 3564.08,
+      "end": 3571.96,
+      "text": "that is his nature. So in the first sloka of this"
+    },
+    {
+      "i": 587,
+      "start": 3571.96,
+      "end": 3575.96,
+      "text": "chapter, Arjuna asked the question what is better than"
+    },
+    {
+      "i": 588,
+      "start": 3575.96,
+      "end": 3580.16,
+      "text": "Sanyas or Yoga? Krishna said that both are"
+    },
+    {
+      "i": 589,
+      "start": 3580.16,
+      "end": 3585.72,
+      "text": "Nishirayasakara. Both are is capable of giving"
+    },
+    {
+      "i": 590,
+      "start": 3585.72,
+      "end": 3589.64,
+      "text": "the same result but karma yoga this is she said."
+    },
+    {
+      "i": 591,
+      "start": 3589.92,
+      "end": 3594.08,
+      "text": "But he said karma yoga is superior to karma sanyasa."
+    },
+    {
+      "i": 592,
+      "start": 3595.6,
+      "end": 3603.32,
+      "text": "In the 3rd chapter third verse, he said that sanyasa will also"
+    },
+    {
+      "i": 593,
+      "start": 3603.32,
+      "end": 3607.48,
+      "text": "read the same thing if it is a true sanyasa where it is"
+    },
+    {
+      "i": 594,
+      "start": 3607.48,
+      "end": 3612.04,
+      "text": "Nirudhuandva. It is not an external sanyasa,"
+    },
+    {
+      "i": 595,
+      "start": 3612.04,
+      "end": 3617.16,
+      "text": "but an internal one. So the Pandita one who sees them"
+    },
+    {
+      "i": 596,
+      "start": 3617.16,
+      "end": 3624.32,
+      "text": "both as the same, Ekamapi ubayopalam, he sees the fruit as"
+    },
+    {
+      "i": 597,
+      "start": 3624.76,
+      "end": 3631.8,
+      "text": "the same for both. And in the fifth verse such a"
+    },
+    {
+      "i": 598,
+      "start": 3631.8,
+      "end": 3636.64,
+      "text": "person is called the one true seer, Yapasati Sapasati."
+    },
+    {
+      "i": 599,
+      "start": 3638.04,
+      "end": 3644.84,
+      "text": "In the sixth verse, why Karma yoga is superior, Sanyasa"
+    },
+    {
+      "i": 600,
+      "start": 3644.84,
+      "end": 3649.64,
+      "text": "Ayogadaha is dukham without the yoga."
+    },
+    {
+      "i": 601,
+      "start": 3649.8,
+      "end": 3653.8,
+      "text": "The sanyasa is producing dukham or sorrow."
+    },
+    {
+      "i": 602,
+      "start": 3654.4,
+      "end": 3658.12,
+      "text": "But when it is yoga Yukta, he becomes a muni."
+    },
+    {
+      "i": 603,
+      "start": 3658.32,
+      "end": 3665.08,
+      "text": "He becomes the the muni or the one who reaches Brahman Nachi"
+    },
+    {
+      "i": 604,
+      "start": 3665.08,
+      "end": 3673.88,
+      "text": "Rayana instantaneously. So the stages are very clear in"
+    },
+    {
+      "i": 605,
+      "start": 3673.88,
+      "end": 3680.32,
+      "text": "from the point of view of Krishna's statements, Karma yoga"
+    },
+    {
+      "i": 606,
+      "start": 3681.0,
+      "end": 3685.6,
+      "text": "is superior. But that Karma yoga, as we"
+    },
+    {
+      "i": 607,
+      "start": 3685.6,
+      "end": 3696.8,
+      "text": "proceed, should mature from the external sanyasa to a state of"
+    },
+    {
+      "i": 608,
+      "start": 3696.8,
+      "end": 3703.16,
+      "text": "sanyasa with the knowledge that there is no two separate Yogi"
+    },
+    {
+      "i": 609,
+      "start": 3703.16,
+      "end": 3710.64,
+      "text": "and sanyasi, one who surrenders and one who to Ishuda, one who"
+    },
+    {
+      "i": 610,
+      "start": 3710.64,
+      "end": 3717.2,
+      "text": "surrenders, and to a one who is, you know, renouncing from his"
+    },
+    {
+      "i": 611,
+      "start": 3717.2,
+      "end": 3722.12,
+      "text": "own activity all his actions becomes yoga."
+    },
+    {
+      "i": 612,
+      "start": 3722.12,
+      "end": 3731.72,
+      "text": "Yuktha is endowed or integrated with the yoga and therefore it"
+    },
+    {
+      "i": 613,
+      "start": 3733.68,
+      "end": 3741.52,
+      "text": "is a state of karma yoga with Nyana and that leads into the"
+    },
+    {
+      "i": 614,
+      "start": 3741.52,
+      "end": 3748.84,
+      "text": "Andakarana prasada. And in such a chitta in the"
+    },
+    {
+      "i": 615,
+      "start": 3749.2,
+      "end": 3752.4,
+      "text": "individual, the external renunciation of action does not"
+    },
+    {
+      "i": 616,
+      "start": 3752.4,
+      "end": 3761.68,
+      "text": "bring Shanti. But when it is yoked or with the"
+    },
+    {
+      "i": 617,
+      "start": 3761.68,
+      "end": 3772.68,
+      "text": "yoga of Karma Yoga then it is becomes that Nyana yoga and"
+    },
+    {
+      "i": 618,
+      "start": 3774.28,
+      "end": 3779.32,
+      "text": "instantaneously quickly in time without any structural delay of"
+    },
+    {
+      "i": 619,
+      "start": 3779.32,
+      "end": 3783.52,
+      "text": "gradually becoming Brahmanadhigachadhi he directly"
+    },
+    {
+      "i": 620,
+      "start": 3783.52,
+      "end": 3791.52,
+      "text": "knows as his own Swarupa. So there is no Kala Thomas or"
+    },
+    {
+      "i": 621,
+      "start": 3791.52,
+      "end": 3799.48,
+      "text": "the delay in the in the time for getting the state of Sukham"
+    },
+    {
+      "i": 622,
+      "start": 3800.24,
+      "end": 3807.52,
+      "text": "which is MO no more riddled with the torture of doing the Sanyasa"
+    },
+    {
+      "i": 623,
+      "start": 3807.52,
+      "end": 3815.32,
+      "text": "or Yoga. It is the figure for Uttama"
+    },
+    {
+      "i": 624,
+      "start": 3815.32,
+      "end": 3820.24,
+      "text": "Adhikari, the highest qualified seeker for whom the Vedantic"
+    },
+    {
+      "i": 625,
+      "start": 3820.24,
+      "end": 3824.08,
+      "text": "teaching Brahmavidya will operate with maximum efficiency"
+    },
+    {
+      "i": 626,
+      "start": 3824.92,
+      "end": 3831.52,
+      "text": "producing same Brahmasatkara. Nachirena sanya sastu paramarthi"
+    },
+    {
+      "i": 627,
+      "start": 3831.52,
+      "end": 3836.48,
+      "text": "kaha hai Mahaba ho dukam AB tum prab tum ayogata Yoga na vina"
+    },
+    {
+      "i": 628,
+      "start": 3837.68,
+      "end": 3845.12,
+      "text": "Dabhasya says that renunciation of the highest sense Arjuna is"
+    },
+    {
+      "i": 629,
+      "start": 3845.12,
+      "end": 3847.12,
+      "text": "difficult to attain without yoga."
+    },
+    {
+      "i": 630,
+      "start": 3847.4,
+      "end": 3852.88,
+      "text": "Yoga yuktaha vaitigena Karma yogena ishira samartha rupena"
+    },
+    {
+      "i": 631,
+      "start": 3853.0,
+      "end": 3857.48,
+      "text": "palanira paikhena yuktaha. The one who has endured yoga"
+    },
+    {
+      "i": 632,
+      "start": 3858.2,
+      "end": 3862.28,
+      "text": "with the Karma Yoga characterized by the dedication"
+    },
+    {
+      "i": 633,
+      "start": 3862.28,
+      "end": 3866.16,
+      "text": "of to Ishwara and free from the dependence of the results."
+    },
+    {
+      "i": 634,
+      "start": 3866.84,
+      "end": 3872.6,
+      "text": "Munihi Mananath Ishwara surupasya munihi manana mulshej"
+    },
+    {
+      "i": 635,
+      "start": 3872.72,
+      "end": 3876.68,
+      "text": "muni so-called because he reflects upon the nature of"
+    },
+    {
+      "i": 636,
+      "start": 3876.96,
+      "end": 3881.8,
+      "text": "Ishwara. Brahmaha paramathmatyanand ishta"
+    },
+    {
+      "i": 637,
+      "start": 3881.8,
+      "end": 3888.8,
+      "text": "Lakshanatha pragrutha sanya Saha brahma nyasa ETI brahma brahma"
+    },
+    {
+      "i": 638,
+      "start": 3888.8,
+      "end": 3892.16,
+      "text": "hi paraihi saitriya nan narayana."
+    },
+    {
+      "i": 639,
+      "start": 3893.56,
+      "end": 3898.92,
+      "text": "It says that renunciation is Brahman or Brahman is indeed"
+    },
+    {
+      "i": 640,
+      "start": 3898.92,
+      "end": 3903.08,
+      "text": "supreme. Brahma paramartha sanyasam"
+    },
+    {
+      "i": 641,
+      "start": 3903.08,
+      "end": 3908.04,
+      "text": "paramartha nyanand istalakshanam na cherena chiprameva adigachadi"
+    },
+    {
+      "i": 642,
+      "start": 3908.04,
+      "end": 3912.32,
+      "text": "prapnodi. Such a person quickly, without"
+    },
+    {
+      "i": 643,
+      "start": 3912.32,
+      "end": 3916.04,
+      "text": "delay attained Brahman, the highest renunciation"
+    },
+    {
+      "i": 644,
+      "start": 3916.04,
+      "end": 3918.48,
+      "text": "characterized by the steadfastness in supreme"
+    },
+    {
+      "i": 645,
+      "start": 3918.48,
+      "end": 3923.4,
+      "text": "knowledge. Ataha Maya uttam, karma yoga."
+    },
+    {
+      "i": 646,
+      "start": 3924.08,
+      "end": 3929.2,
+      "text": "Therefore, Krishna says, I said Karma yoga is superior in the"
+    },
+    {
+      "i": 647,
+      "start": 3929.2,
+      "end": 3933.12,
+      "text": "second verse. We will take the seventh verse"
+    },
+    {
+      "i": 648,
+      "start": 3933.12,
+      "end": 3944.04,
+      "text": "on Monday. Thank you."
+    },
+    {
+      "i": 649,
+      "start": 3948.0,
+      "end": 3973.09,
+      "text": "Thank you very. Much mindoji, I've opened the"
+    },
+    {
+      "i": 650,
+      "start": 3973.09,
+      "end": 3977.68,
+      "text": "chat and hand raising there any further follow up questions or"
+    },
+    {
+      "i": 651,
+      "start": 3977.68,
+      "end": 3987.93,
+      "text": "discussions? Today I don't think there will"
+    },
+    {
+      "i": 652,
+      "start": 3987.93,
+      "end": 3992.01,
+      "text": "be any questions because it's more of a explanation of how the"
+    },
+    {
+      "i": 653,
+      "start": 3992.01,
+      "end": 3997.29,
+      "text": "yoga has to be done and Sanyasa and yoga, how to integrate"
+    },
+    {
+      "i": 654,
+      "start": 3997.29,
+      "end": 4000.97,
+      "text": "between the two. So if that has been understood,"
+    },
+    {
+      "i": 655,
+      "start": 4000.97,
+      "end": 4002.65,
+      "text": "I don't think there can be any question."
+    },
+    {
+      "i": 656,
+      "start": 4004.48,
+      "end": 4008.36,
+      "text": "There are no two separate paths of karma yoga and karmasanyasa."
+    },
+    {
+      "i": 657,
+      "start": 4008.36,
+      "end": 4013.52,
+      "text": "There is only one path. Yeah, actually there are two"
+    },
+    {
+      "i": 658,
+      "start": 4013.52,
+      "end": 4016.44,
+      "text": "sides to the same coin, right Induji?"
+    },
+    {
+      "i": 659,
+      "start": 4016.76,
+      "end": 4020.24,
+      "text": "Right. That's right. 1 is looking at"
+    },
+    {
+      "i": 660,
+      "start": 4020.24,
+      "end": 4025.64,
+      "text": "the renunciation of certain actions that prevent and the"
+    },
+    {
+      "i": 661,
+      "start": 4025.64,
+      "end": 4030.2,
+      "text": "other side is the actions that liberate one right?"
+    },
+    {
+      "i": 662,
+      "start": 4031.52,
+      "end": 4034.84,
+      "text": "Right. In fact, the renunciation, what"
+    },
+    {
+      "i": 663,
+      "start": 4034.84,
+      "end": 4039.4,
+      "text": "you are renunciating, you are renouncing at the feet of the"
+    },
+    {
+      "i": 664,
+      "start": 4039.4,
+      "end": 4043.6,
+      "text": "Lord. It is not the material offering"
+    },
+    {
+      "i": 665,
+      "start": 4043.6,
+      "end": 4047.28,
+      "text": "of karma yoga. What is being done, the karma,"
+    },
+    {
+      "i": 666,
+      "start": 4047.28,
+      "end": 4052.6,
+      "text": "the karmafala. As a individual, what you are"
+    },
+    {
+      "i": 667,
+      "start": 4052.76,
+      "end": 4057.44,
+      "text": "offering is that I am not the doer, so I am not even entitled"
+    },
+    {
+      "i": 668,
+      "start": 4057.44,
+      "end": 4062.28,
+      "text": "for the results of the action. So the karma happens by itself"
+    },
+    {
+      "i": 669,
+      "start": 4062.28,
+      "end": 4069.12,
+      "text": "because of the pragurji Jayar gunahi, because the gunas of the"
+    },
+    {
+      "i": 670,
+      "start": 4069.12,
+      "end": 4071.12,
+      "text": "Pragurji, the action is happening."
+    },
+    {
+      "i": 671,
+      "start": 4071.2,
+      "end": 4074.2,
+      "text": "I am neither the doer nor the enjoyer of the karma."
+    },
+    {
+      "i": 672,
+      "start": 4074.72,
+      "end": 4081.56,
+      "text": "That attitude is the karma yoga in reality, not the physically"
+    },
+    {
+      "i": 673,
+      "start": 4081.56,
+      "end": 4086.12,
+      "text": "offering flower fruits or yoga yagna, etcetera."
+    },
+    {
+      "i": 674,
+      "start": 4087.6,
+      "end": 4094.0,
+      "text": "So this when it is matured with that, the yoga becomes karma"
+    },
+    {
+      "i": 675,
+      "start": 4094.0,
+      "end": 4100.04,
+      "text": "yoga when you identify yourself as I am neither the doer nor the"
+    },
+    {
+      "i": 676,
+      "start": 4100.04,
+      "end": 4102.56,
+      "text": "enjoyer. Therefore whatever is happening"
+    },
+    {
+      "i": 677,
+      "start": 4102.6,
+      "end": 4109.439,
+      "text": "is being offered to the Ishwara and when that happens, the"
+    },
+    {
+      "i": 678,
+      "start": 4109.439,
+      "end": 4115.12,
+      "text": "person becomes yoga Yukta muni. He becomes endowed with the"
+    },
+    {
+      "i": 679,
+      "start": 4115.12,
+      "end": 4118.92,
+      "text": "knowledge that he's no more a doer."
+    },
+    {
+      "i": 680,
+      "start": 4123.8,
+      "end": 4130.279,
+      "text": "Yeah, there is no, there is no moving or staying still, right"
+    },
+    {
+      "i": 681,
+      "start": 4130.279,
+      "end": 4132.359,
+      "text": "Mithoji? Right."
+    },
+    {
+      "i": 682,
+      "start": 4133.12,
+      "end": 4143.399,
+      "text": "Yeah, it is something that a deep contemplation a manana is"
+    },
+    {
+      "i": 683,
+      "start": 4144.479,
+      "end": 4151.2,
+      "text": "will definitely you know strengthen the buddhi in, in"
+    },
+    {
+      "i": 684,
+      "start": 4151.2,
+      "end": 4153.08,
+      "text": "terms of that realization, right?"
+    },
+    {
+      "i": 685,
+      "start": 4155.88,
+      "end": 4161.359,
+      "text": "Yeah, and you can tell Yash to play the same thing in the"
+    },
+    {
+      "i": 686,
+      "start": 4162.24,
+      "end": 4166.52,
+      "text": "evening Indian time, yes. So that pass."
+    },
+    {
+      "i": 687,
+      "start": 4166.68,
+      "end": 4168.96,
+      "text": "Down a message. Yeah, people will feel the class"
+    },
+    {
+      "i": 688,
+      "start": 4168.96,
+      "end": 4171.76,
+      "text": "is live on the on the yoga place."
+    },
+    {
+      "i": 689,
+      "start": 4172.76,
+      "end": 4178.72,
+      "text": "Yes and the other days you can continue with the 3rd chapter or"
+    },
+    {
+      "i": 690,
+      "start": 4178.72,
+      "end": 4182.68,
+      "text": "if they not much listeners are there then you don't have to do"
+    },
+    {
+      "i": 691,
+      "start": 4182.68,
+      "end": 4185.68,
+      "text": "that. Then only do the three days of"
+    },
+    {
+      "i": 692,
+      "start": 4185.68,
+      "end": 4190.08,
+      "text": "Monday, Wednesday and Friday. OK, yes."
+    },
+    {
+      "i": 693,
+      "start": 4191.88,
+      "end": 4199.44,
+      "text": "But I would like a Sunday, the Indian time, all of you, Prakash"
+    },
+    {
+      "i": 694,
+      "start": 4201.6,
+      "end": 4210.36,
+      "text": "Srini, Venkat, Revathi, Jesse or Patrick, all of you to be there"
+    },
+    {
+      "i": 695,
+      "start": 4211.08,
+      "end": 4215.04,
+      "text": "on a open discussion. My presence is not required."
+    },
+    {
+      "i": 696,
+      "start": 4216.12,
+      "end": 4219.8,
+      "text": "At least when I, when I hear back the open discussion later"
+    },
+    {
+      "i": 697,
+      "start": 4220.48,
+      "end": 4225.8,
+      "text": "on the replay, I know exactly what is transpired in the room"
+    },
+    {
+      "i": 698,
+      "start": 4225.8,
+      "end": 4229.2,
+      "text": "and where, you know, misunderstanding is taking"
+    },
+    {
+      "i": 699,
+      "start": 4229.2,
+      "end": 4232.64,
+      "text": "place. That way I can understand and"
+    },
+    {
+      "i": 700,
+      "start": 4232.64,
+      "end": 4239.12,
+      "text": "make you know the my. My comments were that you know"
+    },
+    {
+      "i": 701,
+      "start": 4239.68,
+      "end": 4243.56,
+      "text": "the approach was not from the right direction."
+    },
+    {
+      "i": 702,
+      "start": 4245.52,
+      "end": 4248.8,
+      "text": "So conduct the Sunday classes without me on the open"
+    },
+    {
+      "i": 703,
+      "start": 4248.8,
+      "end": 4250.36,
+      "text": "discussion. We."
+    },
+    {
+      "i": 704,
+      "start": 4251.24,
+      "end": 4253.32,
+      "text": "Will do that. I want the people like you,"
+    },
+    {
+      "i": 705,
+      "start": 4253.32,
+      "end": 4259.2,
+      "text": "Srini, Venkat, Patrick and if Jadaveda is there him who are is"
+    },
+    {
+      "i": 706,
+      "start": 4259.2,
+      "end": 4263.6,
+      "text": "that willing to let them come? Sure."
+    },
+    {
+      "i": 707,
+      "start": 4263.76,
+      "end": 4268.36,
+      "text": "Yes. OK."
+    },
+    {
+      "i": 708,
+      "start": 4269.0,
+      "end": 4273.52,
+      "text": "So we'll meet on Monday. Yes."
+    },
+    {
+      "i": 709,
+      "start": 4273.8,
+      "end": 4275.32,
+      "text": "Thank you, Prakash. You can go there."
+    },
+    {
+      "i": 710,
+      "start": 4276.08,
+      "end": 4277.88,
+      "text": "Yeah. Thank you everyone for coming"
+    },
+    {
+      "i": 711,
+      "start": 4278.16,
+      "end": 4282.8,
+      "text": "and attending this session. So we'll continue on the Chapter"
+    },
+    {
+      "i": 712,
+      "start": 4282.8,
+      "end": 4290.68,
+      "text": "5 Room number 4 on Monday at 6:30 PM AM ISD630 AMI SD, So you"
+    },
+    {
+      "i": 713,
+      "start": 4290.68,
+      "end": 4294.28,
+      "text": "can access the replays in clubhouse just to do the Manana"
+    },
+    {
+      "i": 714,
+      "start": 4294.44,
+      "end": 4296.6,
+      "text": "before you come for the next session."
+    },
+    {
+      "i": 715,
+      "start": 4297.56,
+      "end": 4300.88,
+      "text": "Or you could go to Advaita Retold YouTube channel and a"
+    },
+    {
+      "i": 716,
+      "start": 4300.88,
+      "end": 4302.72,
+      "text": "couple of other links shared in the chat."
+    },
+    {
+      "i": 717,
+      "start": 4304.2,
+      "end": 4307.32,
+      "text": "And as always, a heartfelt thanks to Bindoji for taking the"
+    },
+    {
+      "i": 718,
+      "start": 4307.32,
+      "end": 4310.08,
+      "text": "time and offering this deep contemplation."
+    },
+    {
+      "i": 719,
+      "start": 4311.28,
+      "end": 4313.04,
+      "text": "Over to you Bindoji to close through."
+    },
+    {
+      "i": 720,
+      "start": 4314.64,
+      "end": 4316.16,
+      "text": "Thank you, Prakash. Thank you."
+    },
+    {
+      "i": 721,
+      "start": 4317.12,
+      "end": 4322.6,
+      "text": "Just see you Srini, Revathi, Sahil, Shraddha, Sophie and"
+    },
+    {
+      "i": 722,
+      "start": 4322.6,
+      "end": 4327.28,
+      "text": "Patrick who are attended the room and see you all on Monday"
+    },
+    {
+      "i": 723,
+      "start": 4327.28,
+      "end": 4331.96,
+      "text": "the same time are you. Good day, have a good day."
+    }
+  ]
+}

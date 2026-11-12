@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "81cfd7a9-16d5-4eed-bc36-dac6d5decc5e",
+  "title": "Ch04-29-Shrimad Bhagavad Gita",
+  "pubDate": "Wed, 06 May 2026 00:11:47 GMT",
+  "duration": "01:14:31",
+  "description": "Shrimad Bhagavad Gita Chapter 04 verses 35 & 36",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch04-29-Shrimad-Bhagavad-Gita-e3iurl1",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/3SpLfOF1HYY0TVMWQ8xeFb/transcript.srt",
+  "fetched_at": "2026-11-09T22:07:25Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 64646,
+  "sha256": "fb96580f71092c3fbf32d5c2a697e95d97475cefe15dd6d68c061d833f019d57",
+  "cue_count": 723,
+  "first_cue_start": "00:00:00,840",
+  "last_cue_end": "01:14:23,240",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}

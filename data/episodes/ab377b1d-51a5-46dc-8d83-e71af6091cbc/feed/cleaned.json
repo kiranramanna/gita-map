@@ -1,0 +1,6499 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "ab377b1d-51a5-46dc-8d83-e71af6091cbc",
+  "source_sha256": "bdc25aae5b244d50ffab0e11a50b3de9ebd77205819eea54ab2d0b5e866e97d4",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.72,
+      "end": 4.0,
+      "text": "Namaste everyone, welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 4.44,
+      "end": 9.08,
+      "text": "The ongoing sessions are on Bhagavad Gita from an Advaita"
+    },
+    {
+      "i": 3,
+      "start": 9.08,
+      "end": 13.6,
+      "text": "perspective which is offered by Bindoji and we are on chapter 4."
+    },
+    {
+      "i": 4,
+      "start": 13.88,
+      "end": 17.76,
+      "text": "So if you want to listen to the replays, the earlier rooms, you"
+    },
+    {
+      "i": 5,
+      "start": 17.76,
+      "end": 21.8,
+      "text": "can access them at Clubhouse or you could alternatively go to"
+    },
+    {
+      "i": 6,
+      "start": 21.8,
+      "end": 25.48,
+      "text": "the Advaita Retold YouTube channel where it's well"
+    },
+    {
+      "i": 7,
+      "start": 25.48,
+      "end": 29.6,
+      "text": "cataloged and you can access even previous talks from earlier"
+    },
+    {
+      "i": 8,
+      "start": 29.6,
+      "end": 33.08,
+      "text": "sessions. There is also a book that is"
+    },
+    {
+      "i": 9,
+      "start": 33.08,
+      "end": 36.16,
+      "text": "published titled The Imaginary Door, which is based on"
+    },
+    {
+      "i": 10,
+      "start": 36.16,
+      "end": 38.48,
+      "text": "Bindoji's insights penned by Artemisia."
+    },
+    {
+      "i": 11,
+      "start": 39.36,
+      "end": 43.4,
+      "text": "The links are provided. They are available on Amazon for"
+    },
+    {
+      "i": 12,
+      "start": 43.4,
+      "end": 46.08,
+      "text": "housekeeping. I'm going to close the chat and"
+    },
+    {
+      "i": 13,
+      "start": 46.08,
+      "end": 48.88,
+      "text": "hand raising when Bindoji is conducting the class, after"
+    },
+    {
+      "i": 14,
+      "start": 48.88,
+      "end": 52.48,
+      "text": "which we open up those channels. If you have any questions that"
+    },
+    {
+      "i": 15,
+      "start": 52.48,
+      "end": 55.92,
+      "text": "you can type or come up and ask. So always thank you, Bindoji,"
+    },
+    {
+      "i": 16,
+      "start": 56.52,
+      "end": 71.44,
+      "text": "over to you. Thank you Prakash."
+    },
+    {
+      "i": 17,
+      "start": 75.08,
+      "end": 90.96,
+      "text": "Namaste everyone, my prayers is charu guru dat"
+    },
+    {
+      "i": 18,
+      "start": 107.68,
+      "end": 121.44,
+      "text": "meeti motive. Yana vasti dat katina manasa"
+    },
+    {
+      "i": 19,
+      "start": 122.44,
+      "end": 152.52,
+      "text": "question DM Yogino. In the 30th verse, the broad"
+    },
+    {
+      "i": 20,
+      "start": 152.52,
+      "end": 157.88,
+      "text": "spectrum of eponym is almost to a conclusion."
+    },
+    {
+      "i": 21,
+      "start": 159.44,
+      "end": 166.6,
+      "text": "It started with the cosmic polarity of Daiva and Brahma and"
+    },
+    {
+      "i": 22,
+      "start": 166.6,
+      "end": 170.72,
+      "text": "then went through sensory indria."
+    },
+    {
+      "i": 23,
+      "start": 171.44,
+      "end": 179.64,
+      "text": "Then at the psychophysical level, the yoga, yoga and tranic"
+    },
+    {
+      "i": 24,
+      "start": 179.72,
+      "end": 187.16,
+      "text": "respiratory, and finally into the tranayama ecnyas."
+    },
+    {
+      "i": 25,
+      "start": 189.56,
+      "end": 197.28,
+      "text": "So the total comprehensive ecnya framework, no domain of human"
+    },
+    {
+      "i": 26,
+      "start": 197.28,
+      "end": 203.6,
+      "text": "experience from the cosmic ritual to the act of eating, is"
+    },
+    {
+      "i": 27,
+      "start": 203.6,
+      "end": 209.04,
+      "text": "outside Ecnya. And Krishna's declaration,"
+    },
+    {
+      "i": 28,
+      "start": 209.92,
+      "end": 215.72,
+      "text": "sarvey API ETA ETA vidaha yetna sabita kalpata kalmasha."
+    },
+    {
+      "i": 29,
+      "start": 217.36,
+      "end": 221.48,
+      "text": "That is, those who are all of them are yetna."
+    },
+    {
+      "i": 30,
+      "start": 221.48,
+      "end": 226.16,
+      "text": "Vidaha means they are knowers of yetna whatever may be yetna they"
+    },
+    {
+      "i": 31,
+      "start": 226.16,
+      "end": 236.04,
+      "text": "are doing and yetna sabita kalpana kalmasha they burn or"
+    },
+    {
+      "i": 32,
+      "start": 236.04,
+      "end": 243.88,
+      "text": "they reduce their sins or embellishments in their path"
+    },
+    {
+      "i": 33,
+      "start": 244.64,
+      "end": 249.36,
+      "text": "through Ecnya. All sincere practitioners of"
+    },
+    {
+      "i": 34,
+      "start": 249.48,
+      "end": 257.12,
+      "text": "genuine ecnya are kalmasha consuming ecnya novers, that is"
+    },
+    {
+      "i": 35,
+      "start": 257.68,
+      "end": 262.16,
+      "text": "they are consuming mean they are burning down the Kalmasha or the"
+    },
+    {
+      "i": 36,
+      "start": 262.16,
+      "end": 268.64,
+      "text": "sin or impurity. Brahmaywatayana Gandhavya."
+    },
+    {
+      "i": 37,
+      "start": 269.2,
+      "end": 272.04,
+      "text": "This is connecting back to the 24th verse."
+    },
+    {
+      "i": 38,
+      "start": 272.36,
+      "end": 278.52,
+      "text": "All of them are heading towards Brahma Burma only, each at their"
+    },
+    {
+      "i": 39,
+      "start": 278.52,
+      "end": 283.8,
+      "text": "appropriate pace along with the path which Krishna says."
+    },
+    {
+      "i": 40,
+      "start": 283.8,
+      "end": 287.4,
+      "text": "All paths are mine, Mamabadma, Anuvarthande, Manishya,"
+    },
+    {
+      "i": 41,
+      "start": 287.4,
+      "end": 294.8,
+      "text": "Parthasarvasya. Then this 2 verses which we are"
+    },
+    {
+      "i": 42,
+      "start": 294.8,
+      "end": 300.6,
+      "text": "going to do today 1 is about the cosmic fruits of ecnya, Ecnya"
+    },
+    {
+      "i": 43,
+      "start": 300.6,
+      "end": 307.32,
+      "text": "sishtamrada Buja and the necessity of ecnya, The Vedic"
+    },
+    {
+      "i": 44,
+      "start": 307.32,
+      "end": 312.4,
+      "text": "breadth of ecnya. At the 31st, this thing and the"
+    },
+    {
+      "i": 45,
+      "start": 312.4,
+      "end": 322.32,
+      "text": "2030 second verse, before which after which the 33rd verse will"
+    },
+    {
+      "i": 46,
+      "start": 322.32,
+      "end": 326.56,
+      "text": "be the Prakarana. Entire crown of Prakarana were"
+    },
+    {
+      "i": 47,
+      "start": 326.56,
+      "end": 332.6,
+      "text": "Shreyan Dharma, Miyat Yatnya, Nyana Yatnya, Paradhara, that"
+    },
+    {
+      "i": 48,
+      "start": 332.84,
+      "end": 337.56,
+      "text": "among all these yatnyas so richly inclusively enumed till"
+    },
+    {
+      "i": 49,
+      "start": 337.56,
+      "end": 341.12,
+      "text": "now, knowledge itself is the supreme Yatnya."
+    },
+    {
+      "i": 50,
+      "start": 342.24,
+      "end": 349.4,
+      "text": "We will today do 31 and 32. Before that there are 3 lines in"
+    },
+    {
+      "i": 51,
+      "start": 349.84,
+      "end": 355.84,
+      "text": "Sangrajadhya's Bashiya Apare Niyatahara."
+    },
+    {
+      "i": 52,
+      "start": 356.32,
+      "end": 363.28,
+      "text": "Others are those of regulated diet niyata min parimita aharaha"
+    },
+    {
+      "i": 53,
+      "start": 363.36,
+      "end": 368.0,
+      "text": "yeh shante niyamathahara yedda. Those who food intake is"
+    },
+    {
+      "i": 54,
+      "start": 368.0,
+      "end": 370.56,
+      "text": "controlled and measured. They are called regulated in"
+    },
+    {
+      "i": 55,
+      "start": 370.56,
+      "end": 376.44,
+      "text": "diet Pranan, vayubaidan, praneshuyeva, jivhodi."
+    },
+    {
+      "i": 56,
+      "start": 376.88,
+      "end": 381.92,
+      "text": "They offer the vital layers or various forms of prana."
+    },
+    {
+      "i": 57,
+      "start": 382.0,
+      "end": 387.32,
+      "text": "Prana, apana, sabana, vyana, udana, all of them into pranas"
+    },
+    {
+      "i": 58,
+      "start": 387.32,
+      "end": 391.56,
+      "text": "themselves. Yasya Yasya vayo ho Jaya ha"
+    },
+    {
+      "i": 59,
+      "start": 391.56,
+      "end": 396.8,
+      "text": "kriyate idharan vayubedan tasmin tasmin juhodi Whichever"
+    },
+    {
+      "i": 60,
+      "start": 396.8,
+      "end": 401.88,
+      "text": "particular vital layer is mastered, they offer the other"
+    },
+    {
+      "i": 61,
+      "start": 401.88,
+      "end": 408.64,
+      "text": "vital functions into that one. TE tatra prabhishta Eva bhavanti"
+    },
+    {
+      "i": 62,
+      "start": 409.08,
+      "end": 416.52,
+      "text": "Then they appear as though merged into that state survey"
+    },
+    {
+      "i": 63,
+      "start": 416.56,
+      "end": 421.52,
+      "text": "API ETA yatyabitha. All these are knowers of Yatya"
+    },
+    {
+      "i": 64,
+      "start": 422.88,
+      "end": 427.72,
+      "text": "Yatnak, shabita Kalmashaha. They are all those whose"
+    },
+    {
+      "i": 65,
+      "start": 427.72,
+      "end": 434.28,
+      "text": "impurities have been destroyed by the Yatyas Eknahi, Yatyabita,"
+    },
+    {
+      "i": 66,
+      "start": 434.28,
+      "end": 438.12,
+      "text": "Nashita, Kalmashaha, Yes Shamthi, Eknath, Shabitakal,"
+    },
+    {
+      "i": 67,
+      "start": 438.12,
+      "end": 443.04,
+      "text": "Mashaha. Though through the various"
+    },
+    {
+      "i": 68,
+      "start": 443.44,
+      "end": 446.72,
+      "text": "eknyas described, their impurities have been exhausted"
+    },
+    {
+      "i": 69,
+      "start": 446.72,
+      "end": 453.08,
+      "text": "and destroyed. The key insight here is that all"
+    },
+    {
+      "i": 70,
+      "start": 453.08,
+      "end": 457.8,
+      "text": "these eknyas from diet regulation to prana integration"
+    },
+    {
+      "i": 71,
+      "start": 458.36,
+      "end": 465.48,
+      "text": "serve one purpose and that is the distortion of the inner"
+    },
+    {
+      "i": 72,
+      "start": 465.52,
+      "end": 469.84,
+      "text": "impurity making the mind fit for self knowledge."
+    },
+    {
+      "i": 73,
+      "start": 473.4,
+      "end": 480.52,
+      "text": "Now having completed the 30th verse, in the 31st verse, as I"
+    },
+    {
+      "i": 74,
+      "start": 480.52,
+      "end": 484.8,
+      "text": "said earlier, philosophically is a motivational seal."
+    },
+    {
+      "i": 75,
+      "start": 484.8,
+      "end": 494.32,
+      "text": "For by giving the result of it all the complete 25 to 30, which"
+    },
+    {
+      "i": 76,
+      "start": 494.32,
+      "end": 499.68,
+      "text": "has lifted all the five different etnyas and establishes"
+    },
+    {
+      "i": 77,
+      "start": 499.68,
+      "end": 504.32,
+      "text": "why etnya matters at the highest level, not for surga or worldly"
+    },
+    {
+      "i": 78,
+      "start": 504.32,
+      "end": 512.12,
+      "text": "fala or the fruits of action. In here the Daiba Etnya and"
+    },
+    {
+      "i": 79,
+      "start": 512.12,
+      "end": 520.0,
+      "text": "Karmakanda are addressed as the anantabat antabat."
+    },
+    {
+      "i": 80,
+      "start": 520.679,
+      "end": 524.6,
+      "text": "So what happens is that they are all limited in time and space S"
+    },
+    {
+      "i": 81,
+      "start": 524.6,
+      "end": 529.76,
+      "text": "Their routes are also limited. But for Brahma sanadhana, the"
+    },
+    {
+      "i": 82,
+      "start": 529.76,
+      "end": 534.96,
+      "text": "ethanol Brahman itself, Brahma. So that is where the"
+    },
+    {
+      "i": 83,
+      "start": 535.92,
+      "end": 538.6,
+      "text": "Brahmarapanam is being heading towards."
+    },
+    {
+      "i": 84,
+      "start": 539.68,
+      "end": 545.52,
+      "text": "So yatnya sishtamrada bujo yanti Brahma sanadhana nayam lokas"
+    },
+    {
+      "i": 85,
+      "start": 546.2,
+      "end": 552.2,
+      "text": "asya yatnyasya kutto Anya kuru sattamaha."
+    },
+    {
+      "i": 86,
+      "start": 554.48,
+      "end": 560.92,
+      "text": "The first declaration in this 31st verse is Yetna sishta"
+    },
+    {
+      "i": 87,
+      "start": 560.92,
+      "end": 564.68,
+      "text": "amritabujaha. So it is a compound of four"
+    },
+    {
+      "i": 88,
+      "start": 564.68,
+      "end": 572.2,
+      "text": "words, Yetna sishta amritabuja. The first two put together is"
+    },
+    {
+      "i": 89,
+      "start": 572.2,
+      "end": 575.92,
+      "text": "yetna. Sishta means the remnants or the"
+    },
+    {
+      "i": 90,
+      "start": 575.92,
+      "end": 580.6,
+      "text": "residue of a yetna of leftover abolition."
+    },
+    {
+      "i": 91,
+      "start": 581.8,
+      "end": 586.88,
+      "text": "In the Vedic term it is called uchishta after the fire has"
+    },
+    {
+      "i": 92,
+      "start": 586.88,
+      "end": 591.76,
+      "text": "received its portion, the sacred remnant that is consumed by the"
+    },
+    {
+      "i": 93,
+      "start": 591.76,
+      "end": 594.16,
+      "text": "priest and the yejamana as prasada."
+    },
+    {
+      "i": 94,
+      "start": 594.36,
+      "end": 600.2,
+      "text": "As a divine grace, this remnant is not a waste, but the most"
+    },
+    {
+      "i": 95,
+      "start": 600.2,
+      "end": 603.44,
+      "text": "sacred portion. The food that has been"
+    },
+    {
+      "i": 96,
+      "start": 603.44,
+      "end": 607.2,
+      "text": "consecrated through Echnya and transformed by the contact with"
+    },
+    {
+      "i": 97,
+      "start": 607.2,
+      "end": 613.28,
+      "text": "the divine fire is now treated as a as a gift from the Oregon,"
+    },
+    {
+      "i": 98,
+      "start": 613.28,
+      "end": 618.88,
+      "text": "a divine grace. Amrita is the immortality or the"
+    },
+    {
+      "i": 99,
+      "start": 618.88,
+      "end": 625.32,
+      "text": "deathlessness, the nectar of immortality, that which"
+    },
+    {
+      "i": 100,
+      "start": 625.32,
+      "end": 631.4,
+      "text": "transcends the cycle of birth and death, and this etnya"
+    },
+    {
+      "i": 101,
+      "start": 631.4,
+      "end": 634.68,
+      "text": "sishta, Amrita or the third third word."
+    },
+    {
+      "i": 102,
+      "start": 634.68,
+      "end": 638.24,
+      "text": "When when the third word is joined, Amrita is joined, it"
+    },
+    {
+      "i": 103,
+      "start": 638.24,
+      "end": 642.48,
+      "text": "will become the nectar or the immortal reminder of a etnya,"
+    },
+    {
+      "i": 104,
+      "start": 644.2,
+      "end": 648.68,
+      "text": "that is the etnya's reminder remnant, which itself is"
+    },
+    {
+      "i": 105,
+      "start": 648.68,
+      "end": 653.8,
+      "text": "immortal in nature. Buja means enjoy or experience"
+    },
+    {
+      "i": 106,
+      "start": 653.8,
+      "end": 658.8,
+      "text": "or eat. So Eknya samsishta Amrita buja"
+    },
+    {
+      "i": 107,
+      "start": 659.32,
+      "end": 664.4,
+      "text": "esna sista muruda bujaha, Those who eat, enjoy the immortal"
+    },
+    {
+      "i": 108,
+      "start": 664.4,
+      "end": 671.2,
+      "text": "remnant of Eknya. Now Sankarajya is reading this"
+    },
+    {
+      "i": 109,
+      "start": 671.2,
+      "end": 675.36,
+      "text": "into multi level reading at the GRA at the grassroot level as a"
+    },
+    {
+      "i": 110,
+      "start": 675.36,
+      "end": 679.28,
+      "text": "Vedic Eknya which is ritual and literal."
+    },
+    {
+      "i": 111,
+      "start": 680.64,
+      "end": 684.8,
+      "text": "Those who perform the Eknya and eat the prasada or the remnant"
+    },
+    {
+      "i": 112,
+      "start": 684.8,
+      "end": 690.12,
+      "text": "consecrated remnant which has contacted the fire and then is"
+    },
+    {
+      "i": 113,
+      "start": 690.12,
+      "end": 693.4,
+      "text": "the conventional Vedic understanding were the Yajamana"
+    },
+    {
+      "i": 114,
+      "start": 693.4,
+      "end": 700.2,
+      "text": "and the priest consume the sanctified leftover uchista at"
+    },
+    {
+      "i": 115,
+      "start": 700.2,
+      "end": 702.76,
+      "text": "the level 2 is the Karma Yoga level."
+    },
+    {
+      "i": 116,
+      "start": 704.68,
+      "end": 709.6,
+      "text": "Those who eat only what remains after Etna, The principle of"
+    },
+    {
+      "i": 117,
+      "start": 709.8,
+      "end": 714.4,
+      "text": "Etna Sista Sinasandha, which we saw it in the 3rd chapter,"
+    },
+    {
+      "i": 118,
+      "start": 715.44,
+      "end": 720.2,
+      "text": "Yestasishta sinasando mucchende sarva Kilbishahi."
+    },
+    {
+      "i": 119,
+      "start": 721.08,
+      "end": 725.16,
+      "text": "Those who eat the remnants of Etnya are freed from all"
+    },
+    {
+      "i": 120,
+      "start": 726.08,
+      "end": 730.08,
+      "text": "impurities. Kilbisha, the Karmayogi's act,"
+    },
+    {
+      "i": 121,
+      "start": 731.08,
+      "end": 736.8,
+      "text": "offers fruits as Etnya and takes only what naturally remains,"
+    },
+    {
+      "i": 122,
+      "start": 737.6,
+      "end": 741.52,
+      "text": "without eating the kala ghanshah or the desire for the fruit of"
+    },
+    {
+      "i": 123,
+      "start": 741.52,
+      "end": 748.24,
+      "text": "action, consuming only what prarabdha delivers as yedrichala"
+    },
+    {
+      "i": 124,
+      "start": 748.24,
+      "end": 751.76,
+      "text": "vasanturta as what comes by chance."
+    },
+    {
+      "i": 125,
+      "start": 752.8,
+      "end": 759.36,
+      "text": "So a Karma Yogi offers the fruits of action itself into the"
+    },
+    {
+      "i": 126,
+      "start": 759.44,
+      "end": 765.68,
+      "text": "Eknya as a Eknya and takes only what what is brought to him by"
+    },
+    {
+      "i": 127,
+      "start": 765.68,
+      "end": 770.8,
+      "text": "chance. The 3rd and the Advaitic level"
+    },
+    {
+      "i": 128,
+      "start": 770.8,
+      "end": 780.28,
+      "text": "which Sangrajarya advocates or is taking as the most primary 1."
+    },
+    {
+      "i": 129,
+      "start": 781.12,
+      "end": 785.52,
+      "text": "The Amrita that is the remnant of a Ecnya is not a physical"
+    },
+    {
+      "i": 130,
+      "start": 785.52,
+      "end": 794.12,
+      "text": "food, but the immortal recognition that is leftover"
+    },
+    {
+      "i": 131,
+      "start": 794.12,
+      "end": 800.44,
+      "text": "after Ecnya has consumed all. Kalmasha means yetna shabita"
+    },
+    {
+      "i": 132,
+      "start": 800.44,
+      "end": 806.32,
+      "text": "kalmasha, that is when the nyana yetna burns all karma."
+    },
+    {
+      "i": 133,
+      "start": 806.32,
+      "end": 812.96,
+      "text": "Bija means seed of action completely in the nyanagni on"
+    },
+    {
+      "i": 134,
+      "start": 812.96,
+      "end": 818.16,
+      "text": "the fire of knowledge. What remains Shifta is not any"
+    },
+    {
+      "i": 135,
+      "start": 818.56,
+      "end": 825.52,
+      "text": "new acquisition but ever present atman that was always there"
+    },
+    {
+      "i": 136,
+      "start": 825.52,
+      "end": 831.84,
+      "text": "beneath the impurities, the immortal Amrita self, luminous"
+    },
+    {
+      "i": 137,
+      "start": 831.84,
+      "end": 837.68,
+      "text": "Brahman that becomes the reminder when all avidya is"
+    },
+    {
+      "i": 138,
+      "start": 837.68,
+      "end": 844.8,
+      "text": "burnt in the knowledge or yanagni, that yetnya, the yetnya"
+    },
+    {
+      "i": 139,
+      "start": 844.8,
+      "end": 851.36,
+      "text": "sista Amrita buja are those who taste the immortal remainder or"
+    },
+    {
+      "i": 140,
+      "start": 851.36,
+      "end": 854.6,
+      "text": "who abide in the recognition of the deathless Hartman."
+    },
+    {
+      "i": 141,
+      "start": 856.48,
+      "end": 861.6,
+      "text": "That is what remains when all impurities are consumed in the"
+    },
+    {
+      "i": 142,
+      "start": 861.6,
+      "end": 867.88,
+      "text": "ethnia of knowledge. So Sankaracharya, for him the"
+    },
+    {
+      "i": 143,
+      "start": 867.88,
+      "end": 872.56,
+      "text": "third devil makes Ethnishta Ambradabuja synonymous with"
+    },
+    {
+      "i": 144,
+      "start": 872.56,
+      "end": 878.28,
+      "text": "Jeevan Mukta state, the one who abides in the recognition of"
+    },
+    {
+      "i": 145,
+      "start": 878.32,
+      "end": 883.72,
+      "text": "Amrita Atman, that is the eternal remain remnant of all"
+    },
+    {
+      "i": 146,
+      "start": 883.72,
+      "end": 888.56,
+      "text": "Yetnia. They consume or they eat this"
+    },
+    {
+      "i": 147,
+      "start": 888.56,
+      "end": 894.44,
+      "text": "nectar of Amrita, of immortality, of Atman in the"
+    },
+    {
+      "i": 148,
+      "start": 894.44,
+      "end": 897.76,
+      "text": "sense of continuous, in the sense of continuously"
+    },
+    {
+      "i": 149,
+      "start": 898.64,
+      "end": 903.24,
+      "text": "experiencing, continuously living in the recognition of the"
+    },
+    {
+      "i": 150,
+      "start": 903.24,
+      "end": 908.48,
+      "text": "immortal Brahman nithyatripta perpetually nourished by the"
+    },
+    {
+      "i": 151,
+      "start": 909.24,
+      "end": 916.2,
+      "text": "nectar of Atma recognition. So the etnyas nyana etnya, those"
+    },
+    {
+      "i": 152,
+      "start": 916.2,
+      "end": 921.8,
+      "text": "who are doing that when all avidya is burned in the in the"
+    },
+    {
+      "i": 153,
+      "start": 921.8,
+      "end": 927.76,
+      "text": "knowledge were the identification with the body"
+    },
+    {
+      "i": 154,
+      "start": 927.76,
+      "end": 935.76,
+      "text": "mind complex is seen as a adhyasa or a superimposition."
+    },
+    {
+      "i": 155,
+      "start": 935.76,
+      "end": 940.6,
+      "text": "When the ignorance was there that ignorance 1 is burnt."
+    },
+    {
+      "i": 156,
+      "start": 940.96,
+      "end": 945.0,
+      "text": "They do not identify with the body mind complex anymore as the"
+    },
+    {
+      "i": 157,
+      "start": 945.0,
+      "end": 948.6,
+      "text": "individuality. They see that I am the"
+    },
+    {
+      "i": 158,
+      "start": 948.6,
+      "end": 954.8,
+      "text": "nithyatripta atma eternal and without birth or death."
+    },
+    {
+      "i": 159,
+      "start": 955.76,
+      "end": 964.08,
+      "text": "The Akarta non dual non enjoyers of the nature of Atma Yanti"
+    },
+    {
+      "i": 160,
+      "start": 964.08,
+      "end": 969.36,
+      "text": "Brahma, Sanathana, the destination for those people is"
+    },
+    {
+      "i": 161,
+      "start": 969.36,
+      "end": 975.24,
+      "text": "they go to the eternal Brahman, the Yatnya Simstamurthabuja,"
+    },
+    {
+      "i": 162,
+      "start": 975.28,
+      "end": 977.96,
+      "text": "attain, reach or go to the Brahman."
+    },
+    {
+      "i": 163,
+      "start": 978.56,
+      "end": 982.24,
+      "text": "That is, Sanathana means eternal, primordial, ancient,"
+    },
+    {
+      "i": 164,
+      "start": 982.24,
+      "end": 987.24,
+      "text": "without a beginning. The word Sanathana is eternal,"
+    },
+    {
+      "i": 165,
+      "start": 987.44,
+      "end": 991.6,
+      "text": "perpetually existing, Sana plus Tana."
+    },
+    {
+      "i": 166,
+      "start": 993.0,
+      "end": 998.92,
+      "text": "Sana is always Sana means extended or never ending,"
+    },
+    {
+      "i": 167,
+      "start": 1000.36,
+      "end": 1005.12,
+      "text": "without the beginning or end, primordial, that which extends"
+    },
+    {
+      "i": 168,
+      "start": 1005.12,
+      "end": 1009.08,
+      "text": "always, that which is always being present always."
+    },
+    {
+      "i": 169,
+      "start": 1011.08,
+      "end": 1017.12,
+      "text": "It is as a qualifier of Brahman Brahmasanadana, the eternal"
+    },
+    {
+      "i": 170,
+      "start": 1017.12,
+      "end": 1023.2,
+      "text": "Brahman, emphasizing the non temporal, non contingent nature"
+    },
+    {
+      "i": 171,
+      "start": 1023.2,
+      "end": 1027.119,
+      "text": "of the destination. Unlike the Swarga which is the"
+    },
+    {
+      "i": 172,
+      "start": 1027.119,
+      "end": 1035.28,
+      "text": "antavat finite duration, the in the in the yes the earlier"
+    },
+    {
+      "i": 173,
+      "start": 1035.28,
+      "end": 1041.359,
+      "text": "yognas, Brahmasanadhana is not produced nor destroyed nor"
+    },
+    {
+      "i": 174,
+      "start": 1041.359,
+      "end": 1046.119,
+      "text": "exhausted. It is the primordial ever"
+    },
+    {
+      "i": 175,
+      "start": 1046.119,
+      "end": 1052.92,
+      "text": "existing ground that was always present, already present, and"
+    },
+    {
+      "i": 176,
+      "start": 1052.92,
+      "end": 1058.0,
+      "text": "they were present merely being recognized by the ethne sista"
+    },
+    {
+      "i": 177,
+      "start": 1058.0,
+      "end": 1061.56,
+      "text": "Amruta bujaha, those who have done the nyana Ethne"
+    },
+    {
+      "i": 178,
+      "start": 1064.08,
+      "end": 1066.96,
+      "text": "Sankaracharya reads Yanti means to go."
+    },
+    {
+      "i": 179,
+      "start": 1067.24,
+      "end": 1075.12,
+      "text": "They go through the same advaitic definition of mam Yeti."
+    },
+    {
+      "i": 180,
+      "start": 1077.04,
+      "end": 1084.28,
+      "text": "They reach me, or they may they abide in me."
+    },
+    {
+      "i": 181,
+      "start": 1084.48,
+      "end": 1090.92,
+      "text": "This we saw it in the ninth verse of the 4th chapter or in"
+    },
+    {
+      "i": 182,
+      "start": 1090.92,
+      "end": 1093.6,
+      "text": "the 24th verse. Brahmayivatayana Gandhavya."
+    },
+    {
+      "i": 183,
+      "start": 1094.8,
+      "end": 1100.68,
+      "text": "It is not a spatial travel towards an absent destination"
+    },
+    {
+      "i": 184,
+      "start": 1100.68,
+      "end": 1106.84,
+      "text": "but a Navir bhava, a disclosure or a revelation of what was"
+    },
+    {
+      "i": 185,
+      "start": 1106.84,
+      "end": 1111.56,
+      "text": "always present. This is very important as per"
+    },
+    {
+      "i": 186,
+      "start": 1111.56,
+      "end": 1116.4,
+      "text": "exceed at What we have to understand is what does Nyayana"
+    },
+    {
+      "i": 187,
+      "start": 1116.4,
+      "end": 1121.88,
+      "text": "reveal? Nyaya is not an action."
+    },
+    {
+      "i": 188,
+      "start": 1123.08,
+      "end": 1129.76,
+      "text": "Knowing is not an action. We call it as Vastutandra means"
+    },
+    {
+      "i": 189,
+      "start": 1130.32,
+      "end": 1136.6,
+      "text": "knowing anything as it is that knowing something is not an"
+    },
+    {
+      "i": 190,
+      "start": 1136.6,
+      "end": 1141.84,
+      "text": "action of a you know intellect or a mind or a anything."
+    },
+    {
+      "i": 191,
+      "start": 1142.56,
+      "end": 1146.44,
+      "text": "That object itself is self effulgent in nature."
+    },
+    {
+      "i": 192,
+      "start": 1146.88,
+      "end": 1150.96,
+      "text": "So when I see a doll, when I see a dog, when I see a fire, or"
+    },
+    {
+      "i": 193,
+      "start": 1150.96,
+      "end": 1156.92,
+      "text": "when I see something, I have don't have to do any extra work"
+    },
+    {
+      "i": 194,
+      "start": 1156.92,
+      "end": 1162.84,
+      "text": "to know it. The object is known as it is"
+    },
+    {
+      "i": 195,
+      "start": 1162.84,
+      "end": 1166.24,
+      "text": "what it is. But what happens to us is that"
+    },
+    {
+      "i": 196,
+      "start": 1167.6,
+      "end": 1172.92,
+      "text": "we get carried away by the quality, adjective or"
+    },
+    {
+      "i": 197,
+      "start": 1172.92,
+      "end": 1176.6,
+      "text": "description depending upon the name and form."
+    },
+    {
+      "i": 198,
+      "start": 1176.6,
+      "end": 1186.64,
+      "text": "For the transactional purpose, we do not know the reality"
+    },
+    {
+      "i": 199,
+      "start": 1186.68,
+      "end": 1193.64,
+      "text": "behind the name and form. When I say I see a flower, the"
+    },
+    {
+      "i": 200,
+      "start": 1193.64,
+      "end": 1197.96,
+      "text": "moment I see a flower, I want to categorize it, whether it is a"
+    },
+    {
+      "i": 201,
+      "start": 1197.96,
+      "end": 1205.76,
+      "text": "Lily or a, you know, Tulip or a rose or Lotus, whatever it may"
+    },
+    {
+      "i": 202,
+      "start": 1205.76,
+      "end": 1210.6,
+      "text": "be, that category I want. So the name, categorization, all"
+    },
+    {
+      "i": 203,
+      "start": 1210.6,
+      "end": 1214.76,
+      "text": "these things happen. Not only that, then I go for the"
+    },
+    {
+      "i": 204,
+      "start": 1214.76,
+      "end": 1217.68,
+      "text": "colour of it, then I go for the fragrance of it."
+    },
+    {
+      "i": 205,
+      "start": 1218.16,
+      "end": 1223.24,
+      "text": "Then I look at it, whether it is a fresh one or whether it is old"
+    },
+    {
+      "i": 206,
+      "start": 1223.24,
+      "end": 1226.72,
+      "text": "one, whether there is going to wither away or whether it is"
+    },
+    {
+      "i": 207,
+      "start": 1226.72,
+      "end": 1233.04,
+      "text": "going to remain all things other than the existence and the"
+    },
+    {
+      "i": 208,
+      "start": 1233.04,
+      "end": 1235.64,
+      "text": "awareness with which we knew the flower."
+    },
+    {
+      "i": 209,
+      "start": 1237.04,
+      "end": 1240.6,
+      "text": "Only when the existence and the awareness in the flower was"
+    },
+    {
+      "i": 210,
+      "start": 1240.6,
+      "end": 1244.8,
+      "text": "present, we even recognized its presence."
+    },
+    {
+      "i": 211,
+      "start": 1246.64,
+      "end": 1250.64,
+      "text": "That is not at all taken as an important factor by all of us."
+    },
+    {
+      "i": 212,
+      "start": 1253.48,
+      "end": 1259.08,
+      "text": "So when the impurities are removed in the Tyanaekmya means"
+    },
+    {
+      "i": 213,
+      "start": 1259.76,
+      "end": 1266.56,
+      "text": "our attention into the name and form and the quality category"
+    },
+    {
+      "i": 214,
+      "start": 1266.56,
+      "end": 1270.56,
+      "text": "etcetera, etcetera, these are the impurities which we have"
+    },
+    {
+      "i": 215,
+      "start": 1270.56,
+      "end": 1280.28,
+      "text": "added on to it. The pure flower is existence of"
+    },
+    {
+      "i": 216,
+      "start": 1280.28,
+      "end": 1287.56,
+      "text": "that and the awareness which I cannot say that it is unique to"
+    },
+    {
+      "i": 217,
+      "start": 1287.56,
+      "end": 1292.28,
+      "text": "the flower. No, but it is in that the flower"
+    },
+    {
+      "i": 218,
+      "start": 1292.28,
+      "end": 1298.16,
+      "text": "appears as a transactional object."
+    },
+    {
+      "i": 219,
+      "start": 1299.92,
+      "end": 1304.28,
+      "text": "So this is what is called the Avir Bhava, or the revelation of"
+    },
+    {
+      "i": 220,
+      "start": 1304.28,
+      "end": 1308.44,
+      "text": "the what is called here what is already present."
+    },
+    {
+      "i": 221,
+      "start": 1309.36,
+      "end": 1314.2,
+      "text": "So when Yanti Brahma Sanatanam, they arrive at the recognition"
+    },
+    {
+      "i": 222,
+      "start": 1314.2,
+      "end": 1319.08,
+      "text": "of the eternal Brahman or the Aparaksha Anubhava, Anubhava of"
+    },
+    {
+      "i": 223,
+      "start": 1319.08,
+      "end": 1330.72,
+      "text": "Sachitananda, as their own swarupa, Our swarupa, when we"
+    },
+    {
+      "i": 224,
+      "start": 1330.72,
+      "end": 1337.52,
+      "text": "are doing this Yana Atmi, the SAT chit and Ananda is our"
+    },
+    {
+      "i": 225,
+      "start": 1337.52,
+      "end": 1340.68,
+      "text": "swarupa. I exist, I am."
+    },
+    {
+      "i": 226,
+      "start": 1341.84,
+      "end": 1349.68,
+      "text": "I am aware of my own existence, that is the chit aspect, and I"
+    },
+    {
+      "i": 227,
+      "start": 1349.68,
+      "end": 1352.52,
+      "text": "am the happiest when I am all by myself."
+    },
+    {
+      "i": 228,
+      "start": 1355.2,
+      "end": 1361.52,
+      "text": "The Otherness brings limitation into me, either by body, mind,"
+    },
+    {
+      "i": 229,
+      "start": 1361.52,
+      "end": 1364.6,
+      "text": "intellect, or the presence of others."
+    },
+    {
+      "i": 230,
+      "start": 1365.2,
+      "end": 1370.88,
+      "text": "But when I am all by myself, in me, the only example we can say"
+    },
+    {
+      "i": 231,
+      "start": 1370.88,
+      "end": 1374.92,
+      "text": "is the deep sleep there. There is no nothing, nothing"
+    },
+    {
+      "i": 232,
+      "start": 1374.92,
+      "end": 1378.48,
+      "text": "other than that. So when the Otherness is not"
+    },
+    {
+      "i": 233,
+      "start": 1378.48,
+      "end": 1386.92,
+      "text": "there is my Ananda that is real true happiness or the bliss and"
+    },
+    {
+      "i": 234,
+      "start": 1386.92,
+      "end": 1393.08,
+      "text": "that recognition or revelation of that as my own Swarupa is the"
+    },
+    {
+      "i": 235,
+      "start": 1393.08,
+      "end": 1395.32,
+      "text": "aparakshanabuti or Aparakshanabava."
+    },
+    {
+      "i": 236,
+      "start": 1399.8,
+      "end": 1406.68,
+      "text": "This swarupa which was never absent even before even right"
+    },
+    {
+      "i": 237,
+      "start": 1406.68,
+      "end": 1413.08,
+      "text": "now this very moment but merely covered by the impurities or"
+    },
+    {
+      "i": 238,
+      "start": 1413.08,
+      "end": 1422.88,
+      "text": "avidya until the etnya consumes the avidya and the self"
+    },
+    {
+      "i": 239,
+      "start": 1423.28,
+      "end": 1428.4,
+      "text": "effalgent atma or my swarupa is known to me."
+    },
+    {
+      "i": 240,
+      "start": 1430.04,
+      "end": 1434.68,
+      "text": "It is not that I was not there like the 10th man example."
+    },
+    {
+      "i": 241,
+      "start": 1437.04,
+      "end": 1442.76,
+      "text": "So this is what the whole purpose of Nyana Yagna."
+    },
+    {
+      "i": 242,
+      "start": 1445.36,
+      "end": 1449.12,
+      "text": "The qualifier Sanathana is specifically chosen to contrast"
+    },
+    {
+      "i": 243,
+      "start": 1449.12,
+      "end": 1453.88,
+      "text": "with Antwatwala, the finite results of Karmakanda and"
+    },
+    {
+      "i": 244,
+      "start": 1453.88,
+      "end": 1457.6,
+      "text": "Sakama. Yetnya Surga is not Sanathana."
+    },
+    {
+      "i": 245,
+      "start": 1458.36,
+      "end": 1460.72,
+      "text": "Brahmaloka also is not Sanathana."
+    },
+    {
+      "i": 246,
+      "start": 1464.08,
+      "end": 1468.12,
+      "text": "Even the Brahma of the Brahmaloka is subject to"
+    },
+    {
+      "i": 247,
+      "start": 1468.12,
+      "end": 1470.6,
+      "text": "Pralaya. Bhagavan will Krishna will say"
+    },
+    {
+      "i": 248,
+      "start": 1470.6,
+      "end": 1476.8,
+      "text": "in the 8th chapter, 17th verse only Brahman not Brahma."
+    },
+    {
+      "i": 249,
+      "start": 1477.4,
+      "end": 1484.76,
+      "text": "Brahman is sanatana Avaya Akshara Nithya in the"
+    },
+    {
+      "i": 250,
+      "start": 1484.8,
+      "end": 1487.32,
+      "text": "destination post called Ganthavyam."
+    },
+    {
+      "i": 251,
+      "start": 1487.8,
+      "end": 1492.12,
+      "text": "That is so. This word Ganthavyam has got a"
+    },
+    {
+      "i": 252,
+      "start": 1492.12,
+      "end": 1495.84,
+      "text": "beauty in it. Those who are familiar with"
+    },
+    {
+      "i": 253,
+      "start": 1495.84,
+      "end": 1503.12,
+      "text": "Sanskrit, the Gamadhu is also used for here Gandhavyam."
+    },
+    {
+      "i": 254,
+      "start": 1504.2,
+      "end": 1510.24,
+      "text": "But gum also has got knowledge also as I say."
+    },
+    {
+      "i": 255,
+      "start": 1510.84,
+      "end": 1515.32,
+      "text": "So Gandhavyam doesn't means to be reaching it is to be knowing"
+    },
+    {
+      "i": 256,
+      "start": 1515.32,
+      "end": 1521.36,
+      "text": "also. So the Etna, diverse Etnas all"
+    },
+    {
+      "i": 257,
+      "start": 1521.36,
+      "end": 1526.08,
+      "text": "converge towards the single Sanadhana destination, each Etna"
+    },
+    {
+      "i": 258,
+      "start": 1526.08,
+      "end": 1530.76,
+      "text": "consuming more and more impurities, each consumption"
+    },
+    {
+      "i": 259,
+      "start": 1530.76,
+      "end": 1537.84,
+      "text": "revealing more and more towards the immortal Brahman that was"
+    },
+    {
+      "i": 260,
+      "start": 1537.84,
+      "end": 1545.72,
+      "text": "always the beneath them. Then that nayam loko asya nayam"
+    },
+    {
+      "i": 261,
+      "start": 1545.72,
+      "end": 1561.36,
+      "text": "lokosti ayajanasya kuto yetnya kuto nya So now I am."
+    },
+    {
+      "i": 262,
+      "start": 1562.12,
+      "end": 1573.04,
+      "text": "It is not even this world lokaha asti bill exist ayatnesia or a"
+    },
+    {
+      "i": 263,
+      "start": 1573.04,
+      "end": 1581.04,
+      "text": "non practitioner of acne. So Ayatnesia is of Agnani that"
+    },
+    {
+      "i": 264,
+      "start": 1581.44,
+      "end": 1585.72,
+      "text": "the ignorant person then genitive non possession then"
+    },
+    {
+      "i": 265,
+      "start": 1585.76,
+      "end": 1591.0,
+      "text": "that thing is that one who performs no ecchya, he doesn't"
+    },
+    {
+      "i": 266,
+      "start": 1591.0,
+      "end": 1595.0,
+      "text": "know even what is a ecchya for him."
+    },
+    {
+      "i": 267,
+      "start": 1595.64,
+      "end": 1601.68,
+      "text": "Now I am Lokasti, not only he, this world, this Lokaha Manisha"
+    },
+    {
+      "i": 268,
+      "start": 1601.68,
+      "end": 1606.56,
+      "text": "loka, human world where the ecchya is possible because of"
+    },
+    {
+      "i": 269,
+      "start": 1606.56,
+      "end": 1609.6,
+      "text": "the human form, even that doesn't exist."
+    },
+    {
+      "i": 270,
+      "start": 1609.6,
+      "end": 1615.4,
+      "text": "Him like he is like an animal. The ayatni does not even"
+    },
+    {
+      "i": 271,
+      "start": 1615.4,
+      "end": 1620.08,
+      "text": "possess, properly possess this world, let alone higher world."
+    },
+    {
+      "i": 272,
+      "start": 1621.92,
+      "end": 1627.32,
+      "text": "So Nayam Lokaha, this statement is not a curse or a divine"
+    },
+    {
+      "i": 273,
+      "start": 1627.32,
+      "end": 1631.36,
+      "text": "punishment but a natural conscience following from the"
+    },
+    {
+      "i": 274,
+      "start": 1631.36,
+      "end": 1637.32,
+      "text": "structure of existence in the Vedic conventional."
+    },
+    {
+      "i": 275,
+      "start": 1637.92,
+      "end": 1644.28,
+      "text": "The Vedic view the social fabric is sustained by Etna which was"
+    },
+    {
+      "i": 276,
+      "start": 1644.28,
+      "end": 1647.68,
+      "text": "which we studied in the 3rd chapter 10 to 14 verse"
+    },
+    {
+      "i": 277,
+      "start": 1647.68,
+      "end": 1650.0,
+      "text": "establishing that cosmic Etna cycle."
+    },
+    {
+      "i": 278,
+      "start": 1651.44,
+      "end": 1656.92,
+      "text": "Arjunya, the rain, the food, the being, the action, Etna and"
+    },
+    {
+      "i": 279,
+      "start": 1656.92,
+      "end": 1659.76,
+      "text": "Brahman, That is the cosmic cycle which we send."
+    },
+    {
+      "i": 280,
+      "start": 1660.56,
+      "end": 1664.92,
+      "text": "One who takes from this cycle without contributing to the"
+    },
+    {
+      "i": 281,
+      "start": 1664.92,
+      "end": 1669.76,
+      "text": "cycle, who eats without offering, is called a Stena."
+    },
+    {
+      "i": 282,
+      "start": 1671.36,
+      "end": 1676.12,
+      "text": "He is called a steep thief who steals from the cosmic order."
+    },
+    {
+      "i": 283,
+      "start": 1677.2,
+      "end": 1681.08,
+      "text": "Such a one, such 1 does not truly have this world in the"
+    },
+    {
+      "i": 284,
+      "start": 1681.08,
+      "end": 1685.24,
+      "text": "sense that rifle participation in the cosmic economy of"
+    },
+    {
+      "i": 285,
+      "start": 1685.8,
+      "end": 1689.6,
+      "text": "Vietnam. They consume without offering,"
+    },
+    {
+      "i": 286,
+      "start": 1689.6,
+      "end": 1695.76,
+      "text": "disrupting the cycle there. This world, Ichaloka, is"
+    },
+    {
+      "i": 287,
+      "start": 1695.76,
+      "end": 1701.4,
+      "text": "therefore not genuinely theirs. They inhabit it as a parasite."
+    },
+    {
+      "i": 288,
+      "start": 1702.68,
+      "end": 1707.64,
+      "text": "So they are called parasites, A cosmic order in a cosmic order"
+    },
+    {
+      "i": 289,
+      "start": 1707.72,
+      "end": 1712.36,
+      "text": "of the parasite of the parasite of the cosmic order, rather than"
+    },
+    {
+      "i": 290,
+      "start": 1712.36,
+      "end": 1717.32,
+      "text": "a contributing participant at the advaitic level."
+    },
+    {
+      "i": 291,
+      "start": 1718.08,
+      "end": 1724.76,
+      "text": "Ayat Ayatni, one who does not do the Ecnya is the one who never"
+    },
+    {
+      "i": 292,
+      "start": 1724.76,
+      "end": 1730.2,
+      "text": "performs any form of Ecnya is 1 whose Kalmasha is never"
+    },
+    {
+      "i": 293,
+      "start": 1730.2,
+      "end": 1735.96,
+      "text": "consumed. With Kalmasha intact, the Avaran"
+    },
+    {
+      "i": 294,
+      "start": 1735.96,
+      "end": 1740.48,
+      "text": "of Havidya remains thick. The Atman self luminosity"
+    },
+    {
+      "i": 295,
+      "start": 1740.48,
+      "end": 1745.8,
+      "text": "remains clouded and veiled. Karthratu Abhimana of the"
+    },
+    {
+      "i": 296,
+      "start": 1745.92,
+      "end": 1753.36,
+      "text": "Hungara, the ego and the desire driven action Karmabanda"
+    },
+    {
+      "i": 297,
+      "start": 1753.36,
+      "end": 1757.36,
+      "text": "accumulates continuously pushing them again and again to birth"
+    },
+    {
+      "i": 298,
+      "start": 1757.36,
+      "end": 1760.52,
+      "text": "and death. For such a person, this world"
+    },
+    {
+      "i": 299,
+      "start": 1760.6,
+      "end": 1764.4,
+      "text": "Ayam loga mean full, rich, meaningful human existence."
+    },
+    {
+      "i": 300,
+      "start": 1764.84,
+      "end": 1768.68,
+      "text": "That is possible when Eknya progressively removes the"
+    },
+    {
+      "i": 301,
+      "start": 1768.72,
+      "end": 1773.0,
+      "text": "impurity and reveals the immortal Atman."
+    },
+    {
+      "i": 302,
+      "start": 1775.76,
+      "end": 1779.44,
+      "text": "But that does not truly exist because they are not doing this"
+    },
+    {
+      "i": 303,
+      "start": 1780.68,
+      "end": 1784.24,
+      "text": "in the advaitic sense. They inhabit the human world"
+    },
+    {
+      "i": 304,
+      "start": 1784.24,
+      "end": 1788.32,
+      "text": "biologically but misses it philosophical significance."
+    },
+    {
+      "i": 305,
+      "start": 1790.72,
+      "end": 1794.4,
+      "text": "Therefore, their Manisha Janma, human birth is described in the"
+    },
+    {
+      "i": 306,
+      "start": 1794.4,
+      "end": 1799.52,
+      "text": "Vedantic tradition as Durlaba, extremely rare and precise,"
+    },
+    {
+      "i": 307,
+      "start": 1799.52,
+      "end": 1805.8,
+      "text": "precious because it offers a unique opportunity for those who"
+    },
+    {
+      "i": 308,
+      "start": 1805.84,
+      "end": 1809.2,
+      "text": "want to do Eknya and actain Nyana."
+    },
+    {
+      "i": 309,
+      "start": 1810.44,
+      "end": 1815.68,
+      "text": "Without etnya, this thurlaba manusha janma, this rare human"
+    },
+    {
+      "i": 310,
+      "start": 1815.68,
+      "end": 1820.76,
+      "text": "life is wasted. The ayatni, the one who does not"
+    },
+    {
+      "i": 311,
+      "start": 1820.76,
+      "end": 1825.48,
+      "text": "do the Etnya, he does not truly have this world in the sense of"
+    },
+    {
+      "i": 312,
+      "start": 1826.0,
+      "end": 1830.68,
+      "text": "living in need to fulfill the Etnya reached potential."
+    },
+    {
+      "i": 313,
+      "start": 1832.6,
+      "end": 1837.52,
+      "text": "Then what to talk about the others Kutu annya, if this is"
+    },
+    {
+      "i": 314,
+      "start": 1837.56,
+      "end": 1841.6,
+      "text": "itself is not them for their the higher worlds you know much"
+    },
+    {
+      "i": 315,
+      "start": 1841.6,
+      "end": 1845.88,
+      "text": "lesser the how much less the other world is a rhetorical"
+    },
+    {
+      "i": 316,
+      "start": 1845.88,
+      "end": 1853.08,
+      "text": "question and Arjuna is called Kuru sattama, the best of the"
+    },
+    {
+      "i": 317,
+      "start": 1853.08,
+      "end": 1857.48,
+      "text": "Kurus by Krishna in this one Kuru sattama."
+    },
+    {
+      "i": 318,
+      "start": 1859.04,
+      "end": 1862.68,
+      "text": "So the deepest reading intensifies the Amritat Tum, or"
+    },
+    {
+      "i": 319,
+      "start": 1862.68,
+      "end": 1868.52,
+      "text": "in the ethnicist Amritat Gujaha, the immortal self luminous"
+    },
+    {
+      "i": 320,
+      "start": 1868.52,
+      "end": 1874.36,
+      "text": "ground that is the only true remnant of Etnya, when all"
+    },
+    {
+      "i": 321,
+      "start": 1874.36,
+      "end": 1876.92,
+      "text": "Kalmasha impurities have been consumed."
+    },
+    {
+      "i": 322,
+      "start": 1878.32,
+      "end": 1881.52,
+      "text": "The ordinary. In the ordinary Etnya, the sista"
+    },
+    {
+      "i": 323,
+      "start": 1881.52,
+      "end": 1886.28,
+      "text": "remnant is perishable food Anna consumed by the priest and"
+    },
+    {
+      "i": 324,
+      "start": 1886.28,
+      "end": 1893.36,
+      "text": "regenerated by the next harvest. In the Nyana Etnya, the sista or"
+    },
+    {
+      "i": 325,
+      "start": 1893.36,
+      "end": 1897.84,
+      "text": "the remnant is Amruta, immortality, that is the"
+    },
+    {
+      "i": 326,
+      "start": 1897.84,
+      "end": 1904.24,
+      "text": "deathless atman, consumed in the sense of directly experienced."
+    },
+    {
+      "i": 327,
+      "start": 1904.48,
+      "end": 1908.32,
+      "text": "When the word bujja is used, it is not that it is something to"
+    },
+    {
+      "i": 328,
+      "start": 1908.32,
+      "end": 1914.04,
+      "text": "be consumed by the body, but it is directly experienced beyond"
+    },
+    {
+      "i": 329,
+      "start": 1914.04,
+      "end": 1917.44,
+      "text": "the body of the swarupa as one's own swarupa."
+    },
+    {
+      "i": 330,
+      "start": 1918.48,
+      "end": 1923.08,
+      "text": "This Amrita shifta is Sanatana, that is what is eternal, never"
+    },
+    {
+      "i": 331,
+      "start": 1923.08,
+      "end": 1927.8,
+      "text": "exhausted, the infinite reminder of the infinite, the infinite"
+    },
+    {
+      "i": 332,
+      "start": 1927.8,
+      "end": 1930.6,
+      "text": "reminder of the finite dissolution of Brahman fire."
+    },
+    {
+      "i": 333,
+      "start": 1932.92,
+      "end": 1937.28,
+      "text": "Yatya consumes the kalmasha or impurities."
+    },
+    {
+      "i": 334,
+      "start": 1937.28,
+      "end": 1942.36,
+      "text": "What remains when all impurities is consumed is the immortal"
+    },
+    {
+      "i": 335,
+      "start": 1942.36,
+      "end": 1948.76,
+      "text": "Atman, no longer covered by any impurity, the yatya sista,"
+    },
+    {
+      "i": 336,
+      "start": 1948.76,
+      "end": 1954.32,
+      "text": "Amrita guja. They eat this eternity by aiding"
+    },
+    {
+      "i": 337,
+      "start": 1955.56,
+      "end": 1960.56,
+      "text": "no by abiding in the recognition and thereby Yanti Brahma"
+    },
+    {
+      "i": 338,
+      "start": 1960.56,
+      "end": 1963.12,
+      "text": "Sanathana. They recognize this eternal"
+    },
+    {
+      "i": 339,
+      "start": 1963.12,
+      "end": 1971.36,
+      "text": "Brahman as their own Swarupa. The Iha and para 2 words are"
+    },
+    {
+      "i": 340,
+      "start": 1971.36,
+      "end": 1975.8,
+      "text": "used in this verse. Iha means in this world para,"
+    },
+    {
+      "i": 341,
+      "start": 1976.32,
+      "end": 1980.88,
+      "text": "the other world, establishing Yetnya as a necessary for"
+    },
+    {
+      "i": 342,
+      "start": 1980.88,
+      "end": 1983.04,
+      "text": "complete existence at all levels."
+    },
+    {
+      "i": 343,
+      "start": 1984.44,
+      "end": 1988.2,
+      "text": "Yavaharika completeness, Ihaloka, participation in the"
+    },
+    {
+      "i": 344,
+      "start": 1988.2,
+      "end": 1992.04,
+      "text": "cosmic ecnya cycle that sustained the social, ecological"
+    },
+    {
+      "i": 345,
+      "start": 1992.04,
+      "end": 1998.68,
+      "text": "and cosmic order without which even human world is not properly"
+    },
+    {
+      "i": 346,
+      "start": 1999.0,
+      "end": 2003.16,
+      "text": "enjoyed. Paramartika completeness, our"
+    },
+    {
+      "i": 347,
+      "start": 2003.16,
+      "end": 2007.0,
+      "text": "Brahmasanathana, the recognition of the ethanol brahmanas."
+    },
+    {
+      "i": 348,
+      "start": 2007.0,
+      "end": 2010.24,
+      "text": "Once on Swarupa. It is the ultimate para."
+    },
+    {
+      "i": 349,
+      "start": 2012.76,
+      "end": 2019.84,
+      "text": "The non Ethna doing person loses both the ethna Vida the one."
+    },
+    {
+      "i": 350,
+      "start": 2019.84,
+      "end": 2024.24,
+      "text": "No one who does the ethna gains both and gains the para."
+    },
+    {
+      "i": 351,
+      "start": 2024.24,
+      "end": 2029.4,
+      "text": "As the finite ground within which this world is also"
+    },
+    {
+      "i": 352,
+      "start": 2029.4,
+      "end": 2033.84,
+      "text": "properly situated. So this world is not outside his"
+    },
+    {
+      "i": 353,
+      "start": 2033.84,
+      "end": 2035.6,
+      "text": "praviri. That is why he is called a"
+    },
+    {
+      "i": 354,
+      "start": 2035.6,
+      "end": 2038.92,
+      "text": "Jeevan Mukta. When Brahma Sanadhana is"
+    },
+    {
+      "i": 355,
+      "start": 2038.92,
+      "end": 2042.48,
+      "text": "attained, I am Lokaha. This world is also properly"
+    },
+    {
+      "i": 356,
+      "start": 2042.96,
+      "end": 2051.08,
+      "text": "enjoyed by the Novaro Brahman, seen as a Vivartha Brahman, the"
+    },
+    {
+      "i": 357,
+      "start": 2051.08,
+      "end": 2056.679,
+      "text": "cosmic Etna of Parameshwara's Atma Mahaya, fully owned by"
+    },
+    {
+      "i": 358,
+      "start": 2056.679,
+      "end": 2058.679,
+      "text": "one's own recognition in this ground."
+    },
+    {
+      "i": 359,
+      "start": 2059.679,
+      "end": 2064.04,
+      "text": "So when the Jivanmukta realizes and abides in the Atman, he is"
+    },
+    {
+      "i": 360,
+      "start": 2064.04,
+      "end": 2069.719,
+      "text": "not seeing this world as how we see it in our transactional."
+    },
+    {
+      "i": 361,
+      "start": 2069.719,
+      "end": 2075.52,
+      "text": "We have Harika sense. He sees it as a vivarta or a"
+    },
+    {
+      "i": 362,
+      "start": 2075.52,
+      "end": 2079.36,
+      "text": "appearance in the consciousness or awareness."
+    },
+    {
+      "i": 363,
+      "start": 2081.28,
+      "end": 2088.199,
+      "text": "The Sanadhana Brahman as a qualifier for Brahman is This"
+    },
+    {
+      "i": 364,
+      "start": 2088.199,
+      "end": 2092.84,
+      "text": "verse creates A deliberate echo with the Avatara Pragarana which"
+    },
+    {
+      "i": 365,
+      "start": 2092.84,
+      "end": 2097.32,
+      "text": "we started with third third verse where it was declared that"
+    },
+    {
+      "i": 366,
+      "start": 2097.32,
+      "end": 2101.96,
+      "text": "the teaching from started with Uradanaha from primordial"
+    },
+    {
+      "i": 367,
+      "start": 2102.36,
+      "end": 2107.36,
+      "text": "Vivaswan etcetera for establishing Dharmasam Savanam"
+    },
+    {
+      "i": 368,
+      "start": 2107.64,
+      "end": 2112.92,
+      "text": "as the purpose of each Avatara. Then 24th verse declared the"
+    },
+    {
+      "i": 369,
+      "start": 2112.92,
+      "end": 2116.56,
+      "text": "Brahmayivatanya Gandhavil as the destination of Brahmagarma"
+    },
+    {
+      "i": 370,
+      "start": 2116.56,
+      "end": 2121.64,
+      "text": "Samadhi and this verse now 31 names the destination as"
+    },
+    {
+      "i": 371,
+      "start": 2121.64,
+      "end": 2124.36,
+      "text": "Brahmasanadhana or the eternal primordial Brahman."
+    },
+    {
+      "i": 372,
+      "start": 2125.2,
+      "end": 2129.44,
+      "text": "Connecting the verses conclusion to this chapters opening and"
+    },
+    {
+      "i": 373,
+      "start": 2129.44,
+      "end": 2133.32,
+      "text": "cosmic declarations and closing the chapters philosophical are"
+    },
+    {
+      "i": 374,
+      "start": 2136.08,
+      "end": 2141.44,
+      "text": "the teaching of Yoga declared by Krishna as Saviya leads to the"
+    },
+    {
+      "i": 375,
+      "start": 2141.44,
+      "end": 2144.72,
+      "text": "destination Brahman declared as Sanatana."
+    },
+    {
+      "i": 376,
+      "start": 2144.88,
+      "end": 2148.92,
+      "text": "Both teaching and the destination as are beyond time,"
+    },
+    {
+      "i": 377,
+      "start": 2149.92,
+      "end": 2153.2,
+      "text": "and the practitioner who follows this teaching through Eknya"
+    },
+    {
+      "i": 378,
+      "start": 2153.2,
+      "end": 2156.8,
+      "text": "reaches this timeless, that is the Sanatana through the"
+    },
+    {
+      "i": 379,
+      "start": 2156.8,
+      "end": 2158.96,
+      "text": "transformation of time bound action."
+    },
+    {
+      "i": 380,
+      "start": 2160.56,
+      "end": 2163.36,
+      "text": "You reach timelessness through the time bound action."
+    },
+    {
+      "i": 381,
+      "start": 2164.04,
+      "end": 2166.2,
+      "text": "Therefore it is Brahma, karma samadhi."
+    },
+    {
+      "i": 382,
+      "start": 2166.56,
+      "end": 2172.64,
+      "text": "Brahma is timelessness, Karma is time bound, Samadhi is abidance."
+    },
+    {
+      "i": 383,
+      "start": 2177.93,
+      "end": 2183.05,
+      "text": "The bhasha is like this Yatya Sishtamrada Bucha those who"
+    },
+    {
+      "i": 384,
+      "start": 2183.21,
+      "end": 2187.45,
+      "text": "partake nectar that remains in the sacrifice etnyanam system"
+    },
+    {
+      "i": 385,
+      "start": 2187.53,
+      "end": 2191.85,
+      "text": "ethne system that which remains after sacrifice is a ethne sista"
+    },
+    {
+      "i": 386,
+      "start": 2192.53,
+      "end": 2197.17,
+      "text": "ethne sista amradam TA ethne sista amradam and that"
+    },
+    {
+      "i": 387,
+      "start": 2197.17,
+      "end": 2200.41,
+      "text": "sacrificial reminder is indeed the nectar."
+    },
+    {
+      "i": 388,
+      "start": 2200.85,
+      "end": 2205.41,
+      "text": "Hence it is called the nectar of sacrificial remainder that"
+    },
+    {
+      "i": 389,
+      "start": 2205.41,
+      "end": 2208.41,
+      "text": "Buddhade iti ethne sista amrada buja."
+    },
+    {
+      "i": 390,
+      "start": 2209.41,
+      "end": 2214.09,
+      "text": "Those who partake that are called the consumers of the"
+    },
+    {
+      "i": 391,
+      "start": 2214.09,
+      "end": 2218.81,
+      "text": "nectar of sacrificial. Reminder Yeduktan yetnyaan"
+    },
+    {
+      "i": 392,
+      "start": 2219.25,
+      "end": 2227.13,
+      "text": "kritwa satchistena kalena yeddavidi cha uditam annam"
+    },
+    {
+      "i": 393,
+      "start": 2227.37,
+      "end": 2232.25,
+      "text": "amradhakyam bujji. Having performed the various"
+    },
+    {
+      "i": 394,
+      "start": 2232.25,
+      "end": 2236.65,
+      "text": "sacrifices described, they partake at the proper time and"
+    },
+    {
+      "i": 395,
+      "start": 2236.65,
+      "end": 2240.89,
+      "text": "in the prescribed manner of the food remaining from them, which"
+    },
+    {
+      "i": 396,
+      "start": 2240.89,
+      "end": 2244.49,
+      "text": "is called the nectar. Yanti means Gachandi."
+    },
+    {
+      "i": 397,
+      "start": 2245.29,
+      "end": 2247.69,
+      "text": "Brahmasanadanam means Chirantanam."
+    },
+    {
+      "i": 398,
+      "start": 2248.01,
+      "end": 2254.53,
+      "text": "They go to or they attain the eternal Brahman Mumukshawa keth,"
+    },
+    {
+      "i": 399,
+      "start": 2255.25,
+      "end": 2257.69,
+      "text": "provided they are see cares of liberation."
+    },
+    {
+      "i": 400,
+      "start": 2259.61,
+      "end": 2264.49,
+      "text": "Kalatikrama. Apekshaya ETI samarthyam gamyate"
+    },
+    {
+      "i": 401,
+      "start": 2265.89,
+      "end": 2267.29,
+      "text": "this. Needs to be understood."
+    },
+    {
+      "i": 402,
+      "start": 2267.61,
+      "end": 2274.69,
+      "text": "As depending upon the lapse of time in due course, as it as is"
+    },
+    {
+      "i": 403,
+      "start": 2274.69,
+      "end": 2280.49,
+      "text": "implied in the context, na ayam lokaha sarvaprani sadharana O"
+    },
+    {
+      "i": 404,
+      "start": 2280.53,
+      "end": 2289.65,
+      "text": "API asti ayatnasya for one who performs no sacrifice at all, no"
+    },
+    {
+      "i": 405,
+      "start": 2289.73,
+      "end": 2292.29,
+      "text": "etnya at all. Even this world common to all"
+    },
+    {
+      "i": 406,
+      "start": 2292.29,
+      "end": 2297.85,
+      "text": "beings is not truly available. Yedoktanam etnya Nam eka API"
+    },
+    {
+      "i": 407,
+      "start": 2297.85,
+      "end": 2303.69,
+      "text": "etnya asya nasdi Saha ayatnya. One who has not even not even"
+    },
+    {
+      "i": 408,
+      "start": 2303.69,
+      "end": 2308.29,
+      "text": "one of the ever said sacrifices is the one who is called"
+    },
+    {
+      "i": 409,
+      "start": 2308.37,
+      "end": 2311.85,
+      "text": "Ayaknya, the non sacrifice Buddha Anya."
+    },
+    {
+      "i": 410,
+      "start": 2311.85,
+      "end": 2314.69,
+      "text": "Vishishta. Sadhana sadhyas Guru Sattama."
+    },
+    {
+      "i": 411,
+      "start": 2315.61,
+      "end": 2319.37,
+      "text": "How then could the other world, or the higher attainment which"
+    },
+    {
+      "i": 412,
+      "start": 2319.37,
+      "end": 2323.13,
+      "text": "is achieved only through the special means, belong to Him, O"
+    },
+    {
+      "i": 413,
+      "start": 2323.13,
+      "end": 2327.05,
+      "text": "Arjuna? So."
+    },
+    {
+      "i": 414,
+      "start": 2328.05,
+      "end": 2332.13,
+      "text": "Life is shaped by offering becomes fit for non dual"
+    },
+    {
+      "i": 415,
+      "start": 2332.13,
+      "end": 2335.21,
+      "text": "knowledge. That is true meaning of"
+    },
+    {
+      "i": 416,
+      "start": 2335.21,
+      "end": 2338.45,
+      "text": "ethnicist Amrita. What remains after sacrifice is"
+    },
+    {
+      "i": 417,
+      "start": 2338.45,
+      "end": 2343.57,
+      "text": "the nectar because ego has been reduced, appropriation has been"
+    },
+    {
+      "i": 418,
+      "start": 2343.57,
+      "end": 2347.45,
+      "text": "checked, life is no longer lived as a private position."
+    },
+    {
+      "i": 419,
+      "start": 2348.77,
+      "end": 2352.97,
+      "text": "This is already a tremendous purification of the Aham Mama"
+    },
+    {
+      "i": 420,
+      "start": 2353.05,
+      "end": 2358.09,
+      "text": "structure, that is eye and mine structure, and that is exactly"
+    },
+    {
+      "i": 421,
+      "start": 2358.09,
+      "end": 2363.29,
+      "text": "what prepares one for Advaita. All these Etnas."
+    },
+    {
+      "i": 422,
+      "start": 2363.29,
+      "end": 2366.93,
+      "text": "Purify life into sacred participation or a mamukhlu."
+    },
+    {
+      "i": 423,
+      "start": 2368.45,
+      "end": 2372.17,
+      "text": "They eventually culminate. In Brahman, while one who leaves"
+    },
+    {
+      "i": 424,
+      "start": 2372.17,
+      "end": 2377.33,
+      "text": "with no spirit of sacrifice at all remains unfit even for a"
+    },
+    {
+      "i": 425,
+      "start": 2377.89,
+      "end": 2385.21,
+      "text": "human life. Or this 31 verse which just"
+    },
+    {
+      "i": 426,
+      "start": 2385.21,
+      "end": 2391.17,
+      "text": "finished establish the stakes of yetnia, positive destination of"
+    },
+    {
+      "i": 427,
+      "start": 2391.17,
+      "end": 2396.13,
+      "text": "Brahmaisanadhana and the negative consequence of loss of"
+    },
+    {
+      "i": 428,
+      "start": 2396.17,
+      "end": 2398.53,
+      "text": "both this world and the other world."
+    },
+    {
+      "i": 429,
+      "start": 2400.53,
+      "end": 2403.29,
+      "text": "The next world's now. Performance A double movement"
+    },
+    {
+      "i": 430,
+      "start": 2403.65,
+      "end": 2406.41,
+      "text": "that is both retrospective and prospective."
+    },
+    {
+      "i": 431,
+      "start": 2408.13,
+      "end": 2412.41,
+      "text": "Retrospective means. It surveys and seals the entire"
+    },
+    {
+      "i": 432,
+      "start": 2412.49,
+      "end": 2417.17,
+      "text": "Yetnia Vistara, the entire Etnya treaties with two summary"
+    },
+    {
+      "i": 433,
+      "start": 2417.17,
+      "end": 2420.49,
+      "text": "statements. Ebam Bohbida."
+    },
+    {
+      "i": 434,
+      "start": 2420.61,
+      "end": 2427.85,
+      "text": "Etnya thus are many Etnyas and Karmajan, Bidhi, Vidhi, Tan"
+    },
+    {
+      "i": 435,
+      "start": 2427.85,
+      "end": 2431.81,
+      "text": "Sarwan know all of them as born out of karma."
+    },
+    {
+      "i": 436,
+      "start": 2433.81,
+      "end": 2437.69,
+      "text": "In the prospective. Meaning it delivers the gateway"
+    },
+    {
+      "i": 437,
+      "start": 2437.69,
+      "end": 2442.97,
+      "text": "statement to the next verse, which is the supreme declamation"
+    },
+    {
+      "i": 438,
+      "start": 2443.53,
+      "end": 2448.61,
+      "text": "Evam Pyatwa Bhimokshaye. Having known thus, you shall be"
+    },
+    {
+      "i": 439,
+      "start": 2448.61,
+      "end": 2453.57,
+      "text": "fully liberated, establishing that that Nyana of the nature of"
+    },
+    {
+      "i": 440,
+      "start": 2453.69,
+      "end": 2457.17,
+      "text": "Etnya itself is the final liberating Nyana."
+    },
+    {
+      "i": 441,
+      "start": 2458.89,
+      "end": 2462.33,
+      "text": "The 3030. Second verse is evam Bahuvida"
+    },
+    {
+      "i": 442,
+      "start": 2462.41,
+      "end": 2471.57,
+      "text": "etnya gitata brahmano brahmano mukhe karma karma jaan vidhi tan"
+    },
+    {
+      "i": 443,
+      "start": 2471.57,
+      "end": 2478.25,
+      "text": "sarvan evam kyatwa bimoksace evam bahubida etnya vidata"
+    },
+    {
+      "i": 444,
+      "start": 2478.25,
+      "end": 2484.25,
+      "text": "brahmano brahmano muke evam means thus Bahubida etnya means"
+    },
+    {
+      "i": 445,
+      "start": 2484.41,
+      "end": 2489.53,
+      "text": "many formed etnyas were you know all the type of etnyas are being"
+    },
+    {
+      "i": 446,
+      "start": 2489.53,
+      "end": 2495.13,
+      "text": "given many kinds irreducible diversity of genuine sadhana."
+    },
+    {
+      "i": 447,
+      "start": 2495.37,
+      "end": 2499.81,
+      "text": "Many Ethnas are not arbitrary but reflect genuine diversity of"
+    },
+    {
+      "i": 448,
+      "start": 2499.81,
+      "end": 2503.29,
+      "text": "human Adhikara, Sobhava and Prakarana."
+    },
+    {
+      "i": 449,
+      "start": 2506.17,
+      "end": 2510.17,
+      "text": "Based on the Chaturvania. Mahasrushta guna karma vivagasha"
+    },
+    {
+      "i": 450,
+      "start": 2510.41,
+      "end": 2514.05,
+      "text": "because of that. So therefore, Bohuvita mini"
+    },
+    {
+      "i": 451,
+      "start": 2514.05,
+      "end": 2519.21,
+      "text": "formlessness is not a confusion but a cosmic richness."
+    },
+    {
+      "i": 452,
+      "start": 2520.17,
+      "end": 2523.01,
+      "text": "Krishna who responds to this very approach."
+    },
+    {
+      "i": 453,
+      "start": 2523.65,
+      "end": 2530.17,
+      "text": "Ye Yatamam Prabhadyande has provided the yetnaya form"
+    },
+    {
+      "i": 454,
+      "start": 2530.25,
+      "end": 2533.41,
+      "text": "appropriate to every adigari. They are."
+    },
+    {
+      "i": 455,
+      "start": 2533.65,
+      "end": 2540.05,
+      "text": "They reach me through all means. Bidata brahmano mukhe spread."
+    },
+    {
+      "i": 456,
+      "start": 2540.05,
+      "end": 2541.85,
+      "text": "Across the face. Of Brahman."
+    },
+    {
+      "i": 457,
+      "start": 2542.85,
+      "end": 2547.17,
+      "text": "This phrase is not the most philosophically evocative in the"
+    },
+    {
+      "i": 458,
+      "start": 2547.17,
+      "end": 2551.21,
+      "text": "verse. Receives a very rich commentary"
+    },
+    {
+      "i": 459,
+      "start": 2551.21,
+      "end": 2555.25,
+      "text": "from Shankaracharya. Vitata means spread out,"
+    },
+    {
+      "i": 460,
+      "start": 2555.85,
+      "end": 2562.77,
+      "text": "extended or to diffuse, diffused across Brahmana."
+    },
+    {
+      "i": 461,
+      "start": 2562.77,
+      "end": 2568.13,
+      "text": "Mukhe means in or at the mouth or face of Brahman."
+    },
+    {
+      "i": 462,
+      "start": 2569.61,
+      "end": 2573.81,
+      "text": "So what is Brahmana Mukhe? There are two readings which are"
+    },
+    {
+      "i": 463,
+      "start": 2573.81,
+      "end": 2577.93,
+      "text": "both are significant. The first readings Veda as"
+    },
+    {
+      "i": 464,
+      "start": 2577.93,
+      "end": 2581.85,
+      "text": "Brahman's mouth. Brahmanamukam means."
+    },
+    {
+      "i": 465,
+      "start": 2581.85,
+      "end": 2586.25,
+      "text": "The Veda. The mouth of Brahman that."
+    },
+    {
+      "i": 466,
+      "start": 2586.25,
+      "end": 2590.05,
+      "text": "Means the Veda is frequently described as proceeding from"
+    },
+    {
+      "i": 467,
+      "start": 2590.05,
+      "end": 2595.01,
+      "text": "proceeding from the mouth of Brahman Mukhatsama."
+    },
+    {
+      "i": 468,
+      "start": 2596.49,
+      "end": 2601.85,
+      "text": "Etcetera, you know. Vedasistha sarvaihi ahameva"
+    },
+    {
+      "i": 469,
+      "start": 2601.85,
+      "end": 2606.25,
+      "text": "vedya. In the Bhagavad Gita, 15th."
+    },
+    {
+      "i": 470,
+      "start": 2606.25,
+      "end": 2610.33,
+      "text": "Chapter it come Etnya has spread across the face of Brahman in"
+    },
+    {
+      "i": 471,
+      "start": 2610.33,
+      "end": 2614.57,
+      "text": "the sense of being declared and pervaded by the Veda."
+    },
+    {
+      "i": 472,
+      "start": 2615.05,
+      "end": 2620.69,
+      "text": "Each etnya in the treatise has its."
+    },
+    {
+      "i": 473,
+      "start": 2620.73,
+      "end": 2624.81,
+      "text": "Smriti. Shruti smriti basis it is."
+    },
+    {
+      "i": 474,
+      "start": 2624.81,
+      "end": 2627.85,
+      "text": "Vedic Grounding. Vedata Brahmano Mugai means"
+    },
+    {
+      "i": 475,
+      "start": 2627.85,
+      "end": 2631.25,
+      "text": "spread throughout the Veda, which is the Brahman's own"
+    },
+    {
+      "i": 476,
+      "start": 2631.25,
+      "end": 2635.05,
+      "text": "expression. The next reading or."
+    },
+    {
+      "i": 477,
+      "start": 2635.05,
+      "end": 2637.97,
+      "text": "The other reading is Brahman has the pervading Ground."
+    },
+    {
+      "i": 478,
+      "start": 2639.33,
+      "end": 2642.45,
+      "text": "Brahmanamukam means. The presence of Brahman."
+    },
+    {
+      "i": 479,
+      "start": 2643.53,
+      "end": 2649.53,
+      "text": "Brahman has an all pervading ground in whose presence all"
+    },
+    {
+      "i": 480,
+      "start": 2649.57,
+      "end": 2653.41,
+      "text": "Etnas are spread or taking place."
+    },
+    {
+      "i": 481,
+      "start": 2654.41,
+      "end": 2659.01,
+      "text": "This reading aligns with the Sarvam Kaluvidham Brahma that."
+    },
+    {
+      "i": 482,
+      "start": 2659.01,
+      "end": 2662.93,
+      "text": "All Etnas. Being real activities within the"
+    },
+    {
+      "i": 483,
+      "start": 2662.93,
+      "end": 2668.65,
+      "text": "field of Brahman, non dual existence and are spread across"
+    },
+    {
+      "i": 484,
+      "start": 2668.93,
+      "end": 2673.85,
+      "text": "the perversity of Brahman. The Etnas are not separate from"
+    },
+    {
+      "i": 485,
+      "start": 2673.85,
+      "end": 2677.37,
+      "text": "Brahman but are ethnic's own diverse expression."
+    },
+    {
+      "i": 486,
+      "start": 2678.41,
+      "end": 2682.41,
+      "text": "The cosmic Etna of Brahman manifesting as many Etnas in"
+    },
+    {
+      "i": 487,
+      "start": 2682.41,
+      "end": 2685.81,
+      "text": "Vista. That is why Brahma Arpanam."
+    },
+    {
+      "i": 488,
+      "start": 2685.81,
+      "end": 2691.89,
+      "text": "Brahma Havi, Brahma, Brahmanahutam Brahma, Everything"
+    },
+    {
+      "i": 489,
+      "start": 2691.89,
+      "end": 2695.29,
+      "text": "is Brahma. Sankaracharya accepts both."
+    },
+    {
+      "i": 490,
+      "start": 2695.29,
+      "end": 2700.29,
+      "text": "The reading as complementary to each other the Etnyadas declared"
+    },
+    {
+      "i": 491,
+      "start": 2700.29,
+      "end": 2705.85,
+      "text": "by the Vedas and simultaneously Brahman as a pervaded is die"
+    },
+    {
+      "i": 492,
+      "start": 2705.85,
+      "end": 2711.97,
+      "text": "explained or is diverged in the Vedas through the Upanishads."
+    },
+    {
+      "i": 493,
+      "start": 2713.05,
+      "end": 2714.33,
+      "text": "Together they. Established."
+    },
+    {
+      "i": 494,
+      "start": 2714.33,
+      "end": 2719.01,
+      "text": "These ecnyas are authentically authorized by the Veda and"
+    },
+    {
+      "i": 495,
+      "start": 2719.01,
+      "end": 2723.33,
+      "text": "ontologically grounded in in the Upanishads and the Brahman"
+    },
+    {
+      "i": 496,
+      "start": 2724.21,
+      "end": 2727.45,
+      "text": "Maruti's Veda. They are not mere human"
+    },
+    {
+      "i": 497,
+      "start": 2727.61,
+      "end": 2733.13,
+      "text": "invention, but cosmic Brahman expressions recognized and"
+    },
+    {
+      "i": 498,
+      "start": 2733.13,
+      "end": 2736.89,
+      "text": "catalogued by Shruti or the Vedas and the Upanishads."
+    },
+    {
+      "i": 499,
+      "start": 2738.45,
+      "end": 2740.13,
+      "text": "Karmazan. Vidhitan."
+    },
+    {
+      "i": 500,
+      "start": 2740.13,
+      "end": 2747.89,
+      "text": "Sarvan is a is a critic. Karmajaan Vidjitan means no."
+    },
+    {
+      "i": 501,
+      "start": 2747.89,
+      "end": 2752.09,
+      "text": "All of them as result of karma born out of karma."
+    },
+    {
+      "i": 502,
+      "start": 2753.69,
+      "end": 2756.41,
+      "text": "This is the world's most. Philosophically pregnant"
+    },
+    {
+      "i": 503,
+      "start": 2756.41,
+      "end": 2761.21,
+      "text": "statement and the one that receives attention from"
+    },
+    {
+      "i": 504,
+      "start": 2761.37,
+      "end": 2766.01,
+      "text": "Shankaracharya. Every etnya enumerated Daiva"
+    },
+    {
+      "i": 505,
+      "start": 2766.17,
+      "end": 2772.17,
+      "text": "brahmagni samyama indriya, Etni atma Samyama samyama yoga"
+    },
+    {
+      "i": 506,
+      "start": 2772.89,
+      "end": 2780.33,
+      "text": "trabhya, tapas yoga swatyayat, nyana pranayama Niyatahara is"
+    },
+    {
+      "i": 507,
+      "start": 2780.37,
+      "end": 2784.65,
+      "text": "here classified as Karmaja, born of karma produced through"
+    },
+    {
+      "i": 508,
+      "start": 2784.65,
+      "end": 2788.45,
+      "text": "action. What does Karmaja mean?"
+    },
+    {
+      "i": 509,
+      "start": 2788.45,
+      "end": 2792.81,
+      "text": "Precisely mean. The word meaning is born."
+    },
+    {
+      "i": 510,
+      "start": 2792.81,
+      "end": 2795.17,
+      "text": "Of action produced by through action."
+    },
+    {
+      "i": 511,
+      "start": 2795.97,
+      "end": 2800.85,
+      "text": "Whereas Shankaracharya analyzes it as all the eknyas described"
+    },
+    {
+      "i": 512,
+      "start": 2800.85,
+      "end": 2805.41,
+      "text": "involve action. Even the most internalized nyana"
+    },
+    {
+      "i": 513,
+      "start": 2805.45,
+      "end": 2810.81,
+      "text": "eknya described in the 28th verse or the Swadhyaya yetnya or"
+    },
+    {
+      "i": 514,
+      "start": 2810.81,
+      "end": 2815.81,
+      "text": "the Yoga yetnya involve the action of Dandakarana, the"
+    },
+    {
+      "i": 515,
+      "start": 2815.81,
+      "end": 2821.69,
+      "text": "deliberate agent engagement of manana, nidhi, dhyasana, dhyana,"
+    },
+    {
+      "i": 516,
+      "start": 2822.05,
+      "end": 2826.29,
+      "text": "pratyahara etcetera. They are karmaja in the sense"
+    },
+    {
+      "i": 517,
+      "start": 2826.29,
+      "end": 2830.81,
+      "text": "they are activities. They are kariya mean things to"
+    },
+    {
+      "i": 518,
+      "start": 2830.81,
+      "end": 2834.93,
+      "text": "be done. Sadhani."
+    },
+    {
+      "i": 519,
+      "start": 2835.25,
+      "end": 2840.53,
+      "text": "Means instruments or the means of doing it uses."
+    },
+    {
+      "i": 520,
+      "start": 2840.53,
+      "end": 2844.17,
+      "text": "Upaya. Approaches as karmaja, they"
+    },
+    {
+      "i": 521,
+      "start": 2844.17,
+      "end": 2847.85,
+      "text": "produce karmaja hala. They produce the result of the"
+    },
+    {
+      "i": 522,
+      "start": 2847.85,
+      "end": 2853.25,
+      "text": "action appropriate to the action based sadhana so."
+    },
+    {
+      "i": 523,
+      "start": 2853.25,
+      "end": 2856.73,
+      "text": "The purification of. Andakarana will result in Chitta"
+    },
+    {
+      "i": 524,
+      "start": 2856.73,
+      "end": 2862.45,
+      "text": "Shuddhi reduction of Kalmasha or the imperutis eknya shavita"
+    },
+    {
+      "i": 525,
+      "start": 2862.45,
+      "end": 2868.01,
+      "text": "Kalmasha that is 1 and preparation for nyana nyana,"
+    },
+    {
+      "i": 526,
+      "start": 2868.01,
+      "end": 2873.85,
+      "text": "ajigara, utpadana and even Karma Kramamukti."
+    },
+    {
+      "i": 527,
+      "start": 2874.41,
+      "end": 2878.37,
+      "text": "The gradual liberation through Devayana path by through"
+    },
+    {
+      "i": 528,
+      "start": 2878.37,
+      "end": 2882.09,
+      "text": "Brahmaloga and then Pramamukti but."
+    },
+    {
+      "i": 529,
+      "start": 2883.45,
+      "end": 2886.05,
+      "text": "Here is the critical. Advaitic point which"
+    },
+    {
+      "i": 530,
+      "start": 2886.05,
+      "end": 2887.97,
+      "text": "Shankaracharya want to drive us home."
+    },
+    {
+      "i": 531,
+      "start": 2889.09,
+      "end": 2895.13,
+      "text": "Even the most elevated Karmaja hala is not identical with the"
+    },
+    {
+      "i": 532,
+      "start": 2895.13,
+      "end": 2898.61,
+      "text": "Tattvat Nyana. The direct."
+    },
+    {
+      "i": 533,
+      "start": 2898.61,
+      "end": 2901.45,
+      "text": "Immediate recognition of Aatman as Brahman."
+    },
+    {
+      "i": 534,
+      "start": 2902.49,
+      "end": 2907.05,
+      "text": "The Aham Brahmasmi event that constitutes A moksha."
+    },
+    {
+      "i": 535,
+      "start": 2907.41,
+      "end": 2911.81,
+      "text": "Kewalat Nyanat Moksha The. Eknyas produce."
+    },
+    {
+      "i": 536,
+      "start": 2911.81,
+      "end": 2916.41,
+      "text": "Purification, readiness, proximity of to liberation, but"
+    },
+    {
+      "i": 537,
+      "start": 2916.41,
+      "end": 2921.89,
+      "text": "the liberation itself. Vimoksha comes from Pyana, not"
+    },
+    {
+      "i": 538,
+      "start": 2921.89,
+      "end": 2924.53,
+      "text": "from Eknya action. This is."
+    },
+    {
+      "i": 539,
+      "start": 2924.53,
+      "end": 2927.65,
+      "text": "Shankaracharya's. Definitive anti samuchaya means"
+    },
+    {
+      "i": 540,
+      "start": 2927.65,
+      "end": 2932.93,
+      "text": "anti combination statement of Eknya Pragarana, even the Kyana"
+    },
+    {
+      "i": 541,
+      "start": 2932.97,
+      "end": 2937.29,
+      "text": "Eknya as described. In the 28th verse."
+    },
+    {
+      "i": 542,
+      "start": 2937.29,
+      "end": 2943.25,
+      "text": "Among the catalog of Eknya types is karmaja, that is, deliberate"
+    },
+    {
+      "i": 543,
+      "start": 2943.25,
+      "end": 2946.45,
+      "text": "practice of cultivating pyana through sravana manana"
+    },
+    {
+      "i": 544,
+      "start": 2946.45,
+      "end": 2953.25,
+      "text": "nididhiyasana. It is a sadhana, a karma of the"
+    },
+    {
+      "i": 545,
+      "start": 2953.25,
+      "end": 2958.17,
+      "text": "andakarana. The actual pyana that liberates"
+    },
+    {
+      "i": 546,
+      "start": 2958.21,
+      "end": 2963.29,
+      "text": "the aprok shanubhuti or the atma sarshadkara is not a product of"
+    },
+    {
+      "i": 547,
+      "start": 2963.29,
+      "end": 2971.17,
+      "text": "Sravana manana nidhidhyasana na karmana na prajaya Nani na tyane"
+    },
+    {
+      "i": 548,
+      "start": 2972.57,
+      "end": 2978.93,
+      "text": "in the but the self revelation of the always present datman"
+    },
+    {
+      "i": 549,
+      "start": 2979.37,
+      "end": 2985.69,
+      "text": "when karma is produced. Chittasuddhi has removed the"
+    },
+    {
+      "i": 550,
+      "start": 2985.69,
+      "end": 2992.73,
+      "text": "avarana sufficiently for the self illumining atma to."
+    },
+    {
+      "i": 551,
+      "start": 2995.13,
+      "end": 3003.61,
+      "text": "Arise therefore Shankaracharya. Establishes karmaja yetnya."
+    },
+    {
+      "i": 552,
+      "start": 3005.01,
+      "end": 3009.65,
+      "text": "Leads to Andakarna. Suddhi and that leads to that"
+    },
+    {
+      "i": 553,
+      "start": 3009.65,
+      "end": 3017.65,
+      "text": "nyana arising, not produced or revealed but revealed and that"
+    },
+    {
+      "i": 554,
+      "start": 3017.65,
+      "end": 3020.17,
+      "text": "leads to moksha, complete liberation."
+    },
+    {
+      "i": 555,
+      "start": 3023.33,
+      "end": 3027.05,
+      "text": "The Karmaja Etnas are. The causal Nexus that produces"
+    },
+    {
+      "i": 556,
+      "start": 3027.05,
+      "end": 3030.65,
+      "text": "Sudhi Pyana is the revelation that."
+    },
+    {
+      "i": 557,
+      "start": 3030.65,
+      "end": 3032.89,
+      "text": "Occurs in the. Purified under Karna."
+    },
+    {
+      "i": 558,
+      "start": 3034.93,
+      "end": 3038.61,
+      "text": "Vimoksha or Moksha? Is the fruit of Pyaana, not the"
+    },
+    {
+      "i": 559,
+      "start": 3038.73,
+      "end": 3044.37,
+      "text": "Etnya directly. This is why the 32nd verse, this"
+    },
+    {
+      "i": 560,
+      "start": 3044.37,
+      "end": 3051.21,
+      "text": "Karanth verse, Karmajan, Vidhitan, Sarvan know all them"
+    },
+    {
+      "i": 561,
+      "start": 3051.25,
+      "end": 3056.45,
+      "text": "as born out of karma actions. As as sadhana."
+    },
+    {
+      "i": 562,
+      "start": 3056.45,
+      "end": 3067.29,
+      "text": "'S produced producing shuddhi and even Nathua Bimokshaye."
+    },
+    {
+      "i": 563,
+      "start": 3067.57,
+      "end": 3074.73,
+      "text": "Knowing thus or through Nana you shall be liberated is the final"
+    },
+    {
+      "i": 564,
+      "start": 3074.73,
+      "end": 3077.65,
+      "text": "statement. Therefore liberation comes from"
+    },
+    {
+      "i": 565,
+      "start": 3077.77,
+      "end": 3084.81,
+      "text": "Nana which is which is the karmaja Eknya prepares for but"
+    },
+    {
+      "i": 566,
+      "start": 3084.97,
+      "end": 3089.33,
+      "text": "cannot them self produce? That is why Krishna."
+    },
+    {
+      "i": 567,
+      "start": 3089.33,
+      "end": 3095.45,
+      "text": "Finally said that eben Nyatwa. Having known thus."
+    },
+    {
+      "i": 568,
+      "start": 3095.57,
+      "end": 3098.01,
+      "text": "You shall be completely liberated."
+    },
+    {
+      "i": 569,
+      "start": 3099.49,
+      "end": 3102.29,
+      "text": "This declaration. Structurally echoes."
+    },
+    {
+      "i": 570,
+      "start": 3103.33,
+      "end": 3108.97,
+      "text": "Thus 416 Yet nyatwa moksha say ashubhat."
+    },
+    {
+      "i": 571,
+      "start": 3110.37,
+      "end": 3117.29,
+      "text": "Knowing which you shall be. Freed from the ashuba the the"
+    },
+    {
+      "i": 572,
+      "start": 3117.29,
+      "end": 3125.49,
+      "text": "bad event, but that but with the two significant difference the"
+    },
+    {
+      "i": 573,
+      "start": 3125.49,
+      "end": 3130.05,
+      "text": "object of knowing Abam here there is a difference."
+    },
+    {
+      "i": 574,
+      "start": 3131.85,
+      "end": 3134.97,
+      "text": "In the 16th. Etnyatva referred to Karma"
+    },
+    {
+      "i": 575,
+      "start": 3134.97,
+      "end": 3139.73,
+      "text": "Vichara, what is Karma, akarma, vikarma etcetera."
+    },
+    {
+      "i": 576,
+      "start": 3140.49,
+      "end": 3145.65,
+      "text": "Whereas here Avam Isnyatva refers to the knowledge of the"
+    },
+    {
+      "i": 577,
+      "start": 3146.25,
+      "end": 3150.61,
+      "text": "Etnyapragarana, entire teaching including the speciality of the"
+    },
+    {
+      "i": 578,
+      "start": 3150.73,
+      "end": 3156.53,
+      "text": "Etnya, that all Etnas are Karmaja born out of actions and"
+    },
+    {
+      "i": 579,
+      "start": 3156.53,
+      "end": 3161.57,
+      "text": "Nyana Etnya is supreme which is going to be elaborated in the"
+    },
+    {
+      "i": 580,
+      "start": 3161.57,
+      "end": 3166.81,
+      "text": "next verse and the Karma Brahma Karma Samadhi which has been"
+    },
+    {
+      "i": 581,
+      "start": 3166.81,
+      "end": 3171.93,
+      "text": "mentioned in the 24th verse. Brahmapanam is the ground for in"
+    },
+    {
+      "i": 582,
+      "start": 3171.93,
+      "end": 3176.85,
+      "text": "which all Etna finds completion. And that is itself."
+    },
+    {
+      "i": 583,
+      "start": 3176.85,
+      "end": 3181.09,
+      "text": "Is the Etna Sishta Amrita? Is the eternal Brahman itself."
+    },
+    {
+      "i": 584,
+      "start": 3183.77,
+      "end": 3188.09,
+      "text": "The mimokshase Lib. Verb you."
+    },
+    {
+      "i": 585,
+      "start": 3188.09,
+      "end": 3190.25,
+      "text": "Shall be. Completely or thoroughly"
+    },
+    {
+      "i": 586,
+      "start": 3190.25,
+      "end": 3195.25,
+      "text": "liberated. The prefix V is intensifying,"
+    },
+    {
+      "i": 587,
+      "start": 3195.33,
+      "end": 3197.77,
+      "text": "otherwise Mokshase would have been enough."
+    },
+    {
+      "i": 588,
+      "start": 3198.45,
+      "end": 3204.33,
+      "text": "Mimokshase is the intensifying nature, not partially, not"
+    },
+    {
+      "i": 589,
+      "start": 3204.33,
+      "end": 3209.45,
+      "text": "temporarily, but completely, definitively, in a irreversible"
+    },
+    {
+      "i": 590,
+      "start": 3209.45,
+      "end": 3212.61,
+      "text": "way. Mimokshase is stronger than"
+    },
+    {
+      "i": 591,
+      "start": 3212.61,
+      "end": 3216.61,
+      "text": "Mokshase because of the we asserts completeness and"
+    },
+    {
+      "i": 592,
+      "start": 3216.61,
+      "end": 3219.05,
+      "text": "finality. This."
+    },
+    {
+      "i": 593,
+      "start": 3219.05,
+      "end": 3222.41,
+      "text": "Echo of. Mumushu, one who is desiring"
+    },
+    {
+      "i": 594,
+      "start": 3222.41,
+      "end": 3225.65,
+      "text": "moksha in the form of its fulfillment."
+    },
+    {
+      "i": 595,
+      "start": 3226.61,
+      "end": 3231.61,
+      "text": "Mumokshase is deliberate. The mumukshu who has followed"
+    },
+    {
+      "i": 596,
+      "start": 3231.61,
+      "end": 3239.17,
+      "text": "the eknapragarana from verse #23 to 32 is now told this."
+    },
+    {
+      "i": 597,
+      "start": 3239.21,
+      "end": 3245.21,
+      "text": "Nyana ebam Nyatwa, This knowledge will completely"
+    },
+    {
+      "i": 598,
+      "start": 3245.21,
+      "end": 3249.41,
+      "text": "fulfill your mumukshutva, your desire for Moksha."
+    },
+    {
+      "i": 599,
+      "start": 3251.77,
+      "end": 3256.21,
+      "text": "So avam tyatva. What precisely is Nyana whose"
+    },
+    {
+      "i": 600,
+      "start": 3256.21,
+      "end": 3259.97,
+      "text": "knowing produces this liberation?"
+    },
+    {
+      "i": 601,
+      "start": 3261.01,
+      "end": 3264.85,
+      "text": "Sankaracharya identifies several interlocking cognitions."
+    },
+    {
+      "i": 602,
+      "start": 3267.21,
+      "end": 3271.57,
+      "text": "The first cognition what he. Says is knowing that Bohubida"
+    },
+    {
+      "i": 603,
+      "start": 3271.61,
+      "end": 3275.41,
+      "text": "yetnyas there are all spread across the Brahman's face means"
+    },
+    {
+      "i": 604,
+      "start": 3275.97,
+      "end": 3279.93,
+      "text": "recognizing that all sincere sadhana is participation in"
+    },
+    {
+      "i": 605,
+      "start": 3279.93,
+      "end": 3285.09,
+      "text": "Brahman's own self expressing Yetnya Brahmayivasan Brahma"
+    },
+    {
+      "i": 606,
+      "start": 3285.09,
+      "end": 3290.65,
+      "text": "Aapiyati, the brother Arnu Prasad being Brahman offering to"
+    },
+    {
+      "i": 607,
+      "start": 3290.65,
+      "end": 3293.89,
+      "text": "Brahman. Then second understanding our"
+    },
+    {
+      "i": 608,
+      "start": 3293.89,
+      "end": 3297.05,
+      "text": "cognition is knowing that all they are all Karmaja."
+    },
+    {
+      "i": 609,
+      "start": 3298.17,
+      "end": 3302.09,
+      "text": "Understanding that even the most exalted spiritual practice is an"
+    },
+    {
+      "i": 610,
+      "start": 3302.09,
+      "end": 3305.89,
+      "text": "action based preparation and not a liberation by itself."
+    },
+    {
+      "i": 611,
+      "start": 3306.21,
+      "end": 3310.41,
+      "text": "Thereby releasing the sadhaga from the error of thinking that"
+    },
+    {
+      "i": 612,
+      "start": 3310.41,
+      "end": 3317.93,
+      "text": "Karma alone can produce moksha. Knowing that Nanat Etnya is"
+    },
+    {
+      "i": 613,
+      "start": 3317.93,
+      "end": 3320.65,
+      "text": "Shreyan which is coming in the next verse."
+    },
+    {
+      "i": 614,
+      "start": 3321.29,
+      "end": 3325.29,
+      "text": "Recognizing that direct Atmatyana is the only Etnya."
+    },
+    {
+      "i": 615,
+      "start": 3326.97,
+      "end": 3329.97,
+      "text": "That is not. Karmaja or born out of action"
+    },
+    {
+      "i": 616,
+      "start": 3330.65,
+      "end": 3335.53,
+      "text": "that it is the self revealing Brahma or as the Aproksha."
+    },
+    {
+      "i": 617,
+      "start": 3335.53,
+      "end": 3339.77,
+      "text": "Anubhava not produced as a result of any action."
+    },
+    {
+      "i": 618,
+      "start": 3341.17,
+      "end": 3344.49,
+      "text": "And the fourth cognition. Is knowing Brahma karma samadhi"
+    },
+    {
+      "i": 619,
+      "start": 3344.77,
+      "end": 3348.89,
+      "text": "of the 24th verse that? Is recognizing."
+    },
+    {
+      "i": 620,
+      "start": 3348.89,
+      "end": 3353.45,
+      "text": "That all elements of action are Brahma, Brahma Arpanam, Brahma,"
+    },
+    {
+      "i": 621,
+      "start": 3353.45,
+      "end": 3356.57,
+      "text": "Havihi, Brahmadnam, Brahmanahudam, Brahmaywatiya,"
+    },
+    {
+      "i": 622,
+      "start": 3356.57,
+      "end": 3358.61,
+      "text": "Nagandhavya, Brahma, Karma Samadhina."
+    },
+    {
+      "i": 623,
+      "start": 3359.57,
+      "end": 3364.01,
+      "text": "That the destination of all Eknya is the Brahmasanadhana."
+    },
+    {
+      "i": 624,
+      "start": 3365.61,
+      "end": 3370.45,
+      "text": "When these 4 cognitions are integrated and when the Sadhaga"
+    },
+    {
+      "i": 625,
+      "start": 3371.37,
+      "end": 3374.73,
+      "text": "knows both the comprehensive richness of Karmaja."
+    },
+    {
+      "i": 626,
+      "start": 3374.77,
+      "end": 3378.85,
+      "text": "Eknyas as the action based, Eknyas as preparatory,"
+    },
+    {
+      "i": 627,
+      "start": 3378.85,
+      "end": 3384.13,
+      "text": "purifying, valid and the supreme status of Nyana Yetnya as the"
+    },
+    {
+      "i": 628,
+      "start": 3384.13,
+      "end": 3388.89,
+      "text": "direct non karmaja liberation. This integrated."
+    },
+    {
+      "i": 629,
+      "start": 3388.89,
+      "end": 3396.25,
+      "text": "Knowing is evam nyana, evam evam nyana, evam Nyathwa and it"
+    },
+    {
+      "i": 630,
+      "start": 3396.25,
+      "end": 3400.73,
+      "text": "produces the Bimoksha, complete liberation, irreversible"
+    },
+    {
+      "i": 631,
+      "start": 3401.05,
+      "end": 3405.73,
+      "text": "complete liberation from the Narsamsara."
+    },
+    {
+      "i": 632,
+      "start": 3411.45,
+      "end": 3417.57,
+      "text": "This is the Ethnopragarana which is diverse in all natures."
+    },
+    {
+      "i": 633,
+      "start": 3418.69,
+      "end": 3422.77,
+      "text": "So Karmajan. Vidhitan Sarvan is thus the an"
+    },
+    {
+      "i": 634,
+      "start": 3422.77,
+      "end": 3426.05,
+      "text": "ultimate step in the characters most important logical"
+    },
+    {
+      "i": 635,
+      "start": 3426.05,
+      "end": 3429.89,
+      "text": "progression, creating the philosophical necessity for the"
+    },
+    {
+      "i": 636,
+      "start": 3429.89,
+      "end": 3436.05,
+      "text": "distinction between action based Ethnas, which is all listed"
+    },
+    {
+      "i": 637,
+      "start": 3436.05,
+      "end": 3440.45,
+      "text": "above, and the Nyana Eknya which is coming in the next verse that"
+    },
+    {
+      "i": 638,
+      "start": 3440.45,
+      "end": 3442.97,
+      "text": "transcends the Karmaja framework entirely."
+    },
+    {
+      "i": 639,
+      "start": 3446.33,
+      "end": 3450.05,
+      "text": "So the. Brahmanamukha is spread across"
+    },
+    {
+      "i": 640,
+      "start": 3450.05,
+      "end": 3453.93,
+      "text": "the Brahman which we had discussed in detail and when"
+    },
+    {
+      "i": 641,
+      "start": 3453.93,
+      "end": 3460.21,
+      "text": "Sadhaga recognized that thus all eknas are Brahman's own"
+    },
+    {
+      "i": 642,
+      "start": 3460.89,
+      "end": 3464.89,
+      "text": "declarations occurring within as and for Brahman."
+    },
+    {
+      "i": 643,
+      "start": 3465.65,
+      "end": 3469.37,
+      "text": "This recognition is the Avantnathwa which produces"
+    },
+    {
+      "i": 644,
+      "start": 3469.37,
+      "end": 3472.69,
+      "text": "mimoksha. He the recognition dissolves the"
+    },
+    {
+      "i": 645,
+      "start": 3472.69,
+      "end": 3476.37,
+      "text": "practitioners distance distance from the goal of."
+    },
+    {
+      "i": 646,
+      "start": 3478.13,
+      "end": 3481.53,
+      "text": "Achieving that. Revealing that the practice and"
+    },
+    {
+      "i": 647,
+      "start": 3481.53,
+      "end": 3486.85,
+      "text": "the destination are not separate and all Etnas occurs in Brahman."
+    },
+    {
+      "i": 648,
+      "start": 3489.37,
+      "end": 3492.13,
+      "text": "Therefore it is. Constituted by Brahman and"
+    },
+    {
+      "i": 649,
+      "start": 3492.13,
+      "end": 3496.05,
+      "text": "returns to Brahman. This is the Brahma Karma Samadhi"
+    },
+    {
+      "i": 650,
+      "start": 3496.65,
+      "end": 3498.93,
+      "text": "which is mentioned in the 24th verse."
+    },
+    {
+      "i": 651,
+      "start": 3500.57,
+      "end": 3503.65,
+      "text": "Applied. Retrospectively to the entire"
+    },
+    {
+      "i": 652,
+      "start": 3503.81,
+      "end": 3509.73,
+      "text": "Etnya series, recognizing that every Etnya in the series was"
+    },
+    {
+      "i": 653,
+      "start": 3509.73,
+      "end": 3514.29,
+      "text": "actually already Brahma Etnya even before the practitioner"
+    },
+    {
+      "i": 654,
+      "start": 3514.33,
+      "end": 3520.05,
+      "text": "knew it. The statement Karmajan"
+    },
+    {
+      "i": 655,
+      "start": 3520.05,
+      "end": 3525.37,
+      "text": "Viddeepthan Sarvan might appear to demote those etnyas, but"
+    },
+    {
+      "i": 656,
+      "start": 3525.37,
+      "end": 3528.81,
+      "text": "Sankaracharya reads it as compassionate clarity saying"
+    },
+    {
+      "i": 657,
+      "start": 3528.81,
+      "end": 3532.01,
+      "text": "that. By clarifying."
+    },
+    {
+      "i": 658,
+      "start": 3532.01,
+      "end": 3536.81,
+      "text": "Classifying etnyas as born out of action Parameswara is"
+    },
+    {
+      "i": 659,
+      "start": 3536.81,
+      "end": 3540.77,
+      "text": "liberating the practitioners from the error of Karmasamuchaya"
+    },
+    {
+      "i": 660,
+      "start": 3542.09,
+      "end": 3543.45,
+      "text": "the. Belief that the karma."
+    },
+    {
+      "i": 661,
+      "start": 3543.45,
+      "end": 3548.57,
+      "text": "However refined as Etnya can itself produce the moksha, this"
+    },
+    {
+      "i": 662,
+      "start": 3548.57,
+      "end": 3552.41,
+      "text": "error is the most sophisticated trap on the spiritual path."
+    },
+    {
+      "i": 663,
+      "start": 3553.57,
+      "end": 3557.57,
+      "text": "The spiritual practitioner who has ascended to the highest"
+    },
+    {
+      "i": 664,
+      "start": 3557.97,
+      "end": 3562.57,
+      "text": "Etnya, that is that Nyana Etnya as a sadhana may believe that"
+    },
+    {
+      "i": 665,
+      "start": 3563.41,
+      "end": 3569.13,
+      "text": "they are producing Nyana through the karma of study of Yoga,"
+    },
+    {
+      "i": 666,
+      "start": 3569.93,
+      "end": 3576.01,
+      "text": "manana, sadhyaya, dravya, Eknya, Daiva Eknya, etcetera."
+    },
+    {
+      "i": 667,
+      "start": 3577.01,
+      "end": 3583.25,
+      "text": "By declaring Karma Jaan Vidhi Parameshwara reminds that Yana"
+    },
+    {
+      "i": 668,
+      "start": 3583.25,
+      "end": 3587.09,
+      "text": "that liberates is not produced by the karma of the sadhana."
+    },
+    {
+      "i": 669,
+      "start": 3588.73,
+      "end": 3593.25,
+      "text": "It is self revealing. The man is self revealing that"
+    },
+    {
+      "i": 670,
+      "start": 3593.25,
+      "end": 3598.13,
+      "text": "arises when karma has done the job of purifying the under"
+    },
+    {
+      "i": 671,
+      "start": 3598.13,
+      "end": 3601.49,
+      "text": "karna. All Karmaja."
+    },
+    {
+      "i": 672,
+      "start": 3601.53,
+      "end": 3607.49,
+      "text": "Classification is final anti samuchaya clarification before"
+    },
+    {
+      "i": 673,
+      "start": 3607.65,
+      "end": 3611.69,
+      "text": "the next verse establishes Nyana as the sole direct spouse for"
+    },
+    {
+      "i": 674,
+      "start": 3611.69,
+      "end": 3620.49,
+      "text": "moksha. The bhashya is about 3-4"
+    },
+    {
+      "i": 675,
+      "start": 3620.49,
+      "end": 3622.81,
+      "text": "sentences. Let us read that so that we can"
+    },
+    {
+      "i": 676,
+      "start": 3622.81,
+      "end": 3627.41,
+      "text": "go to the 33rd verse on Friday. Tomorrow we won't be having"
+    },
+    {
+      "i": 677,
+      "start": 3627.41,
+      "end": 3632.61,
+      "text": "class evam, yedukta bahuda veda bhupraka rahayatnaya."
+    },
+    {
+      "i": 678,
+      "start": 3632.77,
+      "end": 3636.29,
+      "text": "Thus various kinds of practivasas described earlier in"
+    },
+    {
+      "i": 679,
+      "start": 3636.29,
+      "end": 3642.13,
+      "text": "many forms Vitata, Vistirnaha, Brahmano, Vedasyamukhedwara are"
+    },
+    {
+      "i": 680,
+      "start": 3642.13,
+      "end": 3646.93,
+      "text": "spread out in the mouth or the source of the doorway of the"
+    },
+    {
+      "i": 681,
+      "start": 3646.93,
+      "end": 3651.21,
+      "text": "Brahman, which is the Veda. Vedadduarena."
+    },
+    {
+      "i": 682,
+      "start": 3651.21,
+      "end": 3654.89,
+      "text": "Avagamyamanaha brahmano mukhe vidata uchande."
+    },
+    {
+      "i": 683,
+      "start": 3655.49,
+      "end": 3659.33,
+      "text": "They are said to be spread out in the mouth of Brahman because"
+    },
+    {
+      "i": 684,
+      "start": 3659.33,
+      "end": 3665.53,
+      "text": "they are known through the gateway of Veda, Tadhyada Vachi"
+    },
+    {
+      "i": 685,
+      "start": 3665.53,
+      "end": 3673.01,
+      "text": "hi pranam Juhuma Ityadeha as in the Vedic passage such as we"
+    },
+    {
+      "i": 686,
+      "start": 3673.01,
+      "end": 3678.81,
+      "text": "offer prana into speech etc. Karmajan, Kaika."
+    },
+    {
+      "i": 687,
+      "start": 3678.81,
+      "end": 3684.61,
+      "text": "Vajika manasa karamod bhavan viddeet aan sarwan karmajan"
+    },
+    {
+      "i": 688,
+      "start": 3684.61,
+      "end": 3687.81,
+      "text": "means no. All these etnas to be born of"
+    },
+    {
+      "i": 689,
+      "start": 3688.41,
+      "end": 3691.61,
+      "text": "arising of bodily, verbal and mental activities."
+    },
+    {
+      "i": 690,
+      "start": 3692.37,
+      "end": 3696.05,
+      "text": "Anatmajan, they do not belong to the self."
+    },
+    {
+      "i": 691,
+      "start": 3699.17,
+      "end": 3703.89,
+      "text": "Nirvyaparaha, Ish. Atma, or the Atma indeed is"
+    },
+    {
+      "i": 692,
+      "start": 3703.89,
+      "end": 3709.25,
+      "text": "actionless Isha Kartam. Ataha ewam."
+    },
+    {
+      "i": 693,
+      "start": 3709.57,
+      "end": 3713.73,
+      "text": "Nyatwa vimokshase ashubat. Therefore knowing thus you shall"
+    },
+    {
+      "i": 694,
+      "start": 3713.73,
+      "end": 3721.77,
+      "text": "be freed from the samsara. Na madhya vyapara eme nirvyapara"
+    },
+    {
+      "i": 695,
+      "start": 3721.85,
+      "end": 3727.45,
+      "text": "aham udasi naha. These are not my the selfs"
+    },
+    {
+      "i": 696,
+      "start": 3727.53,
+      "end": 3732.33,
+      "text": "activity madhyapara the self activities."
+    },
+    {
+      "i": 697,
+      "start": 3733.09,
+      "end": 3736.81,
+      "text": "I am actionless and unattached nirviyaparaha."
+    },
+    {
+      "i": 698,
+      "start": 3736.81,
+      "end": 3743.37,
+      "text": "I am Udahaseena ET E vantnatwa asmath samyak darsanath mokshase"
+    },
+    {
+      "i": 699,
+      "start": 3743.37,
+      "end": 3747.65,
+      "text": "samsara bantanath. Knowing thus, through this right"
+    },
+    {
+      "i": 700,
+      "start": 3747.65,
+      "end": 3750.73,
+      "text": "knowledge, you will be liberated from the bondage of samsara"
+    },
+    {
+      "i": 701,
+      "start": 3750.73,
+      "end": 3754.09,
+      "text": "forever. This is the."
+    },
+    {
+      "i": 702,
+      "start": 3755.17,
+      "end": 3758.09,
+      "text": "Turning point These Etnas are Vedic."
+    },
+    {
+      "i": 703,
+      "start": 3758.49,
+      "end": 3761.17,
+      "text": "They are valid. They are sanctioned as per the"
+    },
+    {
+      "i": 704,
+      "start": 3761.17,
+      "end": 3763.49,
+      "text": "Shruti. They are not dismissed as"
+    },
+    {
+      "i": 705,
+      "start": 3763.49,
+      "end": 3766.93,
+      "text": "useless. But remember, they are."
+    },
+    {
+      "i": 706,
+      "start": 3766.93,
+      "end": 3770.37,
+      "text": "Karmajaan born out of Action Kaiga."
+    },
+    {
+      "i": 707,
+      "start": 3770.37,
+      "end": 3772.89,
+      "text": "Vachika. Marasika, body, speech and mind."
+    },
+    {
+      "i": 708,
+      "start": 3774.69,
+      "end": 3777.57,
+      "text": "On Atmajaan they do not. Belong to the self because self"
+    },
+    {
+      "i": 709,
+      "start": 3777.57,
+      "end": 3781.01,
+      "text": "is a karta even. The most refined?"
+    },
+    {
+      "i": 710,
+      "start": 3781.01,
+      "end": 3785.25,
+      "text": "ET nyas whether it is pranayama, self-control, austerity study,"
+    },
+    {
+      "i": 711,
+      "start": 3785.65,
+      "end": 3789.13,
+      "text": "all are within the field of pragruti body mind complex."
+    },
+    {
+      "i": 712,
+      "start": 3791.25,
+      "end": 3794.57,
+      "text": "Dhirvyaparahi Atma. This self is actionless."
+    },
+    {
+      "i": 713,
+      "start": 3797.69,
+      "end": 3802.17,
+      "text": "So why perform Ekna? Then, because ignorance operates"
+    },
+    {
+      "i": 714,
+      "start": 3802.17,
+      "end": 3805.97,
+      "text": "at the level of the mind, purification is needed at the"
+    },
+    {
+      "i": 715,
+      "start": 3805.97,
+      "end": 3810.97,
+      "text": "mind level. Eknas prepare the mind, but they"
+    },
+    {
+      "i": 716,
+      "start": 3810.97,
+      "end": 3816.93,
+      "text": "do not touch the self. Sankaracharya now give the."
+    },
+    {
+      "i": 717,
+      "start": 3816.93,
+      "end": 3819.53,
+      "text": "Final instruction. Therefore no vidhi."
+    },
+    {
+      "i": 718,
+      "start": 3820.53,
+      "end": 3823.97,
+      "text": "They are not my actions. I am actionless."
+    },
+    {
+      "i": 719,
+      "start": 3824.05,
+      "end": 3827.29,
+      "text": "I am untouched, unattached Udasina."
+    },
+    {
+      "i": 720,
+      "start": 3828.05,
+      "end": 3830.53,
+      "text": "This is the Samyagdharshan or the right knowledge."
+    },
+    {
+      "i": 721,
+      "start": 3834.49,
+      "end": 3839.17,
+      "text": "This is one of the clearest advaitic declaration in the"
+    },
+    {
+      "i": 722,
+      "start": 3839.17,
+      "end": 3843.17,
+      "text": "chapter where karma has been separated out from Nyana."
+    },
+    {
+      "i": 723,
+      "start": 3846.69,
+      "end": 3850.29,
+      "text": "Therefore, even the highest yetnas."
+    },
+    {
+      "i": 724,
+      "start": 3850.29,
+      "end": 3855.41,
+      "text": "Are still within duality, still involve A doer and still involve"
+    },
+    {
+      "i": 725,
+      "start": 3855.41,
+      "end": 3859.21,
+      "text": "a process, and therefore cannot liberate directly."
+    },
+    {
+      "i": 726,
+      "start": 3859.93,
+      "end": 3863.81,
+      "text": "A liberation is through only through knowledge, not ritual,"
+    },
+    {
+      "i": 727,
+      "start": 3863.81,
+      "end": 3865.57,
+      "text": "discipline, breadth or austerity."
+    },
+    {
+      "i": 728,
+      "start": 3866.33,
+      "end": 3868.73,
+      "text": "The bondage is due to misidentification."
+    },
+    {
+      "i": 729,
+      "start": 3868.73,
+      "end": 3871.29,
+      "text": "That I am the doer. Karta hamidi manede."
+    },
+    {
+      "i": 730,
+      "start": 3872.13,
+      "end": 3876.85,
+      "text": "Ahangar Abhimuratma Karta Hamidi Manede Shankaracharya replaced"
+    },
+    {
+      "i": 731,
+      "start": 3876.85,
+      "end": 3878.73,
+      "text": "that. These are not my actions."
+    },
+    {
+      "i": 732,
+      "start": 3879.41,
+      "end": 3882.53,
+      "text": "When Atma's from the point of view Atma, these are not his"
+    },
+    {
+      "i": 733,
+      "start": 3882.53,
+      "end": 3890.81,
+      "text": "actions. So there is one."
+    },
+    {
+      "i": 734,
+      "start": 3892.89,
+      "end": 3896.49,
+      "text": "No, actually I think that. Is next to lines beginning OK,"
+    },
+    {
+      "i": 735,
+      "start": 3896.49,
+      "end": 3902.01,
+      "text": "I'll take it tomorrow or Friday. So tomorrow we won't be having."
+    },
+    {
+      "i": 736,
+      "start": 3902.01,
+      "end": 3906.97,
+      "text": "A class because I have the other lecture and we will continue the"
+    },
+    {
+      "i": 737,
+      "start": 3907.33,
+      "end": 3930.69,
+      "text": "33rd verse which is about the on the Friday."
+    },
+    {
+      "i": 738,
+      "start": 3935.89,
+      "end": 3945.43,
+      "text": "Thank you. Daniel, thank you very much,"
+    },
+    {
+      "i": 739,
+      "start": 3945.43,
+      "end": 3947.71,
+      "text": "Manduji. I've opened the chat and hand"
+    },
+    {
+      "i": 740,
+      "start": 3947.71,
+      "end": 3952.55,
+      "text": "raising if there are any follow up questions or discussions."
+    },
+    {
+      "i": 741,
+      "start": 3967.01,
+      "end": 3973.61,
+      "text": "I have two quick questions. Verse 31, that Nayam Locustia,"
+    },
+    {
+      "i": 742,
+      "start": 3975.33,
+      "end": 3981.05,
+      "text": "Ignacia, this, this the one who's not doing, you know, not"
+    },
+    {
+      "i": 743,
+      "start": 3981.05,
+      "end": 3986.61,
+      "text": "even understanding doing this kind of eggnam, any eggnam, you"
+    },
+    {
+      "i": 744,
+      "start": 3986.61,
+      "end": 3990.41,
+      "text": "get demoted from human birth, maybe to a lower form."
+    },
+    {
+      "i": 745,
+      "start": 3990.41,
+      "end": 3993.65,
+      "text": "Is that the way to understand? No, no, he's already in the"
+    },
+    {
+      "i": 746,
+      "start": 3993.65,
+      "end": 3996.69,
+      "text": "human world, but living like an animal."
+    },
+    {
+      "i": 747,
+      "start": 3998.53,
+      "end": 4001.81,
+      "text": "OK. But in the successive lives this"
+    },
+    {
+      "i": 748,
+      "start": 4001.81,
+      "end": 4005.13,
+      "text": "fellow even get demoted out if that's the damage."
+    },
+    {
+      "i": 749,
+      "start": 4005.33,
+      "end": 4010.69,
+      "text": "OK No that because he is not knowing himself as one bit is"
+    },
+    {
+      "i": 750,
+      "start": 4010.69,
+      "end": 4014.33,
+      "text": "now having no birth or no death. No, he thinks he has got birth"
+    },
+    {
+      "i": 751,
+      "start": 4014.33,
+      "end": 4018.13,
+      "text": "and death. OK, I think that's great."
+    },
+    {
+      "i": 752,
+      "start": 4018.13,
+      "end": 4026.17,
+      "text": "Baduji now in the worst 32 evam bhavita IGNA vitata brahmanu"
+    },
+    {
+      "i": 753,
+      "start": 4026.21,
+      "end": 4030.05,
+      "text": "mukhe this but with the Ignan means even sabana manana"
+    },
+    {
+      "i": 754,
+      "start": 4030.09,
+      "end": 4033.37,
+      "text": "idiasana falls into this class Yes."
+    },
+    {
+      "i": 755,
+      "start": 4034.93,
+      "end": 4039.01,
+      "text": "OK, only the the. Net Nana, the overall Nana of"
+    },
+    {
+      "i": 756,
+      "start": 4039.01,
+      "end": 4041.25,
+      "text": "this mechanism itself is liberating."
+    },
+    {
+      "i": 757,
+      "start": 4042.65,
+      "end": 4044.89,
+      "text": "That's a that's a clarity then Nana IGNA."
+    },
+    {
+      "i": 758,
+      "start": 4044.89,
+      "end": 4047.73,
+      "text": "Why Nana IGNA? Because Sabana Manana is just"
+    },
+    {
+      "i": 759,
+      "start": 4047.73,
+      "end": 4049.41,
+      "text": "not belong to the Nana IGNA anyway."
+    },
+    {
+      "i": 760,
+      "start": 4051.05,
+      "end": 4055.81,
+      "text": "See that nyanayakanya? In the 33rd verse, exactly what"
+    },
+    {
+      "i": 761,
+      "start": 4055.81,
+      "end": 4058.85,
+      "text": "is the difference between Sravanamana and that Nyanaya"
+    },
+    {
+      "i": 762,
+      "start": 4059.17,
+      "end": 4063.61,
+      "text": "will come clearer. But Sravanamana is a preparation"
+    },
+    {
+      "i": 763,
+      "start": 4065.21,
+      "end": 4070.17,
+      "text": "that Krishna or Sankaracharya never say that preparation is"
+    },
+    {
+      "i": 764,
+      "start": 4070.17,
+      "end": 4073.29,
+      "text": "not required. They are saying it is required."
+    },
+    {
+      "i": 765,
+      "start": 4074.29,
+      "end": 4077.57,
+      "text": "Depending upon the adigari, he can start from the ground level"
+    },
+    {
+      "i": 766,
+      "start": 4077.97,
+      "end": 4083.05,
+      "text": "from Anna onwards or he can come to the anandamaya Kosha level."
+    },
+    {
+      "i": 767,
+      "start": 4083.05,
+      "end": 4087.85,
+      "text": "Where is that will take place? So where depending upon the"
+    },
+    {
+      "i": 768,
+      "start": 4087.85,
+      "end": 4091.61,
+      "text": "adigari, the different Etnas are given and they all of them are"
+    },
+    {
+      "i": 769,
+      "start": 4091.61,
+      "end": 4096.21,
+      "text": "within Brahmanya only. But the graduation is that they"
+    },
+    {
+      "i": 770,
+      "start": 4096.21,
+      "end": 4099.33,
+      "text": "will know it. In the process, when the purity"
+    },
+    {
+      "i": 771,
+      "start": 4099.33,
+      "end": 4101.89,
+      "text": "comes, they will graduate themselves."
+    },
+    {
+      "i": 772,
+      "start": 4102.41,
+      "end": 4105.93,
+      "text": "They will become into the Sravanamana nidhiyasana, the"
+    },
+    {
+      "i": 773,
+      "start": 4105.93,
+      "end": 4109.609,
+      "text": "final step which is also karmaja gone out of action."
+    },
+    {
+      "i": 774,
+      "start": 4110.41,
+      "end": 4116.81,
+      "text": "But when the nidhidyasana stops and the conviction happens that"
+    },
+    {
+      "i": 775,
+      "start": 4116.81,
+      "end": 4123.05,
+      "text": "is that nyana not nidhidyasana level Nidhidyasana level also it"
+    },
+    {
+      "i": 776,
+      "start": 4123.05,
+      "end": 4128.33,
+      "text": "is a vriti knana knowledge known in the under Karana where action"
+    },
+    {
+      "i": 777,
+      "start": 4128.33,
+      "end": 4131.49,
+      "text": "takes place. And when you trance?"
+    },
+    {
+      "i": 778,
+      "start": 4131.81,
+      "end": 4134.89,
+      "text": "Yeah, yeah. This means the Brahma Kar, the"
+    },
+    {
+      "i": 779,
+      "start": 4134.89,
+      "end": 4137.569,
+      "text": "Brahma karma samadhi equal to Nan Ekda."
+    },
+    {
+      "i": 780,
+      "start": 4138.33,
+      "end": 4140.13,
+      "text": "Yes. OK then."
+    },
+    {
+      "i": 781,
+      "start": 4140.29,
+      "end": 4148.49,
+      "text": "Yeah, that clarifies with the. Thank you, Venkat."
+    },
+    {
+      "i": 782,
+      "start": 4148.89,
+      "end": 4153.49,
+      "text": "Namaste, Rajesh. My question is like this ekna is"
+    },
+    {
+      "i": 783,
+      "start": 4153.49,
+      "end": 4156.41,
+      "text": "starting. OK, so there is."
+    },
+    {
+      "i": 784,
+      "start": 4156.45,
+      "end": 4159.689,
+      "text": "A. Transmutation happening in body"
+    },
+    {
+      "i": 785,
+      "start": 4159.689,
+      "end": 4163.25,
+      "text": "and mind level. Is there any guidance how to"
+    },
+    {
+      "i": 786,
+      "start": 4163.25,
+      "end": 4165.93,
+      "text": "maintain this like physical changes?"
+    },
+    {
+      "i": 787,
+      "start": 4169.05,
+      "end": 4173.05,
+      "text": "You be the Sakshi. When you become a witness to the"
+    },
+    {
+      "i": 788,
+      "start": 4173.05,
+      "end": 4177.49,
+      "text": "changes to the Sakshi. You can segregate."
+    },
+    {
+      "i": 789,
+      "start": 4177.85,
+      "end": 4179.689,
+      "text": "From the body that I am the body."
+    },
+    {
+      "i": 790,
+      "start": 4182.77,
+      "end": 4185.89,
+      "text": "When only see. Today we have all have an"
+    },
+    {
+      "i": 791,
+      "start": 4185.89,
+      "end": 4190.09,
+      "text": "identification that I am the body, I am a human being, I am a"
+    },
+    {
+      "i": 792,
+      "start": 4190.09,
+      "end": 4193.37,
+      "text": "male, I am a person, I am so and so and so named."
+    },
+    {
+      "i": 793,
+      "start": 4193.41,
+      "end": 4197.41,
+      "text": "So much of age, so much of qualification, so much of money,"
+    },
+    {
+      "i": 794,
+      "start": 4197.41,
+      "end": 4202.45,
+      "text": "so much of relationship, all of them are related to the body."
+    },
+    {
+      "i": 795,
+      "start": 4205.37,
+      "end": 4210.69,
+      "text": "And when we when we know that the body is a known entity in"
+    },
+    {
+      "i": 796,
+      "start": 4210.69,
+      "end": 4214.45,
+      "text": "the waking alone so. All these things."
+    },
+    {
+      "i": 797,
+      "start": 4214.45,
+      "end": 4217.09,
+      "text": "Becomes the Waker and it's relationship."
+    },
+    {
+      "i": 798,
+      "start": 4219.01,
+      "end": 4223.93,
+      "text": "But the Sakshi. Is the one which knows I was a"
+    },
+    {
+      "i": 799,
+      "start": 4223.93,
+      "end": 4228.97,
+      "text": "Waker, I was a dreamer and I was a deep sleeper and these three"
+    },
+    {
+      "i": 800,
+      "start": 4228.97,
+      "end": 4233.17,
+      "text": "things were happening and I am the knower of these changes."
+    },
+    {
+      "i": 801,
+      "start": 4233.53,
+      "end": 4237.49,
+      "text": "Therefore I am a Sakshi debyo villakshana sashi Chinmathroham"
+    },
+    {
+      "i": 802,
+      "start": 4237.49,
+      "end": 4241.17,
+      "text": "Sadashiva. That is, the pure Sriva or the"
+    },
+    {
+      "i": 803,
+      "start": 4241.77,
+      "end": 4244.77,
+      "text": "Sadashiva means ever pure Sakshi."
+    },
+    {
+      "i": 804,
+      "start": 4245.05,
+      "end": 4248.25,
+      "text": "It was neither the Waker nor the dreamer nor the deep sleeper."
+    },
+    {
+      "i": 805,
+      "start": 4249.09,
+      "end": 4252.89,
+      "text": "So therefore all the actions, all the attachments, all"
+    },
+    {
+      "i": 806,
+      "start": 4252.89,
+      "end": 4257.77,
+      "text": "everything is in the respective experiences."
+    },
+    {
+      "i": 807,
+      "start": 4258.05,
+      "end": 4262.77,
+      "text": "The Waker and the waker's world is one group, Dreamer and the"
+    },
+    {
+      "i": 808,
+      "start": 4262.77,
+      "end": 4266.09,
+      "text": "dreamer world is one group. And the absence of both."
+    },
+    {
+      "i": 809,
+      "start": 4266.85,
+      "end": 4271.65,
+      "text": "Still thinking that I knew nothing as an independent person"
+    },
+    {
+      "i": 810,
+      "start": 4271.65,
+      "end": 4275.73,
+      "text": "without knowledge is the deep sleeper."
+    },
+    {
+      "i": 811,
+      "start": 4276.29,
+      "end": 4283.69,
+      "text": "But when we become Sakshi in the waking, we can take away our"
+    },
+    {
+      "i": 812,
+      "start": 4283.69,
+      "end": 4286.37,
+      "text": "association with our body, mind, intellect also."
+    },
+    {
+      "i": 813,
+      "start": 4288.41,
+      "end": 4291.17,
+      "text": "So that is why. When the Nirvana Satyagandhi."
+    },
+    {
+      "i": 814,
+      "start": 4293.57,
+      "end": 4297.13,
+      "text": "Manohu Dihanga. Rajitani na hum ajas rotra"
+    },
+    {
+      "i": 815,
+      "start": 4297.13,
+      "end": 4299.69,
+      "text": "dishwe naja, pranagam, all those things."
+    },
+    {
+      "i": 816,
+      "start": 4300.13,
+      "end": 4302.05,
+      "text": "It happens only from that point of view."
+    },
+    {
+      "i": 817,
+      "start": 4304.81,
+      "end": 4309.97,
+      "text": "Namaste, Berta Binduji. Namaste, everyone, Binduji."
+    },
+    {
+      "i": 818,
+      "start": 4310.05,
+      "end": 4313.65,
+      "text": "My only request is that constantly, I mean, I've been"
+    },
+    {
+      "i": 819,
+      "start": 4313.69,
+      "end": 4317.77,
+      "text": "very irregular. My request is how do we relate"
+    },
+    {
+      "i": 820,
+      "start": 4318.01,
+      "end": 4323.57,
+      "text": "all of these teachings in terms of the transformation Arjuna is"
+    },
+    {
+      "i": 821,
+      "start": 4324.05,
+      "end": 4326.41,
+      "text": "undergoing in in this conversation."
+    },
+    {
+      "i": 822,
+      "start": 4326.41,
+      "end": 4331.13,
+      "text": "So I would be very keen to hear some thoughts on that Arjuna"
+    },
+    {
+      "i": 823,
+      "start": 4331.13,
+      "end": 4335.85,
+      "text": "transformation aspect with see Arjuna transformation is all"
+    },
+    {
+      "i": 824,
+      "start": 4335.85,
+      "end": 4341.69,
+      "text": "this karma, What is real karma? Who is the doer?"
+    },
+    {
+      "i": 825,
+      "start": 4342.25,
+      "end": 4348.53,
+      "text": "Who is the real individual? The identity between these two"
+    },
+    {
+      "i": 826,
+      "start": 4348.73,
+      "end": 4352.89,
+      "text": "is what is going to be dawning on Arjuna."
+    },
+    {
+      "i": 827,
+      "start": 4353.33,
+      "end": 4356.73,
+      "text": "To know that is. All these things."
+    },
+    {
+      "i": 828,
+      "start": 4356.73,
+      "end": 4359.49,
+      "text": "Are my association with the body, mind, intellect."
+    },
+    {
+      "i": 829,
+      "start": 4359.49,
+      "end": 4363.09,
+      "text": "I thought I am the warrior king Arjuna."
+    },
+    {
+      "i": 830,
+      "start": 4363.65,
+      "end": 4371.49,
+      "text": "I am the pure self, which has no birth or death."
+    },
+    {
+      "i": 831,
+      "start": 4372.25,
+      "end": 4378.89,
+      "text": "That experience, he realizes it. Therefore, for him, like a"
+    },
+    {
+      "i": 832,
+      "start": 4378.89,
+      "end": 4382.85,
+      "text": "jeevan, Mukta is engaged in the activity."
+    },
+    {
+      "i": 833,
+      "start": 4382.85,
+      "end": 4389.65,
+      "text": "Others see him as a jeevan or a embodied person carrying out his"
+    },
+    {
+      "i": 834,
+      "start": 4389.65,
+      "end": 4394.13,
+      "text": "parabdha Karma. Arjuna will continue to do the"
+    },
+    {
+      "i": 835,
+      "start": 4394.13,
+      "end": 4399.61,
+      "text": "fight for the Dharma Dharma Yuddha because Dharma Samsabanam"
+    },
+    {
+      "i": 836,
+      "start": 4399.61,
+      "end": 4404.25,
+      "text": "was the purpose for his body that is being conducted."
+    },
+    {
+      "i": 837,
+      "start": 4404.89,
+      "end": 4409.89,
+      "text": "So that change transformation takes place in Arjuna To not to"
+    },
+    {
+      "i": 838,
+      "start": 4409.89,
+      "end": 4412.53,
+      "text": "identify that I am the doer of all these things."
+    },
+    {
+      "i": 839,
+      "start": 4413.37,
+      "end": 4430.19,
+      "text": "He becomes the Akarta. Thank you."
+    },
+    {
+      "i": 840,
+      "start": 4431.55,
+      "end": 4435.39,
+      "text": "So tomorrow I am going to talk on this only actually speaking"
+    },
+    {
+      "i": 841,
+      "start": 4436.43,
+      "end": 4440.29,
+      "text": "in the Indica. Namaste Rao."
+    },
+    {
+      "i": 842,
+      "start": 4442.13,
+      "end": 4445.73,
+      "text": "Namaste, Binduji. Binduji, my question actually I"
+    },
+    {
+      "i": 843,
+      "start": 4445.73,
+      "end": 4448.53,
+      "text": "think I have asked earlier also but I couldn't get any"
+    },
+    {
+      "i": 844,
+      "start": 4448.53,
+      "end": 4451.97,
+      "text": "satisfactory answer. It's regarding the number of"
+    },
+    {
+      "i": 845,
+      "start": 4451.97,
+      "end": 4454.65,
+      "text": "sakshis like. For example."
+    },
+    {
+      "i": 846,
+      "start": 4454.65,
+      "end": 4457.01,
+      "text": "Yeah. Logically and even"
+    },
+    {
+      "i": 847,
+      "start": 4457.01,
+      "end": 4460.69,
+      "text": "exponentially, I can in some sense I can say that OK, I am"
+    },
+    {
+      "i": 848,
+      "start": 4460.69,
+      "end": 4464.05,
+      "text": "the Sakshi and everything are the objects of experience are"
+    },
+    {
+      "i": 849,
+      "start": 4464.41,
+      "end": 4468.65,
+      "text": "inside me only in some sense. But clearly there are certain"
+    },
+    {
+      "i": 850,
+      "start": 4468.65,
+      "end": 4472.57,
+      "text": "things which I'm not experienced, I'm not Sakshi of I"
+    },
+    {
+      "i": 851,
+      "start": 4472.57,
+      "end": 4477.61,
+      "text": "in the sense like ego or whatever, in my awareness there"
+    },
+    {
+      "i": 852,
+      "start": 4477.61,
+      "end": 4479.13,
+      "text": "are so many things which are not there."
+    },
+    {
+      "i": 853,
+      "start": 4479.45,
+      "end": 4483.33,
+      "text": "And clearly like you must be in some room which you are Sakshi"
+    },
+    {
+      "i": 854,
+      "start": 4483.37,
+      "end": 4484.93,
+      "text": "of. And there are some thoughts"
+    },
+    {
+      "i": 855,
+      "start": 4484.93,
+      "end": 4487.17,
+      "text": "which you are Sakshi of which I'm definitely not."
+    },
+    {
+      "i": 856,
+      "start": 4487.69,
+      "end": 4490.89,
+      "text": "So why, why shouldn't we assume that there are infinite number"
+    },
+    {
+      "i": 857,
+      "start": 4490.89,
+      "end": 4493.33,
+      "text": "of Sakshis? Why should we, you know, think"
+    },
+    {
+      "i": 858,
+      "start": 4493.33,
+      "end": 4497.33,
+      "text": "that there is only one Sakshi? Just as."
+    },
+    {
+      "i": 859,
+      "start": 4498.09,
+      "end": 4503.45,
+      "text": "When you are in deep sleep, do you know how many people are"
+    },
+    {
+      "i": 860,
+      "start": 4503.45,
+      "end": 4508.33,
+      "text": "sleep? You don't know that deep sleep"
+    },
+    {
+      "i": 861,
+      "start": 4508.33,
+      "end": 4513.01,
+      "text": "experience is where all multiplicity is dissolved."
+    },
+    {
+      "i": 862,
+      "start": 4516.69,
+      "end": 4521.61,
+      "text": "And when you are talking. About Sakshi, it is that"
+    },
+    {
+      "i": 863,
+      "start": 4521.73,
+      "end": 4526.65,
+      "text": "awareness. It is not a individuality or an"
+    },
+    {
+      "i": 864,
+      "start": 4526.65,
+      "end": 4530.81,
+      "text": "entity. It is the awareness which is in"
+    },
+    {
+      "i": 865,
+      "start": 4530.81,
+      "end": 4538.25,
+      "text": "which the waking dream and deep sleep is functioning and that"
+    },
+    {
+      "i": 866,
+      "start": 4538.37,
+      "end": 4548.61,
+      "text": "awareness is indivisible and it is not locational like time and"
+    },
+    {
+      "i": 867,
+      "start": 4548.61,
+      "end": 4552.49,
+      "text": "space. So when it is understood that"
+    },
+    {
+      "i": 868,
+      "start": 4552.49,
+      "end": 4556.29,
+      "text": "the awareness has no way, I can divide the awareness."
+    },
+    {
+      "i": 869,
+      "start": 4556.69,
+      "end": 4561.05,
+      "text": "The contents of awareness can vary, but the awareness is not"
+    },
+    {
+      "i": 870,
+      "start": 4561.05,
+      "end": 4566.97,
+      "text": "divisible or, you know, partitioned and time and space"
+    },
+    {
+      "i": 871,
+      "start": 4566.97,
+      "end": 4570.49,
+      "text": "is inside that awareness. Therefore it is not conditioned"
+    },
+    {
+      "i": 872,
+      "start": 4570.49,
+      "end": 4574.25,
+      "text": "by the time and space because it is inside awareness."
+    },
+    {
+      "i": 873,
+      "start": 4575.29,
+      "end": 4579.89,
+      "text": "That which is holding inside cannot be affecting the one"
+    },
+    {
+      "i": 874,
+      "start": 4579.89,
+      "end": 4583.33,
+      "text": "which is the. Which is aware of it."
+    },
+    {
+      "i": 875,
+      "start": 4584.09,
+      "end": 4588.85,
+      "text": "Therefore, the awareness which is a Sakshi cannot be infinite"
+    },
+    {
+      "i": 876,
+      "start": 4588.85,
+      "end": 4593.29,
+      "text": "in nature. Whether it is?"
+    },
+    {
+      "i": 877,
+      "start": 4593.29,
+      "end": 4598.69,
+      "text": "The the space is only one because I am also using space."
+    },
+    {
+      "i": 878,
+      "start": 4598.81,
+      "end": 4602.69,
+      "text": "You are also using space. Does that mean the space is"
+    },
+    {
+      "i": 879,
+      "start": 4602.69,
+      "end": 4606.53,
+      "text": "multiple in nature? If I have a room."
+    },
+    {
+      "i": 880,
+      "start": 4606.93,
+      "end": 4610.65,
+      "text": "In the house itself, 5:00 rooms are there the."
+    },
+    {
+      "i": 881,
+      "start": 4610.65,
+      "end": 4613.57,
+      "text": "Five room. Integerly, it may appear to be"
+    },
+    {
+      "i": 882,
+      "start": 4613.57,
+      "end": 4619.45,
+      "text": "space occupying the five rooms. But when you look from."
+    },
+    {
+      "i": 883,
+      "start": 4619.45,
+      "end": 4623.41,
+      "text": "The point of view of the space which is looking at the 5:00"
+    },
+    {
+      "i": 884,
+      "start": 4623.41,
+      "end": 4627.81,
+      "text": "rooms in myself can. That space, say."
+    },
+    {
+      "i": 885,
+      "start": 4627.81,
+      "end": 4630.73,
+      "text": "That I am. Multiple in nature."
+    },
+    {
+      "i": 886,
+      "start": 4631.49,
+      "end": 4634.57,
+      "text": "No SO. You have to elevate."
+    },
+    {
+      "i": 887,
+      "start": 4634.57,
+      "end": 4639.05,
+      "text": "Yourself from the space of the room to the space which is"
+    },
+    {
+      "i": 888,
+      "start": 4639.05,
+      "end": 4645.13,
+      "text": "looking at 5:00 rooms in me same way the awareness which is"
+    },
+    {
+      "i": 889,
+      "start": 4645.13,
+      "end": 4650.61,
+      "text": "Sakshi is the awareness in which the awareness of the waking, the"
+    },
+    {
+      "i": 890,
+      "start": 4650.61,
+      "end": 4654.49,
+      "text": "awareness of the dream, the awareness of the deep sleep, all"
+    },
+    {
+      "i": 891,
+      "start": 4654.49,
+      "end": 4659.93,
+      "text": "are included. So therefore that awareness"
+    },
+    {
+      "i": 892,
+      "start": 4659.93,
+      "end": 4664.45,
+      "text": "cannot say it is specific to one person alone."
+    },
+    {
+      "i": 893,
+      "start": 4667.17,
+      "end": 4670.33,
+      "text": "That awareness is infinite in nature."
+    },
+    {
+      "i": 894,
+      "start": 4670.33,
+      "end": 4675.85,
+      "text": "That is why Anantha is it clear now?"
+    },
+    {
+      "i": 895,
+      "start": 4677.49,
+      "end": 4680.61,
+      "text": "But it could be. Like there is there could be 1"
+    },
+    {
+      "i": 896,
+      "start": 4680.73,
+      "end": 4683.89,
+      "text": "objective space and the infinitics sakis are making"
+    },
+    {
+      "i": 897,
+      "start": 4683.89,
+      "end": 4687.09,
+      "text": "copies. Like for example there is a"
+    },
+    {
+      "i": 898,
+      "start": 4687.09,
+      "end": 4690.53,
+      "text": "paper original paper and 100 people are making 100 copies of"
+    },
+    {
+      "i": 899,
+      "start": 4690.53,
+      "end": 4693.61,
+      "text": "them. So each copy has in some sense,"
+    },
+    {
+      "i": 900,
+      "start": 4693.61,
+      "end": 4695.49,
+      "text": "each copy thinks it is infinitely holding."
+    },
+    {
+      "i": 901,
+      "start": 4695.49,
+      "end": 4697.45,
+      "text": "But there is some objective entity out there."
+    },
+    {
+      "i": 902,
+      "start": 4697.93,
+      "end": 4702.85,
+      "text": "Why can't we take that look? Look from the point of existence"
+    },
+    {
+      "i": 903,
+      "start": 4702.85,
+      "end": 4708.69,
+      "text": "of the paper. In the existence."
+    },
+    {
+      "i": 904,
+      "start": 4709.93,
+      "end": 4711.25,
+      "text": "Can. The paper alone be."
+    },
+    {
+      "i": 905,
+      "start": 4711.25,
+      "end": 4714.45,
+      "text": "In existence, even the one who knows the paper exist is also"
+    },
+    {
+      "i": 906,
+      "start": 4714.45,
+      "end": 4719.09,
+      "text": "existing in it. So the 100 papers is also from"
+    },
+    {
+      "i": 907,
+      "start": 4719.09,
+      "end": 4722.45,
+      "text": "the point of view of the existence point, the under"
+    },
+    {
+      "i": 908,
+      "start": 4722.45,
+      "end": 4726.33,
+      "text": "papers also existing, the one who is observing also existing"
+    },
+    {
+      "i": 909,
+      "start": 4726.33,
+      "end": 4729.33,
+      "text": "in that one. So how can the existence be"
+    },
+    {
+      "i": 910,
+      "start": 4729.33,
+      "end": 4734.69,
+      "text": "divided there? So basically it's Anumana"
+    },
+    {
+      "i": 911,
+      "start": 4734.69,
+      "end": 4735.45,
+      "text": "Pramana. Only right?"
+    },
+    {
+      "i": 912,
+      "start": 4736.13,
+      "end": 4738.17,
+      "text": "The singularity it is. It is an Anumana."
+    },
+    {
+      "i": 913,
+      "start": 4738.17,
+      "end": 4741.93,
+      "text": "Pramana, no doubt about it, but it becomes experiential when it"
+    },
+    {
+      "i": 914,
+      "start": 4741.93,
+      "end": 4745.29,
+      "text": "comes to awareness. Awareness is not an."
+    },
+    {
+      "i": 915,
+      "start": 4745.29,
+      "end": 4750.65,
+      "text": "Anumana, can you say your awareness is an is a reduced by"
+    },
+    {
+      "i": 916,
+      "start": 4750.65,
+      "end": 4754.37,
+      "text": "the logic of, you know, inference?"
+    },
+    {
+      "i": 917,
+      "start": 4755.89,
+      "end": 4759.21,
+      "text": "No awareness is direct. Perception, yeah, but the yes."
+    },
+    {
+      "i": 918,
+      "start": 4759.21,
+      "end": 4760.97,
+      "text": "Singularity. Singularity of all level"
+    },
+    {
+      "i": 919,
+      "start": 4761.13,
+      "end": 4762.57,
+      "text": "examples. Examples."
+    },
+    {
+      "i": 920,
+      "start": 4762.57,
+      "end": 4766.89,
+      "text": "Are used because Anumana is only to bring a certain aspect of the"
+    },
+    {
+      "i": 921,
+      "start": 4766.93,
+      "end": 4770.17,
+      "text": "examples. But when you replace the"
+    },
+    {
+      "i": 922,
+      "start": 4770.17,
+      "end": 4775.65,
+      "text": "examples limitation with the awareness which is not possible"
+    },
+    {
+      "i": 923,
+      "start": 4775.65,
+      "end": 4779.21,
+      "text": "for you to give an example for awareness, because awareness is"
+    },
+    {
+      "i": 924,
+      "start": 4779.21,
+      "end": 4782.65,
+      "text": "only awareness, there is no another awareness which can be"
+    },
+    {
+      "i": 925,
+      "start": 4782.65,
+      "end": 4787.21,
+      "text": "shown as awareness. Like another space cannot be."
+    },
+    {
+      "i": 926,
+      "start": 4787.21,
+      "end": 4789.85,
+      "text": "Shown as another another space. OK, so."
+    },
+    {
+      "i": 927,
+      "start": 4790.37,
+      "end": 4793.41,
+      "text": "This has been my major blocker for the past one year."
+    },
+    {
+      "i": 928,
+      "start": 4793.53,
+      "end": 4795.09,
+      "text": "So how how should I resolve this?"
+    },
+    {
+      "i": 929,
+      "start": 4795.09,
+      "end": 4797.37,
+      "text": "I am not able to convince myself about this."
+    },
+    {
+      "i": 930,
+      "start": 4798.33,
+      "end": 4801.65,
+      "text": "OK, you, you, you. Look yourself from the point of"
+    },
+    {
+      "i": 931,
+      "start": 4801.65,
+      "end": 4807.09,
+      "text": "view as awareness, not as a limited awareness or awareness"
+    },
+    {
+      "i": 932,
+      "start": 4807.93,
+      "end": 4815.01,
+      "text": "as conditioned by the eye in it. The eye is to the Waker, not for"
+    },
+    {
+      "i": 933,
+      "start": 4815.01,
+      "end": 4818.57,
+      "text": "the awareness, because that awareness got the Waker also in"
+    },
+    {
+      "i": 934,
+      "start": 4818.57,
+      "end": 4821.25,
+      "text": "the awareness, the dreamer also in the awareness."
+    },
+    {
+      "i": 935,
+      "start": 4824.65,
+      "end": 4827.97,
+      "text": "So whose awareness will you say? The Waker awareness or the"
+    },
+    {
+      "i": 936,
+      "start": 4827.97,
+      "end": 4831.73,
+      "text": "Dreamer awareness, or the awareness which knows both Waker"
+    },
+    {
+      "i": 937,
+      "start": 4831.73,
+      "end": 4833.17,
+      "text": "and Dreamer and the deep sleeper."
+    },
+    {
+      "i": 938,
+      "start": 4837.77,
+      "end": 4841.41,
+      "text": "No, that was not the. Question the multiplicity of it."
+    },
+    {
+      "i": 939,
+      "start": 4842.21,
+      "end": 4845.73,
+      "text": "No, the multiplicity. The multiplicity gets dissolved"
+    },
+    {
+      "i": 940,
+      "start": 4846.21,
+      "end": 4849.29,
+      "text": "when you shift from the individualization."
+    },
+    {
+      "i": 941,
+      "start": 4850.09,
+      "end": 4852.97,
+      "text": "It is not the one waking dream and deep sleep."
+    },
+    {
+      "i": 942,
+      "start": 4852.97,
+      "end": 4857.41,
+      "text": "You are aware of it because one waking dream and deep sleep is"
+    },
+    {
+      "i": 943,
+      "start": 4857.41,
+      "end": 4868.93,
+      "text": "in the mind of the Waker. You are even aware of that, OK."
+    },
+    {
+      "i": 944,
+      "start": 4870.17,
+      "end": 4872.77,
+      "text": "OK, so I should focus on this particular technique then?"
+    },
+    {
+      "i": 945,
+      "start": 4874.49,
+      "end": 4877.93,
+      "text": "Yeah, this is 1 technique. Otherwise you can use that neti"
+    },
+    {
+      "i": 946,
+      "start": 4877.93,
+      "end": 4883.05,
+      "text": "neti. Whatever is observed is."
+    },
+    {
+      "i": 947,
+      "start": 4883.09,
+      "end": 4885.73,
+      "text": "I am not the observed, I am the observer."
+    },
+    {
+      "i": 948,
+      "start": 4887.17,
+      "end": 4889.77,
+      "text": "Keep on negating all. Observed everything."
+    },
+    {
+      "i": 949,
+      "start": 4889.77,
+      "end": 4894.45,
+      "text": "What is observed has to be negated and then what Bhatavadi"
+    },
+    {
+      "i": 950,
+      "start": 4894.45,
+      "end": 4898.77,
+      "text": "means at the end of that cancellation saying not this,"
+    },
+    {
+      "i": 951,
+      "start": 4898.77,
+      "end": 4903.45,
+      "text": "not this, what remains that. Is you Tatvamasi?"
+    },
+    {
+      "i": 952,
+      "start": 4903.61,
+      "end": 4908.09,
+      "text": "That becomes you OK? Sure."
+    },
+    {
+      "i": 953,
+      "start": 4908.33,
+      "end": 4908.81,
+      "text": "Yeah. Thanks."
+    },
+    {
+      "i": 954,
+      "start": 4908.81,
+      "end": 4911.81,
+      "text": "Bindarji. You are in India or in."
+    },
+    {
+      "i": 955,
+      "start": 4912.09,
+      "end": 4914.45,
+      "text": "I mean in India only. Binduji for vacation."
+    },
+    {
+      "i": 956,
+      "start": 4914.45,
+      "end": 4916.89,
+      "text": "So that's why I thought if possible I can meet you."
+    },
+    {
+      "i": 957,
+      "start": 4917.21,
+      "end": 4920.33,
+      "text": "OK, When are you returning? I'll be here for at least maybe."
+    },
+    {
+      "i": 958,
+      "start": 4920.33,
+      "end": 4925.21,
+      "text": "Couple of months, OK. Are there any session?"
+    },
+    {
+      "i": 959,
+      "start": 4925.29,
+      "end": 4929.57,
+      "text": "In your place which I can physical attend Binduji no."
+    },
+    {
+      "i": 960,
+      "start": 4929.81,
+      "end": 4932.13,
+      "text": "Nothing here tomorrow, one online."
+    },
+    {
+      "i": 961,
+      "start": 4932.13,
+      "end": 4933.37,
+      "text": "This thing is a lecture, is there?"
+    },
+    {
+      "i": 962,
+      "start": 4934.57,
+      "end": 4938.05,
+      "text": "Other than the Bhagavati, the classes will continue OK."
+    },
+    {
+      "i": 963,
+      "start": 4941.13,
+      "end": 4945.57,
+      "text": "OK, now. Thank you, Rakash."
+    },
+    {
+      "i": 964,
+      "start": 4947.21,
+      "end": 4949.97,
+      "text": "Yes, Bindoji I think. Breck accidentally might have"
+    },
+    {
+      "i": 965,
+      "start": 4949.97,
+      "end": 4951.17,
+      "text": "raised his hand. I see."
+    },
+    {
+      "i": 966,
+      "start": 4951.53,
+      "end": 4953.29,
+      "text": "Yeah, it's. Accidentally, I think, yeah,"
+    },
+    {
+      "i": 967,
+      "start": 4954.33,
+      "end": 4956.97,
+      "text": "Kumar wants to come up. OK."
+    },
+    {
+      "i": 968,
+      "start": 4959.21,
+      "end": 4966.09,
+      "text": "Nebraska everyone Bindoji. I missed the the theory, but I"
+    },
+    {
+      "i": 969,
+      "start": 4966.13,
+      "end": 4977.21,
+      "text": "kind of just fell and the word awareness you yeah, let's just"
+    },
+    {
+      "i": 970,
+      "start": 4977.21,
+      "end": 4980.89,
+      "text": "go back to how is the word happen in US."
+    },
+    {
+      "i": 971,
+      "start": 4981.77,
+      "end": 4986.29,
+      "text": "And I learned from the perspective of the hide eye from"
+    },
+    {
+      "i": 972,
+      "start": 4986.37,
+      "end": 4990.93,
+      "text": "a master teacher who teached for many years."
+    },
+    {
+      "i": 973,
+      "start": 4991.97,
+      "end": 4995.53,
+      "text": "He's going to be 17 this year and he's stopped going to stop"
+    },
+    {
+      "i": 974,
+      "start": 4995.53,
+      "end": 4999.53,
+      "text": "teaching. And when I met him in person and"
+    },
+    {
+      "i": 975,
+      "start": 4999.53,
+      "end": 5004.21,
+      "text": "I have his book here, and one part that struck me is that the"
+    },
+    {
+      "i": 976,
+      "start": 5004.21,
+      "end": 5015.41,
+      "text": "hard eye can perceive 5 five way, first as word, second as"
+    },
+    {
+      "i": 977,
+      "start": 5017.25,
+      "end": 5022.81,
+      "text": "mano part mano part the picture picture word."
+    },
+    {
+      "i": 978,
+      "start": 5023.21,
+      "end": 5027.97,
+      "text": "And once you get deep into meditation on the Jana, it's"
+    },
+    {
+      "i": 979,
+      "start": 5027.97,
+      "end": 5032.93,
+      "text": "gonna become a story of Jana to look at the past or the future."
+    },
+    {
+      "i": 980,
+      "start": 5034.25,
+      "end": 5041.49,
+      "text": "And then Banyatam. Banyatam is more like a mind map"
+    },
+    {
+      "i": 981,
+      "start": 5041.49,
+      "end": 5044.01,
+      "text": "to me. Like, if you have a word, it's"
+    },
+    {
+      "i": 982,
+      "start": 5044.01,
+      "end": 5047.01,
+      "text": "gonna draft. If you like, I have this game in"
+    },
+    {
+      "i": 983,
+      "start": 5047.01,
+      "end": 5052.01,
+      "text": "me. Like how do I layer my seeing"
+    },
+    {
+      "i": 984,
+      "start": 5052.01,
+      "end": 5055.61,
+      "text": "and separate it all back into zero point?"
+    },
+    {
+      "i": 985,
+      "start": 5056.25,
+      "end": 5060.97,
+      "text": "Because we have the discussion the other day, all letter and"
+    },
+    {
+      "i": 986,
+      "start": 5061.61,
+      "end": 5065.69,
+      "text": "all letter, all language according to the quantum field"
+    },
+    {
+      "i": 987,
+      "start": 5065.69,
+      "end": 5072.73,
+      "text": "is going to just be 0 to 9. But the algorithm and mathematic"
+    },
+    {
+      "i": 988,
+      "start": 5072.73,
+      "end": 5075.81,
+      "text": "and those are. Not normal."
+    },
+    {
+      "i": 989,
+      "start": 5075.81,
+      "end": 5080.81,
+      "text": "For a human being and we are just going to be the user, but"
+    },
+    {
+      "i": 990,
+      "start": 5080.81,
+      "end": 5084.13,
+      "text": "then. The last one is."
+    },
+    {
+      "i": 991,
+      "start": 5084.13,
+      "end": 5090.17,
+      "text": "How to dissolve the refinement of self in our own seeing when"
+    },
+    {
+      "i": 992,
+      "start": 5090.17,
+      "end": 5095.05,
+      "text": "we sit with our self? Because my system is already"
+    },
+    {
+      "i": 993,
+      "start": 5095.05,
+      "end": 5101.45,
+      "text": "like from the ear to the heart and expand into the whole body."
+    },
+    {
+      "i": 994,
+      "start": 5101.93,
+      "end": 5104.25,
+      "text": "I don't use my head as much to think."
+    },
+    {
+      "i": 995,
+      "start": 5105.85,
+      "end": 5109.53,
+      "text": "Because if anything. I think Rumi said it the best."
+    },
+    {
+      "i": 996,
+      "start": 5110.25,
+      "end": 5112.29,
+      "text": "No one is you and that's your power."
+    },
+    {
+      "i": 997,
+      "start": 5113.21,
+      "end": 5119.05,
+      "text": "And somehow the Buddha only embraced the power of the"
+    },
+    {
+      "i": 998,
+      "start": 5119.05,
+      "end": 5124.61,
+      "text": "teaching who teach the wrong perception, the wrong will to go"
+    },
+    {
+      "i": 999,
+      "start": 5124.61,
+      "end": 5127.89,
+      "text": "to the right will as 8 full part."
+    },
+    {
+      "i": 1000,
+      "start": 5128.81,
+      "end": 5134.13,
+      "text": "But then I listened a lot and then I know that there's another"
+    },
+    {
+      "i": 1001,
+      "start": 5134.13,
+      "end": 5138.89,
+      "text": "2 which is the Rai China and the Rai Vimutti."
+    },
+    {
+      "i": 1002,
+      "start": 5139.53,
+      "end": 5145.25,
+      "text": "And those two sections which is the result of the A4 pass"
+    },
+    {
+      "i": 1003,
+      "start": 5146.41,
+      "end": 5149.81,
+      "text": "teacher and master will not teach in public."
+    },
+    {
+      "i": 1004,
+      "start": 5150.33,
+      "end": 5154.81,
+      "text": "It has to be by the teacher one-on-one."
+    },
+    {
+      "i": 1005,
+      "start": 5155.69,
+      "end": 5159.77,
+      "text": "And I have to be careful about that giving the information,"
+    },
+    {
+      "i": 1006,
+      "start": 5159.77,
+      "end": 5163.45,
+      "text": "because I know most of you that already practice some money."
+    },
+    {
+      "i": 1007,
+      "start": 5165.65,
+      "end": 5169.33,
+      "text": "Questioning. About awareness and did you say"
+    },
+    {
+      "i": 1008,
+      "start": 5169.33,
+      "end": 5172.33,
+      "text": "Bindaji that awareness is with Shakti?"
+    },
+    {
+      "i": 1009,
+      "start": 5174.65,
+      "end": 5178.13,
+      "text": "Did I hear it correctly? Just now, awareness."
+    },
+    {
+      "i": 1010,
+      "start": 5178.65,
+      "end": 5184.13,
+      "text": "Is the the ultimate? That is because from."
+    },
+    {
+      "i": 1011,
+      "start": 5184.65,
+      "end": 5188.65,
+      "text": "From my way, I will say like consciousness, the word sati,"
+    },
+    {
+      "i": 1012,
+      "start": 5188.73,
+      "end": 5190.69,
+      "text": "Yeah, I use Yeah, I. Use the word."
+    },
+    {
+      "i": 1013,
+      "start": 5191.01,
+      "end": 5193.97,
+      "text": "I use the word consciousness in the awareness interchangeably"
+    },
+    {
+      "i": 1014,
+      "start": 5194.41,
+      "end": 5196.85,
+      "text": "because some people are comfortable in awareness."
+    },
+    {
+      "i": 1015,
+      "start": 5196.85,
+      "end": 5199.33,
+      "text": "Some people are comfortable in consciousness."
+    },
+    {
+      "i": 1016,
+      "start": 5201.09,
+      "end": 5203.85,
+      "text": "Because what? Umar, what happens is that when"
+    },
+    {
+      "i": 1017,
+      "start": 5203.85,
+      "end": 5208.69,
+      "text": "I use the word consciousness, lot of people have idea that"
+    },
+    {
+      "i": 1018,
+      "start": 5208.69,
+      "end": 5211.65,
+      "text": "consciousness is something different from me."
+    },
+    {
+      "i": 1019,
+      "start": 5213.97,
+      "end": 5218.69,
+      "text": "But when I say awareness, everybody can relate that"
+    },
+    {
+      "i": 1020,
+      "start": 5218.69,
+      "end": 5222.09,
+      "text": "awareness is something which I know I am aware of, I am aware"
+    },
+    {
+      "i": 1021,
+      "start": 5222.09,
+      "end": 5226.01,
+      "text": "of. But whether I am conscious of is"
+    },
+    {
+      "i": 1022,
+      "start": 5226.01,
+      "end": 5228.89,
+      "text": "that is something which intellectually I am conscious of"
+    },
+    {
+      "i": 1023,
+      "start": 5229.21,
+      "end": 5235.81,
+      "text": "that is different from my being my my what you call experiential"
+    },
+    {
+      "i": 1024,
+      "start": 5236.13,
+      "end": 5238.65,
+      "text": "aspect of it. That is why I use the word"
+    },
+    {
+      "i": 1025,
+      "start": 5238.65,
+      "end": 5239.85,
+      "text": "awareness. Yes, OK."
+    },
+    {
+      "i": 1026,
+      "start": 5239.89,
+      "end": 5245.13,
+      "text": "I would like. To invite anyone that would like"
+    },
+    {
+      "i": 1027,
+      "start": 5245.13,
+      "end": 5248.61,
+      "text": "to try to just close your eye and listen."
+    },
+    {
+      "i": 1028,
+      "start": 5250.25,
+      "end": 5255.25,
+      "text": "A master man come to my place one and he asked, Is it equal"
+    },
+    {
+      "i": 1029,
+      "start": 5255.41,
+      "end": 5261.33,
+      "text": "when you close I and you open I? He asked me in Thai but it."
+    },
+    {
+      "i": 1030,
+      "start": 5261.33,
+      "end": 5264.85,
+      "text": "Sounds like that. And in the teaching in Thailand,"
+    },
+    {
+      "i": 1031,
+      "start": 5264.85,
+      "end": 5270.73,
+      "text": "he said how we redefine a moment in time."
+    },
+    {
+      "i": 1032,
+      "start": 5271.61,
+      "end": 5278.09,
+      "text": "You have to be a moment or an octave or a poet or a word or a"
+    },
+    {
+      "i": 1033,
+      "start": 5278.09,
+      "end": 5281.97,
+      "text": "concept. And because English is limited"
+    },
+    {
+      "i": 1034,
+      "start": 5282.33,
+      "end": 5288.17,
+      "text": "and it's a backward spell, but all language that present on in"
+    },
+    {
+      "i": 1035,
+      "start": 5288.17,
+      "end": 5294.17,
+      "text": "the pyramid that that is different because Thai alphabet"
+    },
+    {
+      "i": 1036,
+      "start": 5294.17,
+      "end": 5298.89,
+      "text": "also come out of the square. But I met a being who give me"
+    },
+    {
+      "i": 1037,
+      "start": 5298.89,
+      "end": 5304.21,
+      "text": "the compass and he is the keeper of the illustrious language."
+    },
+    {
+      "i": 1038,
+      "start": 5304.97,
+      "end": 5307.93,
+      "text": "Even an older and he is long story."
+    },
+    {
+      "i": 1039,
+      "start": 5307.93,
+      "end": 5309.93,
+      "text": "I met him from here also on club."
+    },
+    {
+      "i": 1040,
+      "start": 5310.05,
+      "end": 5313.53,
+      "text": "Yeah, that's that's. Why we That's why we say the"
+    },
+    {
+      "i": 1041,
+      "start": 5313.53,
+      "end": 5318.21,
+      "text": "pure mind is the pure mind where there are no language, no words."
+    },
+    {
+      "i": 1042,
+      "start": 5318.25,
+      "end": 5320.37,
+      "text": "I get that then only the. Mind can, yes."
+    },
+    {
+      "i": 1043,
+      "start": 5320.57,
+      "end": 5325.09,
+      "text": "But then I would like to. Invite everyone to just come"
+    },
+    {
+      "i": 1044,
+      "start": 5325.09,
+      "end": 5329.21,
+      "text": "back to the mouth. Because I learned so."
+    },
+    {
+      "i": 1045,
+      "start": 5329.21,
+      "end": 5334.53,
+      "text": "Much from this app about energy and how to be controlled and not"
+    },
+    {
+      "i": 1046,
+      "start": 5334.53,
+      "end": 5339.25,
+      "text": "many people on this app held my energy like like elder in this"
+    },
+    {
+      "i": 1047,
+      "start": 5339.25,
+      "end": 5342.89,
+      "text": "room. So when people."
+    },
+    {
+      "i": 1048,
+      "start": 5342.89,
+      "end": 5345.21,
+      "text": "Speak and have problem with my voice."
+    },
+    {
+      "i": 1049,
+      "start": 5345.49,
+      "end": 5349.41,
+      "text": "I question myself and. Lately I'm like."
+    },
+    {
+      "i": 1050,
+      "start": 5349.61,
+      "end": 5354.41,
+      "text": "Oh, because this is the voice. This is the right your First"
+    },
+    {
+      "i": 1051,
+      "start": 5354.41,
+      "end": 5358.93,
+      "text": "Amendment right across the globe and we can find each other if we"
+    },
+    {
+      "i": 1052,
+      "start": 5359.41,
+      "end": 5364.89,
+      "text": "high vibration enough because I don't take anything as by chance"
+    },
+    {
+      "i": 1053,
+      "start": 5364.89,
+      "end": 5368.17,
+      "text": "since I have my NDE five years ago."
+    },
+    {
+      "i": 1054,
+      "start": 5370.61,
+      "end": 5372.13,
+      "text": "Anything. The universe."
+    },
+    {
+      "i": 1055,
+      "start": 5372.13,
+      "end": 5375.85,
+      "text": "Provide us enough to know if you wish to know."
+    },
+    {
+      "i": 1056,
+      "start": 5376.57,
+      "end": 5380.77,
+      "text": "But to speak from the high is the only way for me."
+    },
+    {
+      "i": 1057,
+      "start": 5381.49,
+      "end": 5386.49,
+      "text": "And the whole body awareness is when everything opened and not"
+    },
+    {
+      "i": 1058,
+      "start": 5386.49,
+      "end": 5388.65,
+      "text": "closed anymore. Thank you."
+    },
+    {
+      "i": 1059,
+      "start": 5389.65,
+      "end": 5395.57,
+      "text": "Thank you. Umar, the question can close, so"
+    },
+    {
+      "i": 1060,
+      "start": 5395.57,
+      "end": 5399.97,
+      "text": "tomorrow is an off day because. The class is cancelled because"
+    },
+    {
+      "i": 1061,
+      "start": 5399.97,
+      "end": 5405.81,
+      "text": "Window G has this lecture is giving on online platform"
+    },
+    {
+      "i": 1062,
+      "start": 5405.81,
+      "end": 5408.05,
+      "text": "Indica. The link is shared by Jesse."
+    },
+    {
+      "i": 1063,
+      "start": 5408.13,
+      "end": 5410.41,
+      "text": "Thank you very much Jesse. It's."
+    },
+    {
+      "i": 1064,
+      "start": 5410.61,
+      "end": 5413.05,
+      "text": "Scheduled. For seven."
+    },
+    {
+      "i": 1065,
+      "start": 5414.49,
+      "end": 5418.49,
+      "text": "ISD, Yeah. 7:00 PM ISD so you have to go."
+    },
+    {
+      "i": 1066,
+      "start": 5418.49,
+      "end": 5420.89,
+      "text": "Register and I think Jesse has shared the link."
+    },
+    {
+      "i": 1067,
+      "start": 5422.49,
+      "end": 5427.05,
+      "text": "So we'll reconvene. For the next class #27 on Friday"
+    },
+    {
+      "i": 1068,
+      "start": 5427.05,
+      "end": 5430.77,
+      "text": "at 8:30 PM, ISD and. Since you have a day's."
+    },
+    {
+      "i": 1069,
+      "start": 5430.77,
+      "end": 5434.29,
+      "text": "Break you have more time to access the replays and do this"
+    },
+    {
+      "i": 1070,
+      "start": 5434.29,
+      "end": 5437.49,
+      "text": "Rabana manana or you can. Go to the Advaita."
+    },
+    {
+      "i": 1071,
+      "start": 5437.49,
+      "end": 5441.77,
+      "text": "Retail channel and access the talks and."
+    },
+    {
+      "i": 1072,
+      "start": 5442.45,
+      "end": 5446.09,
+      "text": "Windowji will continue. On the class Friday at 8:30 PM"
+    },
+    {
+      "i": 1073,
+      "start": 5446.09,
+      "end": 5448.77,
+      "text": "IST. Thank you all for attending this"
+    },
+    {
+      "i": 1074,
+      "start": 5448.77,
+      "end": 5452.45,
+      "text": "session and for those who came up, a special thank you and"
+    },
+    {
+      "i": 1075,
+      "start": 5452.45,
+      "end": 5455.49,
+      "text": "always a heartfelt thanks to Windowji for holding the space"
+    },
+    {
+      "i": 1076,
+      "start": 5455.49,
+      "end": 5459.89,
+      "text": "and giving us this deep, deep contemplation on Bhagwat Kika."
+    },
+    {
+      "i": 1077,
+      "start": 5460.77,
+      "end": 5462.45,
+      "text": "Thank you very much. Over to you, Binduji."
+    },
+    {
+      "i": 1078,
+      "start": 5463.89,
+      "end": 5470.37,
+      "text": "Thank you, Prakash Venkat, Rajesh Bharat and Uma for coming"
+    },
+    {
+      "i": 1079,
+      "start": 5470.37,
+      "end": 5474.13,
+      "text": "to the speaker panel and all of you for listening."
+    },
+    {
+      "i": 1080,
+      "start": 5474.13,
+      "end": 5479.37,
+      "text": "We will continue our session on Friday the 33rd verse where we"
+    },
+    {
+      "i": 1081,
+      "start": 5479.37,
+      "end": 5481.97,
+      "text": "will discuss about that in detail."
+    },
+    {
+      "i": 1082,
+      "start": 5482.93,
+      "end": 5486.65,
+      "text": "Arya, good night."
+    }
+  ]
+}

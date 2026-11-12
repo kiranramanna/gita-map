@@ -1,0 +1,6061 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "35a241ce-2819-4588-9e86-d805e48e429c",
+  "source_sha256": "b65627b0140abc75eaf6bf893dd90695629fe32fd240cadcda2015af10a8ab13",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.04,
+      "end": 2.48,
+      "text": "Welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 3.44,
+      "end": 7.52,
+      "text": "The ongoing sessions are on Bhagwat Gita from an Advaita"
+    },
+    {
+      "i": 3,
+      "start": 7.52,
+      "end": 10.84,
+      "text": "perspective put by Bindoji. We are on chapter 4."
+    },
+    {
+      "i": 4,
+      "start": 11.96,
+      "end": 15.04,
+      "text": "The replace of the previous rooms are available in clubhouse"
+    },
+    {
+      "i": 5,
+      "start": 15.04,
+      "end": 18.84,
+      "text": "or you can access them in the links provided in the chat. 1 is"
+    },
+    {
+      "i": 6,
+      "start": 18.84,
+      "end": 23.08,
+      "text": "a YouTube channel called Advaita Retort where it is well"
+    },
+    {
+      "i": 7,
+      "start": 23.08,
+      "end": 25.0,
+      "text": "cataloged and arranged in a series."
+    },
+    {
+      "i": 8,
+      "start": 25.72,
+      "end": 29.32,
+      "text": "Alternatively, you can use the Apple Podcast or Spotify to"
+    },
+    {
+      "i": 9,
+      "start": 29.32,
+      "end": 34.24,
+      "text": "access the audio files. There is also a book published"
+    },
+    {
+      "i": 10,
+      "start": 34.24,
+      "end": 37.84,
+      "text": "by Artemisia titled Imaginary Door which is available on"
+    },
+    {
+      "i": 11,
+      "start": 37.84,
+      "end": 40.2,
+      "text": "Amazon. These this content of the book"
+    },
+    {
+      "i": 12,
+      "start": 40.2,
+      "end": 43.56,
+      "text": "is primarily focused on the Advaita perspective which"
+    },
+    {
+      "i": 13,
+      "start": 43.64,
+      "end": 46.76,
+      "text": "Bindoji has been offering in Clubhouse."
+    },
+    {
+      "i": 14,
+      "start": 49.44,
+      "end": 52.68,
+      "text": "With that brief introduction, I'm going to close the chat in"
+    },
+    {
+      "i": 15,
+      "start": 52.68,
+      "end": 56.96,
+      "text": "hand raising when Binduji is conducting the class and after"
+    },
+    {
+      "i": 16,
+      "start": 56.96,
+      "end": 60.76,
+      "text": "which those channels will be open for any question, answers"
+    },
+    {
+      "i": 17,
+      "start": 60.76,
+      "end": 63.84,
+      "text": "or discussions. As always, thank you Binduji,"
+    },
+    {
+      "i": 18,
+      "start": 63.84,
+      "end": 68.52,
+      "text": "over to you. Thank you, Prakash, Namaste and"
+    },
+    {
+      "i": 19,
+      "start": 68.52,
+      "end": 72.8,
+      "text": "welcome to all of you. Let me do my invocation."
+    },
+    {
+      "i": 20,
+      "start": 78.44,
+      "end": 129.919,
+      "text": "Namo brahma dibyo brahma vidya. Ujri guru pio namaha the Geeta"
+    },
+    {
+      "i": 21,
+      "start": 130.16,
+      "end": 159.08,
+      "text": "yam brahma. Yesterday's class we saw Arjuna"
+    },
+    {
+      "i": 22,
+      "start": 159.12,
+      "end": 164.88,
+      "text": "asking Krishna how Krishna could have taught the ancient sun God"
+    },
+    {
+      "i": 23,
+      "start": 166.04,
+      "end": 172.12,
+      "text": "despite being recently born and this question of is raised to"
+    },
+    {
+      "i": 24,
+      "start": 172.12,
+      "end": 178.04,
+      "text": "remove the ignorant doubt that Vasudeva that is Krishna might"
+    },
+    {
+      "i": 25,
+      "start": 178.04,
+      "end": 184.8,
+      "text": "not be the omniscient Lord. Krishna now replies to clarify"
+    },
+    {
+      "i": 26,
+      "start": 184.8,
+      "end": 188.76,
+      "text": "this truth. The next verse, which is the"
+    },
+    {
+      "i": 27,
+      "start": 188.76,
+      "end": 194.12,
+      "text": "fifth verse, is one of the most philosophically dense passages"
+    },
+    {
+      "i": 28,
+      "start": 194.12,
+      "end": 202.08,
+      "text": "in the entire Gita because it is here how Ishara remembers all"
+    },
+    {
+      "i": 29,
+      "start": 202.08,
+      "end": 207.8,
+      "text": "the births while the ordinary beings do not, which leads"
+    },
+    {
+      "i": 30,
+      "start": 208.2,
+      "end": 214.28,
+      "text": "directly into the Advaitic theory of Maya and Avatara."
+    },
+    {
+      "i": 31,
+      "start": 216.48,
+      "end": 222.72,
+      "text": "Let us see how the verse is deciphering the whole thing."
+    },
+    {
+      "i": 32,
+      "start": 224.0,
+      "end": 232.68,
+      "text": "Bahooni Mein betetani janmani tabarjuna Tanya humveda Sarvani"
+    },
+    {
+      "i": 33,
+      "start": 232.68,
+      "end": 241.04,
+      "text": "nathwam veta paranthapa behooni Mein veetani janmani janmani."
+    },
+    {
+      "i": 34,
+      "start": 241.8,
+      "end": 247.16,
+      "text": "Krishna is learning. Bahooni means meni, men means"
+    },
+    {
+      "i": 35,
+      "start": 247.16,
+      "end": 254.84,
+      "text": "me, my or my birth beethatani. You can say having passed or"
+    },
+    {
+      "i": 36,
+      "start": 254.96,
+      "end": 261.8,
+      "text": "elapsed or gone beyond. Yes, saying that janmani bohuni"
+    },
+    {
+      "i": 37,
+      "start": 261.8,
+      "end": 267.32,
+      "text": "janmani may beethatani. I have passed through many"
+    },
+    {
+      "i": 38,
+      "start": 267.32,
+      "end": 273.88,
+      "text": "lives. Tavacha Arjuna you too O Arjuna"
+    },
+    {
+      "i": 39,
+      "start": 275.8,
+      "end": 283.16,
+      "text": "thani ahamveda Sarvani I thani means dos aham Veda means I"
+    },
+    {
+      "i": 40,
+      "start": 283.16,
+      "end": 288.4,
+      "text": "know, I I know that Sarvani all of them I know means."
+    },
+    {
+      "i": 41,
+      "start": 288.4,
+      "end": 290.64,
+      "text": "He is saying that he knows even now."
+    },
+    {
+      "i": 42,
+      "start": 293.32,
+      "end": 299.12,
+      "text": "Natham Veda Parantaba, but not you, you do not know."
+    },
+    {
+      "i": 43,
+      "start": 300.36,
+      "end": 304.44,
+      "text": "Parantaba is another name for Arjuna who scorches the enemies."
+    },
+    {
+      "i": 44,
+      "start": 307.72,
+      "end": 314.68,
+      "text": "Now this is a a pivot actually contextual pivot where the"
+    },
+    {
+      "i": 45,
+      "start": 314.68,
+      "end": 321.96,
+      "text": "question by Arjuna's Purvapaksha rested on true observation which"
+    },
+    {
+      "i": 46,
+      "start": 321.96,
+      "end": 326.6,
+      "text": "are pratyaksha in nature means direct perception. 1 is"
+    },
+    {
+      "i": 47,
+      "start": 326.6,
+      "end": 332.32,
+      "text": "Krishna's birth is recent and the other one is Vibhaswat."
+    },
+    {
+      "i": 48,
+      "start": 332.32,
+      "end": 337.2,
+      "text": "The sun gods is ancient. The implicit conclusion between"
+    },
+    {
+      "i": 49,
+      "start": 337.2,
+      "end": 340.64,
+      "text": "these two is the non continuous personal identity."
+    },
+    {
+      "i": 50,
+      "start": 342.52,
+      "end": 347.72,
+      "text": "You know no continuous personal identity can bridge them because"
+    },
+    {
+      "i": 51,
+      "start": 347.72,
+      "end": 353.72,
+      "text": "before creation is vibhasra whereas Krishna was born during"
+    },
+    {
+      "i": 52,
+      "start": 353.72,
+      "end": 358.72,
+      "text": "the period of Arjuna itsal. So he, Arjuna is placing this 2"
+    },
+    {
+      "i": 53,
+      "start": 358.72,
+      "end": 364.28,
+      "text": "fact of the Pratyaksha Pramana or that knowledge which he has"
+    },
+    {
+      "i": 54,
+      "start": 364.28,
+      "end": 369.8,
+      "text": "from the current birth is what he is using that."
+    },
+    {
+      "i": 55,
+      "start": 371.6,
+      "end": 375.56,
+      "text": "Whereas Krishna's response in the next verse, the fifth verse"
+    },
+    {
+      "i": 56,
+      "start": 375.56,
+      "end": 380.48,
+      "text": "does not refute this logic. That is the beauty of it."
+    },
+    {
+      "i": 57,
+      "start": 381.24,
+      "end": 386.2,
+      "text": "He doesn't refute it but he transcends his premise."
+    },
+    {
+      "i": 58,
+      "start": 388.44,
+      "end": 391.36,
+      "text": "He does not say I was born earlier than you."
+    },
+    {
+      "i": 59,
+      "start": 391.6,
+      "end": 397.92,
+      "text": "That is refuting the logic. But he says that many births"
+    },
+    {
+      "i": 60,
+      "start": 397.92,
+      "end": 404.72,
+      "text": "have passed for both of us. That means you are also have"
+    },
+    {
+      "i": 61,
+      "start": 404.72,
+      "end": 409.52,
+      "text": "gone through the same births as many as I have gone through or"
+    },
+    {
+      "i": 62,
+      "start": 409.96,
+      "end": 412.2,
+      "text": "both of us have gone through many, many births."
+    },
+    {
+      "i": 63,
+      "start": 413.76,
+      "end": 418.32,
+      "text": "And how he closes that I know all of them."
+    },
+    {
+      "i": 64,
+      "start": 418.84,
+      "end": 425.92,
+      "text": "You do not know yours. This move or this statement by"
+    },
+    {
+      "i": 65,
+      "start": 425.92,
+      "end": 433.56,
+      "text": "Krishna is structurally decisive for Sangaracharya."
+    },
+    {
+      "i": 66,
+      "start": 437.64,
+      "end": 441.12,
+      "text": "Krishna accepts Vavaharika appearance of multiple births."
+    },
+    {
+      "i": 67,
+      "start": 442.28,
+      "end": 447.48,
+      "text": "The empirical fact that appearance of multiple births,"
+    },
+    {
+      "i": 68,
+      "start": 448.64,
+      "end": 454.6,
+      "text": "He doesn't deny them, but he asymmetrically claimed the"
+    },
+    {
+      "i": 69,
+      "start": 454.64,
+      "end": 456.6,
+      "text": "omniscient knowledge of all of them."
+    },
+    {
+      "i": 70,
+      "start": 458.44,
+      "end": 465.04,
+      "text": "Even though he is empirically born now, he claims the"
+    },
+    {
+      "i": 71,
+      "start": 465.08,
+      "end": 468.96,
+      "text": "omniscient knowledge of all births prior to this birth."
+    },
+    {
+      "i": 72,
+      "start": 468.96,
+      "end": 476.0,
+      "text": "Also, a claim that within the empirical frame is impossible"
+    },
+    {
+      "i": 73,
+      "start": 476.0,
+      "end": 481.68,
+      "text": "for any individual jiva and therefore signals that the"
+    },
+    {
+      "i": 74,
+      "start": 481.68,
+      "end": 486.16,
+      "text": "speaker is not a jiva at all is not a jiva."
+    },
+    {
+      "i": 75,
+      "start": 487.96,
+      "end": 493.96,
+      "text": "Therefore, the asymmetry between two verbs are the same root but"
+    },
+    {
+      "i": 76,
+      "start": 493.96,
+      "end": 501.44,
+      "text": "applied in two different format. Veda Veda aham veda tumna veda."
+    },
+    {
+      "i": 77,
+      "start": 502.12,
+      "end": 507.92,
+      "text": "I know you do not know, is the epistemological signature of"
+    },
+    {
+      "i": 78,
+      "start": 508.84,
+      "end": 514.039,
+      "text": "Parameswara or Ishwara being distinguished from Jiva without"
+    },
+    {
+      "i": 79,
+      "start": 514.039,
+      "end": 517.44,
+      "text": "yet making that distinction explicit?"
+    },
+    {
+      "i": 80,
+      "start": 520.24,
+      "end": 524.24,
+      "text": "That explicit disclosure will come in the next verse."
+    },
+    {
+      "i": 81,
+      "start": 528.72,
+      "end": 538.04,
+      "text": "So Shankaracharya is saying that the word Vyatata vyatita fully"
+    },
+    {
+      "i": 82,
+      "start": 538.28,
+      "end": 540.52,
+      "text": "passed or transcended is crucial."
+    },
+    {
+      "i": 83,
+      "start": 541.84,
+      "end": 547.04,
+      "text": "Sankarajarya notes that Krishna does not say Janmani Mae Mae"
+    },
+    {
+      "i": 84,
+      "start": 547.04,
+      "end": 549.68,
+      "text": "Santi. That means I have many births."
+    },
+    {
+      "i": 85,
+      "start": 549.88,
+      "end": 554.04,
+      "text": "He didn't say that with, but he said Janmani Vedatani."
+    },
+    {
+      "i": 86,
+      "start": 555.6,
+      "end": 560.72,
+      "text": "Many births have passed. This subtle difference in the"
+    },
+    {
+      "i": 87,
+      "start": 560.72,
+      "end": 567.48,
+      "text": "word, in the usage signals the advaitic standpoint that from"
+    },
+    {
+      "i": 88,
+      "start": 567.48,
+      "end": 572.2,
+      "text": "paramarthika perspective or from the absolute perspective of the"
+    },
+    {
+      "i": 89,
+      "start": 572.48,
+      "end": 576.8,
+      "text": "nitya atman, the atman is neither born nor dying."
+    },
+    {
+      "i": 90,
+      "start": 577.72,
+      "end": 581.68,
+      "text": "From that point, Naja najaatyam riyate that Krishna has said in"
+    },
+    {
+      "i": 91,
+      "start": 581.68,
+      "end": 587.36,
+      "text": "the beginning, births are things that appear and pass."
+    },
+    {
+      "i": 92,
+      "start": 588.88,
+      "end": 593.2,
+      "text": "They do not constitute or modify the essential identity of the"
+    },
+    {
+      "i": 93,
+      "start": 594.04,
+      "end": 599.64,
+      "text": "atman Nithyatman as a witness who is observing the appearances"
+    },
+    {
+      "i": 94,
+      "start": 599.64,
+      "end": 605.76,
+      "text": "and passing. Just as waves arise and subside"
+    },
+    {
+      "i": 95,
+      "start": 605.76,
+      "end": 612.52,
+      "text": "in an ocean without the Ocean's nature being altered, Janmani"
+    },
+    {
+      "i": 96,
+      "start": 612.72,
+      "end": 618.72,
+      "text": "arise and pass in the field of consciousness of nirguna Atman"
+    },
+    {
+      "i": 97,
+      "start": 621.6,
+      "end": 625.0,
+      "text": "using Maya without touching the nirguna Atman."
+    },
+    {
+      "i": 98,
+      "start": 627.72,
+      "end": 631.52,
+      "text": "Therefore, he uses the word mamamaya in this verse."
+    },
+    {
+      "i": 99,
+      "start": 632.4,
+      "end": 635.84,
+      "text": "That is the first place the word Maya is coming in the Bhagavad"
+    },
+    {
+      "i": 100,
+      "start": 635.84,
+      "end": 640.44,
+      "text": "Gita. The word Vyatta thus already"
+    },
+    {
+      "i": 101,
+      "start": 640.44,
+      "end": 645.68,
+      "text": "contains the seed of the seed of the teaching, which is going to"
+    },
+    {
+      "i": 102,
+      "start": 645.68,
+      "end": 651.32,
+      "text": "be the opening statement for the next verse, Ajoopisan."
+    },
+    {
+      "i": 103,
+      "start": 651.56,
+      "end": 656.52,
+      "text": "Ajoopisan means the speaker stands beyond all birds even"
+    },
+    {
+      "i": 104,
+      "start": 656.52,
+      "end": 660.56,
+      "text": "while acknowledging their vyawharica occurrence or"
+    },
+    {
+      "i": 105,
+      "start": 660.56,
+      "end": 667.36,
+      "text": "empirical occurrence. Plus the inclusion of Tavacha"
+    },
+    {
+      "i": 106,
+      "start": 667.92,
+      "end": 674.72,
+      "text": "Yours 2 is for Shankaracharya A compassionate pedagogical"
+    },
+    {
+      "i": 107,
+      "start": 675.12,
+      "end": 681.6,
+      "text": "gesture by Krishna. Krishna does not merely accept"
+    },
+    {
+      "i": 108,
+      "start": 683.44,
+      "end": 689.76,
+      "text": "how own multi birth identity, his own multi birth identity."
+    },
+    {
+      "i": 109,
+      "start": 691.16,
+      "end": 695.96,
+      "text": "He draws Arjuna into the same frame of multi birth identity."
+    },
+    {
+      "i": 110,
+      "start": 696.8,
+      "end": 702.6,
+      "text": "You 2 have had many births. This serves the advaitic purpose"
+    },
+    {
+      "i": 111,
+      "start": 702.8,
+      "end": 708.6,
+      "text": "of establishing that both Parameswara and Jiva traverse"
+    },
+    {
+      "i": 112,
+      "start": 708.6,
+      "end": 715.64,
+      "text": "the same samsaric sequence but with a decisive difference of"
+    },
+    {
+      "i": 113,
+      "start": 715.8,
+      "end": 721.24,
+      "text": "innana. Arjuna as a Jiva or the"
+    },
+    {
+      "i": 114,
+      "start": 721.24,
+      "end": 726.92,
+      "text": "individual does not know his past births because Avidya"
+    },
+    {
+      "i": 115,
+      "start": 727.84,
+      "end": 731.24,
+      "text": "covers the continuity of the chit principle across the"
+    },
+    {
+      "i": 116,
+      "start": 731.24,
+      "end": 737.24,
+      "text": "births. Krishna as Parameshwara knows"
+    },
+    {
+      "i": 117,
+      "start": 737.24,
+      "end": 745.96,
+      "text": "all because he is never bound by Avidya and is never actually"
+    },
+    {
+      "i": 118,
+      "start": 745.96,
+      "end": 754.96,
+      "text": "born in the paramartika sense. The tawacha also bring begin"
+    },
+    {
+      "i": 119,
+      "start": 758.72,
+      "end": 761.88,
+      "text": "Krishna's pedagogy of identification."
+    },
+    {
+      "i": 120,
+      "start": 764.64,
+      "end": 767.6,
+      "text": "The tawacha also begins Krishna's pedagogy"
+    },
+    {
+      "i": 121,
+      "start": 767.6,
+      "end": 770.48,
+      "text": "identification. By placing Arjuna's birth"
+    },
+    {
+      "i": 122,
+      "start": 770.48,
+      "end": 775.56,
+      "text": "alongside his own, he implicitly points toward the unity of Atman"
+    },
+    {
+      "i": 123,
+      "start": 776.28,
+      "end": 781.44,
+      "text": "that underlies all apparent multiplicity of creation and the"
+    },
+    {
+      "i": 124,
+      "start": 781.44,
+      "end": 788.0,
+      "text": "births, the non dual ground that the verse will progressively"
+    },
+    {
+      "i": 125,
+      "start": 788.64,
+      "end": 796.96,
+      "text": "reveal. In his commentary, Sankaracharya"
+    },
+    {
+      "i": 126,
+      "start": 796.96,
+      "end": 802.2,
+      "text": "says the verb veda is the decisive term in the verse."
+    },
+    {
+      "i": 127,
+      "start": 803.72,
+      "end": 808.68,
+      "text": "He reads it as saksha janmani means I know directly,"
+    },
+    {
+      "i": 128,
+      "start": 808.68,
+      "end": 814.28,
+      "text": "immediately as witness. That is what his Akrishna"
+    },
+    {
+      "i": 129,
+      "start": 814.28,
+      "end": 817.4,
+      "text": "statement is. And this is not a smriti or a"
+    },
+    {
+      "i": 130,
+      "start": 817.4,
+      "end": 822.16,
+      "text": "memory, the ordinary human recall of past events itself,"
+    },
+    {
+      "i": 131,
+      "start": 822.56,
+      "end": 828.28,
+      "text": "which itself is imperfect and fragmentary, but at Atman's own"
+    },
+    {
+      "i": 132,
+      "start": 828.28,
+      "end": 832.56,
+      "text": "luminous presence across all apparent temporal sequences."
+    },
+    {
+      "i": 133,
+      "start": 833.68,
+      "end": 839.16,
+      "text": "So as the Parameswara's knowing of all birth is not cognitive"
+    },
+    {
+      "i": 134,
+      "start": 839.16,
+      "end": 846.8,
+      "text": "achievement, it is a natural expression of Nithya Saitanya or"
+    },
+    {
+      "i": 135,
+      "start": 846.8,
+      "end": 851.84,
+      "text": "the eternal consciousness that being unchanging."
+    },
+    {
+      "i": 136,
+      "start": 851.84,
+      "end": 860.56,
+      "text": "Witness the Sakshi of all vicara modifications, knows all births"
+    },
+    {
+      "i": 137,
+      "start": 860.84,
+      "end": 863.84,
+      "text": "the way a light knows all objects."
+    },
+    {
+      "i": 138,
+      "start": 863.84,
+      "end": 868.0,
+      "text": "It illumines without effort, without mediation, without"
+    },
+    {
+      "i": 139,
+      "start": 868.16,
+      "end": 871.36,
+      "text": "temporal limitation. He is cable of Sakshi."
+    },
+    {
+      "i": 140,
+      "start": 874.68,
+      "end": 878.0,
+      "text": "Sankaracharya invokes the Sakshi Chaitanya principle directly."
+    },
+    {
+      "i": 141,
+      "start": 878.0,
+      "end": 883.28,
+      "text": "Here. The param Paramatman is unmoving"
+    },
+    {
+      "i": 142,
+      "start": 883.28,
+      "end": 888.0,
+      "text": "witness of all Vivaharika events, including the apparent"
+    },
+    {
+      "i": 143,
+      "start": 888.0,
+      "end": 894.08,
+      "text": "births of both itself as Avatara and of Arjuna as the Jiva."
+    },
+    {
+      "i": 144,
+      "start": 896.4,
+      "end": 900.96,
+      "text": "The knowledge Veda is the self luminosity of this witness,"
+    },
+    {
+      "i": 145,
+      "start": 902.04,
+      "end": 908.44,
+      "text": "Sayyam Prakash Chaitanya, which cannot be obscured by Maya"
+    },
+    {
+      "i": 146,
+      "start": 908.68,
+      "end": 911.88,
+      "text": "because it is the very ground of Maya itself."
+    },
+    {
+      "i": 147,
+      "start": 913.96,
+      "end": 922.76,
+      "text": "We may recall when Krishna says later that I know in future,"
+    },
+    {
+      "i": 148,
+      "start": 923.8,
+      "end": 927.68,
+      "text": "even in the 2nd chapter, he said that all these kingsmen are"
+    },
+    {
+      "i": 149,
+      "start": 927.84,
+      "end": 936.12,
+      "text": "already dead in time. So he has control over even the"
+    },
+    {
+      "i": 150,
+      "start": 936.12,
+      "end": 941.08,
+      "text": "time to see what is going to come and to see what has already"
+    },
+    {
+      "i": 151,
+      "start": 941.08,
+      "end": 945.12,
+      "text": "been passed. That is why his cell"
+    },
+    {
+      "i": 152,
+      "start": 945.12,
+      "end": 948.6,
+      "text": "phenomenosity is from the paramarthika level as a swayam"
+    },
+    {
+      "i": 153,
+      "start": 948.6,
+      "end": 959.32,
+      "text": "prakasam and he has the power of Maya with which he can take an"
+    },
+    {
+      "i": 154,
+      "start": 959.32,
+      "end": 971.88,
+      "text": "empirical body as an avatara. Now when he when Krishna said"
+    },
+    {
+      "i": 155,
+      "start": 971.88,
+      "end": 975.24,
+      "text": "about Arjuna, he used the word Nattvam Veda."
+    },
+    {
+      "i": 156,
+      "start": 976.84,
+      "end": 983.76,
+      "text": "This is same form with root only you do not know the strong"
+    },
+    {
+      "i": 157,
+      "start": 983.76,
+      "end": 991.72,
+      "text": "pronoun instead of PE is used here in Sanskrit is a deliberate"
+    },
+    {
+      "i": 158,
+      "start": 991.72,
+      "end": 996.0,
+      "text": "contrast with aham in the previous pada."
+    },
+    {
+      "i": 159,
+      "start": 997.92,
+      "end": 1001.84,
+      "text": "Therefore, the grammatical parallelism is pointing to"
+    },
+    {
+      "i": 160,
+      "start": 1002.16,
+      "end": 1006.64,
+      "text": "Thani, ahamveda, sarvani, nattamveda, parandhaba."
+    },
+    {
+      "i": 161,
+      "start": 1007.36,
+      "end": 1013.88,
+      "text": "Those births, all of them I know, but you do not know, O"
+    },
+    {
+      "i": 162,
+      "start": 1013.92,
+      "end": 1019.12,
+      "text": "Arjuna. The asymmetry of these two I"
+    },
+    {
+      "i": 163,
+      "start": 1019.12,
+      "end": 1025.119,
+      "text": "know you do not know is the primary philosophical content of"
+    },
+    {
+      "i": 164,
+      "start": 1025.119,
+      "end": 1029.04,
+      "text": "this verse. It distinguishes between"
+    },
+    {
+      "i": 165,
+      "start": 1029.04,
+      "end": 1034.68,
+      "text": "parameshwara and the jiva on epistemological grounds before"
+    },
+    {
+      "i": 166,
+      "start": 1034.68,
+      "end": 1036.8,
+      "text": "distinguishing them ontologically."
+    },
+    {
+      "i": 167,
+      "start": 1040.079,
+      "end": 1042.64,
+      "text": "Why does Arjuna not know his past birth?"
+    },
+    {
+      "i": 168,
+      "start": 1044.24,
+      "end": 1047.48,
+      "text": "The answer is precise because of avidya."
+    },
+    {
+      "i": 169,
+      "start": 1049.6,
+      "end": 1055.76,
+      "text": "Atnyana functions as an avarana or a veiling the continuity of"
+    },
+    {
+      "i": 170,
+      "start": 1055.76,
+      "end": 1060.64,
+      "text": "the chit principle across the birth because the chit principle"
+    },
+    {
+      "i": 171,
+      "start": 1061.32,
+      "end": 1065.12,
+      "text": "is part of the body, mano buddhiya hangara chit."
+    },
+    {
+      "i": 172,
+      "start": 1066.8,
+      "end": 1073.0,
+      "text": "Each birth comes with a fresh upadhi body mind complex and a"
+    },
+    {
+      "i": 173,
+      "start": 1073.0,
+      "end": 1076.36,
+      "text": "fresh ahankara of the ego identification with the body,"
+    },
+    {
+      "i": 174,
+      "start": 1077.6,
+      "end": 1083.2,
+      "text": "which occludes the memory continuity that would otherwise"
+    },
+    {
+      "i": 175,
+      "start": 1083.2,
+      "end": 1087.32,
+      "text": "be available for every jiva from the past life and the future"
+    },
+    {
+      "i": 176,
+      "start": 1087.32,
+      "end": 1091.4,
+      "text": "life that also would have been possible, but that is not"
+    },
+    {
+      "i": 177,
+      "start": 1091.68,
+      "end": 1097.6,
+      "text": "happening because of the memory principle is body mind complex"
+    },
+    {
+      "i": 178,
+      "start": 1097.6,
+      "end": 1100.72,
+      "text": "path. Therefore it can it is acquired"
+    },
+    {
+      "i": 179,
+      "start": 1100.72,
+      "end": 1103.76,
+      "text": "in this birth. Can remember only What about"
+    },
+    {
+      "i": 180,
+      "start": 1103.76,
+      "end": 1107.52,
+      "text": "this birth. The jiva identified with the"
+    },
+    {
+      "i": 181,
+      "start": 1107.52,
+      "end": 1111.84,
+      "text": "Ubadi of body, mind, intellect can only perceive what the"
+    },
+    {
+      "i": 182,
+      "start": 1111.84,
+      "end": 1114.32,
+      "text": "current Dubadi configuration makes available."
+    },
+    {
+      "i": 183,
+      "start": 1115.92,
+      "end": 1119.12,
+      "text": "The past births are with a different Dubadi which has been"
+    },
+    {
+      "i": 184,
+      "start": 1119.12,
+      "end": 1124.8,
+      "text": "discarded and hence beyond its Ubadi mediated cognition."
+    },
+    {
+      "i": 185,
+      "start": 1126.48,
+      "end": 1131.48,
+      "text": "Whereas Parameshwara by contrast is never identified with any"
+    },
+    {
+      "i": 186,
+      "start": 1131.48,
+      "end": 1136.28,
+      "text": "Ubadi. His apparent birth that is"
+    },
+    {
+      "i": 187,
+      "start": 1136.28,
+      "end": 1142.52,
+      "text": "important is not really born. His apparent birth are mayakruta"
+    },
+    {
+      "i": 188,
+      "start": 1143.6,
+      "end": 1146.28,
+      "text": "means produced by Maya, which is his own power."
+    },
+    {
+      "i": 189,
+      "start": 1147.72,
+      "end": 1152.0,
+      "text": "They occur in Maya while he remains unchanging."
+    },
+    {
+      "i": 190,
+      "start": 1152.0,
+      "end": 1155.72,
+      "text": "Witness Khudastha Chaitanya of all of them."
+    },
+    {
+      "i": 191,
+      "start": 1157.36,
+      "end": 1162.96,
+      "text": "Therefore his knowledge of all birth is not dependent on the"
+    },
+    {
+      "i": 192,
+      "start": 1162.96,
+      "end": 1168.92,
+      "text": "Ubadi continuity of Smruti, but the self luminous awareness of"
+    },
+    {
+      "i": 193,
+      "start": 1168.92,
+      "end": 1175.92,
+      "text": "the witness that is never broken by any Ubadi transition even"
+    },
+    {
+      "i": 194,
+      "start": 1175.92,
+      "end": 1178.8,
+      "text": "when the Ubadi is from Srirama to Sri Krishna."
+    },
+    {
+      "i": 195,
+      "start": 1179.72,
+      "end": 1185.56,
+      "text": "That Parameshwara knows both Srirama's time and Krishna's"
+    },
+    {
+      "i": 196,
+      "start": 1185.56,
+      "end": 1191.24,
+      "text": "time or the previous ones from. That is why he is able to"
+    },
+    {
+      "i": 197,
+      "start": 1191.24,
+      "end": 1196.68,
+      "text": "recollect that I have taught this Yoga to Vivaswan, the first"
+    },
+    {
+      "i": 198,
+      "start": 1196.68,
+      "end": 1205.92,
+      "text": "in the creation, and the vocative Parandava to Arjuna is"
+    },
+    {
+      "i": 199,
+      "start": 1205.92,
+      "end": 1209.52,
+      "text": "again deliberate because Krishna addresses Arjuna as culture of"
+    },
+    {
+      "i": 200,
+      "start": 1209.96,
+      "end": 1214.32,
+      "text": "enemies precisely when delivering what is from the"
+    },
+    {
+      "i": 201,
+      "start": 1214.32,
+      "end": 1218.76,
+      "text": "Vivaharika standpoint. A somewhat humbling statement."
+    },
+    {
+      "i": 202,
+      "start": 1218.76,
+      "end": 1225.52,
+      "text": "You do not know this epithet for Arjuna reminds Arjuna of his"
+    },
+    {
+      "i": 203,
+      "start": 1225.52,
+      "end": 1232.24,
+      "text": "power in the Vaivaharika domain. He is a scorcher of enemies even"
+    },
+    {
+      "i": 204,
+      "start": 1232.24,
+      "end": 1236.4,
+      "text": "as Krishna reveals his limitation in the Paramarthika"
+    },
+    {
+      "i": 205,
+      "start": 1236.4,
+      "end": 1242.52,
+      "text": "domain domain. This is what that is showing."
+    },
+    {
+      "i": 206,
+      "start": 1242.52,
+      "end": 1249.16,
+      "text": "Krishna is revealing Arjuna's limitation, the implicit"
+    },
+    {
+      "i": 207,
+      "start": 1249.16,
+      "end": 1252.08,
+      "text": "message. Even the greatest tratriya is"
+    },
+    {
+      "i": 208,
+      "start": 1252.08,
+      "end": 1253.96,
+      "text": "epistemologically bound by Avidya."
+    },
+    {
+      "i": 209,
+      "start": 1254.6,
+      "end": 1260.16,
+      "text": "Whoever he is, he can be a biggest, the greatest tratriya"
+    },
+    {
+      "i": 210,
+      "start": 1261.8,
+      "end": 1267.12,
+      "text": "and the liberation from Hindis bondage is precisely what the"
+    },
+    {
+      "i": 211,
+      "start": 1267.8,
+      "end": 1272.6,
+      "text": "Uttamam rehasyam which was discussed in the last class that"
+    },
+    {
+      "i": 212,
+      "start": 1272.6,
+      "end": 1285.56,
+      "text": "is going to take effect. So from the summary we know what"
+    },
+    {
+      "i": 213,
+      "start": 1285.56,
+      "end": 1290.68,
+      "text": "are the standpoint from the point of view of Krishna and"
+    },
+    {
+      "i": 214,
+      "start": 1290.68,
+      "end": 1298.04,
+      "text": "what is he telling Arjuna from his limited empirical body."
+    },
+    {
+      "i": 215,
+      "start": 1298.56,
+      "end": 1305.44,
+      "text": "He may not remember all of the in preparation for the next"
+    },
+    {
+      "i": 216,
+      "start": 1305.44,
+      "end": 1309.04,
+      "text": "verse. Shankaracharya says this entire"
+    },
+    {
+      "i": 217,
+      "start": 1309.04,
+      "end": 1314.36,
+      "text": "verse is carefully crafted and constructed threshold before the"
+    },
+    {
+      "i": 218,
+      "start": 1314.36,
+      "end": 1319.84,
+      "text": "great declaration which is going to come in the next verse which"
+    },
+    {
+      "i": 219,
+      "start": 1319.84,
+      "end": 1328.0,
+      "text": "is Ajobi son Abhyamatna Budhanam Ishwarobi son, Prakritim swam"
+    },
+    {
+      "i": 220,
+      "start": 1328.04,
+      "end": 1339.44,
+      "text": "Adishtaya Sambhavami Atmamayya tho being unborn, tho being"
+    },
+    {
+      "i": 221,
+      "start": 1339.44,
+      "end": 1345.04,
+      "text": "imperishable Atman tho being the Lord of all beings."
+    },
+    {
+      "i": 222,
+      "start": 1345.36,
+      "end": 1351.68,
+      "text": "So he is using the three tho being that is unborn,"
+    },
+    {
+      "i": 223,
+      "start": 1352.2,
+      "end": 1357.48,
+      "text": "imperishable, Atman, Lord of all beings, that is a Ajobi son"
+    },
+    {
+      "i": 224,
+      "start": 1358.16,
+      "end": 1363.72,
+      "text": "Isheropi son, right? So son prakriti."
+    },
+    {
+      "i": 225,
+      "start": 1366.8,
+      "end": 1375.92,
+      "text": "So all the three, taking resort to my own prakriti, I come into"
+    },
+    {
+      "i": 226,
+      "start": 1375.92,
+      "end": 1382.6,
+      "text": "being through my own Maya. Taking resort to my own"
+    },
+    {
+      "i": 227,
+      "start": 1382.6,
+      "end": 1387.04,
+      "text": "prakriti, I come into being through my own Maya."
+    },
+    {
+      "i": 228,
+      "start": 1388.56,
+      "end": 1393.8,
+      "text": "That verse is the ontological answer for 4.5, which we are now"
+    },
+    {
+      "i": 229,
+      "start": 1393.8,
+      "end": 1398.24,
+      "text": "going to complete. And this the epistemological"
+    },
+    {
+      "i": 230,
+      "start": 1398.24,
+      "end": 1402.64,
+      "text": "preparation, an asymmetric knowledge claim that makes"
+    },
+    {
+      "i": 231,
+      "start": 1402.64,
+      "end": 1405.56,
+      "text": "ontological disclosure necessary and intelligible."
+    },
+    {
+      "i": 232,
+      "start": 1410.72,
+      "end": 1413.84,
+      "text": "With this verse, Krishna has achieved something remarkable."
+    },
+    {
+      "i": 233,
+      "start": 1415.72,
+      "end": 1420.92,
+      "text": "He has accepted the full empirical framework, may"
+    },
+    {
+      "i": 234,
+      "start": 1420.92,
+      "end": 1424.84,
+      "text": "Vyvaharika framework. Yes, there are many burs."
+    },
+    {
+      "i": 235,
+      "start": 1424.88,
+      "end": 1430.48,
+      "text": "Yes, they have passed while simultaneously rupturing it from"
+    },
+    {
+      "i": 236,
+      "start": 1430.48,
+      "end": 1434.0,
+      "text": "within. From his standpoint also he is"
+    },
+    {
+      "i": 237,
+      "start": 1434.0,
+      "end": 1438.04,
+      "text": "talking. I know all of them, but you do"
+    },
+    {
+      "i": 238,
+      "start": 1438.04,
+      "end": 1441.24,
+      "text": "not know. And this asymmetry is"
+    },
+    {
+      "i": 239,
+      "start": 1441.24,
+      "end": 1445.56,
+      "text": "inexplicable from the point of view of Arjuna within the"
+    },
+    {
+      "i": 240,
+      "start": 1445.56,
+      "end": 1450.04,
+      "text": "Vyvaharika frame. Therefore, the demand there,"
+    },
+    {
+      "i": 241,
+      "start": 1450.12,
+      "end": 1454.88,
+      "text": "there is a demand for Oregon, the rupture, an explanation."
+    },
+    {
+      "i": 242,
+      "start": 1455.04,
+      "end": 1462.36,
+      "text": "And that explanation, the full Avatara rehasyam arrives in the"
+    },
+    {
+      "i": 243,
+      "start": 1462.36,
+      "end": 1467.68,
+      "text": "magnificent verse next to us, which Shankaracharya regards as"
+    },
+    {
+      "i": 244,
+      "start": 1467.68,
+      "end": 1472.0,
+      "text": "one of the most direct statements of Ishwara Swarupa,"
+    },
+    {
+      "i": 245,
+      "start": 1472.04,
+      "end": 1475.6,
+      "text": "Parameshwara Swarupa in the entire Prasanathri."
+    },
+    {
+      "i": 246,
+      "start": 1476.36,
+      "end": 1481.0,
+      "text": "In all the Prasanathri means all the Upanishad, Brahmasutra and"
+    },
+    {
+      "i": 247,
+      "start": 1481.0,
+      "end": 1483.84,
+      "text": "Geeta. This statement which is going to"
+    },
+    {
+      "i": 248,
+      "start": 1483.84,
+      "end": 1487.8,
+      "text": "be in the next one Ajobisan, which we are you read now know"
+    },
+    {
+      "i": 249,
+      "start": 1488.44,
+      "end": 1494.96,
+      "text": "Ajobisan Avayatma Bhutanam Ishwarobisan Prakritim swam"
+    },
+    {
+      "i": 250,
+      "start": 1495.0,
+      "end": 1502.44,
+      "text": "adistaya Sambhavami Atnamaya, that is the entire Prasanath"
+    },
+    {
+      "i": 251,
+      "start": 1502.44,
+      "end": 1506.28,
+      "text": "Rayi. One statement of Ishwara"
+    },
+    {
+      "i": 252,
+      "start": 1506.28,
+      "end": 1511.56,
+      "text": "himself. Let us look into the commentary"
+    },
+    {
+      "i": 253,
+      "start": 1511.56,
+      "end": 1517.04,
+      "text": "by word by was sentence by sentence by Bahuni Mein Mama"
+    },
+    {
+      "i": 254,
+      "start": 1517.12,
+      "end": 1520.56,
+      "text": "veettani adikaranti janmani tavache arjuna."
+    },
+    {
+      "i": 255,
+      "start": 1522.24,
+      "end": 1526.64,
+      "text": "Many births of mine have passed and yours to Arjuna Thani"
+    },
+    {
+      "i": 256,
+      "start": 1526.64,
+      "end": 1531.56,
+      "text": "Ahamveda Jaane Sarvani nathum veda na janishe."
+    },
+    {
+      "i": 257,
+      "start": 1533.2,
+      "end": 1538.68,
+      "text": "I know all of them without any exception, but you do not know"
+    },
+    {
+      "i": 258,
+      "start": 1538.68,
+      "end": 1543.72,
+      "text": "them. Dharma dharmadi Prathibanda"
+    },
+    {
+      "i": 259,
+      "start": 1544.04,
+      "end": 1549.88,
+      "text": "nyana sakti taad because your power of knowledge is obstructed"
+    },
+    {
+      "i": 260,
+      "start": 1550.84,
+      "end": 1556.88,
+      "text": "by Dharma Adharma and the like means karmic forces wielding the"
+    },
+    {
+      "i": 261,
+      "start": 1556.88,
+      "end": 1563.68,
+      "text": "knowledge due to the Uvadi aham punaha nitya suddha Buddha mukta"
+    },
+    {
+      "i": 262,
+      "start": 1563.68,
+      "end": 1570.44,
+      "text": "sobhavatwad but I being the nature of eternal purity,"
+    },
+    {
+      "i": 263,
+      "start": 1570.44,
+      "end": 1576.36,
+      "text": "knowledge and freedom. Anavaranas Yana sakti idam Idi"
+    },
+    {
+      "i": 264,
+      "start": 1576.36,
+      "end": 1583.8,
+      "text": "veda aham hai paranthapa possessing unobstructed power of"
+    },
+    {
+      "i": 265,
+      "start": 1583.8,
+      "end": 1586.44,
+      "text": "knowledge. I know them all."
+    },
+    {
+      "i": 266,
+      "start": 1587.0,
+      "end": 1593.52,
+      "text": "O Arjuna, sculpture of enemies. This verse introduces one of the"
+    },
+    {
+      "i": 267,
+      "start": 1593.52,
+      "end": 1598.08,
+      "text": "most important distinctions in Advaita Vedanta, the difference"
+    },
+    {
+      "i": 268,
+      "start": 1598.08,
+      "end": 1607.64,
+      "text": "between the Ishwara and Jiva. So anyone who is defining"
+    },
+    {
+      "i": 269,
+      "start": 1607.64,
+      "end": 1613.68,
+      "text": "Ishwara and Jiva have to necessarily quote this verse as"
+    },
+    {
+      "i": 270,
+      "start": 1613.96,
+      "end": 1617.32,
+      "text": "an authority. This is the pramana for it."
+    },
+    {
+      "i": 271,
+      "start": 1618.6,
+      "end": 1620.92,
+      "text": "Both Krishna and Arjuna have many births."
+    },
+    {
+      "i": 272,
+      "start": 1623.72,
+      "end": 1627.08,
+      "text": "Both have undergone many births but their births are not of the"
+    },
+    {
+      "i": 273,
+      "start": 1627.08,
+      "end": 1632.36,
+      "text": "same kind. Arjuna as a jiva born was due to"
+    },
+    {
+      "i": 274,
+      "start": 1632.36,
+      "end": 1637.44,
+      "text": "Karma and he is under the influence of avidya ignorant."
+    },
+    {
+      "i": 275,
+      "start": 1637.88,
+      "end": 1643.88,
+      "text": "Therefore, he is bound by the Ubadi, including the the notion"
+    },
+    {
+      "i": 276,
+      "start": 1643.88,
+      "end": 1652.12,
+      "text": "of the ego, whereas Avatara Ishwara appears by his own"
+    },
+    {
+      "i": 277,
+      "start": 1652.12,
+      "end": 1661.96,
+      "text": "choice, by Maya, he retains his omniscience and he is ever a"
+    },
+    {
+      "i": 278,
+      "start": 1661.96,
+      "end": 1667.84,
+      "text": "witness, thereby maintaining the freedom and never bound, bound"
+    },
+    {
+      "i": 279,
+      "start": 1667.84,
+      "end": 1671.08,
+      "text": "by the appearance in the empirical realm."
+    },
+    {
+      "i": 280,
+      "start": 1674.6,
+      "end": 1677.0,
+      "text": "Therefore, the similarity is only superficial."
+    },
+    {
+      "i": 281,
+      "start": 1677.76,
+      "end": 1680.32,
+      "text": "Both of them appear to be of human form."
+    },
+    {
+      "i": 282,
+      "start": 1684.16,
+      "end": 1689.48,
+      "text": "Why does not Arjuna remember? Because Jiva's knowledge is"
+    },
+    {
+      "i": 283,
+      "start": 1689.48,
+      "end": 1693.52,
+      "text": "obstructed by karma, Dharma and Dharma."
+    },
+    {
+      "i": 284,
+      "start": 1694.12,
+      "end": 1700.24,
+      "text": "Karma includes these two and both of them generate body,"
+    },
+    {
+      "i": 285,
+      "start": 1700.24,
+      "end": 1704.32,
+      "text": "mind, ignorance and therefore the memory becomes limited."
+    },
+    {
+      "i": 286,
+      "start": 1706.56,
+      "end": 1710.88,
+      "text": "Whereas Ishwara remembers all birth, Nitya shuddha Buddha"
+    },
+    {
+      "i": 287,
+      "start": 1710.88,
+      "end": 1716.16,
+      "text": "mukta to Bhavatvad nitya eternal shuddha means pure."
+    },
+    {
+      "i": 288,
+      "start": 1716.4,
+      "end": 1719.8,
+      "text": "Buddha means pure consciousness, Mukta means freedom."
+    },
+    {
+      "i": 289,
+      "start": 1721.12,
+      "end": 1724.24,
+      "text": "Therefore Krishna's knowledge is never obstructed."
+    },
+    {
+      "i": 290,
+      "start": 1727.88,
+      "end": 1733.04,
+      "text": "Anavarana nyana sakti, that is unobstructed knowledge, the"
+    },
+    {
+      "i": 291,
+      "start": 1733.04,
+      "end": 1735.24,
+      "text": "knowledge not covered by ignorance."
+    },
+    {
+      "i": 292,
+      "start": 1737.52,
+      "end": 1740.36,
+      "text": "For the Jiva, the knowledge is covered by avidya."
+    },
+    {
+      "i": 293,
+      "start": 1742.2,
+      "end": 1747.84,
+      "text": "In the case of Ishwara, there is no ignorance."
+    },
+    {
+      "i": 294,
+      "start": 1747.84,
+      "end": 1749.64,
+      "text": "Therefore knowledge is not covered."
+    },
+    {
+      "i": 295,
+      "start": 1756.54,
+      "end": 1759.38,
+      "text": "The example is sun behind the clouds."
+    },
+    {
+      "i": 296,
+      "start": 1759.54,
+      "end": 1764.64,
+      "text": "Dim light, unobstructed light, when it is in the sun is full"
+    },
+    {
+      "i": 297,
+      "start": 1764.64,
+      "end": 1767.68,
+      "text": "light. Therefore, the Jiva's knowledge"
+    },
+    {
+      "i": 298,
+      "start": 1767.68,
+      "end": 1771.8,
+      "text": "is clouded due to Avidya, whereas Ishwara's knowledge is"
+    },
+    {
+      "i": 299,
+      "start": 1771.8,
+      "end": 1775.84,
+      "text": "Suprakasha. It is the light of the sun"
+    },
+    {
+      "i": 300,
+      "start": 1775.84,
+      "end": 1788.76,
+      "text": "itself. The true Self is Uth Brahman"
+    },
+    {
+      "i": 301,
+      "start": 1788.76,
+      "end": 1792.96,
+      "text": "only in the Jiva and the Ishwara."
+    },
+    {
+      "i": 302,
+      "start": 1794.68,
+      "end": 1798.08,
+      "text": "The difference arises due to the limiting adjunct Upadhi."
+    },
+    {
+      "i": 303,
+      "start": 1802.16,
+      "end": 1805.28,
+      "text": "Remove the adjunct, both of them will be Brahman."
+    },
+    {
+      "i": 304,
+      "start": 1806.92,
+      "end": 1815.28,
+      "text": "Now here there is a question coming which is not written"
+    },
+    {
+      "i": 305,
+      "start": 1815.28,
+      "end": 1821.84,
+      "text": "here. But in my earlier discussions I"
+    },
+    {
+      "i": 306,
+      "start": 1821.84,
+      "end": 1827.44,
+      "text": "had asked this question. If Shiva and Ishwara like Arjuna"
+    },
+    {
+      "i": 307,
+      "start": 1827.44,
+      "end": 1836.68,
+      "text": "and Krishna assuming Arjuna became jeevan Mukta by acquiring"
+    },
+    {
+      "i": 308,
+      "start": 1836.68,
+      "end": 1839.96,
+      "text": "the knowledge and doing the Karunjan karma, yoga,"
+    },
+    {
+      "i": 309,
+      "start": 1840.28,
+      "end": 1844.56,
+      "text": "Yatnyarthan karma, all those things and then he acquires the"
+    },
+    {
+      "i": 310,
+      "start": 1844.56,
+      "end": 1852.36,
+      "text": "knowledge or Nyananishta and he knows Aham Brahmasmu, will he be"
+    },
+    {
+      "i": 311,
+      "start": 1852.36,
+      "end": 1855.56,
+      "text": "equal to Krishna? That is the question which I"
+    },
+    {
+      "i": 312,
+      "start": 1855.56,
+      "end": 1861.48,
+      "text": "asked my guru. That is the differences, the"
+    },
+    {
+      "i": 313,
+      "start": 1861.56,
+      "end": 1869.24,
+      "text": "upadhi or the body assumed by Iswara, even though it appears"
+    },
+    {
+      "i": 314,
+      "start": 1869.24,
+      "end": 1876.4,
+      "text": "to be similar to the human body, it is not a product of karma."
+    },
+    {
+      "i": 315,
+      "start": 1878.12,
+      "end": 1881.44,
+      "text": "Therefore the body of Krishna is a avatara body."
+    },
+    {
+      "i": 316,
+      "start": 1882.16,
+      "end": 1889.88,
+      "text": "That is why it is called an avatara and it is not an adjunct"
+    },
+    {
+      "i": 317,
+      "start": 1891.08,
+      "end": 1899.92,
+      "text": "which is a product of any karma. He chose an adjunct or body for"
+    },
+    {
+      "i": 318,
+      "start": 1899.92,
+      "end": 1904.92,
+      "text": "the purpose of whatever purpose He has taken the empirical form."
+    },
+    {
+      "i": 319,
+      "start": 1906.12,
+      "end": 1912.8,
+      "text": "Whereas the body of Arjuna which has now acquired the knowledge,"
+    },
+    {
+      "i": 320,
+      "start": 1913.88,
+      "end": 1920.44,
+      "text": "he sees the body as not himself. He is assuming his ego is also"
+    },
+    {
+      "i": 321,
+      "start": 1920.44,
+      "end": 1924.08,
+      "text": "gone. He becomes a jeevan Mukta."
+    },
+    {
+      "i": 322,
+      "start": 1925.48,
+      "end": 1932.48,
+      "text": "But the body with which the jeevan mukta function is not a"
+    },
+    {
+      "i": 323,
+      "start": 1933.6,
+      "end": 1940.92,
+      "text": "choice by the jeevan Mukta. He is in that body were the"
+    },
+    {
+      "i": 324,
+      "start": 1940.92,
+      "end": 1944.32,
+      "text": "Jeevan Mukta. He is what he has become."
+    },
+    {
+      "i": 325,
+      "start": 1944.32,
+      "end": 1947.12,
+      "text": "Mukta is. He has become freed from the"
+    },
+    {
+      "i": 326,
+      "start": 1947.72,
+      "end": 1950.04,
+      "text": "association with the adjunct of the body."
+    },
+    {
+      "i": 327,
+      "start": 1950.76,
+      "end": 1954.48,
+      "text": "He does not see the body as himself or his own."
+    },
+    {
+      "i": 328,
+      "start": 1955.32,
+      "end": 1957.72,
+      "text": "He is identifying Arham Brahmasmi."
+    },
+    {
+      "i": 329,
+      "start": 1958.52,
+      "end": 1964.88,
+      "text": "But the functions till the body falls will have to be using that"
+    },
+    {
+      "i": 330,
+      "start": 1964.88,
+      "end": 1969.96,
+      "text": "body only. Therefore he will not be an"
+    },
+    {
+      "i": 331,
+      "start": 1969.96,
+      "end": 1974.56,
+      "text": "Avatara or an Ishwara. But he is knowledge wise."
+    },
+    {
+      "i": 332,
+      "start": 1975.24,
+      "end": 1984.32,
+      "text": "He knows that he is Brahman and knowing Brahman is not like a"
+    },
+    {
+      "i": 333,
+      "start": 1984.6,
+      "end": 1990.08,
+      "text": "Parameshwara Avatara. In Brahman there is no birth and"
+    },
+    {
+      "i": 334,
+      "start": 1990.08,
+      "end": 1997.12,
+      "text": "death. Najayatem riyadeva kadhaji."
+    },
+    {
+      "i": 335,
+      "start": 1998.0,
+      "end": 2002.56,
+      "text": "So therefore there is no many birth to be known when he is"
+    },
+    {
+      "i": 336,
+      "start": 2002.56,
+      "end": 2009.0,
+      "text": "knowing Brahmanas himself. Whereas Ishwara he has used his"
+    },
+    {
+      "i": 337,
+      "start": 2009.0,
+      "end": 2013.64,
+      "text": "Maya in many avataras. So each avatara which for what"
+    },
+    {
+      "i": 338,
+      "start": 2013.64,
+      "end": 2019.24,
+      "text": "he took birth took empirical form is within his knowledge"
+    },
+    {
+      "i": 339,
+      "start": 2019.6,
+      "end": 2021.2,
+      "text": "even though he is Brahman himself."
+    },
+    {
+      "i": 340,
+      "start": 2023.52,
+      "end": 2028.88,
+      "text": "Therefore, these two are two separate aspects which has to be"
+    },
+    {
+      "i": 341,
+      "start": 2028.88,
+      "end": 2033.8,
+      "text": "kept in mind when we proceed further because Krishna will be"
+    },
+    {
+      "i": 342,
+      "start": 2033.8,
+      "end": 2038.92,
+      "text": "talking from the Avatara Krishna Parameswara point of view."
+    },
+    {
+      "i": 343,
+      "start": 2040.68,
+      "end": 2049.0,
+      "text": "We should not mix it up with a Brahmatnyani of jeevan Mukta"
+    },
+    {
+      "i": 344,
+      "start": 2049.0,
+      "end": 2053.48,
+      "text": "nature, but he is a Brahmatnyani of Brahman nature itself."
+    },
+    {
+      "i": 345,
+      "start": 2055.32,
+      "end": 2061.239,
+      "text": "Therefore, when we go down, especially in the 4.7 and 4.8"
+    },
+    {
+      "i": 346,
+      "start": 2061.239,
+      "end": 2078.84,
+      "text": "where he says these two places and everything, he's talking"
+    },
+    {
+      "i": 347,
+      "start": 2078.84,
+      "end": 2082.639,
+      "text": "from that point of view. Plus later in the Bhagavad Gita"
+    },
+    {
+      "i": 348,
+      "start": 2082.639,
+      "end": 2086.04,
+      "text": "also he will be using the similar standpoint where he is"
+    },
+    {
+      "i": 349,
+      "start": 2086.04,
+      "end": 2092.199,
+      "text": "explaining. So the deeper teaching is that"
+    },
+    {
+      "i": 350,
+      "start": 2092.32,
+      "end": 2096.6,
+      "text": "ultimately both Jiva and Ishwara are appearances within Brahma,"
+    },
+    {
+      "i": 351,
+      "start": 2098.36,
+      "end": 2103.0,
+      "text": "but until realization the distinct remains meaningful and"
+    },
+    {
+      "i": 352,
+      "start": 2105.2,
+      "end": 2112.04,
+      "text": "the realization both is realization is only in the case"
+    },
+    {
+      "i": 353,
+      "start": 2112.04,
+      "end": 2116.28,
+      "text": "of Jiva whereas Parameshwara is nityat nyana swaruva."
+    },
+    {
+      "i": 354,
+      "start": 2121.48,
+      "end": 2125.28,
+      "text": "So with these two things, nitya shuddha bhukta subhava when we"
+    },
+    {
+      "i": 355,
+      "start": 2125.28,
+      "end": 2130.68,
+      "text": "understood that is the nature of Krishna."
+    },
+    {
+      "i": 356,
+      "start": 2131.48,
+      "end": 2136.24,
+      "text": "So in a sense both Krishna and Arjuna have passed through many"
+    },
+    {
+      "i": 357,
+      "start": 2136.24,
+      "end": 2140.4,
+      "text": "biles, but Arjuna cannot remember them because of his"
+    },
+    {
+      "i": 358,
+      "start": 2141.08,
+      "end": 2145.2,
+      "text": "knowledge, which is obstructed by the karma and the body"
+    },
+    {
+      "i": 359,
+      "start": 2145.2,
+      "end": 2149.44,
+      "text": "adjunct. Whereas Krishna whose nature is"
+    },
+    {
+      "i": 360,
+      "start": 2149.44,
+      "end": 2155.76,
+      "text": "eternally pure, conscious and free from all limitations,"
+    },
+    {
+      "i": 361,
+      "start": 2155.92,
+      "end": 2160.2,
+      "text": "possesses the unobstructed knowledge and therefore knows"
+    },
+    {
+      "i": 362,
+      "start": 2160.2,
+      "end": 2165.68,
+      "text": "all. The birth Kadam tarahi nithya"
+    },
+    {
+      "i": 363,
+      "start": 2165.96,
+      "end": 2176.68,
+      "text": "nithya ishwarasya Dharma Dharma bhave API janma Idi uchate kadam"
+    },
+    {
+      "i": 364,
+      "start": 2176.68,
+      "end": 2180.52,
+      "text": "tarahi. Then how tava nithya ishwarasya"
+    },
+    {
+      "i": 365,
+      "start": 2181.04,
+      "end": 2189.04,
+      "text": "your eternal Ishwara hood Dharma Dharma a baby In the absence of"
+    },
+    {
+      "i": 366,
+      "start": 2189.04,
+      "end": 2194.84,
+      "text": "Dharma abhava aur karma, How can the janma idhi uchare?"
+    },
+    {
+      "i": 367,
+      "start": 2195.4,
+      "end": 2198.6,
+      "text": "How do you take birth if you don't have a karma?"
+    },
+    {
+      "i": 368,
+      "start": 2199.32,
+      "end": 2204.32,
+      "text": "Because Krishna Arjuna knows that it is the karma which gives"
+    },
+    {
+      "i": 369,
+      "start": 2204.32,
+      "end": 2210.32,
+      "text": "birth rise to the body and punya karma Papa karma depending upon"
+    },
+    {
+      "i": 370,
+      "start": 2210.32,
+      "end": 2213.48,
+      "text": "the bodies are when the rebirth is happening."
+    },
+    {
+      "i": 371,
+      "start": 2214.56,
+      "end": 2218.56,
+      "text": "That is what is deciding the nature of the body which is"
+    },
+    {
+      "i": 372,
+      "start": 2218.56,
+      "end": 2224.64,
+      "text": "being taken. If the absence of that Nithya"
+    },
+    {
+      "i": 373,
+      "start": 2224.64,
+      "end": 2230.92,
+      "text": "Ishwarasya, how do you have a body which is without the karma"
+    },
+    {
+      "i": 374,
+      "start": 2231.64,
+      "end": 2234.32,
+      "text": "and who is eternally an Ishwarasobhava?"
+    },
+    {
+      "i": 375,
+      "start": 2236.12,
+      "end": 2241.48,
+      "text": "That is why the sixth verse in the 4th chapter says Ajobisan"
+    },
+    {
+      "i": 376,
+      "start": 2241.68,
+      "end": 2247.28,
+      "text": "Abhiyatma Bhutanam Ishwarobisan Prakritim swam adistaya"
+    },
+    {
+      "i": 377,
+      "start": 2247.28,
+      "end": 2256.64,
+      "text": "Sambhavami Atma Mayaya Ajaha Abhi although unborn son means"
+    },
+    {
+      "i": 378,
+      "start": 2256.64,
+      "end": 2265.56,
+      "text": "being being although being unborn Aviya Atma one whose atma"
+    },
+    {
+      "i": 379,
+      "start": 2265.56,
+      "end": 2272.0,
+      "text": "is imperishable, Budhanam Ishwara of being of all"
+    },
+    {
+      "i": 380,
+      "start": 2272.2,
+      "end": 2280.88,
+      "text": "creatures Lord or sovereign controller API son."
+    },
+    {
+      "i": 381,
+      "start": 2281.2,
+      "end": 2289.0,
+      "text": "Even although being that Prakrithim swam adistaya, one's"
+    },
+    {
+      "i": 382,
+      "start": 2289.0,
+      "end": 2294.76,
+      "text": "own nature or Prakrithim, having taken resort to that, having"
+    },
+    {
+      "i": 383,
+      "start": 2297.24,
+      "end": 2308.12,
+      "text": "taken the station, using that Sambhavami Atma Mayaya, I come"
+    },
+    {
+      "i": 384,
+      "start": 2308.12,
+      "end": 2312.48,
+      "text": "into being, into a physical form, or I am born or I manifest"
+    },
+    {
+      "i": 385,
+      "start": 2312.48,
+      "end": 2318.08,
+      "text": "myself by my own Maya, not through the Karma and the"
+    },
+    {
+      "i": 386,
+      "start": 2318.8,
+      "end": 2322.48,
+      "text": "Uvadis. The Maya that is main alone,"
+    },
+    {
+      "i": 387,
+      "start": 2323.12,
+      "end": 2331.72,
+      "text": "Mamamaya Atma Mayaya I, although unborn, though of imperishable,"
+    },
+    {
+      "i": 388,
+      "start": 2331.72,
+      "end": 2337.28,
+      "text": "Atman, though Lord of all beings, having presided over my"
+    },
+    {
+      "i": 389,
+      "start": 2337.32,
+      "end": 2341.24,
+      "text": "own Prakriti, came into being by my own Maya."
+    },
+    {
+      "i": 390,
+      "start": 2349.06,
+      "end": 2353.42,
+      "text": "The 4.6 is the philosophical summit of the entire Avatara."
+    },
+    {
+      "i": 391,
+      "start": 2353.42,
+      "end": 2358.78,
+      "text": "Prakarana means the subject of Avatara."
+    },
+    {
+      "i": 392,
+      "start": 2361.18,
+      "end": 2365.4,
+      "text": "Sangarajaya regards this verse as one of the most concentrated"
+    },
+    {
+      "i": 393,
+      "start": 2365.4,
+      "end": 2370.8,
+      "text": "statements of Parameswara. Swarupa of the nature of"
+    },
+    {
+      "i": 394,
+      "start": 2371.64,
+      "end": 2375.84,
+      "text": "Parameswara in the Prastanathri. A worse word."
+    },
+    {
+      "i": 395,
+      "start": 2376.24,
+      "end": 2380.2,
+      "text": "Every word carries ontological weight and word."
+    },
+    {
+      "i": 396,
+      "start": 2380.2,
+      "end": 2384.08,
+      "text": "The tension between Paramartiga and vyawhariga standpoints is"
+    },
+    {
+      "i": 397,
+      "start": 2384.08,
+      "end": 2392.4,
+      "text": "held in maximum compression. The verse does three things"
+    },
+    {
+      "i": 398,
+      "start": 2392.4,
+      "end": 2398.88,
+      "text": "simultaneously. One, it asserts the paramarthika"
+    },
+    {
+      "i": 399,
+      "start": 2398.88,
+      "end": 2403.16,
+      "text": "identity of the speaker Ajaha Avayatma Ishwara."
+    },
+    {
+      "i": 400,
+      "start": 2404.28,
+      "end": 2409.52,
+      "text": "That is the identity. It acknowledges the vyavaharika"
+    },
+    {
+      "i": 401,
+      "start": 2409.52,
+      "end": 2414.56,
+      "text": "appearance of birth. Sambhavami means I take birth"
+    },
+    {
+      "i": 402,
+      "start": 2417.08,
+      "end": 2420.56,
+      "text": "#3. It he this verse explains the"
+    },
+    {
+      "i": 403,
+      "start": 2420.56,
+      "end": 2424.36,
+      "text": "mechanism by which the 2 are reconciled."
+    },
+    {
+      "i": 404,
+      "start": 2425.32,
+      "end": 2428.28,
+      "text": "Rakritin swam Adista aya, Atmama aya."
+    },
+    {
+      "i": 405,
+      "start": 2429.36,
+      "end": 2433.68,
+      "text": "That is the make. So the entire verse has been"
+    },
+    {
+      "i": 406,
+      "start": 2433.68,
+      "end": 2436.64,
+      "text": "divided into three things. One is ascertaining the"
+    },
+    {
+      "i": 407,
+      "start": 2436.64,
+      "end": 2440.44,
+      "text": "paramartiga nature of Ishwara or Avayatma or Raja."
+    },
+    {
+      "i": 408,
+      "start": 2441.36,
+      "end": 2444.8,
+      "text": "Second is acknowledging the Vyavahariya appearance of"
+    },
+    {
+      "i": 409,
+      "start": 2444.8,
+      "end": 2449.84,
+      "text": "Ishwara as Sambhavami. And the third is the mechanism."
+    },
+    {
+      "i": 410,
+      "start": 2451.16,
+      "end": 2454.48,
+      "text": "How did it? If it is not by karma, how did"
+    },
+    {
+      "i": 411,
+      "start": 2454.48,
+      "end": 2457.08,
+      "text": "the birth take place? That is the answer saying"
+    },
+    {
+      "i": 412,
+      "start": 2457.44,
+      "end": 2463.0,
+      "text": "Prakriti swam adistaya enough. Placing myself in the prakriti"
+    },
+    {
+      "i": 413,
+      "start": 2463.72,
+      "end": 2475.24,
+      "text": "of my own, I use my aamaya to embody myself as per Sankarajya."
+    },
+    {
+      "i": 414,
+      "start": 2475.44,
+      "end": 2478.28,
+      "text": "This verse is Geeta's own Adyasabarshya."
+    },
+    {
+      "i": 415,
+      "start": 2480.24,
+      "end": 2483.88,
+      "text": "The locus word Parameshwara himself explains how"
+    },
+    {
+      "i": 416,
+      "start": 2483.88,
+      "end": 2488.24,
+      "text": "superimposition adyasa of birth characteristics upon the"
+    },
+    {
+      "i": 417,
+      "start": 2488.24,
+      "end": 2494.96,
+      "text": "birthless Atman operates not through ignorance because in the"
+    },
+    {
+      "i": 418,
+      "start": 2495.76,
+      "end": 2499.36,
+      "text": "Ramasutra where the Adyasabarshya is being think, he"
+    },
+    {
+      "i": 419,
+      "start": 2499.36,
+      "end": 2505.08,
+      "text": "has used ignorance avidya as the Causeway for adyasa."
+    },
+    {
+      "i": 420,
+      "start": 2506.84,
+      "end": 2513.08,
+      "text": "Here he does not use adyasa As for the birthless Atman to take"
+    },
+    {
+      "i": 421,
+      "start": 2513.08,
+      "end": 2519.04,
+      "text": "birth. In the Jiva's case it is Avidya,"
+    },
+    {
+      "i": 422,
+      "start": 2520.44,
+      "end": 2525.4,
+      "text": "but in the case of Ishwara, the sovereign Mayasakti Atma Mayaya."
+    },
+    {
+      "i": 423,
+      "start": 2532.52,
+      "end": 2535.12,
+      "text": "Sankaracharya opens the bhashya for this verse."
+    },
+    {
+      "i": 424,
+      "start": 2535.12,
+      "end": 2539.88,
+      "text": "Starting with Ajobisan establishes the absolute"
+    },
+    {
+      "i": 425,
+      "start": 2539.88,
+      "end": 2546.24,
+      "text": "paramarthika standpoint of the speaker Krishna before the"
+    },
+    {
+      "i": 426,
+      "start": 2546.24,
+      "end": 2548.32,
+      "text": "Vyavaharika appearance is mentioned."
+    },
+    {
+      "i": 427,
+      "start": 2549.68,
+      "end": 2554.92,
+      "text": "The order is deliberate. Reality precedes appearance."
+    },
+    {
+      "i": 428,
+      "start": 2555.92,
+      "end": 2561.68,
+      "text": "Therefore Swarupa precedes Vivarta by leading the ajaha."
+    },
+    {
+      "i": 429,
+      "start": 2563.12,
+      "end": 2567.72,
+      "text": "Krishna announces whatever follows birth, appearance,"
+    },
+    {
+      "i": 430,
+      "start": 2567.72,
+      "end": 2571.28,
+      "text": "avatara must be understood in the light of this prior truth."
+    },
+    {
+      "i": 431,
+      "start": 2571.76,
+      "end": 2576.2,
+      "text": "The speaker is fundamentally essentially identifying himself"
+    },
+    {
+      "i": 432,
+      "start": 2576.2,
+      "end": 2585.18,
+      "text": "as Paramartika. Truth that he is unborn, very"
+    },
+    {
+      "i": 433,
+      "start": 2585.18,
+      "end": 2588.02,
+      "text": "pregnant was lot of things to do."
+    },
+    {
+      "i": 434,
+      "start": 2588.02,
+      "end": 2596.92,
+      "text": "Manana and nidhidyasan on that Avayatma compounds with ajaha to"
+    },
+    {
+      "i": 435,
+      "start": 2596.92,
+      "end": 2600.08,
+      "text": "form a double negation of temporal limitation."
+    },
+    {
+      "i": 436,
+      "start": 2601.04,
+      "end": 2606.8,
+      "text": "AA Jaha means AA means non. JA means birth to birthless"
+    },
+    {
+      "i": 437,
+      "start": 2607.24,
+      "end": 2612.64,
+      "text": "negates the birth. Adikala means from time"
+    },
+    {
+      "i": 438,
+      "start": 2612.64,
+      "end": 2617.68,
+      "text": "immemorial there is no birth, therefore he is there before"
+    },
+    {
+      "i": 439,
+      "start": 2617.68,
+      "end": 2624.0,
+      "text": "time. Aviya negates the Vyaya means"
+    },
+    {
+      "i": 440,
+      "start": 2624.92,
+      "end": 2627.56,
+      "text": "death, decay, modification etcetera."
+    },
+    {
+      "i": 441,
+      "start": 2627.92,
+      "end": 2633.64,
+      "text": "Avyaya means no birth, death, no beginning, no end, no"
+    },
+    {
+      "i": 442,
+      "start": 2633.64,
+      "end": 2642.64,
+      "text": "modification, anantakala. So Adikala and Anantakala Ajaha"
+    },
+    {
+      "i": 443,
+      "start": 2642.64,
+      "end": 2647.2,
+      "text": "is to indicate that he is time memorial from the beginning and"
+    },
+    {
+      "i": 444,
+      "start": 2647.2,
+      "end": 2652.4,
+      "text": "when he says Avyaya means it is not that he is there from time"
+    },
+    {
+      "i": 445,
+      "start": 2652.4,
+      "end": 2660.48,
+      "text": "memorial but he will last eternally the complete Kudasta"
+    },
+    {
+      "i": 446,
+      "start": 2660.48,
+      "end": 2666.2,
+      "text": "nithya. Kudasta means the apex, the"
+    },
+    {
+      "i": 447,
+      "start": 2666.2,
+      "end": 2669.52,
+      "text": "prime Nithya nature of Paramathman."
+    },
+    {
+      "i": 448,
+      "start": 2671.92,
+      "end": 2676.56,
+      "text": "Sankarajarya reads this as the Gita's statement of Brahman's"
+    },
+    {
+      "i": 449,
+      "start": 2676.56,
+      "end": 2681.12,
+      "text": "Lekshana. In the Taitriya we heard satyam"
+    },
+    {
+      "i": 450,
+      "start": 2681.12,
+      "end": 2686.4,
+      "text": "pyanam anandam brahma. Here it is expressed as ajaha,"
+    },
+    {
+      "i": 451,
+      "start": 2686.68,
+      "end": 2694.76,
+      "text": "Avaya, no birth, no beginning. And Avaya means no decay, no"
+    },
+    {
+      "i": 452,
+      "start": 2694.76,
+      "end": 2697.68,
+      "text": "end. No modification means ananda."
+    },
+    {
+      "i": 453,
+      "start": 2698.32,
+      "end": 2708.96,
+      "text": "So ajananda Ajaha Ananda no birth no end Udhana Ishwaraha"
+    },
+    {
+      "i": 454,
+      "start": 2709.0,
+      "end": 2717.08,
+      "text": "Apisan, although being the Lord of all the construction mirrors"
+    },
+    {
+      "i": 455,
+      "start": 2717.08,
+      "end": 2722.6,
+      "text": "the first Ajaha apisan, creating a parallel double concessive"
+    },
+    {
+      "i": 456,
+      "start": 2723.04,
+      "end": 2729.28,
+      "text": "that Ajaha Apisan although being unborn, Ishwaraha Apisan"
+    },
+    {
+      "i": 457,
+      "start": 2729.6,
+      "end": 2732.2,
+      "text": "although being the Lord of beings."
+    },
+    {
+      "i": 458,
+      "start": 2732.76,
+      "end": 2735.68,
+      "text": "Both are paramartica qualifications of the same"
+    },
+    {
+      "i": 459,
+      "start": 2735.68,
+      "end": 2741.28,
+      "text": "speaker. Both are held in tension with"
+    },
+    {
+      "i": 460,
+      "start": 2741.6,
+      "end": 2746.04,
+      "text": "Vyawharika appearance of Sambhava birth that follows."
+    },
+    {
+      "i": 461,
+      "start": 2746.6,
+      "end": 2754.4,
+      "text": "So it is the physical body of Krishna which is claiming that I"
+    },
+    {
+      "i": 462,
+      "start": 2754.4,
+      "end": 2758.44,
+      "text": "am not born or although a being unborn."
+    },
+    {
+      "i": 463,
+      "start": 2759.32,
+      "end": 2764.44,
+      "text": "And he is also saying although being Lord of all beings but"
+    },
+    {
+      "i": 464,
+      "start": 2764.6,
+      "end": 2767.16,
+      "text": "appears to be embodied in a human form."
+    },
+    {
+      "i": 465,
+      "start": 2770.36,
+      "end": 2775.56,
+      "text": "That is the tension. The Vyavaharika appearance with"
+    },
+    {
+      "i": 466,
+      "start": 2775.56,
+      "end": 2783.64,
+      "text": "a Paramarthika qualification in addition to this Ishwarabi son"
+    },
+    {
+      "i": 467,
+      "start": 2783.88,
+      "end": 2791.08,
+      "text": "Ajaharbi son. The shifting takes place from"
+    },
+    {
+      "i": 468,
+      "start": 2791.08,
+      "end": 2796.12,
+      "text": "ontological to telelogical. Ishwara, the sovereign who"
+    },
+    {
+      "i": 469,
+      "start": 2796.12,
+      "end": 2800.48,
+      "text": "governs this for the purpose. So Sankarajarya notes that"
+    },
+    {
+      "i": 470,
+      "start": 2800.48,
+      "end": 2804.56,
+      "text": "Ishwara here signals that the avatara is not an accident or a"
+    },
+    {
+      "i": 471,
+      "start": 2804.56,
+      "end": 2810.44,
+      "text": "compulsion for the Lord to take place, that it is a sovereign"
+    },
+    {
+      "i": 472,
+      "start": 2810.44,
+      "end": 2816.08,
+      "text": "choice. Svecha means he decided, so he"
+    },
+    {
+      "i": 473,
+      "start": 2816.08,
+      "end": 2822.24,
+      "text": "became of Parameshwara who is never subject to karma or kala"
+    },
+    {
+      "i": 474,
+      "start": 2822.64,
+      "end": 2828.56,
+      "text": "is beyond karma and kala. A jiva takes birth under the"
+    },
+    {
+      "i": 475,
+      "start": 2828.56,
+      "end": 2833.92,
+      "text": "compulsion of karma. The Ishwara takes birth through"
+    },
+    {
+      "i": 476,
+      "start": 2834.36,
+      "end": 2840.36,
+      "text": "Mayasakti, Atma Mayaya, which is his own power, not a power that"
+    },
+    {
+      "i": 477,
+      "start": 2840.36,
+      "end": 2846.12,
+      "text": "controls him, but the power is under his beck and call."
+    },
+    {
+      "i": 478,
+      "start": 2850.16,
+      "end": 2855.2,
+      "text": "The Sankarajarya distinguishes the Ishira of this verse from"
+    },
+    {
+      "i": 479,
+      "start": 2855.2,
+      "end": 2863.48,
+      "text": "the Nirguna Brahman. The Ishira is Brahman as Saguna."
+    },
+    {
+      "i": 480,
+      "start": 2866.4,
+      "end": 2869.96,
+      "text": "Brahman is considered through the Upadhi of Maya as"
+    },
+    {
+      "i": 481,
+      "start": 2869.96,
+      "end": 2873.0,
+      "text": "omniscient, omnipotent, sovereign of Prakriti."
+    },
+    {
+      "i": 482,
+      "start": 2874.92,
+      "end": 2877.32,
+      "text": "The Avatara occurs at the Ishwara level."
+    },
+    {
+      "i": 483,
+      "start": 2878.44,
+      "end": 2884.04,
+      "text": "It is Ishwara's Maya expressing itself as visible, embodied, 1"
+    },
+    {
+      "i": 484,
+      "start": 2885.68,
+      "end": 2888.72,
+      "text": "not a modification of Nirguna Brahman itself."
+    },
+    {
+      "i": 485,
+      "start": 2890.68,
+      "end": 2894.56,
+      "text": "Therefore, this protects Brahman's absolute immutability"
+    },
+    {
+      "i": 486,
+      "start": 2896.16,
+      "end": 2903.6,
+      "text": "while explaining the Vyavaharika Saguna appearance of the Avatara"
+    },
+    {
+      "i": 487,
+      "start": 2905.08,
+      "end": 2910.04,
+      "text": "with paramarthika qualities of Ajaha Ananta."
+    },
+    {
+      "i": 488,
+      "start": 2913.28,
+      "end": 2919.12,
+      "text": "So the confusion where people have got nirguna and saguna is"
+    },
+    {
+      "i": 489,
+      "start": 2919.28,
+      "end": 2924.96,
+      "text": "answered in this one. The nirguna doesn't become"
+    },
+    {
+      "i": 490,
+      "start": 2925.24,
+      "end": 2926.96,
+      "text": "different when it becomes saguna."
+    },
+    {
+      "i": 491,
+      "start": 2929.08,
+      "end": 2938.52,
+      "text": "The saguna is a concession opted by the Nirguna for the purpose"
+    },
+    {
+      "i": 492,
+      "start": 2938.52,
+      "end": 2945.48,
+      "text": "of Vyavaharika, without modifying himself or without"
+    },
+    {
+      "i": 493,
+      "start": 2945.48,
+      "end": 2950.08,
+      "text": "losing any of his potencies of omniscient, omnipotent,"
+    },
+    {
+      "i": 494,
+      "start": 2950.08,
+      "end": 2956.2,
+      "text": "etcetera. If this can be understood, all"
+    },
+    {
+      "i": 495,
+      "start": 2956.2,
+      "end": 2959.44,
+      "text": "dialogues between Nirguna and Saguna can be stopped once and"
+    },
+    {
+      "i": 496,
+      "start": 2959.44,
+      "end": 2965.8,
+      "text": "for all. Prakriti swam Adishthaya."
+    },
+    {
+      "i": 497,
+      "start": 2966.48,
+      "end": 2972.8,
+      "text": "That is how he is doing that having taken resort or having"
+    },
+    {
+      "i": 498,
+      "start": 2972.8,
+      "end": 2980.68,
+      "text": "presided over his own Prakriti. It expresses the mechanism of"
+    },
+    {
+      "i": 499,
+      "start": 2980.68,
+      "end": 2986.92,
+      "text": "Avadhara not passive subject of Prakriti as the Jiva is subject"
+    },
+    {
+      "i": 500,
+      "start": 2988.52,
+      "end": 2993.84,
+      "text": "here the Prakriti is not the Prakriti of the Sankhya system."
+    },
+    {
+      "i": 501,
+      "start": 2995.56,
+      "end": 3001.64,
+      "text": "Purusha and Prakriti of Sankhya. But here the Prakriti is Maya"
+    },
+    {
+      "i": 502,
+      "start": 3001.64,
+      "end": 3007.2,
+      "text": "itself but active, sovereign presiding over it Ajistana."
+    },
+    {
+      "i": 503,
+      "start": 3009.88,
+      "end": 3013.56,
+      "text": "This is the grammatical encoding of Ishwara Jiva difference in"
+    },
+    {
+      "i": 504,
+      "start": 3013.56,
+      "end": 3017.04,
+      "text": "relation to Prakriti. The Jiva is driven by the"
+    },
+    {
+      "i": 505,
+      "start": 3017.04,
+      "end": 3020.4,
+      "text": "Prakriti, whereas Ishwara presides over it."
+    },
+    {
+      "i": 506,
+      "start": 3028.36,
+      "end": 3035.8,
+      "text": "So Soyam Prakriti as Mayam, his own Maya, the sovereign Shakti"
+    },
+    {
+      "i": 507,
+      "start": 3036.04,
+      "end": 3039.68,
+      "text": "that belongs to Ishwara alone and operates entirely under his"
+    },
+    {
+      "i": 508,
+      "start": 3039.68,
+      "end": 3043.0,
+      "text": "governance. The word Adistaya, having"
+    },
+    {
+      "i": 509,
+      "start": 3043.0,
+      "end": 3046.6,
+      "text": "presided over his giving, is given its full weight."
+    },
+    {
+      "i": 510,
+      "start": 3047.36,
+      "end": 3049.76,
+      "text": "The Parameswara is never pragruti."
+    },
+    {
+      "i": 511,
+      "start": 3049.76,
+      "end": 3056.04,
+      "text": "Vasa subject to pragruti. He is always pragruti."
+    },
+    {
+      "i": 512,
+      "start": 3056.4,
+      "end": 3059.92,
+      "text": "Adistadar means sovereign presider over pragruti."
+    },
+    {
+      "i": 513,
+      "start": 3060.76,
+      "end": 3067.2,
+      "text": "This directly contrasts with the Bhagavad Gita 1321."
+    },
+    {
+      "i": 514,
+      "start": 3068.4,
+      "end": 3075.92,
+      "text": "Purushaha Prakriti, Prakriti, stohi bhumte prakriti jaan"
+    },
+    {
+      "i": 515,
+      "start": 3075.92,
+      "end": 3078.8,
+      "text": "gunan. The Purusha stationed in"
+    },
+    {
+      "i": 516,
+      "start": 3078.8,
+      "end": 3083.76,
+      "text": "Prakriti experiences the qualities born of Prakriti,"
+    },
+    {
+      "i": 517,
+      "start": 3084.68,
+      "end": 3088.6,
+      "text": "which describes the Jeeva's objection to prakriti,"
+    },
+    {
+      "i": 518,
+      "start": 3089.12,
+      "end": 3093.96,
+      "text": "subjection to prakriti, Jeeva's subjection subjectivity to"
+    },
+    {
+      "i": 519,
+      "start": 3093.96,
+      "end": 3097.36,
+      "text": "prakriti. The Ishwara is pragriti."
+    },
+    {
+      "i": 520,
+      "start": 3097.36,
+      "end": 3101.72,
+      "text": "Adhistana is presiding over the pragriti, not a pragritista"
+    },
+    {
+      "i": 521,
+      "start": 3101.8,
+      "end": 3107.04,
+      "text": "stationed within the and subjected to by the Pragriti."
+    },
+    {
+      "i": 522,
+      "start": 3109.68,
+      "end": 3114.8,
+      "text": "Therefore, Adhistaya encodes the advaitic principle of vivarta"
+    },
+    {
+      "i": 523,
+      "start": 3114.8,
+      "end": 3117.68,
+      "text": "ubadana. That means Ishwara does not"
+    },
+    {
+      "i": 524,
+      "start": 3117.68,
+      "end": 3122.36,
+      "text": "become Pragriti nor transforms into a body parinama."
+    },
+    {
+      "i": 525,
+      "start": 3123.44,
+      "end": 3129.6,
+      "text": "He presides over Maya and through it the appearance of"
+    },
+    {
+      "i": 526,
+      "start": 3129.6,
+      "end": 3133.4,
+      "text": "embodiment. Sambhava arises without any real"
+    },
+    {
+      "i": 527,
+      "start": 3133.4,
+      "end": 3135.72,
+      "text": "modification to the Atmanor Brahman."
+    },
+    {
+      "i": 528,
+      "start": 3137.28,
+      "end": 3142.56,
+      "text": "This is the Advaitic Vivartavada VS Sankhya's Parinamavada"
+    },
+    {
+      "i": 529,
+      "start": 3142.88,
+      "end": 3151.8,
+      "text": "distinction encoded in the single words Sambhavami Atma"
+    },
+    {
+      "i": 530,
+      "start": 3151.8,
+      "end": 3154.76,
+      "text": "Mayaya. I came into being by means of my"
+    },
+    {
+      "i": 531,
+      "start": 3154.76,
+      "end": 3158.96,
+      "text": "own Maya. Instrumental Atma Maya expresses"
+    },
+    {
+      "i": 532,
+      "start": 3162.88,
+      "end": 3166.72,
+      "text": "Karanagaraka. The Maya is instrument for"
+    },
+    {
+      "i": 533,
+      "start": 3166.72,
+      "end": 3173.56,
+      "text": "Sambhava Pragrthim swam Aditya. Sambhavami Atma Mayaya is the"
+    },
+    {
+      "i": 534,
+      "start": 3173.56,
+      "end": 3177.08,
+      "text": "statement. Having presided on over my own"
+    },
+    {
+      "i": 535,
+      "start": 3177.08,
+      "end": 3180.08,
+      "text": "Pragrthi, I manifest by means of my own Maya."
+    },
+    {
+      "i": 536,
+      "start": 3182.24,
+      "end": 3190.28,
+      "text": "Therefore the Maya is an instrument for the"
+    },
+    {
+      "i": 537,
+      "start": 3190.28,
+      "end": 3196.08,
+      "text": "Brahmanaratmen which he has absolute control, sovereign"
+    },
+    {
+      "i": 538,
+      "start": 3196.12,
+      "end": 3201.6,
+      "text": "power. The philosophical crux of this"
+    },
+    {
+      "i": 539,
+      "start": 3201.6,
+      "end": 3205.76,
+      "text": "verse and the Avatara doctrine is the Avatara doctrine."
+    },
+    {
+      "i": 540,
+      "start": 3205.84,
+      "end": 3209.68,
+      "text": "Shankarajayya says that he carefully distinguishes Atma"
+    },
+    {
+      "i": 541,
+      "start": 3209.68,
+      "end": 3214.12,
+      "text": "Maya from Avidya Maya that governs the Jeevan Janma."
+    },
+    {
+      "i": 542,
+      "start": 3215.48,
+      "end": 3218.88,
+      "text": "For the Jeeva birth occurs through Avidya Karma, Karma, the"
+    },
+    {
+      "i": 543,
+      "start": 3218.88,
+      "end": 3226.64,
+      "text": "three triputis or the triad. Avidya generates karma due to"
+    },
+    {
+      "i": 544,
+      "start": 3226.64,
+      "end": 3232.88,
+      "text": "karma he gets into karma and karma is deluding him further"
+    },
+    {
+      "i": 545,
+      "start": 3233.48,
+      "end": 3237.2,
+      "text": "fiating karma. Then keep keep on cycle again"
+    },
+    {
+      "i": 546,
+      "start": 3237.2,
+      "end": 3240.52,
+      "text": "and again the compulsive mechanism of ignorance,"
+    },
+    {
+      "i": 547,
+      "start": 3240.6,
+      "end": 3244.88,
+      "text": "generating desire, generating action, generating rebirth"
+    },
+    {
+      "i": 548,
+      "start": 3244.88,
+      "end": 3248.04,
+      "text": "etcetera. The jiva does not choose its"
+    },
+    {
+      "i": 549,
+      "start": 3248.04,
+      "end": 3250.84,
+      "text": "birth. It is driven into it by"
+    },
+    {
+      "i": 550,
+      "start": 3250.84,
+      "end": 3254.32,
+      "text": "accumulated weight of karma operating through Avidya."
+    },
+    {
+      "i": 551,
+      "start": 3256.04,
+      "end": 3261.52,
+      "text": "For Ishwara, the body Sambhava occurs through Atma Maya, the"
+    },
+    {
+      "i": 552,
+      "start": 3261.52,
+      "end": 3266.2,
+      "text": "sovereign creative will of the Ishwara, entirely free from"
+    },
+    {
+      "i": 553,
+      "start": 3266.2,
+      "end": 3270.16,
+      "text": "avidya or karma. Therefore Parameswara is"
+    },
+    {
+      "i": 554,
+      "start": 3272.76,
+      "end": 3279.12,
+      "text": "akarmabanda unbound by karma. As Krishna will say in 14th"
+    },
+    {
+      "i": 555,
+      "start": 3279.12,
+      "end": 3287.36,
+      "text": "verse namam karmani limpandi. The karmas will not limpandi"
+    },
+    {
+      "i": 556,
+      "start": 3287.36,
+      "end": 3295.04,
+      "text": "means wet or touch is Sambhava are happening is pure expression"
+    },
+    {
+      "i": 557,
+      "start": 3295.04,
+      "end": 3300.2,
+      "text": "of Ishwara Icha divine will not compelled or conditioned by or"
+    },
+    {
+      "i": 558,
+      "start": 3300.2,
+      "end": 3306.04,
+      "text": "bound by. So Shankarajya says the Atma"
+    },
+    {
+      "i": 559,
+      "start": 3306.04,
+      "end": 3311.12,
+      "text": "Maya as the same Maya described in the Shweta Shweta Upanishad"
+    },
+    {
+      "i": 560,
+      "start": 3312.04,
+      "end": 3317.44,
+      "text": "Mayaam, tu Pragritim, Vidhayan, Mayinam, tu Maheshwaram know the"
+    },
+    {
+      "i": 561,
+      "start": 3317.44,
+      "end": 3324.2,
+      "text": "Maya as Prakriti and the wielder of Maya as Maheshwara, Mayin the"
+    },
+    {
+      "i": 562,
+      "start": 3324.2,
+      "end": 3329.52,
+      "text": "Vidar and never bound by Maya, He is its sovereign ground."
+    },
+    {
+      "i": 563,
+      "start": 3330.24,
+      "end": 3334.8,
+      "text": "The Jiva, by contrast, is the Maya Mohita diluted by the Maya."
+    },
+    {
+      "i": 564,
+      "start": 3338.24,
+      "end": 3341.44,
+      "text": "The present tense Sambhavami receives a special attention"
+    },
+    {
+      "i": 565,
+      "start": 3341.56,
+      "end": 3346.24,
+      "text": "from Shankarajya. Its signal Savatara is not"
+    },
+    {
+      "i": 566,
+      "start": 3346.24,
+      "end": 3351.52,
+      "text": "unique, historical even, but a timeless recurrent sovereign"
+    },
+    {
+      "i": 567,
+      "start": 3351.52,
+      "end": 3356.16,
+      "text": "manifestation of Parameshwara. I came into being."
+    },
+    {
+      "i": 568,
+      "start": 3356.16,
+      "end": 3360.0,
+      "text": "Whenever Dharma declines, he will go to the next verse. 40"
+    },
+    {
+      "i": 569,
+      "start": 3360.0,
+      "end": 3363.04,
+      "text": "seven 4.7. At that time it will be"
+    },
+    {
+      "i": 570,
+      "start": 3363.04,
+      "end": 3365.76,
+      "text": "elaborated yada yada hi dharmasyaglaner bawadi."
+    },
+    {
+      "i": 571,
+      "start": 3368.72,
+      "end": 3377.2,
+      "text": "So the verse is Gita's on Adyasavarshya and it also gives"
+    },
+    {
+      "i": 572,
+      "start": 3377.2,
+      "end": 3380.8,
+      "text": "the comparison between Vivarthawada and Parinamavada."
+    },
+    {
+      "i": 573,
+      "start": 3381.72,
+      "end": 3384.88,
+      "text": "Whereas Arduaita accepts only the Vivarthawada."
+    },
+    {
+      "i": 574,
+      "start": 3385.6,
+      "end": 3388.76,
+      "text": "Parinamavada is the doctrine that Brahman actually transforms"
+    },
+    {
+      "i": 575,
+      "start": 3388.76,
+      "end": 3392.56,
+      "text": "into world which is held by the Sankhya and some Visastha"
+    },
+    {
+      "i": 576,
+      "start": 3392.56,
+      "end": 3398.64,
+      "text": "Advaita positions Adistaya presiding over or not becoming"
+    },
+    {
+      "i": 577,
+      "start": 3399.72,
+      "end": 3402.96,
+      "text": "and the Atma Maya through Atma Maya through appearance"
+    },
+    {
+      "i": 578,
+      "start": 3402.96,
+      "end": 3405.76,
+      "text": "producing the power, not a real transformation."
+    },
+    {
+      "i": 579,
+      "start": 3406.6,
+      "end": 3409.8,
+      "text": "Together assert the Ishwara does not actually become a human"
+    },
+    {
+      "i": 580,
+      "start": 3409.8,
+      "end": 3416.48,
+      "text": "form, the Avatara body or the body of Krishna Maya Nirmita"
+    },
+    {
+      "i": 581,
+      "start": 3416.52,
+      "end": 3421.36,
+      "text": "Rupa, which is a form produced by Maya, which is equivalent to"
+    },
+    {
+      "i": 582,
+      "start": 3421.36,
+      "end": 3425.0,
+      "text": "Vivarta, apparent transformation, not a Parinama"
+    },
+    {
+      "i": 583,
+      "start": 3425.0,
+      "end": 3429.28,
+      "text": "real transformation. Therefore, the Nirguna Atman"
+    },
+    {
+      "i": 584,
+      "start": 3429.28,
+      "end": 3434.0,
+      "text": "remains absolutely unchanged Avaya atma."
+    },
+    {
+      "i": 585,
+      "start": 3438.52,
+      "end": 3445.8,
+      "text": "So the Pratyagatma teaching is employed in this teaching in"
+    },
+    {
+      "i": 586,
+      "start": 3445.8,
+      "end": 3450.16,
+      "text": "this verse. The deepest implication of this"
+    },
+    {
+      "i": 587,
+      "start": 3450.16,
+      "end": 3456.28,
+      "text": "verse is its mirror teaching for Jiva."
+    },
+    {
+      "i": 588,
+      "start": 3456.76,
+      "end": 3462.08,
+      "text": "If Parameshwara is Ajobi son, unborn through the unborn,"
+    },
+    {
+      "i": 589,
+      "start": 3462.24,
+      "end": 3467.72,
+      "text": "though appearing as bound, then the pratyagatma, the innermost"
+    },
+    {
+      "i": 590,
+      "start": 3467.72,
+      "end": 3472.56,
+      "text": "self of the jiva, which is non different from Parameshwara at"
+    },
+    {
+      "i": 591,
+      "start": 3472.56,
+      "end": 3478.24,
+      "text": "the point of Paramarthika level is also unborn, imperishable and"
+    },
+    {
+      "i": 592,
+      "start": 3478.24,
+      "end": 3482.04,
+      "text": "sobering. The Jiva's experience of birth"
+    },
+    {
+      "i": 593,
+      "start": 3482.04,
+      "end": 3487.84,
+      "text": "and death like Ishwara's Sambhava, A Mayakrita appearance"
+    },
+    {
+      "i": 594,
+      "start": 3487.84,
+      "end": 3490.68,
+      "text": "superimposed upon the birthless chit."
+    },
+    {
+      "i": 595,
+      "start": 3491.4,
+      "end": 3494.28,
+      "text": "The difference Ishwara knows is Veda."
+    },
+    {
+      "i": 596,
+      "start": 3494.72,
+      "end": 3499.72,
+      "text": "The Jiva does not know Navaeta because Avidya wields the jiva."
+    },
+    {
+      "i": 597,
+      "start": 3502.96,
+      "end": 3508.24,
+      "text": "Therefore Jiva's own ajata Avaya, Ishwara's Swarupa is"
+    },
+    {
+      "i": 598,
+      "start": 3508.84,
+      "end": 3513.92,
+      "text": "veiled or covered by the vidya, the teaching of 4.6."
+    },
+    {
+      "i": 599,
+      "start": 3513.92,
+      "end": 3522.92,
+      "text": "Thus ultimately you 2 are unborn and the recognition of this is"
+    },
+    {
+      "i": 600,
+      "start": 3522.92,
+      "end": 3531.04,
+      "text": "the moksha with Krishna answered the question of Arjuna"
+    },
+    {
+      "i": 601,
+      "start": 3531.12,
+      "end": 3534.52,
+      "text": "completely far beyond what Arjuna asked."
+    },
+    {
+      "i": 602,
+      "start": 3536.0,
+      "end": 3538.68,
+      "text": "How could you have spoken to Vivasva?"
+    },
+    {
+      "i": 603,
+      "start": 3539.96,
+      "end": 3543.36,
+      "text": "Krishna answers, I am the one who was never born, therefore"
+    },
+    {
+      "i": 604,
+      "start": 3543.36,
+      "end": 3546.16,
+      "text": "the question of when I spoke dissolves."
+    },
+    {
+      "i": 605,
+      "start": 3547.0,
+      "end": 3551.4,
+      "text": "The Adav Praktavan spoken in the beginning and the Adyaprakta"
+    },
+    {
+      "i": 606,
+      "start": 3551.84,
+      "end": 3557.04,
+      "text": "spoken today to you are the same speaking because the speaker is"
+    },
+    {
+      "i": 607,
+      "start": 3557.04,
+      "end": 3559.72,
+      "text": "the same. Nithi Chaitanya, who has never"
+    },
+    {
+      "i": 608,
+      "start": 3559.72,
+      "end": 3563.68,
+      "text": "born, will never die, who presides sovereignly over His"
+    },
+    {
+      "i": 609,
+      "start": 3563.68,
+      "end": 3568.36,
+      "text": "Maya and whose apparent births are self disclosure of the"
+    },
+    {
+      "i": 610,
+      "start": 3568.36,
+      "end": 3573.6,
+      "text": "eternal into temporal, not an entrapment in the of the entral"
+    },
+    {
+      "i": 611,
+      "start": 3573.6,
+      "end": 3577.92,
+      "text": "within the temporal. Therefore, the stage is now"
+    },
+    {
+      "i": 612,
+      "start": 3577.92,
+      "end": 3584.64,
+      "text": "fully set for Dharmarakshana, which is discussed in 4.7 and"
+    },
+    {
+      "i": 613,
+      "start": 3584.64,
+      "end": 3589.0,
+      "text": "4.8. The purpose of Avatara, which is"
+    },
+    {
+      "i": 614,
+      "start": 3589.0,
+      "end": 3593.76,
+      "text": "nothing less than perennial re discoursure of the Aviya yoga."
+    },
+    {
+      "i": 615,
+      "start": 3594.24,
+      "end": 3600.04,
+      "text": "Whenever Avidya the great Avarna threatens to overwhelm Dharma in"
+    },
+    {
+      "i": 616,
+      "start": 3600.04,
+      "end": 3605.6,
+      "text": "the human world. Dabhasya starts with aja API"
+    },
+    {
+      "i": 617,
+      "start": 3605.6,
+      "end": 3609.84,
+      "text": "janma rehita abhisan. Although I am unborn, free from"
+    },
+    {
+      "i": 618,
+      "start": 3609.84,
+      "end": 3615.76,
+      "text": "birth, Dada abhayyatma akshina nyana sakti sobhava abhisan."
+    },
+    {
+      "i": 619,
+      "start": 3616.4,
+      "end": 3619.4,
+      "text": "And although my nature is imperishable, possessing"
+    },
+    {
+      "i": 620,
+      "start": 3619.4,
+      "end": 3623.4,
+      "text": "unveiling power of knowledge, tada bhudhanam brahmadis"
+    },
+    {
+      "i": 621,
+      "start": 3623.4,
+      "end": 3627.36,
+      "text": "tambaparian danaam ishwaraha ishwanasilaha apison."
+    },
+    {
+      "i": 622,
+      "start": 3628.56,
+      "end": 3632.12,
+      "text": "And although I am the Lord of all beings, from Brahma down to"
+    },
+    {
+      "i": 623,
+      "start": 3632.12,
+      "end": 3640.2,
+      "text": "the smallest Ishwaraha Ishanasilaha apison, that"
+    },
+    {
+      "i": 624,
+      "start": 3640.4,
+      "end": 3647.4,
+      "text": "Ishanasila means the being of what being of all Prakriti swam."
+    },
+    {
+      "i": 625,
+      "start": 3647.4,
+      "end": 3652.68,
+      "text": "Mama Vaishnavi Maya Trigunathmikam, yet resorting to"
+    },
+    {
+      "i": 626,
+      "start": 3652.68,
+      "end": 3657.48,
+      "text": "my own Prakriti, my Vaishnavi Maya consisting of the three"
+    },
+    {
+      "i": 627,
+      "start": 3657.48,
+      "end": 3661.76,
+      "text": "gunas, Sattva, Rajasthamas, Yasya Vasho, Sarvam"
+    },
+    {
+      "i": 628,
+      "start": 3661.76,
+      "end": 3665.28,
+      "text": "Jagatvarthade, under whose control the entire uniform"
+    },
+    {
+      "i": 629,
+      "start": 3665.48,
+      "end": 3672.24,
+      "text": "universe functions. Yaya Mohidam Satt swam Atmanam"
+    },
+    {
+      "i": 630,
+      "start": 3672.32,
+      "end": 3677.2,
+      "text": "Vasudevan Najanadi by which when deluded the world does not"
+    },
+    {
+      "i": 631,
+      "start": 3677.2,
+      "end": 3683.56,
+      "text": "recognize his own self. The Vasudeva Tam Pragritim swam"
+    },
+    {
+      "i": 632,
+      "start": 3683.56,
+      "end": 3687.72,
+      "text": "Aditya Vasi Kritiya. Taking hold of that my own"
+    },
+    {
+      "i": 633,
+      "start": 3687.72,
+      "end": 3690.12,
+      "text": "Pragriti and bringing it under my control."
+    },
+    {
+      "i": 634,
+      "start": 3690.6,
+      "end": 3696.96,
+      "text": "Sambhavami dehavan IVA Bhavami I appear to come into being as"
+    },
+    {
+      "i": 635,
+      "start": 3696.96,
+      "end": 3704.08,
+      "text": "though owning the body. Jata IVA atma mayaya atma maaya"
+    },
+    {
+      "i": 636,
+      "start": 3704.4,
+      "end": 3709.8,
+      "text": "as though born through my own Maya na paramarthata ha lokavat,"
+    },
+    {
+      "i": 637,
+      "start": 3710.44,
+      "end": 3714.04,
+      "text": "not in reality like the ordinary beings in of the world."
+    },
+    {
+      "i": 638,
+      "start": 3716.24,
+      "end": 3719.88,
+      "text": "So this passage explains how the unborn Brahma can appear as an"
+    },
+    {
+      "i": 639,
+      "start": 3719.88,
+      "end": 3730.72,
+      "text": "Avatara, the attributes Aja Aviya Ishwara and using his"
+    },
+    {
+      "i": 640,
+      "start": 3730.72,
+      "end": 3735.52,
+      "text": "Vaishnavi Maya. The world is diluted by Maya"
+    },
+    {
+      "i": 641,
+      "start": 3735.52,
+      "end": 3744.36,
+      "text": "whereas the Ishwara is beyond it and the embodiment of Lord is"
+    },
+    {
+      "i": 642,
+      "start": 3744.36,
+      "end": 3748.56,
+      "text": "only apparent Dehawan Eva as if embodied."
+    },
+    {
+      "i": 643,
+      "start": 3749.56,
+      "end": 3752.52,
+      "text": "This indicate the Lord does not truly become embodied."
+    },
+    {
+      "i": 644,
+      "start": 3753.4,
+      "end": 3756.28,
+      "text": "The embodiment is only phenomenal appearance."
+    },
+    {
+      "i": 645,
+      "start": 3757.68,
+      "end": 3762.56,
+      "text": "Jata IVA Asif born. Similarly, the Lord only appears"
+    },
+    {
+      "i": 646,
+      "start": 3762.56,
+      "end": 3767.12,
+      "text": "to be born in reality. Brahman never undergoes birth or"
+    },
+    {
+      "i": 647,
+      "start": 3767.12,
+      "end": 3770.84,
+      "text": "death. Na paramarthada lokhavat not"
+    },
+    {
+      "i": 648,
+      "start": 3770.84,
+      "end": 3775.12,
+      "text": "truly like the world. So this passage is one of the"
+    },
+    {
+      "i": 649,
+      "start": 3775.12,
+      "end": 3779.04,
+      "text": "clearest advaithic explanations of the divine incarnation."
+    },
+    {
+      "i": 650,
+      "start": 3783.72,
+      "end": 3790.12,
+      "text": "And then his manifestation of Ishira within the Maya."
+    },
+    {
+      "i": 651,
+      "start": 3790.52,
+      "end": 3794.12,
+      "text": "But ultimately reality behind even Ishira is Brahman."
+    },
+    {
+      "i": 652,
+      "start": 3797.68,
+      "end": 3799.72,
+      "text": "That the body does not define the Self."
+    },
+    {
+      "i": 653,
+      "start": 3801.4,
+      "end": 3805.76,
+      "text": "Just as Krishna is not limited by his own body, the Self in US"
+    },
+    {
+      "i": 654,
+      "start": 3805.84,
+      "end": 3810.76,
+      "text": "is not limited by ours. Our body cannot limit our self,"
+    },
+    {
+      "i": 655,
+      "start": 3810.92,
+      "end": 3815.52,
+      "text": "our Self. The liberation of recognition of"
+    },
+    {
+      "i": 656,
+      "start": 3815.52,
+      "end": 3821.56,
+      "text": "the self is the delusion described in the universal."
+    },
+    {
+      "i": 657,
+      "start": 3822.12,
+      "end": 3829.48,
+      "text": "The world fails to recognize the self in US is the same self as"
+    },
+    {
+      "i": 658,
+      "start": 3829.48,
+      "end": 3833.2,
+      "text": "Vasudeva. When the liberation, when this"
+    },
+    {
+      "i": 659,
+      "start": 3833.2,
+      "end": 3839.6,
+      "text": "occurs, the recognition arises. It is a witness doctrine."
+    },
+    {
+      "i": 660,
+      "start": 3841.88,
+      "end": 3844.92,
+      "text": "The birth and the embodiment belongs to the realm of Maya,"
+    },
+    {
+      "i": 661,
+      "start": 3845.52,
+      "end": 3849.08,
+      "text": "but the self that knows that them is beyond birth."
+    },
+    {
+      "i": 662,
+      "start": 3849.68,
+      "end": 3852.32,
+      "text": "Likewise, the witness stands beyond all births."
+    },
+    {
+      "i": 663,
+      "start": 3853.96,
+      "end": 3858.16,
+      "text": "So in summary, although the Lord is unborn and imperishable and"
+    },
+    {
+      "i": 664,
+      "start": 3858.16,
+      "end": 3861.08,
+      "text": "the ruler of all beings, he appears to take birth by"
+    },
+    {
+      "i": 665,
+      "start": 3861.08,
+      "end": 3865.8,
+      "text": "controlling his own Maya. This embodied embodiment is only"
+    },
+    {
+      "i": 666,
+      "start": 3865.8,
+      "end": 3870.04,
+      "text": "an apparent manifestation, not a real birth like that of ordinary"
+    },
+    {
+      "i": 667,
+      "start": 3870.04,
+      "end": 3873.8,
+      "text": "beings who are born due to karma, etcetera."
+    },
+    {
+      "i": 668,
+      "start": 3873.8,
+      "end": 3879.64,
+      "text": "We will stop it here tomorrow. I may not be available for the"
+    },
+    {
+      "i": 669,
+      "start": 3879.64,
+      "end": 3881.72,
+      "text": "class, so we will not have class tomorrow."
+    },
+    {
+      "i": 670,
+      "start": 3882.16,
+      "end": 3886.8,
+      "text": "We will continue this Gita on Monday, Sunday."
+    },
+    {
+      "i": 671,
+      "start": 3886.8,
+      "end": 3890.28,
+      "text": "I will be there for the general discussion."
+    },
+    {
+      "i": 672,
+      "start": 3899.56,
+      "end": 3910.6,
+      "text": "Thank you. Thank you very much, Manoji A"
+    },
+    {
+      "i": 673,
+      "start": 3914.28,
+      "end": 3928.21,
+      "text": "very. Deep manana required for this"
+    },
+    {
+      "i": 674,
+      "start": 3928.21,
+      "end": 3931.76,
+      "text": "class because you're transcending certain boundaries"
+    },
+    {
+      "i": 675,
+      "start": 3931.76,
+      "end": 3937.2,
+      "text": "here and very, very deep manana required as you mentioned."
+    },
+    {
+      "i": 676,
+      "start": 3937.72,
+      "end": 3941.48,
+      "text": "I've opened the chat in hand raising for any follow up"
+    },
+    {
+      "i": 677,
+      "start": 3941.48,
+      "end": 3945.68,
+      "text": "questions, which I think will be interesting to many people"
+    },
+    {
+      "i": 678,
+      "start": 3946.24,
+      "end": 3951.56,
+      "text": "because this pertains to that where we have an Ishwara and"
+    },
+    {
+      "i": 679,
+      "start": 3951.56,
+      "end": 3955.8,
+      "text": "where we have the Brahman. Thank you again, Binduji."
+    },
+    {
+      "i": 680,
+      "start": 3955.96,
+      "end": 3960.0,
+      "text": "I've opened the chat and as Bindoji mentioned, tomorrow is a"
+    },
+    {
+      "i": 681,
+      "start": 3960.0,
+      "end": 3962.48,
+      "text": "day off because of Bindoji's appointment."
+    },
+    {
+      "i": 682,
+      "start": 3963.04,
+      "end": 3966.88,
+      "text": "Will reconvene on Sunday for the open discussion."
+    },
+    {
+      "i": 683,
+      "start": 3968.52,
+      "end": 3979.52,
+      "text": "Namaste, Venkatji. Can you hear me, Bindoji?"
+    },
+    {
+      "i": 684,
+      "start": 3979.72,
+      "end": 3983.76,
+      "text": "Yes, I can hear you. OK so binduji this is this."
+    },
+    {
+      "i": 685,
+      "start": 3984.08,
+      "end": 3988.6,
+      "text": "This 2 verses really knock off a lot of those boundary between"
+    },
+    {
+      "i": 686,
+      "start": 3988.6,
+      "end": 3994.8,
+      "text": "avatara and jiva. There is a in the bhaksha."
+    },
+    {
+      "i": 687,
+      "start": 3994.8,
+      "end": 4000.6,
+      "text": "For verse 5 you use the word Anna Varunagnanaksheti."
+    },
+    {
+      "i": 688,
+      "start": 4001.48,
+      "end": 4006.32,
+      "text": "This this avarana is you know Avarana Shetty is of Maya."
+    },
+    {
+      "i": 689,
+      "start": 4007.6,
+      "end": 4010.16,
+      "text": "Anna Varunagnanaksheti is an opposite."
+    },
+    {
+      "i": 690,
+      "start": 4010.88,
+      "end": 4013.16,
+      "text": "Yes, opposite of it. Opposite, right?"
+    },
+    {
+      "i": 691,
+      "start": 4013.24,
+      "end": 4016.96,
+      "text": "That means this is just that same Shakti is now"
+    },
+    {
+      "i": 692,
+      "start": 4016.96,
+      "end": 4018.4,
+      "text": "collaborating. Collaborating."
+    },
+    {
+      "i": 693,
+      "start": 4019.16,
+      "end": 4024.44,
+      "text": "It is under the control of the Ishwara whereas Avrana Shakti is"
+    },
+    {
+      "i": 694,
+      "start": 4024.44,
+      "end": 4030.96,
+      "text": "making us a victim of it. Yeah."
+    },
+    {
+      "i": 695,
+      "start": 4031.88,
+      "end": 4035.56,
+      "text": "So it is the same Shakti. It is not different different."
+    },
+    {
+      "i": 696,
+      "start": 4036.08,
+      "end": 4041.4,
+      "text": "No. OK, now it brings that knowing"
+    },
+    {
+      "i": 697,
+      "start": 4041.72,
+      "end": 4044.84,
+      "text": "and not knowing, right? I know and you don't know was"
+    },
+    {
+      "i": 698,
+      "start": 4044.84,
+      "end": 4053.4,
+      "text": "very clearly stated by Bhagwan. These are you know, some of this"
+    },
+    {
+      "i": 699,
+      "start": 4054.76,
+      "end": 4057.76,
+      "text": "knowing certain births, etcetera."
+    },
+    {
+      "i": 700,
+      "start": 4058.48,
+      "end": 4062.32,
+      "text": "They're part of the yogic path where but you don't know all of"
+    },
+    {
+      "i": 701,
+      "start": 4062.32,
+      "end": 4064.6,
+      "text": "it. You just know you have glimpses"
+    },
+    {
+      "i": 702,
+      "start": 4064.6,
+      "end": 4070.88,
+      "text": "of it because these are sort of capabilities over the time."
+    },
+    {
+      "i": 703,
+      "start": 4072.76,
+      "end": 4076.44,
+      "text": "Here it is sum totalling everything that I know,"
+    },
+    {
+      "i": 704,
+      "start": 4076.44,
+      "end": 4082.96,
+      "text": "everything. It is just a capability in a"
+    },
+    {
+      "i": 705,
+      "start": 4082.96,
+      "end": 4083.96,
+      "text": "way, right? Banerjee?"
+    },
+    {
+      "i": 706,
+      "start": 4084.68,
+      "end": 4092.36,
+      "text": "What is differential here? See that you cannot take the"
+    },
+    {
+      "i": 707,
+      "start": 4092.36,
+      "end": 4096.479,
+      "text": "yogic which is still in the jiva capability."
+    },
+    {
+      "i": 708,
+      "start": 4098.2,
+      "end": 4101.84,
+      "text": "Ordinary jivas are people who are not even aware of."
+    },
+    {
+      "i": 709,
+      "start": 4102.439,
+      "end": 4104.439,
+      "text": "Some are not even aware of Ishara."
+    },
+    {
+      "i": 710,
+      "start": 4104.88,
+      "end": 4109.68,
+      "text": "Some are aware of Ishara but have know it in a different way."
+    },
+    {
+      "i": 711,
+      "start": 4110.2,
+      "end": 4114.88,
+      "text": "Some people do as in a divine devotion etcetera."
+    },
+    {
+      "i": 712,
+      "start": 4115.24,
+      "end": 4118.0,
+      "text": "Some people come to Advaita like that."
+    },
+    {
+      "i": 713,
+      "start": 4118.399,
+      "end": 4124.24,
+      "text": "Yoga is also a method of improving the what you call"
+    },
+    {
+      "i": 714,
+      "start": 4124.56,
+      "end": 4131.319,
+      "text": "knowledge aspect with different faculty there."
+    },
+    {
+      "i": 715,
+      "start": 4131.8,
+      "end": 4136.52,
+      "text": "What is developed is the mind using the mind for the purpose"
+    },
+    {
+      "i": 716,
+      "start": 4136.52,
+      "end": 4141.16,
+      "text": "of traversing and. But the problem with her is that"
+    },
+    {
+      "i": 717,
+      "start": 4141.399,
+      "end": 4147.12,
+      "text": "whatever is being told about the Purvajanma or etcetera is not"
+    },
+    {
+      "i": 718,
+      "start": 4147.12,
+      "end": 4150.92,
+      "text": "verifiable but we accept it. If you have a Shraddha, you will"
+    },
+    {
+      "i": 719,
+      "start": 4150.92,
+      "end": 4155.319,
+      "text": "accept it. So that is why Advaidans will"
+    },
+    {
+      "i": 720,
+      "start": 4155.319,
+      "end": 4161.479,
+      "text": "not go in that route because we do not want to be blinded by"
+    },
+    {
+      "i": 721,
+      "start": 4162.08,
+      "end": 4164.76,
+      "text": "taking into faith something which we cannot verify."
+    },
+    {
+      "i": 722,
+      "start": 4165.56,
+      "end": 4168.319,
+      "text": "Advaita verifies us. Every information, every"
+    },
+    {
+      "i": 723,
+      "start": 4168.319,
+      "end": 4173.84,
+      "text": "pramana, it is analyzed threadbare and applicability to"
+    },
+    {
+      "i": 724,
+      "start": 4174.08,
+      "end": 4176.92,
+      "text": "every human being. See the two conditions with"
+    },
+    {
+      "i": 725,
+      "start": 4176.92,
+      "end": 4180.0,
+      "text": "Shankarajya in one of his birthday he has mentioned is"
+    },
+    {
+      "i": 726,
+      "start": 4180.0,
+      "end": 4187.399,
+      "text": "that it has to be verifiable and it has to be common to everyone."
+    },
+    {
+      "i": 727,
+      "start": 4188.0,
+      "end": 4191.8,
+      "text": "Just because the Guru says doesn't mean that I will accept"
+    },
+    {
+      "i": 728,
+      "start": 4191.8,
+      "end": 4196.84,
+      "text": "it. If it is applicable to guru, it"
+    },
+    {
+      "i": 729,
+      "start": 4196.84,
+      "end": 4198.92,
+      "text": "has to be applicable to the shishya also."
+    },
+    {
+      "i": 730,
+      "start": 4199.76,
+      "end": 4203.92,
+      "text": "So though that that is exactly what Shankarajarya says, it is"
+    },
+    {
+      "i": 731,
+      "start": 4203.92,
+      "end": 4211.2,
+      "text": "not a one man's experience, It is Sarva sadharam sarvajana."
+    },
+    {
+      "i": 732,
+      "start": 4211.56,
+      "end": 4216.28,
+      "text": "Sadharana is he says very well. Whereas the yogic practices and"
+    },
+    {
+      "i": 733,
+      "start": 4216.28,
+      "end": 4219.52,
+      "text": "the yogic experiences are only to those who practice that."
+    },
+    {
+      "i": 734,
+      "start": 4220.64,
+      "end": 4225.76,
+      "text": "That is why Advaita doesn't. Even though the yoga as part of"
+    },
+    {
+      "i": 735,
+      "start": 4225.76,
+      "end": 4229.32,
+      "text": "that different yoga which is we are talking about is that Tantra"
+    },
+    {
+      "i": 736,
+      "start": 4229.32,
+      "end": 4232.76,
+      "text": "based yoga or a Kundalini based yoga or Hata yoga."
+    },
+    {
+      "i": 737,
+      "start": 4233.72,
+      "end": 4238.72,
+      "text": "Whereas the yoga which is spoken in the Gita is not from that"
+    },
+    {
+      "i": 738,
+      "start": 4238.72,
+      "end": 4244.6,
+      "text": "angle one it is a it is the path where each one becomes a path."
+    },
+    {
+      "i": 739,
+      "start": 4244.92,
+      "end": 4248.8,
+      "text": "You are you are uniting with the path karma."
+    },
+    {
+      "i": 740,
+      "start": 4249.0,
+      "end": 4253.04,
+      "text": "You are uniting with the karma to can create a karma path which"
+    },
+    {
+      "i": 741,
+      "start": 4253.04,
+      "end": 4257.8,
+      "text": "is called karma yoga and that karma path is not doing any"
+    },
+    {
+      "i": 742,
+      "start": 4257.8,
+      "end": 4263.56,
+      "text": "karma karma which is being done as a without fruit of action and"
+    },
+    {
+      "i": 743,
+      "start": 4263.56,
+      "end": 4267.12,
+      "text": "dedication to the Lord so that then only it becomes a karma"
+    },
+    {
+      "i": 744,
+      "start": 4267.12,
+      "end": 4271.2,
+      "text": "path like that is what the Gita is addressing that."
+    },
+    {
+      "i": 745,
+      "start": 4272.68,
+      "end": 4278.36,
+      "text": "Yeah, maybe the basha is taken only the, you know, Nirguna"
+    },
+    {
+      "i": 746,
+      "start": 4278.64,
+      "end": 4284.16,
+      "text": "Braham, because in the, you know, description, the Shakti is"
+    },
+    {
+      "i": 747,
+      "start": 4284.16,
+      "end": 4289.36,
+      "text": "like Anavanagana Shakti and Maya Shakti is now used in this"
+    },
+    {
+      "i": 748,
+      "start": 4289.36,
+      "end": 4293.76,
+      "text": "verses, yes, in a way to understand the larger context,"
+    },
+    {
+      "i": 749,
+      "start": 4294.12,
+      "end": 4296.4,
+      "text": "that's all. It is different that is only"
+    },
+    {
+      "i": 750,
+      "start": 4296.4,
+      "end": 4302.52,
+      "text": "available at the Ishwara level. When Brahma Brahman."
+    },
+    {
+      "i": 751,
+      "start": 4303.6,
+      "end": 4307.04,
+      "text": "At the Brahman level it is Nirguda, Niragara, everything."
+    },
+    {
+      "i": 752,
+      "start": 4309.0,
+      "end": 4314.76,
+      "text": "When Ishwara is created as from Brahma itself, as an appearance,"
+    },
+    {
+      "i": 753,
+      "start": 4315.04,
+      "end": 4318.08,
+      "text": "not separate from it. That is why it is Vivarta."
+    },
+    {
+      "i": 754,
+      "start": 4319.08,
+      "end": 4325.92,
+      "text": "That appearance yields a power to embody itself in various"
+    },
+    {
+      "i": 755,
+      "start": 4326.4,
+      "end": 4330.12,
+      "text": "period and time. Whatever form it wants, it can"
+    },
+    {
+      "i": 756,
+      "start": 4330.12,
+      "end": 4334.32,
+      "text": "take. That is how the explanation is"
+    },
+    {
+      "i": 757,
+      "start": 4334.32,
+      "end": 4340.56,
+      "text": "given as the avatara. Sure, Bindaji, I think this is."
+    },
+    {
+      "i": 758,
+      "start": 4341.88,
+      "end": 4347.64,
+      "text": "I think maybe it's a domain that we can we need not go there for"
+    },
+    {
+      "i": 759,
+      "start": 4347.64,
+      "end": 4354.76,
+      "text": "the sake of continuity. Then the this verse 6, the"
+    },
+    {
+      "i": 760,
+      "start": 4354.76,
+      "end": 4357.44,
+      "text": "Prakruti and Maya that in control."
+    },
+    {
+      "i": 761,
+      "start": 4358.24,
+      "end": 4362.12,
+      "text": "Now if you since you drew a parallel between Jiva, Ishwara,"
+    },
+    {
+      "i": 762,
+      "start": 4363.36,
+      "end": 4368.0,
+      "text": "Prakrutistha, Vertas, Prakruti, Adishtana, right, between Jiva"
+    },
+    {
+      "i": 763,
+      "start": 4368.0,
+      "end": 4376.4,
+      "text": "and Ishwara, the same Chirabasa now with the Avidya as Jiva, the"
+    },
+    {
+      "i": 764,
+      "start": 4376.4,
+      "end": 4385.72,
+      "text": "same Chitabasa with Vidya as Ishwara is just a subset for"
+    },
+    {
+      "i": 765,
+      "start": 4385.72,
+      "end": 4387.16,
+      "text": "now, right? No."
+    },
+    {
+      "i": 766,
+      "start": 4387.16,
+      "end": 4393.16,
+      "text": "Not that way, not that way. The chitabasa at the jiva level"
+    },
+    {
+      "i": 767,
+      "start": 4393.44,
+      "end": 4397.4,
+      "text": "is the jiva upadhi, because the chit is the upadhi in the part"
+    },
+    {
+      "i": 768,
+      "start": 4397.4,
+      "end": 4400.0,
+      "text": "of that mano buddhi hungara chitta."
+    },
+    {
+      "i": 769,
+      "start": 4401.4,
+      "end": 4409.44,
+      "text": "So the chirabasa of the jiva is the atman of the jiva which is"
+    },
+    {
+      "i": 770,
+      "start": 4409.44,
+      "end": 4414.48,
+      "text": "getting reflected in the on the karuna, where in the case of"
+    },
+    {
+      "i": 771,
+      "start": 4414.48,
+      "end": 4417.88,
+      "text": "Ishwara He is omniscient and omnipotent."
+    },
+    {
+      "i": 772,
+      "start": 4417.88,
+      "end": 4420.76,
+      "text": "Therefore there is no upadhi there."
+    },
+    {
+      "i": 773,
+      "start": 4420.76,
+      "end": 4426.32,
+      "text": "As a mano buddhi angarachita, He is in control of all of them."
+    },
+    {
+      "i": 774,
+      "start": 4427.04,
+      "end": 4431.72,
+      "text": "There is no separately. That way he will be controlled"
+    },
+    {
+      "i": 775,
+      "start": 4431.72,
+      "end": 4435.68,
+      "text": "by the Chitabasa in the body of the Ishwara."
+    },
+    {
+      "i": 776,
+      "start": 4435.68,
+      "end": 4441.96,
+      "text": "No yet, but that doesn't happen. But but one need to teach"
+    },
+    {
+      "i": 777,
+      "start": 4442.08,
+      "end": 4445.68,
+      "text": "Bhuvadgita to Arjuna using using the same upadhis."
+    },
+    {
+      "i": 778,
+      "start": 4445.68,
+      "end": 4448.92,
+      "text": "That that is appear, that is appear and that is why he is"
+    },
+    {
+      "i": 779,
+      "start": 4448.92,
+      "end": 4451.72,
+      "text": "saying that it is under his control."
+    },
+    {
+      "i": 780,
+      "start": 4451.92,
+      "end": 4455.04,
+      "text": "He is not being controlled by the Chitta or Chitabasa."
+    },
+    {
+      "i": 781,
+      "start": 4457.04,
+      "end": 4460.48,
+      "text": "No, absolutely, because in Agnani, Agnani has control over"
+    },
+    {
+      "i": 782,
+      "start": 4460.48,
+      "end": 4465.0,
+      "text": "these. Yet in the same way like the"
+    },
+    {
+      "i": 783,
+      "start": 4465.04,
+      "end": 4471.92,
+      "text": "Ishwara now Ishwara Gurwat Medi, the guru also has the same at"
+    },
+    {
+      "i": 784,
+      "start": 4471.92,
+      "end": 4475.48,
+      "text": "this level at least, you know as a reflected consciousness, the"
+    },
+    {
+      "i": 785,
+      "start": 4475.52,
+      "end": 4479.12,
+      "text": "guru uses it and controls it and gives a discourse."
+    },
+    {
+      "i": 786,
+      "start": 4481.24,
+      "end": 4484.2,
+      "text": "But larger context may not be because the guru has the"
+    },
+    {
+      "i": 787,
+      "start": 4484.2,
+      "end": 4488.04,
+      "text": "Prarabdic body versus the. So that's the difference."
+    },
+    {
+      "i": 788,
+      "start": 4488.04,
+      "end": 4491.76,
+      "text": "Now it shows up. I think that closes the lobe."
+    },
+    {
+      "i": 789,
+      "start": 4492.56,
+      "end": 4494.52,
+      "text": "I think I'm done with. Yeah, thanks for."
+    },
+    {
+      "i": 790,
+      "start": 4494.56,
+      "end": 4499.04,
+      "text": "The Thank you Venkat Celshia for your question, Bindoji."
+    },
+    {
+      "i": 791,
+      "start": 4499.04,
+      "end": 4503.32,
+      "text": "Then according to Advaita, if Purvajanma doesn't exist then"
+    },
+    {
+      "i": 792,
+      "start": 4503.32,
+      "end": 4507.96,
+      "text": "the newborn baby has zero karma. You should understand Advaita"
+    },
+    {
+      "i": 793,
+      "start": 4507.96,
+      "end": 4513.04,
+      "text": "says Purvajanma Parajanma or the Janma is based on karma that is"
+    },
+    {
+      "i": 794,
+      "start": 4513.04,
+      "end": 4517.28,
+      "text": "acceptable to Advaita. What is taking birth is the"
+    },
+    {
+      "i": 795,
+      "start": 4517.36,
+      "end": 4524.48,
+      "text": "upadhi which is a product of karma, Dharma, adharma, punya"
+    },
+    {
+      "i": 796,
+      "start": 4524.48,
+      "end": 4527.44,
+      "text": "Papa. This is what is the upadhi means"
+    },
+    {
+      "i": 797,
+      "start": 4528.04,
+      "end": 4534.08,
+      "text": "the individuality, ahankara, mano, buddhi, chitta and then"
+    },
+    {
+      "i": 798,
+      "start": 4534.72,
+      "end": 4541.92,
+      "text": "your physical body etc, that is there which is getting rebirth."
+    },
+    {
+      "i": 799,
+      "start": 4542.56,
+      "end": 4546.44,
+      "text": "Rebirth means it is going back to the Panja Buddha and coming"
+    },
+    {
+      "i": 800,
+      "start": 4546.44,
+      "end": 4550.84,
+      "text": "back from the Panja Buddha. Just as a mud pot when it is"
+    },
+    {
+      "i": 801,
+      "start": 4550.84,
+      "end": 4556.0,
+      "text": "dissolved in the water or broken into powder, it goes back into"
+    },
+    {
+      "i": 802,
+      "start": 4556.0,
+      "end": 4560.32,
+      "text": "the earth. But when another pot is being"
+    },
+    {
+      "i": 803,
+      "start": 4560.32,
+      "end": 4565.4,
+      "text": "made, some of the same broken pot mud and everything can come"
+    },
+    {
+      "i": 804,
+      "start": 4565.4,
+      "end": 4568.36,
+      "text": "into a new pot. So it will carry the qualities"
+    },
+    {
+      "i": 805,
+      "start": 4568.36,
+      "end": 4573.88,
+      "text": "of that mud into this new pot. But the space in which the pot"
+    },
+    {
+      "i": 806,
+      "start": 4573.88,
+      "end": 4580.12,
+      "text": "existed, the space in which the new pot exist, it is untouched"
+    },
+    {
+      "i": 807,
+      "start": 4580.12,
+      "end": 4583.72,
+      "text": "by the pot. So what?"
+    },
+    {
+      "i": 808,
+      "start": 4584.52,
+      "end": 4588.92,
+      "text": "Rebirth, birth and rebirth is only to the pot, not to the"
+    },
+    {
+      "i": 809,
+      "start": 4588.92,
+      "end": 4591.92,
+      "text": "space inside the pot, even though we are using the space"
+    },
+    {
+      "i": 810,
+      "start": 4591.92,
+      "end": 4594.52,
+      "text": "inside the pot for the transaction purpose."
+    },
+    {
+      "i": 811,
+      "start": 4594.84,
+      "end": 4600.16,
+      "text": "Same way the body is used for the transaction purpose but the"
+    },
+    {
+      "i": 812,
+      "start": 4600.16,
+      "end": 4607.08,
+      "text": "atma which is Sarvagada, even it is not conditioned by the body."
+    },
+    {
+      "i": 813,
+      "start": 4607.84,
+      "end": 4610.12,
+      "text": "It also functions through the body."
+    },
+    {
+      "i": 814,
+      "start": 4610.12,
+      "end": 4613.32,
+      "text": "That is the importance of it. It also functions through the"
+    },
+    {
+      "i": 815,
+      "start": 4613.32,
+      "end": 4616.64,
+      "text": "body. So therefore the body feel that"
+    },
+    {
+      "i": 816,
+      "start": 4617.08,
+      "end": 4622.72,
+      "text": "Iamness in that body not that of atma."
+    },
+    {
+      "i": 817,
+      "start": 4623.12,
+      "end": 4628.96,
+      "text": "The Iamness of is of the body, the the I which you say is of"
+    },
+    {
+      "i": 818,
+      "start": 4628.96,
+      "end": 4632.76,
+      "text": "the body, the atma has no I in it."
+    },
+    {
+      "i": 819,
+      "start": 4633.28,
+      "end": 4635.36,
+      "text": "Atma does not have an Ahanka radar."
+    },
+    {
+      "i": 820,
+      "start": 4636.48,
+      "end": 4640.28,
+      "text": "So atma is present everywhere, Sarvabhiyapi."
+    },
+    {
+      "i": 821,
+      "start": 4641.68,
+      "end": 4645.36,
+      "text": "But when it is functioning through the mind, body, the"
+    },
+    {
+      "i": 822,
+      "start": 4645.36,
+      "end": 4651.12,
+      "text": "undercurrent of the egg, a body, the feeling that the body has"
+    },
+    {
+      "i": 823,
+      "start": 4651.12,
+      "end": 4658.56,
+      "text": "got, you know this self in it is due to the ignorance that the"
+    },
+    {
+      "i": 824,
+      "start": 4658.56,
+      "end": 4662.6,
+      "text": "self is not of the body, mind, intellect, but that is of the"
+    },
+    {
+      "i": 825,
+      "start": 4662.6,
+      "end": 4665.76,
+      "text": "atma. But that when it is conditioned"
+    },
+    {
+      "i": 826,
+      "start": 4665.76,
+      "end": 4668.76,
+      "text": "by within the limits of the body, mind, mind and the"
+    },
+    {
+      "i": 827,
+      "start": 4668.92,
+      "end": 4672.44,
+      "text": "intellect, the individuality is born."
+    },
+    {
+      "i": 828,
+      "start": 4672.68,
+      "end": 4677.32,
+      "text": "And therefore we say I am Bindu. You will say you are Gita or"
+    },
+    {
+      "i": 829,
+      "start": 4677.56,
+      "end": 4680.56,
+      "text": "Prakash will say Prakash, Venkat will say Venkat like that."
+    },
+    {
+      "i": 830,
+      "start": 4681.6,
+      "end": 4686.68,
+      "text": "But Atma is no, cannot conditioned or divided between"
+    },
+    {
+      "i": 831,
+      "start": 4686.68,
+      "end": 4695.44,
+      "text": "Prakash, Venkat or Bindo. All of us are existing in"
+    },
+    {
+      "i": 832,
+      "start": 4695.68,
+      "end": 4699.36,
+      "text": "breathing, feeling, experiencing everything because of Atma."
+    },
+    {
+      "i": 833,
+      "start": 4702.44,
+      "end": 4706.76,
+      "text": "But it is not my Atma, Prakashya, Atma, Venkat, Atma is"
+    },
+    {
+      "i": 834,
+      "start": 4706.76,
+      "end": 4710.32,
+      "text": "separate like that. There is only one Atma, that is"
+    },
+    {
+      "i": 835,
+      "start": 4710.32,
+      "end": 4714.04,
+      "text": "Atman or Brahman. What is different between me,"
+    },
+    {
+      "i": 836,
+      "start": 4714.04,
+      "end": 4718.32,
+      "text": "Prakash, and Venkat is my mind, body, intellect, Prakash's body,"
+    },
+    {
+      "i": 837,
+      "start": 4718.32,
+      "end": 4721.0,
+      "text": "mind, intellect, Venkat's body, mind, intellect."
+    },
+    {
+      "i": 838,
+      "start": 4722.16,
+      "end": 4725.36,
+      "text": "So the birth and rebirth is only for the body, mind, intellect."
+    },
+    {
+      "i": 839,
+      "start": 4726.48,
+      "end": 4729.8,
+      "text": "And Advaita says you are not the body, mind, intellect, you are"
+    },
+    {
+      "i": 840,
+      "start": 4729.8,
+      "end": 4733.08,
+      "text": "the Atma. So the Atma does not have a"
+    },
+    {
+      "i": 841,
+      "start": 4733.08,
+      "end": 4735.48,
+      "text": "rebirth, only the body, mind, intellect."
+    },
+    {
+      "i": 842,
+      "start": 4745.36,
+      "end": 4749.72,
+      "text": "So you mean Atma has account of karma irrespective of body"
+    },
+    {
+      "i": 843,
+      "start": 4750.32,
+      "end": 4752.96,
+      "text": "account of karma? What is the account of the"
+    },
+    {
+      "i": 844,
+      "start": 4752.96,
+      "end": 4755.72,
+      "text": "account of karma is in the body not in the atma."
+    },
+    {
+      "i": 845,
+      "start": 4761.33,
+      "end": 4766.33,
+      "text": "Namaste Anu. I can't hear you Anu, you have"
+    },
+    {
+      "i": 846,
+      "start": 4766.33,
+      "end": 4769.21,
+      "text": "to speak loud. Namaste."
+    },
+    {
+      "i": 847,
+      "start": 4770.33,
+      "end": 4776.56,
+      "text": "Namaste, namaste. Binduji then why am I not able"
+    },
+    {
+      "i": 848,
+      "start": 4776.56,
+      "end": 4787.2,
+      "text": "to able to read others mind and I I don't remember all births"
+    },
+    {
+      "i": 849,
+      "start": 4787.2,
+      "end": 4793.76,
+      "text": "like Krishna if I my atma and Krishna's atma is same."
+    },
+    {
+      "i": 850,
+      "start": 4799.28,
+      "end": 4804.44,
+      "text": "And how will I start doing it? Like I mean why?"
+    },
+    {
+      "i": 851,
+      "start": 4805.0,
+      "end": 4808.44,
+      "text": "What is the difference? What what what is the"
+    },
+    {
+      "i": 852,
+      "start": 4808.44,
+      "end": 4812.24,
+      "text": "difference? I am I am the same Atma as"
+    },
+    {
+      "i": 853,
+      "start": 4812.32,
+      "end": 4820.28,
+      "text": "Krishna which is. So why?"
+    },
+    {
+      "i": 854,
+      "start": 4820.28,
+      "end": 4824.48,
+      "text": "Can't I read your mind and and know my birds?"
+    },
+    {
+      "i": 855,
+      "start": 4824.52,
+      "end": 4829.68,
+      "text": "All birds passed. OK, because because you are"
+    },
+    {
+      "i": 856,
+      "start": 4829.68,
+      "end": 4833.52,
+      "text": "identifying with your body, mind, intellect, therefore that"
+    },
+    {
+      "i": 857,
+      "start": 4833.52,
+      "end": 4838.2,
+      "text": "is why you are at the moment you identify with your Atma, there"
+    },
+    {
+      "i": 858,
+      "start": 4838.2,
+      "end": 4843.04,
+      "text": "is no you and me separate for you to read my mind and you read"
+    },
+    {
+      "i": 859,
+      "start": 4843.04,
+      "end": 4845.16,
+      "text": "your mind. There is no two separate them."
+    },
+    {
+      "i": 860,
+      "start": 4846.04,
+      "end": 4856.52,
+      "text": "It's only atma there everywhere. That is what it says, right?"
+    },
+    {
+      "i": 861,
+      "start": 4857.88,
+      "end": 4861.12,
+      "text": "So the other mind exists only when my mind exists."
+    },
+    {
+      "i": 862,
+      "start": 4862.72,
+      "end": 4866.48,
+      "text": "Your mind will be existing for me if I consider my mind is"
+    },
+    {
+      "i": 863,
+      "start": 4866.48,
+      "end": 4869.24,
+      "text": "existing. Therefore, with my mind, I want"
+    },
+    {
+      "i": 864,
+      "start": 4869.24,
+      "end": 4873.4,
+      "text": "to read Your mind is like I am trying to taste the food which"
+    },
+    {
+      "i": 865,
+      "start": 4873.4,
+      "end": 4876.28,
+      "text": "is in your hand. How can I do that?"
+    },
+    {
+      "i": 866,
+      "start": 4877.84,
+      "end": 4880.04,
+      "text": "Your hand food, you will feed it to your mouth."
+    },
+    {
+      "i": 867,
+      "start": 4880.04,
+      "end": 4887.52,
+      "text": "No, I cannot eat that. So as long as I have"
+    },
+    {
+      "i": 868,
+      "start": 4887.52,
+      "end": 4891.8,
+      "text": "identification, I will not be. But if I have 0 identification"
+    },
+    {
+      "i": 869,
+      "start": 4891.8,
+      "end": 4894.28,
+      "text": "then I'll be able to read everybody's mind and."
+    },
+    {
+      "i": 870,
+      "start": 4894.48,
+      "end": 4898.16,
+      "text": "Then everybody, then everybody is not there."
+    },
+    {
+      "i": 871,
+      "start": 4898.92,
+      "end": 4903.96,
+      "text": "Anu when you become Atma, you do not have everybody."
+    },
+    {
+      "i": 872,
+      "start": 4905.2,
+      "end": 4912.04,
+      "text": "Atma is all, everything is Atma. So, but what will you call it?"
+    },
+    {
+      "i": 873,
+      "start": 4912.04,
+      "end": 4915.4,
+      "text": "As everybody as separate then embodiment has to take place."
+    },
+    {
+      "i": 874,
+      "start": 4916.64,
+      "end": 4917.72,
+      "text": "Yes, yes. No."
+    },
+    {
+      "i": 875,
+      "start": 4917.72,
+      "end": 4923.36,
+      "text": "But suppose I have no identification and there is"
+    },
+    {
+      "i": 876,
+      "start": 4923.36,
+      "end": 4926.08,
+      "text": "interaction going on so I would know."
+    },
+    {
+      "i": 877,
+      "start": 4927.28,
+      "end": 4931.08,
+      "text": "I would know everything. Everything."
+    },
+    {
+      "i": 878,
+      "start": 4931.24,
+      "end": 4935.08,
+      "text": "Suppose I have no identification and this talk is happening."
+    },
+    {
+      "i": 879,
+      "start": 4935.12,
+      "end": 4940.52,
+      "text": "I would know. You, if you have no"
+    },
+    {
+      "i": 880,
+      "start": 4940.52,
+      "end": 4944.84,
+      "text": "identification, even if before you listen to this, this"
+    },
+    {
+      "i": 881,
+      "start": 4944.96,
+      "end": 4948.48,
+      "text": "lecture, you will be knowing the truth in this lecture because"
+    },
+    {
+      "i": 882,
+      "start": 4948.48,
+      "end": 4951.8,
+      "text": "that is time memorial. The truth is time memorial."
+    },
+    {
+      "i": 883,
+      "start": 4952.24,
+      "end": 4955.2,
+      "text": "So you don't have to wait for my lecture to be completed to know"
+    },
+    {
+      "i": 884,
+      "start": 4955.2,
+      "end": 4964.32,
+      "text": "the truth. No, so sorry, I'll just simplify"
+    },
+    {
+      "i": 885,
+      "start": 4964.32,
+      "end": 4970.0,
+      "text": "what my question is. If so, the sign, the sign for my"
+    },
+    {
+      "i": 886,
+      "start": 4970.0,
+      "end": 4974.84,
+      "text": "0 identification is I'll, I'll be Sarva Gyani."
+    },
+    {
+      "i": 887,
+      "start": 4974.84,
+      "end": 4981.88,
+      "text": "I'll know everything basically. I mean, or I'll know everybody,"
+    },
+    {
+      "i": 888,
+      "start": 4982.2,
+      "end": 4986.32,
+      "text": "everybody, basically everybody not like that way everybody."
+    },
+    {
+      "i": 889,
+      "start": 4986.32,
+      "end": 4989.68,
+      "text": "But then my and my own all births."
+    },
+    {
+      "i": 890,
+      "start": 4991.32,
+      "end": 4995.44,
+      "text": "I mean, I'll be same as Krishna. I'll I'll ask you one question."
+    },
+    {
+      "i": 891,
+      "start": 4996.72,
+      "end": 5002.68,
+      "text": "Imagine you are a water drop and that water drop has now fallen"
+    },
+    {
+      "i": 892,
+      "start": 5002.68,
+      "end": 5010.88,
+      "text": "into the ocean. And now will that drop have an"
+    },
+    {
+      "i": 893,
+      "start": 5010.88,
+      "end": 5014.36,
+      "text": "independent identity that I am still a water drop inside the"
+    },
+    {
+      "i": 894,
+      "start": 5014.36,
+      "end": 5017.68,
+      "text": "ocean or will it say that I am the ocean?"
+    },
+    {
+      "i": 895,
+      "start": 5018.92,
+      "end": 5022.64,
+      "text": "Yeah. And when you become the ocean,"
+    },
+    {
+      "i": 896,
+      "start": 5022.64,
+      "end": 5026.24,
+      "text": "when you are becoming the ocean, will there be separate water"
+    },
+    {
+      "i": 897,
+      "start": 5026.24,
+      "end": 5028.92,
+      "text": "drops in it? To know the iron is the water"
+    },
+    {
+      "i": 898,
+      "start": 5028.92,
+      "end": 5030.72,
+      "text": "drops, mind, body, intellect, etcetera."
+    },
+    {
+      "i": 899,
+      "start": 5031.48,
+      "end": 5034.64,
+      "text": "No, no, no. That is exactly what it is."
+    },
+    {
+      "i": 900,
+      "start": 5037.08,
+      "end": 5041.16,
+      "text": "Yes, I understand. But still like practically I"
+    },
+    {
+      "i": 901,
+      "start": 5041.16,
+      "end": 5044.32,
+      "text": "would say that I would be able to read the papers."
+    },
+    {
+      "i": 902,
+      "start": 5044.52,
+      "end": 5051.76,
+      "text": "I mean not basically I and Krishna will be same."
+    },
+    {
+      "i": 903,
+      "start": 5052.32,
+      "end": 5055.88,
+      "text": "No, you are Atma. You will know you are atma,"
+    },
+    {
+      "i": 904,
+      "start": 5055.88,
+      "end": 5061.88,
+      "text": "which is Krishna's true nature. But Krishna's shakti or the"
+    },
+    {
+      "i": 905,
+      "start": 5061.88,
+      "end": 5065.32,
+      "text": "potency as an Ishwara is different from Etnyani."
+    },
+    {
+      "i": 906,
+      "start": 5065.32,
+      "end": 5068.56,
+      "text": "That is what I explained. Even when you become a Jeevan"
+    },
+    {
+      "i": 907,
+      "start": 5068.56,
+      "end": 5073.88,
+      "text": "Mukta with the knowledge that you are Atma, you are condition"
+    },
+    {
+      "i": 908,
+      "start": 5073.88,
+      "end": 5076.6,
+      "text": "to function in the body, mind, intellect which you don't"
+    },
+    {
+      "i": 909,
+      "start": 5076.6,
+      "end": 5080.8,
+      "text": "identify with yourself but you identify with the Atma, that"
+    },
+    {
+      "i": 910,
+      "start": 5080.8,
+      "end": 5088.36,
+      "text": "doesn't make you an Ishwara with the control of Maya, right?"
+    },
+    {
+      "i": 911,
+      "start": 5089.2,
+      "end": 5095.04,
+      "text": "The mantra Brahman when the when he uses Maya and takes an"
+    },
+    {
+      "i": 912,
+      "start": 5095.04,
+      "end": 5101.8,
+      "text": "embodiment is different from a Jiva who has become a nyani with"
+    },
+    {
+      "i": 913,
+      "start": 5101.8,
+      "end": 5107.32,
+      "text": "a GY embodiment because that embodiment is because of his"
+    },
+    {
+      "i": 914,
+      "start": 5107.32,
+      "end": 5112.24,
+      "text": "prarabdha karma, not because of Maya Sakthi."
+    },
+    {
+      "i": 915,
+      "start": 5116.56,
+      "end": 5118.64,
+      "text": "OK. OK."
+    },
+    {
+      "i": 916,
+      "start": 5118.68,
+      "end": 5121.04,
+      "text": "Thank you. Thank you."
+    },
+    {
+      "i": 917,
+      "start": 5122.6,
+      "end": 5132.28,
+      "text": "Namaste, Madhir. Namaste, Vindoji."
+    },
+    {
+      "i": 918,
+      "start": 5132.88,
+      "end": 5135.68,
+      "text": "Namaste. Yeah, I came up for a sort of a"
+    },
+    {
+      "i": 919,
+      "start": 5135.68,
+      "end": 5138.72,
+      "text": "clarification. I think you were talking almost"
+    },
+    {
+      "i": 920,
+      "start": 5140.0,
+      "end": 5145.12,
+      "text": "close to the question I have. It's so you talked about Jeevan"
+    },
+    {
+      "i": 921,
+      "start": 5145.12,
+      "end": 5148.32,
+      "text": "Mukta. Jeevan Mukta is the one who"
+    },
+    {
+      "i": 922,
+      "start": 5148.32,
+      "end": 5152.72,
+      "text": "knows his knowledge. He still the body and about that"
+    },
+    {
+      "i": 923,
+      "start": 5152.72,
+      "end": 5158.04,
+      "text": "you will find Avatara and about that Ishwara or similar and"
+    },
+    {
+      "i": 924,
+      "start": 5158.04,
+      "end": 5162.32,
+      "text": "above that Brahman. So from this point of view, from"
+    },
+    {
+      "i": 925,
+      "start": 5162.32,
+      "end": 5167.48,
+      "text": "the embodied, the embodied being maximum you can go is the given"
+    },
+    {
+      "i": 926,
+      "start": 5167.48,
+      "end": 5170.28,
+      "text": "Mukhtar. So yes, as far as I understand,"
+    },
+    {
+      "i": 927,
+      "start": 5170.28,
+      "end": 5173.96,
+      "text": "he can never become anything more than that, right?"
+    },
+    {
+      "i": 928,
+      "start": 5174.72,
+      "end": 5177.64,
+      "text": "He can have the knowledge of the Brahman, he."
+    },
+    {
+      "i": 929,
+      "start": 5177.92,
+      "end": 5179.52,
+      "text": "Can have the knowledge of Brahman right?"
+    },
+    {
+      "i": 930,
+      "start": 5179.84,
+      "end": 5182.96,
+      "text": "Yes. So, yeah, I think I, yeah, many"
+    },
+    {
+      "i": 931,
+      "start": 5182.96,
+      "end": 5185.6,
+      "text": "times in our conversation, everybody wants to become"
+    },
+    {
+      "i": 932,
+      "start": 5185.6,
+      "end": 5188.24,
+      "text": "Brahman. So I thought I take the"
+    },
+    {
+      "i": 933,
+      "start": 5188.24,
+      "end": 5192.64,
+      "text": "advantage to ask this. So the maximum possibility is"
+    },
+    {
+      "i": 934,
+      "start": 5194.08,
+      "end": 5198.72,
+      "text": "sort of a Jeevan Mukta in which even you still have to, or one"
+    },
+    {
+      "i": 935,
+      "start": 5198.72,
+      "end": 5203.28,
+      "text": "has to still perform. He's not free from body."
+    },
+    {
+      "i": 936,
+      "start": 5204.0,
+      "end": 5207.28,
+      "text": "Body will still be there. Body will be still there, but he"
+    },
+    {
+      "i": 937,
+      "start": 5207.28,
+      "end": 5209.64,
+      "text": "won't identify that. I am the body, mind, intellect."
+    },
+    {
+      "i": 938,
+      "start": 5210.24,
+      "end": 5211.64,
+      "text": "He won't identify that, yes, but."
+    },
+    {
+      "i": 939,
+      "start": 5211.64,
+      "end": 5216.68,
+      "text": "This, this state is not close, not it is not Qatar and it is"
+    },
+    {
+      "i": 940,
+      "start": 5216.68,
+      "end": 5220.44,
+      "text": "not Ishwara. So I don't know what state what."
+    },
+    {
+      "i": 941,
+      "start": 5220.44,
+      "end": 5222.36,
+      "text": "That state is. It is even valuable."
+    },
+    {
+      "i": 942,
+      "start": 5222.88,
+      "end": 5226.72,
+      "text": "But it is just like no Madhir, it is very simple."
+    },
+    {
+      "i": 943,
+      "start": 5226.72,
+      "end": 5234.04,
+      "text": "It is just like that, a retired police officer knows very well"
+    },
+    {
+      "i": 944,
+      "start": 5234.04,
+      "end": 5237.08,
+      "text": "everything what has happened but can be done by as a police"
+    },
+    {
+      "i": 945,
+      "start": 5237.08,
+      "end": 5240.04,
+      "text": "officer. But he is no more able to wear"
+    },
+    {
+      "i": 946,
+      "start": 5240.04,
+      "end": 5243.32,
+      "text": "the uniform or able to go and perform as a police officer."
+    },
+    {
+      "i": 947,
+      "start": 5245.16,
+      "end": 5247.8,
+      "text": "He has no identity as a police officer."
+    },
+    {
+      "i": 948,
+      "start": 5249.2,
+      "end": 5252.44,
+      "text": "He he has identified himself as a ordinary human being."
+    },
+    {
+      "i": 949,
+      "start": 5253.84,
+      "end": 5257.8,
+      "text": "Right? Same way that Nyani has no"
+    },
+    {
+      "i": 950,
+      "start": 5257.8,
+      "end": 5260.6,
+      "text": "identification with the body, mind, intellect which he has"
+    },
+    {
+      "i": 951,
+      "start": 5260.6,
+      "end": 5263.28,
+      "text": "been functioning as Bindo or Madhuru."
+    },
+    {
+      "i": 952,
+      "start": 5264.24,
+      "end": 5268.76,
+      "text": "But the moment we realized they have the knowledge that I am not"
+    },
+    {
+      "i": 953,
+      "start": 5268.76,
+      "end": 5273.76,
+      "text": "the body, mind intellect, I am the Atman or Brahman, which is"
+    },
+    {
+      "i": 954,
+      "start": 5274.28,
+      "end": 5279.88,
+      "text": "the reason why I am able to have the consciousness and awareness"
+    },
+    {
+      "i": 955,
+      "start": 5279.88,
+      "end": 5282.2,
+      "text": "of everything what is happening through the body, mind,"
+    },
+    {
+      "i": 956,
+      "start": 5282.2,
+      "end": 5284.88,
+      "text": "intellect. Because I am controlled by the"
+    },
+    {
+      "i": 957,
+      "start": 5285.0,
+      "end": 5288.12,
+      "text": "limitations of the body mind intellect for the sense organs"
+    },
+    {
+      "i": 958,
+      "start": 5288.12,
+      "end": 5292.28,
+      "text": "and the transaction. But I am not a limited"
+    },
+    {
+      "i": 959,
+      "start": 5292.28,
+      "end": 5297.6,
+      "text": "individual with the body mind intellect with, but I am free"
+    },
+    {
+      "i": 960,
+      "start": 5297.6,
+      "end": 5301.52,
+      "text": "from that. That is why the freedom mukti is"
+    },
+    {
+      "i": 961,
+      "start": 5301.52,
+      "end": 5305.24,
+      "text": "being taken, because I am no more bound by the body, mind,"
+    },
+    {
+      "i": 962,
+      "start": 5305.24,
+      "end": 5308.52,
+      "text": "intellect that has to be experienced."
+    },
+    {
+      "i": 963,
+      "start": 5308.52,
+      "end": 5313.72,
+      "text": "Then only we will know that what is the freedom being in the"
+    },
+    {
+      "i": 964,
+      "start": 5313.72,
+      "end": 5321.2,
+      "text": "body, yet free from the body. Yeah, yeah, I think, I think the"
+    },
+    {
+      "i": 965,
+      "start": 5321.2,
+      "end": 5327.84,
+      "text": "trouble for me, the body body thing is the I am not the body"
+    },
+    {
+      "i": 966,
+      "start": 5327.84,
+      "end": 5332.32,
+      "text": "makes people reject something which they can't reject."
+    },
+    {
+      "i": 967,
+      "start": 5333.16,
+      "end": 5335.96,
+      "text": "So you can reject is as much harder."
+    },
+    {
+      "i": 968,
+      "start": 5335.96,
+      "end": 5341.12,
+      "text": "You shout it will not happen. So maybe the better solution for"
+    },
+    {
+      "i": 969,
+      "start": 5341.12,
+      "end": 5348.56,
+      "text": "me is that I am the Earth man, which is, which is embodied at"
+    },
+    {
+      "i": 970,
+      "start": 5348.56,
+      "end": 5350.92,
+      "text": "present. Yeah, that that will be known to"
+    },
+    {
+      "i": 971,
+      "start": 5350.92,
+      "end": 5353.12,
+      "text": "you it. Just creates problems I think"
+    },
+    {
+      "i": 972,
+      "start": 5353.12,
+      "end": 5355.0,
+      "text": "but. That knowledge will happen to"
+    },
+    {
+      "i": 973,
+      "start": 5355.0,
+      "end": 5358.4,
+      "text": "you, Madhir. For which the Advaita talks"
+    },
+    {
+      "i": 974,
+      "start": 5358.4,
+      "end": 5361.52,
+      "text": "about the Sravanamanana and Aditya Senai is for the method"
+    },
+    {
+      "i": 975,
+      "start": 5361.52,
+      "end": 5364.08,
+      "text": "of which were the Aparokshat Nyana."
+    },
+    {
+      "i": 976,
+      "start": 5364.64,
+      "end": 5367.92,
+      "text": "That is immediate and direct knowledge that you are the self"
+    },
+    {
+      "i": 977,
+      "start": 5368.32,
+      "end": 5373.84,
+      "text": "and not the body will happen. But for that, without doing this"
+    },
+    {
+      "i": 978,
+      "start": 5373.84,
+      "end": 5378.92,
+      "text": "thing intellectually, you cannot imagine and identify as to a"
+    },
+    {
+      "i": 979,
+      "start": 5378.92,
+      "end": 5382.68,
+      "text": "what will be that state like, because that is not within the"
+    },
+    {
+      "i": 980,
+      "start": 5382.68,
+      "end": 5384.4,
+      "text": "realm of the body, mind, intellect."
+    },
+    {
+      "i": 981,
+      "start": 5385.4,
+      "end": 5388.16,
+      "text": "Yes, yes, yeah. And it is also cannot be."
+    },
+    {
+      "i": 982,
+      "start": 5388.24,
+      "end": 5395.0,
+      "text": "As far as I understand it cannot be derived by and through desire"
+    },
+    {
+      "i": 983,
+      "start": 5395.24,
+      "end": 5396.08,
+      "text": "means. Yes."
+    },
+    {
+      "i": 984,
+      "start": 5396.56,
+      "end": 5401.2,
+      "text": "It it is not something you say I want to get to become Duan"
+    },
+    {
+      "i": 985,
+      "start": 5401.2,
+      "end": 5403.32,
+      "text": "Mamta. No, it might happen to you."
+    },
+    {
+      "i": 986,
+      "start": 5403.36,
+      "end": 5408.68,
+      "text": "So in a in a sense, in a sense. You're right, absolutely."
+    },
+    {
+      "i": 987,
+      "start": 5408.76,
+      "end": 5412.84,
+      "text": "Right, tricks in to fall into it because it's not an action that"
+    },
+    {
+      "i": 988,
+      "start": 5412.84,
+      "end": 5417.08,
+      "text": "you can carry out because all actions will be triggered by"
+    },
+    {
+      "i": 989,
+      "start": 5417.08,
+      "end": 5419.24,
+      "text": "Maya and you know right. Absolutely."
+    },
+    {
+      "i": 990,
+      "start": 5419.6,
+      "end": 5422.96,
+      "text": "So the sequence always remains. Yeah, yes, Thank you."
+    },
+    {
+      "i": 991,
+      "start": 5423.92,
+      "end": 5428.52,
+      "text": "Thank you very much. I hope, Yeah, it will help our"
+    },
+    {
+      "i": 992,
+      "start": 5428.52,
+      "end": 5431.64,
+      "text": "discussions with other friends down there."
+    },
+    {
+      "i": 993,
+      "start": 5431.72,
+      "end": 5433.76,
+      "text": "OK, that's right. Thank you for coming up."
+    },
+    {
+      "i": 994,
+      "start": 5433.76,
+      "end": 5434.12,
+      "text": "Thank. You."
+    },
+    {
+      "i": 995,
+      "start": 5434.12,
+      "end": 5435.76,
+      "text": "Yeah, Yeah, Anytime. You're welcome."
+    },
+    {
+      "i": 996,
+      "start": 5438.36,
+      "end": 5442.16,
+      "text": "Prakash will kind of. Just Bindujit, yes, thank you"
+    },
+    {
+      "i": 997,
+      "start": 5442.16,
+      "end": 5445.2,
+      "text": "everyone for coming, for attending this session."
+    },
+    {
+      "i": 998,
+      "start": 5445.28,
+      "end": 5450.6,
+      "text": "And the Bhagwat Gita will continue on Monday 8:30 PM IST."
+    },
+    {
+      "i": 999,
+      "start": 5451.76,
+      "end": 5454.96,
+      "text": "Tomorrow is a break day as Binduji has an appointment and"
+    },
+    {
+      "i": 1000,
+      "start": 5455.08,
+      "end": 5458.8,
+      "text": "on Sunday we'll reconvene for Advaita discussions."
+    },
+    {
+      "i": 1001,
+      "start": 5458.8,
+      "end": 5463.04,
+      "text": "Open discussion at 8:30 PM IST. As always, thank you, Binduji."
+    },
+    {
+      "i": 1002,
+      "start": 5463.92,
+      "end": 5467.48,
+      "text": "Over to you to close the room. Thank you, Prakash, thank you"
+    },
+    {
+      "i": 1003,
+      "start": 5467.48,
+      "end": 5471.24,
+      "text": "Venkat, Anu and Madhur for your questions and thank you all for"
+    },
+    {
+      "i": 1004,
+      "start": 5471.24,
+      "end": 5475.44,
+      "text": "listening. Please listen to this once more"
+    },
+    {
+      "i": 1005,
+      "start": 5475.52,
+      "end": 5478.76,
+      "text": "because it's a very important subject which we have covered."
+    },
+    {
+      "i": 1006,
+      "start": 5479.4,
+      "end": 5482.92,
+      "text": "If this is clear, then the rest of the Gita will not be much"
+    },
+    {
+      "i": 1007,
+      "start": 5482.92,
+      "end": 5486.88,
+      "text": "difficult for understanding. See you all on Monday for the"
+    },
+    {
+      "i": 1008,
+      "start": 5486.88,
+      "end": 5489.68,
+      "text": "Bhagavad Gita and Sunday we will have the open house."
+    },
+    {
+      "i": 1009,
+      "start": 5490.28,
+      "end": 5491.32,
+      "text": "Are you good night?"
+    }
+  ]
+}

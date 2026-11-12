@@ -1,0 +1,4405 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "816feac3-1be3-4eef-8854-a92bfe0e8e62",
+  "source_sha256": "0662e7da3ae62a80d91b71b76262b43d27001921f0c1f248b404fc775c0c83a4",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.04,
+      "end": 3.28,
+      "text": "Namaste everyone, welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 4.36,
+      "end": 7.88,
+      "text": "The ongoing sessions are on Bhagwib Gita offered from an"
+    },
+    {
+      "i": 3,
+      "start": 7.92,
+      "end": 13.24,
+      "text": "Advaita perspective by Bindoji. We are on Chapter 5, room number"
+    },
+    {
+      "i": 4,
+      "start": 13.24,
+      "end": 20.76,
+      "text": "9 and the schedule now is Tuesday, Wednesday, Thursday,"
+    },
+    {
+      "i": 5,
+      "start": 20.76,
+      "end": 25.04,
+      "text": "6:30 AM IST. So the previous rooms, the"
+    },
+    {
+      "i": 6,
+      "start": 25.04,
+      "end": 27.2,
+      "text": "replays are available. You can access them in"
+    },
+    {
+      "i": 7,
+      "start": 27.2,
+      "end": 30.92,
+      "text": "clubhouse, you go to the house or you can go to the channel"
+    },
+    {
+      "i": 8,
+      "start": 30.92,
+      "end": 33.92,
+      "text": "shared in the chat. 1 is a YouTube channel called Advaita"
+    },
+    {
+      "i": 9,
+      "start": 33.92,
+      "end": 37.8,
+      "text": "retold. The second one is on Apple is it"
+    },
+    {
+      "i": 10,
+      "start": 37.8,
+      "end": 40.56,
+      "text": "from Apple Podcast and the third one is Spotify."
+    },
+    {
+      "i": 11,
+      "start": 41.88,
+      "end": 44.88,
+      "text": "So in all these links, you can access the replays and, you"
+    },
+    {
+      "i": 12,
+      "start": 44.88,
+      "end": 47.08,
+      "text": "know, catch up on the previous sessions."
+    },
+    {
+      "i": 13,
+      "start": 47.8,
+      "end": 52.0,
+      "text": "There is also a book which has, you know, deep insights into"
+    },
+    {
+      "i": 14,
+      "start": 52.0,
+      "end": 55.4,
+      "text": "Advaita offered by Bindoji, which was penned by Artemisia"
+    },
+    {
+      "i": 15,
+      "start": 55.48,
+      "end": 58.84,
+      "text": "and published as the book as a book called The Imaginary Door"
+    },
+    {
+      "i": 16,
+      "start": 58.92,
+      "end": 61.84,
+      "text": "available on Amazon. And that's a good reading"
+    },
+    {
+      "i": 17,
+      "start": 61.84,
+      "end": 65.96,
+      "text": "companion. So for housekeeping, we'll have"
+    },
+    {
+      "i": 18,
+      "start": 65.96,
+      "end": 69.0,
+      "text": "the chat in hand raising closed when Bindoji is offering the"
+    },
+    {
+      "i": 19,
+      "start": 69.0,
+      "end": 73.6,
+      "text": "class, after which we will open up the channels for Q&A."
+    },
+    {
+      "i": 20,
+      "start": 74.8,
+      "end": 76.52,
+      "text": "As always, thank you Bindoji, over to you."
+    },
+    {
+      "i": 21,
+      "start": 79.04,
+      "end": 83.04,
+      "text": "Thank you Prakash. Thank you Art Misha, Namaste and"
+    },
+    {
+      "i": 22,
+      "start": 83.04,
+      "end": 96.52,
+      "text": "Hariyam to all of you invocations."
+    },
+    {
+      "i": 23,
+      "start": 99.28,
+      "end": 103.84,
+      "text": "Namalam Garunalam Namami Bhagavat Padam Shankaram."
+    },
+    {
+      "i": 24,
+      "start": 103.84,
+      "end": 120.4,
+      "text": "Loga Shankaram. Shankaram Shankaram."
+    },
+    {
+      "i": 25,
+      "start": 127.48,
+      "end": 141.28,
+      "text": "Yam Brahma."
+    },
+    {
+      "i": 26,
+      "start": 177.28,
+      "end": 186.8,
+      "text": "Dehi verse #13 was what we discussed in the yesterday's"
+    },
+    {
+      "i": 27,
+      "start": 186.8,
+      "end": 199.72,
+      "text": "class were the Karma Yogi after having renounced Sarva Karmani."
+    },
+    {
+      "i": 28,
+      "start": 200.56,
+      "end": 207.64,
+      "text": "All the actions, not necessarily the Vedic actions, are, you"
+    },
+    {
+      "i": 29,
+      "start": 207.64,
+      "end": 212.36,
+      "text": "know, some restricted actions, but all actions."
+    },
+    {
+      "i": 30,
+      "start": 214.04,
+      "end": 219.92,
+      "text": "When he is Sanyasya, when he renounces it, he asks the"
+    },
+    {
+      "i": 31,
+      "start": 219.92,
+      "end": 228.28,
+      "text": "sukambashi. He abides in the happiness which"
+    },
+    {
+      "i": 32,
+      "start": 228.28,
+      "end": 234.92,
+      "text": "is identifiable with his own Swarubha, Nawad, dwarapure dehi"
+    },
+    {
+      "i": 33,
+      "start": 234.92,
+      "end": 240.52,
+      "text": "Nayeva Kurwan Nakarayan. He abides in that body, physical"
+    },
+    {
+      "i": 34,
+      "start": 240.52,
+      "end": 245.04,
+      "text": "human body, Nayeva Kurwan Nakarayan."
+    },
+    {
+      "i": 35,
+      "start": 245.04,
+      "end": 250.36,
+      "text": "Neither he is doing anything nor he is causing anything to hap"
+    },
+    {
+      "i": 36,
+      "start": 250.44,
+      "end": 254.2,
+      "text": "anything to be done as of the karmas are concerned."
+    },
+    {
+      "i": 37,
+      "start": 257.399,
+      "end": 263.92,
+      "text": "Expanding on the same thing the next verse Krishna says na"
+    },
+    {
+      "i": 38,
+      "start": 263.92,
+      "end": 269.88,
+      "text": "karthum na karmani lokasyas rijadi prabhu na karma"
+    },
+    {
+      "i": 39,
+      "start": 269.88,
+      "end": 277.2,
+      "text": "kalasamyogam SA sobhavastu prabharthade prabhu, the master"
+    },
+    {
+      "i": 40,
+      "start": 277.2,
+      "end": 281.56,
+      "text": "of the city of the body, the Nawad Dwarapure which was"
+    },
+    {
+      "i": 41,
+      "start": 281.56,
+      "end": 289.8,
+      "text": "discussed yesterday. Lokasya nakarthuthum, nakarmani"
+    },
+    {
+      "i": 42,
+      "start": 290.08,
+      "end": 294.16,
+      "text": "nakarma Palasam yoga. There are three negations."
+    },
+    {
+      "i": 43,
+      "start": 296.16,
+      "end": 304.32,
+      "text": "Lokasya means of the beings in the world which appears to have"
+    },
+    {
+      "i": 44,
+      "start": 304.32,
+      "end": 312.28,
+      "text": "been created. Nakarthuthum the doership or"
+    },
+    {
+      "i": 45,
+      "start": 312.28,
+      "end": 321.44,
+      "text": "proprietorship Nakarmani I know the activities and nakarma"
+    },
+    {
+      "i": 46,
+      "start": 321.44,
+      "end": 326.64,
+      "text": "follows some yogam nor the correction between the actions"
+    },
+    {
+      "i": 47,
+      "start": 326.64,
+      "end": 331.68,
+      "text": "and their results. Srijathi means creates."
+    },
+    {
+      "i": 48,
+      "start": 331.72,
+      "end": 337.28,
+      "text": "So he is not creating the doership, nor the Karmani, nor"
+    },
+    {
+      "i": 49,
+      "start": 337.28,
+      "end": 340.28,
+      "text": "the actions and nor the connection between the action"
+    },
+    {
+      "i": 50,
+      "start": 340.28,
+      "end": 348.28,
+      "text": "and the results. If he is not doing, then how"
+    },
+    {
+      "i": 51,
+      "start": 348.28,
+      "end": 366.04,
+      "text": "does it happen to but it is the act of the Pragrati or the"
+    },
+    {
+      "i": 52,
+      "start": 366.04,
+      "end": 374.42,
+      "text": "Subhava. There is a triple cosmic"
+    },
+    {
+      "i": 53,
+      "start": 374.42,
+      "end": 379.4,
+      "text": "negation but Atman creates none of these mechanism of bondage."
+    },
+    {
+      "i": 54,
+      "start": 380.68,
+      "end": 382.64,
+      "text": "What is the mechanism of the bondage?"
+    },
+    {
+      "i": 55,
+      "start": 384.72,
+      "end": 388.72,
+      "text": "Karthratvam, Karmani and Karmapalasam Yoga."
+    },
+    {
+      "i": 56,
+      "start": 389.24,
+      "end": 397.36,
+      "text": "These are the three. When he is not creating anyone"
+    },
+    {
+      "i": 57,
+      "start": 397.36,
+      "end": 404.2,
+      "text": "of them, there can this contrastive affirmation which is"
+    },
+    {
+      "i": 58,
+      "start": 404.2,
+      "end": 409.28,
+      "text": "required, as is subhavas tupravartu, that is the implicit"
+    },
+    {
+      "i": 59,
+      "start": 409.28,
+      "end": 412.6,
+      "text": "conclusion that at Atman is eternally free."
+    },
+    {
+      "i": 60,
+      "start": 413.84,
+      "end": 417.4,
+      "text": "The bondage is entirely the nature or the domain of the"
+    },
+    {
+      "i": 61,
+      "start": 417.4,
+      "end": 425.32,
+      "text": "subhava. It operates at the paramarthika"
+    },
+    {
+      "i": 62,
+      "start": 425.32,
+      "end": 430.52,
+      "text": "level which was established in the previous verse."
+    },
+    {
+      "i": 63,
+      "start": 431.88,
+      "end": 440.32,
+      "text": "Dehi, the one who is in that 9 gated city of the body, Its non"
+    },
+    {
+      "i": 64,
+      "start": 440.32,
+      "end": 444.36,
+      "text": "doership into cosmic cosmic metaphysical declaration that"
+    },
+    {
+      "i": 65,
+      "start": 445.64,
+      "end": 455.6,
+      "text": "the nature of the Prabhu or the Dehi or the self or the Lord is"
+    },
+    {
+      "i": 66,
+      "start": 455.6,
+      "end": 469.4,
+      "text": "now free from any doership and that apparent actions, ownership"
+    },
+    {
+      "i": 67,
+      "start": 469.84,
+      "end": 475.56,
+      "text": "or proprietorship and the connection between the action"
+    },
+    {
+      "i": 68,
+      "start": 475.56,
+      "end": 482.32,
+      "text": "and the result is due to the operation of the Prakriti"
+    },
+    {
+      "i": 69,
+      "start": 482.56,
+      "end": 487.48,
+      "text": "nature. In here in this verse, the word"
+    },
+    {
+      "i": 70,
+      "start": 487.48,
+      "end": 498.2,
+      "text": "used is Sobhava soswaha bawaha, sobhawaha 1's own nature, one's"
+    },
+    {
+      "i": 71,
+      "start": 498.2,
+      "end": 504.6,
+      "text": "own nature means not Atman's nature but the nature of the"
+    },
+    {
+      "i": 72,
+      "start": 504.6,
+      "end": 512.799,
+      "text": "body. So when we look at this, the"
+    },
+    {
+      "i": 73,
+      "start": 512.799,
+      "end": 522.2,
+      "text": "identity of Prabhu, what is he in the role, the Dehi, the in"
+    },
+    {
+      "i": 74,
+      "start": 522.2,
+      "end": 530.2,
+      "text": "the Deha at the Paramatma level, Ishwara level or the as"
+    },
+    {
+      "i": 75,
+      "start": 530.24,
+      "end": 533.48,
+      "text": "Paramatman or Ishwara even they are identifying."
+    },
+    {
+      "i": 76,
+      "start": 534.6,
+      "end": 537.76,
+      "text": "Some commentators are identifying the Prabhu as"
+    },
+    {
+      "i": 77,
+      "start": 537.76,
+      "end": 545.0,
+      "text": "Paramatman or Ishwara, the Cosmic Lord, and they say that"
+    },
+    {
+      "i": 78,
+      "start": 545.16,
+      "end": 555.48,
+      "text": "God does not create Kartrutwa. They arise independently from"
+    },
+    {
+      "i": 79,
+      "start": 555.48,
+      "end": 562.36,
+      "text": "the Maya or the Shakti of Paramatma or Ishwara."
+    },
+    {
+      "i": 80,
+      "start": 566.12,
+      "end": 572.4,
+      "text": "Shankara's primary reading is the Jivatman or Dehi or the"
+    },
+    {
+      "i": 81,
+      "start": 572.4,
+      "end": 582.04,
+      "text": "embodied Self. Atma is the King in the body and"
+    },
+    {
+      "i": 82,
+      "start": 582.04,
+      "end": 586.24,
+      "text": "does not create Kartrutva in the persons of the world."
+    },
+    {
+      "i": 83,
+      "start": 589.28,
+      "end": 595.12,
+      "text": "Locustya. But when we have there is a"
+    },
+    {
+      "i": 84,
+      "start": 595.12,
+      "end": 600.72,
+      "text": "secondary reading of Shankara's commentary where both are"
+    },
+    {
+      "i": 85,
+      "start": 601.32,
+      "end": 607.96,
+      "text": "included in the from the form of the standpoint of Hartman which"
+    },
+    {
+      "i": 86,
+      "start": 607.96,
+      "end": 614.76,
+      "text": "is Brahman also from the Ishwara point of view who is a creator"
+    },
+    {
+      "i": 87,
+      "start": 614.76,
+      "end": 622.12,
+      "text": "of the whole world. So in the secondary teaching it"
+    },
+    {
+      "i": 88,
+      "start": 622.12,
+      "end": 629.2,
+      "text": "applies to both Jiva and Ishwara and the level is Hartman is"
+    },
+    {
+      "i": 89,
+      "start": 629.2,
+      "end": 635.0,
+      "text": "equal to Brahman in Advaita. So there is a a bit of confusion"
+    },
+    {
+      "i": 90,
+      "start": 635.0,
+      "end": 638.92,
+      "text": "which can arise if you read the commentaries."
+    },
+    {
+      "i": 91,
+      "start": 644.52,
+      "end": 654.36,
+      "text": "Atman as a sovereign Lord or Prabhu master continues the"
+    },
+    {
+      "i": 92,
+      "start": 657.24,
+      "end": 663.12,
+      "text": "performing in the body. Dehi Deha in the body as the"
+    },
+    {
+      "i": 93,
+      "start": 663.96,
+      "end": 675.0,
+      "text": "indolar of the Neha, but at the same time he has no connection"
+    },
+    {
+      "i": 94,
+      "start": 675.0,
+      "end": 678.68,
+      "text": "with the activities of the city. What is happening?"
+    },
+    {
+      "i": 95,
+      "start": 679.4,
+      "end": 685.68,
+      "text": "Nakuruva Nakarayan asked the Sukambasi that the same prabhu"
+    },
+    {
+      "i": 96,
+      "start": 687.92,
+      "end": 693.72,
+      "text": "being present in the body does not create the Karthratva."
+    },
+    {
+      "i": 97,
+      "start": 693.72,
+      "end": 696.76,
+      "text": "The doership Karman is the actions and the connection"
+    },
+    {
+      "i": 98,
+      "start": 696.76,
+      "end": 701.76,
+      "text": "between the karma and the kala in the people Lokasya."
+    },
+    {
+      "i": 99,
+      "start": 703.12,
+      "end": 712.12,
+      "text": "Therefore the word Prabhu confirming the continuity of the"
+    },
+    {
+      "i": 100,
+      "start": 712.12,
+      "end": 718.4,
+      "text": "subject in the 2 verses of the previous verse and this verse as"
+    },
+    {
+      "i": 101,
+      "start": 718.4,
+      "end": 722.12,
+      "text": "the Dehi and here it is used as Prabhu."
+    },
+    {
+      "i": 102,
+      "start": 722.68,
+      "end": 730.24,
+      "text": "Both are the same and is indicating the word Atman as the"
+    },
+    {
+      "i": 103,
+      "start": 732.2,
+      "end": 738.8,
+      "text": "one who is abiding in the body and for him there is no"
+    },
+    {
+      "i": 104,
+      "start": 738.8,
+      "end": 748.12,
+      "text": "Karthritu doership even though the word Srijathi is becoming"
+    },
+    {
+      "i": 105,
+      "start": 748.12,
+      "end": 750.04,
+      "text": "that. He is the one who is be"
+    },
+    {
+      "i": 106,
+      "start": 750.04,
+      "end": 754.28,
+      "text": "creating. That he is not creating will be"
+    },
+    {
+      "i": 107,
+      "start": 754.28,
+      "end": 759.76,
+      "text": "proved. The doership or the karthritva"
+    },
+    {
+      "i": 108,
+      "start": 766.87,
+      "end": 770.35,
+      "text": "means the very category of doership."
+    },
+    {
+      "i": 109,
+      "start": 770.79,
+      "end": 774.27,
+      "text": "The structure of agency itself has an abstract quality."
+    },
+    {
+      "i": 110,
+      "start": 775.87,
+      "end": 781.87,
+      "text": "This verb says that Prabhu or the dehi or the indueller in"
+    },
+    {
+      "i": 111,
+      "start": 781.87,
+      "end": 787.84,
+      "text": "this body does not create karthritva, not merely that he"
+    },
+    {
+      "i": 112,
+      "start": 787.84,
+      "end": 792.24,
+      "text": "does not create the individual doers, but that he does not"
+    },
+    {
+      "i": 113,
+      "start": 792.24,
+      "end": 794.6,
+      "text": "create the very principle of doership."
+    },
+    {
+      "i": 114,
+      "start": 798.08,
+      "end": 801.68,
+      "text": "This is a bit confusing when we look into it."
+    },
+    {
+      "i": 115,
+      "start": 804.72,
+      "end": 811.44,
+      "text": "Kartruto is a superimposed quality due to the adyasa by"
+    },
+    {
+      "i": 116,
+      "start": 811.44,
+      "end": 815.64,
+      "text": "which the Atman appears to be the karta or the doer."
+    },
+    {
+      "i": 117,
+      "start": 817.32,
+      "end": 824.36,
+      "text": "It is this false attribution of the agency of the atman which is"
+    },
+    {
+      "i": 118,
+      "start": 824.36,
+      "end": 831.2,
+      "text": "being confused as the Kartha. But in Atman's own nature is a"
+    },
+    {
+      "i": 119,
+      "start": 831.2,
+      "end": 833.92,
+      "text": "Kartha. He is not a non doer."
+    },
+    {
+      "i": 120,
+      "start": 836.76,
+      "end": 842.2,
+      "text": "Therefore, when he is not a non doer, he does not have the"
+    },
+    {
+      "i": 121,
+      "start": 842.4,
+      "end": 844.88,
+      "text": "karthrutva. Also Karthritva means doership"
+    },
+    {
+      "i": 122,
+      "start": 851.16,
+      "end": 853.24,
+      "text": "from the point of view of Hartman."
+    },
+    {
+      "i": 123,
+      "start": 854.24,
+      "end": 858.4,
+      "text": "This does not generate the superimposition itself."
+    },
+    {
+      "i": 124,
+      "start": 861.08,
+      "end": 867.64,
+      "text": "Karthritva or the doership arises from avidya by"
+    },
+    {
+      "i": 125,
+      "start": 867.64,
+      "end": 873.08,
+      "text": "identification with the body that I am the body, I am the"
+    },
+    {
+      "i": 126,
+      "start": 873.08,
+      "end": 876.88,
+      "text": "mind, I am the intellect or the complex body, mind complex."
+    },
+    {
+      "i": 127,
+      "start": 878.0,
+      "end": 890.44,
+      "text": "When that identification Aghaza takes place, he feels that I am"
+    },
+    {
+      "i": 128,
+      "start": 890.44,
+      "end": 893.08,
+      "text": "doing. Therefore I have a doership."
+    },
+    {
+      "i": 129,
+      "start": 896.2,
+      "end": 903.76,
+      "text": "But Krishna says he is not the doer nor causing the doership."
+    },
+    {
+      "i": 130,
+      "start": 905.36,
+      "end": 909.04,
+      "text": "But then when is? Why is it arising Sobhavastu"
+    },
+    {
+      "i": 131,
+      "start": 909.04,
+      "end": 917.28,
+      "text": "pravartudi? That Sobhava is the avidya which"
+    },
+    {
+      "i": 132,
+      "start": 917.28,
+      "end": 923.84,
+      "text": "is being now seen as the doership."
+    },
+    {
+      "i": 133,
+      "start": 926.12,
+      "end": 929.08,
+      "text": "If we look at the previous verses which we have studied,"
+    },
+    {
+      "i": 134,
+      "start": 930.84,
+      "end": 938.44,
+      "text": "Krishna had said earlier that gunas are the reason why the"
+    },
+    {
+      "i": 135,
+      "start": 938.44,
+      "end": 944.92,
+      "text": "sense organs and the sense objects are interacting."
+    },
+    {
+      "i": 136,
+      "start": 945.6,
+      "end": 950.64,
+      "text": "That is their nature. Gunas, that is satturajas, tamas"
+    },
+    {
+      "i": 137,
+      "start": 950.64,
+      "end": 956.24,
+      "text": "or the prakriti, it is their nature to be interacting a light"
+    },
+    {
+      "i": 138,
+      "start": 958.12,
+      "end": 965.08,
+      "text": "and in the nature as an object and the vision as an injury or"
+    },
+    {
+      "i": 139,
+      "start": 965.08,
+      "end": 971.6,
+      "text": "the eyes are interacting naturally."
+    },
+    {
+      "i": 140,
+      "start": 974.32,
+      "end": 982.32,
+      "text": "There is no force to that you know implementation that eyes"
+    },
+    {
+      "i": 141,
+      "start": 982.32,
+      "end": 989.92,
+      "text": "are not willing to do it and it is being forced to do it same"
+    },
+    {
+      "i": 142,
+      "start": 989.92,
+      "end": 993.96,
+      "text": "way with the ears or touch or smell or taste or anything like"
+    },
+    {
+      "i": 143,
+      "start": 993.96,
+      "end": 997.76,
+      "text": "that. The interaction between the the"
+    },
+    {
+      "i": 144,
+      "start": 997.8,
+      "end": 1003.08,
+      "text": "objects of corresponding sense organs and that their"
+    },
+    {
+      "i": 145,
+      "start": 1003.08,
+      "end": 1010.52,
+      "text": "interactions are natural. But when what happens is that"
+    },
+    {
+      "i": 146,
+      "start": 1011.72,
+      "end": 1018.2,
+      "text": "when we identify ourself as the body, the adyasa, when it is"
+    },
+    {
+      "i": 147,
+      "start": 1018.2,
+      "end": 1023.52,
+      "text": "happening, even though these activities are happening as a"
+    },
+    {
+      "i": 148,
+      "start": 1023.52,
+      "end": 1032.92,
+      "text": "subhava or a natural happening, the ownership or the kartrutva"
+    },
+    {
+      "i": 149,
+      "start": 1035.359,
+      "end": 1041.52,
+      "text": "is assumed by the individual when he thinks that he is the"
+    },
+    {
+      "i": 150,
+      "start": 1041.52,
+      "end": 1046.92,
+      "text": "body and the sense organs are his and he is interacting in the"
+    },
+    {
+      "i": 151,
+      "start": 1046.92,
+      "end": 1061.12,
+      "text": "world using the in sense organs. What Krishna says in the"
+    },
+    {
+      "i": 152,
+      "start": 1061.36,
+      "end": 1073.64,
+      "text": "previous verse is that Guna Ganeshuvartande these gunas or"
+    },
+    {
+      "i": 153,
+      "start": 1073.64,
+      "end": 1077.68,
+      "text": "the pragruti gunas, Satturajas, tamas and the indriyas they are"
+    },
+    {
+      "i": 154,
+      "start": 1077.68,
+      "end": 1084.16,
+      "text": "all gunas product of gunas because they are all prakruti."
+    },
+    {
+      "i": 155,
+      "start": 1087.68,
+      "end": 1096.0,
+      "text": "The Purusha or the the Prabhu or the Dahim is mere witness."
+    },
+    {
+      "i": 156,
+      "start": 1098.88,
+      "end": 1106.36,
+      "text": "But when the witness identifies with the body, he assumes the"
+    },
+    {
+      "i": 157,
+      "start": 1106.36,
+      "end": 1114.28,
+      "text": "doer karta. The Kartrutva arises from the"
+    },
+    {
+      "i": 158,
+      "start": 1114.28,
+      "end": 1118.16,
+      "text": "Avidya Subhava, not from the Atman's own creative act."
+    },
+    {
+      "i": 159,
+      "start": 1120.48,
+      "end": 1127.6,
+      "text": "If Atman creates Kartrutva then the Atman would itself have to"
+    },
+    {
+      "i": 160,
+      "start": 1127.6,
+      "end": 1134.88,
+      "text": "be the Karta who create the Karthritva that the doership is"
+    },
+    {
+      "i": 161,
+      "start": 1134.88,
+      "end": 1139.36,
+      "text": "also a creation when the assuming the role that I am the"
+    },
+    {
+      "i": 162,
+      "start": 1139.36,
+      "end": 1144.6,
+      "text": "doer. This contradicts the teaching of"
+    },
+    {
+      "i": 163,
+      "start": 1144.72,
+      "end": 1152.28,
+      "text": "Akarthritva which Krishna has said that Vidhi Akartharam"
+    },
+    {
+      "i": 164,
+      "start": 1152.28,
+      "end": 1161.4,
+      "text": "Avayam when he has said that no me, me means the self in all of"
+    },
+    {
+      "i": 165,
+      "start": 1161.4,
+      "end": 1169.48,
+      "text": "us. Krishna cuts this circularity of"
+    },
+    {
+      "i": 166,
+      "start": 1170.2,
+      "end": 1178.24,
+      "text": "doership by the Atman creating nothing, not even its own"
+    },
+    {
+      "i": 167,
+      "start": 1178.28,
+      "end": 1184.76,
+      "text": "apparent Kartrutva when he says that Sobhavastu pravartade."
+    },
+    {
+      "i": 168,
+      "start": 1185.56,
+      "end": 1190.76,
+      "text": "It is the nature in which it is happening."
+    },
+    {
+      "i": 169,
+      "start": 1193.4,
+      "end": 1199.24,
+      "text": "Similarly, in a Karmani, actions are self produced by the system"
+    },
+    {
+      "i": 170,
+      "start": 1199.24,
+      "end": 1204.64,
+      "text": "of Prakriti, the gunas operating upon Guna Guna Guneshvartande"
+    },
+    {
+      "i": 171,
+      "start": 1206.52,
+      "end": 1210.88,
+      "text": "without the Atman initiating, directing or participating in"
+    },
+    {
+      "i": 172,
+      "start": 1210.88,
+      "end": 1226.24,
+      "text": "their production. Of whom Lokasya the Prabhu does"
+    },
+    {
+      "i": 173,
+      "start": 1226.24,
+      "end": 1229.16,
+      "text": "not create Kartritwa and Karmani for the world."
+    },
+    {
+      "i": 174,
+      "start": 1231.84,
+      "end": 1235.32,
+      "text": "For the world means for the beings in the creation."
+    },
+    {
+      "i": 175,
+      "start": 1236.56,
+      "end": 1241.92,
+      "text": "This is not merely about the Prabhu's own non doership which"
+    },
+    {
+      "i": 176,
+      "start": 1241.92,
+      "end": 1246.68,
+      "text": "was established in the previous verse, but about the cosmic"
+    },
+    {
+      "i": 177,
+      "start": 1246.68,
+      "end": 1253.6,
+      "text": "metaphysical fact that Atman is not the source of others"
+    },
+    {
+      "i": 178,
+      "start": 1253.6,
+      "end": 1261.44,
+      "text": "apparent doership either. Atman is present in everything"
+    },
+    {
+      "i": 179,
+      "start": 1262.04,
+      "end": 1264.0,
+      "text": "that is was proved in the earlier way."
+    },
+    {
+      "i": 180,
+      "start": 1264.88,
+      "end": 1270.92,
+      "text": "Nawad Dware pure Dehi and he is deciding in all the Dehas."
+    },
+    {
+      "i": 181,
+      "start": 1273.2,
+      "end": 1279.44,
+      "text": "So not only my actions, the actions of others onto me or in"
+    },
+    {
+      "i": 182,
+      "start": 1279.44,
+      "end": 1287.16,
+      "text": "the society or in the world, all these things we have to see from"
+    },
+    {
+      "i": 183,
+      "start": 1287.16,
+      "end": 1298.64,
+      "text": "the same yardstick that Atman or Brahman in every creation is"
+    },
+    {
+      "i": 184,
+      "start": 1298.64,
+      "end": 1310.6,
+      "text": "present, yet do not cause activity or doership or the"
+    },
+    {
+      "i": 185,
+      "start": 1310.92,
+      "end": 1314.4,
+      "text": "relationship between the fruits of action and the action."
+    },
+    {
+      "i": 186,
+      "start": 1318.8,
+      "end": 1325.52,
+      "text": "It is very difficult for us to understand this because we have"
+    },
+    {
+      "i": 187,
+      "start": 1325.52,
+      "end": 1328.84,
+      "text": "still not been able to understand the Adyasa aspect of"
+    },
+    {
+      "i": 188,
+      "start": 1328.84,
+      "end": 1337.0,
+      "text": "it. If the universal Atman is the"
+    },
+    {
+      "i": 189,
+      "start": 1337.0,
+      "end": 1342.08,
+      "text": "ground of all, is it not the creator of Karthrutva for"
+    },
+    {
+      "i": 190,
+      "start": 1342.08,
+      "end": 1345.0,
+      "text": "everyone because everybody's, everything seems to be in"
+    },
+    {
+      "i": 191,
+      "start": 1345.0,
+      "end": 1347.64,
+      "text": "action? Nakashit Chanamabi"
+    },
+    {
+      "i": 192,
+      "start": 1347.64,
+      "end": 1351.92,
+      "text": "Yaduthishthyagaramakrita Krishna himself has said that even for"
+    },
+    {
+      "i": 193,
+      "start": 1351.92,
+      "end": 1359.04,
+      "text": "an iota of a second you cannot be remaining without doing"
+    },
+    {
+      "i": 194,
+      "start": 1359.04,
+      "end": 1366.12,
+      "text": "anything. So the question of the creator"
+    },
+    {
+      "i": 195,
+      "start": 1366.12,
+      "end": 1369.76,
+      "text": "of Karthrutva by Atma, is it not valid?"
+    },
+    {
+      "i": 196,
+      "start": 1371.48,
+      "end": 1375.92,
+      "text": "The answer is no. Neither for itself nor for the"
+    },
+    {
+      "i": 197,
+      "start": 1375.92,
+      "end": 1379.96,
+      "text": "Loka does the Dehi or the Prabhu create Karthrutva."
+    },
+    {
+      "i": 198,
+      "start": 1382.24,
+      "end": 1386.28,
+      "text": "The Karthrutva of the Loka arises from the Shobhava, from"
+    },
+    {
+      "i": 199,
+      "start": 1386.28,
+      "end": 1392.64,
+      "text": "the Prakruti's autonomous operation, not from the Dehim or"
+    },
+    {
+      "i": 200,
+      "start": 1392.64,
+      "end": 1401.32,
+      "text": "Atman's creative agency. A bit difficult for"
+    },
+    {
+      "i": 201,
+      "start": 1401.32,
+      "end": 1410.16,
+      "text": "understanding. This is because we have studied"
+    },
+    {
+      "i": 202,
+      "start": 1410.32,
+      "end": 1417.44,
+      "text": "earlier in our Upanishadic and everything that there is only"
+    },
+    {
+      "i": 203,
+      "start": 1417.44,
+      "end": 1422.2,
+      "text": "Ekameva, Jutiyam, Brahma. There is no two different"
+    },
+    {
+      "i": 204,
+      "start": 1423.44,
+      "end": 1428.04,
+      "text": "things. Then why is Krishna saying that"
+    },
+    {
+      "i": 205,
+      "start": 1428.6,
+      "end": 1432.8,
+      "text": "the Atman is not creating anything?"
+    },
+    {
+      "i": 206,
+      "start": 1433.2,
+      "end": 1442.56,
+      "text": "It is created by the Prakriti is not Prakriti creation is not"
+    },
+    {
+      "i": 207,
+      "start": 1442.56,
+      "end": 1448.6,
+      "text": "Brahman. The answer comes in the"
+    },
+    {
+      "i": 208,
+      "start": 1450.36,
+      "end": 1454.04,
+      "text": "following verses which will be taking up later."
+    },
+    {
+      "i": 209,
+      "start": 1454.32,
+      "end": 1459.56,
+      "text": "Why does it appear to be happening or why does the"
+    },
+    {
+      "i": 210,
+      "start": 1459.56,
+      "end": 1464.08,
+      "text": "prakriti and creations taking place?"
+    },
+    {
+      "i": 211,
+      "start": 1467.68,
+      "end": 1480.12,
+      "text": "So the word Srijathi Nasrijathi does not create Sritathi means"
+    },
+    {
+      "i": 212,
+      "start": 1480.12,
+      "end": 1486.08,
+      "text": "create. So this this cosmic cosmogenic"
+    },
+    {
+      "i": 213,
+      "start": 1486.08,
+      "end": 1492.08,
+      "text": "verb which is in the one is the philosophical aspect of the"
+    },
+    {
+      "i": 214,
+      "start": 1492.08,
+      "end": 1497.64,
+      "text": "Sanskrit language is used in the Upanishad also by in the Tai 3"
+    },
+    {
+      "i": 215,
+      "start": 1497.64,
+      "end": 1506.6,
+      "text": "Upanishad we learnt that etcetera."
+    },
+    {
+      "i": 216,
+      "start": 1509.32,
+      "end": 1513.44,
+      "text": "Its use here is deliberately chosen by Krishna to use the"
+    },
+    {
+      "i": 217,
+      "start": 1513.44,
+      "end": 1526.16,
+      "text": "word Srijathi to make very deep understanding in us that the"
+    },
+    {
+      "i": 218,
+      "start": 1526.16,
+      "end": 1532.36,
+      "text": "Atman does not perform even the most fundamental creative act of"
+    },
+    {
+      "i": 219,
+      "start": 1533.36,
+      "end": 1538.56,
+      "text": "Srijana creation. Not only with respect to"
+    },
+    {
+      "i": 220,
+      "start": 1538.56,
+      "end": 1545.6,
+      "text": "Kartrutva Karmani and Karmakala Samyoga even locus others."
+    },
+    {
+      "i": 221,
+      "start": 1549.24,
+      "end": 1554.56,
+      "text": "That is why Ekamevardhiya Brahma is right, because even the"
+    },
+    {
+      "i": 222,
+      "start": 1554.56,
+      "end": 1558.92,
+      "text": "Pragruti and the creation of the Pragruti, we will have to"
+    },
+    {
+      "i": 223,
+      "start": 1558.92,
+      "end": 1563.12,
+      "text": "understand how the creation or how the empirical world is"
+    },
+    {
+      "i": 224,
+      "start": 1563.12,
+      "end": 1569.64,
+      "text": "appearing. So the nasvidati has to be"
+    },
+    {
+      "i": 225,
+      "start": 1569.64,
+      "end": 1575.76,
+      "text": "understood as not only doership, not only actions, not only the"
+    },
+    {
+      "i": 226,
+      "start": 1575.88,
+      "end": 1586.96,
+      "text": "union between the action and the fruit, but it is the subhava."
+    },
+    {
+      "i": 227,
+      "start": 1589.04,
+      "end": 1597.44,
+      "text": "Now the word Subhava is a pivotal term in this verse which"
+    },
+    {
+      "i": 228,
+      "start": 1598.24,
+      "end": 1604.28,
+      "text": "needs subsequent explanation by Krishna in the verses coming to"
+    },
+    {
+      "i": 229,
+      "start": 1604.56,
+      "end": 1606.04,
+      "text": "or coming which are appearing to."
+    },
+    {
+      "i": 230,
+      "start": 1610.0,
+      "end": 1613.44,
+      "text": "If the Prabhu creates none of these, then who does?"
+    },
+    {
+      "i": 231,
+      "start": 1614.4,
+      "end": 1619.28,
+      "text": "To answer that, Krishna says Subhava the nature or the"
+    },
+    {
+      "i": 232,
+      "start": 1619.28,
+      "end": 1624.84,
+      "text": "Prakriti the inherent self operating principle of empirical"
+    },
+    {
+      "i": 233,
+      "start": 1624.84,
+      "end": 1630.32,
+      "text": "phenomenal existence. So what is the Sobhava here?"
+    },
+    {
+      "i": 234,
+      "start": 1631.52,
+      "end": 1634.64,
+      "text": "This word is the most important word in this whole verse."
+    },
+    {
+      "i": 235,
+      "start": 1638.88,
+      "end": 1643.48,
+      "text": "At the integer level. Each beings own inherent guna"
+    },
+    {
+      "i": 236,
+      "start": 1643.48,
+      "end": 1648.16,
+      "text": "constitution is the sobhava of the integer."
+    },
+    {
+      "i": 237,
+      "start": 1650.8,
+      "end": 1659.76,
+      "text": "When we are in the clutches of the ego individuality, there is"
+    },
+    {
+      "i": 238,
+      "start": 1659.76,
+      "end": 1668.12,
+      "text": "a constitution of guna in US, each one of us and difference"
+    },
+    {
+      "i": 239,
+      "start": 1668.12,
+      "end": 1670.0,
+      "text": "between individual to individual."
+    },
+    {
+      "i": 240,
+      "start": 1670.72,
+      "end": 1676.44,
+      "text": "We have seen that it is the individual nature which is"
+    },
+    {
+      "i": 241,
+      "start": 1676.44,
+      "end": 1684.8,
+      "text": "driven from the vasanas or the inherent tendencies which are"
+    },
+    {
+      "i": 242,
+      "start": 1686.56,
+      "end": 1692.84,
+      "text": "predominantly operating at the mind intellect level with which"
+    },
+    {
+      "i": 243,
+      "start": 1693.0,
+      "end": 1698.92,
+      "text": "we identify as an individual. Because I identify with my mind"
+    },
+    {
+      "i": 244,
+      "start": 1698.92,
+      "end": 1703.76,
+      "text": "and intellect, and the quality of my mind and intellect is the"
+    },
+    {
+      "i": 245,
+      "start": 1704.4,
+      "end": 1711.6,
+      "text": "sobhava of mind. If I am able to understand and"
+    },
+    {
+      "i": 246,
+      "start": 1711.72,
+      "end": 1719.52,
+      "text": "behave in a certain fashion, it is due to the nature of my mind"
+    },
+    {
+      "i": 247,
+      "start": 1719.52,
+      "end": 1724.24,
+      "text": "and my intellect. Because I am identifying with my"
+    },
+    {
+      "i": 248,
+      "start": 1724.24,
+      "end": 1731.36,
+      "text": "mind and intellect at the individual level, when this"
+    },
+    {
+      "i": 249,
+      "start": 1731.36,
+      "end": 1739.36,
+      "text": "identification is taking the sum sort of the cosmic level, the"
+    },
+    {
+      "i": 250,
+      "start": 1739.36,
+      "end": 1747.08,
+      "text": "same varsana of the mind and intellect becomes the"
+    },
+    {
+      "i": 251,
+      "start": 1748.0,
+      "end": 1753.96,
+      "text": "Trigunathmika Pragriti, the cosmic Pragriti, the primordial"
+    },
+    {
+      "i": 252,
+      "start": 1753.96,
+      "end": 1758.0,
+      "text": "creative principle operating through the three gunas of"
+    },
+    {
+      "i": 253,
+      "start": 1758.0,
+      "end": 1767.48,
+      "text": "Sattva Rajasthanas. And we know that we have learned"
+    },
+    {
+      "i": 254,
+      "start": 1767.48,
+      "end": 1772.64,
+      "text": "that the sattva rajas, tamas, sattva rajas and tamas are the"
+    },
+    {
+      "i": 255,
+      "start": 1773.12,
+      "end": 1775.72,
+      "text": "qualities embedded in the prakriti."
+    },
+    {
+      "i": 256,
+      "start": 1776.0,
+      "end": 1784.28,
+      "text": "And then Prakriti is creating its own individualized objects"
+    },
+    {
+      "i": 257,
+      "start": 1784.28,
+      "end": 1791.16,
+      "text": "and individuals etcetera from the power of the Prakriti."
+    },
+    {
+      "i": 258,
+      "start": 1793.84,
+      "end": 1799.48,
+      "text": "Mostly this philosophy is used by the Sankhya system who use"
+    },
+    {
+      "i": 259,
+      "start": 1799.48,
+      "end": 1802.04,
+      "text": "that Purusha is separate and Pragruti is separate."
+    },
+    {
+      "i": 260,
+      "start": 1805.4,
+      "end": 1815.8,
+      "text": "But in the advaitic level Shankarajaidya uses instead of"
+    },
+    {
+      "i": 261,
+      "start": 1815.8,
+      "end": 1818.44,
+      "text": "Pragruti. He says it is the Maya Shakti,"
+    },
+    {
+      "i": 262,
+      "start": 1821.96,
+      "end": 1824.12,
+      "text": "the power of AP apparent creation."
+    },
+    {
+      "i": 263,
+      "start": 1824.8,
+      "end": 1828.96,
+      "text": "In reality, there is no creation because Advaita cannot accept"
+    },
+    {
+      "i": 264,
+      "start": 1828.96,
+      "end": 1833.36,
+      "text": "two things. Therefore, it is an apparent"
+    },
+    {
+      "i": 265,
+      "start": 1833.36,
+      "end": 1840.36,
+      "text": "creation that operates from Maya Shakti or Avidya Shakti,"
+    },
+    {
+      "i": 266,
+      "start": 1842.2,
+      "end": 1845.84,
+      "text": "producing the appearance of Kartrutva Karmani, some yoga,"
+    },
+    {
+      "i": 267,
+      "start": 1845.84,
+      "end": 1852.88,
+      "text": "etcetera, without any real creation, another separate from"
+    },
+    {
+      "i": 268,
+      "start": 1852.96,
+      "end": 1857.92,
+      "text": "Atma. So Shankar Rajariya explained"
+    },
+    {
+      "i": 269,
+      "start": 1857.92,
+      "end": 1863.36,
+      "text": "the Subhava, the Avidya rooted Pragruti that autonomously"
+    },
+    {
+      "i": 270,
+      "start": 1864.08,
+      "end": 1870.2,
+      "text": "apparently creates or generates the Karthrutva Karmani and"
+    },
+    {
+      "i": 271,
+      "start": 1870.2,
+      "end": 1878.96,
+      "text": "Palasam Yoga. And this is without Atma's"
+    },
+    {
+      "i": 272,
+      "start": 1878.96,
+      "end": 1885.96,
+      "text": "participation. The entire mechanism of Samsara"
+    },
+    {
+      "i": 273,
+      "start": 1885.96,
+      "end": 1892.92,
+      "text": "is self running Swatapravarthamana from the"
+    },
+    {
+      "i": 274,
+      "start": 1894.68,
+      "end": 1900.88,
+      "text": "ambit of Prakriti which is the name Sobhava here in this verse."
+    },
+    {
+      "i": 275,
+      "start": 1901.84,
+      "end": 1908.04,
+      "text": "And Atman stands as an eternal witness of this self running"
+    },
+    {
+      "i": 276,
+      "start": 1908.04,
+      "end": 1921.28,
+      "text": "process. Now to make this understand how"
+    },
+    {
+      "i": 277,
+      "start": 1921.28,
+      "end": 1930.96,
+      "text": "does how can we understand this aspect of Avidya or Maya Shakti"
+    },
+    {
+      "i": 278,
+      "start": 1932.8,
+      "end": 1938.56,
+      "text": "able to do this creation and make us feel that we are limited"
+    },
+    {
+      "i": 279,
+      "start": 1938.56,
+      "end": 1942.16,
+      "text": "individuals and separated from each other?"
+    },
+    {
+      "i": 280,
+      "start": 1947.4,
+      "end": 1961.6,
+      "text": "Is similar to in the space things are occurring and they"
+    },
+    {
+      "i": 281,
+      "start": 1961.6,
+      "end": 1964.92,
+      "text": "seems to be having independent existence."
+    },
+    {
+      "i": 282,
+      "start": 1970.56,
+      "end": 1976.68,
+      "text": "This independent existence what we observe of objects in the"
+    },
+    {
+      "i": 283,
+      "start": 1976.68,
+      "end": 1986.92,
+      "text": "world is when we forget or when we call it as avidya or non"
+    },
+    {
+      "i": 284,
+      "start": 1987.16,
+      "end": 1997.12,
+      "text": "apprehension or we do not in give the right knowledge that"
+    },
+    {
+      "i": 285,
+      "start": 1997.56,
+      "end": 2002.36,
+      "text": "the space in which everything appears as independent and"
+    },
+    {
+      "i": 286,
+      "start": 2003.32,
+      "end": 2014.92,
+      "text": "separate existence has a dependency or need of the space"
+    },
+    {
+      "i": 287,
+      "start": 2016.64,
+      "end": 2020.36,
+      "text": "for the very existence and appearance."
+    },
+    {
+      "i": 288,
+      "start": 2025.96,
+      "end": 2028.16,
+      "text": "It doesn't mean that things are not there."
+    },
+    {
+      "i": 289,
+      "start": 2030.04,
+      "end": 2037.64,
+      "text": "The things are in the space using space, and without space"
+    },
+    {
+      "i": 290,
+      "start": 2038.08,
+      "end": 2041.08,
+      "text": "none of the things can independently exist."
+    },
+    {
+      "i": 291,
+      "start": 2043.96,
+      "end": 2050.52,
+      "text": "At the same time, we are. We technically and"
+    },
+    {
+      "i": 292,
+      "start": 2050.52,
+      "end": 2054.32,
+      "text": "intellectually know the requirement of the space for the"
+    },
+    {
+      "i": 293,
+      "start": 2054.32,
+      "end": 2059.28,
+      "text": "objects to exist. That does not negate our"
+    },
+    {
+      "i": 294,
+      "start": 2060.159,
+      "end": 2064.92,
+      "text": "experience of objects and multiplicity in the space."
+    },
+    {
+      "i": 295,
+      "start": 2067.32,
+      "end": 2075.96,
+      "text": "While all these things are happening, the space as such is"
+    },
+    {
+      "i": 296,
+      "start": 2077.04,
+      "end": 2084.239,
+      "text": "untouched, unconditioned, unaltered or without undergoing"
+    },
+    {
+      "i": 297,
+      "start": 2084.239,
+      "end": 2092.52,
+      "text": "any modification, remains as it is, as a witness or untouched by"
+    },
+    {
+      "i": 298,
+      "start": 2092.52,
+      "end": 2095.6,
+      "text": "the creations that are happening inside it."
+    },
+    {
+      "i": 299,
+      "start": 2102.18,
+      "end": 2106.7,
+      "text": "The Satan chit, the consciousness and existence in"
+    },
+    {
+      "i": 300,
+      "start": 2106.7,
+      "end": 2112.54,
+      "text": "which the space is also an object because it is an object"
+    },
+    {
+      "i": 301,
+      "start": 2112.54,
+      "end": 2116.02,
+      "text": "for cognition or object of awareness."
+    },
+    {
+      "i": 302,
+      "start": 2121.92,
+      "end": 2126.36,
+      "text": "When we can understand that consciousness and existence are"
+    },
+    {
+      "i": 303,
+      "start": 2126.36,
+      "end": 2131.32,
+      "text": "not 2 separating and one and only one in which the space"
+    },
+    {
+      "i": 304,
+      "start": 2131.44,
+      "end": 2140.0,
+      "text": "appears and in space subsequent things are appearing, the in the"
+    },
+    {
+      "i": 305,
+      "start": 2140.2,
+      "end": 2143.6,
+      "text": "the fundamental existence consciousness which is Satan"
+    },
+    {
+      "i": 306,
+      "start": 2143.6,
+      "end": 2151.32,
+      "text": "chit does not even undergo anything, any changes."
+    },
+    {
+      "i": 307,
+      "start": 2153.08,
+      "end": 2159.36,
+      "text": "It is a mere not even a witness in the sense that the witness"
+    },
+    {
+      "i": 308,
+      "start": 2159.6,
+      "end": 2164.96,
+      "text": "will feel separatedness from what is being witnessed."
+    },
+    {
+      "i": 309,
+      "start": 2166.6,
+      "end": 2175.32,
+      "text": "But when it is happening within ourselves, we cannot say that we"
+    },
+    {
+      "i": 310,
+      "start": 2175.32,
+      "end": 2179.68,
+      "text": "are a witness even for that that knowledge."
+    },
+    {
+      "i": 311,
+      "start": 2181.76,
+      "end": 2188.48,
+      "text": "When it is not present within us, when we are not having the"
+    },
+    {
+      "i": 312,
+      "start": 2188.48,
+      "end": 2199.08,
+      "text": "vidya of our true nature, that we are satchitanunda, then the"
+    },
+    {
+      "i": 313,
+      "start": 2199.08,
+      "end": 2205.56,
+      "text": "creation, the space, everything will appear as if it is being"
+    },
+    {
+      "i": 314,
+      "start": 2205.56,
+      "end": 2219.12,
+      "text": "created. To identify ourself as satanchit"
+    },
+    {
+      "i": 315,
+      "start": 2221.08,
+      "end": 2230.92,
+      "text": "or to know that we are satanchit is the purpose which will"
+    },
+    {
+      "i": 316,
+      "start": 2231.44,
+      "end": 2238.32,
+      "text": "release us from the identification of the creation"
+    },
+    {
+      "i": 317,
+      "start": 2238.32,
+      "end": 2247.56,
+      "text": "and the created individuality, the Upanishad said Tasmath ETA"
+    },
+    {
+      "i": 318,
+      "start": 2247.56,
+      "end": 2254.6,
+      "text": "smath atmana akasha sambhudha. From that Brahman or Atman the"
+    },
+    {
+      "i": 319,
+      "start": 2254.6,
+      "end": 2261.96,
+      "text": "space was born. The space was not born"
+    },
+    {
+      "i": 320,
+      "start": 2261.96,
+      "end": 2265.72,
+      "text": "sambhudha. It is not bhuta sambhudha which"
+    },
+    {
+      "i": 321,
+      "start": 2265.72,
+      "end": 2268.64,
+      "text": "we discussed in Taitiriya. When we discussed it in detail,"
+    },
+    {
+      "i": 322,
+      "start": 2269.6,
+      "end": 2277.8,
+      "text": "it did not become or separately from the Atmanoram Ajayamano"
+    },
+    {
+      "i": 323,
+      "start": 2277.8,
+      "end": 2282.52,
+      "text": "Bhuja Vijaya without becoming separate."
+    },
+    {
+      "i": 324,
+      "start": 2283.04,
+      "end": 2295.93,
+      "text": "It appeared as separate but as long as we identify with our"
+    },
+    {
+      "i": 325,
+      "start": 2295.93,
+      "end": 2303.56,
+      "text": "mind and intellect and start operating through the mind and"
+    },
+    {
+      "i": 326,
+      "start": 2303.56,
+      "end": 2309.12,
+      "text": "intellect to evaluate the condition of our Swarupa of Atma"
+    },
+    {
+      "i": 327,
+      "start": 2309.16,
+      "end": 2312.6,
+      "text": "Satanjit, we will not be able to."
+    },
+    {
+      "i": 328,
+      "start": 2314.24,
+      "end": 2318.84,
+      "text": "Because there is a limitation for the body, mind and intellect"
+    },
+    {
+      "i": 329,
+      "start": 2319.56,
+      "end": 2331.92,
+      "text": "to know the reality while remaining in the identification"
+    },
+    {
+      "i": 330,
+      "start": 2331.92,
+      "end": 2336.16,
+      "text": "of the ignorant creation, the Avidya created body, mind,"
+    },
+    {
+      "i": 331,
+      "start": 2336.16,
+      "end": 2348.76,
+      "text": "intellect. That is why in the how the"
+    },
+    {
+      "i": 332,
+      "start": 2348.76,
+      "end": 2353.84,
+      "text": "knower can never know the know nowhere, because there will be a"
+    },
+    {
+      "i": 333,
+      "start": 2353.84,
+      "end": 2357.96,
+      "text": "circular or infinite redundant which will happen."
+    },
+    {
+      "i": 334,
+      "start": 2362.6,
+      "end": 2366.12,
+      "text": "So at the same time it is is it unknown?"
+    },
+    {
+      "i": 335,
+      "start": 2370.48,
+      "end": 2372.92,
+      "text": "The Shasta says it is not unknown."
+    },
+    {
+      "i": 336,
+      "start": 2376.08,
+      "end": 2384.2,
+      "text": "The knowing that the feeling that I am I, that there is an"
+    },
+    {
+      "i": 337,
+      "start": 2384.2,
+      "end": 2391.4,
+      "text": "existence of me. The amnes before we identify"
+    },
+    {
+      "i": 338,
+      "start": 2391.4,
+      "end": 2400.24,
+      "text": "with our body, mind, intellect is the knowing of that aspect."
+    },
+    {
+      "i": 339,
+      "start": 2401.36,
+      "end": 2405.64,
+      "text": "But that amnes the moment it identifies with the Waker or the"
+    },
+    {
+      "i": 340,
+      "start": 2405.64,
+      "end": 2412.84,
+      "text": "dreamer, it assumes the Waker or the dreamer."
+    },
+    {
+      "i": 341,
+      "start": 2417.2,
+      "end": 2423.12,
+      "text": "Before identifying with the Waker or the dreamer, the Amnes"
+    },
+    {
+      "i": 342,
+      "start": 2425.0,
+      "end": 2428.16,
+      "text": "has nothing to know. That is in the deep sleep."
+    },
+    {
+      "i": 343,
+      "start": 2430.72,
+      "end": 2439.44,
+      "text": "Therefore the Amnes is there. At the same time, it cannot be"
+    },
+    {
+      "i": 344,
+      "start": 2440.6,
+      "end": 2446.24,
+      "text": "known as something. That is why we say I know"
+    },
+    {
+      "i": 345,
+      "start": 2446.24,
+      "end": 2457.76,
+      "text": "nothing but when the swabhava of or the nature of the"
+    },
+    {
+      "i": 346,
+      "start": 2458.24,
+      "end": 2465.48,
+      "text": "consciousness, when IT projects itself as a Waker or as a"
+    },
+    {
+      "i": 347,
+      "start": 2465.48,
+      "end": 2473.32,
+      "text": "dreamer. This amnes is still a witness"
+    },
+    {
+      "i": 348,
+      "start": 2473.32,
+      "end": 2476.04,
+      "text": "for the waking and for the dream."
+    },
+    {
+      "i": 349,
+      "start": 2477.44,
+      "end": 2485.64,
+      "text": "But the identified Waker feels with the waking creation and the"
+    },
+    {
+      "i": 350,
+      "start": 2485.64,
+      "end": 2490.16,
+      "text": "waking individuality. Therefore there is a subject and"
+    },
+    {
+      "i": 351,
+      "start": 2490.16,
+      "end": 2492.48,
+      "text": "the empirical world for the object."
+    },
+    {
+      "i": 352,
+      "start": 2493.32,
+      "end": 2498.2,
+      "text": "Same is the case the empirical dreamer and the empirical world"
+    },
+    {
+      "i": 353,
+      "start": 2498.2,
+      "end": 2505.56,
+      "text": "of dream. But if we are not analyzing our"
+    },
+    {
+      "i": 354,
+      "start": 2507.52,
+      "end": 2518.08,
+      "text": "experience as a Waker but from the pure amnes, without"
+    },
+    {
+      "i": 355,
+      "start": 2518.08,
+      "end": 2525.28,
+      "text": "identifying with either waking dream or deep sleep, that is our"
+    },
+    {
+      "i": 356,
+      "start": 2525.28,
+      "end": 2528.16,
+      "text": "pure true nature. Ebiovilakshana Sachi."
+    },
+    {
+      "i": 357,
+      "start": 2528.16,
+      "end": 2536.72,
+      "text": "Chinmath. Rohan Sadashiva, This is not"
+    },
+    {
+      "i": 358,
+      "start": 2536.72,
+      "end": 2541.96,
+      "text": "possible for us. When we are identifying with the"
+    },
+    {
+      "i": 359,
+      "start": 2541.96,
+      "end": 2549.2,
+      "text": "waking or in the dream dream, we don't have the intellect, we are"
+    },
+    {
+      "i": 360,
+      "start": 2549.2,
+      "end": 2553.28,
+      "text": "only mental cognition and everything is there."
+    },
+    {
+      "i": 361,
+      "start": 2553.28,
+      "end": 2557.84,
+      "text": "Therefore, no logic, no analysis or nothing can be done, no"
+    },
+    {
+      "i": 362,
+      "start": 2557.84,
+      "end": 2560.92,
+      "text": "learning or anything. It is a pure expedential world."
+    },
+    {
+      "i": 363,
+      "start": 2561.76,
+      "end": 2567.92,
+      "text": "So let us not consider the dream as a place of for us to solve"
+    },
+    {
+      "i": 364,
+      "start": 2567.92,
+      "end": 2571.92,
+      "text": "the problems. The problem is the Kartrutva,"
+    },
+    {
+      "i": 365,
+      "start": 2572.6,
+      "end": 2578.76,
+      "text": "Karma Karmani and Karmakala. Some yoga is predominantly"
+    },
+    {
+      "i": 366,
+      "start": 2578.76,
+      "end": 2584.0,
+      "text": "affecting us and creating a feeling that we are having punya"
+    },
+    {
+      "i": 367,
+      "start": 2584.0,
+      "end": 2590.72,
+      "text": "and Papa, that effect of good actions and bad actions and then"
+    },
+    {
+      "i": 368,
+      "start": 2591.28,
+      "end": 2594.56,
+      "text": "the cycle of birth and death. Everything is felt in the"
+    },
+    {
+      "i": 369,
+      "start": 2594.68,
+      "end": 2603.04,
+      "text": "waking. Therefore, in the waking this"
+    },
+    {
+      "i": 370,
+      "start": 2603.04,
+      "end": 2610.12,
+      "text": "adyasa which is happening to us, that I am the Waker, I am the"
+    },
+    {
+      "i": 371,
+      "start": 2610.12,
+      "end": 2614.96,
+      "text": "Waker bindo who is now talking and teaching all those things."
+    },
+    {
+      "i": 372,
+      "start": 2615.48,
+      "end": 2622.0,
+      "text": "When I have that feeling or when I am experiencing that, I cannot"
+    },
+    {
+      "i": 373,
+      "start": 2622.0,
+      "end": 2629.84,
+      "text": "know myself as Atmaavarbram, I cannot know."
+    },
+    {
+      "i": 374,
+      "start": 2630.96,
+      "end": 2643.2,
+      "text": "But the same time, just as we feel that I am a human being,"
+    },
+    {
+      "i": 375,
+      "start": 2644.0,
+      "end": 2647.44,
+      "text": "even though we feel that we are a human being and behave as if"
+    },
+    {
+      "i": 376,
+      "start": 2647.44,
+      "end": 2651.68,
+      "text": "we are human beings with all the sense mind, intellect, body and"
+    },
+    {
+      "i": 377,
+      "start": 2651.68,
+      "end": 2657.16,
+      "text": "the sense organs, we don't have to remember we are a human"
+    },
+    {
+      "i": 378,
+      "start": 2657.16,
+      "end": 2662.8,
+      "text": "being. We are abiding as a human being"
+    },
+    {
+      "i": 379,
+      "start": 2662.8,
+      "end": 2670.64,
+      "text": "and behaving now that abidance as a human beings."
+    },
+    {
+      "i": 380,
+      "start": 2674.44,
+      "end": 2682.36,
+      "text": "When we do the Sravanamanana Nidhidyasana and with KET"
+    },
+    {
+      "i": 381,
+      "start": 2682.36,
+      "end": 2686.6,
+      "text": "convinced that we are not the human being but we are the"
+    },
+    {
+      "i": 382,
+      "start": 2686.6,
+      "end": 2692.6,
+      "text": "conscious entity which is called the Atma or Brahman name."
+    },
+    {
+      "i": 383,
+      "start": 2692.6,
+      "end": 2696.56,
+      "text": "Doesn't matter whether we call it as super consciousness or"
+    },
+    {
+      "i": 384,
+      "start": 2696.56,
+      "end": 2700.6,
+      "text": "universal consciousness or consciousness or Sachidananda"
+    },
+    {
+      "i": 385,
+      "start": 2700.8,
+      "end": 2705.72,
+      "text": "Atma Brahma. Any name nomenclature can come"
+    },
+    {
+      "i": 386,
+      "start": 2705.72,
+      "end": 2709.04,
+      "text": "into the picture but none of the nomenclature are really"
+    },
+    {
+      "i": 387,
+      "start": 2710.24,
+      "end": 2713.48,
+      "text": "explaining the nature of that consciousness awareness."
+    },
+    {
+      "i": 388,
+      "start": 2714.56,
+      "end": 2722.12,
+      "text": "But when we abide in that, the switch from the humanness to the"
+    },
+    {
+      "i": 389,
+      "start": 2722.36,
+      "end": 2729.28,
+      "text": "consciousness, if it had happened and that is where we"
+    },
+    {
+      "i": 390,
+      "start": 2729.28,
+      "end": 2735.56,
+      "text": "are abiding, then neither the waking nor the dream nor the"
+    },
+    {
+      "i": 391,
+      "start": 2735.56,
+      "end": 2741.0,
+      "text": "deep sleep and the effects of Waker dream and deep sleep will"
+    },
+    {
+      "i": 392,
+      "start": 2741.0,
+      "end": 2749.92,
+      "text": "be touching us or affecting us. And that is what is called the"
+    },
+    {
+      "i": 393,
+      "start": 2750.16,
+      "end": 2755.0,
+      "text": "freedom or the mukti or the liberation or the emancipation"
+    },
+    {
+      "i": 394,
+      "start": 2755.6,
+      "end": 2759.08,
+      "text": "realization. Different names are used for"
+    },
+    {
+      "i": 395,
+      "start": 2759.08,
+      "end": 2765.24,
+      "text": "explaining that. It is not that it is not"
+    },
+    {
+      "i": 396,
+      "start": 2765.24,
+      "end": 2768.88,
+      "text": "possible for us to abide in the self or in the consciousness,"
+    },
+    {
+      "i": 397,
+      "start": 2772.72,
+      "end": 2779.96,
+      "text": "the doubts which we entertain. Is it possible for me to do"
+    },
+    {
+      "i": 398,
+      "start": 2779.96,
+      "end": 2787.64,
+      "text": "that? That has to go that agnyana"
+    },
+    {
+      "i": 399,
+      "start": 2787.64,
+      "end": 2791.88,
+      "text": "samshe vipariya which are happening in the in the process"
+    },
+    {
+      "i": 400,
+      "start": 2791.88,
+      "end": 2801.04,
+      "text": "of sarvana manana nidhi dyasana. When that is broken, vidyade"
+    },
+    {
+      "i": 401,
+      "start": 2801.04,
+      "end": 2808.04,
+      "text": "hrudaya grindi, chidjan de sarva samsaya shiyande chasya karmani"
+    },
+    {
+      "i": 402,
+      "start": 2809.4,
+      "end": 2818.2,
+      "text": "kasminder SE paravari. This is the mantra which is in"
+    },
+    {
+      "i": 403,
+      "start": 2818.2,
+      "end": 2820.88,
+      "text": "the Chandogya Prasad which we studied."
+    },
+    {
+      "i": 404,
+      "start": 2823.64,
+      "end": 2829.52,
+      "text": "That's kruthiya grunti that not in the heart which is making us"
+    },
+    {
+      "i": 405,
+      "start": 2829.52,
+      "end": 2836.28,
+      "text": "abide as a humanness. I am the human being that has to"
+    },
+    {
+      "i": 406,
+      "start": 2836.28,
+      "end": 2841.68,
+      "text": "be broken. How will it happen?"
+    },
+    {
+      "i": 407,
+      "start": 2842.6,
+      "end": 2850.24,
+      "text": "Sidyande Sarvasamshaya, when all doubts and wrong notions in"
+    },
+    {
+      "i": 408,
+      "start": 2850.32,
+      "end": 2854.36,
+      "text": "compression are basically the avidya, the ignorance and"
+    },
+    {
+      "i": 409,
+      "start": 2854.36,
+      "end": 2858.36,
+      "text": "dadyasa. When it is Chidyande, when it is"
+    },
+    {
+      "i": 410,
+      "start": 2859.28,
+      "end": 2868.48,
+      "text": "when it is uprooted or removed, cut from the root that time what"
+    },
+    {
+      "i": 411,
+      "start": 2868.48,
+      "end": 2874.96,
+      "text": "happens in this Chiyande, Chasya Karmani to all these activities"
+    },
+    {
+      "i": 412,
+      "start": 2874.96,
+      "end": 2879.6,
+      "text": "which otherwise the body humanness was entertaining."
+    },
+    {
+      "i": 413,
+      "start": 2880.08,
+      "end": 2884.48,
+      "text": "As I am the embodied self and I am acting in this world of"
+    },
+    {
+      "i": 414,
+      "start": 2884.48,
+      "end": 2889.56,
+      "text": "empirical self using my sense organs, all those things will be"
+    },
+    {
+      "i": 415,
+      "start": 2891.12,
+      "end": 2899.12,
+      "text": "diminished. Chiyande, that is the time when"
+    },
+    {
+      "i": 416,
+      "start": 2902.08,
+      "end": 2906.96,
+      "text": "Tasmin drifte. Tasmin min tasmin samiye that"
+    },
+    {
+      "i": 417,
+      "start": 2906.96,
+      "end": 2915.08,
+      "text": "time Paravari. You are the infinite self."
+    },
+    {
+      "i": 418,
+      "start": 2916.32,
+      "end": 2918.12,
+      "text": "There is nothing other than yours."
+    },
+    {
+      "i": 419,
+      "start": 2921.48,
+      "end": 2933.72,
+      "text": "This is why the Sabhava of the adyasa or avidya, all three"
+    },
+    {
+      "i": 420,
+      "start": 2933.72,
+      "end": 2938.76,
+      "text": "words are similar. Pragruti sobhava adyasa avidya."
+    },
+    {
+      "i": 421,
+      "start": 2941.08,
+      "end": 2944.56,
+      "text": "It is this which is being in which it is working."
+    },
+    {
+      "i": 422,
+      "start": 2944.84,
+      "end": 2949.24,
+      "text": "Abavastu pravartade. Pravartade means operate."
+    },
+    {
+      "i": 423,
+      "start": 2949.24,
+      "end": 2953.6,
+      "text": "The nature operates from this autonomous forward movement."
+    },
+    {
+      "i": 424,
+      "start": 2959.12,
+      "end": 2965.12,
+      "text": "It is a form in a reflex manner in which it is operating with"
+    },
+    {
+      "i": 425,
+      "start": 2965.12,
+      "end": 2968.56,
+      "text": "its own internal logic. It is a self running,"
+    },
+    {
+      "i": 426,
+      "start": 2968.56,
+      "end": 2974.4,
+      "text": "self-sustaining, self generating process due to the Adyasara"
+    },
+    {
+      "i": 427,
+      "start": 2974.4,
+      "end": 2978.76,
+      "text": "Vidya, Sobhava Parapparuthi, the entire phenomenal world of"
+    },
+    {
+      "i": 428,
+      "start": 2978.76,
+      "end": 2984.6,
+      "text": "action and consequences from within its own guna dynamics."
+    },
+    {
+      "i": 429,
+      "start": 2986.12,
+      "end": 2989.24,
+      "text": "The guna is also a creation of that avidya."
+    },
+    {
+      "i": 430,
+      "start": 2992.4,
+      "end": 2997.96,
+      "text": "So there is a true contrast. Prabhu Srijathi is negated."
+    },
+    {
+      "i": 431,
+      "start": 2999.12,
+      "end": 3004.2,
+      "text": "Atma is doing nothing. Sobhavastu pravartathi, The"
+    },
+    {
+      "i": 432,
+      "start": 3004.2,
+      "end": 3009.52,
+      "text": "sobhava is working. Prabhu does not create."
+    },
+    {
+      "i": 433,
+      "start": 3009.64,
+      "end": 3015.96,
+      "text": "It is a passive witness called the Atman and it is no way"
+    },
+    {
+      "i": 434,
+      "start": 3015.96,
+      "end": 3020.44,
+      "text": "connected with the Pragruti. Therefore it is Akartha and the"
+    },
+    {
+      "i": 435,
+      "start": 3021.04,
+      "end": 3028.52,
+      "text": "king or the Prabhu avaiding in the consciousness, whereas the"
+    },
+    {
+      "i": 436,
+      "start": 3028.52,
+      "end": 3034.76,
+      "text": "Sobhava pravartate. When the Sobhava operates, it"
+    },
+    {
+      "i": 437,
+      "start": 3034.76,
+      "end": 3040.92,
+      "text": "becomes an active operating principle, and that of affective"
+    },
+    {
+      "i": 438,
+      "start": 3040.92,
+      "end": 3046.2,
+      "text": "operating principle is the phenomenal principle called Maya"
+    },
+    {
+      "i": 439,
+      "start": 3046.2,
+      "end": 3054.8,
+      "text": "or Pragruti or sabhava, in that the Vyavaharika, karta, Karmani,"
+    },
+    {
+      "i": 440,
+      "start": 3054.96,
+      "end": 3060.52,
+      "text": "karma, Kalasam, yoga, all these will function."
+    },
+    {
+      "i": 441,
+      "start": 3066.87,
+      "end": 3073.2,
+      "text": "So the bondage of the human being is basically the three"
+    },
+    {
+      "i": 442,
+      "start": 3073.2,
+      "end": 3078.56,
+      "text": "prerequisites produced by Sobhava, not of Atman."
+    },
+    {
+      "i": 443,
+      "start": 3079.48,
+      "end": 3083.04,
+      "text": "Atman is strategically, ontologically, eternally free."
+    },
+    {
+      "i": 444,
+      "start": 3083.52,
+      "end": 3089.0,
+      "text": "Nityamukta, and what is called moksha is the recognition that"
+    },
+    {
+      "i": 445,
+      "start": 3089.68,
+      "end": 3097.2,
+      "text": "this eternal freedom is my nature, not the Kartrutva"
+    },
+    {
+      "i": 446,
+      "start": 3097.24,
+      "end": 3103.36,
+      "text": "Boktrutva or the Karmani. This is the eternal freedom, and"
+    },
+    {
+      "i": 447,
+      "start": 3103.36,
+      "end": 3108.16,
+      "text": "it is not a produce or a production or a result of a"
+    },
+    {
+      "i": 448,
+      "start": 3108.56,
+      "end": 3116.24,
+      "text": "action with which we realize it. Even though the word realization"
+    },
+    {
+      "i": 449,
+      "start": 3118.16,
+      "end": 3125.4,
+      "text": "may apparently be a after effect of something, in reality there"
+    },
+    {
+      "i": 450,
+      "start": 3125.4,
+      "end": 3131.68,
+      "text": "is no after effect. To that, Shankaracharya gives 3"
+    },
+    {
+      "i": 451,
+      "start": 3131.68,
+      "end": 3136.12,
+      "text": "levels of analysis. Sobhavastu Pravartal, which is a"
+    },
+    {
+      "i": 452,
+      "start": 3136.12,
+      "end": 3142.28,
+      "text": "multilayered recognition at the individual level, Abhidya Vasana"
+    },
+    {
+      "i": 453,
+      "start": 3143.12,
+      "end": 3146.08,
+      "text": "at the jiva level. Sobhava is the accumulated"
+    },
+    {
+      "i": 454,
+      "start": 3146.08,
+      "end": 3151.44,
+      "text": "vasana structure of each creation, the latent impression"
+    },
+    {
+      "i": 455,
+      "start": 3151.44,
+      "end": 3155.92,
+      "text": "samskaras built up through the past actions that constitute"
+    },
+    {
+      "i": 456,
+      "start": 3155.92,
+      "end": 3161.16,
+      "text": "each one's individual nature and drive the future actions."
+    },
+    {
+      "i": 457,
+      "start": 3162.04,
+      "end": 3165.96,
+      "text": "This is the Sobhava as a karmic character in the guna"
+    },
+    {
+      "i": 458,
+      "start": 3165.96,
+      "end": 3168.36,
+      "text": "constitution of the individual and the karana."
+    },
+    {
+      "i": 459,
+      "start": 3171.2,
+      "end": 3175.4,
+      "text": "At the cosmic level, empirical level, prakriti."
+    },
+    {
+      "i": 460,
+      "start": 3177.56,
+      "end": 3180.04,
+      "text": "At the cosmic level, Sobhava is Pragriti."
+    },
+    {
+      "i": 461,
+      "start": 3180.32,
+      "end": 3184.48,
+      "text": "It is called Prakriti, their primordial creative principle."
+    },
+    {
+      "i": 462,
+      "start": 3185.92,
+      "end": 3189.2,
+      "text": "As per the Sankhya system operating through the Sattva"
+    },
+    {
+      "i": 463,
+      "start": 3189.2,
+      "end": 3194.84,
+      "text": "Rajas Tamas, this Pragruti autonomously generates Kartrutva"
+    },
+    {
+      "i": 464,
+      "start": 3195.84,
+      "end": 3202.96,
+      "text": "through Ahankara and Karmani through Manas Indriya Kaya, that"
+    },
+    {
+      "i": 465,
+      "start": 3202.96,
+      "end": 3208.92,
+      "text": "is Kaman, kayena, vache, namanasa and Karmahala samyoga"
+    },
+    {
+      "i": 466,
+      "start": 3209.0,
+      "end": 3213.0,
+      "text": "through the Karma Niyama that for every action there is a"
+    },
+    {
+      "i": 467,
+      "start": 3213.76,
+      "end": 3220.6,
+      "text": "consequence, all as internal operations on its own dynamics"
+    },
+    {
+      "i": 468,
+      "start": 3220.6,
+      "end": 3223.24,
+      "text": "of the gunas of Sattva Rajasthanamas."
+    },
+    {
+      "i": 469,
+      "start": 3226.28,
+      "end": 3230.8,
+      "text": "But when we come to the Advaije level or the Maya level Level 3,"
+    },
+    {
+      "i": 470,
+      "start": 3232.56,
+      "end": 3240.68,
+      "text": "the same pragruti, we call it as Avidya, as Maya Sakthi and there"
+    },
+    {
+      "i": 471,
+      "start": 3240.68,
+      "end": 3248.96,
+      "text": "is only one Paramarthika. But what is the experiences?"
+    },
+    {
+      "i": 472,
+      "start": 3250.64,
+      "end": 3255.4,
+      "text": "It is the swabhava of the power of havidya, the mean, the"
+    },
+    {
+      "i": 473,
+      "start": 3255.4,
+      "end": 3265.16,
+      "text": "beginning, less anadhi, self Wheeling of anadhi, avidya that"
+    },
+    {
+      "i": 474,
+      "start": 3265.16,
+      "end": 3269.0,
+      "text": "superimposes the entire appearance of karthvatva karmani"
+    },
+    {
+      "i": 475,
+      "start": 3269.0,
+      "end": 3273.68,
+      "text": "samyoga and superimposes its own Atman."
+    },
+    {
+      "i": 476,
+      "start": 3276.84,
+      "end": 3286.2,
+      "text": "The Maya operates Pravathi, but reality Atman is witnessing the"
+    },
+    {
+      "i": 477,
+      "start": 3286.2,
+      "end": 3292.12,
+      "text": "entire creation of Samsara is Avidya or Maya's autonomous"
+    },
+    {
+      "i": 478,
+      "start": 3292.12,
+      "end": 3298.64,
+      "text": "production and that not of Atman who is mere witness of it."
+    },
+    {
+      "i": 479,
+      "start": 3300.48,
+      "end": 3304.6,
+      "text": "At this deepest level, Subhavasth pravarthade is Maya"
+    },
+    {
+      "i": 480,
+      "start": 3304.6,
+      "end": 3310.6,
+      "text": "pravarthade, the self operating power of cosmic illusion which"
+    },
+    {
+      "i": 481,
+      "start": 3310.6,
+      "end": 3316.12,
+      "text": "generates the entire phenomenal world of apparent agency which"
+    },
+    {
+      "i": 482,
+      "start": 3316.12,
+      "end": 3322.72,
+      "text": "is action, karmic Nexus. And the Atman or the Prabhu or"
+    },
+    {
+      "i": 483,
+      "start": 3322.72,
+      "end": 3328.12,
+      "text": "the Dehi stands as eternal uninvolved self luminous witness"
+    },
+    {
+      "i": 484,
+      "start": 3328.64,
+      "end": 3337.04,
+      "text": "of this wonderful spectacle of self running nature of the"
+    },
+    {
+      "i": 485,
+      "start": 3337.28,
+      "end": 3342.32,
+      "text": "empirical world. The empirical world is a"
+    },
+    {
+      "i": 486,
+      "start": 3342.32,
+      "end": 3352.16,
+      "text": "spectacle created by this ignorance, Avidya or Maya where"
+    },
+    {
+      "i": 487,
+      "start": 3352.16,
+      "end": 3357.96,
+      "text": "we get deluded. In the next verse Krishna will"
+    },
+    {
+      "i": 488,
+      "start": 3357.96,
+      "end": 3366.44,
+      "text": "say Tera muhandi janda waha gets diluted by the spectacle of the"
+    },
+    {
+      "i": 489,
+      "start": 3366.56,
+      "end": 3369.52,
+      "text": "ignorance which is playing into thus."
+    },
+    {
+      "i": 490,
+      "start": 3373.04,
+      "end": 3378.32,
+      "text": "So the only way we can do that is by resolving the Karma Banda"
+    },
+    {
+      "i": 491,
+      "start": 3378.8,
+      "end": 3385.8,
+      "text": "problem. The complete advaitic resolution"
+    },
+    {
+      "i": 492,
+      "start": 3385.8,
+      "end": 3390.32,
+      "text": "for Karma 1, the Cosmic Bond volume, is that this one, if the"
+    },
+    {
+      "i": 493,
+      "start": 3390.32,
+      "end": 3395.76,
+      "text": "jiva acts as a karma Karma or a karta, and the action are"
+    },
+    {
+      "i": 494,
+      "start": 3395.8,
+      "end": 3399.68,
+      "text": "produced as Karma kala. And this connection, some yoga"
+    },
+    {
+      "i": 495,
+      "start": 3399.68,
+      "end": 3404.84,
+      "text": "between the Karma karta and the Karma kala is the one which"
+    },
+    {
+      "i": 496,
+      "start": 3404.84,
+      "end": 3409.44,
+      "text": "perpetuates the samsara. And how can the jiva be ever"
+    },
+    {
+      "i": 497,
+      "start": 3409.44,
+      "end": 3415.6,
+      "text": "free? The solutions are given in three"
+    },
+    {
+      "i": 498,
+      "start": 3415.6,
+      "end": 3418.72,
+      "text": "steps. Relocate the Karthrutva."
+    },
+    {
+      "i": 499,
+      "start": 3420.84,
+      "end": 3427.88,
+      "text": "Take the Karthrutva from the US from the individual Jiva is not"
+    },
+    {
+      "i": 500,
+      "start": 3427.88,
+      "end": 3432.28,
+      "text": "the kartha. Karthrutva is produced by the"
+    },
+    {
+      "i": 501,
+      "start": 3432.4,
+      "end": 3438.76,
+      "text": "ignorance or the Sobhava by creating the Ahankara that"
+    },
+    {
+      "i": 502,
+      "start": 3439.04,
+      "end": 3445.68,
+      "text": "Kartha apparent karta which is by the ignorance or Avidya."
+    },
+    {
+      "i": 503,
+      "start": 3447.68,
+      "end": 3452.72,
+      "text": "Not only we should relocate the Karta Kartrutva, we should"
+    },
+    {
+      "i": 504,
+      "start": 3452.72,
+      "end": 3458.24,
+      "text": "relocate the Karmani also. The actions are not in Atman or"
+    },
+    {
+      "i": 505,
+      "start": 3458.24,
+      "end": 3464.48,
+      "text": "the Dehi or the Pru. They are produced by the Body"
+    },
+    {
+      "i": 506,
+      "start": 3464.48,
+      "end": 3470.76,
+      "text": "Mind Complex Ka Ena vaja Manasa Indriya through the subhava of"
+    },
+    {
+      "i": 507,
+      "start": 3474.84,
+      "end": 3478.0,
+      "text": "the Ignorance autonomous operation."
+    },
+    {
+      "i": 508,
+      "start": 3479.68,
+      "end": 3488.6,
+      "text": "To relocate this subhava, not in the individual but that of the"
+    },
+    {
+      "i": 509,
+      "start": 3488.6,
+      "end": 3495.24,
+      "text": "ahankara of the Body Mind Complex, we need also to"
+    },
+    {
+      "i": 510,
+      "start": 3495.24,
+      "end": 3500.8,
+      "text": "relocate the Karma Pala Samyoga, the causal Nexus binding the"
+    },
+    {
+      "i": 511,
+      "start": 3500.8,
+      "end": 3506.52,
+      "text": "action to the result. It is not established by Atman."
+    },
+    {
+      "i": 512,
+      "start": 3507.16,
+      "end": 3509.08,
+      "text": "Atman is not doing anything for it."
+    },
+    {
+      "i": 513,
+      "start": 3510.6,
+      "end": 3512.88,
+      "text": "That is an internal law of pragruti."
+    },
+    {
+      "i": 514,
+      "start": 3513.72,
+      "end": 3518.12,
+      "text": "It is the Sobhava or the spectacle of the ignorance or"
+    },
+    {
+      "i": 515,
+      "start": 3518.12,
+      "end": 3521.4,
+      "text": "Maya governed by operations of Karmanyema."
+    },
+    {
+      "i": 516,
+      "start": 3523.44,
+      "end": 3527.92,
+      "text": "So the conclusion is Atma never entered into any bondage of"
+    },
+    {
+      "i": 517,
+      "start": 3527.92,
+      "end": 3531.4,
+      "text": "Karta, Kartva Karmani or Karma Kalasam Yoga."
+    },
+    {
+      "i": 518,
+      "start": 3532.64,
+      "end": 3538.16,
+      "text": "All are products of Subhava avidya Pragrthi."
+    },
+    {
+      "i": 519,
+      "start": 3539.32,
+      "end": 3543.68,
+      "text": "They exist within Pragrthi's own domain and Atman stands"
+    },
+    {
+      "i": 520,
+      "start": 3543.68,
+      "end": 3547.8,
+      "text": "eternally outside this domain as a pure witness Prabhu."
+    },
+    {
+      "i": 521,
+      "start": 3550.64,
+      "end": 3555.56,
+      "text": "This is the paramarthika solution for bondage samsara and"
+    },
+    {
+      "i": 522,
+      "start": 3555.56,
+      "end": 3561.0,
+      "text": "to know that it was never real from the Atma's point of view."
+    },
+    {
+      "i": 523,
+      "start": 3561.04,
+      "end": 3567.08,
+      "text": "It was always Sobhava, self created appearance and the"
+    },
+    {
+      "i": 524,
+      "start": 3567.08,
+      "end": 3572.92,
+      "text": "moksha of is the recognition that nakarthutum Nakarmani na"
+    },
+    {
+      "i": 525,
+      "start": 3573.72,
+      "end": 3578.32,
+      "text": "karmafala Prabhu. I am the Atman."
+    },
+    {
+      "i": 526,
+      "start": 3578.32,
+      "end": 3581.8,
+      "text": "The Prabhu never created any of these things."
+    },
+    {
+      "i": 527,
+      "start": 3582.56,
+      "end": 3589.36,
+      "text": "They are mere appearances. This world has got the"
+    },
+    {
+      "i": 528,
+      "start": 3589.36,
+      "end": 3595.28,
+      "text": "Vivarthavada in it. The Vivarthavada principle is"
+    },
+    {
+      "i": 529,
+      "start": 3595.28,
+      "end": 3598.8,
+      "text": "that Brahman Atman is unchanged by the apparent creation."
+    },
+    {
+      "i": 530,
+      "start": 3599.48,
+      "end": 3603.68,
+      "text": "The world appears without Brahman actually transforming."
+    },
+    {
+      "i": 531,
+      "start": 3604.56,
+      "end": 3607.28,
+      "text": "Bondage is an appearance or Vivartha."
+    },
+    {
+      "i": 532,
+      "start": 3607.8,
+      "end": 3611.72,
+      "text": "Appearance means vivarta means appearance, not a real"
+    },
+    {
+      "i": 533,
+      "start": 3611.72,
+      "end": 3621.08,
+      "text": "transformation by Rinamu. Recognition by the Jiva is the"
+    },
+    {
+      "i": 534,
+      "start": 3621.08,
+      "end": 3625.4,
+      "text": "nyana which dissolves this vivarta or this appearance."
+    },
+    {
+      "i": 535,
+      "start": 3628.8,
+      "end": 3635.72,
+      "text": "So in the this verse Prabhu na Sri Srijathi gives that the"
+    },
+    {
+      "i": 536,
+      "start": 3635.72,
+      "end": 3638.32,
+      "text": "Atman is unchanged. The creation is nothing."
+    },
+    {
+      "i": 537,
+      "start": 3638.32,
+      "end": 3641.44,
+      "text": "There is no creation. Atman remains unchanged."
+    },
+    {
+      "i": 538,
+      "start": 3643.8,
+      "end": 3645.72,
+      "text": "The world appears without Brahman."
+    },
+    {
+      "i": 539,
+      "start": 3645.72,
+      "end": 3650.64,
+      "text": "Actually transforming is what is mentioned here is as Sobhavastu"
+    },
+    {
+      "i": 540,
+      "start": 3650.64,
+      "end": 3653.4,
+      "text": "pravartade. The Maya operates or producing"
+    },
+    {
+      "i": 541,
+      "start": 3653.4,
+      "end": 3657.28,
+      "text": "the appearance. The bondage is an appearance"
+    },
+    {
+      "i": 542,
+      "start": 3657.28,
+      "end": 3659.64,
+      "text": "vivarta, not a real transformation."
+    },
+    {
+      "i": 543,
+      "start": 3659.64,
+      "end": 3665.32,
+      "text": "Parinama is given by the words katwa, karmani, samyoga,"
+    },
+    {
+      "i": 544,
+      "start": 3665.48,
+      "end": 3673.08,
+      "text": "sobhava, vivarta, not Atman's parinama, and that when sobhava"
+    },
+    {
+      "i": 545,
+      "start": 3673.08,
+      "end": 3681.0,
+      "text": "is seen as sobhava, not as that of Atman's behaviour, the"
+    },
+    {
+      "i": 546,
+      "start": 3681.0,
+      "end": 3685.08,
+      "text": "vivarta or the appearance is recognized and the individual is"
+    },
+    {
+      "i": 547,
+      "start": 3687.8,
+      "end": 3700.2,
+      "text": "moksha liberated. So when we are witnessing Prabhu"
+    },
+    {
+      "i": 548,
+      "start": 3700.2,
+      "end": 3703.64,
+      "text": "and Atman, we become pure Drishtar Sakshi."
+    },
+    {
+      "i": 549,
+      "start": 3704.52,
+      "end": 3711.44,
+      "text": "When Sobhava is operating, it is happening in the field of the"
+    },
+    {
+      "i": 550,
+      "start": 3711.44,
+      "end": 3714.48,
+      "text": "witness, not the witness in witness."
+    },
+    {
+      "i": 551,
+      "start": 3716.4,
+      "end": 3720.92,
+      "text": "So Karthritva, Karmani, Samyoga were all created by the part of"
+    },
+    {
+      "i": 552,
+      "start": 3720.92,
+      "end": 3723.92,
+      "text": "the Drishya of the world of empirical world."
+    },
+    {
+      "i": 553,
+      "start": 3728.72,
+      "end": 3734.04,
+      "text": "So the metaphysical summit of the Akarthuto Pragarana which is"
+    },
+    {
+      "i": 554,
+      "start": 3734.48,
+      "end": 3741.72,
+      "text": "ending with this verse the definitive doctrinal statement"
+    },
+    {
+      "i": 555,
+      "start": 3741.72,
+      "end": 3748.6,
+      "text": "that Atma or Prabhu or Dehi Isawar's sovereign non creator"
+    },
+    {
+      "i": 556,
+      "start": 3748.68,
+      "end": 3755.68,
+      "text": "and the self Atma, Akarthritva, Karma, Karthritva Karmani and"
+    },
+    {
+      "i": 557,
+      "start": 3755.68,
+      "end": 3759.28,
+      "text": "Karmakala, some yoga are all entire mechanism or apparent"
+    },
+    {
+      "i": 558,
+      "start": 3759.28,
+      "end": 3761.76,
+      "text": "bondage of samskaras, samsara chakra."
+    },
+    {
+      "i": 559,
+      "start": 3765.88,
+      "end": 3770.28,
+      "text": "And this when we know is Sobhavastu pravartate but"
+    },
+    {
+      "i": 560,
+      "start": 3770.4,
+      "end": 3779.32,
+      "text": "operates Vastasa Sobhava. We are freeing ourselves or we"
+    },
+    {
+      "i": 561,
+      "start": 3779.32,
+      "end": 3786.64,
+      "text": "are getting liberated. The sovereign who was never"
+    },
+    {
+      "i": 562,
+      "start": 3786.64,
+      "end": 3792.88,
+      "text": "bound because he never acted, because he never created the"
+    },
+    {
+      "i": 563,
+      "start": 3792.88,
+      "end": 3798.64,
+      "text": "chain of samsara and he is always eternally free."
+    },
+    {
+      "i": 564,
+      "start": 3801.52,
+      "end": 3805.04,
+      "text": "This is that. There is only three statements"
+    },
+    {
+      "i": 565,
+      "start": 3805.04,
+      "end": 3807.6,
+      "text": "in the Bharsha which I am not going to read."
+    },
+    {
+      "i": 566,
+      "start": 3808.84,
+      "end": 3812.84,
+      "text": "It is I have covered all those things in the explanation."
+    },
+    {
+      "i": 567,
+      "start": 3815.84,
+      "end": 3822.6,
+      "text": "The next verse is paramarthastu in reality nadate kastechit"
+    },
+    {
+      "i": 568,
+      "start": 3822.6,
+      "end": 3828.72,
+      "text": "param na chaiva sukrutam bibhu atni nagrutam nyanam tenam"
+    },
+    {
+      "i": 569,
+      "start": 3828.72,
+      "end": 3834.8,
+      "text": "muhandi jandava. This is that the all pervading 1"
+    },
+    {
+      "i": 570,
+      "start": 3834.8,
+      "end": 3840.76,
+      "text": "does not receive anyone sin, or indeed is anyone's merit."
+    },
+    {
+      "i": 571,
+      "start": 3842.24,
+      "end": 3847.68,
+      "text": "The knowledge is or that Nyana is veiled by the ignorance, by"
+    },
+    {
+      "i": 572,
+      "start": 3847.68,
+      "end": 3853.52,
+      "text": "the Avidya, by that beings are deluded, the creation, the"
+    },
+    {
+      "i": 573,
+      "start": 3853.52,
+      "end": 3858.44,
+      "text": "individuals are deluded. We will take this 15th verse on"
+    },
+    {
+      "i": 574,
+      "start": 3858.44,
+      "end": 3866.4,
+      "text": "next Tuesday. Till then, please do the"
+    },
+    {
+      "i": 575,
+      "start": 3866.4,
+      "end": 3872.6,
+      "text": "Sravanamana Nidhidya Sena and reduce the Atnyana Samsiya"
+    },
+    {
+      "i": 576,
+      "start": 3872.6,
+      "end": 3876.8,
+      "text": "Vibhaviya. Thereby we can identify"
+    },
+    {
+      "i": 577,
+      "start": 3876.8,
+      "end": 3881.48,
+      "text": "ourselves as the Prabhu. Identifying as the human being"
+    },
+    {
+      "i": 578,
+      "start": 3882.0,
+      "end": 3885.4,
+      "text": "should stop. We are not the human being."
+    },
+    {
+      "i": 579,
+      "start": 3885.88,
+      "end": 3890.72,
+      "text": "We are appearing as human being. We are the Atma Nityamukta"
+    },
+    {
+      "i": 580,
+      "start": 3890.72,
+      "end": 3918.44,
+      "text": "Suddha Subhava. Thank you."
+    },
+    {
+      "i": 581,
+      "start": 3927.24,
+      "end": 3930.8,
+      "text": "Thank you very much Minderji. I've opened the chat and hand"
+    },
+    {
+      "i": 582,
+      "start": 3930.8,
+      "end": 3933.72,
+      "text": "raising if there are any follow up questions."
+    },
+    {
+      "i": 583,
+      "start": 3937.64,
+      "end": 3942.32,
+      "text": "I just wanted to say that this reminds me a lot of the"
+    },
+    {
+      "i": 584,
+      "start": 3942.32,
+      "end": 3948.44,
+      "text": "discussions that we're having had were had were had several"
+    },
+    {
+      "i": 585,
+      "start": 3948.44,
+      "end": 3950.64,
+      "text": "years ago when you weren't teaching."
+    },
+    {
+      "i": 586,
+      "start": 3951.88,
+      "end": 3954.48,
+      "text": "Especially I'm thinking of people who are listening right"
+    },
+    {
+      "i": 587,
+      "start": 3954.48,
+      "end": 3959.64,
+      "text": "now, Venkat and and Srini, when we had a lot of discussions"
+    },
+    {
+      "i": 588,
+      "start": 3959.64,
+      "end": 3963.4,
+      "text": "about idiasa and what does it mean if something's in"
+    },
+    {
+      "i": 589,
+      "start": 3963.4,
+      "end": 3966.96,
+      "text": "appearance and what does it mean to think it's an actual"
+    },
+    {
+      "i": 590,
+      "start": 3966.96,
+      "end": 3970.4,
+      "text": "creation. And there's a lot of similar"
+    },
+    {
+      "i": 591,
+      "start": 3971.24,
+      "end": 3974.36,
+      "text": "things. And I feel like the way you're"
+    },
+    {
+      "i": 592,
+      "start": 3974.36,
+      "end": 3979.72,
+      "text": "doing these teachings right now gives a lot of room to talk"
+    },
+    {
+      "i": 593,
+      "start": 3979.72,
+      "end": 3984.72,
+      "text": "about really fundamental things rather than focusing on exactly"
+    },
+    {
+      "i": 594,
+      "start": 3984.72,
+      "end": 3988.28,
+      "text": "what a specific Upanishad might be saying."
+    },
+    {
+      "i": 595,
+      "start": 3988.28,
+      "end": 3993.04,
+      "text": "Since as you said, ET Upanishad was the reflection of a, a"
+    },
+    {
+      "i": 596,
+      "start": 3993.04,
+      "end": 3997.56,
+      "text": "specific individual or Rishi. And they don't even necessarily"
+    },
+    {
+      "i": 597,
+      "start": 3997.56,
+      "end": 4001.0,
+      "text": "align literally. But I was just really"
+    },
+    {
+      "i": 598,
+      "start": 4001.0,
+      "end": 4004.04,
+      "text": "appreciating that. And I'm going to go, but I"
+    },
+    {
+      "i": 599,
+      "start": 4004.04,
+      "end": 4009.0,
+      "text": "wanted to thank everybody and I told Bindo this the other day,"
+    },
+    {
+      "i": 600,
+      "start": 4009.0,
+      "end": 4012.6,
+      "text": "but it's kind of nice. I'm kind of liking this very"
+    },
+    {
+      "i": 601,
+      "start": 4012.6,
+      "end": 4018.08,
+      "text": "specific small group that is showing up the last week or two."
+    },
+    {
+      "i": 602,
+      "start": 4018.08,
+      "end": 4027.44,
+      "text": "It's like we're very lucky to be sharing this space so intimately"
+    },
+    {
+      "i": 603,
+      "start": 4027.56,
+      "end": 4033.72,
+      "text": "and not in the context of some formal organization or paid"
+    },
+    {
+      "i": 604,
+      "start": 4033.72,
+      "end": 4038.24,
+      "text": "retreat or anything. You know, It's really beautiful."
+    },
+    {
+      "i": 605,
+      "start": 4038.4,
+      "end": 4048.12,
+      "text": "Thank you, Bendo. Since there are no more, Venkat"
+    },
+    {
+      "i": 606,
+      "start": 4048.12,
+      "end": 4053.8,
+      "text": "is coming. Mr. Venkat."
+    },
+    {
+      "i": 607,
+      "start": 4054.96,
+      "end": 4057.32,
+      "text": "I think this is a great continuity from yesterday to"
+    },
+    {
+      "i": 608,
+      "start": 4057.32,
+      "end": 4058.88,
+      "text": "today. It gives more clarity."
+    },
+    {
+      "i": 609,
+      "start": 4060.16,
+      "end": 4066.52,
+      "text": "The complete, you know that the Katutva Karma, all that is now"
+    },
+    {
+      "i": 610,
+      "start": 4066.84,
+      "end": 4074.76,
+      "text": "nullified and denied this. Now let's get to this, this"
+    },
+    {
+      "i": 611,
+      "start": 4074.76,
+      "end": 4078.88,
+      "text": "witnessing. The eternal witness is eternal"
+    },
+    {
+      "i": 612,
+      "start": 4078.88,
+      "end": 4081.4,
+      "text": "witness. You know this is very important"
+    },
+    {
+      "i": 613,
+      "start": 4081.56,
+      "end": 4086.52,
+      "text": "for eternal witness. Does it belong to Prakriti or it"
+    },
+    {
+      "i": 614,
+      "start": 4086.52,
+      "end": 4091.04,
+      "text": "belongs to Brahman? Where does it stay?"
+    },
+    {
+      "i": 615,
+      "start": 4093.68,
+      "end": 4100.2,
+      "text": "Anything which is seen, objectified or available is in"
+    },
+    {
+      "i": 616,
+      "start": 4100.2,
+      "end": 4106.399,
+      "text": "the pragruti. In the identification of Atman"
+    },
+    {
+      "i": 617,
+      "start": 4106.399,
+      "end": 4111.359,
+      "text": "or Brahman there is nothing. The only explanation or the"
+    },
+    {
+      "i": 618,
+      "start": 4111.359,
+      "end": 4116.24,
+      "text": "example which I can the Shastra also talks about is what is our"
+    },
+    {
+      "i": 619,
+      "start": 4116.24,
+      "end": 4122.8,
+      "text": "state in our deep sleep is the state of pure awareness."
+    },
+    {
+      "i": 620,
+      "start": 4124.2,
+      "end": 4128.92,
+      "text": "But what happens is that identification of the"
+    },
+    {
+      "i": 621,
+      "start": 4128.96,
+      "end": 4136.399,
+      "text": "individuality and we evaluate the experience of deep sleep as"
+    },
+    {
+      "i": 622,
+      "start": 4136.399,
+      "end": 4144.319,
+      "text": "a Waker, we are giving it as a state of darkness or"
+    },
+    {
+      "i": 623,
+      "start": 4145.12,
+      "end": 4151.08,
+      "text": "nothingness, etcetera. Actually speaking, it is neither"
+    },
+    {
+      "i": 624,
+      "start": 4151.08,
+      "end": 4156.68,
+      "text": "darkness nor nothingness. It is the presence and being of"
+    },
+    {
+      "i": 625,
+      "start": 4156.68,
+      "end": 4161.279,
+      "text": "only the unity or oneness. Ekamewa dudhiyam brahma."
+    },
+    {
+      "i": 626,
+      "start": 4162.84,
+      "end": 4168.359,
+      "text": "When there is nothing to second one, can there be an experience?"
+    },
+    {
+      "i": 627,
+      "start": 4168.359,
+      "end": 4171.24,
+      "text": "Can there be an awareness? Can there be a knowing?"
+    },
+    {
+      "i": 628,
+      "start": 4171.24,
+      "end": 4174.64,
+      "text": "Can there be an expression or anything?"
+    },
+    {
+      "i": 629,
+      "start": 4174.88,
+      "end": 4183.16,
+      "text": "No, that is exactly why even though we talk about deep sleep"
+    },
+    {
+      "i": 630,
+      "start": 4183.6,
+      "end": 4189.08,
+      "text": "from the waker's point of view, in the Upanishad Manduk"
+    },
+    {
+      "i": 631,
+      "start": 4189.08,
+      "end": 4193.319,
+      "text": "especially, it says that Chaturthamananda, if this has to"
+    },
+    {
+      "i": 632,
+      "start": 4193.319,
+      "end": 4198.8,
+      "text": "go beyond the deep sleep also because deep sleep is a"
+    },
+    {
+      "i": 633,
+      "start": 4199.92,
+      "end": 4203.48,
+      "text": "experience from the waker's point of view, therefore it has"
+    },
+    {
+      "i": 634,
+      "start": 4203.48,
+      "end": 4208.24,
+      "text": "to transcend even that. That is why it is a says"
+    },
+    {
+      "i": 635,
+      "start": 4208.24,
+      "end": 4210.6,
+      "text": "Chadurtham and yen Desat Masavik neha."
+    },
+    {
+      "i": 636,
+      "start": 4211.96,
+      "end": 4217.68,
+      "text": "So it has to be anything which you are saying if if it is the"
+    },
+    {
+      "i": 637,
+      "start": 4217.68,
+      "end": 4223.88,
+      "text": "words and description or some indication if it is coming it is"
+    },
+    {
+      "i": 638,
+      "start": 4223.88,
+      "end": 4228.0,
+      "text": "in the prakriti. That's clear."
+    },
+    {
+      "i": 639,
+      "start": 4228.44,
+      "end": 4234.64,
+      "text": "So this this eternal witness is also, you know, objectification"
+    },
+    {
+      "i": 640,
+      "start": 4234.64,
+      "end": 4239.4,
+      "text": "in a way. This knowing is a spoiler"
+    },
+    {
+      "i": 641,
+      "start": 4240.72,
+      "end": 4245.36,
+      "text": "because this knowing as it imparted unto anything"
+    },
+    {
+      "i": 642,
+      "start": 4245.72,
+      "end": 4250.6,
+      "text": "objectified right from the sensual say eye seeing is an"
+    },
+    {
+      "i": 643,
+      "start": 4250.6,
+      "end": 4255.68,
+      "text": "important behavior. So is a mind that has a you"
+    },
+    {
+      "i": 644,
+      "start": 4255.68,
+      "end": 4260.72,
+      "text": "know, this Kathritwa no unknown knowledge behavior, even the"
+    },
+    {
+      "i": 645,
+      "start": 4261.4,
+      "end": 4267.0,
+      "text": "eternal witness. Having this knowing and sort of"
+    },
+    {
+      "i": 646,
+      "start": 4268.32,
+      "end": 4271.76,
+      "text": "analyse, you know, without uninvolved knowing is also"
+    },
+    {
+      "i": 647,
+      "start": 4273.4,
+      "end": 4280.52,
+      "text": "important behaviour that that very you know, nature of knowing"
+    },
+    {
+      "i": 648,
+      "start": 4281.0,
+      "end": 4286.76,
+      "text": "that that Satchidananda the knowing is the most can be"
+    },
+    {
+      "i": 649,
+      "start": 4287.12,
+      "end": 4291.96,
+      "text": "talked about yet. But this is, you know, playing"
+    },
+    {
+      "i": 650,
+      "start": 4291.96,
+      "end": 4298.28,
+      "text": "spoiler on anything that it come across with because this is"
+    },
+    {
+      "i": 651,
+      "start": 4298.28,
+      "end": 4301.24,
+      "text": "that, you know, that illumination, you call it at the"
+    },
+    {
+      "i": 652,
+      "start": 4301.24,
+      "end": 4309.16,
+      "text": "best is what is importing that very, very connection that is a"
+    },
+    {
+      "i": 653,
+      "start": 4309.16,
+      "end": 4315.28,
+      "text": "connection because of this elimination that is called in,"
+    },
+    {
+      "i": 654,
+      "start": 4315.56,
+      "end": 4319.16,
+      "text": "you know, really, really, you know, all this, even Banda"
+    },
+    {
+      "i": 655,
+      "start": 4319.16,
+      "end": 4322.56,
+      "text": "Moksha, everything is due to that."
+    },
+    {
+      "i": 656,
+      "start": 4323.84,
+      "end": 4325.76,
+      "text": "Yes. But yeah, you can't deny the"
+    },
+    {
+      "i": 657,
+      "start": 4325.76,
+      "end": 4329.12,
+      "text": "connection. At the same time, you can't, you"
+    },
+    {
+      "i": 658,
+      "start": 4329.12,
+      "end": 4331.48,
+      "text": "know, accept the connection. So this is where it stood."
+    },
+    {
+      "i": 659,
+      "start": 4334.56,
+      "end": 4340.76,
+      "text": "See that is why in the previous verse Krishna when he said that"
+    },
+    {
+      "i": 660,
+      "start": 4342.48,
+      "end": 4350.4,
+      "text": "sarva karamali manasa sanyasiya, then only you can say sukumvashi"
+    },
+    {
+      "i": 661,
+      "start": 4352.88,
+      "end": 4361.52,
+      "text": "aaste that sanyasa or renunciation that actions are"
+    },
+    {
+      "i": 662,
+      "start": 4361.52,
+      "end": 4366.8,
+      "text": "there, activities are there. The reset relationship between"
+    },
+    {
+      "i": 663,
+      "start": 4366.8,
+      "end": 4375.2,
+      "text": "the action activity and myself. That idea, when it is there,"
+    },
+    {
+      "i": 664,
+      "start": 4377.04,
+      "end": 4382.48,
+      "text": "then you are not doing the sanyasa of the Karmani and you"
+    },
+    {
+      "i": 665,
+      "start": 4382.48,
+      "end": 4385.04,
+      "text": "can't be in a state of happiness."
+    },
+    {
+      "i": 666,
+      "start": 4386.08,
+      "end": 4390.4,
+      "text": "That pure state of happiness can happen only when all karmas are"
+    },
+    {
+      "i": 667,
+      "start": 4390.8,
+      "end": 4393.96,
+      "text": "renounced. This is what is happening when"
+    },
+    {
+      "i": 668,
+      "start": 4393.96,
+      "end": 4397.48,
+      "text": "all karmas are renounced in the state of deep sleep."
+    },
+    {
+      "i": 669,
+      "start": 4398.36,
+      "end": 4400.84,
+      "text": "Are we not the happiest in our deep sleep state?"
+    },
+    {
+      "i": 670,
+      "start": 4402.04,
+      "end": 4404.6,
+      "text": "Even the happiness cannot be known because there is no"
+    },
+    {
+      "i": 671,
+      "start": 4404.6,
+      "end": 4409.2,
+      "text": "nowhere there. But we wake up and say I had a"
+    },
+    {
+      "i": 672,
+      "start": 4409.2,
+      "end": 4412.68,
+      "text": "good sleep. The Waker remembers that"
+    },
+    {
+      "i": 673,
+      "start": 4413.8,
+      "end": 4420.4,
+      "text": "happiness or the absence of inflictions of the karmas and"
+    },
+    {
+      "i": 674,
+      "start": 4420.4,
+      "end": 4431.35,
+      "text": "the vasanas. This knowing is producing the"
+    },
+    {
+      "i": 675,
+      "start": 4431.35,
+      "end": 4440.95,
+      "text": "binding that is a culprit, but. It is the nature of the Atman"
+    },
+    {
+      "i": 676,
+      "start": 4441.31,
+      "end": 4447.0,
+      "text": "knowing but don't identify. That is what we are saying the"
+    },
+    {
+      "i": 677,
+      "start": 4447.12,
+      "end": 4449.4,
+      "text": "Upanishad is saying or the Gita is saying."
+    },
+    {
+      "i": 678,
+      "start": 4450.12,
+      "end": 4453.4,
+      "text": "Knowing is the nature of your true self."
+    },
+    {
+      "i": 679,
+      "start": 4454.6,
+      "end": 4459.56,
+      "text": "There is nothing separate from you to know, and if it is"
+    },
+    {
+      "i": 680,
+      "start": 4459.56,
+      "end": 4467.0,
+      "text": "appearing it is understand it as a subhava, not as your activity."
+    },
+    {
+      "i": 681,
+      "start": 4467.16,
+      "end": 4474.8,
+      "text": "Your knowing there is no activity of knowing katrutha."
+    },
+    {
+      "i": 682,
+      "start": 4474.84,
+      "end": 4477.92,
+      "text": "I am the knower of the sobhava or the pragruti."
+    },
+    {
+      "i": 683,
+      "start": 4477.92,
+      "end": 4485.64,
+      "text": "No, not even that. This the total renunciation of"
+    },
+    {
+      "i": 684,
+      "start": 4485.64,
+      "end": 4487.88,
+      "text": "actions. What is being told?"
+    },
+    {
+      "i": 685,
+      "start": 4492.32,
+      "end": 4498.28,
+      "text": "This Sobhava there is no boundary to Sobhava because this"
+    },
+    {
+      "i": 686,
+      "start": 4498.32,
+      "end": 4503.48,
+      "text": "this boundary you know like guna karma guna, you know that"
+    },
+    {
+      "i": 687,
+      "start": 4503.48,
+      "end": 4512.08,
+      "text": "Subhava of prakruti and Subhava of Brahman then where do we draw"
+    },
+    {
+      "i": 688,
+      "start": 4512.08,
+      "end": 4516.28,
+      "text": "the line? Because the Subhava get imported"
+    },
+    {
+      "i": 689,
+      "start": 4516.72,
+      "end": 4517.8,
+      "text": "as. Subhava."
+    },
+    {
+      "i": 690,
+      "start": 4518.8,
+      "end": 4521.68,
+      "text": "So Subhava is not of the from Brahman."
+    },
+    {
+      "i": 691,
+      "start": 4523.2,
+      "end": 4526.76,
+      "text": "Subhava is the nature of When we do not know Brahman, only the"
+    },
+    {
+      "i": 692,
+      "start": 4526.8,
+      "end": 4528.92,
+      "text": "Subhava will be there. That's what we have to"
+    },
+    {
+      "i": 693,
+      "start": 4528.92,
+      "end": 4532.56,
+      "text": "understand. Why are you accepting that the"
+    },
+    {
+      "i": 694,
+      "start": 4532.56,
+      "end": 4534.36,
+      "text": "Subhava and the Pravati is there?"
+    },
+    {
+      "i": 695,
+      "start": 4535.88,
+      "end": 4538.76,
+      "text": "That means you are accepting the Avidya is there and you are"
+    },
+    {
+      "i": 696,
+      "start": 4539.24,
+      "end": 4546.32,
+      "text": "under the clutch of Avidya. That Sachidananda?"
+    },
+    {
+      "i": 697,
+      "start": 4547.84,
+      "end": 4555.24,
+      "text": "What is Sachidananda then? Sachidananda is pure"
+    },
+    {
+      "i": 698,
+      "start": 4555.24,
+      "end": 4562.24,
+      "text": "consciousness, existence. There is nothing other than that"
+    },
+    {
+      "i": 699,
+      "start": 4562.24,
+      "end": 4562.88,
+      "text": "in it. In."
+    },
+    {
+      "i": 700,
+      "start": 4562.88,
+      "end": 4572.72,
+      "text": "There is no Sabhava in it. No, there is no sabhava which"
+    },
+    {
+      "i": 701,
+      "start": 4572.72,
+      "end": 4576.56,
+      "text": "is, you know, manifested. As it manifests, it becomes"
+    },
+    {
+      "i": 702,
+      "start": 4576.56,
+      "end": 4580.36,
+      "text": "Sabhava. That manifestation."
+    },
+    {
+      "i": 703,
+      "start": 4581.92,
+      "end": 4584.92,
+      "text": "Why are you saying that the manifestation is real?"
+    },
+    {
+      "i": 704,
+      "start": 4585.88,
+      "end": 4590.92,
+      "text": "It is not real. If it is not real, it is"
+    },
+    {
+      "i": 705,
+      "start": 4590.92,
+      "end": 4593.8,
+      "text": "something like dream. Why should it affect that?"
+    },
+    {
+      "i": 706,
+      "start": 4593.8,
+      "end": 4598.4,
+      "text": "That means the waking becomes in, in effect, unreal for you"
+    },
+    {
+      "i": 707,
+      "start": 4598.4,
+      "end": 4600.96,
+      "text": "not to worry about anything that's happening in the waking."
+    },
+    {
+      "i": 708,
+      "start": 4604.44,
+      "end": 4608.16,
+      "text": "No, this is perfect, Mandaji. Just that there is nothing to"
+    },
+    {
+      "i": 709,
+      "start": 4608.16,
+      "end": 4614.44,
+      "text": "worry about, nothing to, you know, think about yet that that"
+    },
+    {
+      "i": 710,
+      "start": 4614.44,
+      "end": 4624.12,
+      "text": "is recognized. This is what I'm calling"
+    },
+    {
+      "i": 711,
+      "start": 4624.12,
+      "end": 4629.28,
+      "text": "Swapawa. Either at a you know, you know,"
+    },
+    {
+      "i": 712,
+      "start": 4629.36,
+      "end": 4635.88,
+      "text": "Gunath Raya or Sachid Ananda. Both are recognized."
+    },
+    {
+      "i": 713,
+      "start": 4637.52,
+      "end": 4639.76,
+      "text": "See that that what you're saying is right."
+    },
+    {
+      "i": 714,
+      "start": 4639.76,
+      "end": 4645.44,
+      "text": "We haven't get when you want to talk about the human experience"
+    },
+    {
+      "i": 715,
+      "start": 4646.04,
+      "end": 4651.12,
+      "text": "you bring in sowbhava. But while bringing in the human"
+    },
+    {
+      "i": 716,
+      "start": 4651.12,
+      "end": 4655.6,
+      "text": "experience as Sowbhava, never forget that you are Satyavananda"
+    },
+    {
+      "i": 717,
+      "start": 4655.6,
+      "end": 4658.2,
+      "text": "Atma but you are not the human being."
+    },
+    {
+      "i": 718,
+      "start": 4664.55,
+      "end": 4666.79,
+      "text": "OK, that's a viveka. That's a clear viveka."
+    },
+    {
+      "i": 719,
+      "start": 4666.83,
+      "end": 4668.27,
+      "text": "OK. Yes."
+    },
+    {
+      "i": 720,
+      "start": 4669.59,
+      "end": 4672.23,
+      "text": "I think that that clarifies. I think this is good."
+    },
+    {
+      "i": 721,
+      "start": 4674.91,
+      "end": 4681.32,
+      "text": "Thank you, Venkat Rupesh, We'll meet on Tuesday."
+    },
+    {
+      "i": 722,
+      "start": 4683.0,
+      "end": 4686.72,
+      "text": "OK Binduji. So yeah, today is the last day"
+    },
+    {
+      "i": 723,
+      "start": 4686.72,
+      "end": 4691.04,
+      "text": "for this week because the new schedule is Tuesday, Wednesday,"
+    },
+    {
+      "i": 724,
+      "start": 4691.04,
+      "end": 4696.2,
+      "text": "Thursday, 6:30 AMI St. So we will continue the next"
+    },
+    {
+      "i": 725,
+      "start": 4696.2,
+      "end": 4700.8,
+      "text": "week Tuesday at 6:30 AMST as Binduji has reminded us,"
+    },
+    {
+      "i": 726,
+      "start": 4701.84,
+      "end": 4704.0,
+      "text": "listening to the replays and coming."
+    },
+    {
+      "i": 727,
+      "start": 4704.2,
+      "end": 4707.32,
+      "text": "Will. Assist a lot in this Ramana"
+    },
+    {
+      "i": 728,
+      "start": 4707.32,
+      "end": 4711.44,
+      "text": "manana process and as always thank you everyone for coming"
+    },
+    {
+      "i": 729,
+      "start": 4712.16,
+      "end": 4717.2,
+      "text": "and a special thank you to Binduji for offering this deep"
+    },
+    {
+      "i": 730,
+      "start": 4717.2,
+      "end": 4719.72,
+      "text": "manana over to you Binduji to close the room."
+    },
+    {
+      "i": 731,
+      "start": 4721.32,
+      "end": 4725.8,
+      "text": "Thank you, Prakash. Thank you, Venkat, Atmishya and"
+    },
+    {
+      "i": 732,
+      "start": 4725.92,
+      "end": 4727.96,
+      "text": "all of you there who have been listening."
+    },
+    {
+      "i": 733,
+      "start": 4729.08,
+      "end": 4735.16,
+      "text": "We'll continue on Tuesday the next Tours, 15th Tours Rio No."
+    }
+  ]
+}

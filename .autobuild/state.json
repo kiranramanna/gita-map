@@ -2,7 +2,7 @@
   "self_permit": null,
   "round": 0,
   "phase": "select",
-  "task": "T-002",
+  "task": "T-009",
   "attempts": 0,
   "owner_name": "claude-autobuild",
   "no_change_rounds": 0,
@@ -217,6 +217,64 @@
         "package-lock.json"
       ],
       "closed_at": "2026-11-09T08:37:02Z"
+    },
+    {
+      "id": "u10",
+      "task": "T-009",
+      "wave": "T-009",
+      "phase": "closed",
+      "state": "cancelled",
+      "accepted": true,
+      "executor_kind": "copilot",
+      "executor": null,
+      "native_handle": "a7ab23c5-246d-4ab7-91c4-bc79533c292e",
+      "generation": 0,
+      "outcome": "implemented_unreviewed",
+      "quiescent": true,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [],
+      "attempts": 0,
+      "dispatched_at": null,
+      "deadline": null,
+      "notes": "copilot claude-opus-5.5 high tmux ab-t009-copilot",
+      "placement": "copilot",
+      "owned_files": [
+        "scripts/feed/ingest_feed_transcripts.py",
+        "scripts/feed/README.md",
+        "data/episodes"
+      ],
+      "closed_at": "2026-11-09T22:09:49Z"
+    },
+    {
+      "id": "u11",
+      "task": "T-009",
+      "wave": "T-009",
+      "phase": "closed",
+      "state": "cancelled",
+      "accepted": true,
+      "executor_kind": "devin",
+      "executor": null,
+      "native_handle": "26d5447e-3263-4467-9676-147912842a08",
+      "generation": 0,
+      "outcome": "implemented_unreviewed",
+      "quiescent": true,
+      "target_repository": "/kiran/home/projects/kr-git/gita-map",
+      "repository": null,
+      "environment_required": false,
+      "files": [],
+      "attempts": 0,
+      "dispatched_at": null,
+      "deadline": null,
+      "notes": "devin gpt-6-1-sol-high tmux ab-t009-devin",
+      "placement": "devin",
+      "owned_files": [
+        "scripts/feed/validate_feed_transcripts.py",
+        "scripts/feed/clean_srt.py",
+        "scripts/feed/tests"
+      ],
+      "closed_at": "2026-11-09T22:09:49Z"
     }
   ],
   "waves": {
@@ -255,6 +313,17 @@
     },
     "T-004": {
       "task": "T-004",
+      "integration_complete": false,
+      "integration_evidence": [],
+      "full_verification_passed": false,
+      "verification_evidence": [],
+      "candidates": [],
+      "review_request": null,
+      "sanity": null,
+      "mutation_leases_released": false
+    },
+    "T-009": {
+      "task": "T-009",
       "integration_complete": false,
       "integration_evidence": [],
       "full_verification_passed": false,

@@ -1,0 +1,4957 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "5f5a9987-33b6-4671-b2d3-f02d153db1f2",
+  "source_sha256": "61abcb758558d45455f1d21af84f74300d2bef23570a3c20f01aff9fabecb95b",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.84,
+      "end": 4.32,
+      "text": "MST everyone welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 6.08,
+      "end": 11.36,
+      "text": "The ongoing classes are on Bhagwat Gita offered by Bhindoji"
+    },
+    {
+      "i": 3,
+      "start": 11.44,
+      "end": 16.64,
+      "text": "from an Advaita perspective. We are on chapter 4, the replays"
+    },
+    {
+      "i": 4,
+      "start": 16.64,
+      "end": 19.36,
+      "text": "of all the previous rooms. You can access them in Clubhouse"
+    },
+    {
+      "i": 5,
+      "start": 19.36,
+      "end": 24.8,
+      "text": "or you can go to the shared in the chat the YouTube channel"
+    },
+    {
+      "i": 6,
+      "start": 24.8,
+      "end": 27.32,
+      "text": "called Advaita Retold. All these talks are well"
+    },
+    {
+      "i": 7,
+      "start": 27.32,
+      "end": 30.28,
+      "text": "cataloged so you can access them as a series."
+    },
+    {
+      "i": 8,
+      "start": 32.2,
+      "end": 36.36,
+      "text": "There are also links to the Apple and Spotify channels where"
+    },
+    {
+      "i": 9,
+      "start": 36.36,
+      "end": 38.48,
+      "text": "you can access them as audio files."
+    },
+    {
+      "i": 10,
+      "start": 40.8,
+      "end": 45.28,
+      "text": "A book written by Artemisia based on Bendoji's insights into"
+    },
+    {
+      "i": 11,
+      "start": 45.28,
+      "end": 48.24,
+      "text": "Advaita has been published on Amazon."
+    },
+    {
+      "i": 12,
+      "start": 48.24,
+      "end": 53.16,
+      "text": "The title of the book is The Imaginary Dough, so you can"
+    },
+    {
+      "i": 13,
+      "start": 53.4,
+      "end": 58.8,
+      "text": "access them on those sites. I'll close the chat for"
+    },
+    {
+      "i": 14,
+      "start": 58.8,
+      "end": 60.4,
+      "text": "housekeeping. I'm going to close the chat in"
+    },
+    {
+      "i": 15,
+      "start": 60.4,
+      "end": 63.24,
+      "text": "hand raising when Bindoji is offering the class, after which"
+    },
+    {
+      "i": 16,
+      "start": 63.24,
+      "end": 67.28,
+      "text": "we'll open up those channels for any questions or clarifications."
+    },
+    {
+      "i": 17,
+      "start": 68.44,
+      "end": 70.48,
+      "text": "As always, thank you Bindoji, over to you."
+    },
+    {
+      "i": 18,
+      "start": 73.8,
+      "end": 77.28,
+      "text": "Thank you Prakash. Now send Harim to everyone."
+    },
+    {
+      "i": 19,
+      "start": 79.72,
+      "end": 92.96,
+      "text": "The invocations Oh namo Brahma dipya brahma vidya samraji guru"
+    },
+    {
+      "i": 20,
+      "start": 94.68,
+      "end": 100.04,
+      "text": "pya namalam karunalam Namami Bhagavat Padam Shankaram logo"
+    },
+    {
+      "i": 21,
+      "start": 100.04,
+      "end": 112.04,
+      "text": "Shankaram Shankaram Shankar Raja dim Keshavan bhadrayanam sutra"
+    },
+    {
+      "i": 22,
+      "start": 112.84,
+      "end": 131.72,
+      "text": "bashka one day vede"
+    },
+    {
+      "i": 23,
+      "start": 151.92,
+      "end": 171.6,
+      "text": "song. The verse #38 which we completed"
+    },
+    {
+      "i": 24,
+      "start": 171.6,
+      "end": 182.12,
+      "text": "last class, it said Nahit nyan na sagarishyam and the following"
+    },
+    {
+      "i": 25,
+      "start": 182.12,
+      "end": 191.56,
+      "text": "the promise of 38. If Nyana is such a supreme"
+    },
+    {
+      "i": 26,
+      "start": 191.64,
+      "end": 200.6,
+      "text": "purifier and the accomplished Karmayogi finds it, what are the"
+    },
+    {
+      "i": 27,
+      "start": 200.6,
+      "end": 206.24,
+      "text": "conditions that make one such accomplished seeker achieve that"
+    },
+    {
+      "i": 28,
+      "start": 206.24,
+      "end": 211.48,
+      "text": "Nyana? This is being discussed in the"
+    },
+    {
+      "i": 29,
+      "start": 211.96,
+      "end": 225.56,
+      "text": "verse #39 which is to follow. That means by which knowledge is"
+    },
+    {
+      "i": 30,
+      "start": 225.56,
+      "end": 229.76,
+      "text": "invariably attained is being taught in this verse."
+    },
+    {
+      "i": 31,
+      "start": 231.4,
+      "end": 238.28,
+      "text": "The verse #39 Shraddhawan labateh yanam satparaha samyam"
+    },
+    {
+      "i": 32,
+      "start": 238.4,
+      "end": 244.08,
+      "text": "samyatha indriya nyadam labdhwa param shandim acharya nadi"
+    },
+    {
+      "i": 33,
+      "start": 244.08,
+      "end": 249.52,
+      "text": "kachati Shraddha one the first word."
+    },
+    {
+      "i": 34,
+      "start": 252.48,
+      "end": 256.04,
+      "text": "It's a noun. One who is endowed with"
+    },
+    {
+      "i": 35,
+      "start": 256.079,
+      "end": 261.44,
+      "text": "shraddha. Now shraddha is among the most"
+    },
+    {
+      "i": 36,
+      "start": 261.44,
+      "end": 264.2,
+      "text": "profound and philosophically layered terms."
+    },
+    {
+      "i": 37,
+      "start": 265.0,
+      "end": 269.72,
+      "text": "Very intriguing and difficult to define."
+    },
+    {
+      "i": 38,
+      "start": 276.36,
+      "end": 281.72,
+      "text": "The word meaning shraddha, literal meaning is placing of"
+    },
+    {
+      "i": 39,
+      "start": 281.72,
+      "end": 286.4,
+      "text": "the heart. We may not think that that is"
+    },
+    {
+      "i": 40,
+      "start": 286.4,
+      "end": 292.6,
+      "text": "the meaning of Shraddha, but the intended meaning of that is the"
+    },
+    {
+      "i": 41,
+      "start": 292.6,
+      "end": 297.2,
+      "text": "orientation of 1's deepest being towards something as true and"
+    },
+    {
+      "i": 42,
+      "start": 297.2,
+      "end": 302.76,
+      "text": "worthy of. Chakracharya distinguishes"
+    },
+    {
+      "i": 43,
+      "start": 302.76,
+      "end": 307.16,
+      "text": "Shraddha from Vishwasa, Aastha, bhakti etcetera."
+    },
+    {
+      "i": 44,
+      "start": 309.36,
+      "end": 313.92,
+      "text": "He says Vishwasa is an interpersonal trust placed in"
+    },
+    {
+      "i": 45,
+      "start": 313.92,
+      "end": 319.0,
+      "text": "another person, whereas Shraddha has a broader scope."
+    },
+    {
+      "i": 46,
+      "start": 322.96,
+      "end": 328.28,
+      "text": "It has got the epistemic and existential orientation of a"
+    },
+    {
+      "i": 47,
+      "start": 330.64,
+      "end": 335.92,
+      "text": "inner seeker's entire Antakarana or the Indian instrument towards"
+    },
+    {
+      "i": 48,
+      "start": 337.28,
+      "end": 342.32,
+      "text": "something which he considers worthy of following."
+    },
+    {
+      "i": 49,
+      "start": 344.12,
+      "end": 350.04,
+      "text": "Here it is the Sastra and Guru. Their statements are what they"
+    },
+    {
+      "i": 50,
+      "start": 350.04,
+      "end": 353.72,
+      "text": "have mentioned as a valid source of knowledge."
+    },
+    {
+      "i": 51,
+      "start": 356.6,
+      "end": 365.84,
+      "text": "Whereas Asta is a functional dependence on the person who is"
+    },
+    {
+      "i": 52,
+      "start": 366.0,
+      "end": 379.45,
+      "text": "having Asta. What actually Asta is makes is"
+    },
+    {
+      "i": 53,
+      "start": 379.45,
+      "end": 389.92,
+      "text": "that dependency or reliance. Shraddha is deeper than Asta."
+    },
+    {
+      "i": 54,
+      "start": 390.48,
+      "end": 396.8,
+      "text": "It is a cognitive receptivity Shravanapatra bhava, that"
+    },
+    {
+      "i": 55,
+      "start": 397.08,
+      "end": 400.4,
+      "text": "quality of being proper receiving vessel."
+    },
+    {
+      "i": 56,
+      "start": 402.56,
+      "end": 416.48,
+      "text": "It is the preparation of oneself worthy of becoming a receptor or"
+    },
+    {
+      "i": 57,
+      "start": 416.48,
+      "end": 424.68,
+      "text": "guru Batesha. It's not that one is merely"
+    },
+    {
+      "i": 58,
+      "start": 424.72,
+      "end": 431.48,
+      "text": "listening to it or hearing it. He becomes a receptor or"
+    },
+    {
+      "i": 59,
+      "start": 431.48,
+      "end": 440.0,
+      "text": "receptivity of the person to the guru's words is what makes"
+    },
+    {
+      "i": 60,
+      "start": 440.0,
+      "end": 445.0,
+      "text": "Shraddha different from master and Shraddha is different from"
+    },
+    {
+      "i": 61,
+      "start": 445.0,
+      "end": 447.84,
+      "text": "Bhati. Also, while Bhati and Shraddha"
+    },
+    {
+      "i": 62,
+      "start": 447.96,
+      "end": 457.76,
+      "text": "overlap, Shraddha specifically addresses the epistemological"
+    },
+    {
+      "i": 63,
+      "start": 457.76,
+      "end": 462.0,
+      "text": "relationship with the teaching, Shastra and Mahawaki etcetera."
+    },
+    {
+      "i": 64,
+      "start": 463.08,
+      "end": 470.56,
+      "text": "It is an inner conviction that this teaching which I am now"
+    },
+    {
+      "i": 65,
+      "start": 470.56,
+      "end": 476.2,
+      "text": "listening from the srastra or guruvakya is true and"
+    },
+    {
+      "i": 66,
+      "start": 476.2,
+      "end": 485.96,
+      "text": "authoritative and atmanisbrahman that tattvatnana is possible for"
+    },
+    {
+      "i": 67,
+      "start": 485.96,
+      "end": 494.0,
+      "text": "me which the guru can transmit. Therefore, the shraddha is the"
+    },
+    {
+      "i": 68,
+      "start": 494.28,
+      "end": 500.6,
+      "text": "active cognitive posture that enables the one who is listening"
+    },
+    {
+      "i": 69,
+      "start": 502.56,
+      "end": 511.28,
+      "text": "or his shravana to be genuinely a meaning intended meaning of"
+    },
+    {
+      "i": 70,
+      "start": 511.28,
+      "end": 517.88,
+      "text": "shravana as the a hearing that transforms a hearing not just"
+    },
+    {
+      "i": 71,
+      "start": 517.88,
+      "end": 524.72,
+      "text": "listening that hearing that transforms rather than merely"
+    },
+    {
+      "i": 72,
+      "start": 525.4,
+      "end": 532.4,
+      "text": "reception of the sound. Whereas bhakti has no such what"
+    },
+    {
+      "i": 73,
+      "start": 532.4,
+      "end": 540.88,
+      "text": "he call shraddha in the guruvakya it is more of a"
+    },
+    {
+      "i": 74,
+      "start": 541.56,
+      "end": 545.92,
+      "text": "devotion. So even though the overlap is"
+    },
+    {
+      "i": 75,
+      "start": 546.16,
+      "end": 556.36,
+      "text": "there between the two, Shraddha has got a what do you call a"
+    },
+    {
+      "i": 76,
+      "start": 556.36,
+      "end": 564.12,
+      "text": "stand which is defining the person with Shraddha to be a"
+    },
+    {
+      "i": 77,
+      "start": 564.12,
+      "end": 572.4,
+      "text": "better recipient of higher knowledge like intellectual and"
+    },
+    {
+      "i": 78,
+      "start": 572.96,
+      "end": 577.64,
+      "text": "you know, higher grades of knowledge."
+    },
+    {
+      "i": 79,
+      "start": 581.6,
+      "end": 586.6,
+      "text": "Shankaracharya's most precise gloss on Shraddha is Shastrasya"
+    },
+    {
+      "i": 80,
+      "start": 586.64,
+      "end": 590.12,
+      "text": "Guru vakyasya Satyabuddhyavatharana, that is"
+    },
+    {
+      "i": 81,
+      "start": 590.12,
+      "end": 597.64,
+      "text": "the guru and shastra vakya, the confidence in the OR that taking"
+    },
+    {
+      "i": 82,
+      "start": 597.64,
+      "end": 602.2,
+      "text": "it as the truth in the words of the guru and the shastra."
+    },
+    {
+      "i": 83,
+      "start": 603.6,
+      "end": 609.36,
+      "text": "It is not a blind belief, belief or a devotion, but rationally"
+    },
+    {
+      "i": 84,
+      "start": 609.36,
+      "end": 616.64,
+      "text": "informed epistemic receptivity. The student of the shishya has"
+    },
+    {
+      "i": 85,
+      "start": 616.64,
+      "end": 623.32,
+      "text": "examined the guru and convinced that he is a tattvudarjun."
+    },
+    {
+      "i": 86,
+      "start": 624.72,
+      "end": 628.52,
+      "text": "He is what he is talking, is what he is practicing."
+    },
+    {
+      "i": 87,
+      "start": 629.52,
+      "end": 635.72,
+      "text": "What is he living with? He is walking the talk and"
+    },
+    {
+      "i": 88,
+      "start": 635.72,
+      "end": 641.6,
+      "text": "address the Sastra's consistency and validity applied primarily"
+    },
+    {
+      "i": 89,
+      "start": 641.6,
+      "end": 645.72,
+      "text": "in Vichara and arrived at the conviction that this is true."
+    },
+    {
+      "i": 90,
+      "start": 645.8,
+      "end": 650.88,
+      "text": "This is the pramana I am been looking for and I should receive"
+    },
+    {
+      "i": 91,
+      "start": 650.88,
+      "end": 655.68,
+      "text": "it fully. This conviction which is"
+    },
+    {
+      "i": 92,
+      "start": 655.68,
+      "end": 661.4,
+      "text": "sustained and deepened in the student or the recipient is what"
+    },
+    {
+      "i": 93,
+      "start": 661.4,
+      "end": 667.44,
+      "text": "Sviddha is. But why Sraddha is the 1st and"
+    },
+    {
+      "i": 94,
+      "start": 667.44,
+      "end": 677.2,
+      "text": "foundational qualification? Because Sraddha is absolute"
+    },
+    {
+      "i": 95,
+      "start": 677.36,
+      "end": 683.92,
+      "text": "necessity for Tattvatnana. Without that Tattvatnana cannot"
+    },
+    {
+      "i": 96,
+      "start": 684.4,
+      "end": 690.72,
+      "text": "practify. The reason is that Atman are the"
+    },
+    {
+      "i": 97,
+      "start": 690.72,
+      "end": 695.04,
+      "text": "self in us to be known as Pratyagatma."
+    },
+    {
+      "i": 98,
+      "start": 695.36,
+      "end": 702.4,
+      "text": "As the innermost subject of my being, not an object."
+    },
+    {
+      "i": 99,
+      "start": 704.28,
+      "end": 709.12,
+      "text": "It cannot be known through direct perception Pratyakshadi"
+    },
+    {
+      "i": 100,
+      "start": 710.76,
+      "end": 720.68,
+      "text": "which perceives only objects nor it can be inferred which"
+    },
+    {
+      "i": 101,
+      "start": 720.72,
+      "end": 723.76,
+      "text": "operates on the basis of perceived objects."
+    },
+    {
+      "i": 102,
+      "start": 724.96,
+      "end": 728.2,
+      "text": "All the inferences are based on perceived objects."
+    },
+    {
+      "i": 103,
+      "start": 729.08,
+      "end": 735.64,
+      "text": "But inference in the case of self or atma, there is no"
+    },
+    {
+      "i": 104,
+      "start": 735.64,
+      "end": 737.92,
+      "text": "perceived object with which you can do that."
+    },
+    {
+      "i": 105,
+      "start": 739.92,
+      "end": 745.0,
+      "text": "Therefore, the only valid pramana for Atmat Nyana is"
+    },
+    {
+      "i": 106,
+      "start": 745.68,
+      "end": 756.6,
+      "text": "Shabda, Agama, Shruti, guruvaki etcetera, the Upanishad, the"
+    },
+    {
+      "i": 107,
+      "start": 756.6,
+      "end": 762.04,
+      "text": "guruvaki etcetera. But the Sabda Pramana operates"
+    },
+    {
+      "i": 108,
+      "start": 762.08,
+      "end": 770.36,
+      "text": "only for those who are endowed with Shraddha, the Shraddha vaan"
+    },
+    {
+      "i": 109,
+      "start": 772.68,
+      "end": 778.72,
+      "text": "for the one who accepts Shabda as pramana in this domain and"
+    },
+    {
+      "i": 110,
+      "start": 778.72,
+      "end": 784.96,
+      "text": "without shraddha in the Shruti or Guruva Kya, the Upanishadic"
+    },
+    {
+      "i": 111,
+      "start": 785.08,
+      "end": 790.08,
+      "text": "words like the Thomasiya hum, Brahmasmi are heard as mere"
+    },
+    {
+      "i": 112,
+      "start": 790.08,
+      "end": 795.84,
+      "text": "grammatical construction rather than pointing towards directly"
+    },
+    {
+      "i": 113,
+      "start": 796.4,
+      "end": 802.32,
+      "text": "to the listener to be recognized as my own being."
+    },
+    {
+      "i": 114,
+      "start": 805.04,
+      "end": 817.52,
+      "text": "This direct recognition can happen only if Shraddha is is"
+    },
+    {
+      "i": 115,
+      "start": 817.52,
+      "end": 820.84,
+      "text": "the quality of the of the student."
+    },
+    {
+      "i": 116,
+      "start": 823.76,
+      "end": 829.68,
+      "text": "Therefore, Shradha is just not a supplementary virtue, but it is"
+    },
+    {
+      "i": 117,
+      "start": 829.68,
+      "end": 833.64,
+      "text": "a precondition for the pramana which is called the"
+    },
+    {
+      "i": 118,
+      "start": 833.64,
+      "end": 843.36,
+      "text": "shabdapramana to function. And since shabdapramana is the"
+    },
+    {
+      "i": 119,
+      "start": 843.36,
+      "end": 849.12,
+      "text": "only means for atmak nyana, shraddha is the single most"
+    },
+    {
+      "i": 120,
+      "start": 849.12,
+      "end": 859.0,
+      "text": "essential pray requisite. This is confirmed later in the"
+    },
+    {
+      "i": 121,
+      "start": 859.0,
+      "end": 863.4,
+      "text": "40th verse. Also one who doesn't have"
+    },
+    {
+      "i": 122,
+      "start": 863.4,
+      "end": 869.28,
+      "text": "shraddha he described in the very next verse as unable to"
+    },
+    {
+      "i": 123,
+      "start": 869.28,
+      "end": 872.32,
+      "text": "attain nyana and the direct negative."
+    },
+    {
+      "i": 124,
+      "start": 872.8,
+      "end": 877.6,
+      "text": "The opposite of the 39 this verse Shraddha one there it is a"
+    },
+    {
+      "i": 125,
+      "start": 877.6,
+      "end": 889.52,
+      "text": "shraddha Lana lot of people doubt what is the guarantee"
+    },
+    {
+      "i": 126,
+      "start": 889.52,
+      "end": 895.2,
+      "text": "these Upanishadic words or what your teacher or guru says is"
+    },
+    {
+      "i": 127,
+      "start": 895.2,
+      "end": 904.72,
+      "text": "true. This doubt they have is"
+    },
+    {
+      "i": 128,
+      "start": 904.72,
+      "end": 910.28,
+      "text": "basically because they don't have the shraddha now to acquire"
+    },
+    {
+      "i": 129,
+      "start": 910.28,
+      "end": 915.4,
+      "text": "shraddha also there are people who are ready to do that."
+    },
+    {
+      "i": 130,
+      "start": 916.76,
+      "end": 926.04,
+      "text": "So when we explain that everything which we can know by"
+    },
+    {
+      "i": 131,
+      "start": 926.04,
+      "end": 931.84,
+      "text": "the pramanas or the means of knowledge depends upon the"
+    },
+    {
+      "i": 132,
+      "start": 931.84,
+      "end": 940.24,
+      "text": "protection, all other pramanas, whether it is Anumana, Upamana,"
+    },
+    {
+      "i": 133,
+      "start": 940.68,
+      "end": 948.24,
+      "text": "Advapati, Anupalabdhi etcetera, all of them their basis on is on"
+    },
+    {
+      "i": 134,
+      "start": 948.24,
+      "end": 955.76,
+      "text": "projection. But Shabda, which is the"
+    },
+    {
+      "i": 135,
+      "start": 955.76,
+      "end": 962.32,
+      "text": "Upanishad and the Guruvakya are the only one which in the entire"
+    },
+    {
+      "i": 136,
+      "start": 962.32,
+      "end": 976.28,
+      "text": "world which talks about a self, which is the subject in US, the"
+    },
+    {
+      "i": 137,
+      "start": 976.28,
+      "end": 986.76,
+      "text": "innermost subject, Pratyagatma. No other text or those who teach"
+    },
+    {
+      "i": 138,
+      "start": 986.76,
+      "end": 994.68,
+      "text": "any text can ever discuss or mention about the innermost Self"
+    },
+    {
+      "i": 139,
+      "start": 995.12,
+      "end": 1004.8,
+      "text": "or the knower or the subject with with about whom they have"
+    },
+    {
+      "i": 140,
+      "start": 1004.8,
+      "end": 1011.76,
+      "text": "any means of explanation. They may call it as"
+    },
+    {
+      "i": 141,
+      "start": 1012.16,
+      "end": 1017.72,
+      "text": "consciousness in the modern scientific terms."
+    },
+    {
+      "i": 142,
+      "start": 1019.64,
+      "end": 1022.6,
+      "text": "The consciousness, what they are talking in the modern scientific"
+    },
+    {
+      "i": 143,
+      "start": 1022.6,
+      "end": 1030.88,
+      "text": "terms is consciousness as what they perceive as a faculty of"
+    },
+    {
+      "i": 144,
+      "start": 1030.88,
+      "end": 1035.88,
+      "text": "knowing in the intellectual or the mental level."
+    },
+    {
+      "i": 145,
+      "start": 1038.56,
+      "end": 1044.319,
+      "text": "But the subject who is even aware of that happening at my"
+    },
+    {
+      "i": 146,
+      "start": 1044.319,
+      "end": 1050.24,
+      "text": "intellectual or mental level is never discussed by the science."
+    },
+    {
+      "i": 147,
+      "start": 1055.99,
+      "end": 1064.11,
+      "text": "So what happens is that their method of consciousness enquiry"
+    },
+    {
+      "i": 148,
+      "start": 1065.08,
+      "end": 1068.4,
+      "text": "is like any other object enquiry."
+    },
+    {
+      "i": 149,
+      "start": 1070.84,
+      "end": 1077.56,
+      "text": "So they call it as an emergent property of the brain or you"
+    },
+    {
+      "i": 150,
+      "start": 1077.56,
+      "end": 1082.16,
+      "text": "know the neurons and the functions of the neurons etc."
+    },
+    {
+      "i": 151,
+      "start": 1084.36,
+      "end": 1089.84,
+      "text": "But when we say that Advaitins or the Shastra says that what"
+    },
+    {
+      "i": 152,
+      "start": 1089.84,
+      "end": 1093.4,
+      "text": "you are talking about is the function of an instrument like"
+    },
+    {
+      "i": 153,
+      "start": 1093.96,
+      "end": 1101.0,
+      "text": "the eyes is the one which is able to see, and in the retina"
+    },
+    {
+      "i": 154,
+      "start": 1101.0,
+      "end": 1104.4,
+      "text": "it is topsy turvy what you are seeing outside."
+    },
+    {
+      "i": 155,
+      "start": 1105.6,
+      "end": 1109.28,
+      "text": "But by the time it is cognized by the mind or the intellect,"
+    },
+    {
+      "i": 156,
+      "start": 1109.92,
+      "end": 1114.6,
+      "text": "that topsy turvy image again becomes rectified and becomes"
+    },
+    {
+      "i": 157,
+      "start": 1114.6,
+      "end": 1119.12,
+      "text": "straight. All those methodology of the"
+    },
+    {
+      "i": 158,
+      "start": 1119.12,
+      "end": 1122.96,
+      "text": "nerves, the connection between the nerves, the eyeball and the"
+    },
+    {
+      "i": 159,
+      "start": 1122.96,
+      "end": 1128.88,
+      "text": "nerves and then electrical signals, chemical signals, the"
+    },
+    {
+      "i": 160,
+      "start": 1128.88,
+      "end": 1132.24,
+      "text": "brain receiving receptor, everything they can explain."
+    },
+    {
+      "i": 161,
+      "start": 1134.36,
+      "end": 1146.16,
+      "text": "But how does a object which is away from the eyes becomes is"
+    },
+    {
+      "i": 162,
+      "start": 1146.64,
+      "end": 1151.32,
+      "text": "content of knowledge in the intellect or the mind?"
+    },
+    {
+      "i": 163,
+      "start": 1153.28,
+      "end": 1161.76,
+      "text": "Let it be at the neuron level or on the brain level in the"
+    },
+    {
+      "i": 164,
+      "start": 1161.76,
+      "end": 1168.0,
+      "text": "presence of what or what is that ingredient or the the matter"
+    },
+    {
+      "i": 165,
+      "start": 1170.44,
+      "end": 1178.4,
+      "text": "which catalyses the light rays, which becomes electrical rays"
+    },
+    {
+      "i": 166,
+      "start": 1178.4,
+      "end": 1183.08,
+      "text": "into the chemical rays and then neuron signals, electrical"
+    },
+    {
+      "i": 167,
+      "start": 1183.08,
+      "end": 1189.92,
+      "text": "signals again in the brain, etcetera, to be a knowledge."
+    },
+    {
+      "i": 168,
+      "start": 1192.04,
+      "end": 1197.84,
+      "text": "Now if they say that the signal itself is the knowledge, what is"
+    },
+    {
+      "i": 169,
+      "start": 1197.84,
+      "end": 1201.96,
+      "text": "their they are measuring? They are measuring the signals"
+    },
+    {
+      "i": 170,
+      "start": 1201.96,
+      "end": 1205.76,
+      "text": "of the electricity. The signals of electricity is"
+    },
+    {
+      "i": 171,
+      "start": 1205.76,
+      "end": 1216.4,
+      "text": "not knowledge, that is what is something can be measured, but"
+    },
+    {
+      "i": 172,
+      "start": 1216.92,
+      "end": 1230.16,
+      "text": "the individual when he says that I am able to know by the sight"
+    },
+    {
+      "i": 173,
+      "start": 1230.16,
+      "end": 1238.72,
+      "text": "of something that it is a tree or a fire or a globe like sun or"
+    },
+    {
+      "i": 174,
+      "start": 1238.72,
+      "end": 1243.64,
+      "text": "moon etcetera. Even if it at distance wise it"
+    },
+    {
+      "i": 175,
+      "start": 1243.64,
+      "end": 1249.48,
+      "text": "is so far away. The knowledge at the brain or"
+    },
+    {
+      "i": 176,
+      "start": 1249.48,
+      "end": 1258.16,
+      "text": "intellectual level, what is happening as objects they are"
+    },
+    {
+      "i": 177,
+      "start": 1258.16,
+      "end": 1268.96,
+      "text": "defined, but the subject which is knowing that is never coming"
+    },
+    {
+      "i": 178,
+      "start": 1268.96,
+      "end": 1274.8,
+      "text": "under the purview of any of those signs other than Upanishad"
+    },
+    {
+      "i": 179,
+      "start": 1275.32,
+      "end": 1277.52,
+      "text": "and the teacher who explained Upanishad."
+    },
+    {
+      "i": 180,
+      "start": 1279.48,
+      "end": 1286.36,
+      "text": "Therefore, this shraddha that this is the only place where I"
+    },
+    {
+      "i": 181,
+      "start": 1286.36,
+      "end": 1290.32,
+      "text": "can know about what is my true nature."
+    },
+    {
+      "i": 182,
+      "start": 1294.44,
+      "end": 1304.64,
+      "text": "That what you call essential prerequisite of a person who is"
+    },
+    {
+      "i": 183,
+      "start": 1304.64,
+      "end": 1314.36,
+      "text": "approaching the shastra or the guru is in the terms of advaita"
+    },
+    {
+      "i": 184,
+      "start": 1314.44,
+      "end": 1321.56,
+      "text": "ashraddha. The next word is tat paraha."
+    },
+    {
+      "i": 185,
+      "start": 1323.76,
+      "end": 1329.16,
+      "text": "That means that paraha tat pariyam, tat pariyam."
+    },
+    {
+      "i": 186,
+      "start": 1329.16,
+      "end": 1334.24,
+      "text": "The word comes from this supremely devoted to that."
+    },
+    {
+      "i": 187,
+      "start": 1334.6,
+      "end": 1337.32,
+      "text": "That here is for the referring to the knowledge."
+    },
+    {
+      "i": 188,
+      "start": 1338.88,
+      "end": 1342.68,
+      "text": "The knowledge and the self are not different here."
+    },
+    {
+      "i": 189,
+      "start": 1343.76,
+      "end": 1350.64,
+      "text": "Please understand that the knowing itself is the being or"
+    },
+    {
+      "i": 190,
+      "start": 1350.76,
+      "end": 1358.4,
+      "text": "about which the knowledge is talking about South Tatpara, the"
+    },
+    {
+      "i": 191,
+      "start": 1358.4,
+      "end": 1365.24,
+      "text": "highest Supreme, that which is placed above all or the one for"
+    },
+    {
+      "i": 192,
+      "start": 1365.24,
+      "end": 1371.32,
+      "text": "whom Nyana is the supreme concern, the highest priority,"
+    },
+    {
+      "i": 193,
+      "start": 1373.2,
+      "end": 1378.24,
+      "text": "or in other words, Sanskriti in says a paragati, the highest"
+    },
+    {
+      "i": 194,
+      "start": 1378.24,
+      "end": 1384.68,
+      "text": "refuge which he is seeking. So Tatpara is not merely"
+    },
+    {
+      "i": 195,
+      "start": 1384.68,
+      "end": 1393.08,
+      "text": "interested in Nyana as any other subject or subtopic, or pursuing"
+    },
+    {
+      "i": 196,
+      "start": 1393.08,
+      "end": 1400.88,
+      "text": "Nyana among other pursuits like yoga, karma yoga, etc."
+    },
+    {
+      "i": 197,
+      "start": 1402.52,
+      "end": 1411.12,
+      "text": "But Tattara is the one who has made myana their absolute"
+    },
+    {
+      "i": 198,
+      "start": 1411.12,
+      "end": 1417.72,
+      "text": "priority. Not only that, he places this"
+    },
+    {
+      "i": 199,
+      "start": 1417.76,
+      "end": 1423.52,
+      "text": "myana above all other concerns, desires and activities."
+    },
+    {
+      "i": 200,
+      "start": 1425.96,
+      "end": 1430.2,
+      "text": "This is the one and only one concern for him."
+    },
+    {
+      "i": 201,
+      "start": 1430.56,
+      "end": 1435.88,
+      "text": "This is only one and only one desire for him and to achieve"
+    },
+    {
+      "i": 202,
+      "start": 1435.88,
+      "end": 1440.88,
+      "text": "this is all the activity he has got, nothing else."
+    },
+    {
+      "i": 203,
+      "start": 1443.48,
+      "end": 1445.8,
+      "text": "That is the meaning of the word Tatbara."
+    },
+    {
+      "i": 204,
+      "start": 1449.56,
+      "end": 1455.68,
+      "text": "This is the operationalized nature of Mumukshutta."
+    },
+    {
+      "i": 205,
+      "start": 1456.8,
+      "end": 1461.52,
+      "text": "Mumukshutta is normally or the intense learning desire for"
+    },
+    {
+      "i": 206,
+      "start": 1461.52,
+      "end": 1470.76,
+      "text": "liberation is called as a inner what you call prang or desire."
+    },
+    {
+      "i": 207,
+      "start": 1472.92,
+      "end": 1479.12,
+      "text": "But when it become operationalized, it will cover"
+    },
+    {
+      "i": 208,
+      "start": 1479.56,
+      "end": 1483.88,
+      "text": "not only the desire, the activity for the desire and"
+    },
+    {
+      "i": 209,
+      "start": 1484.24,
+      "end": 1487.32,
+      "text": "werewol. He can get this information or"
+    },
+    {
+      "i": 210,
+      "start": 1487.32,
+      "end": 1491.12,
+      "text": "the knowledge all everything is surrounded about this knowledge"
+    },
+    {
+      "i": 211,
+      "start": 1491.12,
+      "end": 1504.88,
+      "text": "about the self. So this as a Mamukshatva, as an"
+    },
+    {
+      "i": 212,
+      "start": 1504.88,
+      "end": 1515.48,
+      "text": "intense tiara stage, were the sataka or the aspirant has none"
+    },
+    {
+      "i": 213,
+      "start": 1515.48,
+      "end": 1520.72,
+      "text": "other than this knowledge as his concern."
+    },
+    {
+      "i": 214,
+      "start": 1522.76,
+      "end": 1528.24,
+      "text": "He is called a tatpara. They will not rest, they cannot"
+    },
+    {
+      "i": 215,
+      "start": 1528.24,
+      "end": 1531.4,
+      "text": "be satisfied, they cannot redirect their attention to"
+    },
+    {
+      "i": 216,
+      "start": 1531.4,
+      "end": 1544.28,
+      "text": "anything until it is achieved. Their only purpose of life is to"
+    },
+    {
+      "i": 217,
+      "start": 1544.28,
+      "end": 1548.52,
+      "text": "acquire this knowledge or to have the Tattvat Nyana."
+    },
+    {
+      "i": 218,
+      "start": 1551.88,
+      "end": 1556.56,
+      "text": "Chankaracharya reads Tattvara as the volitional complement to"
+    },
+    {
+      "i": 219,
+      "start": 1556.56,
+      "end": 1563.16,
+      "text": "Sraddha's cognitive orientation. Sraddha orients the Andakarana"
+    },
+    {
+      "i": 220,
+      "start": 1563.6,
+      "end": 1569.72,
+      "text": "towards Nyana as true, while Tattvara orients the will"
+    },
+    {
+      "i": 221,
+      "start": 1571.0,
+      "end": 1579.32,
+      "text": "entirely towards Nyana as the Supreme and the only ultimately"
+    },
+    {
+      "i": 222,
+      "start": 1579.32,
+      "end": 1586.12,
+      "text": "worthwhile pursuit. So 1 is an action, 1 is a"
+    },
+    {
+      "i": 223,
+      "start": 1588.52,
+      "end": 1592.32,
+      "text": "attitude. Together they constitute the"
+    },
+    {
+      "i": 224,
+      "start": 1592.32,
+      "end": 1596.88,
+      "text": "complete inner alignment of the Sadhaka or the aspirant"
+    },
+    {
+      "i": 225,
+      "start": 1598.28,
+      "end": 1604.0,
+      "text": "intellectually believes that is what Shraddha is there and the"
+    },
+    {
+      "i": 226,
+      "start": 1604.0,
+      "end": 1609.2,
+      "text": "will to achieve that is a commitment and that is the"
+    },
+    {
+      "i": 227,
+      "start": 1609.2,
+      "end": 1616.88,
+      "text": "tatpara. But to that he needs one more"
+    },
+    {
+      "i": 228,
+      "start": 1616.88,
+      "end": 1621.6,
+      "text": "qualification. Samyatha indriya."
+    },
+    {
+      "i": 229,
+      "start": 1623.88,
+      "end": 1636.32,
+      "text": "Samyatha indriya means Samyatha means controlled or restrained."
+    },
+    {
+      "i": 230,
+      "start": 1638.2,
+      "end": 1643.0,
+      "text": "Indriya means senses. So samyatha indriya means with"
+    },
+    {
+      "i": 231,
+      "start": 1643.0,
+      "end": 1648.52,
+      "text": "controlled or restrained senses, one whose sense faculties are"
+    },
+    {
+      "i": 232,
+      "start": 1648.52,
+      "end": 1654.16,
+      "text": "completely restrained. The sum is for completeness."
+    },
+    {
+      "i": 233,
+      "start": 1660.64,
+      "end": 1668.0,
+      "text": "This is the instrumental prerequisite, the psychophysical"
+    },
+    {
+      "i": 234,
+      "start": 1668.0,
+      "end": 1672.96,
+      "text": "condition without which Shraddha and Tatpara cannot function or"
+    },
+    {
+      "i": 235,
+      "start": 1672.96,
+      "end": 1678.2,
+      "text": "produce Nyana, because even the most Sradhavan and Tatpara"
+    },
+    {
+      "i": 236,
+      "start": 1678.2,
+      "end": 1684.64,
+      "text": "seeker cannot attain Nyana if his senses are unrestrained."
+    },
+    {
+      "i": 237,
+      "start": 1689.52,
+      "end": 1693.12,
+      "text": "We should remember the example of the chariot and the horses."
+    },
+    {
+      "i": 238,
+      "start": 1694.12,
+      "end": 1697.88,
+      "text": "If the horses are not bridled properly, the horses will run"
+    },
+    {
+      "i": 239,
+      "start": 1698.32,
+      "end": 1700.96,
+      "text": "not in the direction. Each which which you want that"
+    },
+    {
+      "i": 240,
+      "start": 1700.96,
+      "end": 1704.0,
+      "text": "horses to go, it will pull in different direction."
+    },
+    {
+      "i": 241,
+      "start": 1704.88,
+      "end": 1708.2,
+      "text": "So constantly pulling the Andakarna towards the Vishya"
+    },
+    {
+      "i": 242,
+      "start": 1708.2,
+      "end": 1715.52,
+      "text": "contact or the subject object contact, each one creating a"
+    },
+    {
+      "i": 243,
+      "start": 1715.52,
+      "end": 1721.04,
+      "text": "Vishapa, means mental agitation each time and preventing the"
+    },
+    {
+      "i": 244,
+      "start": 1721.04,
+      "end": 1726.12,
+      "text": "sustained and unbroken inward attention which Shraddha and"
+    },
+    {
+      "i": 245,
+      "start": 1726.68,
+      "end": 1736.8,
+      "text": "Satpara is wanting to achieve. Therefore, Nidhidyasana becomes"
+    },
+    {
+      "i": 246,
+      "start": 1739.36,
+      "end": 1746.16,
+      "text": "successful only with restrained sense organ and shraddha"
+    },
+    {
+      "i": 247,
+      "start": 1746.16,
+      "end": 1753.12,
+      "text": "enthatpara. So Samyata indriya corresponds"
+    },
+    {
+      "i": 248,
+      "start": 1753.12,
+      "end": 1763.12,
+      "text": "to almost equal to the dhama or the shatsampatti without dhama,"
+    },
+    {
+      "i": 249,
+      "start": 1763.24,
+      "end": 1771.64,
+      "text": "which is the sense senses continuously khatter the"
+    },
+    {
+      "i": 250,
+      "start": 1771.64,
+      "end": 1777.48,
+      "text": "antakarana's attention towards or the objects preventing the"
+    },
+    {
+      "i": 251,
+      "start": 1777.48,
+      "end": 1783.92,
+      "text": "antakarana from doing the inward gathering that is pratyahara,"
+    },
+    {
+      "i": 252,
+      "start": 1783.92,
+      "end": 1788.72,
+      "text": "dharana dhyana. Except samadhi towards which"
+    },
+    {
+      "i": 253,
+      "start": 1788.88,
+      "end": 1792.28,
+      "text": "will should otherwise culminate in the approach Shanibhava."
+    },
+    {
+      "i": 254,
+      "start": 1792.64,
+      "end": 1795.4,
+      "text": "That will not happen. Therefore, tattvatnana cannot"
+    },
+    {
+      "i": 255,
+      "start": 1795.4,
+      "end": 1801.96,
+      "text": "happen Sangarajaya. Note that the specific mechanism"
+    },
+    {
+      "i": 256,
+      "start": 1801.96,
+      "end": 1806.52,
+      "text": "by which the unrestrained senses obstruct nyana eats."
+    },
+    {
+      "i": 257,
+      "start": 1806.52,
+      "end": 1811.08,
+      "text": "Sensory contact with a Vishaya of its corresponding nature"
+    },
+    {
+      "i": 258,
+      "start": 1811.92,
+      "end": 1819.44,
+      "text": "generates A urdi or a mental modification, like a wave in the"
+    },
+    {
+      "i": 259,
+      "start": 1819.44,
+      "end": 1825.68,
+      "text": "andakarana and the accumulated urtis or the mental"
+    },
+    {
+      "i": 260,
+      "start": 1825.68,
+      "end": 1831.96,
+      "text": "modification, all of them constitute a turbulence in the"
+    },
+    {
+      "i": 261,
+      "start": 1833.56,
+      "end": 1840.12,
+      "text": "andakarana in the instrument which turns out becomes a"
+    },
+    {
+      "i": 262,
+      "start": 1840.12,
+      "end": 1845.24,
+      "text": "viksheba. Viksheba means a projection of"
+    },
+    {
+      "i": 263,
+      "start": 1846.2,
+      "end": 1854.68,
+      "text": "the inner energy into the objects of the senses which"
+    },
+    {
+      "i": 264,
+      "start": 1854.68,
+      "end": 1859.08,
+      "text": "prevents the andakarana from becoming still transparent"
+    },
+    {
+      "i": 265,
+      "start": 1859.08,
+      "end": 1863.88,
+      "text": "medium through which Atman self luminatory luminosity can be"
+    },
+    {
+      "i": 266,
+      "start": 1863.88,
+      "end": 1867.72,
+      "text": "recognized. So nidhidyasana is not possible."
+    },
+    {
+      "i": 267,
+      "start": 1868.2,
+      "end": 1873.8,
+      "text": "Not only that, the viksheva of the Andakarana will not allow"
+    },
+    {
+      "i": 268,
+      "start": 1876.64,
+      "end": 1881.52,
+      "text": "the Andakarana to be tranquil and in only in a triangules"
+    },
+    {
+      "i": 269,
+      "start": 1881.84,
+      "end": 1886.44,
+      "text": "settle the mind, the Atma can be self luminous."
+    },
+    {
+      "i": 270,
+      "start": 1888.56,
+      "end": 1894.76,
+      "text": "Therefore Samyata Indriya complete restraint of senses"
+    },
+    {
+      "i": 271,
+      "start": 1896.4,
+      "end": 1899.16,
+      "text": "progressively stills the vritti turbulence."
+    },
+    {
+      "i": 272,
+      "start": 1899.16,
+      "end": 1907.16,
+      "text": "Allowing the Andakarana to become Prasanna means serene and"
+    },
+    {
+      "i": 273,
+      "start": 1907.16,
+      "end": 1912.6,
+      "text": "thereby transparent to Aparok Shanubhava which is the Nyana's"
+    },
+    {
+      "i": 274,
+      "start": 1912.6,
+      "end": 1921.28,
+      "text": "self revelation. The three together complete the"
+    },
+    {
+      "i": 275,
+      "start": 1921.64,
+      "end": 1926.36,
+      "text": "Adhikarya portrait or the eligibility of an aspirant"
+    },
+    {
+      "i": 276,
+      "start": 1928.24,
+      "end": 1931.64,
+      "text": "Shradhavan. The Antakarana oriented towards"
+    },
+    {
+      "i": 277,
+      "start": 1931.64,
+      "end": 1936.16,
+      "text": "Shabdapramana as valid, making Shravana genuinely operative."
+    },
+    {
+      "i": 278,
+      "start": 1937.56,
+      "end": 1944.44,
+      "text": "Satparaha is the entire will directed towards the Nyana as"
+    },
+    {
+      "i": 279,
+      "start": 1944.44,
+      "end": 1951.04,
+      "text": "supreme, making Manana and Nidhidyasana sustained and"
+    },
+    {
+      "i": 280,
+      "start": 1951.04,
+      "end": 1957.08,
+      "text": "unbroken. Samyatha Indriya."
+    },
+    {
+      "i": 281,
+      "start": 1958.52,
+      "end": 1963.4,
+      "text": "The census when restrained, prevents the Vickshaypa of the"
+    },
+    {
+      "i": 282,
+      "start": 1963.4,
+      "end": 1968.92,
+      "text": "mind or mantral turbulence, making the Andakarana still and"
+    },
+    {
+      "i": 283,
+      "start": 1968.92,
+      "end": 1975.32,
+      "text": "the transparent medium for the upper Okshanibhava to Shradhavan"
+    },
+    {
+      "i": 284,
+      "start": 1975.52,
+      "end": 1980.04,
+      "text": "Satparaha Samyata Indriya. These three together constitute"
+    },
+    {
+      "i": 285,
+      "start": 1980.04,
+      "end": 1985.04,
+      "text": "the Nyana Digari, one who is fully qualified to receive and"
+    },
+    {
+      "i": 286,
+      "start": 1985.04,
+      "end": 1990.72,
+      "text": "realize Satvat Nyana. Their sequential order in the"
+    },
+    {
+      "i": 287,
+      "start": 1990.72,
+      "end": 1995.2,
+      "text": "verse is also sequential order of their development in the"
+    },
+    {
+      "i": 288,
+      "start": 1995.2,
+      "end": 1998.8,
+      "text": "sadhana. Shraddha comes first."
+    },
+    {
+      "i": 289,
+      "start": 2000.16,
+      "end": 2004.84,
+      "text": "Only Shraddha. If it is there, it begins."
+    },
+    {
+      "i": 290,
+      "start": 2004.84,
+      "end": 2009.16,
+      "text": "It arises through the contact with satsanga and sastra"
+    },
+    {
+      "i": 291,
+      "start": 2009.16,
+      "end": 2013.4,
+      "text": "exposure. The shraddha gets developed in"
+    },
+    {
+      "i": 292,
+      "start": 2013.4,
+      "end": 2016.72,
+      "text": "the pramana shastrasya, Guruvakyasya,"
+    },
+    {
+      "i": 293,
+      "start": 2016.72,
+      "end": 2023.52,
+      "text": "satyabukdhyavatarana that develops into the tatpara"
+    },
+    {
+      "i": 294,
+      "start": 2023.52,
+      "end": 2028.64,
+      "text": "nature, which develops as a sadda, deepens and vairagya"
+    },
+    {
+      "i": 295,
+      "start": 2028.64,
+      "end": 2035.84,
+      "text": "intensifies. Therefore he is his will to"
+    },
+    {
+      "i": 296,
+      "start": 2036.04,
+      "end": 2039.96,
+      "text": "achieve the knowledge of what he has heard from the Shastra and"
+    },
+    {
+      "i": 297,
+      "start": 2039.96,
+      "end": 2047.92,
+      "text": "the Guruvakya that what is Atma, what is Atma Brahma and how it"
+    },
+    {
+      "i": 298,
+      "start": 2047.92,
+      "end": 2053.159,
+      "text": "is that you know a jeevan mukta or a tatvatnyani."
+    },
+    {
+      "i": 299,
+      "start": 2053.92,
+      "end": 2062.239,
+      "text": "How does he experience the sitapratnasya behaviour and how"
+    },
+    {
+      "i": 300,
+      "start": 2062.239,
+      "end": 2066.199,
+      "text": "it is useful in mitigating the sorrows of life?"
+    },
+    {
+      "i": 301,
+      "start": 2066.679,
+      "end": 2072.4,
+      "text": "How it can really redeem you from the pranks of the epic in"
+    },
+    {
+      "i": 302,
+      "start": 2072.719,
+      "end": 2075.96,
+      "text": "what he called the Vyavaharika life?"
+    },
+    {
+      "i": 303,
+      "start": 2077.56,
+      "end": 2082.96,
+      "text": "And what is the benefit of having this knowledge of"
+    },
+    {
+      "i": 304,
+      "start": 2082.96,
+      "end": 2087.8,
+      "text": "Aparakshanabudi? All these things will become"
+    },
+    {
+      "i": 305,
+      "start": 2087.96,
+      "end": 2094.36,
+      "text": "convincing to the Tatpara Adigari and that is the time"
+    },
+    {
+      "i": 306,
+      "start": 2094.36,
+      "end": 2099.0,
+      "text": "when he realized that to achieve that knowledge he need to"
+    },
+    {
+      "i": 307,
+      "start": 2099.0,
+      "end": 2105.24,
+      "text": "control or regulate his senses. Therefore he develops through"
+    },
+    {
+      "i": 308,
+      "start": 2105.24,
+      "end": 2114.8,
+      "text": "the Yoga Vyasa that Samadhama Uparathi Sitiksha, all of them"
+    },
+    {
+      "i": 309,
+      "start": 2114.8,
+      "end": 2122.88,
+      "text": "satsampathi toward that that the Tatpara motivation is the driven"
+    },
+    {
+      "i": 310,
+      "start": 2122.88,
+      "end": 2129.16,
+      "text": "driver for the you know some other indriya to take place."
+    },
+    {
+      "i": 311,
+      "start": 2130.6,
+      "end": 2135.48,
+      "text": "Therefore, the three together mutually helping each other,"
+    },
+    {
+      "i": 312,
+      "start": 2136.36,
+      "end": 2145.32,
+      "text": "reinforcing a development in the under Karan of the aspirant or"
+    },
+    {
+      "i": 313,
+      "start": 2145.32,
+      "end": 2150.84,
+      "text": "the sadhaka, each deepening the other two."
+    },
+    {
+      "i": 314,
+      "start": 2152.52,
+      "end": 2158.6,
+      "text": "And that way it becomes deeper and deeper and more convinced,"
+    },
+    {
+      "i": 315,
+      "start": 2158.6,
+      "end": 2163.24,
+      "text": "and Sridhawan becomes the ultimate, until the Andakarana"
+    },
+    {
+      "i": 316,
+      "start": 2164.08,
+      "end": 2168.6,
+      "text": "becomes fully ripe and the upper Kanubowa takes place."
+    },
+    {
+      "i": 317,
+      "start": 2171.12,
+      "end": 2176.84,
+      "text": "That is the kalam. So what is the Kalam?"
+    },
+    {
+      "i": 318,
+      "start": 2177.6,
+      "end": 2186.36,
+      "text": "Nyanam Labdua having obtained that nyanam param shantim achere"
+    },
+    {
+      "i": 319,
+      "start": 2186.36,
+      "end": 2192.48,
+      "text": "na dikhachati so tyanam labdua having obtained or after"
+    },
+    {
+      "i": 320,
+      "start": 2192.48,
+      "end": 2205.68,
+      "text": "obtaining that nyanam so the sradhavan tatpara samyata"
+    },
+    {
+      "i": 321,
+      "start": 2205.68,
+      "end": 2211.8,
+      "text": "indriya through the guru upadesha is what the fruit?"
+    },
+    {
+      "i": 322,
+      "start": 2211.8,
+      "end": 2218.52,
+      "text": "What is now happening? Sabda Labdad Yanam so LAN"
+    },
+    {
+      "i": 323,
+      "start": 2218.64,
+      "end": 2222.56,
+      "text": "Nyayanam Laddha picks up the verses opening Labadeh Pyanam"
+    },
+    {
+      "i": 324,
+      "start": 2222.76,
+      "end": 2228.28,
+      "text": "obtains Nyayana the Saint Nyayana obtained become the"
+    },
+    {
+      "i": 325,
+      "start": 2228.28,
+      "end": 2235.32,
+      "text": "ground for the fruit for Shanti. Having obtained that knowledge"
+    },
+    {
+      "i": 326,
+      "start": 2235.32,
+      "end": 2242.88,
+      "text": "of Nyayana that the Siddhawan obtains, then this is further"
+    },
+    {
+      "i": 327,
+      "start": 2245.04,
+      "end": 2250.88,
+      "text": "becoming the serenity or the tranquility on the person who"
+    },
+    {
+      "i": 328,
+      "start": 2250.88,
+      "end": 2256.04,
+      "text": "has achieved it. Param Shanti, supreme peace."
+    },
+    {
+      "i": 329,
+      "start": 2260.04,
+      "end": 2262.28,
+      "text": "Both these words would the para and Shanti."
+    },
+    {
+      "i": 330,
+      "start": 2262.28,
+      "end": 2268.64,
+      "text": "Both of them have got extremely highly philosophical weight in"
+    },
+    {
+      "i": 331,
+      "start": 2268.64,
+      "end": 2275.88,
+      "text": "the Advaitic system. Param super relative sense as an"
+    },
+    {
+      "i": 332,
+      "start": 2275.88,
+      "end": 2279.84,
+      "text": "adjective param means highest, supreme, param Brahma,"
+    },
+    {
+      "i": 333,
+      "start": 2280.4,
+      "end": 2283.44,
+      "text": "Paramatma. So we know the highest or"
+    },
+    {
+      "i": 334,
+      "start": 2283.44,
+      "end": 2286.8,
+      "text": "supreme or unsurpassable is the word param means."
+    },
+    {
+      "i": 335,
+      "start": 2289.92,
+      "end": 2293.52,
+      "text": "In the chapter 4 there we have seen this Param Brahma, highest"
+    },
+    {
+      "i": 336,
+      "start": 2293.52,
+      "end": 2296.68,
+      "text": "Brahman, Brahmasanadhanam, Param Shanti."
+    },
+    {
+      "i": 337,
+      "start": 2296.88,
+      "end": 2299.68,
+      "text": "In this verse, the peace that surpasses all."
+    },
+    {
+      "i": 338,
+      "start": 2300.44,
+      "end": 2305.92,
+      "text": "All this thing indicates that the peace beyond which no"
+    },
+    {
+      "i": 339,
+      "start": 2305.92,
+      "end": 2311.0,
+      "text": "greater peace exists, the supreme, final, irreducible"
+    },
+    {
+      "i": 340,
+      "start": 2311.0,
+      "end": 2320.0,
+      "text": "peace, which is the Ananda which we talk about, Satchitananda,"
+    },
+    {
+      "i": 341,
+      "start": 2321.6,
+      "end": 2326.56,
+      "text": "that is the parashanti, the peace and the tranquility, the"
+    },
+    {
+      "i": 342,
+      "start": 2326.56,
+      "end": 2331.04,
+      "text": "cessation of all agitation, when your mind has nothing to agitate"
+    },
+    {
+      "i": 343,
+      "start": 2331.04,
+      "end": 2337.48,
+      "text": "for, because it is content in the knowledge of the self."
+    },
+    {
+      "i": 344,
+      "start": 2338.4,
+      "end": 2345.32,
+      "text": "It is nithyatripti. The eternal says, says what you"
+    },
+    {
+      "i": 345,
+      "start": 2345.32,
+      "end": 2351.16,
+      "text": "call happiness or fulfillment, when there is nothing more to be"
+    },
+    {
+      "i": 346,
+      "start": 2351.32,
+      "end": 2359.16,
+      "text": "achieved. It is not a slumber or a what"
+    },
+    {
+      "i": 347,
+      "start": 2359.16,
+      "end": 2369.36,
+      "text": "you call Thomas, but it is rimming with peace and"
+    },
+    {
+      "i": 348,
+      "start": 2370.04,
+      "end": 2375.16,
+      "text": "happiness. So Shanti is the peace,"
+    },
+    {
+      "i": 349,
+      "start": 2375.16,
+      "end": 2380.36,
+      "text": "tranquility, the cessation of all agitation, that which is"
+    },
+    {
+      "i": 350,
+      "start": 2380.36,
+      "end": 2387.2,
+      "text": "characterized by the complete stillness or cessation of what"
+    },
+    {
+      "i": 351,
+      "start": 2387.2,
+      "end": 2394.36,
+      "text": "is called the Sama. Shanti is not merely the absence"
+    },
+    {
+      "i": 352,
+      "start": 2394.36,
+      "end": 2400.6,
+      "text": "of conflict at the intelligent on the karana level, but a"
+    },
+    {
+      "i": 353,
+      "start": 2400.6,
+      "end": 2407.36,
+      "text": "positive recognition of the inherent stillness of Atman."
+    },
+    {
+      "i": 354,
+      "start": 2412.92,
+      "end": 2420.04,
+      "text": "The Atman's stillness is what is called the Shanti of Brahman"
+    },
+    {
+      "i": 355,
+      "start": 2420.04,
+      "end": 2424.76,
+      "text": "itself. Brahma Shanti shanthoyam Atma."
+    },
+    {
+      "i": 356,
+      "start": 2426.0,
+      "end": 2428.8,
+      "text": "Brahadaran Upanishad says that Atma is shantha."
+    },
+    {
+      "i": 357,
+      "start": 2432.2,
+      "end": 2437.76,
+      "text": "The 4th chapter 4th for the 23rd mantra Brahadaran Upanishad says"
+    },
+    {
+      "i": 358,
+      "start": 2437.76,
+      "end": 2443.68,
+      "text": "that I am Atma Shantha. This Atman is Shantha, so Para"
+    },
+    {
+      "i": 359,
+      "start": 2443.68,
+      "end": 2450.04,
+      "text": "Shanthi, Brahman itself experienced as ultimate peace."
+    },
+    {
+      "i": 360,
+      "start": 2450.6,
+      "end": 2456.76,
+      "text": "There is no difference between Atman Brahman and the peace or"
+    },
+    {
+      "i": 361,
+      "start": 2456.76,
+      "end": 2460.68,
+      "text": "the tranquility. It is and that is the Ananda"
+    },
+    {
+      "i": 362,
+      "start": 2461.8,
+      "end": 2468.92,
+      "text": "that is Brahman, Swaruba, Anandamaya, recognized as one's"
+    },
+    {
+      "i": 363,
+      "start": 2468.96,
+      "end": 2477.76,
+      "text": "own swaruba, enjoying one's own serenity."
+    },
+    {
+      "i": 364,
+      "start": 2479.04,
+      "end": 2484.68,
+      "text": "There is nothing to be seen outside or inside other than"
+    },
+    {
+      "i": 365,
+      "start": 2484.68,
+      "end": 2494.28,
+      "text": "Atma. Atma is ever present in all of"
+    },
+    {
+      "i": 366,
+      "start": 2494.28,
+      "end": 2498.4,
+      "text": "us. It is Atma what is our true"
+    },
+    {
+      "i": 367,
+      "start": 2498.4,
+      "end": 2505.52,
+      "text": "natures, and that is the time when the mind is not agitated"
+    },
+    {
+      "i": 368,
+      "start": 2507.32,
+      "end": 2509.84,
+      "text": "either by the waking or by the dream."
+    },
+    {
+      "i": 369,
+      "start": 2512.88,
+      "end": 2518.2,
+      "text": "The mind is or Dandakarana is at peace with itself."
+    },
+    {
+      "i": 370,
+      "start": 2524.01,
+      "end": 2529.25,
+      "text": "This is not a temporary piece of resolved conflict Shrinika"
+    },
+    {
+      "i": 371,
+      "start": 2529.25,
+      "end": 2533.49,
+      "text": "Shanti, but eternal self established piece of a"
+    },
+    {
+      "i": 372,
+      "start": 2534.01,
+      "end": 2544.04,
+      "text": "nithyatripta Atman eternally satisfied or fulfilled Atman the"
+    },
+    {
+      "i": 373,
+      "start": 2544.04,
+      "end": 2549.08,
+      "text": "Nithya Shanti that is independent of all external"
+    },
+    {
+      "i": 374,
+      "start": 2549.08,
+      "end": 2555.64,
+      "text": "conditions. Sankaracharya identifies para"
+    },
+    {
+      "i": 375,
+      "start": 2555.64,
+      "end": 2560.96,
+      "text": "shanti as identical with moksha. Sankarajarya says that that"
+    },
+    {
+      "i": 376,
+      "start": 2560.96,
+      "end": 2565.4,
+      "text": "Shanti is the moksha. So Om Shanti Shanti Shanti is"
+    },
+    {
+      "i": 377,
+      "start": 2565.4,
+      "end": 2570.6,
+      "text": "nothing but Oksha moksha. It's not a state leading to"
+    },
+    {
+      "i": 378,
+      "start": 2570.6,
+      "end": 2577.6,
+      "text": "moksha, but moksha itself, experienced as supreme peace."
+    },
+    {
+      "i": 379,
+      "start": 2583.0,
+      "end": 2586.12,
+      "text": "The Jeevan Mukta who has attained Tattvatmyana"
+    },
+    {
+      "i": 380,
+      "start": 2588.28,
+      "end": 2596.0,
+      "text": "Brahmanishta, He's Nityatripta. He is Veeda Raghabhaya krotha."
+    },
+    {
+      "i": 381,
+      "start": 2597.72,
+      "end": 2602.8,
+      "text": "From him the raghabhaya krotha has Veeda has gone."
+    },
+    {
+      "i": 382,
+      "start": 2604.64,
+      "end": 2608.76,
+      "text": "He is dondhua dietha. Beyond all duality, there is"
+    },
+    {
+      "i": 383,
+      "start": 2608.76,
+      "end": 2619.21,
+      "text": "only one Ekameva Dutiyam Brahma. And since he is an Akarta"
+    },
+    {
+      "i": 384,
+      "start": 2619.49,
+      "end": 2626.52,
+      "text": "aboktha, all his karma has been basmasatkrutham has been reduced"
+    },
+    {
+      "i": 385,
+      "start": 2626.52,
+      "end": 2629.52,
+      "text": "into ashes. He has no more action to be"
+    },
+    {
+      "i": 386,
+      "start": 2629.56,
+      "end": 2635.24,
+      "text": "done, nothing to be done. Further yedlabdhua na param"
+    },
+    {
+      "i": 387,
+      "start": 2635.24,
+      "end": 2639.8,
+      "text": "lava. There is nothing more to be"
+    },
+    {
+      "i": 388,
+      "start": 2639.8,
+      "end": 2645.48,
+      "text": "achieved or gain beyond what is already achieved by Atma"
+    },
+    {
+      "i": 389,
+      "start": 2645.48,
+      "end": 2652.52,
+      "text": "Sartradkara. And he abides in Parashanti, the"
+    },
+    {
+      "i": 390,
+      "start": 2652.52,
+      "end": 2657.16,
+      "text": "irreversible self-sustaining condition independent of piece"
+    },
+    {
+      "i": 391,
+      "start": 2657.16,
+      "end": 2665.8,
+      "text": "of Atman self recognition. This is the piece of Shantim"
+    },
+    {
+      "i": 392,
+      "start": 2665.8,
+      "end": 2674.8,
+      "text": "Adhigarchati, what we studied in the 71st verse of 2nd chapter,"
+    },
+    {
+      "i": 393,
+      "start": 2674.8,
+      "end": 2682.0,
+      "text": "when the Sitapratnya was mentioned, and the same thing"
+    },
+    {
+      "i": 394,
+      "start": 2682.0,
+      "end": 2684.92,
+      "text": "will come in the next chapter, also 5th chapter."
+    },
+    {
+      "i": 395,
+      "start": 2685.64,
+      "end": 2697.08,
+      "text": "Shantin Nigachati reaches peace, the same Shanti at which all of"
+    },
+    {
+      "i": 396,
+      "start": 2697.08,
+      "end": 2699.56,
+      "text": "the Gita's teaching is directed towards."
+    },
+    {
+      "i": 397,
+      "start": 2702.36,
+      "end": 2704.88,
+      "text": "If you have peace, what more do you want?"
+    },
+    {
+      "i": 398,
+      "start": 2709.12,
+      "end": 2718.32,
+      "text": "The only thing what we are all wanting is absolute peace, and"
+    },
+    {
+      "i": 399,
+      "start": 2718.32,
+      "end": 2726.0,
+      "text": "that absolute peace is our true nature, that is the atmos"
+    },
+    {
+      "i": 400,
+      "start": 2726.0,
+      "end": 2734.52,
+      "text": "swarupa, the nature of our self. But when the mind and intellect"
+    },
+    {
+      "i": 401,
+      "start": 2734.52,
+      "end": 2746.28,
+      "text": "under Karana is not able to recognize that they run towards"
+    },
+    {
+      "i": 402,
+      "start": 2747.52,
+      "end": 2754.12,
+      "text": "outside objects due to the Indriyas attachment towards the"
+    },
+    {
+      "i": 403,
+      "start": 2754.12,
+      "end": 2760.0,
+      "text": "objects of sense organs. That is why the Samyatha"
+    },
+    {
+      "i": 404,
+      "start": 2760.0,
+      "end": 2770.32,
+      "text": "Indriya, that aspect is a must. Score the shanti for the"
+    },
+    {
+      "i": 405,
+      "start": 2770.32,
+      "end": 2776.28,
+      "text": "absolute peace. But how does it?"
+    },
+    {
+      "i": 406,
+      "start": 2779.48,
+      "end": 2783.32,
+      "text": "Will it take time for me to shraddha then tatpara?"
+    },
+    {
+      "i": 407,
+      "start": 2783.84,
+      "end": 2788.52,
+      "text": "So controlling the sense organs, is it not difficult Each time I"
+    },
+    {
+      "i": 408,
+      "start": 2788.52,
+      "end": 2793.24,
+      "text": "have to work toward that. So I'll have to close my eyes,"
+    },
+    {
+      "i": 409,
+      "start": 2793.24,
+      "end": 2800.0,
+      "text": "close my ears, close my senses and do samadhi, yoga, all of"
+    },
+    {
+      "i": 410,
+      "start": 2800.0,
+      "end": 2807.48,
+      "text": "them. Gita doesn't say that."
+    },
+    {
+      "i": 411,
+      "start": 2810.36,
+      "end": 2818.12,
+      "text": "It is the knowledge which helps for the sense organs to withdraw"
+    },
+    {
+      "i": 412,
+      "start": 2818.12,
+      "end": 2826.2,
+      "text": "from the sense objects which we studied earlier, Indriyan"
+    },
+    {
+      "i": 413,
+      "start": 2826.2,
+      "end": 2831.28,
+      "text": "Indriyatheshu. The sense objects are meant for"
+    },
+    {
+      "i": 414,
+      "start": 2831.28,
+      "end": 2834.52,
+      "text": "the sense. It is not for the Atma or the"
+    },
+    {
+      "i": 415,
+      "start": 2834.52,
+      "end": 2841.04,
+      "text": "self. So when that is understood, the"
+    },
+    {
+      "i": 416,
+      "start": 2841.04,
+      "end": 2846.76,
+      "text": "indriyas are not anymore working for you."
+    },
+    {
+      "i": 417,
+      "start": 2849.4,
+      "end": 2853.8,
+      "text": "Therefore the control you are doing is by detaching the"
+    },
+    {
+      "i": 418,
+      "start": 2853.8,
+      "end": 2860.44,
+      "text": "indriyas and attention of the andakarana instead of to the"
+    },
+    {
+      "i": 419,
+      "start": 2860.44,
+      "end": 2864.96,
+      "text": "senses and the sense objects outside is turned inward."
+    },
+    {
+      "i": 420,
+      "start": 2865.84,
+      "end": 2868.88,
+      "text": "That is the shraddha and the tadpara."
+    },
+    {
+      "i": 421,
+      "start": 2872.16,
+      "end": 2878.12,
+      "text": "That person relishes and enjoys only in the Sastravatiya the"
+    },
+    {
+      "i": 422,
+      "start": 2878.12,
+      "end": 2883.4,
+      "text": "teaching of the Guru or the Upanishad, and he continues to"
+    },
+    {
+      "i": 423,
+      "start": 2883.4,
+      "end": 2891.2,
+      "text": "relish in that, never letting his indriyas overcome the"
+    },
+    {
+      "i": 424,
+      "start": 2891.2,
+      "end": 2895.84,
+      "text": "desires of external objects, because his desire has now"
+    },
+    {
+      "i": 425,
+      "start": 2895.84,
+      "end": 2906.6,
+      "text": "become tatparaha in the completeness of the knowledge of"
+    },
+    {
+      "i": 426,
+      "start": 2906.68,
+      "end": 2911.48,
+      "text": "Nyana. So when does he achieve that?"
+    },
+    {
+      "i": 427,
+      "start": 2912.52,
+      "end": 2918.4,
+      "text": "Krushna says achirena. Achirena means without delay,"
+    },
+    {
+      "i": 428,
+      "start": 2921.0,
+      "end": 2925.56,
+      "text": "quickly, in the shortest possible time."
+    },
+    {
+      "i": 429,
+      "start": 2927.88,
+      "end": 2932.64,
+      "text": "Achira AA means not chira. Chira means long."
+    },
+    {
+      "i": 430,
+      "start": 2934.08,
+      "end": 2938.56,
+      "text": "Achira means without wasting long time or there is no long"
+    },
+    {
+      "i": 431,
+      "start": 2938.56,
+      "end": 2944.44,
+      "text": "time waiting for it. So the achireyana means in no"
+    },
+    {
+      "i": 432,
+      "start": 2944.44,
+      "end": 2946.6,
+      "text": "long time, quickly, without delay."
+    },
+    {
+      "i": 433,
+      "start": 2948.88,
+      "end": 2955.76,
+      "text": "This single word is Shankaracharya's occasion for"
+    },
+    {
+      "i": 434,
+      "start": 2955.76,
+      "end": 2960.44,
+      "text": "his most compassionate and encouraging commentary in the"
+    },
+    {
+      "i": 435,
+      "start": 2960.44,
+      "end": 2964.28,
+      "text": "entire chapter. The Achirena addresses the"
+    },
+    {
+      "i": 436,
+      "start": 2964.28,
+      "end": 2966.64,
+      "text": "temporal anxiety of the mumukshu."
+    },
+    {
+      "i": 437,
+      "start": 2967.6,
+      "end": 2971.48,
+      "text": "How long will it take? Will I have to practice the"
+    },
+    {
+      "i": 438,
+      "start": 2971.68,
+      "end": 2974.44,
+      "text": "sadhana for countless lifetimes births?"
+    },
+    {
+      "i": 439,
+      "start": 2974.76,
+      "end": 2977.16,
+      "text": "How many what? What is the means?"
+    },
+    {
+      "i": 440,
+      "start": 2978.08,
+      "end": 2982.64,
+      "text": "When can the smyaan arise in me? All these questions is haunting"
+    },
+    {
+      "i": 441,
+      "start": 2982.64,
+      "end": 2985.6,
+      "text": "the student because he wants it immediately."
+    },
+    {
+      "i": 442,
+      "start": 2987.16,
+      "end": 2991.76,
+      "text": "Sankarajya's response is that Achirena assert that for the one"
+    },
+    {
+      "i": 443,
+      "start": 2991.76,
+      "end": 2995.48,
+      "text": "who has genuinely fulfilled the qualifications of Shraddha,"
+    },
+    {
+      "i": 444,
+      "start": 2995.88,
+      "end": 3002.28,
+      "text": "Satpara and Samyata Indriya and received the Guru Upadesha by"
+    },
+    {
+      "i": 445,
+      "start": 3002.44,
+      "end": 3008.36,
+      "text": "Pranibhata, Pariprasna and Seva, the arising of that Nyana is not"
+    },
+    {
+      "i": 446,
+      "start": 3008.36,
+      "end": 3016.84,
+      "text": "distant, it is instantaneous. The implication being that"
+    },
+    {
+      "i": 447,
+      "start": 3016.84,
+      "end": 3025.68,
+      "text": "Tatpatnyana can arise in this very life, Ihayeva, potentially"
+    },
+    {
+      "i": 448,
+      "start": 3025.68,
+      "end": 3030.0,
+      "text": "within the current period of sadhana itself, not requiring"
+    },
+    {
+      "i": 449,
+      "start": 3030.0,
+      "end": 3034.12,
+      "text": "countless future births etcetera."
+    },
+    {
+      "i": 450,
+      "start": 3036.0,
+      "end": 3038.16,
+      "text": "But at the same time Shankaracharya is careful."
+    },
+    {
+      "i": 451,
+      "start": 3040.4,
+      "end": 3042.48,
+      "text": "It does not mean instantaneously."
+    },
+    {
+      "i": 452,
+      "start": 3043.72,
+      "end": 3046.96,
+      "text": "The Abarakshanibhava itself is instantaneous."
+    },
+    {
+      "i": 453,
+      "start": 3047.84,
+      "end": 3051.24,
+      "text": "It is not. It is a recognition, it is not a"
+    },
+    {
+      "i": 454,
+      "start": 3051.24,
+      "end": 3056.0,
+      "text": "process. It means that for the fully"
+    },
+    {
+      "i": 455,
+      "start": 3056.0,
+      "end": 3061.8,
+      "text": "qualified adhikari who has Sadhavan Tatpara Samyadendriya,"
+    },
+    {
+      "i": 456,
+      "start": 3061.96,
+      "end": 3066.04,
+      "text": "the ripening of the andakarana to the point of Nyana redinas is"
+    },
+    {
+      "i": 457,
+      "start": 3066.56,
+      "end": 3069.28,
+      "text": "a matter of this life, not future lives."
+    },
+    {
+      "i": 458,
+      "start": 3072.84,
+      "end": 3078.92,
+      "text": "The sadhana of Pranipada Pariprasna Seva need not extend"
+    },
+    {
+      "i": 459,
+      "start": 3078.92,
+      "end": 3083.52,
+      "text": "across Janmas or the one whom in whom all the three"
+    },
+    {
+      "i": 460,
+      "start": 3083.52,
+      "end": 3088.0,
+      "text": "qualifications are operating. That is why I keep saying that"
+    },
+    {
+      "i": 461,
+      "start": 3092.44,
+      "end": 3099.36,
+      "text": "for the most apartment adigari, the philosophical basis of this"
+    },
+    {
+      "i": 462,
+      "start": 3099.64,
+      "end": 3105.92,
+      "text": "achirena, instantaneous or in without delay Atman is Nitya"
+    },
+    {
+      "i": 463,
+      "start": 3105.92,
+      "end": 3111.24,
+      "text": "Siddha, always ready and accomplished already with us."
+    },
+    {
+      "i": 464,
+      "start": 3111.32,
+      "end": 3117.0,
+      "text": "That is our true nature. The moksha is not a new"
+    },
+    {
+      "i": 465,
+      "start": 3117.0,
+      "end": 3120.48,
+      "text": "acquisition but a recognition. What was always present"
+    },
+    {
+      "i": 466,
+      "start": 3121.52,
+      "end": 3130.24,
+      "text": "Praktasya prapti, since the Atman is always there, always"
+    },
+    {
+      "i": 467,
+      "start": 3130.24,
+      "end": 3133.92,
+      "text": "fully present, always self luminous, and it is in that"
+    },
+    {
+      "i": 468,
+      "start": 3133.92,
+      "end": 3136.88,
+      "text": "luminous Tasyabasa Sarvamitham Bibadi."
+    },
+    {
+      "i": 469,
+      "start": 3139.28,
+      "end": 3146.56,
+      "text": "The delay is not in Atman but only in the removal of the"
+    },
+    {
+      "i": 470,
+      "start": 3146.56,
+      "end": 3152.36,
+      "text": "avrana thickness of the Avrana for the Shradhavan Thapara"
+    },
+    {
+      "i": 471,
+      "start": 3152.36,
+      "end": 3157.2,
+      "text": "Samyadendriya Adhikari whose avrana has been substantially"
+    },
+    {
+      "i": 472,
+      "start": 3158.4,
+      "end": 3165.64,
+      "text": "thinned or reduced by Sadhana Nayana arises Sachi Reyana."
+    },
+    {
+      "i": 473,
+      "start": 3166.04,
+      "end": 3168.56,
+      "text": "The recognition is close and not distant."
+    },
+    {
+      "i": 474,
+      "start": 3170.8,
+      "end": 3177.28,
+      "text": "Adhigachati means attains, reaches or arrives at Adhi plus"
+    },
+    {
+      "i": 475,
+      "start": 3177.28,
+      "end": 3182.24,
+      "text": "Gamal completely. Attains fully reaches"
+    },
+    {
+      "i": 476,
+      "start": 3183.76,
+      "end": 3188.6,
+      "text": "Yedgatwananivartande. After having reached that, there"
+    },
+    {
+      "i": 477,
+      "start": 3188.6,
+      "end": 3195.12,
+      "text": "is no returning back. There is no outside where he has"
+    },
+    {
+      "i": 478,
+      "start": 3195.12,
+      "end": 3200.0,
+      "text": "to go or no place where he has reached."
+    },
+    {
+      "i": 479,
+      "start": 3200.0,
+      "end": 3203.76,
+      "text": "Then he has to go back or he has somewhere else to do."
+    },
+    {
+      "i": 480,
+      "start": 3206.4,
+      "end": 3211.72,
+      "text": "The Adi prefix intensifies completely."
+    },
+    {
+      "i": 481,
+      "start": 3213.12,
+      "end": 3219.72,
+      "text": "Not a partial approach, but complete arrival at Parashanti."
+    },
+    {
+      "i": 482,
+      "start": 3222.08,
+      "end": 3229.28,
+      "text": "This is the culmination of this stanza and as the present Spence"
+    },
+    {
+      "i": 483,
+      "start": 3229.32,
+      "end": 3234.52,
+      "text": "Adigacheti is in the present rather than future or later"
+    },
+    {
+      "i": 484,
+      "start": 3234.52,
+      "end": 3239.24,
+      "text": "period, this is what happens necessarily when the conditions"
+    },
+    {
+      "i": 485,
+      "start": 3239.24,
+      "end": 3242.92,
+      "text": "are met. It is a universally presenting"
+    },
+    {
+      "i": 486,
+      "start": 3243.16,
+      "end": 3250.64,
+      "text": "and standing truth about that. Nyani becomes the Yana Shanti"
+    },
+    {
+      "i": 487,
+      "start": 3250.72,
+      "end": 3253.0,
+      "text": "relationship. The relationship between the"
+    },
+    {
+      "i": 488,
+      "start": 3253.0,
+      "end": 3255.0,
+      "text": "Nyan and the Shanti is 1 and the same."
+    },
+    {
+      "i": 489,
+      "start": 3262.53,
+      "end": 3270.09,
+      "text": "So the Shraddha, the three qualifications here, it is as"
+    },
+    {
+      "i": 490,
+      "start": 3270.65,
+      "end": 3276.01,
+      "text": "sub equivalent to the Sadhana Chaturstaya, the shraddha one"
+    },
+    {
+      "i": 491,
+      "start": 3277.21,
+      "end": 3284.88,
+      "text": "and then what we call it as Satparaha and samyat andriya is"
+    },
+    {
+      "i": 492,
+      "start": 3284.88,
+      "end": 3288.92,
+      "text": "equal to viveka, vairagya, satsambati and mumukshutta of"
+    },
+    {
+      "i": 493,
+      "start": 3288.92,
+      "end": 3294.64,
+      "text": "the sadhana chaturstay. They are not additional"
+    },
+    {
+      "i": 494,
+      "start": 3294.64,
+      "end": 3298.72,
+      "text": "requirements beyond the sadhana Chaturstaya, but the sadhana"
+    },
+    {
+      "i": 495,
+      "start": 3298.72,
+      "end": 3304.08,
+      "text": "Chaturstaya seen from a specific angle of nyana receptivity."
+    },
+    {
+      "i": 496,
+      "start": 3305.96,
+      "end": 3311.2,
+      "text": "The Sadhana chadrasya properties are mostly directly relevant to"
+    },
+    {
+      "i": 497,
+      "start": 3311.28,
+      "end": 3320.24,
+      "text": "an arising satvatnyana, and here it is the final moments of"
+    },
+    {
+      "i": 498,
+      "start": 3321.04,
+      "end": 3328.16,
+      "text": "satvatnyana's arising. The para Shanti has the positive"
+    },
+    {
+      "i": 499,
+      "start": 3328.16,
+      "end": 3334.4,
+      "text": "content napular mohab equivalent to that now over the Navidya."
+    },
+    {
+      "i": 500,
+      "start": 3337.6,
+      "end": 3345.44,
+      "text": "Therefore, the param Shanti adigachati is a positive"
+    },
+    {
+      "i": 501,
+      "start": 3345.44,
+      "end": 3352.88,
+      "text": "description of the same Jeevan Mukti Parashanti is not merely"
+    },
+    {
+      "i": 502,
+      "start": 3352.88,
+      "end": 3357.08,
+      "text": "the absence of agitation which we are."
+    },
+    {
+      "i": 503,
+      "start": 3357.28,
+      "end": 3362.12,
+      "text": "Shanti means without agitation. We think that way which would"
+    },
+    {
+      "i": 504,
+      "start": 3362.12,
+      "end": 3365.28,
+      "text": "have otherwise said that Sthama, dhama etc."
+    },
+    {
+      "i": 505,
+      "start": 3365.96,
+      "end": 3369.52,
+      "text": "But Shanti is a positive recognition of Atman or"
+    },
+    {
+      "i": 506,
+      "start": 3369.52,
+      "end": 3378.44,
+      "text": "Brahman's own Subhava Shanda Swaroopa or the Sachid Ananda"
+    },
+    {
+      "i": 507,
+      "start": 3378.44,
+      "end": 3383.0,
+      "text": "Ananda experienced as infinite unconditional self-sustaining"
+    },
+    {
+      "i": 508,
+      "start": 3383.4,
+      "end": 3388.76,
+      "text": "peace. This is the full positive"
+    },
+    {
+      "i": 509,
+      "start": 3388.76,
+      "end": 3397.84,
+      "text": "content, content which is earlier referred as Kunar,"
+    },
+    {
+      "i": 510,
+      "start": 3397.84,
+      "end": 3406.92,
+      "text": "Moham, Mimokshase etcetera. Not merely freedom from Moha but"
+    },
+    {
+      "i": 511,
+      "start": 3406.92,
+      "end": 3410.84,
+      "text": "the positive abundance in the Brahman's Swarupa as Shanti"
+    },
+    {
+      "i": 512,
+      "start": 3410.84,
+      "end": 3420.38,
+      "text": "Swarupa. This verse complete the Adhikari"
+    },
+    {
+      "i": 513,
+      "start": 3420.8,
+      "end": 3424.68,
+      "text": "or Adhikara portrait of the eligible Nyana seeker."
+    },
+    {
+      "i": 514,
+      "start": 3426.36,
+      "end": 3434.16,
+      "text": "What is the fruit of success? Also Parasanti Madhikachiti."
+    },
+    {
+      "i": 515,
+      "start": 3437.4,
+      "end": 3443.0,
+      "text": "Now the 4th chapter now moves toward the closing of the"
+    },
+    {
+      "i": 516,
+      "start": 3443.0,
+      "end": 3447.2,
+      "text": "characteristics. What happens if you don't have"
+    },
+    {
+      "i": 517,
+      "start": 3447.2,
+      "end": 3450.72,
+      "text": "Shraddha? What you don't have the, you"
+    },
+    {
+      "i": 518,
+      "start": 3452.0,
+      "end": 3456.96,
+      "text": "know, samyama? Or for controlling the sense"
+    },
+    {
+      "i": 519,
+      "start": 3456.96,
+      "end": 3465.76,
+      "text": "organs, etc. This opposite of this verse is"
+    },
+    {
+      "i": 520,
+      "start": 3465.76,
+      "end": 3467.76,
+      "text": "what is being discussed in the next one."
+    },
+    {
+      "i": 521,
+      "start": 3470.92,
+      "end": 3473.2,
+      "text": "The bhashya says Sadhavan Sadhalu."
+    },
+    {
+      "i": 522,
+      "start": 3473.32,
+      "end": 3478.84,
+      "text": "The man who has faith labade attains nyanam knowledge Sadhalu"
+    },
+    {
+      "i": 523,
+      "start": 3478.84,
+      "end": 3484.16,
+      "text": "tu abhi even though he one has faced Khastit Mandaprastanha,"
+    },
+    {
+      "i": 524,
+      "start": 3485.2,
+      "end": 3490.96,
+      "text": "maybe indal. He is, you know, not committed"
+    },
+    {
+      "i": 525,
+      "start": 3492.28,
+      "end": 3494.16,
+      "text": "ataha. Therefore, the Lord says"
+    },
+    {
+      "i": 526,
+      "start": 3494.16,
+      "end": 3499.52,
+      "text": "tatparaha, who is diligent Guru prasade prasadhan adhu"
+    },
+    {
+      "i": 527,
+      "start": 3499.6,
+      "end": 3504.96,
+      "text": "abhiyuktah steadfast in the service of the teacher Nana"
+    },
+    {
+      "i": 528,
+      "start": 3504.96,
+      "end": 3510.36,
+      "text": "labdhupaye sardawa, which are the means of attaining knowledge"
+    },
+    {
+      "i": 529,
+      "start": 3511.4,
+      "end": 3518.6,
+      "text": "satparaha abhi ajithe adhi API ajithendriyaha syad ichthataha."
+    },
+    {
+      "i": 530,
+      "start": 3519.44,
+      "end": 3524.32,
+      "text": "Even when one has faith and is diligent, one may not have"
+    },
+    {
+      "i": 531,
+      "start": 3524.32,
+      "end": 3528.96,
+      "text": "control over the sense organs. Therefore, aha."
+    },
+    {
+      "i": 532,
+      "start": 3530.08,
+      "end": 3534.84,
+      "text": "Hence the Lord says Samyatheendriya to one leading"
+    },
+    {
+      "i": 533,
+      "start": 3534.84,
+      "end": 3538.68,
+      "text": "to another Sadda leading to tatpara Santara leading to"
+    },
+    {
+      "i": 534,
+      "start": 3538.68,
+      "end": 3543.04,
+      "text": "Samyendra Samyathani Vishyebiyoho nivratithani S"
+    },
+    {
+      "i": 535,
+      "start": 3543.04,
+      "end": 3548.4,
+      "text": "hendryani Saha Samyathendriya. One who has control over the"
+    },
+    {
+      "i": 536,
+      "start": 3548.4,
+      "end": 3552.32,
+      "text": "sense organs. He who's in the organs have been"
+    },
+    {
+      "i": 537,
+      "start": 3552.32,
+      "end": 3554.56,
+      "text": "withdrawn Samyatha from the objects."
+    },
+    {
+      "i": 538,
+      "start": 3555.8,
+      "end": 3562.92,
+      "text": "Ya evam Buddha who he is such a person Sraddhavan full of faith"
+    },
+    {
+      "i": 539,
+      "start": 3563.16,
+      "end": 3567.68,
+      "text": "satparaha diligent samyathi indriyastha has the control over"
+    },
+    {
+      "i": 540,
+      "start": 3567.68,
+      "end": 3573.6,
+      "text": "the sense organs awashim pyanam lavadei He definitely attains"
+    },
+    {
+      "i": 541,
+      "start": 3573.6,
+      "end": 3579.92,
+      "text": "the knowledge Pranipada dishu brahmot anayikantika to API"
+    },
+    {
+      "i": 542,
+      "start": 3579.92,
+      "end": 3583.76,
+      "text": "bhavati. However, that pranipada"
+    },
+    {
+      "i": 543,
+      "start": 3583.76,
+      "end": 3588.32,
+      "text": "prostrations etcetera which are external are not invariably"
+    },
+    {
+      "i": 544,
+      "start": 3588.32,
+      "end": 3594.04,
+      "text": "fruitful. Reason Maya vittuadhi sambhava"
+    },
+    {
+      "i": 545,
+      "start": 3594.04,
+      "end": 3598.8,
+      "text": "sammathya vittuadhi sambhava for there is a scope of, you know,"
+    },
+    {
+      "i": 546,
+      "start": 3599.88,
+      "end": 3608.92,
+      "text": "dissimulation of faith etcetera. Natutat siddhavantha adhu yayana"
+    },
+    {
+      "i": 547,
+      "start": 3608.92,
+      "end": 3612.88,
+      "text": "labdubaya. But this is not so in the case"
+    },
+    {
+      "i": 548,
+      "start": 3612.88,
+      "end": 3619.76,
+      "text": "of 1 possessing the sraddha. Hence, they are the unfailing"
+    },
+    {
+      "i": 549,
+      "start": 3619.76,
+      "end": 3627.12,
+      "text": "means of acquiring knowledge. Yana laddi upaya acquiring means"
+    },
+    {
+      "i": 550,
+      "start": 3627.12,
+      "end": 3634.76,
+      "text": "of knowledge Kim punahat nyana labhat syat ichote Again, what"
+    },
+    {
+      "i": 551,
+      "start": 3634.76,
+      "end": 3637.48,
+      "text": "will result from gaining this knowledge?"
+    },
+    {
+      "i": 552,
+      "start": 3638.56,
+      "end": 3644.28,
+      "text": "This is being answered Naanam labdhua param or shakyam santim"
+    },
+    {
+      "i": 553,
+      "start": 3644.32,
+      "end": 3650.32,
+      "text": "uparathim achireyana shipra meva adigachi labdhua naanam."
+    },
+    {
+      "i": 554,
+      "start": 3650.52,
+      "end": 3655.0,
+      "text": "After having achieving that knowledge Adigachi 1 attains"
+    },
+    {
+      "i": 555,
+      "start": 3655.2,
+      "end": 3662.32,
+      "text": "achireyana soon Param Santi Supreme peace, supreme"
+    },
+    {
+      "i": 556,
+      "start": 3662.32,
+      "end": 3669.0,
+      "text": "detachment called liberation samit darsenath siprameva moksha"
+    },
+    {
+      "i": 557,
+      "start": 3669.64,
+      "end": 3674.12,
+      "text": "bhavati ETI sarvas sastra nyaya prasiddaha sunisthi taha"
+    },
+    {
+      "i": 558,
+      "start": 3674.12,
+      "end": 3678.36,
+      "text": "arthaha. That liberation soon follows"
+    },
+    {
+      "i": 559,
+      "start": 3678.36,
+      "end": 3682.48,
+      "text": "from full knowledge is a fact well ascertained from all the"
+    },
+    {
+      "i": 560,
+      "start": 3682.48,
+      "end": 3691.56,
+      "text": "scriptures and the reasoning. Now we will deal the opposite of"
+    },
+    {
+      "i": 561,
+      "start": 3691.68,
+      "end": 3695.48,
+      "text": "if you don't have Sradhatbara and some Indriya control keys."
+    },
+    {
+      "i": 562,
+      "start": 3695.48,
+      "end": 3697.44,
+      "text": "Not possible. What will happen to such a"
+    },
+    {
+      "i": 563,
+      "start": 3697.44,
+      "end": 3700.92,
+      "text": "person? He's explained in the next"
+    },
+    {
+      "i": 564,
+      "start": 3700.92,
+      "end": 3706.72,
+      "text": "verse, which is the 40th verse, which we'll see tomorrow."
+    },
+    {
+      "i": 565,
+      "start": 3727.92,
+      "end": 3738.9,
+      "text": "Thank you, Daniel Prakash, you're muted."
+    },
+    {
+      "i": 566,
+      "start": 3754.36,
+      "end": 3756.64,
+      "text": "If you are saying anything Prakash, you are muted."
+    },
+    {
+      "i": 567,
+      "start": 3756.76,
+      "end": 3760.12,
+      "text": "That's why your mic is showing as muted."
+    },
+    {
+      "i": 568,
+      "start": 3775.63,
+      "end": 3782.87,
+      "text": "The hand raising is open. If anybody has any question or"
+    },
+    {
+      "i": 569,
+      "start": 3782.87,
+      "end": 3785.11,
+      "text": "anything doubt to be clarified, please come up."
+    },
+    {
+      "i": 570,
+      "start": 3806.12,
+      "end": 3812.36,
+      "text": "A couple of things I wanted to check is with this statements"
+    },
+    {
+      "i": 571,
+      "start": 3812.36,
+      "end": 3817.76,
+      "text": "like nahi Gyan, sadhusham, pavitra, mihavidyate, isn't"
+    },
+    {
+      "i": 572,
+      "start": 3817.76,
+      "end": 3821.92,
+      "text": "there a clear distinguish distinguish drawn between nyana"
+    },
+    {
+      "i": 573,
+      "start": 3821.92,
+      "end": 3823.96,
+      "text": "and something other than nyana here?"
+    },
+    {
+      "i": 574,
+      "start": 3824.64,
+      "end": 3827.24,
+      "text": "Shouldn't it be looked at like that?"
+    },
+    {
+      "i": 575,
+      "start": 3828.28,
+      "end": 3833.84,
+      "text": "Yeah, it is very clear the only pyana can remove the agnyana and"
+    },
+    {
+      "i": 576,
+      "start": 3833.84,
+      "end": 3839.16,
+      "text": "agnyana is the reason for all karma and the related problems."
+    },
+    {
+      "i": 577,
+      "start": 3840.44,
+      "end": 3847.56,
+      "text": "Therefore, the only thing which can redeem you from your, you"
+    },
+    {
+      "i": 578,
+      "start": 3847.56,
+      "end": 3854.28,
+      "text": "know, wrongdoings and problems of life is to get rid of the"
+    },
+    {
+      "i": 579,
+      "start": 3854.28,
+      "end": 3858.84,
+      "text": "ignorance and that can be done only through that is."
+    },
+    {
+      "i": 580,
+      "start": 3858.84,
+      "end": 3864.36,
+      "text": "Why then? Then this distinguishing of"
+    },
+    {
+      "i": 581,
+      "start": 3864.36,
+      "end": 3868.04,
+      "text": "things which are not pavitra will will it be there for a"
+    },
+    {
+      "i": 582,
+      "start": 3868.04,
+      "end": 3871.76,
+      "text": "gyani also or for him it doesn't exist?"
+    },
+    {
+      "i": 583,
+      "start": 3872.72,
+      "end": 3878.32,
+      "text": "For him, for a Gyani, it doesn't exist, because for him it is a"
+    },
+    {
+      "i": 584,
+      "start": 3878.32,
+      "end": 3881.16,
+      "text": "dagdat. Dagdat, you know, dagdab each."
+    },
+    {
+      "i": 585,
+      "start": 3885.0,
+      "end": 3887.76,
+      "text": "Yeah. So, so this param Shanti kind of"
+    },
+    {
+      "i": 586,
+      "start": 3887.76,
+      "end": 3895.52,
+      "text": "thing when it is attained because this if we say that"
+    },
+    {
+      "i": 587,
+      "start": 3897.44,
+      "end": 3901.8,
+      "text": "Ghani is not performing any action or he's always in that"
+    },
+    {
+      "i": 588,
+      "start": 3901.8,
+      "end": 3904.68,
+      "text": "Shanti state, then that is one way of saying."
+    },
+    {
+      "i": 589,
+      "start": 3904.68,
+      "end": 3907.92,
+      "text": "But other way, other way, when we say that the action continues"
+    },
+    {
+      "i": 590,
+      "start": 3907.92,
+      "end": 3911.6,
+      "text": "or whatever Loka Sangraha or something, at that point in"
+    },
+    {
+      "i": 591,
+      "start": 3911.6,
+      "end": 3915.32,
+      "text": "those things doesn't the distinguishing exist is the"
+    },
+    {
+      "i": 592,
+      "start": 3915.48,
+      "end": 3918.68,
+      "text": "case? No distinguishing excitement he"
+    },
+    {
+      "i": 593,
+      "start": 3918.68,
+      "end": 3927.44,
+      "text": "heed see The thing is that he he will be seeing acting from our"
+    },
+    {
+      "i": 594,
+      "start": 3927.44,
+      "end": 3934.32,
+      "text": "point of view from others point of view but from his actor"
+    },
+    {
+      "i": 595,
+      "start": 3934.32,
+      "end": 3939.36,
+      "text": "approach and his internal established knowledge is that"
+    },
+    {
+      "i": 596,
+      "start": 3939.4,
+      "end": 3943.28,
+      "text": "Sarvam is Brahman. For him it is seeing everything"
+    },
+    {
+      "i": 597,
+      "start": 3943.28,
+      "end": 3946.48,
+      "text": "he see. See for example if I to tell"
+    },
+    {
+      "i": 598,
+      "start": 3946.48,
+      "end": 3956.64,
+      "text": "that knowing that everything is in space, using space and having"
+    },
+    {
+      "i": 599,
+      "start": 3958.24,
+      "end": 3964.12,
+      "text": "dependency on the space doesn't change us interacting with the"
+    },
+    {
+      "i": 600,
+      "start": 3964.12,
+      "end": 3970.88,
+      "text": "objects including us. We are using space for our own"
+    },
+    {
+      "i": 601,
+      "start": 3970.88,
+      "end": 3976.88,
+      "text": "existence. But when it is known that it is"
+    },
+    {
+      "i": 602,
+      "start": 3976.88,
+      "end": 3982.76,
+      "text": "the consciousness of Satchidanand awareness in which"
+    },
+    {
+      "i": 603,
+      "start": 3982.76,
+      "end": 3988.92,
+      "text": "even the space is existing, the existence itself is what is"
+    },
+    {
+      "i": 604,
+      "start": 3988.92,
+      "end": 3996.2,
+      "text": "being referred to. Therefore the the aspect of"
+    },
+    {
+      "i": 605,
+      "start": 3997.04,
+      "end": 4007.44,
+      "text": "seeing something within within that will not make the person"
+    },
+    {
+      "i": 606,
+      "start": 4008.88,
+      "end": 4014.6,
+      "text": "behave differently for him. That separatedness has gone the"
+    },
+    {
+      "i": 607,
+      "start": 4014.64,
+      "end": 4022.32,
+      "text": "Indi, the separated entities may be seen, but he knows that they"
+    },
+    {
+      "i": 608,
+      "start": 4022.32,
+      "end": 4026.52,
+      "text": "are all nothing but space, which is being occupied by the tree,"
+    },
+    {
+      "i": 609,
+      "start": 4026.52,
+      "end": 4029.8,
+      "text": "also occupied the space. The dog also occupied the space,"
+    },
+    {
+      "i": 610,
+      "start": 4029.8,
+      "end": 4031.88,
+      "text": "or the baramana also occupied the space."
+    },
+    {
+      "i": 611,
+      "start": 4032.6,
+      "end": 4036.44,
+      "text": "But from a Tani's point of view, everything is nothing but"
+    },
+    {
+      "i": 612,
+      "start": 4036.44,
+      "end": 4040.12,
+      "text": "Sachizananda. So he will see the snake, he"
+    },
+    {
+      "i": 613,
+      "start": 4040.12,
+      "end": 4043.36,
+      "text": "will see the dog, he will see the tree, he will see the"
+    },
+    {
+      "i": 614,
+      "start": 4043.36,
+      "end": 4046.92,
+      "text": "baramana L us what we are also seeing."
+    },
+    {
+      "i": 615,
+      "start": 4047.96,
+      "end": 4053.28,
+      "text": "But his knowledge that it is not a Brahmana or it is not a dog,"
+    },
+    {
+      "i": 616,
+      "start": 4053.28,
+      "end": 4055.2,
+      "text": "it is not this thing, it is not like that."
+    },
+    {
+      "i": 617,
+      "start": 4055.8,
+      "end": 4058.84,
+      "text": "He knows that the dog is also Brahman."
+    },
+    {
+      "i": 618,
+      "start": 4059.12,
+      "end": 4063.68,
+      "text": "The Brahmana is also Brahman, the tree is also Brahman and the"
+    },
+    {
+      "i": 619,
+      "start": 4063.72,
+      "end": 4070.12,
+      "text": "snake is also Brahman. Doesn't make that the snake will"
+    },
+    {
+      "i": 620,
+      "start": 4070.12,
+      "end": 4075.16,
+      "text": "bite me and you know, therefore it is Brahman."
+    },
+    {
+      "i": 621,
+      "start": 4075.16,
+      "end": 4081.96,
+      "text": "So it doesn't matter. No, he won't do that way that he"
+    },
+    {
+      "i": 622,
+      "start": 4081.96,
+      "end": 4085.92,
+      "text": "knows these things are operational at the Vyavaharika"
+    },
+    {
+      "i": 623,
+      "start": 4085.92,
+      "end": 4090.0,
+      "text": "level and that Vyavaharika level importance is only what it is"
+    },
+    {
+      "i": 624,
+      "start": 4090.0,
+      "end": 4093.44,
+      "text": "got and it will continue to be in the Vyavaharika."
+    },
+    {
+      "i": 625,
+      "start": 4093.44,
+      "end": 4097.0,
+      "text": "You have to be a Vaharika first, but the knowledge that"
+    },
+    {
+      "i": 626,
+      "start": 4097.76,
+      "end": 4104.64,
+      "text": "everything is in Vyavahara because of the substratum of the"
+    },
+    {
+      "i": 627,
+      "start": 4104.64,
+      "end": 4109.64,
+      "text": "Sachidananda in which the Vaivahara is appearing is the"
+    },
+    {
+      "i": 628,
+      "start": 4109.64,
+      "end": 4114.92,
+      "text": "knowledge of the Pyani. Yes, yes, that is"
+    },
+    {
+      "i": 629,
+      "start": 4114.92,
+      "end": 4118.04,
+      "text": "understandable. But is he even able to see the"
+    },
+    {
+      "i": 630,
+      "start": 4118.04,
+      "end": 4121.319,
+      "text": "Vyavahara and Paramartha distinguishin or because he's"
+    },
+    {
+      "i": 631,
+      "start": 4121.319,
+      "end": 4124.72,
+      "text": "able to do boda right for a different levels of Adikaris,"
+    },
+    {
+      "i": 632,
+      "start": 4124.72,
+      "end": 4127.88,
+      "text": "he's able to give different levels of techniques or"
+    },
+    {
+      "i": 633,
+      "start": 4127.88,
+      "end": 4129.12,
+      "text": "teachings. So."
+    },
+    {
+      "i": 634,
+      "start": 4129.2,
+      "end": 4132.399,
+      "text": "So that means he can distinguish between Vyavahara and"
+    },
+    {
+      "i": 635,
+      "start": 4132.399,
+      "end": 4136.6,
+      "text": "Paramartha, right? He has said the knowledge, that"
+    },
+    {
+      "i": 636,
+      "start": 4136.6,
+      "end": 4144.72,
+      "text": "is why he is a Piani. He sees the Paramartha."
+    },
+    {
+      "i": 637,
+      "start": 4144.72,
+      "end": 4149.88,
+      "text": "No, he knows the Paramartha. He knows that as his own nature"
+    },
+    {
+      "i": 638,
+      "start": 4150.16,
+      "end": 4152.96,
+      "text": "and the nature of everything, what is there in the Vaahara?"
+    },
+    {
+      "i": 639,
+      "start": 4153.72,
+      "end": 4160.24,
+      "text": "But Vaahara is not real. It is a what you call appearance"
+    },
+    {
+      "i": 640,
+      "start": 4160.24,
+      "end": 4163.88,
+      "text": "in the Sachidananda or the consciousness."
+    },
+    {
+      "i": 641,
+      "start": 4164.84,
+      "end": 4168.319,
+      "text": "See the problem is that for the when we use the word, it is not"
+    },
+    {
+      "i": 642,
+      "start": 4168.319,
+      "end": 4171.479,
+      "text": "real. It is appearing as in this thing"
+    },
+    {
+      "i": 643,
+      "start": 4171.8,
+      "end": 4176.0,
+      "text": "we are immediately thinking like a cloud or something which is"
+    },
+    {
+      "i": 644,
+      "start": 4176.08,
+      "end": 4179.439,
+      "text": "intangible or you know, non accessible."
+    },
+    {
+      "i": 645,
+      "start": 4179.8,
+      "end": 4186.8,
+      "text": "It is not that way when it is said that the Yawahara is"
+    },
+    {
+      "i": 646,
+      "start": 4187.04,
+      "end": 4191.88,
+      "text": "unreal. It is unreal means it has a"
+    },
+    {
+      "i": 647,
+      "start": 4191.88,
+      "end": 4195.4,
+      "text": "dependency on something for its own existence."
+    },
+    {
+      "i": 648,
+      "start": 4197.08,
+      "end": 4201.08,
+      "text": "For example, a chair. When I am saying the chair is"
+    },
+    {
+      "i": 649,
+      "start": 4201.08,
+      "end": 4207.64,
+      "text": "not real, the wood is real does not mean that the chair is not"
+    },
+    {
+      "i": 650,
+      "start": 4207.64,
+      "end": 4211.4,
+      "text": "wood. I know the chair is wood and the"
+    },
+    {
+      "i": 651,
+      "start": 4211.4,
+      "end": 4215.48,
+      "text": "wood is the reason why the chair has got a shape and it is got a"
+    },
+    {
+      "i": 652,
+      "start": 4215.48,
+      "end": 4220.8,
+      "text": "transactional value which is called the Vyavahara, right?"
+    },
+    {
+      "i": 653,
+      "start": 4221.76,
+      "end": 4231.72,
+      "text": "What happens is that when it is being told that the chair and"
+    },
+    {
+      "i": 654,
+      "start": 4231.72,
+      "end": 4238.16,
+      "text": "the tree are not different, they both are wood, doesn't mean that"
+    },
+    {
+      "i": 655,
+      "start": 4238.16,
+      "end": 4241.96,
+      "text": "I can go and sit on a tree like I sit on a chair."
+    },
+    {
+      "i": 656,
+      "start": 4243.76,
+      "end": 4247.24,
+      "text": "That distinction between the tree and the chair, even though"
+    },
+    {
+      "i": 657,
+      "start": 4247.24,
+      "end": 4251.56,
+      "text": "both are made of wood, is transactionally accepted by"
+    },
+    {
+      "i": 658,
+      "start": 4251.56,
+      "end": 4254.72,
+      "text": "that. But he knows the reality that"
+    },
+    {
+      "i": 659,
+      "start": 4255.16,
+      "end": 4259.12,
+      "text": "the dependency of the chair is also on the tree and the trees"
+    },
+    {
+      "i": 660,
+      "start": 4259.12,
+      "end": 4261.36,
+      "text": "on existence is also on the tree."
+    },
+    {
+      "i": 661,
+      "start": 4261.36,
+      "end": 4268.2,
+      "text": "Only by the existence as a tree. That is what is the what you"
+    },
+    {
+      "i": 662,
+      "start": 4268.2,
+      "end": 4271.0,
+      "text": "call knowledge, what will be is there in that Nani."
+    },
+    {
+      "i": 663,
+      "start": 4271.8,
+      "end": 4275.48,
+      "text": "So he knows that the consciousness, the Satyasana,"
+    },
+    {
+      "i": 664,
+      "start": 4275.48,
+      "end": 4281.08,
+      "text": "the Brahma, is the reality for the entire transaction, and the"
+    },
+    {
+      "i": 665,
+      "start": 4281.08,
+      "end": 4284.32,
+      "text": "transaction will continue to happen in the way in which it is"
+    },
+    {
+      "i": 666,
+      "start": 4284.32,
+      "end": 4288.36,
+      "text": "happening now. But they have a dependency on"
+    },
+    {
+      "i": 667,
+      "start": 4288.36,
+      "end": 4291.76,
+      "text": "Atman or Brahman for their own existence."
+    },
+    {
+      "i": 668,
+      "start": 4295.48,
+      "end": 4298.32,
+      "text": "And one more thing like when we say he is Sothriya and"
+    },
+    {
+      "i": 669,
+      "start": 4298.32,
+      "end": 4301.72,
+      "text": "Brahmanistha, right? So Brahmanistha can be"
+    },
+    {
+      "i": 670,
+      "start": 4301.72,
+      "end": 4306.68,
+      "text": "understood as a that param Shanti or the Nyana state or"
+    },
+    {
+      "i": 671,
+      "start": 4306.68,
+      "end": 4309.72,
+      "text": "something like that. And Sothriya is nothing but the"
+    },
+    {
+      "i": 672,
+      "start": 4309.76,
+      "end": 4311.88,
+      "text": "Vyaharika state only, right? So."
+    },
+    {
+      "i": 673,
+      "start": 4312.72,
+      "end": 4316.2,
+      "text": "Sothriya is the Vyaharika state. Yeah, he knows the word shastra"
+    },
+    {
+      "i": 674,
+      "start": 4316.2,
+      "end": 4321.28,
+      "text": "and the Sastriya mantras and the meaning."
+    },
+    {
+      "i": 675,
+      "start": 4321.76,
+      "end": 4325.48,
+      "text": "He is able to like operate 2 vehicles at a time, something"
+    },
+    {
+      "i": 676,
+      "start": 4325.48,
+      "end": 4327.36,
+      "text": "like that right? Because."
+    },
+    {
+      "i": 677,
+      "start": 4328.88,
+      "end": 4330.04,
+      "text": "That is what I was saying. So."
+    },
+    {
+      "i": 678,
+      "start": 4330.28,
+      "end": 4337.56,
+      "text": "So when we say we are essentially comparing something"
+    },
+    {
+      "i": 679,
+      "start": 4337.56,
+      "end": 4340.28,
+      "text": "like Srothriya and Brahmanistha, right?"
+    },
+    {
+      "i": 680,
+      "start": 4340.48,
+      "end": 4343.92,
+      "text": "Like reality and Paramatika reality, right?"
+    },
+    {
+      "i": 681,
+      "start": 4344.48,
+      "end": 4345.6,
+      "text": "Right. So."
+    },
+    {
+      "i": 682,
+      "start": 4345.6,
+      "end": 4352.84,
+      "text": "Because. Yeah."
+    },
+    {
+      "i": 683,
+      "start": 4353.52,
+      "end": 4359.04,
+      "text": "Yeah, correct. Right in the Paramartha there is"
+    },
+    {
+      "i": 684,
+      "start": 4359.04,
+      "end": 4363.04,
+      "text": "no soth Sastra, no Brahma with or nothing."
+    },
+    {
+      "i": 685,
+      "start": 4363.04,
+      "end": 4365.32,
+      "text": "It is only. All that is, is Brahman only."
+    },
+    {
+      "i": 686,
+      "start": 4365.96,
+      "end": 4369.76,
+      "text": "Yeah, got it, Bindaji. Thank you."
+    },
+    {
+      "i": 687,
+      "start": 4375.32,
+      "end": 4388.04,
+      "text": "Namaste, yash, namaste. Anybody else?"
+    },
+    {
+      "i": 688,
+      "start": 4388.44,
+      "end": 4393.36,
+      "text": "Prakash, you're able to talk? Yes, Yeah."
+    },
+    {
+      "i": 689,
+      "start": 4393.44,
+      "end": 4396.56,
+      "text": "Yes, I was frozen for a bit. Yes, I'm OK now."
+    },
+    {
+      "i": 690,
+      "start": 4396.56,
+      "end": 4405.6,
+      "text": "Yeah, yeah, froze up. So this here the qualification"
+    },
+    {
+      "i": 691,
+      "start": 4405.6,
+      "end": 4414.08,
+      "text": "of Shraddha is the shraddha of the mamokshu right Mamokshu."
+    },
+    {
+      "i": 692,
+      "start": 4414.6,
+      "end": 4422.76,
+      "text": "Yes, Mamokshu. Mamokshu is the one who has the"
+    },
+    {
+      "i": 693,
+      "start": 4422.76,
+      "end": 4426.12,
+      "text": "need for Shraddha. Nyani doesn't need Shraddha"
+    },
+    {
+      "i": 694,
+      "start": 4426.16,
+      "end": 4429.68,
+      "text": "because he has crossed over. Yes."
+    },
+    {
+      "i": 695,
+      "start": 4444.08,
+      "end": 4449.32,
+      "text": "One quick thing, Bindaji in this Mumukshu and Shraddha area."
+    },
+    {
+      "i": 696,
+      "start": 4449.76,
+      "end": 4453.4,
+      "text": "So now once there is a categorization of Yavahara and"
+    },
+    {
+      "i": 697,
+      "start": 4453.4,
+      "end": 4457.68,
+      "text": "Paramarada, can we say that the Yavahara itself is again the"
+    },
+    {
+      "i": 698,
+      "start": 4457.68,
+      "end": 4461.8,
+      "text": "Adhikari and Beda is coming only because in Vyavahara there are"
+    },
+    {
+      "i": 699,
+      "start": 4461.8,
+      "end": 4463.4,
+      "text": "some other categorizations, right?"
+    },
+    {
+      "i": 700,
+      "start": 4463.4,
+      "end": 4466.88,
+      "text": "Like some might have Shradha, some might not have Shradha,"
+    },
+    {
+      "i": 701,
+      "start": 4467.16,
+      "end": 4468.96,
+      "text": "some might be Mumukhshu, some might."
+    },
+    {
+      "i": 702,
+      "start": 4469.0,
+      "end": 4472.8,
+      "text": "So different ways where, where to start the journey that"
+    },
+    {
+      "i": 703,
+      "start": 4472.8,
+      "end": 4475.64,
+      "text": "differences come. So all those classification, so"
+    },
+    {
+      "i": 704,
+      "start": 4475.64,
+      "end": 4479.04,
+      "text": "Vyavahara itself will be classified into some other"
+    },
+    {
+      "i": 705,
+      "start": 4479.64,
+      "end": 4484.44,
+      "text": "multiple brackets or something. Is that the right way to think"
+    },
+    {
+      "i": 706,
+      "start": 4484.44,
+      "end": 4485.92,
+      "text": "of it? Yeah, some."
+    },
+    {
+      "i": 707,
+      "start": 4486.16,
+      "end": 4489.04,
+      "text": "You see, all these things are from the Vyavaharika point of"
+    },
+    {
+      "i": 708,
+      "start": 4489.16,
+      "end": 4495.52,
+      "text": "view. In the this adigari adigari"
+    },
+    {
+      "i": 709,
+      "start": 4495.52,
+      "end": 4499.28,
+      "text": "levels, everything is from the point of view of Vaibhavara"
+    },
+    {
+      "i": 710,
+      "start": 4499.28,
+      "end": 4501.8,
+      "text": "only. You know, once you have achieved"
+    },
+    {
+      "i": 711,
+      "start": 4501.8,
+      "end": 4507.48,
+      "text": "Nyana, the truth is that everything is Sarvan Kaluidam"
+    },
+    {
+      "i": 712,
+      "start": 4507.48,
+      "end": 4510.56,
+      "text": "Brahma. The Sarvam is there."
+    },
+    {
+      "i": 713,
+      "start": 4510.56,
+      "end": 4513.32,
+      "text": "That is why Sarvan Kaluidam Brahma is being told."
+    },
+    {
+      "i": 714,
+      "start": 4514.08,
+      "end": 4517.56,
+      "text": "The Sarvam is dependent on Brahma."
+    },
+    {
+      "i": 715,
+      "start": 4517.56,
+      "end": 4519.24,
+      "text": "Therefore Sarvan kaluidam Brahma."
+    },
+    {
+      "i": 716,
+      "start": 4521.0,
+      "end": 4526.76,
+      "text": "If the space is removed, can you show me one object without"
+    },
+    {
+      "i": 717,
+      "start": 4526.76,
+      "end": 4531.12,
+      "text": "space? Requirement of space no same way"
+    },
+    {
+      "i": 718,
+      "start": 4532.96,
+      "end": 4537.32,
+      "text": "without Sachit ananda. Thus, existence, consciousness"
+    },
+    {
+      "i": 719,
+      "start": 4537.32,
+      "end": 4544.84,
+      "text": "and bliss aspect of the nature, you can't even say an object"
+    },
+    {
+      "i": 720,
+      "start": 4544.84,
+      "end": 4547.88,
+      "text": "because there is no objectifiable thing there at"
+    },
+    {
+      "i": 721,
+      "start": 4547.88,
+      "end": 4549.88,
+      "text": "that time. Even though we call it as"
+    },
+    {
+      "i": 722,
+      "start": 4549.88,
+      "end": 4553.48,
+      "text": "Vastrutandra at that level, that is only one."
+    },
+    {
+      "i": 723,
+      "start": 4553.48,
+      "end": 4555.44,
+      "text": "Then you don't call it as a Vastrutandra."
+    },
+    {
+      "i": 724,
+      "start": 4556.72,
+      "end": 4562.6,
+      "text": "And then then what you have to say is that you have to accept"
+    },
+    {
+      "i": 725,
+      "start": 4562.6,
+      "end": 4565.96,
+      "text": "it. Is that as a what the what you"
+    },
+    {
+      "i": 726,
+      "start": 4565.96,
+      "end": 4568.36,
+      "text": "call transactional thing? Can you Please wait?"
+    },
+    {
+      "i": 727,
+      "start": 4569.16,
+      "end": 4572.84,
+      "text": "Can you please skip? Is there any astrologer here?"
+    },
+    {
+      "i": 728,
+      "start": 4581.86,
+      "end": 4584.5,
+      "text": "This is not a place for astrology Monika."
+    },
+    {
+      "i": 729,
+      "start": 4585.1,
+      "end": 4586.5,
+      "text": "That is some other room here to go."
+    },
+    {
+      "i": 730,
+      "start": 4586.62,
+      "end": 4588.14,
+      "text": "Here we are talking about Advaita."
+    },
+    {
+      "i": 731,
+      "start": 4589.58,
+      "end": 4593.62,
+      "text": "So this requirement of this Vyavahara, everything is in"
+    },
+    {
+      "i": 732,
+      "start": 4593.66,
+      "end": 4597.78,
+      "text": "Vyavahara and then Vyavahara only the Adhikara difference is"
+    },
+    {
+      "i": 733,
+      "start": 4597.78,
+      "end": 4601.84,
+      "text": "Adhikari difference is there, that Nyana is there, the Sastra"
+    },
+    {
+      "i": 734,
+      "start": 4601.84,
+      "end": 4604.68,
+      "text": "is there, the Vedas are there, the Upanishads are there."
+    },
+    {
+      "i": 735,
+      "start": 4604.72,
+      "end": 4606.52,
+      "text": "Everything is from the Vahariya point."
+    },
+    {
+      "i": 736,
+      "start": 4607.12,
+      "end": 4611.76,
+      "text": "Therefore Vaibhara is true. It is not that it is true."
+    },
+    {
+      "i": 737,
+      "start": 4611.8,
+      "end": 4615.28,
+      "text": "The truth of the Vaibhara is the truth of the Brahman."
+    },
+    {
+      "i": 738,
+      "start": 4617.08,
+      "end": 4622.12,
+      "text": "But when we do not know the truth of Brahman, the Vaibhara"
+    },
+    {
+      "i": 739,
+      "start": 4622.8,
+      "end": 4626.6,
+      "text": "occupies an independent reality of its own."
+    },
+    {
+      "i": 740,
+      "start": 4627.56,
+      "end": 4631.24,
+      "text": "There is no independent reality other than there is only one"
+    },
+    {
+      "i": 741,
+      "start": 4631.24,
+      "end": 4636.84,
+      "text": "reality, that if it is understood and that transaction"
+    },
+    {
+      "i": 742,
+      "start": 4636.84,
+      "end": 4642.44,
+      "text": "is taken place, such a person has nothing to gain, nothing to"
+    },
+    {
+      "i": 743,
+      "start": 4642.44,
+      "end": 4645.52,
+      "text": "lose. He is, he is no more under the"
+    },
+    {
+      "i": 744,
+      "start": 4645.52,
+      "end": 4648.84,
+      "text": "clutches of the in in sense organs because he doesn't see"
+    },
+    {
+      "i": 745,
+      "start": 4648.84,
+      "end": 4651.88,
+      "text": "the otherness. He sees only that it is all"
+    },
+    {
+      "i": 746,
+      "start": 4651.88,
+      "end": 4655.08,
+      "text": "Brahman only appearing as a dramana."
+    },
+    {
+      "i": 747,
+      "start": 4655.08,
+      "end": 4659.88,
+      "text": "Next month or next chapter. It will come now Brahmana, suni"
+    },
+    {
+      "i": 748,
+      "start": 4659.88,
+      "end": 4662.84,
+      "text": "Jai, pashupa, Geeta, pantiza, some other Sinha, That mantra"
+    },
+    {
+      "i": 749,
+      "start": 4662.84,
+      "end": 4668.68,
+      "text": "will come, that Sloga will come. It shows that he his way in"
+    },
+    {
+      "i": 750,
+      "start": 4668.68,
+      "end": 4672.72,
+      "text": "which he sees that is that it is not doesn't mean that he sees a"
+    },
+    {
+      "i": 751,
+      "start": 4672.72,
+      "end": 4676.96,
+      "text": "brahmana and the dog in that the same way he knows the reality of"
+    },
+    {
+      "i": 752,
+      "start": 4676.96,
+      "end": 4680.48,
+      "text": "the brahmana, the reality of the dog, the reality of the Jandala."
+    },
+    {
+      "i": 753,
+      "start": 4680.88,
+      "end": 4684.44,
+      "text": "Everything is based on the reality, only one reality, and"
+    },
+    {
+      "i": 754,
+      "start": 4684.44,
+      "end": 4689.12,
+      "text": "that reality is. Yeah, yeah."
+    },
+    {
+      "i": 755,
+      "start": 4689.6,
+      "end": 4693.92,
+      "text": "So here when we say shradhwan labate gyanam, we can say that"
+    },
+    {
+      "i": 756,
+      "start": 4693.96,
+      "end": 4697.48,
+      "text": "Ashrad Dhawan na labate gyanam also right like."
+    },
+    {
+      "i": 757,
+      "start": 4697.52,
+      "end": 4700.04,
+      "text": "Yeah, that is next verse is next verse is that."
+    },
+    {
+      "i": 758,
+      "start": 4701.28,
+      "end": 4704.92,
+      "text": "So, so in that way, so within the Yaharika there are"
+    },
+    {
+      "i": 759,
+      "start": 4704.92,
+      "end": 4708.28,
+      "text": "bifurcations like someone with Shraddha without Shraddha."
+    },
+    {
+      "i": 760,
+      "start": 4708.28,
+      "end": 4712.32,
+      "text": "So and a person without Shraddha is very unlikely to understand"
+    },
+    {
+      "i": 761,
+      "start": 4712.32,
+      "end": 4715.8,
+      "text": "this concept of space or existence or these things,"
+    },
+    {
+      "i": 762,
+      "start": 4715.84,
+      "end": 4718.44,
+      "text": "right. So, so in Yaharika itself only"
+    },
+    {
+      "i": 763,
+      "start": 4718.44,
+      "end": 4722.68,
+      "text": "there are some levels to pass. And finally, when the Shraddha"
+    },
+    {
+      "i": 764,
+      "start": 4722.68,
+      "end": 4727.88,
+      "text": "and Mumuk Shatva come, then the nyana aspect can be realized"
+    },
+    {
+      "i": 765,
+      "start": 4727.88,
+      "end": 4729.04,
+      "text": "like that type. Of yes."
+    },
+    {
+      "i": 766,
+      "start": 4731.16,
+      "end": 4733.64,
+      "text": "Yeah, OK. Thank you, Vindaj."
+    },
+    {
+      "i": 767,
+      "start": 4734.04,
+      "end": 4735.04,
+      "text": "Beautiful session. Yeah."
+    },
+    {
+      "i": 768,
+      "start": 4736.32,
+      "end": 4738.92,
+      "text": "Thank you Srini. Namaste Rajesh."
+    },
+    {
+      "i": 769,
+      "start": 4743.72,
+      "end": 4745.28,
+      "text": "I have question about this levels."
+    },
+    {
+      "i": 770,
+      "start": 4745.6,
+      "end": 4750.4,
+      "text": "OK, so from to this Atma experience, so we have levels"
+    },
+    {
+      "i": 771,
+      "start": 4750.48,
+      "end": 4756.24,
+      "text": "right? Even in Advaita Veda level."
+    },
+    {
+      "i": 772,
+      "start": 4756.48,
+      "end": 4762.16,
+      "text": "What me what do you mean by level from from Rogharia to the"
+    },
+    {
+      "i": 773,
+      "start": 4762.16,
+      "end": 4766.56,
+      "text": "self realist? No Vyavahara is an aspect."
+    },
+    {
+      "i": 774,
+      "start": 4767.32,
+      "end": 4771.88,
+      "text": "It is not a level but in that Vyavahara you will say different"
+    },
+    {
+      "i": 775,
+      "start": 4771.88,
+      "end": 4777.12,
+      "text": "levels. We will say different level."
+    },
+    {
+      "i": 776,
+      "start": 4777.12,
+      "end": 4779.76,
+      "text": "Those who are totally not interested."
+    },
+    {
+      "i": 777,
+      "start": 4779.88,
+      "end": 4783.68,
+      "text": "Those people who are interested only in the, you know the"
+    },
+    {
+      "i": 778,
+      "start": 4783.68,
+      "end": 4786.56,
+      "text": "different eknyas which we said know Deva, Eknya, material"
+    },
+    {
+      "i": 779,
+      "start": 4786.56,
+      "end": 4791.12,
+      "text": "Eknya, all the type of people or different levels are there and"
+    },
+    {
+      "i": 780,
+      "start": 4792.24,
+      "end": 4795.92,
+      "text": "the one which is coming towards the knowledge, that is the time"
+    },
+    {
+      "i": 781,
+      "start": 4795.92,
+      "end": 4800.52,
+      "text": "when he realized that this all these levels are nothing but"
+    },
+    {
+      "i": 782,
+      "start": 4801.12,
+      "end": 4803.44,
+      "text": "attributions given depending upon the."
+    },
+    {
+      "i": 783,
+      "start": 4804.6,
+      "end": 4807.32,
+      "text": "Levels of ignorance, which one is holding on?"
+    },
+    {
+      "i": 784,
+      "start": 4807.96,
+      "end": 4810.4,
+      "text": "But all comes under the ignorant level."
+    },
+    {
+      "i": 785,
+      "start": 4811.24,
+      "end": 4816.68,
+      "text": "Even that Shravana manana nidyasana as a doer, I am doing"
+    },
+    {
+      "i": 786,
+      "start": 4816.68,
+      "end": 4821.4,
+      "text": "Shravana Manana Nidyasana as a doer ship is there that is also"
+    },
+    {
+      "i": 787,
+      "start": 4821.4,
+      "end": 4823.68,
+      "text": "under the ignorance or the vyahara only."
+    },
+    {
+      "i": 788,
+      "start": 4824.52,
+      "end": 4829.72,
+      "text": "But the moment that Nidyasana rectifies into Yanam labdua, the"
+    },
+    {
+      "i": 789,
+      "start": 4829.72,
+      "end": 4834.0,
+      "text": "moment that Nanam is considered, he knows that all these things"
+    },
+    {
+      "i": 790,
+      "start": 4834.0,
+      "end": 4836.12,
+      "text": "are due to I was doing, due to ignorance."
+    },
+    {
+      "i": 791,
+      "start": 4836.12,
+      "end": 4840.6,
+      "text": "I was Brahman always I was I always, always Atma."
+    },
+    {
+      "i": 792,
+      "start": 4840.88,
+      "end": 4846.48,
+      "text": "I never even when I was not doing this, the activities like"
+    },
+    {
+      "i": 793,
+      "start": 4846.48,
+      "end": 4851.4,
+      "text": "you know, studies or the Shravana manana yoga or all of"
+    },
+    {
+      "i": 794,
+      "start": 4851.4,
+      "end": 4855.88,
+      "text": "them that time also I was not knowing I was Atma, but I was"
+    },
+    {
+      "i": 795,
+      "start": 4855.88,
+      "end": 4860.24,
+      "text": "doing those things that knowledge when he shrines upon"
+    },
+    {
+      "i": 796,
+      "start": 4860.24,
+      "end": 4863.88,
+      "text": "you, then you have you have achieved your Shanti."
+    },
+    {
+      "i": 797,
+      "start": 4863.88,
+      "end": 4866.48,
+      "text": "You know you, you don't feel you know you are not."
+    },
+    {
+      "i": 798,
+      "start": 4867.16,
+      "end": 4872.16,
+      "text": "It is just like you know, looking back and ridiculing"
+    },
+    {
+      "i": 799,
+      "start": 4872.16,
+      "end": 4876.24,
+      "text": "ourself for our foolishness. It is that type."
+    },
+    {
+      "i": 800,
+      "start": 4880.56,
+      "end": 4883.8,
+      "text": "OK, OK, Bindaji, that's what I want."
+    },
+    {
+      "i": 801,
+      "start": 4883.8,
+      "end": 4886.52,
+      "text": "That's why that's why they call this Muksha and other things"
+    },
+    {
+      "i": 802,
+      "start": 4886.64,
+      "end": 4890.88,
+      "text": "until after realization. These are all not real."
+    },
+    {
+      "i": 803,
+      "start": 4891.68,
+      "end": 4894.04,
+      "text": "It never happened. He will understand."
+    },
+    {
+      "i": 804,
+      "start": 4894.84,
+      "end": 4896.48,
+      "text": "Yes, Sir. Exact."
+    },
+    {
+      "i": 805,
+      "start": 4898.24,
+      "end": 4899.32,
+      "text": "Thank you. Thank you so much, Binji."
+    },
+    {
+      "i": 806,
+      "start": 4900.04,
+      "end": 4902.68,
+      "text": "Thank you, Prakashi. Thank you, Rajesh."
+    },
+    {
+      "i": 807,
+      "start": 4912.14,
+      "end": 4913.66,
+      "text": "OK, Prakashi. We'll close that."
+    },
+    {
+      "i": 808,
+      "start": 4914.5,
+      "end": 4917.34,
+      "text": "Yes. Thank you everyone for attending"
+    },
+    {
+      "i": 809,
+      "start": 4917.34,
+      "end": 4920.54,
+      "text": "this session. So we will continue tomorrow"
+    },
+    {
+      "i": 810,
+      "start": 4921.14,
+      "end": 4926.92,
+      "text": "same time at 8:30 PM IST. Tomorrow being Friday, we'll"
+    },
+    {
+      "i": 811,
+      "start": 4926.92,
+      "end": 4930.4,
+      "text": "have a break and then on Sunday we'll reconvene for the open"
+    },
+    {
+      "i": 812,
+      "start": 4930.4,
+      "end": 4933.28,
+      "text": "discussion on Advaita at 8:30 PM IST."
+    },
+    {
+      "i": 813,
+      "start": 4934.72,
+      "end": 4937.64,
+      "text": "If you want to do this Ravana Manana, you can access the"
+    },
+    {
+      "i": 814,
+      "start": 4937.68,
+      "end": 4941.56,
+      "text": "replays in Clubhouse or you can go to the links shared in the"
+    },
+    {
+      "i": 815,
+      "start": 4941.56,
+      "end": 4944.64,
+      "text": "chat. The YouTube channel is a well"
+    },
+    {
+      "i": 816,
+      "start": 4944.68,
+      "end": 4947.36,
+      "text": "organized channel where you can access them in a series."
+    },
+    {
+      "i": 817,
+      "start": 4950.08,
+      "end": 4951.48,
+      "text": "And as always, thank you very much."
+    },
+    {
+      "i": 818,
+      "start": 4951.48,
+      "end": 4953.84,
+      "text": "Bindoji, over to you to close the room."
+    },
+    {
+      "i": 819,
+      "start": 4954.16,
+      "end": 4956.92,
+      "text": "Thank you. Thank you, Prakash."
+    },
+    {
+      "i": 820,
+      "start": 4957.0,
+      "end": 4958.96,
+      "text": "Thank you, Srini. Thank you, Rajesh."
+    },
+    {
+      "i": 821,
+      "start": 4960.16,
+      "end": 4964.04,
+      "text": "We'll meet tomorrow, the opposite of what we discussed"
+    },
+    {
+      "i": 822,
+      "start": 4964.04,
+      "end": 4967.24,
+      "text": "today as it will be for the one who doesn't have shraddha"
+    },
+    {
+      "i": 823,
+      "start": 4967.24,
+      "end": 4968.76,
+      "text": "etcetera, which will come tomorrow."
+    },
+    {
+      "i": 824,
+      "start": 4971.32,
+      "end": 4974.32,
+      "text": "Adyu, good night. Adyu."
+    },
+    {
+      "i": 825,
+      "start": 4975.0,
+      "end": 4975.24,
+      "text": "Good night."
+    }
+  ]
+}

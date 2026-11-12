@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "00a46f46-0c35-4944-a270-cf89bdab81e7",
+  "title": "Ch05-01-Shrimad Bhagavad Gita",
+  "pubDate": "Mon, 25 May 2026 03:00:40 GMT",
+  "duration": "01:23:03",
+  "description": "Shrimad Bhagavad Gita Chapter 05 introduction",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch05-01-Shrimad-Bhagavad-Gita-e3jrltd",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/1niqB6KCjNi72nHJoMgcYh/transcript.srt",
+  "fetched_at": "2026-11-09T22:07:12Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 76853,
+  "sha256": "cf00a186e4fa127ab6831d43a9010f3543b3b69207f65e42543bcef2b20cc63d",
+  "cue_count": 858,
+  "first_cue_start": "00:00:00,320",
+  "last_cue_end": "01:22:57,880",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}

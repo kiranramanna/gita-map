@@ -170,10 +170,12 @@ Per nudge podcast-routine-integration: config.yml is YouTube-only. Add RSS sourc
 
 ### T-009 — Ingest genuine feed transcripts for existing episodes (48 with podcast:transcript)
 
-**Priority:** P1 · **Owner:** unassigned · **Status:** ☐
+**Priority:** P1 · **Owner:** claude-autobuild · **Status:** ▶
 **Prerequisites:** T-001
 **Area:** sources
 
 User 2026-11-09: build actual lecture content for episodes that already exist. 48 of 182 RSS items (feed items 70-117, Ch03-20..Ch05-12) carry podcast:transcript SRT on transcript-files.spotifycdn.com (anonymous HTTP 200 verified for Ch05-12, 842 cues). Fetch raw SRT unmodified with sha256, feed item guid/pubDate/duration, provenance 'feed-supplied, generation method unstated'; keep cleaned text separate; podcast-time references only; no YouTube alignment claimed; no teacher contact; no paid/cookies. Episodes without a feed transcript (134) need local CPU ASR (decision/time cost TBD) and are out of scope until the user confirms.
 
 - [ ] **Deliverable:** data/episodes/<guid>/ has raw SRT + provenance for each of the 48 episodes, validated by a script (cue count, monotonic times, sha256).
+
+**Note 2026-11-09:** Feed transcripts for 48 episodes fetched unmodified (sha256, cue counts, provenance 'generation method unstated', unreviewed); validator OK n=48; cleaned.json whitespace-only, --check OK; 39 unit tests pass. Built by Copilot claude-opus-5.5 (u10) and Devin gpt-6-1-sol-high (u11) in tmux; models confirmed from events.jsonl/export. Implemented, unreviewed. Podcast-time only; no YouTube alignment. Remaining 134 episodes need ASR (user confirmation).

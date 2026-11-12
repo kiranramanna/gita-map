@@ -1,0 +1,4117 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "75457171-8fbb-4cc7-95e5-83fc4ab23504",
+  "source_sha256": "7c03bc7d010d306a5a57bdba05b40f0a1992424b71da10b2e6b034185c781148",
+  "cues": [
+    {
+      "i": 1,
+      "start": 1.04,
+      "end": 4.36,
+      "text": "Namaste everyone, welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 5.68,
+      "end": 9.96,
+      "text": "The ongoing sessions are on Bhagavad Gita offered by Bindoji"
+    },
+    {
+      "i": 3,
+      "start": 9.96,
+      "end": 15.2,
+      "text": "from an Advaita perspective. We are on Chapter 5, room number"
+    },
+    {
+      "i": 4,
+      "start": 15.2,
+      "end": 19.24,
+      "text": "10 class #10. The replays of all the previous"
+    },
+    {
+      "i": 5,
+      "start": 19.24,
+      "end": 22.72,
+      "text": "rooms are available in clubhouse or you can access them in three"
+    },
+    {
+      "i": 6,
+      "start": 22.72,
+      "end": 28.04,
+      "text": "links shared in the chat. 1 is a YouTube channel Advaita retold,"
+    },
+    {
+      "i": 7,
+      "start": 28.08,
+      "end": 33.84,
+      "text": "the second one is Apple podcast and third one is Spotify link as"
+    },
+    {
+      "i": 8,
+      "start": 33.84,
+      "end": 37.08,
+      "text": "a companion reader. There is a book published by"
+    },
+    {
+      "i": 9,
+      "start": 37.08,
+      "end": 42.84,
+      "text": "Artemisia which is based on Bindoji's insights into Advaita."
+    },
+    {
+      "i": 10,
+      "start": 43.04,
+      "end": 45.56,
+      "text": "But it's a good reading companion because you can open"
+    },
+    {
+      "i": 11,
+      "start": 45.56,
+      "end": 49.36,
+      "text": "any page and start reading a section, get deep insights."
+    },
+    {
+      "i": 12,
+      "start": 49.96,
+      "end": 52.4,
+      "text": "And that's been published on Amazon and the link is shared"
+    },
+    {
+      "i": 13,
+      "start": 53.88,
+      "end": 56.04,
+      "text": "for housekeeping. I'll close the chat in hand"
+    },
+    {
+      "i": 14,
+      "start": 56.04,
+      "end": 59.28,
+      "text": "raising when the session is on, when Binduji is conducting the"
+    },
+    {
+      "i": 15,
+      "start": 59.28,
+      "end": 63.04,
+      "text": "class, after which we'll open up those channels for any follow up"
+    },
+    {
+      "i": 16,
+      "start": 63.04,
+      "end": 65.96,
+      "text": "discussions or questions that arise."
+    },
+    {
+      "i": 17,
+      "start": 67.08,
+      "end": 68.92,
+      "text": "As always, thank you Binduji. Over to you."
+    },
+    {
+      "i": 18,
+      "start": 73.56,
+      "end": 80.76,
+      "text": "Thank you Prakash, Namaste and Hariyum to all my invocations."
+    },
+    {
+      "i": 19,
+      "start": 85.28,
+      "end": 111.6,
+      "text": "Namo brahmadibyo brahma vidya sampradayakarthi."
+    },
+    {
+      "i": 20,
+      "start": 121.0,
+      "end": 177.72,
+      "text": "The. We are in the 14th verse which"
+    },
+    {
+      "i": 21,
+      "start": 177.72,
+      "end": 183.6,
+      "text": "we have completed last week. Nakarthum nakarmani lokasya"
+    },
+    {
+      "i": 22,
+      "start": 183.6,
+      "end": 190.88,
+      "text": "srijadi prabhu nakarma hala samyogam subhavas to prabhatade."
+    },
+    {
+      "i": 23,
+      "start": 191.44,
+      "end": 201.0,
+      "text": "So the Subhava is what we discussed in detail and there is"
+    },
+    {
+      "i": 24,
+      "start": 201.68,
+      "end": 210.64,
+      "text": "this Nawad Dwarapurai Navanian gated body which has a simile"
+    },
+    {
+      "i": 25,
+      "start": 210.64,
+      "end": 216.76,
+      "text": "has been given to the city and Atma as a Prabhu or the Lord of"
+    },
+    {
+      "i": 26,
+      "start": 216.76,
+      "end": 226.88,
+      "text": "the OR the master of the city. Now when he is a master and the"
+    },
+    {
+      "i": 27,
+      "start": 227.08,
+      "end": 235.2,
+      "text": "activities of the city is happening by nature nor natural"
+    },
+    {
+      "i": 28,
+      "start": 235.2,
+      "end": 241.28,
+      "text": "process of you know each aspect of the city."
+    },
+    {
+      "i": 29,
+      "start": 243.32,
+      "end": 249.16,
+      "text": "The traders are doing the trading, the bankers are doing"
+    },
+    {
+      "i": 30,
+      "start": 249.16,
+      "end": 253.04,
+      "text": "the banking activity, the farmers are doing the"
+    },
+    {
+      "i": 31,
+      "start": 253.04,
+      "end": 257.68,
+      "text": "agriculture and all these activities are similar to the"
+    },
+    {
+      "i": 32,
+      "start": 257.68,
+      "end": 264.64,
+      "text": "eyes seeing the ears, hearing the touch of the sense organs"
+    },
+    {
+      "i": 33,
+      "start": 264.64,
+      "end": 268.56,
+      "text": "and things like that. Action both actions and"
+    },
+    {
+      "i": 34,
+      "start": 269.84,
+      "end": 274.4,
+      "text": "cognition. But Atma has no role to play."
+    },
+    {
+      "i": 35,
+      "start": 275.16,
+      "end": 279.72,
+      "text": "He is just a presiding as a king in a city."
+    },
+    {
+      "i": 36,
+      "start": 283.48,
+      "end": 289.76,
+      "text": "So this Saba vast pravarte or the natural order of functioning"
+    },
+    {
+      "i": 37,
+      "start": 289.76,
+      "end": 296.56,
+      "text": "of the body functions is exactly what earlier Krishna has said as"
+    },
+    {
+      "i": 38,
+      "start": 296.56,
+      "end": 299.2,
+      "text": "Guna Ganeshwarthande Idi Matwana."
+    },
+    {
+      "i": 39,
+      "start": 300.92,
+      "end": 309.2,
+      "text": "That is the way in which the gunas in the Prakriti the you"
+    },
+    {
+      "i": 40,
+      "start": 309.2,
+      "end": 315.92,
+      "text": "know the sense organs are made out of Guna Trigunatmiga."
+    },
+    {
+      "i": 41,
+      "start": 316.4,
+      "end": 321.24,
+      "text": "So too are the objects of senses and their interaction is what"
+    },
+    {
+      "i": 42,
+      "start": 321.6,
+      "end": 326.28,
+      "text": "Guna Guneshwar. Here also Sobhavastu pravartade"
+    },
+    {
+      "i": 43,
+      "start": 326.48,
+      "end": 332.6,
+      "text": "is indicating that it is by that Pragruti Savava which include"
+    },
+    {
+      "i": 44,
+      "start": 332.6,
+      "end": 336.64,
+      "text": "the Trigunatmiga is what it is functioning."
+    },
+    {
+      "i": 45,
+      "start": 339.24,
+      "end": 345.84,
+      "text": "Now when this type type of a activity is going on in the"
+    },
+    {
+      "i": 46,
+      "start": 345.84,
+      "end": 350.92,
+      "text": "city, naturally what happens is that if agriculture is more, the"
+    },
+    {
+      "i": 47,
+      "start": 351.44,
+      "end": 359.4,
+      "text": "king gets more revenue etcetera, there are benefits and losses"
+    },
+    {
+      "i": 48,
+      "start": 359.8,
+      "end": 365.88,
+      "text": "which are accrued to the Prabhu or the king or the Lord of the"
+    },
+    {
+      "i": 49,
+      "start": 365.88,
+      "end": 370.36,
+      "text": "city. But the simile should not be"
+    },
+    {
+      "i": 50,
+      "start": 370.36,
+      "end": 378.08,
+      "text": "extended further to make it very clear that Krishna says the next"
+    },
+    {
+      "i": 51,
+      "start": 378.08,
+      "end": 385.6,
+      "text": "verse. Na aadatte kasya chit paapam"
+    },
+    {
+      "i": 52,
+      "start": 385.92,
+      "end": 391.72,
+      "text": "nachaivam sugradam vibhu atni nagradam nyanam tenamuhyandi"
+    },
+    {
+      "i": 53,
+      "start": 391.72,
+      "end": 397.96,
+      "text": "jandava. So unlike in the city where the"
+    },
+    {
+      "i": 54,
+      "start": 397.96,
+      "end": 405.56,
+      "text": "king gets benefited and you know demerited with the good and bad"
+    },
+    {
+      "i": 55,
+      "start": 405.56,
+      "end": 408.72,
+      "text": "activities inside the city, Oregon surrounding the city."
+    },
+    {
+      "i": 56,
+      "start": 409.6,
+      "end": 415.52,
+      "text": "In the case of Vibhu, Vibhu and Prabhu, the words are used"
+    },
+    {
+      "i": 57,
+      "start": 415.68,
+      "end": 419.04,
+      "text": "interchangeably here. Prabhu means the Lord, whereas"
+    },
+    {
+      "i": 58,
+      "start": 419.04,
+      "end": 423.56,
+      "text": "Vibhu is the one which is all pervading."
+    },
+    {
+      "i": 59,
+      "start": 424.92,
+      "end": 427.4,
+      "text": "His presence is all pervading in the city."
+    },
+    {
+      "i": 60,
+      "start": 428.56,
+      "end": 436.24,
+      "text": "To indicate that same way, in this city of our body which is"
+    },
+    {
+      "i": 61,
+      "start": 436.24,
+      "end": 444.2,
+      "text": "Nyan gated, the Vibhu, the atma is all pervading in the body,"
+    },
+    {
+      "i": 62,
+      "start": 446.52,
+      "end": 452.6,
+      "text": "from the tip of the hair to the tip of the nail, Everywhere we"
+    },
+    {
+      "i": 63,
+      "start": 452.6,
+      "end": 456.12,
+      "text": "can feel the sensation or we can feel the consciousness or"
+    },
+    {
+      "i": 64,
+      "start": 456.12,
+      "end": 459.32,
+      "text": "awareness or what we call it as the bodup."
+    },
+    {
+      "i": 65,
+      "start": 463.24,
+      "end": 468.2,
+      "text": "So when that is the case, when he is all pervading, anything"
+    },
+    {
+      "i": 66,
+      "start": 468.2,
+      "end": 473.88,
+      "text": "that is happening at any corner of the body should consequently"
+    },
+    {
+      "i": 67,
+      "start": 473.88,
+      "end": 480.12,
+      "text": "be affecting the atma. That is the normal thought"
+    },
+    {
+      "i": 68,
+      "start": 480.12,
+      "end": 485.76,
+      "text": "process that can come along, but Krishna wants us to understand"
+    },
+    {
+      "i": 69,
+      "start": 485.76,
+      "end": 494.16,
+      "text": "that Atma is Nirlita is unstainted or it is not get"
+    },
+    {
+      "i": 70,
+      "start": 494.84,
+      "end": 497.08,
+      "text": "touched by anything that's happening in this."
+    },
+    {
+      "i": 71,
+      "start": 497.52,
+      "end": 501.6,
+      "text": "Body. It's a pure Sakshi or a witness."
+    },
+    {
+      "i": 72,
+      "start": 502.84,
+      "end": 510.24,
+      "text": "So na aadat take Kasachit Papa. The all pervading Atma does not"
+    },
+    {
+      "i": 73,
+      "start": 510.24,
+      "end": 513.919,
+      "text": "receives anyone. Since papam Na aadatte means"
+    },
+    {
+      "i": 74,
+      "start": 514.32,
+      "end": 519.679,
+      "text": "receive the papam. Kasich means anyone's NACHA ewa"
+    },
+    {
+      "i": 75,
+      "start": 519.679,
+      "end": 523.96,
+      "text": "sugradam, nor indeed anyone's merit."
+    },
+    {
+      "i": 76,
+      "start": 525.32,
+      "end": 534.44,
+      "text": "Neither merit nor demerit is touching the atma."
+    },
+    {
+      "i": 77,
+      "start": 536.24,
+      "end": 543.52,
+      "text": "Aruna doesn't receive means, doesn't stained or stain atma."
+    },
+    {
+      "i": 78,
+      "start": 546.88,
+      "end": 551.8,
+      "text": "But the second line is very important and that is always"
+    },
+    {
+      "i": 79,
+      "start": 551.8,
+      "end": 558.2,
+      "text": "quoted by pundits and those who are referring to Bhagavad Gita"
+    },
+    {
+      "i": 80,
+      "start": 559.28,
+      "end": 563.76,
+      "text": "Atnyana Ena aurutam Nyana Ena Muhandi Jandava."
+    },
+    {
+      "i": 81,
+      "start": 564.6,
+      "end": 566.32,
+      "text": "The words are very very important."
+    },
+    {
+      "i": 82,
+      "start": 567.2,
+      "end": 571.84,
+      "text": "Atnyanena Atnyanam means ignorance."
+    },
+    {
+      "i": 83,
+      "start": 572.4,
+      "end": 587.92,
+      "text": "Atnyanena means by ignorance. Arythm means covered what?"
+    },
+    {
+      "i": 84,
+      "start": 587.92,
+      "end": 596.8,
+      "text": "What is covering Atnyanam Yanam Pena by that?"
+    },
+    {
+      "i": 85,
+      "start": 597.16,
+      "end": 605.08,
+      "text": "Mukhyanti means deluded. Jandavaha means the living"
+    },
+    {
+      "i": 86,
+      "start": 605.08,
+      "end": 609.76,
+      "text": "beings. Janda Jandu is coming from the"
+    },
+    {
+      "i": 87,
+      "start": 609.76,
+      "end": 613.68,
+      "text": "word Janma. Janma means one who is taking"
+    },
+    {
+      "i": 88,
+      "start": 613.68,
+      "end": 617.04,
+      "text": "birth. Birth means it may not be"
+    },
+    {
+      "i": 89,
+      "start": 617.32,
+      "end": 620.8,
+      "text": "mammals, It is any birth means creation."
+    },
+    {
+      "i": 90,
+      "start": 621.16,
+      "end": 627.72,
+      "text": "Jan Dwaha means those who are have the intellectual capacity"
+    },
+    {
+      "i": 91,
+      "start": 628.0,
+      "end": 632.52,
+      "text": "here, that is to include not only human beings, but even"
+    },
+    {
+      "i": 92,
+      "start": 632.52,
+      "end": 638.4,
+      "text": "animals and birds and things like that, who has the sense of,"
+    },
+    {
+      "i": 93,
+      "start": 639.88,
+      "end": 646.8,
+      "text": "you know, apprehension. They have the knowledge of their"
+    },
+    {
+      "i": 94,
+      "start": 646.8,
+      "end": 653.12,
+      "text": "surround beings. So when it says that Atnyanena"
+    },
+    {
+      "i": 95,
+      "start": 654.28,
+      "end": 664.0,
+      "text": "nyanam algorithm the knowledge or the cognition is covered by"
+    },
+    {
+      "i": 96,
+      "start": 664.2,
+      "end": 669.8,
+      "text": "dilution or atnyana atnyanena muhandi."
+    },
+    {
+      "i": 97,
+      "start": 671.12,
+      "end": 674.92,
+      "text": "So the muhandi means diluted, Atnyanena means ignorance."
+    },
+    {
+      "i": 98,
+      "start": 677.84,
+      "end": 682.32,
+      "text": "A bit of discussion is required here."
+    },
+    {
+      "i": 99,
+      "start": 688.6,
+      "end": 694.76,
+      "text": "Nyanam and atnyanam are opposite to each other."
+    },
+    {
+      "i": 100,
+      "start": 696.36,
+      "end": 704.0,
+      "text": "That is knowledge and ignorance. In this verse Krishna is saying"
+    },
+    {
+      "i": 101,
+      "start": 705.84,
+      "end": 708.56,
+      "text": "knowledge is covered by ignorance."
+    },
+    {
+      "i": 102,
+      "start": 712.16,
+      "end": 719.48,
+      "text": "This aspect of knowledge being covered by ignorance has to be"
+    },
+    {
+      "i": 103,
+      "start": 719.48,
+      "end": 726.28,
+      "text": "understood properly because Atnyana sometimes is called"
+    },
+    {
+      "i": 104,
+      "start": 726.28,
+      "end": 732.64,
+      "text": "avidya also and Nyanam is someplace place as mentioned as"
+    },
+    {
+      "i": 105,
+      "start": 733.12,
+      "end": 738.56,
+      "text": "Praknyanam, Nyanam, vidya etcetera."
+    },
+    {
+      "i": 106,
+      "start": 739.08,
+      "end": 748.24,
+      "text": "So the word importance between these two that Nyayanam and that"
+    },
+    {
+      "i": 107,
+      "start": 748.24,
+      "end": 757.48,
+      "text": "Nyayanam, how the ignorance can cover that knowledge and due to"
+    },
+    {
+      "i": 108,
+      "start": 757.48,
+      "end": 765.6,
+      "text": "that those who have capacity to know Jandavaha Mukhandi gets"
+    },
+    {
+      "i": 109,
+      "start": 765.6,
+      "end": 775.0,
+      "text": "deluded. Let us analyse the words and"
+    },
+    {
+      "i": 110,
+      "start": 775.0,
+      "end": 779.56,
+      "text": "then come back to this statement again."
+    },
+    {
+      "i": 111,
+      "start": 782.08,
+      "end": 784.84,
+      "text": "Why did Krishna suddenly mention this statement?"
+    },
+    {
+      "i": 112,
+      "start": 787.24,
+      "end": 791.28,
+      "text": "Because he was not mentioning about Nyayanam till now."
+    },
+    {
+      "i": 113,
+      "start": 791.28,
+      "end": 795.72,
+      "text": "He was talking about Akar Trithva, Abok Trithva till now"
+    },
+    {
+      "i": 114,
+      "start": 798.6,
+      "end": 803.76,
+      "text": "to the first half while continuing the discussion on"
+    },
+    {
+      "i": 115,
+      "start": 803.76,
+      "end": 807.44,
+      "text": "Akarthrutu Pragarana. We started on the 13th and 14th"
+    },
+    {
+      "i": 116,
+      "start": 807.44,
+      "end": 815.28,
+      "text": "verse by saying that Prabhu has no implications to the domain of"
+    },
+    {
+      "i": 117,
+      "start": 816.56,
+      "end": 824.92,
+      "text": "in the place where he is being placed for the moral"
+    },
+    {
+      "i": 118,
+      "start": 824.92,
+      "end": 830.12,
+      "text": "consequences of Papa and karma, Papa and punya sukruta etcetera."
+    },
+    {
+      "i": 119,
+      "start": 831.88,
+      "end": 838.28,
+      "text": "Suddenly Krishna is shifting in the second-half a turn by"
+    },
+    {
+      "i": 120,
+      "start": 838.28,
+      "end": 849.84,
+      "text": "identifying Atyana as the specific cause for the Moha and"
+    },
+    {
+      "i": 121,
+      "start": 849.92,
+      "end": 857.68,
+      "text": "dilution, thereby setting up that teaching of nyana which is"
+    },
+    {
+      "i": 122,
+      "start": 857.68,
+      "end": 861.92,
+      "text": "being followed from the 16th verse till the 21st verse."
+    },
+    {
+      "i": 123,
+      "start": 864.64,
+      "end": 872.8,
+      "text": "Actually he making a conscious shift in the process or the"
+    },
+    {
+      "i": 124,
+      "start": 872.8,
+      "end": 880.4,
+      "text": "prakarana. We will see that in detail when"
+    },
+    {
+      "i": 125,
+      "start": 880.4,
+      "end": 891.4,
+      "text": "he when he said naadatte means he a statement is being made to"
+    },
+    {
+      "i": 126,
+      "start": 891.4,
+      "end": 893.24,
+      "text": "the connection of the earlier verses."
+    },
+    {
+      "i": 127,
+      "start": 894.2,
+      "end": 898.96,
+      "text": "Nasrijati Prabhu he is not creating."
+    },
+    {
+      "i": 128,
+      "start": 900.76,
+      "end": 906.12,
+      "text": "That means he has no Karthritva, Karmani, some yoga etcetera and"
+    },
+    {
+      "i": 129,
+      "start": 906.12,
+      "end": 913.32,
+      "text": "the vibhu is said to be not creating the Kartrutva, karma"
+    },
+    {
+      "i": 130,
+      "start": 913.32,
+      "end": 916.68,
+      "text": "etc. Therefore he is not receiving"
+    },
+    {
+      "i": 131,
+      "start": 916.68,
+      "end": 921.92,
+      "text": "the moral consequences of Papa, Sukruta, punya etc or the"
+    },
+    {
+      "i": 132,
+      "start": 921.92,
+      "end": 928.64,
+      "text": "samyoga etc. The Atman is thus insulated from"
+    },
+    {
+      "i": 133,
+      "start": 928.64,
+      "end": 932.92,
+      "text": "the Karma Givahara of Kartrutva and Boktatva."
+    },
+    {
+      "i": 134,
+      "start": 933.4,
+      "end": 938.48,
+      "text": "The doubly insulated neither originates the mechanism nor"
+    },
+    {
+      "i": 135,
+      "start": 938.48,
+      "end": 946.32,
+      "text": "absorbs the moral residue of it. By saying Kasichith in this"
+    },
+    {
+      "i": 136,
+      "start": 946.32,
+      "end": 960.12,
+      "text": "statement he is including all creation in the realm of"
+    },
+    {
+      "i": 137,
+      "start": 960.76,
+      "end": 964.84,
+      "text": "Srijathi creation where he mentioned in the 13th verse"
+    },
+    {
+      "i": 138,
+      "start": 966.16,
+      "end": 973.4,
+      "text": "Nasvidati by denying or refusing the process of creation of"
+    },
+    {
+      "i": 139,
+      "start": 973.4,
+      "end": 983.44,
+      "text": "Karthrutva and Boktrutva of anyone we who have been created."
+    },
+    {
+      "i": 140,
+      "start": 985.68,
+      "end": 998.12,
+      "text": "But there Karthrutva and Boktrutva is not his why?"
+    },
+    {
+      "i": 141,
+      "start": 1000.84,
+      "end": 1009.8,
+      "text": "It is because he is Vibhu. The Vibhu word is one who is"
+    },
+    {
+      "i": 142,
+      "start": 1010.28,
+      "end": 1018.76,
+      "text": "comprehensively of pervasively everywhere or the all pervading"
+    },
+    {
+      "i": 143,
+      "start": 1018.76,
+      "end": 1021.56,
+      "text": "1. The omnipresent or the the"
+    },
+    {
+      "i": 144,
+      "start": 1021.56,
+      "end": 1034.64,
+      "text": "nature of Atma as Sarvagata. So when he is Sarvagata were the"
+    },
+    {
+      "i": 145,
+      "start": 1035.119,
+      "end": 1040.0,
+      "text": "actions are taking place, the doer and the receiver of the"
+    },
+    {
+      "i": 146,
+      "start": 1040.0,
+      "end": 1050.24,
+      "text": "action both being under his what you call creation."
+    },
+    {
+      "i": 147,
+      "start": 1053.28,
+      "end": 1063.04,
+      "text": "He has no role or no authorship in the subsequent events which"
+    },
+    {
+      "i": 148,
+      "start": 1063.04,
+      "end": 1074.28,
+      "text": "are happening in the created ones, because the created ones"
+    },
+    {
+      "i": 149,
+      "start": 1077.48,
+      "end": 1084.68,
+      "text": "are subsequently getting diluted by assuming they are the"
+    },
+    {
+      "i": 150,
+      "start": 1086.44,
+      "end": 1094.08,
+      "text": "individual beings. Please understand this now."
+    },
+    {
+      "i": 151,
+      "start": 1095.44,
+      "end": 1100.76,
+      "text": "If a pot of mud or a piece of ornament has come out of gold"
+    },
+    {
+      "i": 152,
+      "start": 1103.96,
+      "end": 1111.52,
+      "text": "and that ornament now assumes the role of the ornament forgets"
+    },
+    {
+      "i": 153,
+      "start": 1111.68,
+      "end": 1119.68,
+      "text": "its intrinsic nature is that of gold, or the pot is mud."
+    },
+    {
+      "i": 154,
+      "start": 1120.28,
+      "end": 1126.2,
+      "text": "Of intrinsic nature is of mud. Now, whether it is used for a"
+    },
+    {
+      "i": 155,
+      "start": 1126.2,
+      "end": 1134.28,
+      "text": "lamp for lighting or whether it is used for storing good"
+    },
+    {
+      "i": 156,
+      "start": 1134.28,
+      "end": 1140.28,
+      "text": "material or bad material, whether it is stored, used for"
+    },
+    {
+      "i": 157,
+      "start": 1140.28,
+      "end": 1149.2,
+      "text": "storing stinking material or perfumed material, the pot and"
+    },
+    {
+      "i": 158,
+      "start": 1151.64,
+      "end": 1155.52,
+      "text": "the mud do not undergo any change."
+    },
+    {
+      "i": 159,
+      "start": 1157.96,
+      "end": 1166.76,
+      "text": "But if the pot thinks that now I am filled with stinking material"
+    },
+    {
+      "i": 160,
+      "start": 1167.28,
+      "end": 1172.08,
+      "text": "or the pot think that I am filled with perfumed material,"
+    },
+    {
+      "i": 161,
+      "start": 1174.52,
+      "end": 1180.92,
+      "text": "this thinking that I am now a stinking pot or I am a perfumed"
+    },
+    {
+      "i": 162,
+      "start": 1180.92,
+      "end": 1192.8,
+      "text": "pot is not due to the mud. The mud is all pervasive in both"
+    },
+    {
+      "i": 163,
+      "start": 1192.8,
+      "end": 1197.52,
+      "text": "the pots, both the places the same mud is there."
+    },
+    {
+      "i": 164,
+      "start": 1198.56,
+      "end": 1201.92,
+      "text": "Then how can the mud think that I am the stinking pot or the"
+    },
+    {
+      "i": 165,
+      "start": 1201.92,
+      "end": 1204.12,
+      "text": "other mud pot think I am the perfume pot?"
+    },
+    {
+      "i": 166,
+      "start": 1208.72,
+      "end": 1214.6,
+      "text": "This example is exactly what being told that atnyane"
+    },
+    {
+      "i": 167,
+      "start": 1214.6,
+      "end": 1219.84,
+      "text": "nagartham nyanam tena muhindi jandava, all the jandava, all"
+    },
+    {
+      "i": 168,
+      "start": 1219.84,
+      "end": 1226.16,
+      "text": "the created ones. Is now being diluted by atnyana"
+    },
+    {
+      "i": 169,
+      "start": 1227.88,
+      "end": 1231.16,
+      "text": "non apprehension of their reality."
+    },
+    {
+      "i": 170,
+      "start": 1234.24,
+      "end": 1236.48,
+      "text": "What is the apprehension they should be having?"
+    },
+    {
+      "i": 171,
+      "start": 1236.96,
+      "end": 1243.8,
+      "text": "That I am made of mud? The the content in the mud part,"
+    },
+    {
+      "i": 172,
+      "start": 1244.2,
+      "end": 1247.0,
+      "text": "whether it is a stinking one or a perfumed one."
+    },
+    {
+      "i": 173,
+      "start": 1248.32,
+      "end": 1253.64,
+      "text": "Do not touch the mud. The mud is just a holder."
+    },
+    {
+      "i": 174,
+      "start": 1257.36,
+      "end": 1262.56,
+      "text": "But if it thinks that I am now a stinking pot or a perfumed pot,"
+    },
+    {
+      "i": 175,
+      "start": 1264.0,
+      "end": 1270.16,
+      "text": "the parent mud or the OR the mud with which the pot is made has"
+    },
+    {
+      "i": 176,
+      "start": 1270.16,
+      "end": 1277.36,
+      "text": "no role to play in it. This aspect of identifying with"
+    },
+    {
+      "i": 177,
+      "start": 1277.36,
+      "end": 1283.96,
+      "text": "the physical body that I am the human being, I am a fat person"
+    },
+    {
+      "i": 178,
+      "start": 1283.96,
+      "end": 1287.6,
+      "text": "or a thin person, I am a fair person or a dark person, I am a"
+    },
+    {
+      "i": 179,
+      "start": 1287.6,
+      "end": 1292.28,
+      "text": "good person or a bad person. All these adjectives which are"
+    },
+    {
+      "i": 180,
+      "start": 1292.32,
+      "end": 1302.84,
+      "text": "of the body cannot be attributed to the consciousness which knows"
+    },
+    {
+      "i": 181,
+      "start": 1302.84,
+      "end": 1308.4,
+      "text": "these things. The body is a product of"
+    },
+    {
+      "i": 182,
+      "start": 1308.4,
+      "end": 1312.32,
+      "text": "consciousness. When from the deep sleep, when"
+    },
+    {
+      "i": 183,
+      "start": 1312.32,
+      "end": 1318.16,
+      "text": "we wake woke up, the Waker was projected or when it went into"
+    },
+    {
+      "i": 184,
+      "start": 1318.16,
+      "end": 1320.8,
+      "text": "the dream, the dreamer was projected."
+    },
+    {
+      "i": 185,
+      "start": 1322.36,
+      "end": 1326.48,
+      "text": "The dreamer now thinks he's a murderer or the Waker thinks"
+    },
+    {
+      "i": 186,
+      "start": 1326.48,
+      "end": 1331.24,
+      "text": "he's a St. The consciousness from which the"
+    },
+    {
+      "i": 187,
+      "start": 1331.24,
+      "end": 1336.56,
+      "text": "Waker came up or the dreamer came up, it has no role to play"
+    },
+    {
+      "i": 188,
+      "start": 1336.72,
+      "end": 1346.68,
+      "text": "either as a doer or an enjoyer. That is why when it is mentioned"
+    },
+    {
+      "i": 189,
+      "start": 1346.68,
+      "end": 1352.76,
+      "text": "that atnyana by Avidya Anadhi Avidya a beginningless self"
+    },
+    {
+      "i": 190,
+      "start": 1352.76,
+      "end": 1355.64,
+      "text": "concealing ignorance. When did it start?"
+    },
+    {
+      "i": 191,
+      "start": 1357.0,
+      "end": 1360.08,
+      "text": "Nobody knows. Therefore it is called Anadi."
+    },
+    {
+      "i": 192,
+      "start": 1360.28,
+      "end": 1365.92,
+      "text": "Anadi means actually the word Anadi means no beginning means"
+    },
+    {
+      "i": 193,
+      "start": 1366.0,
+      "end": 1367.76,
+      "text": "when it started. Nobody knows."
+    },
+    {
+      "i": 194,
+      "start": 1367.76,
+      "end": 1376.16,
+      "text": "It is called Anadi that superimposes the appearances of"
+    },
+    {
+      "i": 195,
+      "start": 1376.16,
+      "end": 1381.96,
+      "text": "the physical body, the sense organs and their physical"
+    },
+    {
+      "i": 196,
+      "start": 1382.44,
+      "end": 1385.84,
+      "text": "activities. So therefore there is a karthur"
+    },
+    {
+      "i": 197,
+      "start": 1385.84,
+      "end": 1391.44,
+      "text": "to amends a doership, There is a boxer to amends a doership and"
+    },
+    {
+      "i": 198,
+      "start": 1392.12,
+      "end": 1395.52,
+      "text": "the consequences of that as Papa and punya subrata."
+    },
+    {
+      "i": 199,
+      "start": 1396.96,
+      "end": 1404.2,
+      "text": "These things are assumed by the body because he assumes the body"
+    },
+    {
+      "i": 200,
+      "start": 1404.2,
+      "end": 1409.24,
+      "text": "as the kartha. But the body by itself cannot be"
+    },
+    {
+      "i": 201,
+      "start": 1409.24,
+      "end": 1418.12,
+      "text": "the Kartha because the body assumes the Kartharutva due to"
+    },
+    {
+      "i": 202,
+      "start": 1418.12,
+      "end": 1423.48,
+      "text": "consciousness in it when it doesn't understand that it is"
+    },
+    {
+      "i": 203,
+      "start": 1423.48,
+      "end": 1428.16,
+      "text": "the consciousness with which I am knowing that I am doing the"
+    },
+    {
+      "i": 204,
+      "start": 1428.16,
+      "end": 1434.96,
+      "text": "job, I am enjoying the job. Both are happening because of"
+    },
+    {
+      "i": 205,
+      "start": 1434.96,
+      "end": 1440.52,
+      "text": "the presence of consciousness, but not caused by the"
+    },
+    {
+      "i": 206,
+      "start": 1440.72,
+      "end": 1444.96,
+      "text": "consciousness. Consciousness is mere"
+    },
+    {
+      "i": 207,
+      "start": 1444.96,
+      "end": 1450.76,
+      "text": "illuminator. It is neither the cause for the"
+    },
+    {
+      "i": 208,
+      "start": 1450.76,
+      "end": 1455.08,
+      "text": "body's functioning nor is the cause for the enjoyment of the"
+    },
+    {
+      "i": 209,
+      "start": 1455.08,
+      "end": 1459.04,
+      "text": "body. Therefore Atnyanana is the root"
+    },
+    {
+      "i": 210,
+      "start": 1459.76,
+      "end": 1461.96,
+      "text": "'cause which is called the Samsara."
+    },
+    {
+      "i": 211,
+      "start": 1466.88,
+      "end": 1474.76,
+      "text": "Avrtham means it conceals the true nature and it has got 2"
+    },
+    {
+      "i": 212,
+      "start": 1474.76,
+      "end": 1477.68,
+      "text": "roles. It conceals the true nature of"
+    },
+    {
+      "i": 213,
+      "start": 1477.68,
+      "end": 1482.2,
+      "text": "the consciousness and IT projects the individuality of"
+    },
+    {
+      "i": 214,
+      "start": 1482.2,
+      "end": 1491.0,
+      "text": "the I Am, the Hum or the ego. Ego based individuality to both"
+    },
+    {
+      "i": 215,
+      "start": 1491.0,
+      "end": 1497.08,
+      "text": "concealing and projection. Avarana and Vicksheva together"
+    },
+    {
+      "i": 216,
+      "start": 1497.08,
+      "end": 1506.0,
+      "text": "is called the Atmana. Atmana is functioning as"
+    },
+    {
+      "i": 217,
+      "start": 1507.28,
+      "end": 1514.0,
+      "text": "covering the reality and projecting the unreality or non"
+    },
+    {
+      "i": 218,
+      "start": 1514.0,
+      "end": 1520.44,
+      "text": "apprehension of the reality and apprehension of the non reality."
+    },
+    {
+      "i": 219,
+      "start": 1524.36,
+      "end": 1530.48,
+      "text": "When the rope is covered with that ignorance of the non"
+    },
+    {
+      "i": 220,
+      "start": 1530.48,
+      "end": 1538.6,
+      "text": "reality of the rope, the projection of the snake happens,"
+    },
+    {
+      "i": 221,
+      "start": 1538.72,
+      "end": 1544.48,
+      "text": "which is the projection of the unreality, the part when it is"
+    },
+    {
+      "i": 222,
+      "start": 1544.92,
+      "end": 1553.4,
+      "text": "concealed of this reality of mud, the pot gets projected as"
+    },
+    {
+      "i": 223,
+      "start": 1553.4,
+      "end": 1560.0,
+      "text": "the reality, the shape, name and form namarupa and the"
+    },
+    {
+      "i": 224,
+      "start": 1560.0,
+      "end": 1564.96,
+      "text": "consequences of the activities that is happening inside the pot"
+    },
+    {
+      "i": 225,
+      "start": 1565.16,
+      "end": 1569.72,
+      "text": "is assumed as the doership and the enjoyership."
+    },
+    {
+      "i": 226,
+      "start": 1574.12,
+      "end": 1581.72,
+      "text": "So when this happens, what is getting concealed?"
+    },
+    {
+      "i": 227,
+      "start": 1583.2,
+      "end": 1587.16,
+      "text": "What the real knowledge or wisdom or the nature of"
+    },
+    {
+      "i": 228,
+      "start": 1588.24,
+      "end": 1594.76,
+      "text": "knowledge itself, Nayanam that is getting veiled or covered?"
+    },
+    {
+      "i": 229,
+      "start": 1594.92,
+      "end": 1601.88,
+      "text": "Avrutab at the Vivaharika level, the Buddhi's capacity for viveka"
+    },
+    {
+      "i": 230,
+      "start": 1602.96,
+      "end": 1612.04,
+      "text": "discriminative knowledge is what is called the Nyana, that which"
+    },
+    {
+      "i": 231,
+      "start": 1612.04,
+      "end": 1618.2,
+      "text": "is atnyana and atnyana is in the form of raga, dwesha, moha, etc."
+    },
+    {
+      "i": 232,
+      "start": 1620.6,
+      "end": 1624.4,
+      "text": "At the Vaivaharika level that is what is happening, but at the"
+    },
+    {
+      "i": 233,
+      "start": 1624.4,
+      "end": 1629.2,
+      "text": "Paramartika level Atman always remains as the Chit Sachitan and"
+    },
+    {
+      "i": 234,
+      "start": 1629.2,
+      "end": 1633.76,
+      "text": "the pure Self, Self illuminous consciousness, which is"
+    },
+    {
+      "i": 235,
+      "start": 1633.76,
+      "end": 1640.48,
+      "text": "identical with the Knowledge, Ratnam, Brahma and Avidya."
+    },
+    {
+      "i": 236,
+      "start": 1641.64,
+      "end": 1650.68,
+      "text": "At the paramarthika level it is not there but the moment the"
+    },
+    {
+      "i": 237,
+      "start": 1650.68,
+      "end": 1657.88,
+      "text": "identification with the sense organs and the body and then the"
+    },
+    {
+      "i": 238,
+      "start": 1657.88,
+      "end": 1669.12,
+      "text": "karuna happens, the jiva gets projected the individuality and"
+    },
+    {
+      "i": 239,
+      "start": 1669.12,
+      "end": 1674.92,
+      "text": "then the vyavahara starts. So the paramartika level is non"
+    },
+    {
+      "i": 240,
+      "start": 1674.92,
+      "end": 1681.64,
+      "text": "transactional and even at that level nanam is remaining pure as"
+    },
+    {
+      "i": 241,
+      "start": 1681.64,
+      "end": 1684.24,
+      "text": "nanam or the nature of Atman itself."
+    },
+    {
+      "i": 242,
+      "start": 1684.64,
+      "end": 1687.28,
+      "text": "Atman and Nanam are not two different things."
+    },
+    {
+      "i": 243,
+      "start": 1688.68,
+      "end": 1692.04,
+      "text": "The knowledge or the consciousness itself is Atman"
+    },
+    {
+      "i": 244,
+      "start": 1697.04,
+      "end": 1706.44,
+      "text": "and when it is identifying the knowledge which is the nature of"
+    },
+    {
+      "i": 245,
+      "start": 1706.52,
+      "end": 1719.28,
+      "text": "Atman, when it is seen as the created jiva, it has starts"
+    },
+    {
+      "i": 246,
+      "start": 1719.28,
+      "end": 1721.12,
+      "text": "identifying itself with the jiva."
+    },
+    {
+      "i": 247,
+      "start": 1722.12,
+      "end": 1725.8,
+      "text": "That is what is called the Avartham or the Kavari or the"
+    },
+    {
+      "i": 248,
+      "start": 1725.8,
+      "end": 1740.17,
+      "text": "Avarana Sakshi and once it happens the Moha Muhindi."
+    },
+    {
+      "i": 249,
+      "start": 1740.85,
+      "end": 1744.65,
+      "text": "The Moha and Muhindi is the action of Moha."
+    },
+    {
+      "i": 250,
+      "start": 1745.65,
+      "end": 1751.0,
+      "text": "When Moha is in functioning it is called Muhindi arm Mohita"
+    },
+    {
+      "i": 251,
+      "start": 1751.08,
+      "end": 1760.0,
+      "text": "Bhavanti and this atnyana is the reason why the Moha Atnyana's"
+    },
+    {
+      "i": 252,
+      "start": 1760.72,
+      "end": 1765.44,
+      "text": "nature is Moha and when it is functioning it is called"
+    },
+    {
+      "i": 253,
+      "start": 1765.44,
+      "end": 1771.08,
+      "text": "Muhyanti. Therefore the Atnyana when in in"
+    },
+    {
+      "i": 254,
+      "start": 1771.08,
+      "end": 1782.8,
+      "text": "motion is the delusion at in the atman's level city Sakartha non"
+    },
+    {
+      "i": 255,
+      "start": 1782.8,
+      "end": 1788.56,
+      "text": "doer. But the jiva Jantavaha or Jiva"
+    },
+    {
+      "i": 256,
+      "start": 1788.56,
+      "end": 1790.72,
+      "text": "in singular Jantavaha is a plural."
+    },
+    {
+      "i": 257,
+      "start": 1792.28,
+      "end": 1799.24,
+      "text": "It thinks I am the doer. Since Atma has no Kartrutva"
+    },
+    {
+      "i": 258,
+      "start": 1799.24,
+      "end": 1802.52,
+      "text": "Boktrutva, they doesn't receive Papa."
+    },
+    {
+      "i": 259,
+      "start": 1803.36,
+      "end": 1808.28,
+      "text": "Whereas the Jiva thinks by actions I am accumulating sin,"
+    },
+    {
+      "i": 260,
+      "start": 1808.32,
+      "end": 1811.44,
+      "text": "sin and merit, pun, punya and Papa."
+    },
+    {
+      "i": 261,
+      "start": 1814.08,
+      "end": 1820.44,
+      "text": "Atma knows that it is the Subhava of Atma itself."
+    },
+    {
+      "i": 262,
+      "start": 1821.28,
+      "end": 1823.84,
+      "text": "There is other than Atma there is nothing second."
+    },
+    {
+      "i": 263,
+      "start": 1823.88,
+      "end": 1829.6,
+      "text": "There is no second. SAE kaha SA ekamvitha ekamaeva"
+    },
+    {
+      "i": 264,
+      "start": 1829.6,
+      "end": 1833.96,
+      "text": "dutiyam Brahma. Even the Jiva is Brahma."
+    },
+    {
+      "i": 265,
+      "start": 1835.48,
+      "end": 1838.88,
+      "text": "But when the Jiva thinks that I am separate from Dhatma or"
+    },
+    {
+      "i": 266,
+      "start": 1838.88,
+      "end": 1843.64,
+      "text": "Brahman, he does not know that. That is why the non apprehension"
+    },
+    {
+      "i": 267,
+      "start": 1843.64,
+      "end": 1848.48,
+      "text": "that I am Nathma or Brahman. The Jiva assumes the"
+    },
+    {
+      "i": 268,
+      "start": 1848.48,
+      "end": 1856.48,
+      "text": "individuality. That individuality, nature is"
+    },
+    {
+      "i": 269,
+      "start": 1856.48,
+      "end": 1868.28,
+      "text": "the reason why the feeling that I am a jiva accumulating the sin"
+    },
+    {
+      "i": 270,
+      "start": 1868.28,
+      "end": 1871.44,
+      "text": "and the merit and demerit, etcetera."
+    },
+    {
+      "i": 271,
+      "start": 1874.32,
+      "end": 1883.32,
+      "text": "So this aspect of individuals who is disconnected from the"
+    },
+    {
+      "i": 272,
+      "start": 1883.32,
+      "end": 1891.76,
+      "text": "true nature of Atma is the beginning of all problems."
+    },
+    {
+      "i": 273,
+      "start": 1892.6,
+      "end": 1903.08,
+      "text": "Therefore, the only solution of the individual life is to know"
+    },
+    {
+      "i": 274,
+      "start": 1903.08,
+      "end": 1910.32,
+      "text": "the reality, the atmathattu, that is the eternal freedom"
+    },
+    {
+      "i": 275,
+      "start": 1910.32,
+      "end": 1916.84,
+      "text": "nityamukti, and there is a logical necessity rather than a"
+    },
+    {
+      "i": 276,
+      "start": 1918.92,
+      "end": 1929.64,
+      "text": "hoped achievement by action at the body level."
+    },
+    {
+      "i": 277,
+      "start": 1930.88,
+      "end": 1934.52,
+      "text": "It thinks kurvan na kurvan karayan etc."
+    },
+    {
+      "i": 278,
+      "start": 1936.24,
+      "end": 1943.4,
+      "text": "But Krishna has taught dehi na kurvan na karayan naaste and"
+    },
+    {
+      "i": 279,
+      "start": 1943.52,
+      "end": 1949.72,
+      "text": "prabhu nasrijati kartham karmani samyogam Atma does not is not"
+    },
+    {
+      "i": 280,
+      "start": 1949.72,
+      "end": 1952.44,
+      "text": "creating doership actions of karmasingi."
+    },
+    {
+      "i": 281,
+      "start": 1952.76,
+      "end": 1958.08,
+      "text": "But at the body level we think that there is doership and"
+    },
+    {
+      "i": 282,
+      "start": 1958.08,
+      "end": 1964.88,
+      "text": "actions and the karmic Nexus of punya and Papa at the atma"
+    },
+    {
+      "i": 283,
+      "start": 1964.88,
+      "end": 1969.92,
+      "text": "level. Napadatte papam sugurtham it is"
+    },
+    {
+      "i": 284,
+      "start": 1969.92,
+      "end": 1977.44,
+      "text": "not receiving any sin or merit and the thought that there is"
+    },
+    {
+      "i": 285,
+      "start": 1977.44,
+      "end": 1986.28,
+      "text": "sin and merit is sprung sprung upon on the non apprehension of"
+    },
+    {
+      "i": 286,
+      "start": 1986.28,
+      "end": 1990.0,
+      "text": "the reality. There is neither Papa nor punya"
+    },
+    {
+      "i": 287,
+      "start": 1990.0,
+      "end": 1993.36,
+      "text": "in reality. But when you think that you are"
+    },
+    {
+      "i": 288,
+      "start": 1993.36,
+      "end": 1998.56,
+      "text": "limited, individual created and living at the vyabharika level,"
+    },
+    {
+      "i": 289,
+      "start": 1998.56,
+      "end": 2001.2,
+      "text": "identifying with the individuality of the ego,"
+    },
+    {
+      "i": 290,
+      "start": 2002.56,
+      "end": 2008.44,
+      "text": "therefore the actions becomes real."
+    },
+    {
+      "i": 291,
+      "start": 2009.16,
+      "end": 2014.72,
+      "text": "The consequences of actions as merit and demerit becomes real"
+    },
+    {
+      "i": 292,
+      "start": 2015.24,
+      "end": 2020.88,
+      "text": "and that becomes the bondage of a karma samsara."
+    },
+    {
+      "i": 293,
+      "start": 2030.13,
+      "end": 2035.53,
+      "text": "And the bhashya is very simple. I am not going to read the"
+    },
+    {
+      "i": 294,
+      "start": 2035.53,
+      "end": 2039.25,
+      "text": "bhashya from now onwards. It is being covered in the"
+    },
+    {
+      "i": 295,
+      "start": 2039.25,
+      "end": 2043.2,
+      "text": "explanation. So word by word I do not want to"
+    },
+    {
+      "i": 296,
+      "start": 2043.2,
+      "end": 2047.52,
+      "text": "read and explain the barshi. We we are need we need to"
+    },
+    {
+      "i": 297,
+      "start": 2047.52,
+      "end": 2054.32,
+      "text": "concentrate more on the summary or the in the main aspect of the"
+    },
+    {
+      "i": 298,
+      "start": 2054.32,
+      "end": 2057.6,
+      "text": "barshi which is being covered by explanation."
+    },
+    {
+      "i": 299,
+      "start": 2060.12,
+      "end": 2067.48,
+      "text": "Therefore Krishna says nyaninaya tu tad atnyanam yesham nasidam"
+    },
+    {
+      "i": 300,
+      "start": 2067.52,
+      "end": 2074.199,
+      "text": "atmanaha desham adityavatnyanam prakashyathi prakashyathi"
+    },
+    {
+      "i": 301,
+      "start": 2074.96,
+      "end": 2085.639,
+      "text": "patparam the 16th verse yanenathu esham nasita dhatmaha"
+    },
+    {
+      "i": 302,
+      "start": 2085.8,
+      "end": 2097.88,
+      "text": "atnyanam nasita bhavati when the jandabaha Mohita Bhavanti by"
+    },
+    {
+      "i": 303,
+      "start": 2097.88,
+      "end": 2106.4,
+      "text": "deluded by the Atnanam Nyana is the antidote for it of those who"
+    },
+    {
+      "i": 304,
+      "start": 2106.4,
+      "end": 2117.52,
+      "text": "that governing pertaining to the atman gets destroyed like what"
+    },
+    {
+      "i": 305,
+      "start": 2117.52,
+      "end": 2123.92,
+      "text": "is tesham tyanam adityabatat param prakashyathi like the sun"
+    },
+    {
+      "i": 306,
+      "start": 2123.92,
+      "end": 2129.48,
+      "text": "illuminates that supreme that is the nature of the Atma."
+    },
+    {
+      "i": 307,
+      "start": 2134.36,
+      "end": 2141.72,
+      "text": "This is the counterpoint of the 15th where its atnyana rhythm is"
+    },
+    {
+      "i": 308,
+      "start": 2141.72,
+      "end": 2148.24,
+      "text": "being referred here. In this verse, Nyana destroys"
+    },
+    {
+      "i": 309,
+      "start": 2148.24,
+      "end": 2154.36,
+      "text": "atnyana like the darkness is dispelled by the sun."
+    },
+    {
+      "i": 310,
+      "start": 2159.16,
+      "end": 2163.56,
+      "text": "So Nyayana by knowledge or truth."
+    },
+    {
+      "i": 311,
+      "start": 2163.56,
+      "end": 2171.64,
+      "text": "Nyana as the instrumental thing specifies that nyana as the"
+    },
+    {
+      "i": 312,
+      "start": 2171.64,
+      "end": 2174.4,
+      "text": "operative Causeway for at Nyana's destruction."
+    },
+    {
+      "i": 313,
+      "start": 2175.84,
+      "end": 2184.92,
+      "text": "Here is where the lot of arguments takes place in the"
+    },
+    {
+      "i": 314,
+      "start": 2185.12,
+      "end": 2187.8,
+      "text": "Barshias and the commentaries which are following."
+    },
+    {
+      "i": 315,
+      "start": 2190.08,
+      "end": 2195.12,
+      "text": "If Nyana can destroy Atnyana, how can Atnyana cover that"
+    },
+    {
+      "i": 316,
+      "start": 2195.12,
+      "end": 2203.56,
+      "text": "Nyana? Nyana has the operative cause"
+    },
+    {
+      "i": 317,
+      "start": 2203.56,
+      "end": 2207.88,
+      "text": "for Atnyana's destruction, but at the same time the same"
+    },
+    {
+      "i": 318,
+      "start": 2207.88,
+      "end": 2212.36,
+      "text": "Atnyana is covering the then becomes diluted."
+    },
+    {
+      "i": 319,
+      "start": 2215.8,
+      "end": 2220.08,
+      "text": "This is where Shankaracharya's Kevalat Nyana Moksha Siddhanda"
+    },
+    {
+      "i": 320,
+      "start": 2220.08,
+      "end": 2230.32,
+      "text": "started in a grammatical form. Nyana alone, Kevalatnyana, not"
+    },
+    {
+      "i": 321,
+      "start": 2230.32,
+      "end": 2235.4,
+      "text": "karma, Upasana or any combination is the direct means"
+    },
+    {
+      "i": 322,
+      "start": 2235.4,
+      "end": 2243.88,
+      "text": "of atnyanasha because the upasana or a combination of"
+    },
+    {
+      "i": 323,
+      "start": 2243.88,
+      "end": 2250.44,
+      "text": "karma and upasana all are from stemming from identification"
+    },
+    {
+      "i": 324,
+      "start": 2250.44,
+      "end": 2255.56,
+      "text": "that I am the jandu jiva, not that atma."
+    },
+    {
+      "i": 325,
+      "start": 2259.88,
+      "end": 2264.28,
+      "text": "So what is Nyana? Sankaracharya identifies it as a"
+    },
+    {
+      "i": 326,
+      "start": 2264.28,
+      "end": 2270.12,
+      "text": "Brahma atmak, aikeyana. That is that origin."
+    },
+    {
+      "i": 327,
+      "start": 2270.12,
+      "end": 2274.64,
+      "text": "That is the truth Nyana, the direct and immediate recognition"
+    },
+    {
+      "i": 328,
+      "start": 2274.64,
+      "end": 2278.96,
+      "text": "of the identity of the individual Atman with Brahman"
+    },
+    {
+      "i": 329,
+      "start": 2281.6,
+      "end": 2286.12,
+      "text": "arising through Sravanamana Nidhidyasana on Mahavakyas."
+    },
+    {
+      "i": 330,
+      "start": 2289.12,
+      "end": 2293.6,
+      "text": "And this is not the Paroksat Nyana, the mediate knowledge"
+    },
+    {
+      "i": 331,
+      "start": 2293.6,
+      "end": 2298.28,
+      "text": "through the inference and testimony alone or Karmat Nyana,"
+    },
+    {
+      "i": 332,
+      "start": 2299.04,
+      "end": 2305.08,
+      "text": "knowledge combined with action or Upasanat Nyana, the"
+    },
+    {
+      "i": 333,
+      "start": 2305.08,
+      "end": 2313.72,
+      "text": "meditative knowledge which is qualified in the Yoga Sutras as"
+    },
+    {
+      "i": 334,
+      "start": 2313.72,
+      "end": 2316.84,
+      "text": "a qualified Brahman, conditional Brahman."
+    },
+    {
+      "i": 335,
+      "start": 2317.72,
+      "end": 2324.8,
+      "text": "Brahman is not conditional but Aparoksha, Anwava, pratyaknyana,"
+    },
+    {
+      "i": 336,
+      "start": 2326.24,
+      "end": 2335.24,
+      "text": "the immediate non mediated recognition of Tatomasi or the"
+    },
+    {
+      "i": 337,
+      "start": 2335.24,
+      "end": 2337.92,
+      "text": "Sachin recognizing itself as Brahman."
+    },
+    {
+      "i": 338,
+      "start": 2345.82,
+      "end": 2347.9,
+      "text": "Krishna has used the word Thudar."
+    },
+    {
+      "i": 339,
+      "start": 2348.98,
+      "end": 2358.52,
+      "text": "Thu is a indeclinable. However, is the turning point to"
+    },
+    {
+      "i": 340,
+      "start": 2358.84,
+      "end": 2363.12,
+      "text": "of the prakrana changing from the karthurtyabakthurka to the"
+    },
+    {
+      "i": 341,
+      "start": 2363.12,
+      "end": 2368.16,
+      "text": "kyana by ending the word tena muhandi jandava."
+    },
+    {
+      "i": 342,
+      "start": 2370.32,
+      "end": 2381.0,
+      "text": "The the jiva is deluded by ignorance but however, for those"
+    },
+    {
+      "i": 343,
+      "start": 2381.28,
+      "end": 2390.36,
+      "text": "for those whose ignorance have been destroyed by Pyana is a"
+    },
+    {
+      "i": 344,
+      "start": 2390.36,
+      "end": 2396.88,
+      "text": "pivot from bondage to freedom, from moha to Prakasha, from"
+    },
+    {
+      "i": 345,
+      "start": 2396.88,
+      "end": 2405.92,
+      "text": "ignorance to knowledge atnyana to pyana, that ignorance which"
+    },
+    {
+      "i": 346,
+      "start": 2405.92,
+      "end": 2413.84,
+      "text": "is. The Causeway for the Moha which"
+    },
+    {
+      "i": 347,
+      "start": 2413.84,
+      "end": 2418.84,
+      "text": "was mentioned atnyane Nagartham Tyanam earlier, the ignorance"
+    },
+    {
+      "i": 348,
+      "start": 2418.84,
+      "end": 2424.4,
+      "text": "that veiled Nyana, the same ignorance that is destroyed."
+    },
+    {
+      "i": 349,
+      "start": 2428.92,
+      "end": 2439.56,
+      "text": "So which Tyana was covered? That is where the important lies"
+    },
+    {
+      "i": 350,
+      "start": 2442.8,
+      "end": 2449.2,
+      "text": "here. The Atnyana becomes Nashita or"
+    },
+    {
+      "i": 351,
+      "start": 2449.2,
+      "end": 2453.64,
+      "text": "destroyed by the very Pyana it had veiled."
+    },
+    {
+      "i": 352,
+      "start": 2457.48,
+      "end": 2461.84,
+      "text": "The veiler destroyed by the Veiled Avidya."
+    },
+    {
+      "i": 353,
+      "start": 2465.0,
+      "end": 2473.4,
+      "text": "It is that the smoke covered the fire, so the light was not seen."
+    },
+    {
+      "i": 354,
+      "start": 2475.04,
+      "end": 2484.88,
+      "text": "But the moment the light becomes a true light, the smoke"
+    },
+    {
+      "i": 355,
+      "start": 2485.88,
+      "end": 2492.04,
+      "text": "vanishes. The brilliance and the light"
+    },
+    {
+      "i": 356,
+      "start": 2493.28,
+      "end": 2497.28,
+      "text": "dispels the smoke which was covering it till then."
+    },
+    {
+      "i": 357,
+      "start": 2504.44,
+      "end": 2516.32,
+      "text": "So a sham nashitam, that which was causing the fire, has been"
+    },
+    {
+      "i": 358,
+      "start": 2516.32,
+      "end": 2523.52,
+      "text": "caused to perish. Now nashitam means perish, So"
+    },
+    {
+      "i": 359,
+      "start": 2523.52,
+      "end": 2526.0,
+      "text": "the destruction, it is not a suppression."
+    },
+    {
+      "i": 360,
+      "start": 2527.88,
+      "end": 2531.96,
+      "text": "The fire which was the brilliance of the light of the"
+    },
+    {
+      "i": 361,
+      "start": 2531.96,
+      "end": 2542.6,
+      "text": "fire which was covered by the smoke, becomes weakened and then"
+    },
+    {
+      "i": 362,
+      "start": 2543.72,
+      "end": 2551.8,
+      "text": "totally eliminated. Nauseum nerrurthum, that is when"
+    },
+    {
+      "i": 363,
+      "start": 2551.8,
+      "end": 2560.84,
+      "text": "the the fire was there present but when the Moha, raga, Dwesha"
+    },
+    {
+      "i": 364,
+      "start": 2560.84,
+      "end": 2566.92,
+      "text": "everything was there in the intellect that Nyana could not"
+    },
+    {
+      "i": 365,
+      "start": 2569.48,
+      "end": 2581.72,
+      "text": "remove the ignorance when you when we understand that we are"
+    },
+    {
+      "i": 366,
+      "start": 2581.72,
+      "end": 2589.08,
+      "text": "not victims of Raga and Dwesha which were the highway thieves"
+    },
+    {
+      "i": 367,
+      "start": 2590.6,
+      "end": 2595.56,
+      "text": "which was taking away our progress through Srabanamanan"
+    },
+    {
+      "i": 368,
+      "start": 2595.64,
+      "end": 2605.68,
+      "text": "nithidhiasana hijacking it. When that was identified and"
+    },
+    {
+      "i": 369,
+      "start": 2605.68,
+      "end": 2618.36,
+      "text": "known, the same delusion which was hijacking our process of"
+    },
+    {
+      "i": 370,
+      "start": 2618.36,
+      "end": 2625.6,
+      "text": "Saravanamana nidhidyasana gets destroyed."
+    },
+    {
+      "i": 371,
+      "start": 2625.6,
+      "end": 2631.44,
+      "text": "Nashita Bhavandi that that Nyana which is in the form of Raghad"
+    },
+    {
+      "i": 372,
+      "start": 2631.44,
+      "end": 2636.28,
+      "text": "visha etcetera, which was prohibiting the Shravanamana"
+    },
+    {
+      "i": 373,
+      "start": 2636.28,
+      "end": 2640.64,
+      "text": "nidhidyasana because it was taking us away from the"
+    },
+    {
+      "i": 374,
+      "start": 2640.64,
+      "end": 2646.56,
+      "text": "Shravanamana Nidhyasana that Bhadagat Nyana."
+    },
+    {
+      "i": 375,
+      "start": 2649.56,
+      "end": 2658.76,
+      "text": "That nyana was getting affected by the ragadivish but the atma"
+    },
+    {
+      "i": 376,
+      "start": 2659.84,
+      "end": 2668.48,
+      "text": "was untouched even when it was being present there due to the"
+    },
+    {
+      "i": 377,
+      "start": 2668.48,
+      "end": 2672.36,
+      "text": "raghadvesh. Our identification."
+    },
+    {
+      "i": 378,
+      "start": 2673.24,
+      "end": 2678.44,
+      "text": "The individual's identification with the andakarana, with the"
+    },
+    {
+      "i": 379,
+      "start": 2678.44,
+      "end": 2688.24,
+      "text": "inner instrument where the atma is present but was not not"
+    },
+    {
+      "i": 380,
+      "start": 2688.44,
+      "end": 2691.88,
+      "text": "shining due to the wailing of the ragadvesha."
+    },
+    {
+      "i": 381,
+      "start": 2694.2,
+      "end": 2698.24,
+      "text": "Because the individual was identifying with the raga and"
+    },
+    {
+      "i": 382,
+      "start": 2698.24,
+      "end": 2706.88,
+      "text": "dvesha even though atmatnyana was present."
+    },
+    {
+      "i": 383,
+      "start": 2707.4,
+      "end": 2714.88,
+      "text": "The ignorance of the nature of the atmatnyana becomes the"
+    },
+    {
+      "i": 384,
+      "start": 2714.88,
+      "end": 2721.76,
+      "text": "adyasa by which the atman was mistaken by the individual as"
+    },
+    {
+      "i": 385,
+      "start": 2721.76,
+      "end": 2727.76,
+      "text": "the body, mind or andakarana. The atma Dhibana of the"
+    },
+    {
+      "i": 386,
+      "start": 2727.8,
+      "end": 2731.96,
+      "text": "identification of the individuality became the karta"
+    },
+    {
+      "i": 387,
+      "start": 2731.96,
+      "end": 2737.12,
+      "text": "in the bokta and the raga Dwesha controlled the karta in the"
+    },
+    {
+      "i": 388,
+      "start": 2737.12,
+      "end": 2739.6,
+      "text": "bokta, the doership and the enjoyership."
+    },
+    {
+      "i": 389,
+      "start": 2741.2,
+      "end": 2750.44,
+      "text": "It is this atmana which becomes the destruction of the"
+    },
+    {
+      "i": 390,
+      "start": 2750.44,
+      "end": 2756.0,
+      "text": "individual towards moksha or towards the freedom."
+    },
+    {
+      "i": 391,
+      "start": 2759.2,
+      "end": 2771.2,
+      "text": "So Desham Adityavath Desham means the identification with"
+    },
+    {
+      "i": 392,
+      "start": 2771.2,
+      "end": 2782.6,
+      "text": "the raga, dwesa etc. Like the sun removes the fog"
+    },
+    {
+      "i": 393,
+      "start": 2783.52,
+      "end": 2791.28,
+      "text": "which removes which obstructs the visibility or the fire which"
+    },
+    {
+      "i": 394,
+      "start": 2791.28,
+      "end": 2793.92,
+      "text": "removed the smoke which was covering it."
+    },
+    {
+      "i": 395,
+      "start": 2795.8,
+      "end": 2799.84,
+      "text": "Adityavat here is the example is given is like the sun simile."
+    },
+    {
+      "i": 396,
+      "start": 2804.84,
+      "end": 2828.56,
+      "text": "The physical sun is nook not seen in the thick fog or the fog"
+    },
+    {
+      "i": 397,
+      "start": 2828.84,
+      "end": 2835.2,
+      "text": "becomes the obstruction objects. The luminicity, illumination,"
+    },
+    {
+      "i": 398,
+      "start": 2835.2,
+      "end": 2846.52,
+      "text": "power of the sun as the fog diminishes at the same power of"
+    },
+    {
+      "i": 399,
+      "start": 2846.52,
+      "end": 2856.28,
+      "text": "the sun the more we identify toward the Atman from the body"
+    },
+    {
+      "i": 400,
+      "start": 2856.28,
+      "end": 2862.12,
+      "text": "and the mind. The Atman becomes powerful and"
+    },
+    {
+      "i": 401,
+      "start": 2862.2,
+      "end": 2871.64,
+      "text": "illuminates the ignorance. Same way that Nyana that I am"
+    },
+    {
+      "i": 402,
+      "start": 2871.64,
+      "end": 2877.8,
+      "text": "the Atman of, that Nyana of the Atman itself is what were we are"
+    },
+    {
+      "i": 403,
+      "start": 2877.8,
+      "end": 2880.72,
+      "text": "identifying at the and the karna level."
+    },
+    {
+      "i": 404,
+      "start": 2884.56,
+      "end": 2891.08,
+      "text": "The raga and dwesha which were holding us becomes sithilikaran"
+    },
+    {
+      "i": 405,
+      "start": 2891.24,
+      "end": 2900.04,
+      "text": "or becomes nullified by the process of identification with"
+    },
+    {
+      "i": 406,
+      "start": 2900.04,
+      "end": 2905.28,
+      "text": "the Atma. Therefore Nyana illumines by its"
+    },
+    {
+      "i": 407,
+      "start": 2905.28,
+      "end": 2910.8,
+      "text": "own light the Sayamprakasha. Therefore it needs no other"
+    },
+    {
+      "i": 408,
+      "start": 2910.8,
+      "end": 2917.6,
+      "text": "knowledge to know itself. The more we identify with Nyana,"
+    },
+    {
+      "i": 409,
+      "start": 2918.28,
+      "end": 2924.72,
+      "text": "that Nyana illumines immediately as Aparoksha, not consequently"
+    },
+    {
+      "i": 410,
+      "start": 2925.04,
+      "end": 2932.84,
+      "text": "through inference in that Nyana's light at param Brahman"
+    },
+    {
+      "i": 411,
+      "start": 2933.72,
+      "end": 2937.4,
+      "text": "becomes directly visible. Sakshad Aparokshat Brahma."
+    },
+    {
+      "i": 412,
+      "start": 2940.08,
+      "end": 2942.88,
+      "text": "The deepest meaning is Atman itself is the sun."
+    },
+    {
+      "i": 413,
+      "start": 2944.36,
+      "end": 2950.44,
+      "text": "The nyanam here is not merely an instrument of illumination, but"
+    },
+    {
+      "i": 414,
+      "start": 2951.52,
+      "end": 2956.04,
+      "text": "Atmanaschith, self-conscious, the self illuminous self"
+    },
+    {
+      "i": 415,
+      "start": 2956.04,
+      "end": 2962.48,
+      "text": "consciousness, which is both the knower and the light by which"
+    },
+    {
+      "i": 416,
+      "start": 2962.48,
+      "end": 2968.24,
+      "text": "the knowing occurs. The Sun similarly points to the"
+    },
+    {
+      "i": 417,
+      "start": 2968.24,
+      "end": 2976.16,
+      "text": "Soyam Prakasha, Soyam Jyoti, the self luminosity of the Atman, as"
+    },
+    {
+      "i": 418,
+      "start": 2976.16,
+      "end": 2980.88,
+      "text": "the ultimate ground of all knowing in the Burkha Dharani"
+    },
+    {
+      "i": 419,
+      "start": 2980.88,
+      "end": 2988.28,
+      "text": "openers at 4 point 3.61 of the Sankara's most frequently cited"
+    },
+    {
+      "i": 420,
+      "start": 2988.28,
+      "end": 2998.52,
+      "text": "passage, Aditya's Chandrama Vidhyut, Atesham Devatanam"
+    },
+    {
+      "i": 421,
+      "start": 3000.36,
+      "end": 3006.48,
+      "text": "Sarvasan, Atmaiwajodihi, the sun, the moon, the fire, the"
+    },
+    {
+      "i": 422,
+      "start": 3006.48,
+      "end": 3010.48,
+      "text": "lightning. For this Purusha, the Atmai"
+    },
+    {
+      "i": 423,
+      "start": 3010.48,
+      "end": 3019.68,
+      "text": "alone is the light in the five sixteenths beat this verse."
+    },
+    {
+      "i": 424,
+      "start": 3020.96,
+      "end": 3025.6,
+      "text": "The Upamah or the sun echoes the Upanishadic teaching."
+    },
+    {
+      "i": 425,
+      "start": 3026.64,
+      "end": 3032.12,
+      "text": "The sun simile towards the ultimate Atman is the original"
+    },
+    {
+      "i": 426,
+      "start": 3032.12,
+      "end": 3037.92,
+      "text": "light. The physical sun is only a"
+    },
+    {
+      "i": 427,
+      "start": 3037.92,
+      "end": 3045.0,
+      "text": "reflection. Why Aditya specifically not"
+    },
+    {
+      "i": 428,
+      "start": 3045.0,
+      "end": 3048.6,
+      "text": "Chandrama or Agni? Why not the Chandramam?"
+    },
+    {
+      "i": 429,
+      "start": 3049.28,
+      "end": 3053.16,
+      "text": "Because the sun is the self luminous same Prakash."
+    },
+    {
+      "i": 430,
+      "start": 3054.24,
+      "end": 3059.04,
+      "text": "Unlike the moon which reflects or unlike the fire which"
+    },
+    {
+      "i": 431,
+      "start": 3059.04,
+      "end": 3063.12,
+      "text": "requires a fuel, the sun illumines everything"
+    },
+    {
+      "i": 432,
+      "start": 3063.12,
+      "end": 3068.32,
+      "text": "simultaneously. Servaprakashana Nyana illumines"
+    },
+    {
+      "i": 433,
+      "start": 3068.32,
+      "end": 3071.36,
+      "text": "all reality at once in a single recognition."
+    },
+    {
+      "i": 434,
+      "start": 3072.96,
+      "end": 3076.68,
+      "text": "Sun's light cannot Co exist with darkness."
+    },
+    {
+      "i": 435,
+      "start": 3077.84,
+      "end": 3081.84,
+      "text": "Whereas the Sun is fully present, the darkness is"
+    },
+    {
+      "i": 436,
+      "start": 3081.84,
+      "end": 3085.72,
+      "text": "impossible. Where Aparokshat Nyana is fully"
+    },
+    {
+      "i": 437,
+      "start": 3085.72,
+      "end": 3095.08,
+      "text": "present, Atnyana is impossible. Therefore, the Nyayanam is the"
+    },
+    {
+      "i": 438,
+      "start": 3095.08,
+      "end": 3098.88,
+      "text": "object of wailing veiled by Atnyana."
+    },
+    {
+      "i": 439,
+      "start": 3099.36,
+      "end": 3104.48,
+      "text": "Atnyana in Aartham that destroyer of Atnyana is the same"
+    },
+    {
+      "i": 440,
+      "start": 3104.48,
+      "end": 3113.32,
+      "text": "Nyana Nyana in Nashitam Bhavati the subject of illumination the"
+    },
+    {
+      "i": 441,
+      "start": 3113.32,
+      "end": 3116.72,
+      "text": "Illumina Tatparam Prattyanam Prakashyathi."
+    },
+    {
+      "i": 442,
+      "start": 3119.92,
+      "end": 3128.84,
+      "text": "So the Atnyana covers in the 15th verse the Nyana liberation"
+    },
+    {
+      "i": 443,
+      "start": 3129.6,
+      "end": 3136.32,
+      "text": "Atnyana is the destroying by Atnyana is illuminating or self"
+    },
+    {
+      "i": 444,
+      "start": 3136.72,
+      "end": 3141.4,
+      "text": "Tatparam in the 16 second verse second lie."
+    },
+    {
+      "i": 445,
+      "start": 3143.04,
+      "end": 3148.6,
+      "text": "So the from the movement from the veiled arithm to the"
+    },
+    {
+      "i": 446,
+      "start": 3148.6,
+      "end": 3154.92,
+      "text": "liberating luminings is the secological arc of Atmatmana,"
+    },
+    {
+      "i": 447,
+      "start": 3156.36,
+      "end": 3162.08,
+      "text": "the Saint Atman Atninas. Chit that was apparently veiled"
+    },
+    {
+      "i": 448,
+      "start": 3162.08,
+      "end": 3167.92,
+      "text": "now operates as the destroyer of its own whale and then signs the"
+    },
+    {
+      "i": 449,
+      "start": 3167.92,
+      "end": 3176.72,
+      "text": "Illuminar Brahman, the subject, the instrument, the light one"
+    },
+    {
+      "i": 450,
+      "start": 3176.72,
+      "end": 3181.52,
+      "text": "and the same Sidmath, Roha Sadashiva, the pure"
+    },
+    {
+      "i": 451,
+      "start": 3181.52,
+      "end": 3187.2,
+      "text": "consciousness that is the simultaneously the nowhere and"
+    },
+    {
+      "i": 452,
+      "start": 3187.2,
+      "end": 3189.08,
+      "text": "the known and the act of knowing."
+    },
+    {
+      "i": 453,
+      "start": 3189.6,
+      "end": 3196.12,
+      "text": "In the Brahmasartathkar that is what is shown by the word"
+    },
+    {
+      "i": 454,
+      "start": 3196.12,
+      "end": 3203.52,
+      "text": "Prakashyathi, that nyana pratashti Tatparam does not mean"
+    },
+    {
+      "i": 455,
+      "start": 3203.52,
+      "end": 3211.8,
+      "text": "that Nyana illumines Brahman as an external object as the sun"
+    },
+    {
+      "i": 456,
+      "start": 3211.8,
+      "end": 3217.56,
+      "text": "illumines the pot. It means that Nyana which is the"
+    },
+    {
+      "i": 457,
+      "start": 3217.56,
+      "end": 3224.6,
+      "text": "nature of Atman or Atma Swrupa as Jit removed the veiling that"
+    },
+    {
+      "i": 458,
+      "start": 3224.6,
+      "end": 3229.48,
+      "text": "obstructed the recognition of Brahman and in that removal"
+    },
+    {
+      "i": 459,
+      "start": 3230.2,
+      "end": 3235.16,
+      "text": "Brahman Self luminously manifests itself through the now"
+    },
+    {
+      "i": 460,
+      "start": 3235.16,
+      "end": 3240.4,
+      "text": "present Andakarana. The illumination of Brahman"
+    },
+    {
+      "i": 461,
+      "start": 3240.4,
+      "end": 3245.04,
+      "text": "recognition itself through the purified instrument of Nyana."
+    },
+    {
+      "i": 462,
+      "start": 3247.2,
+      "end": 3250.28,
+      "text": "This is the non dual structure of Brahmasachakara."
+    },
+    {
+      "i": 463,
+      "start": 3251.12,
+      "end": 3258.12,
+      "text": "There is no separate knower who knows Brahman as a known object."
+    },
+    {
+      "i": 464,
+      "start": 3259.2,
+      "end": 3265.16,
+      "text": "That nyana that illumines Brahman is Tatparam is that it"
+    },
+    {
+      "i": 465,
+      "start": 3265.16,
+      "end": 3269.2,
+      "text": "is illumined as Brahman. The illumination itself is"
+    },
+    {
+      "i": 466,
+      "start": 3269.2,
+      "end": 3276.28,
+      "text": "Brahman Ekameva Dutiya, that supreme Tatparam."
+    },
+    {
+      "i": 467,
+      "start": 3280.12,
+      "end": 3284.64,
+      "text": "So at the primary reading of Shankaracharya's Bashiya is that"
+    },
+    {
+      "i": 468,
+      "start": 3285.16,
+      "end": 3290.72,
+      "text": "the absolute non dual Nirguna Brahman Tat from which Tatumasi"
+    },
+    {
+      "i": 469,
+      "start": 3292.56,
+      "end": 3295.36,
+      "text": "the secondary reading is Paramatman."
+    },
+    {
+      "i": 470,
+      "start": 3296.04,
+      "end": 3302.04,
+      "text": "The Supreme Self has the ground of Dehi, Vibhu, Prabhu etc which"
+    },
+    {
+      "i": 471,
+      "start": 3302.04,
+      "end": 3305.68,
+      "text": "has been given between verses 13 to 15."
+    },
+    {
+      "i": 472,
+      "start": 3307.76,
+      "end": 3315.32,
+      "text": "The Tat is the Vibhu or the Prabhu which is there in the"
+    },
+    {
+      "i": 473,
+      "start": 3315.32,
+      "end": 3323.16,
+      "text": "verses 15 and 14. So it is the Brahman itself"
+    },
+    {
+      "i": 474,
+      "start": 3323.68,
+      "end": 3329.4,
+      "text": "appearing through the Upadhi to the body as a city, Aparanjiva,"
+    },
+    {
+      "i": 475,
+      "start": 3330.08,
+      "end": 3334.8,
+      "text": "while remaining in its own nature as Absolute, transcendent"
+    },
+    {
+      "i": 476,
+      "start": 3334.92,
+      "end": 3340.28,
+      "text": "and Self luminous Brahman as the Param, Supreme and beyond"
+    },
+    {
+      "i": 477,
+      "start": 3340.76,
+      "end": 3345.84,
+      "text": "indicate that the Nyana illumines and is not an object"
+    },
+    {
+      "i": 478,
+      "start": 3346.4,
+      "end": 3352.96,
+      "text": "within the field of ordinary knowledge of Aparavidya, but the"
+    },
+    {
+      "i": 479,
+      "start": 3352.96,
+      "end": 3358.84,
+      "text": "Epsilon Absolute that transcends all subject, object duality."
+    },
+    {
+      "i": 480,
+      "start": 3360.44,
+      "end": 3367.08,
+      "text": "The Paravidya's object, the Brahman of the Upanishad, the"
+    },
+    {
+      "i": 481,
+      "start": 3367.4,
+      "end": 3373.76,
+      "text": "the illumination of Tatparam by Nyana, is thus the self"
+    },
+    {
+      "i": 482,
+      "start": 3373.76,
+      "end": 3379.52,
+      "text": "recognition of Brahman. The moment when the Jiva through"
+    },
+    {
+      "i": 483,
+      "start": 3379.52,
+      "end": 3386.24,
+      "text": "Thatnyana that destroys thatnyana recognizes that I am"
+    },
+    {
+      "i": 484,
+      "start": 3386.24,
+      "end": 3391.88,
+      "text": "pat aham Brahmasmi, I am always that."
+    },
+    {
+      "i": 485,
+      "start": 3394.92,
+      "end": 3401.68,
+      "text": "So this verse is a statement of realization."
+    },
+    {
+      "i": 486,
+      "start": 3405.36,
+      "end": 3409.28,
+      "text": "Therefore the logical chain is Atnyana is the sole cause for"
+    },
+    {
+      "i": 487,
+      "start": 3409.28,
+      "end": 3414.52,
+      "text": "samsara. Nyana is the sole destroyer of"
+    },
+    {
+      "i": 488,
+      "start": 3414.52,
+      "end": 3418.76,
+      "text": "Atnyana. The destruction of Atnyana"
+    },
+    {
+      "i": 489,
+      "start": 3418.76,
+      "end": 3422.96,
+      "text": "reveals tat param that param Atma."
+    },
+    {
+      "i": 490,
+      "start": 3424.16,
+      "end": 3432.96,
+      "text": "Therefore Nyana removes the Atnyana and tat param Prakasha"
+    },
+    {
+      "i": 491,
+      "start": 3433.48,
+      "end": 3441.44,
+      "text": "Boksha is the result. Nyana alone is the sachat"
+    },
+    {
+      "i": 492,
+      "start": 3441.44,
+      "end": 3448.8,
+      "text": "sadhana for motion. Shankaracharya mentions the"
+    },
+    {
+      "i": 493,
+      "start": 3448.8,
+      "end": 3454.0,
+      "text": "samuchaya anti samuchaya position that ground the causal"
+    },
+    {
+      "i": 494,
+      "start": 3454.0,
+      "end": 3458.32,
+      "text": "analysis of 15 and 16 where ratnyana is the cause for the"
+    },
+    {
+      "i": 495,
+      "start": 3459.2,
+      "end": 3461.24,
+      "text": "identification with the body mind."
+    },
+    {
+      "i": 496,
+      "start": 3461.24,
+      "end": 3467.64,
+      "text": "In intellect, Myana is the only thing that can remove it."
+    },
+    {
+      "i": 497,
+      "start": 3468.92,
+      "end": 3476.68,
+      "text": "Karma which is being the part of the body mind complex keeps the"
+    },
+    {
+      "i": 498,
+      "start": 3477.24,
+      "end": 3488.32,
+      "text": "enabler in the action of the non ignorance and that cannot be"
+    },
+    {
+      "i": 499,
+      "start": 3488.32,
+      "end": 3493.04,
+      "text": "destroyed by the karma. Only Nyana can do that."
+    },
+    {
+      "i": 500,
+      "start": 3494.92,
+      "end": 3502.72,
+      "text": "Krishna's this verse is also explaining the same thing."
+    },
+    {
+      "i": 501,
+      "start": 3507.96,
+      "end": 3513.92,
+      "text": "So the example of the sun here. Epistemologically, the sun makes"
+    },
+    {
+      "i": 502,
+      "start": 3513.92,
+      "end": 3518.04,
+      "text": "objects visible that were present and unseen in the"
+    },
+    {
+      "i": 503,
+      "start": 3518.04,
+      "end": 3522.8,
+      "text": "darkness. Nyana makes Brahman"
+    },
+    {
+      "i": 504,
+      "start": 3522.8,
+      "end": 3526.72,
+      "text": "recognizable. Brahman was always present,"
+    },
+    {
+      "i": 505,
+      "start": 3527.36,
+      "end": 3533.04,
+      "text": "Nitya Siddha but unrecognized due to Atnyana Avarna."
+    },
+    {
+      "i": 506,
+      "start": 3534.56,
+      "end": 3539.6,
+      "text": "The sun does not create the objects, it reveals them."
+    },
+    {
+      "i": 507,
+      "start": 3540.88,
+      "end": 3547.88,
+      "text": "Same way Nyana does not create Brahman, it reveals Brahman that"
+    },
+    {
+      "i": 508,
+      "start": 3547.88,
+      "end": 3554.28,
+      "text": "was always already present in one's own nature at the level 2."
+    },
+    {
+      "i": 509,
+      "start": 3554.32,
+      "end": 3560.16,
+      "text": "Ontologically sun is 1 yet illumines all objects without"
+    },
+    {
+      "i": 510,
+      "start": 3560.16,
+      "end": 3563.68,
+      "text": "becoming any one of them, remaining in the swarupa of"
+    },
+    {
+      "i": 511,
+      "start": 3563.68,
+      "end": 3566.0,
+      "text": "their own nature of light, pure light."
+    },
+    {
+      "i": 512,
+      "start": 3566.64,
+      "end": 3572.76,
+      "text": "Same way Nyana Atman Atman Swarupa is Nyana is the one"
+    },
+    {
+      "i": 513,
+      "start": 3572.92,
+      "end": 3578.24,
+      "text": "Ekamewa Dudhiya yet appears to illumine the multiplicity of the"
+    },
+    {
+      "i": 514,
+      "start": 3578.24,
+      "end": 3584.64,
+      "text": "world without becoming any object in the multiplicity, the"
+    },
+    {
+      "i": 515,
+      "start": 3584.64,
+      "end": 3589.52,
+      "text": "Nyana Swarupa of 1 Brahman appearing as the principal"
+    },
+    {
+      "i": 516,
+      "start": 3590.28,
+      "end": 3593.16,
+      "text": "aluminium principle in the Jiva's recognition."
+    },
+    {
+      "i": 517,
+      "start": 3594.0,
+      "end": 3597.32,
+      "text": "At the advaitic level, it is the Swayam Jyodhi."
+    },
+    {
+      "i": 518,
+      "start": 3598.68,
+      "end": 3601.88,
+      "text": "The sun does not need another light to illumine itself."
+    },
+    {
+      "i": 519,
+      "start": 3602.92,
+      "end": 3605.64,
+      "text": "Is the swayam pratasam of the self luminous?"
+    },
+    {
+      "i": 520,
+      "start": 3606.24,
+      "end": 3609.12,
+      "text": "Same way the atmat nyana is self luminous."
+    },
+    {
+      "i": 521,
+      "start": 3609.6,
+      "end": 3616.2,
+      "text": "It does not need another nyana to know the atmu nyatr nyayanat"
+    },
+    {
+      "i": 522,
+      "start": 3616.28,
+      "end": 3622.72,
+      "text": "nyayat all the triputis the knower known and the knowing the"
+    },
+    {
+      "i": 523,
+      "start": 3622.72,
+      "end": 3626.64,
+      "text": "triputi collapses in the self luminosity."
+    },
+    {
+      "i": 524,
+      "start": 3627.76,
+      "end": 3631.68,
+      "text": "This is the Brahadaranyaga teaching nata tarasuriyo"
+    },
+    {
+      "i": 525,
+      "start": 3631.68,
+      "end": 3636.24,
+      "text": "bahajina chandradarakam dasya basa sarbamidambi."
+    },
+    {
+      "i": 526,
+      "start": 3636.52,
+      "end": 3642.4,
+      "text": "The sun does not shine the nor does the moon or the stars by"
+    },
+    {
+      "i": 527,
+      "start": 3642.4,
+      "end": 3647.64,
+      "text": "its light all this is shines. The same thing is in the Muntaka"
+    },
+    {
+      "i": 528,
+      "start": 3647.64,
+      "end": 3654.08,
+      "text": "Upanishad also to 2.2 point 10. The Aditya of the Obama is the"
+    },
+    {
+      "i": 529,
+      "start": 3654.08,
+      "end": 3658.24,
+      "text": "self reflection of the Hyana of Atman's self luminosity."
+    },
+    {
+      "i": 530,
+      "start": 3661.36,
+      "end": 3665.4,
+      "text": "Atman is the greater light than the Sun."
+    },
+    {
+      "i": 531,
+      "start": 3667.24,
+      "end": 3669.68,
+      "text": "Sun is an external manifestation."
+    },
+    {
+      "i": 532,
+      "start": 3674.96,
+      "end": 3680.64,
+      "text": "So in the Mahavatya Tatvamasi Jandogya the Tat the same this"
+    },
+    {
+      "i": 533,
+      "start": 3680.64,
+      "end": 3685.24,
+      "text": "demonstrative pointing towards Brahman aham Brahmasmi in the"
+    },
+    {
+      "i": 534,
+      "start": 3685.24,
+      "end": 3691.24,
+      "text": "Burhadaranya is the param Brahman recognized as one's own"
+    },
+    {
+      "i": 535,
+      "start": 3691.28,
+      "end": 3696.64,
+      "text": "Aham ratnanam Brahma. In the Itreya Upanishad Ratnanam"
+    },
+    {
+      "i": 536,
+      "start": 3696.96,
+      "end": 3700.4,
+      "text": "ratnanam that param is the Supreme Self."
+    },
+    {
+      "i": 537,
+      "start": 3702.08,
+      "end": 3708.8,
+      "text": "Ayamatma Brahma Mahuddu Mandukya Mahavatya is the Dehi Vibhu"
+    },
+    {
+      "i": 538,
+      "start": 3708.8,
+      "end": 3715.8,
+      "text": "Prabhu of 13 to 15 which is the Tatparam Brahman Sotnyanam"
+    },
+    {
+      "i": 539,
+      "start": 3716.4,
+      "end": 3721.36,
+      "text": "Tatparam Prakashyathi. Knowledge illumines the Supreme"
+    },
+    {
+      "i": 540,
+      "start": 3721.92,
+      "end": 3727.36,
+      "text": "when read in the deepest level is the statement that Atman is"
+    },
+    {
+      "i": 541,
+      "start": 3727.68,
+      "end": 3732.92,
+      "text": "as Nyana recognizes itself as Brahman, as the knower of"
+    },
+    {
+      "i": 542,
+      "start": 3732.92,
+      "end": 3740.68,
+      "text": "Brahman known by as Brahman act of knowing using as the hepacity"
+    },
+    {
+      "i": 543,
+      "start": 3740.68,
+      "end": 3752.64,
+      "text": "of Brahman the Aparoksha, Sachatgar and Atma cannot be and"
+    },
+    {
+      "i": 544,
+      "start": 3752.64,
+      "end": 3755.0,
+      "text": "it cannot be wielded by its own nature."
+    },
+    {
+      "i": 545,
+      "start": 3755.8,
+      "end": 3759.2,
+      "text": "Through Atnyana may though Atnyana may conceal the"
+    },
+    {
+      "i": 546,
+      "start": 3759.2,
+      "end": 3763.96,
+      "text": "recognition as the sun is not actually darkened by the clouds,"
+    },
+    {
+      "i": 547,
+      "start": 3764.52,
+      "end": 3767.12,
+      "text": "only apparently hidden from below."
+    },
+    {
+      "i": 548,
+      "start": 3769.68,
+      "end": 3773.92,
+      "text": "When Atnyana is destroyed, Nashitam recognition the Sachi"
+    },
+    {
+      "i": 549,
+      "start": 3773.92,
+      "end": 3782.2,
+      "text": "Satparam Brahman downs itself desham adityavat nyanam like the"
+    },
+    {
+      "i": 550,
+      "start": 3782.2,
+      "end": 3788.08,
+      "text": "sun Yana illumines that Prakaparam which is the Sakshi"
+    },
+    {
+      "i": 551,
+      "start": 3788.08,
+      "end": 3803.08,
+      "text": "in recognizing itself. Therefore the the Atnani"
+    },
+    {
+      "i": 552,
+      "start": 3803.08,
+      "end": 3809.08,
+      "text": "Navarretham pyanam with Nyanayana nashidam Atnyanam the"
+    },
+    {
+      "i": 553,
+      "start": 3809.08,
+      "end": 3816.16,
+      "text": "whale leads getting destroyed. The son of Nyanana rises Atnyana"
+    },
+    {
+      "i": 554,
+      "start": 3816.16,
+      "end": 3827.08,
+      "text": "of the night dissolves. That is is thus own Sartman is"
+    },
+    {
+      "i": 555,
+      "start": 3827.08,
+      "end": 3830.48,
+      "text": "what is capable of removing the ignorance."
+    },
+    {
+      "i": 556,
+      "start": 3831.52,
+      "end": 3835.52,
+      "text": "So our ignorance can be removed only when we realize our own"
+    },
+    {
+      "i": 557,
+      "start": 3835.52,
+      "end": 3845.56,
+      "text": "atman as the swaroopa yanena tuyena atnanena avrada bhushan"
+    },
+    {
+      "i": 558,
+      "start": 3845.96,
+      "end": 3852.16,
+      "text": "jandu Nam Vivek atmat bishena nascism atmanaha bhavati"
+    },
+    {
+      "i": 559,
+      "start": 3853.04,
+      "end": 3862.64,
+      "text": "deshantu jandu Nam Aditya Aditya samastam rupat rupat yatam our"
+    },
+    {
+      "i": 560,
+      "start": 3862.64,
+      "end": 3868.64,
+      "text": "bhasayati tadvat nyanam nayam was to sarvam prakashyati"
+    },
+    {
+      "i": 561,
+      "start": 3868.64,
+      "end": 3873.44,
+      "text": "tatvaram paramartha tatva that is abharshya also same in the"
+    },
+    {
+      "i": 562,
+      "start": 3873.44,
+      "end": 3876.68,
+      "text": "same language. What was explained?"
+    },
+    {
+      "i": 563,
+      "start": 3879.24,
+      "end": 3886.8,
+      "text": "We will take the 17th verse ver we will discuss it Tatvaram"
+    },
+    {
+      "i": 564,
+      "start": 3886.8,
+      "end": 3890.92,
+      "text": "nyanam prakashyet. It is continuing the Nyana"
+    },
+    {
+      "i": 565,
+      "start": 3891.72,
+      "end": 3896.24,
+      "text": "synthesis again in the next verse, also 17th verse, which we"
+    },
+    {
+      "i": 566,
+      "start": 3896.24,
+      "end": 3913.04,
+      "text": "will do it tomorrow."
+    },
+    {
+      "i": 567,
+      "start": 3918.88,
+      "end": 3926.32,
+      "text": "Thank you. Thank you very much, Mindoji."
+    },
+    {
+      "i": 568,
+      "start": 3936.07,
+      "end": 3937.75,
+      "text": "I've opened the chat and hand raising."
+    },
+    {
+      "i": 569,
+      "start": 3937.79,
+      "end": 3940.15,
+      "text": "I think Jessie has her hand up. I don't know if it's an"
+    },
+    {
+      "i": 570,
+      "start": 3940.15,
+      "end": 3942.91,
+      "text": "accident, but I'm going to call her up."
+    },
+    {
+      "i": 571,
+      "start": 3945.35,
+      "end": 3947.27,
+      "text": "No. Jessie raised her hand in"
+    },
+    {
+      "i": 572,
+      "start": 3947.27,
+      "end": 3952.23,
+      "text": "between. Yes, while the glass was going"
+    },
+    {
+      "i": 573,
+      "start": 3952.23,
+      "end": 3956.52,
+      "text": "on. Namaste, Venkat."
+    },
+    {
+      "i": 574,
+      "start": 3960.2,
+      "end": 3967.52,
+      "text": "I think these two verses was the contemplation, the way I was"
+    },
+    {
+      "i": 575,
+      "start": 3967.56,
+      "end": 3972.4,
+      "text": "organizing it. Vindoji, the gnanam covering"
+    },
+    {
+      "i": 576,
+      "start": 3972.4,
+      "end": 3977.08,
+      "text": "gnanam is at the level of the mind."
+    },
+    {
+      "i": 577,
+      "start": 3978.12,
+      "end": 3982.4,
+      "text": "Yes. And this means it gives 2"
+    },
+    {
+      "i": 578,
+      "start": 3982.4,
+      "end": 3987.0,
+      "text": "possibilities. One is you know Nanam is there"
+    },
+    {
+      "i": 579,
+      "start": 3987.64,
+      "end": 3992.68,
+      "text": "and Adnanam is covering it number one."
+    },
+    {
+      "i": 580,
+      "start": 3993.72,
+      "end": 3999.04,
+      "text": "Number two is you know, Nanam is simply, you know, beyond the"
+    },
+    {
+      "i": 581,
+      "start": 3999.04,
+      "end": 4004.04,
+      "text": "mind and Adnanam seem to cover it."
+    },
+    {
+      "i": 582,
+      "start": 4005.52,
+      "end": 4013.04,
+      "text": "These are the two possibilities if if you know that knocking off"
+    },
+    {
+      "i": 583,
+      "start": 4013.04,
+      "end": 4020.0,
+      "text": "of gnanam, the you know what shines forth is simply beyond"
+    },
+    {
+      "i": 584,
+      "start": 4020.0,
+      "end": 4025.4,
+      "text": "the mind because it is just a reflection."
+    },
+    {
+      "i": 585,
+      "start": 4025.4,
+      "end": 4031.24,
+      "text": "That with the self shining that Swarupa is simply reflected in"
+    },
+    {
+      "i": 586,
+      "start": 4031.24,
+      "end": 4036.4,
+      "text": "the mind is simply by removing that with IKEA Gnanam there is a"
+    },
+    {
+      "i": 587,
+      "start": 4036.4,
+      "end": 4042.24,
+      "text": "space made. Hence the gnanam shines in the"
+    },
+    {
+      "i": 588,
+      "start": 4042.24,
+      "end": 4045.6,
+      "text": "mind. Swarupa is shining in the mind."
+    },
+    {
+      "i": 589,
+      "start": 4046.88,
+      "end": 4051.08,
+      "text": "So it is not the gnanam. You know agnanam covering the"
+    },
+    {
+      "i": 590,
+      "start": 4051.08,
+      "end": 4053.2,
+      "text": "gnanam. Agnanam seems to cover the"
+    },
+    {
+      "i": 591,
+      "start": 4053.2,
+      "end": 4055.44,
+      "text": "gnanam. That's."
+    },
+    {
+      "i": 592,
+      "start": 4055.44,
+      "end": 4059.48,
+      "text": "Right, so that is the. First word agnanam seems to"
+    },
+    {
+      "i": 593,
+      "start": 4059.48,
+      "end": 4065.04,
+      "text": "cover the gnanam. That is why if you remember the"
+    },
+    {
+      "i": 594,
+      "start": 4065.04,
+      "end": 4069.6,
+      "text": "my earlier verses first verse is that you know Paranji gani"
+    },
+    {
+      "i": 595,
+      "start": 4069.6,
+      "end": 4075.28,
+      "text": "Vasanth soembu tasmat parang basyadinandaratmur that verse of"
+    },
+    {
+      "i": 596,
+      "start": 4075.52,
+      "end": 4078.84,
+      "text": "Katopinishad. The sense organs are looking"
+    },
+    {
+      "i": 597,
+      "start": 4078.84,
+      "end": 4084.56,
+      "text": "outward means including the andakarana is looking externally"
+    },
+    {
+      "i": 598,
+      "start": 4085.28,
+      "end": 4092.6,
+      "text": "for the reality. But when prativavada vidhidam"
+    },
+    {
+      "i": 599,
+      "start": 4092.6,
+      "end": 4094.88,
+      "text": "Madam amratat tum he win the day."
+    },
+    {
+      "i": 600,
+      "start": 4095.36,
+      "end": 4103.12,
+      "text": "In every experience, we are deluded by the content of the"
+    },
+    {
+      "i": 601,
+      "start": 4103.72,
+      "end": 4111.84,
+      "text": "NOI, by the apparent objectification as objects with"
+    },
+    {
+      "i": 602,
+      "start": 4111.92,
+      "end": 4114.64,
+      "text": "qualification and likes and dislikes."
+    },
+    {
+      "i": 603,
+      "start": 4114.96,
+      "end": 4118.319,
+      "text": "That is what is called the Raga and dhivesha which is covering"
+    },
+    {
+      "i": 604,
+      "start": 4118.319,
+      "end": 4123.359,
+      "text": "the knowledge. But in the raga then dwesha"
+    },
+    {
+      "i": 605,
+      "start": 4123.359,
+      "end": 4129.8,
+      "text": "knowing, if we can see the Para pratibhoda viditam in even the"
+    },
+    {
+      "i": 606,
+      "start": 4129.8,
+      "end": 4136.479,
+      "text": "raga and dwesha is known as you know in the light of knowledge."
+    },
+    {
+      "i": 607,
+      "start": 4139.12,
+      "end": 4143.12,
+      "text": "That is why the Avrita Chakshu Amritatomichen"
+    },
+    {
+      "i": 608,
+      "start": 4143.16,
+      "end": 4149.96,
+      "text": "Pratyagatmaanamichen in that when we process that that"
+    },
+    {
+      "i": 609,
+      "start": 4149.96,
+      "end": 4157.319,
+      "text": "knowing, what we will understand is that it was all the time it"
+    },
+    {
+      "i": 610,
+      "start": 4157.319,
+      "end": 4164.24,
+      "text": "was known, but we were getting deluded by the raga and deshua."
+    },
+    {
+      "i": 611,
+      "start": 4164.24,
+      "end": 4167.439,
+      "text": "Therefore, the objects of the material or the content of"
+    },
+    {
+      "i": 612,
+      "start": 4167.439,
+      "end": 4175.96,
+      "text": "knowing deluded the knowledge, and the knowledge was always"
+    },
+    {
+      "i": 613,
+      "start": 4175.96,
+      "end": 4179.319,
+      "text": "present there. Even when the raga and dwesha"
+    },
+    {
+      "i": 614,
+      "start": 4179.319,
+      "end": 4183.359,
+      "text": "was happening, the raga and dhvasha was happening in the"
+    },
+    {
+      "i": 615,
+      "start": 4183.359,
+      "end": 4189.2,
+      "text": "knowledge, and we were deluded by the raga and dhvasha as the"
+    },
+    {
+      "i": 616,
+      "start": 4189.2,
+      "end": 4192.88,
+      "text": "contents of the knowledge. Only when the pratibhava"
+    },
+    {
+      "i": 617,
+      "start": 4192.88,
+      "end": 4197.88,
+      "text": "vidhitam, when we know that in every bodham the knowing is the"
+    },
+    {
+      "i": 618,
+      "start": 4197.88,
+      "end": 4202.56,
+      "text": "principle and the raga dhvasha is are not reality, they are"
+    },
+    {
+      "i": 619,
+      "start": 4203.24,
+      "end": 4205.8,
+      "text": "unreal. That happens."
+    },
+    {
+      "i": 620,
+      "start": 4205.8,
+      "end": 4211.72,
+      "text": "The knowledge shines by itself. Pasyavasa Sarvamidambiwadi In"
+    },
+    {
+      "i": 621,
+      "start": 4211.72,
+      "end": 4216.32,
+      "text": "that knowledge all these things appearing to be happening."
+    },
+    {
+      "i": 622,
+      "start": 4217.12,
+      "end": 4223.44,
+      "text": "That is why Adityavat like the sun is illumining everything."
+    },
+    {
+      "i": 623,
+      "start": 4224.4,
+      "end": 4231.36,
+      "text": "Even if we look at everything that is getting seen by us, what"
+    },
+    {
+      "i": 624,
+      "start": 4231.36,
+      "end": 4238.92,
+      "text": "we are seeing is sunlight in which the objects appear to be"
+    },
+    {
+      "i": 625,
+      "start": 4239.0,
+      "end": 4245.16,
+      "text": "illumined. What object we are seeing, we"
+    },
+    {
+      "i": 626,
+      "start": 4245.16,
+      "end": 4248.44,
+      "text": "are not seeing the object, we are seeing the getting the"
+    },
+    {
+      "i": 627,
+      "start": 4248.44,
+      "end": 4254.08,
+      "text": "sunlight into our senses. The objects are merely being"
+    },
+    {
+      "i": 628,
+      "start": 4254.12,
+      "end": 4260.32,
+      "text": "present there that is getting illumined by the sunlight and"
+    },
+    {
+      "i": 629,
+      "start": 4260.32,
+      "end": 4264.2,
+      "text": "what we are seeing is the sunlight, not the object."
+    },
+    {
+      "i": 630,
+      "start": 4265.48,
+      "end": 4268.16,
+      "text": "The object is only reflecting the sunlight."
+    },
+    {
+      "i": 631,
+      "start": 4268.36,
+      "end": 4270.68,
+      "text": "The moon is reflecting the sunlight."
+    },
+    {
+      "i": 632,
+      "start": 4270.72,
+      "end": 4277.56,
+      "text": "So the moon is theme. The moon by itself cannot be"
+    },
+    {
+      "i": 633,
+      "start": 4277.56,
+      "end": 4280.16,
+      "text": "seen unless if there is sunlight."
+    },
+    {
+      "i": 634,
+      "start": 4281.36,
+      "end": 4291.0,
+      "text": "Same way our experiences cannot be known unless Atma is shining."
+    },
+    {
+      "i": 635,
+      "start": 4291.96,
+      "end": 4295.08,
+      "text": "So what is our nature is that we are that nyayanam."
+    },
+    {
+      "i": 636,
+      "start": 4295.08,
+      "end": 4297.4,
+      "text": "The atma which is shining all the time."
+    },
+    {
+      "i": 637,
+      "start": 4299.48,
+      "end": 4305.88,
+      "text": "The objects of knowing where we develop raga and dwesa is due to"
+    },
+    {
+      "i": 638,
+      "start": 4306.4,
+      "end": 4313.04,
+      "text": "that ignorance agnyayanam. That is what is covering that"
+    },
+    {
+      "i": 639,
+      "start": 4313.04,
+      "end": 4315.08,
+      "text": "nyayanam. It is not covering that"
+    },
+    {
+      "i": 640,
+      "start": 4315.08,
+      "end": 4318.4,
+      "text": "nyayanam. It is deluding Mukhandi jandava"
+    },
+    {
+      "i": 641,
+      "start": 4319.12,
+      "end": 4324.84,
+      "text": "Tena mukhandi Jandava. That is what is worth the the"
+    },
+    {
+      "i": 642,
+      "start": 4324.84,
+      "end": 4336.6,
+      "text": "atnyanam is also nyayanam only. But it is not seen as nyayanam"
+    },
+    {
+      "i": 643,
+      "start": 4337.44,
+      "end": 4341.12,
+      "text": "because of the moha raga intuition."
+    },
+    {
+      "i": 644,
+      "start": 4343.4,
+      "end": 4349.72,
+      "text": "It needs lot of manana and nidhi diyasana on these words, both"
+    },
+    {
+      "i": 645,
+      "start": 4349.72,
+      "end": 4357.04,
+      "text": "these verses then only that atma can be understood paramtatto"
+    },
+    {
+      "i": 646,
+      "start": 4357.12,
+      "end": 4366.36,
+      "text": "like the adityavat like the sun. The atma is the sun which we"
+    },
+    {
+      "i": 647,
+      "start": 4366.36,
+      "end": 4368.36,
+      "text": "are. We have studied when we studied"
+    },
+    {
+      "i": 648,
+      "start": 4368.36,
+      "end": 4373.56,
+      "text": "that mantra Natatarsuriyo baadina chandrata raganema"
+    },
+    {
+      "i": 649,
+      "start": 4373.64,
+      "end": 4388.36,
+      "text": "vidyato baadi. Yes, that that light of"
+    },
+    {
+      "i": 650,
+      "start": 4388.36,
+      "end": 4394.84,
+      "text": "knowledge now come alive. And this light of knowledge, you"
+    },
+    {
+      "i": 651,
+      "start": 4394.84,
+      "end": 4396.8,
+      "text": "know, it change even the delusion."
+    },
+    {
+      "i": 652,
+      "start": 4399.44,
+      "end": 4402.44,
+      "text": "As you said, even delusion is also knowledge."
+    },
+    {
+      "i": 653,
+      "start": 4402.76,
+      "end": 4409.12,
+      "text": "Yes, yes. When we say I don't know, we are"
+    },
+    {
+      "i": 654,
+      "start": 4409.12,
+      "end": 4412.2,
+      "text": "having the knowledge of ignorance, of not knowing."
+    },
+    {
+      "i": 655,
+      "start": 4413.44,
+      "end": 4416.88,
+      "text": "Even that is in the knowledge only that is happening."
+    },
+    {
+      "i": 656,
+      "start": 4421.36,
+      "end": 4423.96,
+      "text": "I think this then there is no boundary to the knowledge"
+    },
+    {
+      "i": 657,
+      "start": 4424.2,
+      "end": 4426.48,
+      "text": "because. There is no boundary."
+    },
+    {
+      "i": 658,
+      "start": 4426.76,
+      "end": 4434.64,
+      "text": "That is why knowledge is. That Gunath Raya, that all that"
+    },
+    {
+      "i": 659,
+      "start": 4434.64,
+      "end": 4444.94,
+      "text": "is in that only. In that only, yes, those who go"
+    },
+    {
+      "i": 660,
+      "start": 4444.94,
+      "end": 4449.86,
+      "text": "through the intricacies are deluding themselves in the"
+    },
+    {
+      "i": 661,
+      "start": 4449.86,
+      "end": 4459.88,
+      "text": "knowledge. So that is why it is called"
+    },
+    {
+      "i": 662,
+      "start": 4459.88,
+      "end": 4461.96,
+      "text": "light of knowledge, OK. Yes."
+    },
+    {
+      "i": 663,
+      "start": 4465.16,
+      "end": 4470.48,
+      "text": "Atmajodi OK. Atmajodi Andarjyodi atmajodi."
+    },
+    {
+      "i": 664,
+      "start": 4474.04,
+      "end": 4477.88,
+      "text": "This solves a lot actually. Thank you, Venkat."
+    },
+    {
+      "i": 665,
+      "start": 4477.88,
+      "end": 4479.04,
+      "text": "Thank. You venkat the."
+    },
+    {
+      "i": 666,
+      "start": 4485.73,
+      "end": 4488.97,
+      "text": "President, we'll meet tomorrow same time."
+    },
+    {
+      "i": 667,
+      "start": 4489.65,
+      "end": 4493.25,
+      "text": "Continue. So we'll continue tomorrow."
+    },
+    {
+      "i": 668,
+      "start": 4493.29,
+      "end": 4497.81,
+      "text": "So thanks everyone for coming. As always, Benzoji recommends"
+    },
+    {
+      "i": 669,
+      "start": 4497.85,
+      "end": 4501.41,
+      "text": "Ravana Manana, So if we do this Ravana Manana, then we'll have"
+    },
+    {
+      "i": 670,
+      "start": 4501.41,
+      "end": 4504.68,
+      "text": "the continuity. The replays are available, you"
+    },
+    {
+      "i": 671,
+      "start": 4504.68,
+      "end": 4508.64,
+      "text": "can access them in Clubhouse, but if with a slow delay, you'll"
+    },
+    {
+      "i": 672,
+      "start": 4508.64,
+      "end": 4511.64,
+      "text": "see the same thing on YouTube and other channels."
+    },
+    {
+      "i": 673,
+      "start": 4513.12,
+      "end": 4516.68,
+      "text": "As always, thank you everyone for coming and thanks very much."
+    },
+    {
+      "i": 674,
+      "start": 4516.68,
+      "end": 4519.04,
+      "text": "Mindoji over to you to close the room."
+    },
+    {
+      "i": 675,
+      "start": 4520.96,
+      "end": 4524.84,
+      "text": "Thank you, Prakash, like Misha and Venkat for being there in"
+    },
+    {
+      "i": 676,
+      "start": 4524.84,
+      "end": 4528.4,
+      "text": "the panel and thank you all for listening and those who are"
+    },
+    {
+      "i": 677,
+      "start": 4528.4,
+      "end": 4534.36,
+      "text": "listening later from the either from the clubhouse or through"
+    },
+    {
+      "i": 678,
+      "start": 4534.8,
+      "end": 4540.12,
+      "text": "YouTube, Spotify or Apple. Thank you for following this"
+    },
+    {
+      "i": 679,
+      "start": 4540.32,
+      "end": 4545.52,
+      "text": "lecture series. And we will continue the 17th"
+    },
+    {
+      "i": 680,
+      "start": 4545.52,
+      "end": 4551.8,
+      "text": "verse on tomorrow morning. That is Wednesday morning,"
+    },
+    {
+      "i": 681,
+      "start": 4551.8,
+      "end": 4558.68,
+      "text": "Indian time, 6:30 AM according to your local time."
+    },
+    {
+      "i": 682,
+      "start": 4558.68,
+      "end": 4562.4,
+      "text": "You can join the clubhouse or listen to that buddy."
+    },
+    {
+      "i": 683,
+      "start": 4562.96,
+      "end": 4565.8,
+      "text": "Thank you all. Are you Namaste have?"
+    },
+    {
+      "i": 684,
+      "start": 4567.72,
+      "end": 4569.2,
+      "text": "A good. Day."
+    },
+    {
+      "i": 685,
+      "start": 4569.2,
+      "end": 4569.48,
+      "text": "Good day."
+    }
+  ]
+}

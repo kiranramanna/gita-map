@@ -1,0 +1,5131 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "d2423494-6cd7-4d94-aa83-5b18f3346ccd",
+  "source_sha256": "1a659c5fcbd7a83d9777876c578b6304eb0c35fa67488ba6bd32c7d1176470ee",
+  "cues": [
+    {
+      "i": 1,
+      "start": 1.0,
+      "end": 3.64,
+      "text": "Everyone welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 4.48,
+      "end": 9.44,
+      "text": "The ongoing sessions are on Bhagavad Gita from an Advaita"
+    },
+    {
+      "i": 3,
+      "start": 9.44,
+      "end": 18.24,
+      "text": "perspective over by Bendoji. We are on chapter 4 and the"
+    },
+    {
+      "i": 4,
+      "start": 18.24,
+      "end": 21.28,
+      "text": "replays for all these earlier rooms are available in clubhouse"
+    },
+    {
+      "i": 5,
+      "start": 21.28,
+      "end": 24.92,
+      "text": "or you could access them in the links that I'll provide in the"
+    },
+    {
+      "i": 6,
+      "start": 24.92,
+      "end": 28.0,
+      "text": "chat. 1 is a YouTube channel, Advaita Retort."
+    },
+    {
+      "i": 7,
+      "start": 28.84,
+      "end": 33.16,
+      "text": "There are also links provided for Apple Podcasts and Spotify"
+    },
+    {
+      "i": 8,
+      "start": 33.16,
+      "end": 35.32,
+      "text": "where you find the repository of these talks."
+    },
+    {
+      "i": 9,
+      "start": 37.16,
+      "end": 41.08,
+      "text": "There is also a book published by Artemisia, which is titled"
+    },
+    {
+      "i": 10,
+      "start": 41.08,
+      "end": 45.6,
+      "text": "The Imaginary Door, and it's available on Amazon, which is"
+    },
+    {
+      "i": 11,
+      "start": 45.6,
+      "end": 50.08,
+      "text": "based on Binduji's Insights Center of Python for"
+    },
+    {
+      "i": 12,
+      "start": 50.08,
+      "end": 52.04,
+      "text": "housekeeping. I'll close the chat in hand"
+    },
+    {
+      "i": 13,
+      "start": 52.04,
+      "end": 56.36,
+      "text": "raising and when Binduji finishes the class in about an"
+    },
+    {
+      "i": 14,
+      "start": 56.36,
+      "end": 58.88,
+      "text": "hour, we'll open up those channels for Q&A."
+    },
+    {
+      "i": 15,
+      "start": 60.0,
+      "end": 61.92,
+      "text": "As always, thank you Binduji, over to you."
+    },
+    {
+      "i": 16,
+      "start": 64.879,
+      "end": 67.96,
+      "text": "Thank you Prakash, Namaste and Hariyam to all of you."
+    },
+    {
+      "i": 17,
+      "start": 69.48,
+      "end": 89.44,
+      "text": "My invocations. Oh no, Brahma."
+    },
+    {
+      "i": 18,
+      "start": 121.32,
+      "end": 144.64,
+      "text": "Yogi No. Yes we are on the 20"
+    },
+    {
+      "i": 19,
+      "start": 160.9,
+      "end": 168.2,
+      "text": "fifth verse where we completed the explanation but the"
+    },
+    {
+      "i": 20,
+      "start": 168.56,
+      "end": 173.08,
+      "text": "commentary is to be read and ex translated or explained."
+    },
+    {
+      "i": 21,
+      "start": 175.12,
+      "end": 180.56,
+      "text": "The commentary is divided into two things, ritualistic worship,"
+    },
+    {
+      "i": 22,
+      "start": 180.72,
+      "end": 186.48,
+      "text": "which is the deva eknya and then there is a higher inner eknya of"
+    },
+    {
+      "i": 23,
+      "start": 186.48,
+      "end": 190.4,
+      "text": "knowledge, Nyana eknya, Atma brahma aikya darsana."
+    },
+    {
+      "i": 24,
+      "start": 193.64,
+      "end": 204.96,
+      "text": "This is the 25th verse is deiva meva deva ijende Ena yetnya"
+    },
+    {
+      "i": 25,
+      "start": 205.72,
+      "end": 214.92,
+      "text": "yejnena astau devo yetnya, that sacrifice by which the gods"
+    },
+    {
+      "i": 26,
+      "start": 214.92,
+      "end": 221.56,
+      "text": "alone are worshipped, that is called the Daiva Yetnya or"
+    },
+    {
+      "i": 27,
+      "start": 221.56,
+      "end": 227.4,
+      "text": "divine sacrifice. Tameva apare yetnam Yogi naha"
+    },
+    {
+      "i": 28,
+      "start": 227.64,
+      "end": 232.72,
+      "text": "karminaha parvyupasate kuruvandi tyerta."
+    },
+    {
+      "i": 29,
+      "start": 234.0,
+      "end": 243.08,
+      "text": "Some yogis, ritualists who perform the yetnas perform that"
+    },
+    {
+      "i": 30,
+      "start": 243.08,
+      "end": 249.92,
+      "text": "very sacrifice, that deva yetya. But but then there is a higher"
+    },
+    {
+      "i": 31,
+      "start": 249.92,
+      "end": 256.12,
+      "text": "yetya remagno in the fire of Brahman."
+    },
+    {
+      "i": 32,
+      "start": 256.8,
+      "end": 265.76,
+      "text": "Satya yayanam anandam brahma vignanam anandam brahma yatshad"
+    },
+    {
+      "i": 33,
+      "start": 265.76,
+      "end": 269.84,
+      "text": "aparokshad brahma ya atma sarvantaraha."
+    },
+    {
+      "i": 34,
+      "start": 270.08,
+      "end": 274.24,
+      "text": "All of them are from Brahenda, Brahadarani, Upanishad ityadi"
+    },
+    {
+      "i": 35,
+      "start": 274.24,
+      "end": 281.64,
+      "text": "vajanaktam ashana yadi sarva samsara Dharma vardhidam neti"
+    },
+    {
+      "i": 36,
+      "start": 281.64,
+      "end": 286.12,
+      "text": "neti iti nirastha shesha vishesham brahmashabdeyana"
+    },
+    {
+      "i": 37,
+      "start": 286.12,
+      "end": 291.92,
+      "text": "uchete. So in the fire of Brahman refers"
+    },
+    {
+      "i": 38,
+      "start": 291.92,
+      "end": 297.24,
+      "text": "to the Brahman itself described in the scriptures as satyam,"
+    },
+    {
+      "i": 39,
+      "start": 297.24,
+      "end": 301.04,
+      "text": "pyanam, anandam, Brahma, the truth, knowledge and Infinite."
+    },
+    {
+      "i": 40,
+      "start": 301.76,
+      "end": 306.0,
+      "text": "The Taitri Upanishad vitnam anandam Brahma, the"
+    },
+    {
+      "i": 41,
+      "start": 306.0,
+      "end": 308.68,
+      "text": "consciousness and bliss is Brahma."
+    },
+    {
+      "i": 42,
+      "start": 309.92,
+      "end": 315.68,
+      "text": "Yet Sasha taparokshad Brahma, the immediate self within all is"
+    },
+    {
+      "i": 43,
+      "start": 315.68,
+      "end": 321.84,
+      "text": "Brahma ya atma sarvantaraha. This immediate self is within"
+    },
+    {
+      "i": 44,
+      "start": 321.84,
+      "end": 326.32,
+      "text": "all, free from all worldly attributes like hunger and"
+    },
+    {
+      "i": 45,
+      "start": 326.32,
+      "end": 331.32,
+      "text": "defined through neti neti divide of all distinctions."
+    },
+    {
+      "i": 46,
+      "start": 332.96,
+      "end": 339.88,
+      "text": "Brahmachatat agnischa Saha homadi karanatwa vivekshaya"
+    },
+    {
+      "i": 47,
+      "start": 340.72,
+      "end": 345.8,
+      "text": "brahmagni. That Brahman itself considered"
+    },
+    {
+      "i": 48,
+      "start": 345.8,
+      "end": 352.6,
+      "text": "as the locus of offering fire is called Brahman fire or Brahmagni"
+    },
+    {
+      "i": 49,
+      "start": 354.6,
+      "end": 359.76,
+      "text": "Tasmin Brahmagnau apre Anya Brahmavidaha in that Brahman"
+    },
+    {
+      "i": 50,
+      "start": 359.76,
+      "end": 362.96,
+      "text": "fire. Others the novels of Brahman."
+    },
+    {
+      "i": 51,
+      "start": 364.36,
+      "end": 372.48,
+      "text": "They do the Yetnam Yetnam ethne sabda vaatya atma offer the"
+    },
+    {
+      "i": 52,
+      "start": 372.48,
+      "end": 381.8,
+      "text": "sacrifice which here means the self Anatmanus anat anat atmanus"
+    },
+    {
+      "i": 53,
+      "start": 381.92,
+      "end": 385.64,
+      "text": "atmanus SU ethne sabdasya parathaat."
+    },
+    {
+      "i": 54,
+      "start": 387.12,
+      "end": 394.08,
+      "text": "Since Etna is used in as the name of for the self Tam atmanam"
+    },
+    {
+      "i": 55,
+      "start": 394.08,
+      "end": 401.68,
+      "text": "yetnam paramartha parameva brahma santam budhya dupadi"
+    },
+    {
+      "i": 56,
+      "start": 401.68,
+      "end": 411.76,
+      "text": "samyuktham agyasta sarvapadi ka dharman aahu ETI rupa."
+    },
+    {
+      "i": 57,
+      "start": 413.52,
+      "end": 418.04,
+      "text": "They offer the self which appears associated with the"
+    },
+    {
+      "i": 58,
+      "start": 418.04,
+      "end": 419.96,
+      "text": "limiting adjuncts like intellect."
+    },
+    {
+      "i": 59,
+      "start": 420.2,
+      "end": 427.44,
+      "text": "Budhya dupadi samyuktham, Ajusta sarvati dharmakam ahuhu iti"
+    },
+    {
+      "i": 60,
+      "start": 428.44,
+      "end": 437.84,
+      "text": "rupam is has an abolition. So ajustas sarva upadi dharmakam"
+    },
+    {
+      "i": 61,
+      "start": 439.24,
+      "end": 445.12,
+      "text": "means the Self is endowed with all attributes superimposed due"
+    },
+    {
+      "i": 62,
+      "start": 445.12,
+      "end": 452.96,
+      "text": "to ignorance. Eknena Eva atmana Eva ukta"
+    },
+    {
+      "i": 63,
+      "start": 452.96,
+      "end": 458.04,
+      "text": "laksha Nena uba jihadi prakshi pandi."
+    },
+    {
+      "i": 64,
+      "start": 458.6,
+      "end": 461.48,
+      "text": "They offer it by the Self itself."
+    },
+    {
+      "i": 65,
+      "start": 462.08,
+      "end": 469.2,
+      "text": "On to Brahman sobaji kasya atmanaha nirupadiyena para"
+    },
+    {
+      "i": 66,
+      "start": 469.2,
+      "end": 473.88,
+      "text": "brahma swarupenaeva yed darshanam Saha tasmin Omaha."
+    },
+    {
+      "i": 67,
+      "start": 475.76,
+      "end": 479.32,
+      "text": "The vision by which the conditioned Self is seen as none"
+    },
+    {
+      "i": 68,
+      "start": 479.32,
+      "end": 483.72,
+      "text": "other than the unconditioned Brahman, that itself is the"
+    },
+    {
+      "i": 69,
+      "start": 483.72,
+      "end": 485.76,
+      "text": "ovulation or the inner sacrifice."
+    },
+    {
+      "i": 70,
+      "start": 487.24,
+      "end": 491.88,
+      "text": "Tam kuruvandi brahma keto Darshana nishtaha sanya Sinha"
+    },
+    {
+      "i": 71,
+      "start": 492.12,
+      "end": 495.72,
+      "text": "yertha. That is what the renunciates or"
+    },
+    {
+      "i": 72,
+      "start": 495.72,
+      "end": 499.88,
+      "text": "the sanyasis established in the knowledge of the identity of the"
+    },
+    {
+      "i": 73,
+      "start": 499.88,
+      "end": 503.16,
+      "text": "Self and and Brahman what they perform."
+    },
+    {
+      "i": 74,
+      "start": 505.4,
+      "end": 509.2,
+      "text": "So Shankaracharya explained that while some perform ritual"
+    },
+    {
+      "i": 75,
+      "start": 509.2,
+      "end": 514.36,
+      "text": "sacrifices to the gods, the highest yogis perform the inner"
+    },
+    {
+      "i": 76,
+      "start": 514.36,
+      "end": 518.52,
+      "text": "sacrifice in which the individual Self along with the"
+    },
+    {
+      "i": 77,
+      "start": 518.96,
+      "end": 525.16,
+      "text": "all limiting urgents, that is the Buddhiyadi is offered into"
+    },
+    {
+      "i": 78,
+      "start": 525.16,
+      "end": 529.16,
+      "text": "the fire of Brahman through knowledge resulting in the"
+    },
+    {
+      "i": 79,
+      "start": 529.16,
+      "end": 532.28,
+      "text": "realisation of the identity of the Self with the Brahman."
+    },
+    {
+      "i": 80,
+      "start": 536.52,
+      "end": 541.96,
+      "text": "So here is what in the last class we discussed offering this"
+    },
+    {
+      "i": 81,
+      "start": 543.24,
+      "end": 547.08,
+      "text": "as identity of the Self with the Brahman."
+    },
+    {
+      "i": 82,
+      "start": 547.56,
+      "end": 554.32,
+      "text": "The individual is not separate from Brahman or that all the"
+    },
+    {
+      "i": 83,
+      "start": 554.32,
+      "end": 558.52,
+      "text": "instruments. Now in the next two verses we"
+    },
+    {
+      "i": 84,
+      "start": 558.52,
+      "end": 562.92,
+      "text": "will see more of them where the indriyas, prana etcetera being"
+    },
+    {
+      "i": 85,
+      "start": 562.92,
+      "end": 567.48,
+      "text": "coming. They are all functioning in the"
+    },
+    {
+      "i": 86,
+      "start": 567.48,
+      "end": 574.6,
+      "text": "body but their functions are not seen as independent function."
+    },
+    {
+      "i": 87,
+      "start": 576.2,
+      "end": 579.84,
+      "text": "All of them are in the act of yepmya or sacrifice."
+    },
+    {
+      "i": 88,
+      "start": 581.16,
+      "end": 585.36,
+      "text": "Why is the eye seeing? Because it is."
+    },
+    {
+      "i": 89,
+      "start": 585.36,
+      "end": 589.4,
+      "text": "The seeing of the eye is the sacrifice it is doing for the"
+    },
+    {
+      "i": 90,
+      "start": 589.4,
+      "end": 594.24,
+      "text": "self. Being an instrument of the Atma."
+    },
+    {
+      "i": 91,
+      "start": 595.36,
+      "end": 600.8,
+      "text": "The ears are hearing. It is doing a sacrifice by"
+    },
+    {
+      "i": 92,
+      "start": 600.8,
+      "end": 605.88,
+      "text": "hearing to the atma. This way when we compare all the"
+    },
+    {
+      "i": 93,
+      "start": 605.88,
+      "end": 611.68,
+      "text": "instruments, the sensor, the karmendriyas etcetera, the whole"
+    },
+    {
+      "i": 94,
+      "start": 611.68,
+      "end": 620.12,
+      "text": "body becomes a echnya in the form of a sacrifice to the self"
+    },
+    {
+      "i": 95,
+      "start": 620.12,
+      "end": 627.48,
+      "text": "which is being pulsating in the body using the instruments of"
+    },
+    {
+      "i": 96,
+      "start": 627.48,
+      "end": 632.08,
+      "text": "the body for its interaction with the world outside."
+    },
+    {
+      "i": 97,
+      "start": 634.4,
+      "end": 638.64,
+      "text": "Now how the world outside also becomes part of this yet we will"
+    },
+    {
+      "i": 98,
+      "start": 638.64,
+      "end": 644.36,
+      "text": "see it in the coming verses. So soyam samyad darsana"
+    },
+    {
+      "i": 99,
+      "start": 644.36,
+      "end": 648.36,
+      "text": "lakshmanan yetnas daiva yetnyadishu yetnyeshu"
+    },
+    {
+      "i": 100,
+      "start": 648.96,
+      "end": 653.12,
+      "text": "uvadikshapande brahmarapanam etiyadishlokai prastudha"
+    },
+    {
+      "i": 101,
+      "start": 653.8,
+      "end": 661.44,
+      "text": "shreyaan dravya mayadiya yetnya Yana yetnya parandaba etiyadina"
+    },
+    {
+      "i": 102,
+      "start": 661.88,
+      "end": 666.92,
+      "text": "sutyartham. All these verses from this verse"
+    },
+    {
+      "i": 103,
+      "start": 666.92,
+      "end": 673.88,
+      "text": "which we completed onwards till the 33rd verse, the 33rd verse"
+    },
+    {
+      "i": 104,
+      "start": 673.88,
+      "end": 678.4,
+      "text": "is the final one which is culminating as the Brahmarpanam"
+    },
+    {
+      "i": 105,
+      "start": 679.0,
+      "end": 684.0,
+      "text": "of the final sacrifice of all these things put together as a"
+    },
+    {
+      "i": 106,
+      "start": 684.08,
+      "end": 691.2,
+      "text": "Nyana yetnya. That is how the the whole Nyana,"
+    },
+    {
+      "i": 107,
+      "start": 691.24,
+      "end": 696.2,
+      "text": "the Vistara Daiva with Yetnya Yetnya Vistara is taking place."
+    },
+    {
+      "i": 108,
+      "start": 699.48,
+      "end": 702.6,
+      "text": "So if you look at the contextual position 25 verse which"
+    },
+    {
+      "i": 109,
+      "start": 702.6,
+      "end": 708.52,
+      "text": "completed now open the the treaties on Etnya with the"
+    },
+    {
+      "i": 110,
+      "start": 708.52,
+      "end": 714.64,
+      "text": "broadest contrast, starting with the external most ritual as"
+    },
+    {
+      "i": 111,
+      "start": 714.64,
+      "end": 719.48,
+      "text": "Daiva Etnya. And it is also comparing the"
+    },
+    {
+      "i": 112,
+      "start": 719.48,
+      "end": 725.32,
+      "text": "Brahmagni Etnya, the non dual offering to into Brahman by the"
+    },
+    {
+      "i": 113,
+      "start": 725.4,
+      "end": 731.12,
+      "text": "Yogis. The 26th verse descends from the"
+    },
+    {
+      "i": 114,
+      "start": 732.08,
+      "end": 736.08,
+      "text": "from the cosmic philosophical level to the psycho"
+    },
+    {
+      "i": 115,
+      "start": 736.08,
+      "end": 741.84,
+      "text": "philosophical level presenting 2 complementary Ecnyas that"
+    },
+    {
+      "i": 116,
+      "start": 741.84,
+      "end": 746.2,
+      "text": "between them constitute the complete advaitic treatment of"
+    },
+    {
+      "i": 117,
+      "start": 746.2,
+      "end": 750.16,
+      "text": "the Indriya and Vishaya. The senses and the sense organs,"
+    },
+    {
+      "i": 118,
+      "start": 750.16,
+      "end": 756.64,
+      "text": "senses, objects, relationship the senses and their objects."
+    },
+    {
+      "i": 119,
+      "start": 757.76,
+      "end": 763.68,
+      "text": "The most immediate field of samsaric engagement, the world"
+    },
+    {
+      "i": 120,
+      "start": 763.68,
+      "end": 770.8,
+      "text": "presents the paired inversion. Two groups of practitioners,"
+    },
+    {
+      "i": 121,
+      "start": 772.48,
+      "end": 777.56,
+      "text": "each making different approach but complimentary offering."
+    },
+    {
+      "i": 122,
+      "start": 779.64,
+      "end": 781.76,
+      "text": "This is the poetic beauty of Gita."
+    },
+    {
+      "i": 123,
+      "start": 781.76,
+      "end": 790.16,
+      "text": "Also, the first group offers senses Sotradi Indriyas into the"
+    },
+    {
+      "i": 124,
+      "start": 790.16,
+      "end": 795.32,
+      "text": "fires of Samyama, Yamas near Yamadama etcetera as a"
+    },
+    {
+      "i": 125,
+      "start": 795.32,
+      "end": 801.88,
+      "text": "restraint, while the second group offers the sense object"
+    },
+    {
+      "i": 126,
+      "start": 802.72,
+      "end": 809.36,
+      "text": "which is the objects for the senses into the fire of the"
+    },
+    {
+      "i": 127,
+      "start": 809.36,
+      "end": 813.16,
+      "text": "senses. There the senses becomes the"
+    },
+    {
+      "i": 128,
+      "start": 813.4,
+      "end": 816.76,
+      "text": "fire representing the fire of Brahma."
+    },
+    {
+      "i": 129,
+      "start": 817.6,
+      "end": 823.52,
+      "text": "The senses are also Brahman. So when the Brahma pranam Brahma"
+    },
+    {
+      "i": 130,
+      "start": 823.52,
+      "end": 828.8,
+      "text": "havihi Brahman no Brahmanahutam that that offering of Brahman"
+    },
+    {
+      "i": 131,
+      "start": 828.8,
+      "end": 832.92,
+      "text": "into Brahman. So here the Indriyas or the"
+    },
+    {
+      "i": 132,
+      "start": 832.92,
+      "end": 837.16,
+      "text": "sense organs becomes the consumers or the fire of"
+    },
+    {
+      "i": 133,
+      "start": 837.16,
+      "end": 843.64,
+      "text": "consummating fire into which Shabdadi Vishayas not Shabdadi"
+    },
+    {
+      "i": 134,
+      "start": 843.64,
+      "end": 849.76,
+      "text": "Indriyas, not the sense organs but the sense objects is what is"
+    },
+    {
+      "i": 135,
+      "start": 849.76,
+      "end": 852.88,
+      "text": "offered into the fire. So there are two sets of this"
+    },
+    {
+      "i": 136,
+      "start": 852.88,
+      "end": 855.64,
+      "text": "thing. The first line is were the"
+    },
+    {
+      "i": 137,
+      "start": 855.64,
+      "end": 859.36,
+      "text": "samadhama etcetera, uparati etcetera are being practiced by"
+    },
+    {
+      "i": 138,
+      "start": 859.36,
+      "end": 865.12,
+      "text": "the one set of people that is one form of ecnya which is the"
+    },
+    {
+      "i": 139,
+      "start": 865.12,
+      "end": 869.88,
+      "text": "samsari ecnya. But there is a second group, the"
+    },
+    {
+      "i": 140,
+      "start": 870.6,
+      "end": 873.64,
+      "text": "Ianis. They also use the same sense"
+    },
+    {
+      "i": 141,
+      "start": 873.64,
+      "end": 876.64,
+      "text": "organs. But the sense organ becomes the"
+    },
+    {
+      "i": 142,
+      "start": 876.64,
+      "end": 882.24,
+      "text": "consummating fire into which when they hear, when they see,"
+    },
+    {
+      "i": 143,
+      "start": 882.24,
+      "end": 887.76,
+      "text": "when they touch, etcetera, the objects becomes Brahman offered"
+    },
+    {
+      "i": 144,
+      "start": 887.76,
+      "end": 889.56,
+      "text": "into the fire of the sense organ."
+    },
+    {
+      "i": 145,
+      "start": 891.24,
+      "end": 894.32,
+      "text": "So this is the pairing, not an accidental one."
+    },
+    {
+      "i": 146,
+      "start": 894.48,
+      "end": 899.64,
+      "text": "It encodes the complete advaitic dialectic of Indriya Vihaya"
+    },
+    {
+      "i": 147,
+      "start": 899.64,
+      "end": 904.28,
+      "text": "interaction. One group renounces through"
+    },
+    {
+      "i": 148,
+      "start": 904.28,
+      "end": 908.88,
+      "text": "restraint samyama, the other engages through concentrate"
+    },
+    {
+      "i": 149,
+      "start": 908.92,
+      "end": 916.52,
+      "text": "consecrated offering of Indriya Agni Etnya Sankaracharyya"
+    },
+    {
+      "i": 150,
+      "start": 917.32,
+      "end": 920.8,
+      "text": "accept. Both are genuine Etnyas, but"
+    },
+    {
+      "i": 151,
+      "start": 920.8,
+      "end": 924.84,
+      "text": "their advaitic implications differ profoundly and their"
+    },
+    {
+      "i": 152,
+      "start": 924.84,
+      "end": 932.48,
+      "text": "synthesis points towards Brahmagarma Samadhi of 24 Srotra"
+    },
+    {
+      "i": 153,
+      "start": 932.48,
+      "end": 942.76,
+      "text": "Deeni indriyani. The sense senses being beginning"
+    },
+    {
+      "i": 154,
+      "start": 942.76,
+      "end": 948.04,
+      "text": "with the srotra hearing the five nyanindriyas are Srotra means"
+    },
+    {
+      "i": 155,
+      "start": 948.04,
+      "end": 954.04,
+      "text": "hearing tuk touch, Shakshus is sight, Rasana is the taste,"
+    },
+    {
+      "i": 156,
+      "start": 954.44,
+      "end": 958.28,
+      "text": "Dhana is the smell. So these are the Srotrindriyani"
+    },
+    {
+      "i": 157,
+      "start": 959.4,
+      "end": 963.48,
+      "text": "samyag Samyamaagnishu into the fire of samyama."
+    },
+    {
+      "i": 158,
+      "start": 965.68,
+      "end": 972.72,
+      "text": "That is samyama is to restrain thoroughly samyak samyama"
+    },
+    {
+      "i": 159,
+      "start": 973.68,
+      "end": 977.88,
+      "text": "complete inner restraint or total withdrawal of the senses"
+    },
+    {
+      "i": 160,
+      "start": 977.88,
+      "end": 984.56,
+      "text": "from their sense objects. So Sam samyamaagni, the fire of"
+    },
+    {
+      "i": 161,
+      "start": 984.56,
+      "end": 989.92,
+      "text": "restraint, are sama dama uparati tithiksha, the fourfold inner"
+    },
+    {
+      "i": 162,
+      "start": 989.92,
+      "end": 994.88,
+      "text": "sadhana of the andakarana soudhana, purification of the"
+    },
+    {
+      "i": 163,
+      "start": 994.88,
+      "end": 999.52,
+      "text": "inner instrument. These are fires because they"
+    },
+    {
+      "i": 164,
+      "start": 999.52,
+      "end": 1005.36,
+      "text": "burn Tapanthi. What raga devesha impulses of"
+    },
+    {
+      "i": 165,
+      "start": 1005.36,
+      "end": 1011.36,
+      "text": "the senses consuming the fuel of Vishayasakti sense attachments."
+    },
+    {
+      "i": 166,
+      "start": 1013.12,
+      "end": 1018.04,
+      "text": "So the etnya by doing samadhama uparati tithiksha."
+    },
+    {
+      "i": 167,
+      "start": 1019.16,
+      "end": 1026.56,
+      "text": "What is being done is the inner instrument is being purified by"
+    },
+    {
+      "i": 168,
+      "start": 1026.599,
+      "end": 1032.52,
+      "text": "offering the vishayas which are otherwise creating the raga"
+    },
+    {
+      "i": 169,
+      "start": 1032.52,
+      "end": 1035.48,
+      "text": "dvesha. The attachment and repulsion in"
+    },
+    {
+      "i": 170,
+      "start": 1035.48,
+      "end": 1044.359,
+      "text": "the mind becomes the offerings for the incense organs itself"
+    },
+    {
+      "i": 171,
+      "start": 1044.359,
+      "end": 1047.2,
+      "text": "sensor. When they are under the control"
+    },
+    {
+      "i": 172,
+      "start": 1047.2,
+      "end": 1052.0,
+      "text": "of Shamadama Uparati Titiksha, they don't indulge in the sense"
+    },
+    {
+      "i": 173,
+      "start": 1052.2,
+      "end": 1059.92,
+      "text": "enjoyment but the sense objects become reminders for controlling"
+    },
+    {
+      "i": 174,
+      "start": 1059.92,
+      "end": 1064.68,
+      "text": "the senses by for getting into the raga and dwesha."
+    },
+    {
+      "i": 175,
+      "start": 1066.68,
+      "end": 1070.88,
+      "text": "So Shabdadi, Vishayan, Shabdadi. In Vishayan the sense objects"
+    },
+    {
+      "i": 176,
+      "start": 1071.52,
+      "end": 1075.96,
+      "text": "beginning with the shabda, the five Tanmatras."
+    },
+    {
+      "i": 177,
+      "start": 1077.32,
+      "end": 1083.28,
+      "text": "What are the sense objects? Shabda sound, sparsha H"
+    },
+    {
+      "i": 178,
+      "start": 1083.28,
+      "end": 1089.88,
+      "text": "sensation, rupa form or colour, rasa taste, quality, ganda"
+    },
+    {
+      "i": 179,
+      "start": 1089.96,
+      "end": 1093.92,
+      "text": "smell. The Adi parallels the first"
+    },
+    {
+      "i": 180,
+      "start": 1093.92,
+      "end": 1097.84,
+      "text": "lines shrotradhi and here it is shabdadi."
+    },
+    {
+      "i": 181,
+      "start": 1098.12,
+      "end": 1104.2,
+      "text": "So this is real now one to one comparison the shrotra is"
+    },
+    {
+      "i": 182,
+      "start": 1104.2,
+      "end": 1108.24,
+      "text": "listening. Shabda, shabda, toksvarsa eyes,"
+    },
+    {
+      "i": 183,
+      "start": 1108.36,
+      "end": 1115.4,
+      "text": "rupa, then tongue taste and nose smell."
+    },
+    {
+      "i": 184,
+      "start": 1115.4,
+      "end": 1120.8,
+      "text": "So the five objects correspond to five senses, the complete"
+    },
+    {
+      "i": 185,
+      "start": 1120.8,
+      "end": 1126.0,
+      "text": "sensory universe. So both the object plus the"
+    },
+    {
+      "i": 186,
+      "start": 1126.16,
+      "end": 1131.24,
+      "text": "sense organs put together, the entire universe is captured in"
+    },
+    {
+      "i": 187,
+      "start": 1131.24,
+      "end": 1138.36,
+      "text": "it, an Indriagneshu into the fire of Indriyas."
+    },
+    {
+      "i": 188,
+      "start": 1139.4,
+      "end": 1142.44,
+      "text": "The sensors themselves are here the fires."
+    },
+    {
+      "i": 189,
+      "start": 1143.52,
+      "end": 1148.2,
+      "text": "The sense organs are Agnes receiving the ovulation of sense"
+    },
+    {
+      "i": 190,
+      "start": 1148.2,
+      "end": 1151.2,
+      "text": "objects. This is the inversion of the"
+    },
+    {
+      "i": 191,
+      "start": 1151.2,
+      "end": 1156.2,
+      "text": "first line where the Indriyas are under the consu, under"
+    },
+    {
+      "i": 192,
+      "start": 1156.2,
+      "end": 1161.16,
+      "text": "regulation of Samadama etcetera. The Indriyas are the Havis"
+    },
+    {
+      "i": 193,
+      "start": 1161.36,
+      "end": 1166.4,
+      "text": "offered into Samyama fire. So there samadama uparati"
+    },
+    {
+      "i": 194,
+      "start": 1166.4,
+      "end": 1170.68,
+      "text": "tithiksha becomes the fire and the Indriyas when they are"
+    },
+    {
+      "i": 195,
+      "start": 1170.68,
+      "end": 1175.0,
+      "text": "getting agitated when the Vishyas are in contact is"
+    },
+    {
+      "i": 196,
+      "start": 1175.0,
+      "end": 1178.6,
+      "text": "restrained by burning them into the fire of Samadhama and"
+    },
+    {
+      "i": 197,
+      "start": 1178.6,
+      "end": 1182.48,
+      "text": "paratiti diksha. While in the second line the"
+    },
+    {
+      "i": 198,
+      "start": 1182.48,
+      "end": 1187.16,
+      "text": "Indriyas become the Agni receiving the Vishaya, which are"
+    },
+    {
+      "i": 199,
+      "start": 1187.16,
+      "end": 1194.04,
+      "text": "the havis or the oblation, the first acnya samyama acnya"
+    },
+    {
+      "i": 200,
+      "start": 1196.24,
+      "end": 1199.8,
+      "text": "sotradini Indriyas jihwadi samyabagnisu."
+    },
+    {
+      "i": 201,
+      "start": 1200.92,
+      "end": 1204.68,
+      "text": "They offer the sense org census sotradhi into the fire of"
+    },
+    {
+      "i": 202,
+      "start": 1204.92,
+      "end": 1208.84,
+      "text": "restraint Samyama. Adi Sankarajarya identifies"
+    },
+    {
+      "i": 203,
+      "start": 1208.84,
+      "end": 1213.96,
+      "text": "these practitioners as Samadhama nishtas, those whose preliminary"
+    },
+    {
+      "i": 204,
+      "start": 1213.96,
+      "end": 1219.64,
+      "text": "primary sadhana is the thorough ongo thoroughgoing restrained of"
+    },
+    {
+      "i": 205,
+      "start": 1219.64,
+      "end": 1224.8,
+      "text": "the sense faculties. The fires of Samyama fires are"
+    },
+    {
+      "i": 206,
+      "start": 1224.8,
+      "end": 1229.24,
+      "text": "the four inner disciplines that constitute the third member of"
+    },
+    {
+      "i": 207,
+      "start": 1229.24,
+      "end": 1237.16,
+      "text": "the Sadhana Chatustaya Shama. Shama is the inner restrain"
+    },
+    {
+      "i": 208,
+      "start": 1237.16,
+      "end": 1243.12,
+      "text": "withdrawal of Manas from the Vishaya Sankalpa, the fire that"
+    },
+    {
+      "i": 209,
+      "start": 1243.12,
+      "end": 1247.48,
+      "text": "burned the Chitta projective outward movement."
+    },
+    {
+      "i": 210,
+      "start": 1247.76,
+      "end": 1249.72,
+      "text": "Chitta's projective outward movement."
+    },
+    {
+      "i": 211,
+      "start": 1249.92,
+      "end": 1254.52,
+      "text": "Dama is the outer restrainment, withdrawal of the Indriyas from"
+    },
+    {
+      "i": 212,
+      "start": 1254.52,
+      "end": 1259.48,
+      "text": "Vishaya contact, the fire that burned the sense organs keeping"
+    },
+    {
+      "i": 213,
+      "start": 1259.48,
+      "end": 1266.16,
+      "text": "the keeping of seeking of objects, Uparati cessation, the"
+    },
+    {
+      "i": 214,
+      "start": 1266.16,
+      "end": 1271.24,
+      "text": "natural cessation of Vishayasakti, Vishaya pursuit"
+    },
+    {
+      "i": 215,
+      "start": 1272.28,
+      "end": 1277.48,
+      "text": "once Sama and Dhamma are established, the fire that burns"
+    },
+    {
+      "i": 216,
+      "start": 1277.48,
+      "end": 1283.8,
+      "text": "the pravarti tendency. Pravarti is outward movement and"
+    },
+    {
+      "i": 217,
+      "start": 1283.8,
+      "end": 1290.44,
+      "text": "Tithiksha endurance patient non reaction to dualities dondwas"
+    },
+    {
+      "i": 218,
+      "start": 1291.48,
+      "end": 1294.2,
+      "text": "the fire that burns raga and divesha."
+    },
+    {
+      "i": 219,
+      "start": 1294.24,
+      "end": 1299.44,
+      "text": "They said the dualities responses to unavoidable vishya"
+    },
+    {
+      "i": 220,
+      "start": 1299.44,
+      "end": 1302.6,
+      "text": "contact. There is unavoidable Vishya"
+    },
+    {
+      "i": 221,
+      "start": 1302.6,
+      "end": 1309.16,
+      "text": "contact because we are living in the world, but when the contact"
+    },
+    {
+      "i": 222,
+      "start": 1309.16,
+      "end": 1318.52,
+      "text": "happens, there is a tendency internally for reacting toward"
+    },
+    {
+      "i": 223,
+      "start": 1318.52,
+      "end": 1322.24,
+      "text": "the dualities of attraction and repulsion."
+    },
+    {
+      "i": 224,
+      "start": 1324.04,
+      "end": 1329.48,
+      "text": "When you restrain that, that endurance is called tiriksha."
+    },
+    {
+      "i": 225,
+      "start": 1331.72,
+      "end": 1337.16,
+      "text": "By offering the senses, which are the havis ovilations, into"
+    },
+    {
+      "i": 226,
+      "start": 1337.16,
+      "end": 1341.76,
+      "text": "the fire of Agnis, the practitioner performs ekhna of"
+    },
+    {
+      "i": 227,
+      "start": 1341.76,
+      "end": 1345.92,
+      "text": "inner purification. Burning away the Vishayasakti"
+    },
+    {
+      "i": 228,
+      "start": 1346.04,
+      "end": 1350.32,
+      "text": "sends attachments. That is the fuel of Samsara's"
+    },
+    {
+      "i": 229,
+      "start": 1350.32,
+      "end": 1355.76,
+      "text": "continuation Sankaraja. Note that this is the sadhana"
+    },
+    {
+      "i": 230,
+      "start": 1355.76,
+      "end": 1359.76,
+      "text": "path of the aspirant and Fort Nyana."
+    },
+    {
+      "i": 231,
+      "start": 1361.12,
+      "end": 1365.08,
+      "text": "The Viveka Vairagya established Mumukshu who withdraws the"
+    },
+    {
+      "i": 232,
+      "start": 1365.08,
+      "end": 1370.76,
+      "text": "senses from the objects as the precondition for Atmat Nyana or"
+    },
+    {
+      "i": 233,
+      "start": 1370.76,
+      "end": 1375.08,
+      "text": "Atma Vijara. The Samyama Yagnya clears the"
+    },
+    {
+      "i": 234,
+      "start": 1375.08,
+      "end": 1380.48,
+      "text": "field for arising tatvatnyana by removing the primary obstacle"
+    },
+    {
+      "i": 235,
+      "start": 1380.48,
+      "end": 1385.76,
+      "text": "that is the Vishaya Sakti or the attraction by the sense objects"
+    },
+    {
+      "i": 236,
+      "start": 1386.68,
+      "end": 1391.12,
+      "text": "as avaranavik shape of the chitta, the covering and the"
+    },
+    {
+      "i": 237,
+      "start": 1391.32,
+      "end": 1396.8,
+      "text": "projection of the mind. The advaitic significance"
+    },
+    {
+      "i": 238,
+      "start": 1397.84,
+      "end": 1400.88,
+      "text": "Samyama fires consume the fuel of Adyasa."
+    },
+    {
+      "i": 239,
+      "start": 1401.72,
+      "end": 1406.56,
+      "text": "From the advaitic point of view, the outward object directed"
+    },
+    {
+      "i": 240,
+      "start": 1406.56,
+      "end": 1412.36,
+      "text": "movement of the chitta that perpetually re establishes Deha"
+    },
+    {
+      "i": 241,
+      "start": 1412.36,
+      "end": 1416.6,
+      "text": "Vishaya Avimana, that is the identification with the body and"
+    },
+    {
+      "i": 242,
+      "start": 1416.6,
+      "end": 1422.36,
+      "text": "the sense objects. When this fuel is consumed, the"
+    },
+    {
+      "i": 243,
+      "start": 1422.36,
+      "end": 1429.16,
+      "text": "natural luminosity, self luminosity of the Atman begins"
+    },
+    {
+      "i": 244,
+      "start": 1430.08,
+      "end": 1434.4,
+      "text": "to be revealed, the avarana thinning through the samyama"
+    },
+    {
+      "i": 245,
+      "start": 1434.4,
+      "end": 1445.04,
+      "text": "tapas, the second etnya indriya agni etnya, the second line."
+    },
+    {
+      "i": 246,
+      "start": 1446.24,
+      "end": 1451.4,
+      "text": "It is a group of offering sense objects into the sense Spires."
+    },
+    {
+      "i": 247,
+      "start": 1453.0,
+      "end": 1460.2,
+      "text": "Sabdadin, Vishayan, Anya, Indriya, Nishu, Jehwati, others"
+    },
+    {
+      "i": 248,
+      "start": 1460.2,
+      "end": 1465.52,
+      "text": "offer the sense objects, Sabdadi etc into the fires of senses."
+    },
+    {
+      "i": 249,
+      "start": 1465.52,
+      "end": 1471.08,
+      "text": "Indriyagnis. This is a more philosophically"
+    },
+    {
+      "i": 250,
+      "start": 1471.08,
+      "end": 1476.6,
+      "text": "paradoxical of the two Yagnas and Sankaracharya gives it the"
+    },
+    {
+      "i": 251,
+      "start": 1476.6,
+      "end": 1482.32,
+      "text": "highest attention. Who are these others who offer"
+    },
+    {
+      "i": 252,
+      "start": 1482.32,
+      "end": 1487.2,
+      "text": "sense objects into the senses, and how does this constitute the"
+    },
+    {
+      "i": 253,
+      "start": 1487.2,
+      "end": 1489.96,
+      "text": "ecnya rather than mere sensory intelligence?"
+    },
+    {
+      "i": 254,
+      "start": 1491.32,
+      "end": 1496.2,
+      "text": "The answer involves 2 levels of interpretation, both of which"
+    },
+    {
+      "i": 255,
+      "start": 1496.88,
+      "end": 1503.52,
+      "text": "are supplementary to each other. The upasana marga, the"
+    },
+    {
+      "i": 256,
+      "start": 1503.52,
+      "end": 1509.08,
+      "text": "practitioners or sadakas. Certain Upasakas perform a"
+    },
+    {
+      "i": 257,
+      "start": 1509.12,
+      "end": 1513.92,
+      "text": "specific inner ecnya in which each sense experience is"
+    },
+    {
+      "i": 258,
+      "start": 1513.92,
+      "end": 1520.08,
+      "text": "consciously offered as oblation into the Brahman residing in the"
+    },
+    {
+      "i": 259,
+      "start": 1520.08,
+      "end": 1528.6,
+      "text": "sense organ, the under army, the inner controller in each"
+    },
+    {
+      "i": 260,
+      "start": 1528.6,
+      "end": 1533.24,
+      "text": "indriyam. When hearing a sound, the"
+    },
+    {
+      "i": 261,
+      "start": 1533.24,
+      "end": 1539.36,
+      "text": "practitioner offers the sound as the oblation to the fire of"
+    },
+    {
+      "i": 262,
+      "start": 1540.72,
+      "end": 1546.0,
+      "text": "hearing, understood as the divine fire of the year."
+    },
+    {
+      "i": 263,
+      "start": 1547.2,
+      "end": 1553.0,
+      "text": "The atman that dwells in the year as its adistadar means"
+    },
+    {
+      "i": 264,
+      "start": 1553.8,
+      "end": 1559.64,
+      "text": "presiding deity. This transforms the every"
+    },
+    {
+      "i": 265,
+      "start": 1559.64,
+      "end": 1565.44,
+      "text": "sensory experience into conscious ekya, the continual"
+    },
+    {
+      "i": 266,
+      "start": 1565.44,
+      "end": 1569.6,
+      "text": "offering of the phenomenal world into the divine fire of"
+    },
+    {
+      "i": 267,
+      "start": 1569.6,
+      "end": 1573.28,
+      "text": "consciousness dwelling and functioning through each organ."
+    },
+    {
+      "i": 268,
+      "start": 1576.24,
+      "end": 1580.52,
+      "text": "This is the Sadhaga's method of Ytnya."
+    },
+    {
+      "i": 269,
+      "start": 1582.64,
+      "end": 1587.32,
+      "text": "But at the Jitnyasu level also he is also doing ytnya because"
+    },
+    {
+      "i": 270,
+      "start": 1587.32,
+      "end": 1592.64,
+      "text": "he is also in the Nyan Anishta Jeevan Mukta who is performing"
+    },
+    {
+      "i": 271,
+      "start": 1592.64,
+      "end": 1596.56,
+      "text": "in the world. So Nyana Nishta practitioners"
+    },
+    {
+      "i": 272,
+      "start": 1597.76,
+      "end": 1601.92,
+      "text": "the Jeevan Mukta whose chetas is Nyana Avastitha."
+    },
+    {
+      "i": 273,
+      "start": 1601.92,
+      "end": 1609.6,
+      "text": "Chetasa offers all sense objects into the fire of senses in the"
+    },
+    {
+      "i": 274,
+      "start": 1609.6,
+      "end": 1616.32,
+      "text": "sense that recognizing all objects of senses as Brahman"
+    },
+    {
+      "i": 275,
+      "start": 1620.24,
+      "end": 1628.12,
+      "text": "Brahma Havihi, the 24th verse we said that and all indriyas ask"
+    },
+    {
+      "i": 276,
+      "start": 1628.12,
+      "end": 1634.4,
+      "text": "the fires Brahma gnaw and every sensory encounter is"
+    },
+    {
+      "i": 277,
+      "start": 1634.4,
+      "end": 1639.8,
+      "text": "simultaneously A Brahma agnya. The Jeevan Mukta does not"
+    },
+    {
+      "i": 278,
+      "start": 1639.8,
+      "end": 1644.84,
+      "text": "withdraw from the sense objects using Samyama, Samadhama etc,"
+    },
+    {
+      "i": 279,
+      "start": 1646.08,
+      "end": 1651.24,
+      "text": "but engages with them as Brahman offering Brahman into the"
+    },
+    {
+      "i": 280,
+      "start": 1651.24,
+      "end": 1658.64,
+      "text": "Brahman fire. Ekni Naiva Upadhishwati at the"
+    },
+    {
+      "i": 281,
+      "start": 1658.64,
+      "end": 1667.28,
+      "text": "sensory level. The Indriya Vishya matrix as a"
+    },
+    {
+      "i": 282,
+      "start": 1667.28,
+      "end": 1672.08,
+      "text": "complete Advaitic analysis. Shankaracharya reads the paired"
+    },
+    {
+      "i": 283,
+      "start": 1672.08,
+      "end": 1677.56,
+      "text": "structure of 26 as representing the complete Advaitic analysis"
+    },
+    {
+      "i": 284,
+      "start": 1677.56,
+      "end": 1683.48,
+      "text": "of Indriya Vishya relationship. The five sense organs like"
+    },
+    {
+      "i": 285,
+      "start": 1683.48,
+      "end": 1689.44,
+      "text": "Srothradhi and their five sense objects Shabdadi constitute the"
+    },
+    {
+      "i": 286,
+      "start": 1689.44,
+      "end": 1696.04,
+      "text": "primary interface between the Jiva and the Jagat, the field"
+    },
+    {
+      "i": 287,
+      "start": 1696.04,
+      "end": 1701.36,
+      "text": "where samsara is perpetually reinforced when Vishaya Sakti"
+    },
+    {
+      "i": 288,
+      "start": 1701.36,
+      "end": 1707.72,
+      "text": "generating Karmabanda. So Vishaya Sakti means the"
+    },
+    {
+      "i": 289,
+      "start": 1707.72,
+      "end": 1711.76,
+      "text": "attraction towards the sense objects generate the Karamba"
+    },
+    {
+      "i": 290,
+      "start": 1711.76,
+      "end": 1719.12,
+      "text": "Banda means bondage due to samsara or dissolved yatnya"
+    },
+    {
+      "i": 291,
+      "start": 1719.12,
+      "end": 1724.64,
+      "text": "Drishti in the in the Brahma yatnya recognizing Brahman in"
+    },
+    {
+      "i": 292,
+      "start": 1724.64,
+      "end": 1729.52,
+      "text": "all Vishayas. The moment the Vishayas or the"
+    },
+    {
+      "i": 293,
+      "start": 1729.52,
+      "end": 1734.72,
+      "text": "sense objects become Brahman or the Mumukshu or the for the"
+    },
+    {
+      "i": 294,
+      "start": 1734.72,
+      "end": 1740.28,
+      "text": "Jeevan Mukta, there the Eknya Drishti becomes Brahma Havi"
+    },
+    {
+      "i": 295,
+      "start": 1740.76,
+      "end": 1745.24,
+      "text": "Brahman. Now Brahmanahutam by presenting"
+    },
+    {
+      "i": 296,
+      "start": 1745.24,
+      "end": 1750.16,
+      "text": "both the offering of sensors into Samyama fires and offering"
+    },
+    {
+      "i": 297,
+      "start": 1750.16,
+      "end": 1754.92,
+      "text": "of Vishayas into Indriya fires as valid Eknya."
+    },
+    {
+      "i": 298,
+      "start": 1755.56,
+      "end": 1761.72,
+      "text": "The words establishes 2 No 3 clear cut paths."
+    },
+    {
+      "i": 299,
+      "start": 1763.16,
+      "end": 1768.8,
+      "text": "No sensory experience is beyond Eknya, whether the practitioner"
+    },
+    {
+      "i": 300,
+      "start": 1768.8,
+      "end": 1773.64,
+      "text": "withdraws the senses by samadhama etcetera, or"
+    },
+    {
+      "i": 301,
+      "start": 1773.64,
+      "end": 1779.92,
+      "text": "consecrates sensory engagement, Indriya Eknya, both are eknya"
+    },
+    {
+      "i": 302,
+      "start": 1779.92,
+      "end": 1785.12,
+      "text": "and both dissolve the karma Banda, provided the inner"
+    },
+    {
+      "i": 303,
+      "start": 1785.12,
+      "end": 1792.36,
+      "text": "condition is ghatasanga muktaha Yana vastira chethasa, which was"
+    },
+    {
+      "i": 304,
+      "start": 1792.36,
+      "end": 1800.12,
+      "text": "there in the 23rd verse. If that is the internal resolve,"
+    },
+    {
+      "i": 305,
+      "start": 1801.0,
+      "end": 1804.6,
+      "text": "whether you are doing the first etnya or whether you are doing"
+    },
+    {
+      "i": 306,
+      "start": 1804.6,
+      "end": 1807.96,
+      "text": "the second etnya, both dissolves the karma Banda."
+    },
+    {
+      "i": 307,
+      "start": 1808.24,
+      "end": 1812.04,
+      "text": "But if you don't have the Gathasanka mukta Nyanavasti, the"
+    },
+    {
+      "i": 308,
+      "start": 1812.04,
+      "end": 1817.92,
+      "text": "Chedasa, that is the sataka, in that case he has to do the"
+    },
+    {
+      "i": 309,
+      "start": 1817.92,
+      "end": 1822.08,
+      "text": "Samyama Samadama uparati Tithiksha."
+    },
+    {
+      "i": 310,
+      "start": 1824.16,
+      "end": 1830.92,
+      "text": "Then both paths have same ultimate direction towards the"
+    },
+    {
+      "i": 311,
+      "start": 1830.92,
+      "end": 1837.84,
+      "text": "Brahmagarma Samadhi where the distinction between the offering"
+    },
+    {
+      "i": 312,
+      "start": 1838.04,
+      "end": 1842.12,
+      "text": "the sense and offering the sense object."
+    },
+    {
+      "i": 313,
+      "start": 1844.84,
+      "end": 1848.68,
+      "text": "It collapses into recognition that both senses and objects are"
+    },
+    {
+      "i": 314,
+      "start": 1848.68,
+      "end": 1853.48,
+      "text": "Brahman and any transaction between them is Brahman."
+    },
+    {
+      "i": 315,
+      "start": 1853.48,
+      "end": 1858.8,
+      "text": "Offering Brahman into Brahman's fire there is an abfurrent"
+    },
+    {
+      "i": 316,
+      "start": 1858.88,
+      "end": 1869.16,
+      "text": "opposition or seemingly reverse order Samyama versus engagement."
+    },
+    {
+      "i": 317,
+      "start": 1870.84,
+      "end": 1875.24,
+      "text": "East Vyavaharika at the paramarthika level Samyama"
+    },
+    {
+      "i": 318,
+      "start": 1875.24,
+      "end": 1879.56,
+      "text": "becomes withdrawing the senses from objects and Indriya Agni"
+    },
+    {
+      "i": 319,
+      "start": 1879.56,
+      "end": 1882.24,
+      "text": "Eknya offering objects into the fire."
+    },
+    {
+      "i": 320,
+      "start": 1882.24,
+      "end": 1887.8,
+      "text": "Sense fires are identical in their ultimate resolve result."
+    },
+    {
+      "i": 321,
+      "start": 1890.2,
+      "end": 1894.4,
+      "text": "Both these actions dissolve the Vishaya."
+    },
+    {
+      "i": 322,
+      "start": 1894.4,
+      "end": 1898.56,
+      "text": "Sakthi means attraction towards the sense object that drives the"
+    },
+    {
+      "i": 323,
+      "start": 1898.56,
+      "end": 1904.28,
+      "text": "samsara, one by removal, other by consecration."
+    },
+    {
+      "i": 324,
+      "start": 1905.64,
+      "end": 1909.04,
+      "text": "This is the advaitic non opposition of Nevruti and"
+    },
+    {
+      "i": 325,
+      "start": 1909.04,
+      "end": 1912.84,
+      "text": "Prabruti when both are performed as Eknya."
+    },
+    {
+      "i": 326,
+      "start": 1913.32,
+      "end": 1917.64,
+      "text": "Both Prabruti and Nevruti is towards Brahman."
+    },
+    {
+      "i": 327,
+      "start": 1919.44,
+      "end": 1924.28,
+      "text": "Which whichever path you take and sadhana Chadrustaya and"
+    },
+    {
+      "i": 328,
+      "start": 1924.28,
+      "end": 1929.52,
+      "text": "Prasyahara, do they, do they have any role?"
+    },
+    {
+      "i": 329,
+      "start": 1929.84,
+      "end": 1934.32,
+      "text": "When we say this samadhama impratiti tiksha or pratyahara"
+    },
+    {
+      "i": 330,
+      "start": 1936.12,
+      "end": 1940.12,
+      "text": "Sankarajya connects first yakhnya that sama Sam samyama"
+    },
+    {
+      "i": 331,
+      "start": 1940.12,
+      "end": 1944.64,
+      "text": "yagni to the sadhana chahta satsambati particularly"
+    },
+    {
+      "i": 332,
+      "start": 1944.64,
+      "end": 1949.68,
+      "text": "samadhama uprati ti tiksha and to the yogic pratyahara."
+    },
+    {
+      "i": 333,
+      "start": 1949.88,
+      "end": 1955.32,
+      "text": "Withdrawal of census offering Srothradhi Indriya Sindhu"
+    },
+    {
+      "i": 334,
+      "start": 1955.32,
+      "end": 1958.36,
+      "text": "Samyama Agni is Geeta's expression of pratyahara."
+    },
+    {
+      "i": 335,
+      "start": 1960.92,
+      "end": 1967.76,
+      "text": "Ask Eknya what Patanchali calls as the 5th Anga of the Ashtanga"
+    },
+    {
+      "i": 336,
+      "start": 1967.76,
+      "end": 1973.68,
+      "text": "Yoga, here re described as ovulation offered into the"
+    },
+    {
+      "i": 337,
+      "start": 1973.68,
+      "end": 1981.52,
+      "text": "sacred fire, elevating it from mere technique into a cosmic"
+    },
+    {
+      "i": 338,
+      "start": 1981.52,
+      "end": 1987.44,
+      "text": "offering. Because the 8th, the 5th Anga of"
+    },
+    {
+      "i": 339,
+      "start": 1987.44,
+      "end": 1992.44,
+      "text": "the Tanga yoga is a technique, but if the attitude becomes"
+    },
+    {
+      "i": 340,
+      "start": 1992.44,
+      "end": 1995.52,
+      "text": "ecnya, then it becomes a cosmic offering."
+    },
+    {
+      "i": 341,
+      "start": 1996.36,
+      "end": 2000.44,
+      "text": "This transformation of the technique into ecnya is the"
+    },
+    {
+      "i": 342,
+      "start": 2000.44,
+      "end": 2003.28,
+      "text": "versus fundamental pedagogical contribution."
+    },
+    {
+      "i": 343,
+      "start": 2004.56,
+      "end": 2008.24,
+      "text": "It takes the psychological disciplines of sense restraint"
+    },
+    {
+      "i": 344,
+      "start": 2008.88,
+      "end": 2016.12,
+      "text": "and consecrated engagement and reveals them as participations."
+    },
+    {
+      "i": 345,
+      "start": 2016.12,
+      "end": 2020.4,
+      "text": "In the Brahma Etnya. Every moment of a genuine"
+    },
+    {
+      "i": 346,
+      "start": 2020.4,
+      "end": 2026.04,
+      "text": "samyama is a moment of Brahman receiving the offering of"
+    },
+    {
+      "i": 347,
+      "start": 2026.04,
+      "end": 2028.68,
+      "text": "Brahman sensors into Brahman's purifying fire."
+    },
+    {
+      "i": 348,
+      "start": 2031.2,
+      "end": 2036.44,
+      "text": "So with this 26 The Etnya Vistara has descended from the"
+    },
+    {
+      "i": 349,
+      "start": 2036.44,
+      "end": 2039.96,
+      "text": "cosmic Brahma Etnya to psychophysical"
+    },
+    {
+      "i": 350,
+      "start": 2041.2,
+      "end": 2047.52,
+      "text": "psychophysiological demonstration that even the most"
+    },
+    {
+      "i": 351,
+      "start": 2047.52,
+      "end": 2053.08,
+      "text": "immediate level of experience, sensory contact can be converted"
+    },
+    {
+      "i": 352,
+      "start": 2053.08,
+      "end": 2057.92,
+      "text": "into a cosmic Ethna. The world thus continues Ethna"
+    },
+    {
+      "i": 353,
+      "start": 2057.92,
+      "end": 2061.84,
+      "text": "Prakarana central argument. Every domain of human"
+    },
+    {
+      "i": 354,
+      "start": 2061.84,
+      "end": 2065.719,
+      "text": "experience, whether it is cosmic, ritual, sensory or"
+    },
+    {
+      "i": 355,
+      "start": 2065.719,
+      "end": 2071.48,
+      "text": "psychological, is a potential field of Brahmagarma Samadhi,"
+    },
+    {
+      "i": 356,
+      "start": 2072.92,
+      "end": 2079.52,
+      "text": "and each field in each field the eknya appropriate to that"
+    },
+    {
+      "i": 357,
+      "start": 2079.52,
+      "end": 2082.28,
+      "text": "domain. When performed with the Nyana"
+    },
+    {
+      "i": 358,
+      "start": 2082.28,
+      "end": 2089.84,
+      "text": "vastiza Chetasa abiding in that knowledge of Nyana participates"
+    },
+    {
+      "i": 359,
+      "start": 2089.84,
+      "end": 2097.0,
+      "text": "in the karma samagra previlina. It deletes dilsolve the entire"
+    },
+    {
+      "i": 360,
+      "start": 2097.0,
+      "end": 2102.84,
+      "text": "karma bondage and brahmaiba gandhavyam and the destination"
+    },
+    {
+      "i": 361,
+      "start": 2102.84,
+      "end": 2107.0,
+      "text": "becomes Brahma Tabarshya goes like this."
+    },
+    {
+      "i": 362,
+      "start": 2107.6,
+      "end": 2112.24,
+      "text": "Srothrajini indriyani Anya yogeneha samyamag mishu jhwadi"
+    },
+    {
+      "i": 363,
+      "start": 2113.2,
+      "end": 2116.04,
+      "text": "pravindriyam samyamo vidyati ETI bhagavachanam."
+    },
+    {
+      "i": 364,
+      "start": 2116.72,
+      "end": 2120.76,
+      "text": "Some yogis offer senses as hearing etcetera into the fire"
+    },
+    {
+      "i": 365,
+      "start": 2120.76,
+      "end": 2124.6,
+      "text": "of restraint. The plural fires is used because"
+    },
+    {
+      "i": 366,
+      "start": 2124.6,
+      "end": 2127.16,
+      "text": "restraint differs with the respect of each of the"
+    },
+    {
+      "i": 367,
+      "start": 2127.64,
+      "end": 2133.36,
+      "text": "individual senses. Samyama Eva agnayaha desu"
+    },
+    {
+      "i": 368,
+      "start": 2133.36,
+      "end": 2137.32,
+      "text": "jivwadi indriya samyam Eva kurvandi tyerta."
+    },
+    {
+      "i": 369,
+      "start": 2138.52,
+      "end": 2142.76,
+      "text": "Those restraint themselves are fires and into them they offer"
+    },
+    {
+      "i": 370,
+      "start": 2142.76,
+      "end": 2146.24,
+      "text": "the senses. This is the They practice"
+    },
+    {
+      "i": 371,
+      "start": 2146.24,
+      "end": 2152.2,
+      "text": "restraint of the senses. Shabdadin Vishayan Anya Indriyag"
+    },
+    {
+      "i": 372,
+      "start": 2152.2,
+      "end": 2157.68,
+      "text": "Nishu Jihwadi Indriyani Eva agnaya deshu Indriyag Nishu"
+    },
+    {
+      "i": 373,
+      "start": 2157.68,
+      "end": 2161.16,
+      "text": "Jihwadi. Others offer sound and other"
+    },
+    {
+      "i": 374,
+      "start": 2161.16,
+      "end": 2163.68,
+      "text": "sense objects into the fires of senses."
+    },
+    {
+      "i": 375,
+      "start": 2164.32,
+      "end": 2168.68,
+      "text": "The senses themselves are the fires they offer objects of"
+    },
+    {
+      "i": 376,
+      "start": 2168.68,
+      "end": 2173.36,
+      "text": "senses into. Thus, those sense fires Srotra"
+    },
+    {
+      "i": 377,
+      "start": 2173.36,
+      "end": 2177.2,
+      "text": "di bihi abhiruddha vishayagrahanam homam manende."
+    },
+    {
+      "i": 378,
+      "start": 2178.8,
+      "end": 2183.04,
+      "text": "They regard the reception of the unobjectionable sense objects"
+    },
+    {
+      "i": 379,
+      "start": 2183.96,
+      "end": 2188.56,
+      "text": "through hearing and other senses as a kind of sacrifice."
+    },
+    {
+      "i": 380,
+      "start": 2190.24,
+      "end": 2193.0,
+      "text": "Therefore, Sankarajari explained that some yogis practice"
+    },
+    {
+      "i": 381,
+      "start": 2193.0,
+      "end": 2196.32,
+      "text": "sacrifice restraining senses and withdrawing them from the"
+    },
+    {
+      "i": 382,
+      "start": 2196.32,
+      "end": 2200.8,
+      "text": "objects, while others perform more of a moderate discipline by"
+    },
+    {
+      "i": 383,
+      "start": 2200.8,
+      "end": 2205.56,
+      "text": "allowing senses to engage but only with the proper objects in"
+    },
+    {
+      "i": 384,
+      "start": 2205.56,
+      "end": 2210.0,
+      "text": "the regulated way. Both are preparatory yogic"
+    },
+    {
+      "i": 385,
+      "start": 2210.12,
+      "end": 2217.36,
+      "text": "etnyas meant to purify the mind for self knowledge. 27 Now next"
+    },
+    {
+      "i": 386,
+      "start": 2217.36,
+      "end": 2219.96,
+      "text": "verse presents more comprehensive and more"
+    },
+    {
+      "i": 387,
+      "start": 2219.96,
+      "end": 2226.24,
+      "text": "internalized etnya, one that subsumes all sensory and pranic"
+    },
+    {
+      "i": 388,
+      "start": 2227.04,
+      "end": 2232.6,
+      "text": "activity into single fire. The Atma Samyama Yoga Agni, the"
+    },
+    {
+      "i": 389,
+      "start": 2232.6,
+      "end": 2238.08,
+      "text": "fire of the self restrained yoga which is crucially qualified as"
+    },
+    {
+      "i": 390,
+      "start": 2238.84,
+      "end": 2242.8,
+      "text": "Nayanadipita kindled by the fire of knowledge."
+    },
+    {
+      "i": 391,
+      "start": 2243.8,
+      "end": 2247.28,
+      "text": "This qualifier is the versus philosophical effects and"
+    },
+    {
+      "i": 392,
+      "start": 2247.28,
+      "end": 2254.36,
+      "text": "Changaracharya's primary exegetical focus that the fire"
+    },
+    {
+      "i": 393,
+      "start": 2254.36,
+      "end": 2259.12,
+      "text": "that receives all offerings is not merely restrained as a"
+    },
+    {
+      "i": 394,
+      "start": 2259.12,
+      "end": 2263.64,
+      "text": "discipline, but restrained illumined by the knowledge of"
+    },
+    {
+      "i": 395,
+      "start": 2263.64,
+      "end": 2268.24,
+      "text": "heartman. That is, that Nyana Akartrithva"
+    },
+    {
+      "i": 396,
+      "start": 2268.24,
+      "end": 2274.68,
+      "text": "established through verses 13 through 22 is now being put into"
+    },
+    {
+      "i": 397,
+      "start": 2274.68,
+      "end": 2280.28,
+      "text": "practice. Sarvani indriyaani, Sarvani"
+    },
+    {
+      "i": 398,
+      "start": 2280.28,
+      "end": 2286.56,
+      "text": "indriya karmani prana karmani chaapare atma Sam yoga gagnau"
+    },
+    {
+      "i": 399,
+      "start": 2286.6,
+      "end": 2294.28,
+      "text": "jhwadi nyana dipite. The elevation in this ethnia"
+    },
+    {
+      "i": 400,
+      "start": 2295.24,
+      "end": 2299.44,
+      "text": "from the external etnya through sensory etnya to the"
+    },
+    {
+      "i": 401,
+      "start": 2299.44,
+      "end": 2304.28,
+      "text": "comprehensive inner etnya that offers everything, all indriya"
+    },
+    {
+      "i": 402,
+      "start": 2304.28,
+      "end": 2307.88,
+      "text": "and karma. Not only indriyas as the sense"
+    },
+    {
+      "i": 403,
+      "start": 2307.88,
+      "end": 2313.16,
+      "text": "object, but here the karmic. Karmic indriyas are the sense"
+    },
+    {
+      "i": 404,
+      "start": 2314.24,
+      "end": 2321.36,
+      "text": "objects, sense objects of action and all prana karma, the prana"
+    },
+    {
+      "i": 405,
+      "start": 2321.36,
+      "end": 2326.4,
+      "text": "apana, samana, yaha, Yana, udana, all of them into a single"
+    },
+    {
+      "i": 406,
+      "start": 2326.4,
+      "end": 2330.16,
+      "text": "fire of atma samyama illumined by nyana."
+    },
+    {
+      "i": 407,
+      "start": 2331.8,
+      "end": 2338.0,
+      "text": "This is the closest Yetna Vistara comes before that nyana"
+    },
+    {
+      "i": 408,
+      "start": 2338.0,
+      "end": 2340.6,
+      "text": "yetnya to the direct Brahma karma samadhi."
+    },
+    {
+      "i": 409,
+      "start": 2341.88,
+      "end": 2345.32,
+      "text": "So what are that? Sarvani, indriya, Karmani, all"
+    },
+    {
+      "i": 410,
+      "start": 2345.32,
+      "end": 2349.96,
+      "text": "activities of the senses, not merely the senses themselves,"
+    },
+    {
+      "i": 411,
+      "start": 2351.36,
+      "end": 2354.88,
+      "text": "which was mentioned in the previous verse, but the full"
+    },
+    {
+      "i": 412,
+      "start": 2354.88,
+      "end": 2361.84,
+      "text": "range of indriya activity. Here it is the activity, not the"
+    },
+    {
+      "i": 413,
+      "start": 2361.88,
+      "end": 2366.48,
+      "text": "objects and the senses. Please understand that here the"
+    },
+    {
+      "i": 414,
+      "start": 2366.48,
+      "end": 2372.12,
+      "text": "importance is into the acting. So it moves from the sense of"
+    },
+    {
+      "i": 415,
+      "start": 2372.72,
+      "end": 2378.04,
+      "text": "ear and sound to hearing, touching, seeing, tasting,"
+    },
+    {
+      "i": 416,
+      "start": 2378.04,
+      "end": 2384.2,
+      "text": "smelling the nyan indriyas of operations as well as speaking,"
+    },
+    {
+      "i": 417,
+      "start": 2384.2,
+      "end": 2388.6,
+      "text": "grasping, moving, procreating, eliminating of the fives prana"
+    },
+    {
+      "i": 418,
+      "start": 2389.92,
+      "end": 2394.84,
+      "text": "karmendra operations. The sarva means all without"
+    },
+    {
+      "i": 419,
+      "start": 2394.84,
+      "end": 2401.24,
+      "text": "exception, is crucial in this etnya because it is"
+    },
+    {
+      "i": 420,
+      "start": 2401.24,
+      "end": 2406.4,
+      "text": "comprehensive, not selective. Nothing of sensory activity is"
+    },
+    {
+      "i": 421,
+      "start": 2406.4,
+      "end": 2411.2,
+      "text": "excluded from this offering. Prana karmanihi."
+    },
+    {
+      "i": 422,
+      "start": 2414.0,
+      "end": 2419.28,
+      "text": "The activities of the prana The pranas are the five vital forces"
+    },
+    {
+      "i": 423,
+      "start": 2419.28,
+      "end": 2422.64,
+      "text": "governing the bodies physiological activity."
+    },
+    {
+      "i": 424,
+      "start": 2423.64,
+      "end": 2427.92,
+      "text": "The prana is the inward breath governing the intake oxygen"
+    },
+    {
+      "i": 425,
+      "start": 2427.92,
+      "end": 2431.28,
+      "text": "intake. Apana is the outward breath"
+    },
+    {
+      "i": 426,
+      "start": 2431.32,
+      "end": 2436.56,
+      "text": "governing the elimination of carbon dioxide, samana the"
+    },
+    {
+      "i": 427,
+      "start": 2436.56,
+      "end": 2441.76,
+      "text": "equalising and the governing which is managing the digestion,"
+    },
+    {
+      "i": 428,
+      "start": 2441.76,
+      "end": 2447.08,
+      "text": "assimilation, etcetera. The Udana is the upward"
+    },
+    {
+      "i": 429,
+      "start": 2447.56,
+      "end": 2453.36,
+      "text": "governing speech, upward movements and even the prana"
+    },
+    {
+      "i": 430,
+      "start": 2453.36,
+      "end": 2457.72,
+      "text": "leaving the body at the time of death is by the prana called"
+    },
+    {
+      "i": 431,
+      "start": 2457.72,
+      "end": 2462.08,
+      "text": "udana. And vyana is the pervasive"
+    },
+    {
+      "i": 432,
+      "start": 2462.48,
+      "end": 2468.12,
+      "text": "governing circulation, distribution of the assimilated"
+    },
+    {
+      "i": 433,
+      "start": 2468.12,
+      "end": 2472.68,
+      "text": "food, maintaining the heat in the body throughout etcetera."
+    },
+    {
+      "i": 434,
+      "start": 2474.0,
+      "end": 2478.2,
+      "text": "So the pranakarma, the involuntary autonomous"
+    },
+    {
+      "i": 435,
+      "start": 2478.2,
+      "end": 2483.08,
+      "text": "physiological activity of the body by breathing, digestion,"
+    },
+    {
+      "i": 436,
+      "start": 2483.08,
+      "end": 2487.48,
+      "text": "circulation, etcetera, that continues regardless of"
+    },
+    {
+      "i": 437,
+      "start": 2487.48,
+      "end": 2490.08,
+      "text": "deliberate choice. We are we."
+    },
+    {
+      "i": 438,
+      "start": 2490.08,
+      "end": 2492.24,
+      "text": "I don't have a choice of regulation for them."
+    },
+    {
+      "i": 439,
+      "start": 2493.28,
+      "end": 2497.04,
+      "text": "Including the pranakarma in the offering makes this etnya"
+    },
+    {
+      "i": 440,
+      "start": 2497.72,
+      "end": 2502.36,
+      "text": "absolutely comprehensive. Not only deliberate sensory"
+    },
+    {
+      "i": 441,
+      "start": 2502.36,
+      "end": 2506.6,
+      "text": "actions but even involuntary biological functions are offered"
+    },
+    {
+      "i": 442,
+      "start": 2506.92,
+      "end": 2515.12,
+      "text": "into the same agni vichagni atma Sam yoga atnau into the fire of"
+    },
+    {
+      "i": 443,
+      "start": 2515.12,
+      "end": 2520.84,
+      "text": "yoga of self restraint. The four membered compound which"
+    },
+    {
+      "i": 444,
+      "start": 2520.84,
+      "end": 2526.56,
+      "text": "are the four member Atman here the functioning as an object of"
+    },
+    {
+      "i": 445,
+      "start": 2526.56,
+      "end": 2532.04,
+      "text": "the object of restraint. The andakarana behind andakarana"
+    },
+    {
+      "i": 446,
+      "start": 2532.04,
+      "end": 2537.88,
+      "text": "identified with Atman that is being disciplined and the ground"
+    },
+    {
+      "i": 447,
+      "start": 2537.88,
+      "end": 2544.6,
+      "text": "of restraint which is the Atma's own swarupa as akarta provides"
+    },
+    {
+      "i": 448,
+      "start": 2544.6,
+      "end": 2547.84,
+      "text": "the jnana basis for the restraint."
+    },
+    {
+      "i": 449,
+      "start": 2548.96,
+      "end": 2554.28,
+      "text": "The restraint is by abiding in the nature of Atma as non doer."
+    },
+    {
+      "i": 450,
+      "start": 2555.64,
+      "end": 2560.96,
+      "text": "So the activities are from the non doer's point of view and"
+    },
+    {
+      "i": 451,
+      "start": 2560.96,
+      "end": 2565.16,
+      "text": "when that is being done, samyama, the complaint is"
+    },
+    {
+      "i": 452,
+      "start": 2565.16,
+      "end": 2571.04,
+      "text": "complete restraint or the total gathering in to hold them"
+    },
+    {
+      "i": 453,
+      "start": 2571.04,
+      "end": 2579.6,
+      "text": "together for abiding in the Atma yoga, the discipline, the"
+    },
+    {
+      "i": 454,
+      "start": 2579.6,
+      "end": 2584.64,
+      "text": "systematic sadhana of bringing the inner instrument of"
+    },
+    {
+      "i": 455,
+      "start": 2584.64,
+      "end": 2590.92,
+      "text": "antakarana into alignment with atma for the abundance and the"
+    },
+    {
+      "i": 456,
+      "start": 2590.92,
+      "end": 2595.92,
+      "text": "whole thing is now treated as the agni fire consuming,"
+    },
+    {
+      "i": 457,
+      "start": 2595.92,
+      "end": 2598.04,
+      "text": "transforming and purifying the medium."
+    },
+    {
+      "i": 458,
+      "start": 2598.92,
+      "end": 2604.88,
+      "text": "So Atma Samyama Yoga Agni, the fire that is the yoga of self,"
+    },
+    {
+      "i": 459,
+      "start": 2604.88,
+      "end": 2610.24,
+      "text": "restraint of the self, or the comprehensive inner discipline"
+    },
+    {
+      "i": 460,
+      "start": 2610.24,
+      "end": 2617.56,
+      "text": "in which the Atman hear the jivatma as the andakarana is"
+    },
+    {
+      "i": 461,
+      "start": 2617.56,
+      "end": 2623.68,
+      "text": "brought into complete restraint through yoga, constituting a"
+    },
+    {
+      "i": 462,
+      "start": 2623.68,
+      "end": 2629.52,
+      "text": "fire that consumes all offerings of Indriya, karma and pranakarma"
+    },
+    {
+      "i": 463,
+      "start": 2629.96,
+      "end": 2633.6,
+      "text": "into the fire of the Atma Samyama Agni."
+    },
+    {
+      "i": 464,
+      "start": 2636.84,
+      "end": 2640.52,
+      "text": "Sankaracharya explains the Atma samyama as the complete"
+    },
+    {
+      "i": 465,
+      "start": 2640.52,
+      "end": 2647.48,
+      "text": "gathering of all psychophysical activity into the Atma's"
+    },
+    {
+      "i": 466,
+      "start": 2647.52,
+      "end": 2652.68,
+      "text": "witnessing presence, Sakshi presence, not mere suppression"
+    },
+    {
+      "i": 467,
+      "start": 2652.68,
+      "end": 2658.56,
+      "text": "of the senses, but the recognition of Atma, the witness"
+    },
+    {
+      "i": 468,
+      "start": 2658.56,
+      "end": 2666.04,
+      "text": "Atma as the unmoving ground. Akartha Sakshi, in relation to"
+    },
+    {
+      "i": 469,
+      "start": 2666.04,
+      "end": 2671.88,
+      "text": "which all indriya karma and prana karma occur as vivarta."
+    },
+    {
+      "i": 470,
+      "start": 2672.84,
+      "end": 2678.24,
+      "text": "In the from the point of view of atma as Sakshi, all the"
+    },
+    {
+      "i": 471,
+      "start": 2678.24,
+      "end": 2685.8,
+      "text": "activities of indriyas and prana becomes vivarta or appearance."
+    },
+    {
+      "i": 472,
+      "start": 2687.28,
+      "end": 2691.92,
+      "text": "The yoga here is not the Patanjali's 8 limbed yoga Atanga"
+    },
+    {
+      "i": 473,
+      "start": 2691.92,
+      "end": 2698.16,
+      "text": "Yoga, though it includes it, but the complete Atma."
+    },
+    {
+      "i": 474,
+      "start": 2698.16,
+      "end": 2703.88,
+      "text": "Yoga of the Gita is the discipline of abiding in Atma's"
+    },
+    {
+      "i": 475,
+      "start": 2703.88,
+      "end": 2707.88,
+      "text": "recognition while all activity continues."
+    },
+    {
+      "i": 476,
+      "start": 2708.96,
+      "end": 2716.96,
+      "text": "The atma is a Sakshi for it. Nyana dipitha is a word very"
+    },
+    {
+      "i": 477,
+      "start": 2716.96,
+      "end": 2722.24,
+      "text": "specific here, kindled or set ablaze by Kyana."
+    },
+    {
+      "i": 478,
+      "start": 2722.8,
+      "end": 2729.08,
+      "text": "That is, the fire of the fire is Agni or the fire is nyana atma"
+    },
+    {
+      "i": 479,
+      "start": 2729.08,
+      "end": 2732.44,
+      "text": "samyama yoga. Agni is not self igniting"
+    },
+    {
+      "i": 480,
+      "start": 2733.28,
+      "end": 2739.48,
+      "text": "through mere discipline, but it requires the kindling of nyana"
+    },
+    {
+      "i": 481,
+      "start": 2739.64,
+      "end": 2744.24,
+      "text": "to the actual blaze. That is the time when the Nyana,"
+    },
+    {
+      "i": 482,
+      "start": 2744.24,
+      "end": 2748.72,
+      "text": "Agni, Sarvakarmani, Basma, Saath Kurudi Arjuna becomes reality."
+    },
+    {
+      "i": 483,
+      "start": 2749.92,
+      "end": 2752.48,
+      "text": "Therefore, this compound as per Shankaracharya is the"
+    },
+    {
+      "i": 484,
+      "start": 2752.48,
+      "end": 2755.0,
+      "text": "philosophical approx for the UNI or the worst."
+    },
+    {
+      "i": 485,
+      "start": 2757.12,
+      "end": 2759.96,
+      "text": "And the distinction between Samama."
+    },
+    {
+      "i": 486,
+      "start": 2759.96,
+      "end": 2765.88,
+      "text": "Samyama without Nyana is cold restraint, discipline that"
+    },
+    {
+      "i": 487,
+      "start": 2765.88,
+      "end": 2769.52,
+      "text": "suppresses but does not transform."
+    },
+    {
+      "i": 488,
+      "start": 2770.56,
+      "end": 2776.72,
+      "text": "Vasanas remain in latent condition on the individual and"
+    },
+    {
+      "i": 489,
+      "start": 2776.72,
+      "end": 2782.04,
+      "text": "it is capable of resurgence, whereas samyama has the same"
+    },
+    {
+      "i": 490,
+      "start": 2782.04,
+      "end": 2787.32,
+      "text": "samyama with Nyana Dipita which has been set ablaze with the"
+    },
+    {
+      "i": 491,
+      "start": 2787.32,
+      "end": 2791.36,
+      "text": "fire of knowledge. The samyama is kindled into"
+    },
+    {
+      "i": 492,
+      "start": 2791.36,
+      "end": 2798.68,
+      "text": "actual blaze or fire by Nyana, which means it genuinely burns"
+    },
+    {
+      "i": 493,
+      "start": 2798.68,
+      "end": 2806.24,
+      "text": "and transforms the fuel of sense attachments to the objects of"
+    },
+    {
+      "i": 494,
+      "start": 2806.24,
+      "end": 2813.64,
+      "text": "senses and the ego or the doership feeling at I am the"
+    },
+    {
+      "i": 495,
+      "start": 2813.64,
+      "end": 2818.04,
+      "text": "engaged in action both the Vishayasakti and Kartrutu"
+    },
+    {
+      "i": 496,
+      "start": 2818.04,
+      "end": 2824.2,
+      "text": "Abhimana, these are burnt and transformed by the Nyanagni"
+    },
+    {
+      "i": 497,
+      "start": 2826.04,
+      "end": 2831.08,
+      "text": "Nyanagni Dagda Karman. It is the same fire called that"
+    },
+    {
+      "i": 498,
+      "start": 2831.08,
+      "end": 2834.92,
+      "text": "Nyanagitita Atma Samyama Yoga Agni in this verse."
+    },
+    {
+      "i": 499,
+      "start": 2838.48,
+      "end": 2845.88,
+      "text": "On the comprehensive offering of Sarva prana karma, a decisive"
+    },
+    {
+      "i": 500,
+      "start": 2845.88,
+      "end": 2853.12,
+      "text": "expansion is taking place. Srothradhi Shabdadi senses into"
+    },
+    {
+      "i": 501,
+      "start": 2853.12,
+      "end": 2856.88,
+      "text": "total comprehensive Sarvani indriyaani karmani."
+    },
+    {
+      "i": 502,
+      "start": 2858.56,
+      "end": 2862.08,
+      "text": "It is not just the five sense organs or sense objects."
+    },
+    {
+      "i": 503,
+      "start": 2864.64,
+      "end": 2870.56,
+      "text": "It includes all, both external and both internal."
+    },
+    {
+      "i": 504,
+      "start": 2873.72,
+      "end": 2880.6,
+      "text": "That is what is being heard when outside sound is not there, our"
+    },
+    {
+      "i": 505,
+      "start": 2880.6,
+      "end": 2884.48,
+      "text": "mind chatters. The chattering of the mind is"
+    },
+    {
+      "i": 506,
+      "start": 2884.48,
+      "end": 2889.08,
+      "text": "also a sound. We are able to hear it, or the"
+    },
+    {
+      "i": 507,
+      "start": 2889.08,
+      "end": 2893.16,
+      "text": "sound we hear it in the dream. All of them are eternal."
+    },
+    {
+      "i": 508,
+      "start": 2894.12,
+      "end": 2897.44,
+      "text": "So not only the external but the internal also the total"
+    },
+    {
+      "i": 509,
+      "start": 2897.44,
+      "end": 2903.36,
+      "text": "comprehensiveness of Sarvani, Indriyani and Karmani activities"
+    },
+    {
+      "i": 510,
+      "start": 2903.36,
+      "end": 2907.0,
+      "text": "also. Not only the Prana Karmani, all"
+    },
+    {
+      "i": 511,
+      "start": 2907.0,
+      "end": 2912.04,
+      "text": "vital activities plus the Indriya Karmani, which is in the"
+    },
+    {
+      "i": 512,
+      "start": 2912.04,
+      "end": 2916.84,
+      "text": "waking and in the dream both. This expansion is"
+    },
+    {
+      "i": 513,
+      "start": 2916.84,
+      "end": 2923.92,
+      "text": "philosophically significant. The eknya of this verse 27"
+    },
+    {
+      "i": 514,
+      "start": 2924.36,
+      "end": 2927.68,
+      "text": "leaves nothing outside of the offering."
+    },
+    {
+      "i": 515,
+      "start": 2930.16,
+      "end": 2933.8,
+      "text": "So every flicker of the sensory activity, every pulse of the"
+    },
+    {
+      "i": 516,
+      "start": 2933.8,
+      "end": 2939.88,
+      "text": "vital breath, every movement of the prana, all is included in"
+    },
+    {
+      "i": 517,
+      "start": 2939.88,
+      "end": 2944.48,
+      "text": "the Sarvani, the Sarvani Indriyani karmani."
+    },
+    {
+      "i": 518,
+      "start": 2944.76,
+      "end": 2948.2,
+      "text": "So that is the how total the comprehensiveness comes in."
+    },
+    {
+      "i": 519,
+      "start": 2949.16,
+      "end": 2956.44,
+      "text": "This is the most comprehensive Vyavharika expression of 24th"
+    },
+    {
+      "i": 520,
+      "start": 2957.12,
+      "end": 2960.92,
+      "text": "Brahmanar Brahmarpanam. All offerings is Brahman."
+    },
+    {
+      "i": 521,
+      "start": 2961.96,
+      "end": 2966.76,
+      "text": "So that all of the Brahmarpanam is this comprehensiveness."
+    },
+    {
+      "i": 522,
+      "start": 2967.52,
+      "end": 2970.48,
+      "text": "At the level of complete psychophysical Organism,"
+    },
+    {
+      "i": 523,
+      "start": 2972.6,
+      "end": 2976.84,
+      "text": "Shankaracharya identifies the practical import."
+    },
+    {
+      "i": 524,
+      "start": 2976.96,
+      "end": 2981.92,
+      "text": "The practitioner of this eknya does not try to select which"
+    },
+    {
+      "i": 525,
+      "start": 2981.92,
+      "end": 2986.28,
+      "text": "activities to be, you know, restrained or which activity to"
+    },
+    {
+      "i": 526,
+      "start": 2986.28,
+      "end": 2989.52,
+      "text": "be offered. This would imply remaining as"
+    },
+    {
+      "i": 527,
+      "start": 2989.52,
+      "end": 2997.48,
+      "text": "karta by a selection process, but as an akarta offers"
+    },
+    {
+      "i": 528,
+      "start": 2997.48,
+      "end": 3002.56,
+      "text": "everything without reminder. That is, the sarva echoes"
+    },
+    {
+      "i": 529,
+      "start": 3002.8,
+      "end": 3006.6,
+      "text": "samagra without reminder or completeness."
+    },
+    {
+      "i": 530,
+      "start": 3007.16,
+      "end": 3010.6,
+      "text": "That makes karma Samagram prevailier."
+    },
+    {
+      "i": 531,
+      "start": 3011.92,
+      "end": 3016.0,
+      "text": "Then only it becomes that dissolution of all karmas"
+    },
+    {
+      "i": 532,
+      "start": 3016.52,
+      "end": 3024.72,
+      "text": "actually take place and on the Atma Samyama Yoga has the fire"
+    },
+    {
+      "i": 533,
+      "start": 3024.72,
+      "end": 3029.04,
+      "text": "to receive that. Sankarajya distinguishes Atma"
+    },
+    {
+      "i": 534,
+      "start": 3029.04,
+      "end": 3033.32,
+      "text": "Samyama Yoga into two superficially similar practices."
+    },
+    {
+      "i": 535,
+      "start": 3035.36,
+      "end": 3040.88,
+      "text": "Mere samyama restraint with without Atma knowledge, that is"
+    },
+    {
+      "i": 536,
+      "start": 3040.88,
+      "end": 3045.8,
+      "text": "simple sensory restraint, Dhama, pratyahara etcetera control the"
+    },
+    {
+      "i": 537,
+      "start": 3045.8,
+      "end": 3050.8,
+      "text": "senses by suppression. This is in the Ashtanga Yoga."
+    },
+    {
+      "i": 538,
+      "start": 3052.52,
+      "end": 3056.4,
+      "text": "The Indriya is held back from its object by effort."
+    },
+    {
+      "i": 539,
+      "start": 3058.04,
+      "end": 3062.4,
+      "text": "Atma Samyama adds the crucial atma prefix."
+    },
+    {
+      "i": 540,
+      "start": 3064.36,
+      "end": 3069.04,
+      "text": "The same restraint is grounded into recognition of atma as"
+    },
+    {
+      "i": 541,
+      "start": 3069.12,
+      "end": 3074.96,
+      "text": "akarta. One does not restrain the senses"
+    },
+    {
+      "i": 542,
+      "start": 3075.04,
+      "end": 3080.44,
+      "text": "as a karta of restraint, but recognizes that the Atman is"
+    },
+    {
+      "i": 543,
+      "start": 3080.44,
+      "end": 3083.72,
+      "text": "neither the sense faculty nor its restrainer."
+    },
+    {
+      "i": 544,
+      "start": 3084.44,
+      "end": 3090.44,
+      "text": "Both the sense activity and its restraint occur in the Atma's"
+    },
+    {
+      "i": 545,
+      "start": 3090.44,
+      "end": 3099.12,
+      "text": "witnessing field, and without Atma being involved as a karta,"
+    },
+    {
+      "i": 546,
+      "start": 3100.32,
+      "end": 3108.72,
+      "text": "the effect of the senses and the restraining do not have any"
+    },
+    {
+      "i": 547,
+      "start": 3109.6,
+      "end": 3112.2,
+      "text": "effort, what you call energy of its own."
+    },
+    {
+      "i": 548,
+      "start": 3113.96,
+      "end": 3116.6,
+      "text": "Therefore, when it is a witnessing field, this"
+    },
+    {
+      "i": 549,
+      "start": 3116.6,
+      "end": 3123.64,
+      "text": "transforms the restraint from ego effort into ecnya, the"
+    },
+    {
+      "i": 550,
+      "start": 3123.64,
+      "end": 3129.84,
+      "text": "offering both activity and restraint together into the"
+    },
+    {
+      "i": 551,
+      "start": 3129.84,
+      "end": 3137.2,
+      "text": "Atma's unmoving fire, which is the witness from a mere yoga"
+    },
+    {
+      "i": 552,
+      "start": 3137.6,
+      "end": 3142.24,
+      "text": "discipline without Atma. Various yoga techniques can be"
+    },
+    {
+      "i": 553,
+      "start": 3142.24,
+      "end": 3145.72,
+      "text": "practiced as technical disciplines without foundational"
+    },
+    {
+      "i": 554,
+      "start": 3146.52,
+      "end": 3154.84,
+      "text": "Atmatyana, but Atma Samyoga yo Samyama Yoga specifically"
+    },
+    {
+      "i": 555,
+      "start": 3154.84,
+      "end": 3160.48,
+      "text": "grounds the same all yoga disciplines in the recognition"
+    },
+    {
+      "i": 556,
+      "start": 3160.48,
+      "end": 3167.4,
+      "text": "of Atman as the ultimate ground, making every yoga practice an"
+    },
+    {
+      "i": 557,
+      "start": 3167.4,
+      "end": 3171.48,
+      "text": "offering into the fire of Hathma, the self luminous"
+    },
+    {
+      "i": 558,
+      "start": 3171.48,
+      "end": 3179.68,
+      "text": "presence, Nayana Deepita. It is a philosophical crux."
+    },
+    {
+      "i": 559,
+      "start": 3180.68,
+      "end": 3184.84,
+      "text": "The most expansive commentary addresses the crucial qualifier"
+    },
+    {
+      "i": 560,
+      "start": 3184.84,
+      "end": 3189.52,
+      "text": "of Nayana Deepita, which is meaning kindled by the fire of"
+    },
+    {
+      "i": 561,
+      "start": 3189.52,
+      "end": 3193.72,
+      "text": "Pyana. Sankarajaja establishes the"
+    },
+    {
+      "i": 562,
+      "start": 3193.72,
+      "end": 3199.6,
+      "text": "fundamental principle as Samyama restrained alone, without Nyana"
+    },
+    {
+      "i": 563,
+      "start": 3199.72,
+      "end": 3206.44,
+      "text": "is like a wet wood. It may smoke, it may smoulder,"
+    },
+    {
+      "i": 564,
+      "start": 3207.12,
+      "end": 3211.88,
+      "text": "but it does not blaze as a genuine purifying fire."
+    },
+    {
+      "i": 565,
+      "start": 3213.24,
+      "end": 3218.32,
+      "text": "The vasanas, the deep seated tendencies in US of the"
+    },
+    {
+      "i": 566,
+      "start": 3218.32,
+      "end": 3223.28,
+      "text": "Vishayasakti attachment towards the objects of senses are not"
+    },
+    {
+      "i": 567,
+      "start": 3223.28,
+      "end": 3226.04,
+      "text": "actually consumed by restrained alone."
+    },
+    {
+      "i": 568,
+      "start": 3227.72,
+      "end": 3233.16,
+      "text": "They are suppressed nerodita but remain capable of resurgence"
+    },
+    {
+      "i": 569,
+      "start": 3233.52,
+      "end": 3239.88,
+      "text": "when restrained lapses. Many Tapasvis who have practiced"
+    },
+    {
+      "i": 570,
+      "start": 3239.88,
+      "end": 3243.76,
+      "text": "extreme physical restraint have demonstrated this."
+    },
+    {
+      "i": 571,
+      "start": 3244.28,
+      "end": 3250.16,
+      "text": "When the restraint ends, Kama and Kroda reemerge in them with"
+    },
+    {
+      "i": 572,
+      "start": 3250.84,
+      "end": 3257.44,
+      "text": "double the force, whereas Nyana is the kindling agent or the"
+    },
+    {
+      "i": 573,
+      "start": 3257.72,
+      "end": 3264.36,
+      "text": "blazing agent that transforms the smouldering Samyama into a"
+    },
+    {
+      "i": 574,
+      "start": 3264.36,
+      "end": 3270.92,
+      "text": "blazing fire Dipita Agni that Nyana that Kindles is"
+    },
+    {
+      "i": 575,
+      "start": 3270.92,
+      "end": 3276.16,
+      "text": "specifically atmat Nyana of the Akarthrutva non doership."
+    },
+    {
+      "i": 576,
+      "start": 3277.96,
+      "end": 3284.36,
+      "text": "The recognition that the atmas akara Akartha Avaya unstained by"
+    },
+    {
+      "i": 577,
+      "start": 3284.36,
+      "end": 3290.2,
+      "text": "any karma. When this Nyana Kindles samyama,"
+    },
+    {
+      "i": 578,
+      "start": 3290.76,
+      "end": 3293.24,
+      "text": "the restraint becomes self-sustaining."
+    },
+    {
+      "i": 579,
+      "start": 3293.92,
+      "end": 3298.52,
+      "text": "That Nyani does not restrain senses by effort, but recognizes"
+    },
+    {
+      "i": 580,
+      "start": 3298.52,
+      "end": 3301.4,
+      "text": "that atman is naturally beyond senses."
+    },
+    {
+      "i": 581,
+      "start": 3303.64,
+      "end": 3307.56,
+      "text": "Therefore, the restraint is not an act of will, but a"
+    },
+    {
+      "i": 582,
+      "start": 3307.56,
+      "end": 3313.16,
+      "text": "recognition of a fact genuinely consuming."
+    },
+    {
+      "i": 583,
+      "start": 3313.4,
+      "end": 3319.56,
+      "text": "That Nyanagni burns karma bija at the root, not merely"
+    },
+    {
+      "i": 584,
+      "start": 3319.56,
+      "end": 3328.56,
+      "text": "suppressing but incinerating the vasana seeds the tendencies of"
+    },
+    {
+      "i": 585,
+      "start": 3329.12,
+      "end": 3333.72,
+      "text": "Vishayasakti attraction towards the sense objects."
+    },
+    {
+      "i": 586,
+      "start": 3335.32,
+      "end": 3340.8,
+      "text": "Lastly, paradoxically effortless, the Nana Devita or"
+    },
+    {
+      "i": 587,
+      "start": 3340.8,
+      "end": 3347.96,
+      "text": "the fire of Nana burns without the practitioners Karthritva,"
+    },
+    {
+      "i": 588,
+      "start": 3350.36,
+      "end": 3354.24,
+      "text": "the there is no doership even to keep the kind fire burning"
+    },
+    {
+      "i": 589,
+      "start": 3355.4,
+      "end": 3358.12,
+      "text": "because Atman's fire burns of itself."
+    },
+    {
+      "i": 590,
+      "start": 3358.84,
+      "end": 3364.52,
+      "text": "It is self effulgent the consuming the fuel of Havidya."
+    },
+    {
+      "i": 591,
+      "start": 3365.56,
+      "end": 3371.8,
+      "text": "The Atman is keeping its burn fire burning by consuming the"
+    },
+    {
+      "i": 592,
+      "start": 3371.8,
+      "end": 3375.12,
+      "text": "fuel of Havidya without intervention of the separate"
+    },
+    {
+      "i": 593,
+      "start": 3375.12,
+      "end": 3380.56,
+      "text": "karta. This is exactly what every"
+    },
+    {
+      "i": 594,
+      "start": 3380.56,
+      "end": 3384.88,
+      "text": "experience in the atma when we surrender, it is the"
+    },
+    {
+      "i": 595,
+      "start": 3384.88,
+      "end": 3388.72,
+      "text": "pratibhotam. When we sat in Vidya Vindhade"
+    },
+    {
+      "i": 596,
+      "start": 3389.24,
+      "end": 3397.32,
+      "text": "Amratam, that state which we said, you know in the Kano"
+    },
+    {
+      "i": 597,
+      "start": 3397.32,
+      "end": 3404.76,
+      "text": "Panishat, that is that the fire of Nyana Atman Sankaracharya"
+    },
+    {
+      "i": 598,
+      "start": 3405.36,
+      "end": 3410.96,
+      "text": "cites Muntaka Panishat Pariksha Lokan Karmachajan brahmanon"
+    },
+    {
+      "i": 599,
+      "start": 3410.96,
+      "end": 3413.68,
+      "text": "nirvaeda mayat nastya kratakrutena."
+    },
+    {
+      "i": 600,
+      "start": 3415.6,
+      "end": 3421.0,
+      "text": "The Brahmana having examined the karma produced by by the worlds"
+    },
+    {
+      "i": 601,
+      "start": 3421.0,
+      "end": 3427.12,
+      "text": "of activity of Vietnam, should cultivate Nirvaeda dispassion."
+    },
+    {
+      "i": 602,
+      "start": 3429.04,
+      "end": 3434.76,
+      "text": "The Nirvaeda. Nirvaeda or the dispassion is"
+    },
+    {
+      "i": 603,
+      "start": 3434.76,
+      "end": 3442.28,
+      "text": "the additional shift in the form of mynana that Kindles the"
+    },
+    {
+      "i": 604,
+      "start": 3442.28,
+      "end": 3447.4,
+      "text": "samyama fire. That dispassion becomes the fire"
+    },
+    {
+      "i": 605,
+      "start": 3448.48,
+      "end": 3452.96,
+      "text": "of samyama fire into a genuine yetna."
+    },
+    {
+      "i": 606,
+      "start": 3453.48,
+      "end": 3459.6,
+      "text": "Till then it is a restraint. Activity does not become a"
+    },
+    {
+      "i": 607,
+      "start": 3459.6,
+      "end": 3463.64,
+      "text": "genuine yetna. When it becomes the genuine"
+    },
+    {
+      "i": 608,
+      "start": 3463.64,
+      "end": 3468.12,
+      "text": "yetna, the recognition that the Karmachitaan Lokaan action"
+    },
+    {
+      "i": 609,
+      "start": 3468.12,
+      "end": 3476.48,
+      "text": "accumulated world R antawat that means perishable, finite in"
+    },
+    {
+      "i": 610,
+      "start": 3476.48,
+      "end": 3483.36,
+      "text": "nature Nastiya Kritakritayana. That is why it is saying antawat"
+    },
+    {
+      "i": 611,
+      "start": 3484.36,
+      "end": 3490.24,
+      "text": "and that apman alone is Ananta, infinite and imperishable."
+    },
+    {
+      "i": 612,
+      "start": 3492.44,
+      "end": 3499.04,
+      "text": "So knowing Karmachitan brahmana Niruvaita Mahaya dispassion"
+    },
+    {
+      "i": 613,
+      "start": 3499.04,
+      "end": 3503.76,
+      "text": "developed as a fire of Agni nasti Agritakrutena."
+    },
+    {
+      "i": 614,
+      "start": 3503.76,
+      "end": 3508.88,
+      "text": "All the actions can never attain this nyana of Atma."
+    },
+    {
+      "i": 615,
+      "start": 3509.44,
+      "end": 3515.16,
+      "text": "Therefore they develop the fire of dispassion which is the fire"
+    },
+    {
+      "i": 616,
+      "start": 3515.16,
+      "end": 3517.56,
+      "text": "which Kindles the fire of Atmat Nyana."
+    },
+    {
+      "i": 617,
+      "start": 3521.84,
+      "end": 3524.84,
+      "text": "The difference between the earlier verse and this verse"
+    },
+    {
+      "i": 618,
+      "start": 3526.0,
+      "end": 3530.08,
+      "text": "Samyam is between the Samyama Eknya and the Indriya Agni Eknya"
+    },
+    {
+      "i": 619,
+      "start": 3530.08,
+      "end": 3534.64,
+      "text": "of the previous one. Both are valid eknyas but not"
+    },
+    {
+      "i": 620,
+      "start": 3534.64,
+      "end": 3539.56,
+      "text": "explicitly qualified with at Nyana Dibita with the fire of"
+    },
+    {
+      "i": 621,
+      "start": 3539.56,
+      "end": 3545.0,
+      "text": "knowledge they can performed by practitioners at various levels"
+    },
+    {
+      "i": 622,
+      "start": 3545.08,
+      "end": 3550.96,
+      "text": "for development of Nyana. Whereas this verse specifies"
+    },
+    {
+      "i": 623,
+      "start": 3550.96,
+      "end": 3556.88,
+      "text": "that nyana and dibita is ecnya is explicitly grounded in Yana."
+    },
+    {
+      "i": 624,
+      "start": 3558.16,
+      "end": 3563.32,
+      "text": "It is the ecnya of the practitioner in whom Yana is"
+    },
+    {
+      "i": 625,
+      "start": 3563.32,
+      "end": 3568.84,
+      "text": "either fully established Yana vastha chetasa or sufficiently"
+    },
+    {
+      "i": 626,
+      "start": 3568.84,
+      "end": 3573.96,
+      "text": "developed that it genuinely Kindles the samyama discipline"
+    },
+    {
+      "i": 627,
+      "start": 3574.28,
+      "end": 3578.28,
+      "text": "into blazing fire. Therefore, the Nana Dipitha"
+    },
+    {
+      "i": 628,
+      "start": 3578.28,
+      "end": 3584.36,
+      "text": "qualifier makes ecnya the highest of the Indriya level"
+    },
+    {
+      "i": 629,
+      "start": 3584.4,
+      "end": 3590.68,
+      "text": "ecnyas, bridging between the psychophysicological ecnyas of"
+    },
+    {
+      "i": 630,
+      "start": 3590.68,
+      "end": 3596.84,
+      "text": "the 26th verse to the purely Pyaana based ecnya that"
+    },
+    {
+      "i": 631,
+      "start": 3596.92,
+      "end": 3599.92,
+      "text": "ultimately will crown at the 33rd verse."
+    },
+    {
+      "i": 632,
+      "start": 3602.44,
+      "end": 3608.64,
+      "text": "The Prakarana inclusion is very important significance from the"
+    },
+    {
+      "i": 633,
+      "start": 3608.64,
+      "end": 3613.92,
+      "text": "psychological point of view. The prana has been included as a"
+    },
+    {
+      "i": 634,
+      "start": 3613.92,
+      "end": 3617.16,
+      "text": "karma, Prana karma along with the indriya karma."
+    },
+    {
+      "i": 635,
+      "start": 3618.12,
+      "end": 3625.8,
+      "text": "That is the significance in the offering because the five pranas"
+    },
+    {
+      "i": 636,
+      "start": 3625.8,
+      "end": 3629.48,
+      "text": "represent the most fundamental level of biological individual"
+    },
+    {
+      "i": 637,
+      "start": 3629.48,
+      "end": 3634.4,
+      "text": "individuation. They are the vital forces that"
+    },
+    {
+      "i": 638,
+      "start": 3634.4,
+      "end": 3641.32,
+      "text": "constitute prana yama, pranamaya kosha, the level at which the"
+    },
+    {
+      "i": 639,
+      "start": 3641.32,
+      "end": 3645.56,
+      "text": "sense of individual jiva's existence is most predominantly"
+    },
+    {
+      "i": 640,
+      "start": 3646.92,
+      "end": 3652.0,
+      "text": "anchored. Because we say prana, the"
+    },
+    {
+      "i": 641,
+      "start": 3652.0,
+      "end": 3654.92,
+      "text": "sharira. As the prana is there, then the"
+    },
+    {
+      "i": 642,
+      "start": 3654.92,
+      "end": 3659.24,
+      "text": "jiva is there. When the prana emits using the"
+    },
+    {
+      "i": 643,
+      "start": 3659.24,
+      "end": 3665.04,
+      "text": "udana, the jiva is a dead body. Therefore, inclusion of prana"
+    },
+    {
+      "i": 644,
+      "start": 3665.16,
+      "end": 3671.08,
+      "text": "karma, prana kriyas in this eknya is vital."
+    },
+    {
+      "i": 645,
+      "start": 3672.08,
+      "end": 3676.6,
+      "text": "It is the most fundamental level which is that including"
+    },
+    {
+      "i": 646,
+      "start": 3676.6,
+      "end": 3680.92,
+      "text": "pranakarma in the comprehensive offering, the worst asserts,"
+    },
+    {
+      "i": 647,
+      "start": 3681.32,
+      "end": 3686.72,
+      "text": "even the most individualization of the prana's biological thing"
+    },
+    {
+      "i": 648,
+      "start": 3686.84,
+      "end": 3691.52,
+      "text": "like breathing, heartbeat, digestion, circulation, all are"
+    },
+    {
+      "i": 649,
+      "start": 3691.52,
+      "end": 3693.88,
+      "text": "offered into the atma samyama, yoga agni."
+    },
+    {
+      "i": 650,
+      "start": 3694.72,
+      "end": 3701.52,
+      "text": "Nothing is held back, so the entire Organism to its most"
+    },
+    {
+      "i": 651,
+      "start": 3701.52,
+      "end": 3706.84,
+      "text": "basic vital level is surrendered as the oblation."
+    },
+    {
+      "i": 652,
+      "start": 3706.84,
+      "end": 3711.24,
+      "text": "How is into the fire of Atman grounded in restraint."
+    },
+    {
+      "i": 653,
+      "start": 3712.92,
+      "end": 3717.36,
+      "text": "Sankaracharya connects this to the Prasanna Upanishad and the"
+    },
+    {
+      "i": 654,
+      "start": 3717.36,
+      "end": 3721.84,
+      "text": "Burkhadarani Upanishad discussions of Prana as Brahman."
+    },
+    {
+      "i": 655,
+      "start": 3722.76,
+      "end": 3727.32,
+      "text": "When prana karma is offered into nyana dibita Atma Samyamai, a"
+    },
+    {
+      "i": 656,
+      "start": 3727.32,
+      "end": 3732.2,
+      "text": "yoga agni, it is being offered into the recognition of the the"
+    },
+    {
+      "i": 657,
+      "start": 3732.2,
+      "end": 3736.84,
+      "text": "pranas themselves are Brahman's own vital expression."
+    },
+    {
+      "i": 658,
+      "start": 3738.04,
+      "end": 3744.84,
+      "text": "Prano Brahma. The offering of Prana Karma into"
+    },
+    {
+      "i": 659,
+      "start": 3745.12,
+      "end": 3749.04,
+      "text": "Nyana Dibita fire is thus the acknowledgement that the"
+    },
+    {
+      "i": 660,
+      "start": 3749.04,
+      "end": 3754.44,
+      "text": "biological life itself is Brahman, self-expression, the"
+    },
+    {
+      "i": 661,
+      "start": 3754.44,
+      "end": 3760.12,
+      "text": "most intimate possible etnya in which the life breath itself is"
+    },
+    {
+      "i": 662,
+      "start": 3760.12,
+      "end": 3763.48,
+      "text": "the ovulation offered into the self illuminous earthman fire."
+    },
+    {
+      "i": 663,
+      "start": 3765.52,
+      "end": 3771.32,
+      "text": "This anticipates Pranaya Pranamaya Etnya or the Prana"
+    },
+    {
+      "i": 664,
+      "start": 3771.32,
+      "end": 3773.8,
+      "text": "Yama Etnya. Here that will appear in the"
+    },
+    {
+      "i": 665,
+      "start": 3773.8,
+      "end": 3779.12,
+      "text": "29th verse where the pranas are explicitly offered into each"
+    },
+    {
+      "i": 666,
+      "start": 3779.12,
+      "end": 3786.4,
+      "text": "other in the Kumbhaga retention. But in 27 establishes this verse"
+    },
+    {
+      "i": 667,
+      "start": 3786.4,
+      "end": 3790.12,
+      "text": "establishes philosophical framework for the practice."
+    },
+    {
+      "i": 668,
+      "start": 3790.96,
+      "end": 3794.96,
+      "text": "This is not a breathing technique but a eknya of prana"
+    },
+    {
+      "i": 669,
+      "start": 3794.96,
+      "end": 3803.32,
+      "text": "into atman, valid only when that nyana is pepita or kindled."
+    },
+    {
+      "i": 670,
+      "start": 3808.48,
+      "end": 3815.44,
+      "text": "So when Nayana Kin tells Atma Samyama higher, the practitioner"
+    },
+    {
+      "i": 671,
+      "start": 3815.44,
+      "end": 3822.04,
+      "text": "recognizes it is not I who am restraining the senses and the"
+    },
+    {
+      "i": 672,
+      "start": 3822.04,
+      "end": 3826.72,
+      "text": "pranas. The Atman Akarta Avaya is not"
+    },
+    {
+      "i": 673,
+      "start": 3826.72,
+      "end": 3831.12,
+      "text": "the restrainer. What is occurring is the"
+    },
+    {
+      "i": 674,
+      "start": 3831.12,
+      "end": 3836.8,
+      "text": "recognition of Atma's natural transcendence of Indriyas, and"
+    },
+    {
+      "i": 675,
+      "start": 3836.8,
+      "end": 3843.32,
+      "text": "prana constitutes a fire in which all Indriya karma, prana"
+    },
+    {
+      "i": 676,
+      "start": 3843.32,
+      "end": 3850.56,
+      "text": "karma are consumed not by Atman doing something, but by the"
+    },
+    {
+      "i": 677,
+      "start": 3850.56,
+      "end": 3857.52,
+      "text": "Atman's mere presence as self luminous witness, dissolving the"
+    },
+    {
+      "i": 678,
+      "start": 3857.52,
+      "end": 3860.96,
+      "text": "apparent independence of Indriya and prana."
+    },
+    {
+      "i": 679,
+      "start": 3862.12,
+      "end": 3873.08,
+      "text": "So in this we observe prana, observe Indriya's activities,"
+    },
+    {
+      "i": 680,
+      "start": 3873.08,
+      "end": 3878.36,
+      "text": "prana activity and Indriya activity as a Sakshi and as a"
+    },
+    {
+      "i": 681,
+      "start": 3878.36,
+      "end": 3882.64,
+      "text": "Sakshi, when we when we acknowledge that these are"
+    },
+    {
+      "i": 682,
+      "start": 3883.36,
+      "end": 3889.08,
+      "text": "Brahman in the form of Indriyas and Vishyas prana in the form of"
+    },
+    {
+      "i": 683,
+      "start": 3889.08,
+      "end": 3894.04,
+      "text": "Brahman and Vish in the prana Kriyas, that is the prana"
+    },
+    {
+      "i": 684,
+      "start": 3894.2,
+      "end": 3900.24,
+      "text": "yetnaya. This is the paradox of samyama."
+    },
+    {
+      "i": 685,
+      "start": 3900.6,
+      "end": 3903.84,
+      "text": "Genuine restraint is not karta restraining senses."
+    },
+    {
+      "i": 686,
+      "start": 3904.64,
+      "end": 3908.96,
+      "text": "It is a recognition of that. Atman was never bound by senses"
+    },
+    {
+      "i": 687,
+      "start": 3910.44,
+      "end": 3914.52,
+      "text": "and that recognition that senses are apparent binding of the"
+    },
+    {
+      "i": 688,
+      "start": 3914.52,
+      "end": 3919.16,
+      "text": "Atman simply dissolves. It is not that prana is holding"
+    },
+    {
+      "i": 689,
+      "start": 3919.16,
+      "end": 3923.24,
+      "text": "me in this body. There is no more limitation of"
+    },
+    {
+      "i": 690,
+      "start": 3923.24,
+      "end": 3926.0,
+      "text": "the body and this prana limiting it."
+    },
+    {
+      "i": 691,
+      "start": 3926.6,
+      "end": 3932.12,
+      "text": "That nyana deepita or the fire does not burn the effort, it"
+    },
+    {
+      "i": 692,
+      "start": 3932.12,
+      "end": 3936.72,
+      "text": "burns by recognition by the Aparoksha anubhava."
+    },
+    {
+      "i": 693,
+      "start": 3936.72,
+      "end": 3942.6,
+      "text": "That atmani sakarta asanga and the burning is the dissolution"
+    },
+    {
+      "i": 694,
+      "start": 3942.64,
+      "end": 3949.2,
+      "text": "of karma, Sammar sammagra, the complete karma into the Brahman"
+    },
+    {
+      "i": 695,
+      "start": 3949.24,
+      "end": 3957.24,
+      "text": "that was never absent. There are only 2-3 lines."
+    },
+    {
+      "i": 696,
+      "start": 3957.28,
+      "end": 3962.8,
+      "text": "I'll read the bhashya and complete it this so that we can"
+    },
+    {
+      "i": 697,
+      "start": 3962.8,
+      "end": 3964.28,
+      "text": "move to the next verse on Monday."
+    },
+    {
+      "i": 698,
+      "start": 3965.36,
+      "end": 3970.08,
+      "text": "Sarvani indriya karmani indriya karmani indriya karmani."
+    },
+    {
+      "i": 699,
+      "start": 3970.36,
+      "end": 3973.52,
+      "text": "All activities of senses, that is functions belongs to the"
+    },
+    {
+      "i": 700,
+      "start": 3973.52,
+      "end": 3977.28,
+      "text": "senses. Tata prana karmani prana vayu at"
+    },
+    {
+      "i": 701,
+      "start": 3977.52,
+      "end": 3982.8,
+      "text": "yatmika tat karmani akunjana prasarana adini."
+    },
+    {
+      "i": 702,
+      "start": 3983.56,
+      "end": 3988.12,
+      "text": "Likewise the activities of vital forces prana the inward life,"
+    },
+    {
+      "i": 703,
+      "start": 3988.12,
+      "end": 3991.04,
+      "text": "breath such as contraction, expansion, etcetera."
+    },
+    {
+      "i": 704,
+      "start": 3991.8,
+      "end": 3998.04,
+      "text": "Tanija apare atma samyoga nau juhari These two offer into the"
+    },
+    {
+      "i": 705,
+      "start": 3998.04,
+      "end": 4004.52,
+      "text": "fire of yoga of self restraint. Atmani Samyama Atma samyama"
+    },
+    {
+      "i": 706,
+      "start": 4004.96,
+      "end": 4008.92,
+      "text": "restrained in the self is called self restraint."
+    },
+    {
+      "i": 707,
+      "start": 4009.92,
+      "end": 4014.16,
+      "text": "Sayeva yogadni that itself is the yogic fire."
+    },
+    {
+      "i": 708,
+      "start": 4014.96,
+      "end": 4019.88,
+      "text": "Tasmin atma samyama yogadnau into that fire of self restraint"
+    },
+    {
+      "i": 709,
+      "start": 4020.48,
+      "end": 4024.88,
+      "text": "juhodi prakshet panindi they offer the OR cast them into that"
+    },
+    {
+      "i": 710,
+      "start": 4025.8,
+      "end": 4031.92,
+      "text": "nyana deepite snehena Eva Pradeep EE vivekat vidniyanena"
+    },
+    {
+      "i": 711,
+      "start": 4033.0,
+      "end": 4038.6,
+      "text": "ujjwalam ujwalam jholam bavam APA deete."
+    },
+    {
+      "i": 712,
+      "start": 4040.56,
+      "end": 4046.68,
+      "text": "That fire is kindled by the knowledge made by bright by the"
+    },
+    {
+      "i": 713,
+      "start": 4046.68,
+      "end": 4050.48,
+      "text": "description discriminative insights such as the lamp is"
+    },
+    {
+      "i": 714,
+      "start": 4050.48,
+      "end": 4057.16,
+      "text": "brightened by an oil Snehena Eva yatas snehena deepa pratipati"
+    },
+    {
+      "i": 715,
+      "start": 4059.76,
+      "end": 4066.24,
+      "text": "viveka vitnya na na this nyana deepa the fire of knowledge."
+    },
+    {
+      "i": 716,
+      "start": 4066.6,
+      "end": 4073.28,
+      "text": "The fire of knowledge is general by the Viveka Vitnyana Sukhwati"
+    },
+    {
+      "i": 717,
+      "start": 4074.6,
+      "end": 4079.12,
+      "text": "pravila payanti ityerta They offer means they dissolve into"
+    },
+    {
+      "i": 718,
+      "start": 4079.12,
+      "end": 4082.88,
+      "text": "the fire in the the knowledge to Sangarajya."
+    },
+    {
+      "i": 719,
+      "start": 4082.88,
+      "end": 4086.36,
+      "text": "Here is Samesh sums it up. Some yogis perform deeper inner"
+    },
+    {
+      "i": 720,
+      "start": 4086.36,
+      "end": 4090.36,
+      "text": "sacrifice by offering all activities of senses and life"
+    },
+    {
+      "i": 721,
+      "start": 4090.36,
+      "end": 4095.76,
+      "text": "forces into the fire of self restraint as a yogic inward"
+    },
+    {
+      "i": 722,
+      "start": 4095.76,
+      "end": 4102.04,
+      "text": "absorption illumined by the discriminatory knowledge whereby"
+    },
+    {
+      "i": 723,
+      "start": 4102.04,
+      "end": 4108.12,
+      "text": "the entire sensory vital apparatus is dissolved from the"
+    },
+    {
+      "i": 724,
+      "start": 4108.12,
+      "end": 4113.0,
+      "text": "individuation or individuality into the inner stillness and"
+    },
+    {
+      "i": 725,
+      "start": 4113.0,
+      "end": 4118.84,
+      "text": "prepared for the self realization as the result."
+    },
+    {
+      "i": 726,
+      "start": 4120.04,
+      "end": 4124.279,
+      "text": "We will continue the 28th verse on Monday."
+    },
+    {
+      "i": 727,
+      "start": 4125.6,
+      "end": 4128.96,
+      "text": "O Poornamidam. Poornamidam."
+    },
+    {
+      "i": 728,
+      "start": 4147.08,
+      "end": 4157.6,
+      "text": "Thank you. Thank you very much, Binduji."
+    },
+    {
+      "i": 729,
+      "start": 4157.6,
+      "end": 4163.6,
+      "text": "That was a very deep deconstruction and manana that I"
+    },
+    {
+      "i": 730,
+      "start": 4163.6,
+      "end": 4168.72,
+      "text": "think I have to listen to a few times because I felt the whole"
+    },
+    {
+      "i": 731,
+      "start": 4169.08,
+      "end": 4175.92,
+      "text": "methodology of Manana and Adityasana is provided in that."
+    },
+    {
+      "i": 732,
+      "start": 4177.52,
+      "end": 4180.439,
+      "text": "That's my interpretation. Binduji, what is your?"
+    },
+    {
+      "i": 733,
+      "start": 4180.64,
+      "end": 4182.479,
+      "text": "Is that the correct interpretation?"
+    },
+    {
+      "i": 734,
+      "start": 4185.04,
+      "end": 4192.96,
+      "text": "It's the manana of what you have heard now in these verses will"
+    },
+    {
+      "i": 735,
+      "start": 4192.96,
+      "end": 4199.4,
+      "text": "definitely transform into a knowledge which will help you to"
+    },
+    {
+      "i": 736,
+      "start": 4199.48,
+      "end": 4204.08,
+      "text": "abide in the self knowledge and see the activities of the body"
+    },
+    {
+      "i": 737,
+      "start": 4205.16,
+      "end": 4208.96,
+      "text": "of the prana and the Indriyas, the sense organs and the you"
+    },
+    {
+      "i": 738,
+      "start": 4208.96,
+      "end": 4216.68,
+      "text": "know vital air etcetera as offerings into the knowledge of"
+    },
+    {
+      "i": 739,
+      "start": 4216.96,
+      "end": 4222.68,
+      "text": "Atma. They they are not separate from"
+    },
+    {
+      "i": 740,
+      "start": 4222.68,
+      "end": 4228.48,
+      "text": "Brahman. We will see them also as that is"
+    },
+    {
+      "i": 741,
+      "start": 4228.48,
+      "end": 4233.16,
+      "text": "where the Sarvatma Bhava will come that I am also."
+    },
+    {
+      "i": 742,
+      "start": 4233.64,
+      "end": 4238.08,
+      "text": "So till now we are holding on to the sense organs and its action"
+    },
+    {
+      "i": 743,
+      "start": 4238.08,
+      "end": 4241.92,
+      "text": "as my actions or I am the one who is seeing, hearing etcetera."
+    },
+    {
+      "i": 744,
+      "start": 4242.96,
+      "end": 4247.08,
+      "text": "Same way it is my breath I am. I will die if I don't breathe."
+    },
+    {
+      "i": 745,
+      "start": 4247.4,
+      "end": 4252.12,
+      "text": "All those feeling which we are having will naturally get"
+    },
+    {
+      "i": 746,
+      "start": 4252.12,
+      "end": 4257.12,
+      "text": "shifted when we become the witness Sakshi atma Sakshi and"
+    },
+    {
+      "i": 747,
+      "start": 4257.12,
+      "end": 4266.28,
+      "text": "observe these activities as offerings or the atma to use the"
+    },
+    {
+      "i": 748,
+      "start": 4266.28,
+      "end": 4268.24,
+      "text": "apparatus which is called the body."
+    },
+    {
+      "i": 749,
+      "start": 4269.08,
+      "end": 4275.2,
+      "text": "The apparatus is not us, the apparatuses of the Atma and we"
+    },
+    {
+      "i": 750,
+      "start": 4275.2,
+      "end": 4278.04,
+      "text": "are an atma. So the ienus which we are"
+    },
+    {
+      "i": 751,
+      "start": 4278.04,
+      "end": 4281.72,
+      "text": "holding or the ego which we are holding to the individuality,"
+    },
+    {
+      "i": 752,
+      "start": 4281.72,
+      "end": 4286.36,
+      "text": "thinking the sense organs and the breathing etcetera will be"
+    },
+    {
+      "i": 753,
+      "start": 4286.36,
+      "end": 4289.4,
+      "text": "the one which will be losing. That is why it is karmasamagram."
+    },
+    {
+      "i": 754,
+      "start": 4290.0,
+      "end": 4295.32,
+      "text": "The previllion day means we will we will move from a doer of"
+    },
+    {
+      "i": 755,
+      "start": 4295.32,
+      "end": 4299.6,
+      "text": "breathing, eating, sleeping etcetera to the witness atma."
+    },
+    {
+      "i": 756,
+      "start": 4300.04,
+      "end": 4305.4,
+      "text": "Therefore we can we can become Akarta if this Etna is done in"
+    },
+    {
+      "i": 757,
+      "start": 4305.4,
+      "end": 4307.88,
+      "text": "the proper Shravana Manana Nidhidyasana method."
+    },
+    {
+      "i": 758,
+      "start": 4310.68,
+      "end": 4316.08,
+      "text": "Yes, thank you Binderji, your a meticulous offering of this is"
+    },
+    {
+      "i": 759,
+      "start": 4316.08,
+      "end": 4318.92,
+      "text": "itself a beautiful Edna, so heartful."
+    },
+    {
+      "i": 760,
+      "start": 4318.92,
+      "end": 4321.68,
+      "text": "Thank you. I have opened the chat in hat"
+    },
+    {
+      "i": 761,
+      "start": 4321.68,
+      "end": 4326.0,
+      "text": "raising if there are any questions which I am sure will"
+    },
+    {
+      "i": 762,
+      "start": 4326.0,
+      "end": 4332.48,
+      "text": "arise as you practice. So if you want to come up now,"
+    },
+    {
+      "i": 763,
+      "start": 4332.48,
+      "end": 4337.64,
+      "text": "you can come up now or we can Venkatji is coming up."
+    },
+    {
+      "i": 764,
+      "start": 4341.8,
+      "end": 4345.04,
+      "text": "Namaste, Venkat. Yeah, Vinodji, I think this is"
+    },
+    {
+      "i": 765,
+      "start": 4345.04,
+      "end": 4350.84,
+      "text": "sort of since I'm going through the first time, it's sort of"
+    },
+    {
+      "i": 766,
+      "start": 4350.84,
+      "end": 4355.32,
+      "text": "reflected on the journey I had on the yoga was without the"
+    },
+    {
+      "i": 767,
+      "start": 4355.32,
+      "end": 4361.0,
+      "text": "Nana. That samyama is very extremely"
+    },
+    {
+      "i": 768,
+      "start": 4361.0,
+      "end": 4365.96,
+      "text": "relatable here in the now. In fact the in."
+    },
+    {
+      "i": 769,
+      "start": 4365.96,
+      "end": 4367.76,
+      "text": "Fact. I was thinking about you only"
+    },
+    {
+      "i": 770,
+      "start": 4367.76,
+      "end": 4371.16,
+      "text": "when I was preparing for this. Yeah, yeah, Bidarji."
+    },
+    {
+      "i": 771,
+      "start": 4371.16,
+      "end": 4375.48,
+      "text": "So I get it now completely. You and Gugu, these two people"
+    },
+    {
+      "i": 772,
+      "start": 4375.48,
+      "end": 4377.84,
+      "text": "are where in my mind, yeah. Yeah, Bidarji."
+    },
+    {
+      "i": 773,
+      "start": 4378.88,
+      "end": 4383.8,
+      "text": "So the the the shift is Bidarji. The there are yoga Upanishads"
+    },
+    {
+      "i": 774,
+      "start": 4385.0,
+      "end": 4389.28,
+      "text": "that provide the bridge. Apparently that knowledge is"
+    },
+    {
+      "i": 775,
+      "start": 4389.28,
+      "end": 4395.08,
+      "text": "lost because the most you can get it is get a book, you know,"
+    },
+    {
+      "i": 776,
+      "start": 4395.08,
+      "end": 4398.0,
+      "text": "Yogi books from maybe 18th century."
+    },
+    {
+      "i": 777,
+      "start": 4398.16,
+      "end": 4401.68,
+      "text": "That's the most where Raja yoga was prevalent and the yoga"
+    },
+    {
+      "i": 778,
+      "start": 4401.68,
+      "end": 4406.64,
+      "text": "punish ships were prevalent. Without that, I think that was a"
+    },
+    {
+      "i": 779,
+      "start": 4406.64,
+      "end": 4408.92,
+      "text": "struggle. You know, then I had to go"
+    },
+    {
+      "i": 780,
+      "start": 4408.92,
+      "end": 4411.6,
+      "text": "around. There is a Kadapa Swamy ashram"
+    },
+    {
+      "i": 781,
+      "start": 4412.56,
+      "end": 4415.0,
+      "text": "in Bangalore. He documented these yoga"
+    },
+    {
+      "i": 782,
+      "start": 4415.0,
+      "end": 4419.28,
+      "text": "panishats along with yoga I I didn't find books that, you"
+    },
+    {
+      "i": 783,
+      "start": 4419.28,
+      "end": 4424.24,
+      "text": "know, along with the yoga practices having none of yoga"
+    },
+    {
+      "i": 784,
+      "start": 4424.24,
+      "end": 4427.16,
+      "text": "is, you know, very rarely documented."
+    },
+    {
+      "i": 785,
+      "start": 4428.16,
+      "end": 4433.68,
+      "text": "So this is a struggle and. He I I would recommend you to go"
+    },
+    {
+      "i": 786,
+      "start": 4433.68,
+      "end": 4438.64,
+      "text": "to the Ramakrishna Mission and Swami Vivekananda has written 2"
+    },
+    {
+      "i": 787,
+      "start": 4438.64,
+      "end": 4447.28,
+      "text": "volume on Raja Yoga and it has got a lot of thing which was"
+    },
+    {
+      "i": 788,
+      "start": 4447.72,
+      "end": 4452.88,
+      "text": "covered now. Plus he he was a great yoga"
+    },
+    {
+      "i": 789,
+      "start": 4452.88,
+      "end": 4457.12,
+      "text": "practitioner himself. In fact his final stages also"
+    },
+    {
+      "i": 790,
+      "start": 4457.12,
+      "end": 4460.84,
+      "text": "was a yogic samadhi. So if you read those two books,"
+    },
+    {
+      "i": 791,
+      "start": 4460.84,
+      "end": 4465.04,
+      "text": "it's very thick volume of two volume Raja Yoga book."
+    },
+    {
+      "i": 792,
+      "start": 4466.48,
+      "end": 4471.12,
+      "text": "It is worth reading that so you will get a thoughtful picture of"
+    },
+    {
+      "i": 793,
+      "start": 4471.8,
+      "end": 4477.08,
+      "text": "how the Yoga and that Nyana together becomes the Raja Yoga."
+    },
+    {
+      "i": 794,
+      "start": 4479.8,
+      "end": 4482.08,
+      "text": "Yes, Bantuji, I think this is very, very relatable."
+    },
+    {
+      "i": 795,
+      "start": 4482.4,
+      "end": 4484.56,
+      "text": "Even the Prana vinyas was speaking about right?"
+    },
+    {
+      "i": 796,
+      "start": 4486.08,
+      "end": 4489.64,
+      "text": "We push even on a in breath and out breath."
+    },
+    {
+      "i": 797,
+      "start": 4489.64,
+      "end": 4497.32,
+      "text": "We push the you know, that Panchakshi mantra even at those"
+    },
+    {
+      "i": 798,
+      "start": 4497.32,
+      "end": 4500.0,
+      "text": "ends, you know, we don't let anything else come in the way"
+    },
+    {
+      "i": 799,
+      "start": 4500.0,
+      "end": 4503.24,
+      "text": "because this is a complete restraint and pushing that"
+    },
+    {
+      "i": 800,
+      "start": 4503.24,
+      "end": 4508.92,
+      "text": "mantram even at that level in and out, that kind of restraint"
+    },
+    {
+      "i": 801,
+      "start": 4508.92,
+      "end": 4510.32,
+      "text": "is applied. Now."
+    },
+    {
+      "i": 802,
+      "start": 4510.32,
+      "end": 4512.4,
+      "text": "It's a very apparent with the verses."
+    },
+    {
+      "i": 803,
+      "start": 4514.2,
+      "end": 4515.6,
+      "text": "Nice one. I think you know this sort of"
+    },
+    {
+      "i": 804,
+      "start": 4515.6,
+      "end": 4520.88,
+      "text": "bringing all those reflection back and look like this this"
+    },
+    {
+      "i": 805,
+      "start": 4520.88,
+      "end": 4525.24,
+      "text": "need a yoga at least minimum exposure to understand this"
+    },
+    {
+      "i": 806,
+      "start": 4525.24,
+      "end": 4529.76,
+      "text": "verses. If you if you have you studied"
+    },
+    {
+      "i": 807,
+      "start": 4529.76,
+      "end": 4534.24,
+      "text": "that Vyasa commentary on Patanjali Yoga Sutra."
+    },
+    {
+      "i": 808,
+      "start": 4534.56,
+      "end": 4538.28,
+      "text": "Yes, I studied those Banerjee. Those are studies."
+    },
+    {
+      "i": 809,
+      "start": 4538.28,
+      "end": 4540.92,
+      "text": "OK then. Because of the issue is that"
+    },
+    {
+      "i": 810,
+      "start": 4541.16,
+      "end": 4544.12,
+      "text": "without practicing yoga when you know, even that I studied"
+    },
+    {
+      "i": 811,
+      "start": 4544.12,
+      "end": 4549.24,
+      "text": "initially with no understanding, after doing yoga when I studied"
+    },
+    {
+      "i": 812,
+      "start": 4549.24,
+      "end": 4551.64,
+      "text": "it was completely, you know, different."
+    },
+    {
+      "i": 813,
+      "start": 4551.64,
+      "end": 4554.56,
+      "text": "Up. So that's why the practicing"
+    },
+    {
+      "i": 814,
+      "start": 4554.56,
+      "end": 4559.36,
+      "text": "yoga is extremely important to get to these verses that"
+    },
+    {
+      "i": 815,
+      "start": 4559.36,
+      "end": 4563.24,
+      "text": "completes the, you know, the the, the dimension of yoga and"
+    },
+    {
+      "i": 816,
+      "start": 4563.24,
+      "end": 4566.76,
+      "text": "Nana coming together in, you know, each verses or inverting,"
+    },
+    {
+      "i": 817,
+      "start": 4567.32,
+      "end": 4571.2,
+      "text": "you know, each, I think first part of the verse and the second"
+    },
+    {
+      "i": 818,
+      "start": 4571.2,
+      "end": 4574.92,
+      "text": "part of the verse, they invert each other, I think very nicely"
+    },
+    {
+      "i": 819,
+      "start": 4574.92,
+      "end": 4577.88,
+      "text": "inverting here, which is very, you know, profound."
+    },
+    {
+      "i": 820,
+      "start": 4579.4,
+      "end": 4582.56,
+      "text": "You will find more in the 6th chapter when we complete the go"
+    },
+    {
+      "i": 821,
+      "start": 4582.56,
+      "end": 4586.52,
+      "text": "to the 6th chapter. Also there is lot of practices"
+    },
+    {
+      "i": 822,
+      "start": 4586.84,
+      "end": 4588.88,
+      "text": "Krishna is advicing and vacating."
+    },
+    {
+      "i": 823,
+      "start": 4589.44,
+      "end": 4591.24,
+      "text": "Sure, Manoj. We will look forward to this."
+    },
+    {
+      "i": 824,
+      "start": 4591.6,
+      "end": 4595.12,
+      "text": "Thank you, Manoj. Thank you, Venkat."
+    },
+    {
+      "i": 825,
+      "start": 4602.39,
+      "end": 4604.83,
+      "text": "OK, Prakash, I think nobody else is coming up."
+    },
+    {
+      "i": 826,
+      "start": 4604.91,
+      "end": 4609.23,
+      "text": "We can tomorrow is anyway off day Sunday we will have the QN"
+    },
+    {
+      "i": 827,
+      "start": 4609.23,
+      "end": 4612.23,
+      "text": "day. Yes, Thank you, Pranav."
+    },
+    {
+      "i": 828,
+      "start": 4613.19,
+      "end": 4617.0,
+      "text": "Yes, yes, Binduji, thanks everyone for coming."
+    },
+    {
+      "i": 829,
+      "start": 4617.12,
+      "end": 4623.04,
+      "text": "As always, you can listen to the replay and which is very, very"
+    },
+    {
+      "i": 830,
+      "start": 4623.04,
+      "end": 4628.28,
+      "text": "important to get the deeper meanings and interpretations"
+    },
+    {
+      "i": 831,
+      "start": 4628.4,
+      "end": 4634.16,
+      "text": "with Binduji's offering with such a meticulous, you know,"
+    },
+    {
+      "i": 832,
+      "start": 4636.16,
+      "end": 4638.6,
+      "text": "almost a practicum, so heartfelt."
+    },
+    {
+      "i": 833,
+      "start": 4638.6,
+      "end": 4644.04,
+      "text": "Thank you, Binduji for that. And you can also access these on"
+    },
+    {
+      "i": 834,
+      "start": 4644.04,
+      "end": 4648.04,
+      "text": "YouTube and the two links shared in the chat for Apple and"
+    },
+    {
+      "i": 835,
+      "start": 4648.04,
+      "end": 4652.36,
+      "text": "Spotify. And as Bindoji reminded us,"
+    },
+    {
+      "i": 836,
+      "start": 4652.36,
+      "end": 4656.72,
+      "text": "tomorrow is an off day. We'll meet again Sunday at 8:30"
+    },
+    {
+      "i": 837,
+      "start": 4656.72,
+      "end": 4661.72,
+      "text": "PM IST where we can come up with questions and discussion points"
+    },
+    {
+      "i": 838,
+      "start": 4661.72,
+      "end": 4664.52,
+      "text": "and clarifications for open discussion on Advaita."
+    },
+    {
+      "i": 839,
+      "start": 4665.76,
+      "end": 4669.0,
+      "text": "Our Bhagavad Gita class will continue on Monday at 8:30 PM"
+    },
+    {
+      "i": 840,
+      "start": 4669.0,
+      "end": 4673.96,
+      "text": "IST. As always, thank you Bindarji,"
+    },
+    {
+      "i": 841,
+      "start": 4673.96,
+      "end": 4677.72,
+      "text": "over to you to close the room. Thank you, Prakash, thank you"
+    },
+    {
+      "i": 842,
+      "start": 4677.72,
+      "end": 4682.12,
+      "text": "Venkat and thank you all of you for having listened and that and"
+    },
+    {
+      "i": 843,
+      "start": 4682.12,
+      "end": 4688.28,
+      "text": "that it's worth going through the replay once more because we"
+    },
+    {
+      "i": 844,
+      "start": 4688.28,
+      "end": 4690.6,
+      "text": "need to practice what we are hearing and learning."
+    },
+    {
+      "i": 845,
+      "start": 4690.96,
+      "end": 4695.36,
+      "text": "It is not just for hearing. The whole subject of the"
+    },
+    {
+      "i": 846,
+      "start": 4695.36,
+      "end": 4704.28,
+      "text": "teaching is our atma which we need to abide in listening and"
+    },
+    {
+      "i": 847,
+      "start": 4704.28,
+      "end": 4710.72,
+      "text": "then when we listen and stay as what we were is no beneficial"
+    },
+    {
+      "i": 848,
+      "start": 4710.72,
+      "end": 4715.52,
+      "text": "for listening. The benefits will be there when"
+    },
+    {
+      "i": 849,
+      "start": 4715.52,
+      "end": 4721.0,
+      "text": "we imbibe the teaching by practicing it and for practicing"
+    },
+    {
+      "i": 850,
+      "start": 4721.0,
+      "end": 4725.0,
+      "text": "it, when you listen it second time or third time, you will get"
+    },
+    {
+      "i": 851,
+      "start": 4725.0,
+      "end": 4731.12,
+      "text": "an idea as to how to do it. Please practice it so that let"
+    },
+    {
+      "i": 852,
+      "start": 4731.12,
+      "end": 4738.76,
+      "text": "the fire of knowledge start illumining in your being."
+    },
+    {
+      "i": 853,
+      "start": 4739.72,
+      "end": 4742.44,
+      "text": "See you all on Sunday for the open house."
+    },
+    {
+      "i": 854,
+      "start": 4742.8,
+      "end": 4746.64,
+      "text": "Goodnight. Hurry you hurry you goodnight."
+    }
+  ]
+}

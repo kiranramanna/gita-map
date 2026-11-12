@@ -1,0 +1,5059 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "647da4c6-dfa6-456b-af4a-dcda8aa82095",
+  "source_sha256": "43edac682888872bf6049dd2233ecf32b73f7d8a821ede677d6fa55384d74a75",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.36,
+      "end": 3.8,
+      "text": "Namaste everyone. Welcome to Advaita Vedata"
+    },
+    {
+      "i": 2,
+      "start": 3.8,
+      "end": 7.28,
+      "text": "Satsang house. Coming sessions are on Bhagavad"
+    },
+    {
+      "i": 3,
+      "start": 7.28,
+      "end": 10.2,
+      "text": "Gita from an Advaita perspective offered by Binduji."
+    },
+    {
+      "i": 4,
+      "start": 10.88,
+      "end": 13.96,
+      "text": "We are on Chapter 5 room 12. The earlier rooms that are"
+    },
+    {
+      "i": 5,
+      "start": 13.96,
+      "end": 16.12,
+      "text": "available as replays in Clubhouse."
+    },
+    {
+      "i": 6,
+      "start": 17.0,
+      "end": 20.2,
+      "text": "You can also access them on Advaita Retold YouTube channel,"
+    },
+    {
+      "i": 7,
+      "start": 20.2,
+      "end": 23.32,
+      "text": "the link you shared in the chat. The two other links are"
+    },
+    {
+      "i": 8,
+      "start": 23.32,
+      "end": 27.08,
+      "text": "repositories in Spotify and Apple Podcast where you can also"
+    },
+    {
+      "i": 9,
+      "start": 27.08,
+      "end": 30.6,
+      "text": "access them. There is also a book which is an"
+    },
+    {
+      "i": 10,
+      "start": 30.6,
+      "end": 34.44,
+      "text": "excellent companion reading material penned by Artemisia,"
+    },
+    {
+      "i": 11,
+      "start": 34.44,
+      "end": 37.96,
+      "text": "which is all based on Bindoji's insights into Earthwaita, which"
+    },
+    {
+      "i": 12,
+      "start": 37.96,
+      "end": 42.64,
+      "text": "is available on Amazon and it's an excellent copy to have."
+    },
+    {
+      "i": 13,
+      "start": 44.2,
+      "end": 46.36,
+      "text": "I'll close the chat in Hen tracing when Bindoji is"
+    },
+    {
+      "i": 14,
+      "start": 46.36,
+      "end": 49.56,
+      "text": "conducting the class, after which we'll open up those"
+    },
+    {
+      "i": 15,
+      "start": 49.56,
+      "end": 51.48,
+      "text": "channels for questions and answers."
+    },
+    {
+      "i": 16,
+      "start": 52.48,
+      "end": 54.68,
+      "text": "Thank you very much, Bindoji, over to you."
+    },
+    {
+      "i": 17,
+      "start": 56.84,
+      "end": 59.6,
+      "text": "Thank you, Prakash. Namaste and hariyam tua."
+    },
+    {
+      "i": 18,
+      "start": 60.4,
+      "end": 76.4,
+      "text": "Let me do my invocations. Who namah brahma deep yo brahma"
+    },
+    {
+      "i": 19,
+      "start": 76.6,
+      "end": 79.92,
+      "text": "vidya namahi bhagavat padam shankaram."
+    },
+    {
+      "i": 20,
+      "start": 79.92,
+      "end": 84.04,
+      "text": "Loba shankaram. Shankaram, Shankaram."
+    },
+    {
+      "i": 21,
+      "start": 110.72,
+      "end": 143.72,
+      "text": "I. Vidya"
+    },
+    {
+      "i": 22,
+      "start": 154.15,
+      "end": 160.71,
+      "text": "vinaya sambande brahmani gavi hastini sunichaiva chopa ke jab"
+    },
+    {
+      "i": 23,
+      "start": 160.71,
+      "end": 171.79,
+      "text": "panda jab samadarshina. Now this verse is a very famous"
+    },
+    {
+      "i": 24,
+      "start": 171.79,
+      "end": 177.6,
+      "text": "verse often quoted from Bhagavad Gita by many people for"
+    },
+    {
+      "i": 25,
+      "start": 177.6,
+      "end": 187.52,
+      "text": "different purposes. The critics always have"
+    },
+    {
+      "i": 26,
+      "start": 189.24,
+      "end": 196.92,
+      "text": "condemned such a statement without knowing what Krishna was"
+    },
+    {
+      "i": 27,
+      "start": 198.68,
+      "end": 208.56,
+      "text": "intenting or hinting at. Being a most celebrated verse in"
+    },
+    {
+      "i": 28,
+      "start": 208.56,
+      "end": 214.56,
+      "text": "the gender Gita, the Samadharshana, the equality in"
+    },
+    {
+      "i": 29,
+      "start": 214.56,
+      "end": 223.96,
+      "text": "vision or the equal vision as a defining mark of Pandita which"
+    },
+    {
+      "i": 30,
+      "start": 224.12,
+      "end": 228.28,
+      "text": "follows naturally from the verse 17."
+    },
+    {
+      "i": 31,
+      "start": 230.0,
+      "end": 233.64,
+      "text": "Having described those who established in Brahma that"
+    },
+    {
+      "i": 32,
+      "start": 233.64,
+      "end": 242.2,
+      "text": "Nishtat Parayanatha Datmana With that in mind is why Krishna is"
+    },
+    {
+      "i": 33,
+      "start": 242.2,
+      "end": 249.4,
+      "text": "now giving this observable signature of that establishment"
+    },
+    {
+      "i": 34,
+      "start": 249.4,
+      "end": 254.72,
+      "text": "of the Nyani or Jeevan Mukta which are Pandita who has been"
+    },
+    {
+      "i": 35,
+      "start": 255.8,
+      "end": 260.8,
+      "text": "described in the 17th verse. So the Pantidas."
+    },
+    {
+      "i": 36,
+      "start": 260.8,
+      "end": 269.68,
+      "text": "Equal being, equal seeing of Brahman is the most disparate"
+    },
+    {
+      "i": 37,
+      "start": 269.8,
+      "end": 272.88,
+      "text": "beings. In the most disparate beings,"
+    },
+    {
+      "i": 38,
+      "start": 274.28,
+      "end": 282.0,
+      "text": "the range is very high. The span the maximum possible"
+    },
+    {
+      "i": 39,
+      "start": 282.0,
+      "end": 288.64,
+      "text": "range of social and biological differences from the highest"
+    },
+    {
+      "i": 40,
+      "start": 288.68,
+      "end": 294.28,
+      "text": "varna of a brahmana to the lowest of the swapaka or one who"
+    },
+    {
+      "i": 41,
+      "start": 294.28,
+      "end": 302.16,
+      "text": "eats a dog, from the largest animal of elephant to a common"
+    },
+    {
+      "i": 42,
+      "start": 302.16,
+      "end": 310.04,
+      "text": "dog, making the universality of the Samadhar sithum or the equal"
+    },
+    {
+      "i": 43,
+      "start": 310.04,
+      "end": 321.04,
+      "text": "vision a possibility. Now let us look at the verse"
+    },
+    {
+      "i": 44,
+      "start": 321.76,
+      "end": 326.36,
+      "text": "itself and decipher what we can understand in it."
+    },
+    {
+      "i": 45,
+      "start": 327.64,
+      "end": 334.68,
+      "text": "Vidya vinaya sambani brahmani gavi hastini suni JA Eva shopa"
+    },
+    {
+      "i": 46,
+      "start": 334.68,
+      "end": 340.64,
+      "text": "ke cha. That is the first line in the"
+    },
+    {
+      "i": 47,
+      "start": 340.64,
+      "end": 344.32,
+      "text": "brahmana endowed with learning and humility."
+    },
+    {
+      "i": 48,
+      "start": 348.36,
+      "end": 352.88,
+      "text": "Gavi means a cow. Hastini means an elephant,"
+    },
+    {
+      "i": 49,
+      "start": 353.88,
+      "end": 363.04,
+      "text": "Sunni. Sunni means a female dog, Cha"
+    },
+    {
+      "i": 50,
+      "start": 363.24,
+      "end": 370.08,
+      "text": "Swapakecha. Also in the one who eats the"
+    },
+    {
+      "i": 51,
+      "start": 370.08,
+      "end": 375.76,
+      "text": "swapaka means one who cooks dog meat and eats it."
+    },
+    {
+      "i": 52,
+      "start": 379.28,
+      "end": 384.44,
+      "text": "So the variation you can see from Bramana to Shopaka and then"
+    },
+    {
+      "i": 53,
+      "start": 384.44,
+      "end": 392.0,
+      "text": "from Hastini Gavi, Hastini to Sunni, the maximum range of"
+    },
+    {
+      "i": 54,
+      "start": 392.0,
+      "end": 406.08,
+      "text": "spectrum of beings. And there Krishna is saying that"
+    },
+    {
+      "i": 55,
+      "start": 407.6,
+      "end": 413.88,
+      "text": "the Pandita are the one who has been described in the 17th"
+    },
+    {
+      "i": 56,
+      "start": 413.88,
+      "end": 423.16,
+      "text": "verse, some other Sinha pavanti they see the Brahman."
+    },
+    {
+      "i": 57,
+      "start": 423.84,
+      "end": 427.6,
+      "text": "What they say they have identified in the 17th verse,"
+    },
+    {
+      "i": 58,
+      "start": 430.56,
+      "end": 439.88,
+      "text": "not different from other things. This is the Samadharshitam which"
+    },
+    {
+      "i": 59,
+      "start": 439.88,
+      "end": 451.68,
+      "text": "is attained upon realizing what our true nature is, not on a"
+    },
+    {
+      "i": 60,
+      "start": 451.68,
+      "end": 457.32,
+      "text": "transactional basis or not on a mental or indriya level"
+    },
+    {
+      "i": 61,
+      "start": 458.52,
+      "end": 466.04,
+      "text": "transactions. The difficulty here to"
+    },
+    {
+      "i": 62,
+      "start": 466.04,
+      "end": 470.88,
+      "text": "understand is that how will you see a cow, an elephant and a dog"
+    },
+    {
+      "i": 63,
+      "start": 470.88,
+      "end": 475.0,
+      "text": "in the same manner? Because each one has got"
+    },
+    {
+      "i": 64,
+      "start": 475.0,
+      "end": 480.72,
+      "text": "different size of body, different purposes in the in the"
+    },
+    {
+      "i": 65,
+      "start": 481.6,
+      "end": 489.04,
+      "text": "live in the living. And if you look at the Brahmana"
+    },
+    {
+      "i": 66,
+      "start": 489.12,
+      "end": 495.0,
+      "text": "and the swapaka or the chandala, the other word for swapaka is"
+    },
+    {
+      "i": 67,
+      "start": 495.0,
+      "end": 503.44,
+      "text": "chandala is that even in the Dharma shastras like the Gautama"
+    },
+    {
+      "i": 68,
+      "start": 503.44,
+      "end": 510.12,
+      "text": "Shastra, Gautamas, Prithi etc. To treat each one of them"
+    },
+    {
+      "i": 69,
+      "start": 510.12,
+      "end": 513.72,
+      "text": "differently has been very clearly mentioned."
+    },
+    {
+      "i": 70,
+      "start": 517.919,
+      "end": 521.72,
+      "text": "Is this is Krishna telling to throw away all these Dharma"
+    },
+    {
+      "i": 71,
+      "start": 521.72,
+      "end": 527.56,
+      "text": "grandas or the Smriti grandas like Manu Smriti, Yatni al"
+    },
+    {
+      "i": 72,
+      "start": 527.56,
+      "end": 529.88,
+      "text": "Kesmati or Gautama Smriti etcetera?"
+    },
+    {
+      "i": 73,
+      "start": 531.12,
+      "end": 536.24,
+      "text": "When he is saying that Pandita Samadhar shinaha when you"
+    },
+    {
+      "i": 74,
+      "start": 536.24,
+      "end": 541.16,
+      "text": "achieve the Pandit which is the Tattva Samadh Tattva Samadhar"
+    },
+    {
+      "i": 75,
+      "start": 541.16,
+      "end": 547.72,
+      "text": "Sethu which has been mentioned in the earlier verse, is it that"
+    },
+    {
+      "i": 76,
+      "start": 547.72,
+      "end": 555.04,
+      "text": "what he is indicating to this is what used by the critiques to"
+    },
+    {
+      "i": 77,
+      "start": 555.72,
+      "end": 561.16,
+      "text": "you know, bring the negative connotation to Bhagavad Gita and"
+    },
+    {
+      "i": 78,
+      "start": 561.16,
+      "end": 574.92,
+      "text": "its instructions. Vidya Vinayasambane brahmani."
+    },
+    {
+      "i": 79,
+      "start": 575.56,
+      "end": 579.44,
+      "text": "See the brahmana is not just. He has not mentioned brahmana as"
+    },
+    {
+      "i": 80,
+      "start": 579.44,
+      "end": 584.48,
+      "text": "brahmana. He has added an adjective which"
+    },
+    {
+      "i": 81,
+      "start": 584.48,
+      "end": 590.08,
+      "text": "is a compound word Vidya Vinay sampani, which itself is a"
+    },
+    {
+      "i": 82,
+      "start": 590.08,
+      "end": 598.08,
+      "text": "compound of three words, Vidya, vinaya and sampanna 1 endowed"
+    },
+    {
+      "i": 83,
+      "start": 598.08,
+      "end": 609.36,
+      "text": "with vidya and vinaya. Now vidya and vinaya on a human"
+    },
+    {
+      "i": 84,
+      "start": 609.36,
+      "end": 622.08,
+      "text": "being is coming out of learning, a humility arising out of"
+    },
+    {
+      "i": 85,
+      "start": 622.76,
+      "end": 632.28,
+      "text": "learning or knowing the truth. Both together, that is, vidya"
+    },
+    {
+      "i": 86,
+      "start": 632.28,
+      "end": 638.8,
+      "text": "and venya together constitute the ideal person."
+    },
+    {
+      "i": 87,
+      "start": 640.68,
+      "end": 647.64,
+      "text": "Who can be called a brahmana in the Dharma Sastra and Vedic"
+    },
+    {
+      "i": 88,
+      "start": 647.64,
+      "end": 652.28,
+      "text": "tradition? Very clearly, the qualification"
+    },
+    {
+      "i": 89,
+      "start": 652.28,
+      "end": 654.44,
+      "text": "for a brahmana is Vidya and Vinaya."
+    },
+    {
+      "i": 90,
+      "start": 659.84,
+      "end": 667.92,
+      "text": "Shruti Sastratnyana is Vidya and Vinaya is the humility or a"
+    },
+    {
+      "i": 91,
+      "start": 667.92,
+      "end": 676.6,
+      "text": "discipline and a conduct developed based on the knowledge"
+    },
+    {
+      "i": 92,
+      "start": 678.76,
+      "end": 692.6,
+      "text": "of the Shruti Sastra which prevents from becoming ignorant"
+    },
+    {
+      "i": 93,
+      "start": 692.68,
+      "end": 700.24,
+      "text": "and transacting with avidya. So the most accomplished or most"
+    },
+    {
+      "i": 94,
+      "start": 700.24,
+      "end": 706.2,
+      "text": "admirable human type, Uttama Brahmana or Uttama Purusha is a"
+    },
+    {
+      "i": 95,
+      "start": 706.2,
+      "end": 712.24,
+      "text": "person who has become humble due to his learning of the truth."
+    },
+    {
+      "i": 96,
+      "start": 715.92,
+      "end": 719.16,
+      "text": "Why did Krishna use this specific qualification for a"
+    },
+    {
+      "i": 97,
+      "start": 719.16,
+      "end": 726.8,
+      "text": "Brahmana? Chankaracharya's observation in"
+    },
+    {
+      "i": 98,
+      "start": 726.8,
+      "end": 730.12,
+      "text": "the bhashya is that by specifying Vidya Vinaya's"
+    },
+    {
+      "i": 99,
+      "start": 730.12,
+      "end": 736.24,
+      "text": "ampanna, Krishna is signaling that a pantitha's vision, or the"
+    },
+    {
+      "i": 100,
+      "start": 736.24,
+      "end": 742.36,
+      "text": "equal vision of a pantith or a jeevan mukta extends even to the"
+    },
+    {
+      "i": 101,
+      "start": 742.36,
+      "end": 751.2,
+      "text": "most admirable not only to the low, where the compassion might"
+    },
+    {
+      "i": 102,
+      "start": 751.4,
+      "end": 757.12,
+      "text": "motivate equality, but the most distinguished and accomplished."
+    },
+    {
+      "i": 103,
+      "start": 759.4,
+      "end": 766.64,
+      "text": "The Pandita does not see even the the mere learned Brahmana"
+    },
+    {
+      "i": 104,
+      "start": 767.56,
+      "end": 775.48,
+      "text": "has more Brahman than an outcast, A chandala or a dog or"
+    },
+    {
+      "i": 105,
+      "start": 776.04,
+      "end": 785.92,
+      "text": "a elephant or cow. The normally cow is revered and"
+    },
+    {
+      "i": 106,
+      "start": 785.92,
+      "end": 792.4,
+      "text": "given a higher pedestal compared to a dog and whatever has been"
+    },
+    {
+      "i": 107,
+      "start": 792.4,
+      "end": 797.12,
+      "text": "touched by dog need to go through purification as per the"
+    },
+    {
+      "i": 108,
+      "start": 797.12,
+      "end": 804.52,
+      "text": "Dharmagrandas. So there is a radical equality"
+    },
+    {
+      "i": 109,
+      "start": 806.92,
+      "end": 811.8,
+      "text": "of some other sithum which is being indicated by the word"
+    },
+    {
+      "i": 110,
+      "start": 811.8,
+      "end": 820.24,
+      "text": "Vidya Vinay Sampani. It is not just the learning or"
+    },
+    {
+      "i": 111,
+      "start": 820.24,
+      "end": 827.2,
+      "text": "his conduct or his varna by birth, but the identification of"
+    },
+    {
+      "i": 112,
+      "start": 827.2,
+      "end": 836.04,
+      "text": "his own being as Atman. None other than Brahman to the"
+    },
+    {
+      "i": 113,
+      "start": 836.04,
+      "end": 845.04,
+      "text": "Sarvatma Bhava, sarvam, atma Itibawa is what it is."
+    },
+    {
+      "i": 114,
+      "start": 846.12,
+      "end": 854.8,
+      "text": "The qualification given to a Brahmana gavi is to make in cow."
+    },
+    {
+      "i": 115,
+      "start": 856.88,
+      "end": 863.2,
+      "text": "All of them are locative words. Brahmane, gevi, Hastini, suni,"
+    },
+    {
+      "i": 116,
+      "start": 864.08,
+      "end": 871.68,
+      "text": "swapake, All of them are the 7th case or 7th bibakti indicating"
+    },
+    {
+      "i": 117,
+      "start": 871.8,
+      "end": 876.36,
+      "text": "in them. So the gavi means the cow."
+    },
+    {
+      "i": 118,
+      "start": 876.56,
+      "end": 880.68,
+      "text": "The Gomata has rabbied and protected and associated with"
+    },
+    {
+      "i": 119,
+      "start": 880.68,
+      "end": 886.96,
+      "text": "Dharma and considered as kamadev for prosperity."
+    },
+    {
+      "i": 120,
+      "start": 887.0,
+      "end": 896.96,
+      "text": "And you know Welt also those days the number of cows you have"
+    },
+    {
+      "i": 121,
+      "start": 897.48,
+      "end": 903.32,
+      "text": "shows how rich you are. So by placing the cow"
+    },
+    {
+      "i": 122,
+      "start": 903.92,
+      "end": 909.2,
+      "text": "immediately after Brahmana, the worst signal that the Pantitha"
+    },
+    {
+      "i": 123,
+      "start": 909.2,
+      "end": 915.0,
+      "text": "sees the Brahman in the most sacred animal as the most"
+    },
+    {
+      "i": 124,
+      "start": 915.0,
+      "end": 918.68,
+      "text": "accomplished human, similar next to Brahmana he is saying"
+    },
+    {
+      "i": 125,
+      "start": 918.68,
+      "end": 924.76,
+      "text": "Brahmani gevi. Then he brings Krishna brings"
+    },
+    {
+      "i": 126,
+      "start": 925.28,
+      "end": 936.4,
+      "text": "Hastini and Sunni Hastini is the elephant in you know one who has"
+    },
+    {
+      "i": 127,
+      "start": 936.4,
+      "end": 940.44,
+      "text": "a trunk hastam that is from there the Hastin."
+    },
+    {
+      "i": 128,
+      "start": 941.44,
+      "end": 946.32,
+      "text": "Hastin is the word from Hastini becomes the locative thing."
+    },
+    {
+      "i": 129,
+      "start": 948.04,
+      "end": 955.64,
+      "text": "So a large powerful associated animal with royalty and you know"
+    },
+    {
+      "i": 130,
+      "start": 956.44,
+      "end": 961.76,
+      "text": "the vehicle of Indra in the Puranas etcetera is also"
+    },
+    {
+      "i": 131,
+      "start": 962.04,
+      "end": 964.44,
+      "text": "considered the highest among the animals."
+    },
+    {
+      "i": 132,
+      "start": 968.64,
+      "end": 974.88,
+      "text": "Just as he is considering Grammana and Chandala, he is"
+    },
+    {
+      "i": 133,
+      "start": 974.88,
+      "end": 983.84,
+      "text": "considering Hasti and Sunni. Chuni means the dog."
+    },
+    {
+      "i": 134,
+      "start": 986.48,
+      "end": 995.48,
+      "text": "Even the dog is not different from the Brahmana or the cow or"
+    },
+    {
+      "i": 135,
+      "start": 995.48,
+      "end": 1009.76,
+      "text": "the elephant from the point of view of Brahman, and he includes"
+    },
+    {
+      "i": 136,
+      "start": 1009.76,
+      "end": 1018.32,
+      "text": "the swapaka or the chandala, the most extreme social designation"
+    },
+    {
+      "i": 137,
+      "start": 1018.32,
+      "end": 1023.2,
+      "text": "in the traditional hierarchy beyond even Shudra and the"
+    },
+    {
+      "i": 138,
+      "start": 1023.56,
+      "end": 1031.64,
+      "text": "Varanabhaiya outcast. Because he is."
+    },
+    {
+      "i": 139,
+      "start": 1031.64,
+      "end": 1034.28,
+      "text": "Eating the flesh of a dog for his survival."
+    },
+    {
+      "i": 140,
+      "start": 1036.48,
+      "end": 1040.8,
+      "text": "Considered maximally impure in the Dharmashastra framework."
+    },
+    {
+      "i": 141,
+      "start": 1042.44,
+      "end": 1047.119,
+      "text": "So the deliberate. Choice of Shwapaka or chandala"
+    },
+    {
+      "i": 142,
+      "start": 1047.119,
+      "end": 1054.52,
+      "text": "in the hierarchy. But Krishna does not merely says"
+    },
+    {
+      "i": 143,
+      "start": 1054.52,
+      "end": 1061.96,
+      "text": "Shudra, he says Shwapaka is the extreme possible marginalization"
+    },
+    {
+      "i": 144,
+      "start": 1061.96,
+      "end": 1070.2,
+      "text": "of the human society is not accidental."
+    },
+    {
+      "i": 145,
+      "start": 1070.2,
+      "end": 1075.88,
+      "text": "But the teaching requires the widest possible contrast to make"
+    },
+    {
+      "i": 146,
+      "start": 1075.88,
+      "end": 1080.96,
+      "text": "the point unmistakable that a jeevan muktas or a pandit's"
+    },
+    {
+      "i": 147,
+      "start": 1080.96,
+      "end": 1085.48,
+      "text": "vision spans from the most accomplished, learned and"
+    },
+    {
+      "i": 148,
+      "start": 1085.48,
+      "end": 1090.4,
+      "text": "ritually pure brahmana to the most socially excluded and"
+    },
+    {
+      "i": 149,
+      "start": 1090.4,
+      "end": 1094.6,
+      "text": "ritually impure swapaka or a chandala."
+    },
+    {
+      "i": 150,
+      "start": 1096.64,
+      "end": 1099.2,
+      "text": "The Pandita sees the same Brahman in both."
+    },
+    {
+      "i": 151,
+      "start": 1105.96,
+      "end": 1113.72,
+      "text": "By doing this, the dissolution of all social hierarchy at the"
+    },
+    {
+      "i": 152,
+      "start": 1113.72,
+      "end": 1120.04,
+      "text": "level of a paramarthika darsana when he is seen from the point"
+    },
+    {
+      "i": 153,
+      "start": 1120.04,
+      "end": 1126.08,
+      "text": "of view of Brahman, but not as a social reform program but as a"
+    },
+    {
+      "i": 154,
+      "start": 1126.08,
+      "end": 1134.4,
+      "text": "natural consequence of Atmat Nyana, when one recognizes that"
+    },
+    {
+      "i": 155,
+      "start": 1135.08,
+      "end": 1142.16,
+      "text": "one Brahman as the Atman of all. The superimposed destruction of"
+    },
+    {
+      "i": 156,
+      "start": 1142.16,
+      "end": 1149.12,
+      "text": "Varna, Jadi, Shuddhi, Ashuddhi in a caste etc cannot function"
+    },
+    {
+      "i": 157,
+      "start": 1149.12,
+      "end": 1157.2,
+      "text": "as ultimate markers of value. So the Pantitha who has been"
+    },
+    {
+      "i": 158,
+      "start": 1157.2,
+      "end": 1163.12,
+      "text": "referred by Krishna who sees equality in the Brahmana to"
+    },
+    {
+      "i": 159,
+      "start": 1163.12,
+      "end": 1172.76,
+      "text": "Chandala to the elephant, to the dog is the Pantitha Atmathattva"
+    },
+    {
+      "i": 160,
+      "start": 1172.76,
+      "end": 1177.16,
+      "text": "without Nyaninah. Those who know the truth of"
+    },
+    {
+      "i": 161,
+      "start": 1177.16,
+      "end": 1183.08,
+      "text": "Atman is the Tattvit which was been mentioned in the eighth and"
+    },
+    {
+      "i": 162,
+      "start": 1183.08,
+      "end": 1189.76,
+      "text": "ninth verse and Tadatmanaha in the 17th verse."
+    },
+    {
+      "i": 163,
+      "start": 1189.76,
+      "end": 1193.12,
+      "text": "The previous world, the Panditi is the one whose Nyana has"
+    },
+    {
+      "i": 164,
+      "start": 1193.12,
+      "end": 1199.16,
+      "text": "destroyed Atnyana, Atnyana, nyana muhandi Ji jandavaha."
+    },
+    {
+      "i": 165,
+      "start": 1199.72,
+      "end": 1204.16,
+      "text": "So there is no more moha or delusion in this thing and"
+    },
+    {
+      "i": 166,
+      "start": 1204.16,
+      "end": 1211.12,
+      "text": "because of that the Kalmasha or the you know, Nirudhada has been"
+    },
+    {
+      "i": 167,
+      "start": 1211.16,
+      "end": 1215.16,
+      "text": "removed. And when it is there, he sees"
+    },
+    {
+      "i": 168,
+      "start": 1215.64,
+      "end": 1220.88,
+      "text": "what is actually there, not what is superimposed upon there."
+    },
+    {
+      "i": 169,
+      "start": 1220.88,
+      "end": 1227.08,
+      "text": "The Adyasa is gone because of the wail of Atmana is no longer"
+    },
+    {
+      "i": 170,
+      "start": 1227.08,
+      "end": 1235.8,
+      "text": "there to distort the vision. So when the Samadhar Sithum"
+    },
+    {
+      "i": 171,
+      "start": 1235.8,
+      "end": 1243.12,
+      "text": "comes, Sama means equal does not mean that Pantija is seeing"
+    },
+    {
+      "i": 172,
+      "start": 1243.24,
+      "end": 1247.08,
+      "text": "identical empirical properties in the Brahmana and the"
+    },
+    {
+      "i": 173,
+      "start": 1247.08,
+      "end": 1249.88,
+      "text": "chandala. The brahmana's learning is"
+    },
+    {
+      "i": 174,
+      "start": 1249.88,
+      "end": 1253.12,
+      "text": "empirically different from Sopaka's marginalization."
+    },
+    {
+      "i": 175,
+      "start": 1253.12,
+      "end": 1261.12,
+      "text": "They have done not different studies and even the animals."
+    },
+    {
+      "i": 176,
+      "start": 1263.68,
+      "end": 1269.0,
+      "text": "Sama refers here to Atma Brahma, ikef."
+    },
+    {
+      "i": 177,
+      "start": 1272.76,
+      "end": 1282.96,
+      "text": "Every creation, everything that is in the creation goes through"
+    },
+    {
+      "i": 178,
+      "start": 1283.16,
+      "end": 1288.88,
+      "text": "something called the self identification of individuality."
+    },
+    {
+      "i": 179,
+      "start": 1291.52,
+      "end": 1297.32,
+      "text": "The identification when the avidya is there it can be called"
+    },
+    {
+      "i": 180,
+      "start": 1297.32,
+      "end": 1301.4,
+      "text": "as Avramana, Chatriya, Vaishya, Shudra etc or a chandala."
+    },
+    {
+      "i": 181,
+      "start": 1302.8,
+      "end": 1306.12,
+      "text": "And when the same avidya is there, the elephant will behave"
+    },
+    {
+      "i": 182,
+      "start": 1306.4,
+      "end": 1309.56,
+      "text": "with the elephant properties, the cow will behave with the cow"
+    },
+    {
+      "i": 183,
+      "start": 1309.56,
+      "end": 1318.12,
+      "text": "property. But when the Brahma atma"
+    },
+    {
+      "i": 184,
+      "start": 1318.12,
+      "end": 1322.56,
+      "text": "aaichyat nyana or which removes the adyasha or the"
+    },
+    {
+      "i": 185,
+      "start": 1325.68,
+      "end": 1329.64,
+      "text": "identification with the physicality of the individual"
+    },
+    {
+      "i": 186,
+      "start": 1329.92,
+      "end": 1337.52,
+      "text": "bodily, the knowledge of the brahmana of who he is."
+    },
+    {
+      "i": 187,
+      "start": 1342.52,
+      "end": 1347.28,
+      "text": "I am talking about the ordinary brahmana, not the Panditha who"
+    },
+    {
+      "i": 188,
+      "start": 1347.28,
+      "end": 1351.8,
+      "text": "he is. He works through the sadhana and"
+    },
+    {
+      "i": 189,
+      "start": 1351.8,
+      "end": 1356.6,
+      "text": "achieves the pandithyam. Bis says that he is Brahman."
+    },
+    {
+      "i": 190,
+      "start": 1356.64,
+      "end": 1364.8,
+      "text": "Atman is the same, the chandala the lowest of that category."
+    },
+    {
+      "i": 191,
+      "start": 1366.64,
+      "end": 1374.24,
+      "text": "He also has the same Atman. Only thing is that he is not"
+    },
+    {
+      "i": 192,
+      "start": 1374.24,
+      "end": 1379.92,
+      "text": "working to remove the adyasa removed but by prarabdha."
+    },
+    {
+      "i": 193,
+      "start": 1380.88,
+      "end": 1388.12,
+      "text": "If he by chance has removed the adyasa but remains as a swapaka"
+    },
+    {
+      "i": 194,
+      "start": 1388.12,
+      "end": 1393.52,
+      "text": "because that then doesn't you know anymore effects him because"
+    },
+    {
+      "i": 195,
+      "start": 1393.52,
+      "end": 1400.2,
+      "text": "he is not the body. It is such a chandala that"
+    },
+    {
+      "i": 196,
+      "start": 1402.8,
+      "end": 1409.08,
+      "text": "Shankaracharya encounters in this in the gods of Varanasi"
+    },
+    {
+      "i": 197,
+      "start": 1410.0,
+      "end": 1415.28,
+      "text": "where he sings that Manisha Panjagam chandalos to sadhidjos"
+    },
+    {
+      "i": 198,
+      "start": 1415.28,
+      "end": 1424.36,
+      "text": "to Guru Ritya Sham Manisha Mava. The chandala was as notified as"
+    },
+    {
+      "i": 199,
+      "start": 1424.36,
+      "end": 1431.08,
+      "text": "Shiva by the traditional people. Even if we take the chandala as"
+    },
+    {
+      "i": 200,
+      "start": 1432.44,
+      "end": 1441.6,
+      "text": "a person whose prarabdha karma has ended by realization of"
+    },
+    {
+      "i": 201,
+      "start": 1441.6,
+      "end": 1447.92,
+      "text": "knowledge who he is, he will not identify with his physical being"
+    },
+    {
+      "i": 202,
+      "start": 1447.92,
+      "end": 1453.08,
+      "text": "as a swapaka but practice of living in the body."
+    },
+    {
+      "i": 203,
+      "start": 1453.44,
+      "end": 1456.92,
+      "text": "The body will continue to function as a swapaka."
+    },
+    {
+      "i": 204,
+      "start": 1457.68,
+      "end": 1463.48,
+      "text": "Guna Ghuneshuvarthande, that is the guna with which the body has"
+    },
+    {
+      "i": 205,
+      "start": 1463.48,
+      "end": 1467.88,
+      "text": "been functioning, doesn't mean that he is the body."
+    },
+    {
+      "i": 206,
+      "start": 1469.44,
+      "end": 1473.84,
+      "text": "He has identified himself, that he is not the body but the"
+    },
+    {
+      "i": 207,
+      "start": 1474.64,
+      "end": 1477.24,
+      "text": "knower of the body or the Sakshi in the body."
+    },
+    {
+      "i": 208,
+      "start": 1480.04,
+      "end": 1489.08,
+      "text": "The thaksi is Kevalon Chitguna, Chaitanya cable of nirgunas"
+    },
+    {
+      "i": 209,
+      "start": 1489.36,
+      "end": 1494.08,
+      "text": "chaitanya Eva. That chaitanya is not different"
+    },
+    {
+      "i": 210,
+      "start": 1494.08,
+      "end": 1498.24,
+      "text": "from a swapwaka chandala or a pandita."
+    },
+    {
+      "i": 211,
+      "start": 1500.48,
+      "end": 1511.32,
+      "text": "Now there are stories about even animals realizing their true"
+    },
+    {
+      "i": 212,
+      "start": 1511.32,
+      "end": 1517.52,
+      "text": "nature due to praroddha ND by association living in an ashrama"
+    },
+    {
+      "i": 213,
+      "start": 1517.52,
+      "end": 1523.68,
+      "text": "or hearing the sastras or by the grace of God etc."
+    },
+    {
+      "i": 214,
+      "start": 1525.64,
+      "end": 1534.56,
+      "text": "That is if you look at that, you know where Sankaracharya seeing"
+    },
+    {
+      "i": 215,
+      "start": 1534.56,
+      "end": 1542.76,
+      "text": "that you know the not Sankaracharya seeing that the in"
+    },
+    {
+      "i": 216,
+      "start": 1542.76,
+      "end": 1549.28,
+      "text": "the Bhagavata, the Gajendra Moksha where the elephant with"
+    },
+    {
+      "i": 217,
+      "start": 1549.28,
+      "end": 1560.04,
+      "text": "his cat is being caught by a alligator or crocodile and that"
+    },
+    {
+      "i": 218,
+      "start": 1560.04,
+      "end": 1570.04,
+      "text": "elephant remembers his reality by calling the name of Golod."
+    },
+    {
+      "i": 219,
+      "start": 1572.28,
+      "end": 1577.28,
+      "text": "And that is where he gets a moksha and the crocodile leaves"
+    },
+    {
+      "i": 220,
+      "start": 1577.28,
+      "end": 1583.96,
+      "text": "him without any problem. So such stories are only to"
+    },
+    {
+      "i": 221,
+      "start": 1583.96,
+      "end": 1594.44,
+      "text": "indicate that the Subhava of the Prakriti will continue."
+    },
+    {
+      "i": 222,
+      "start": 1596.44,
+      "end": 1604.2,
+      "text": "One who has learned done through the Sadhana and the some other"
+    },
+    {
+      "i": 223,
+      "start": 1604.2,
+      "end": 1611.16,
+      "text": "sithum has been achieved by the Tatvatnyana Sadatmanaha"
+    },
+    {
+      "i": 224,
+      "start": 1611.8,
+      "end": 1615.32,
+      "text": "sadnishta which was mentioned in the previous verse."
+    },
+    {
+      "i": 225,
+      "start": 1618.36,
+      "end": 1624.4,
+      "text": "For such a person or an animal, the realization that I am"
+    },
+    {
+      "i": 226,
+      "start": 1624.4,
+      "end": 1628.48,
+      "text": "Brahmasmiyur, I am the Atman which is none other than Brahman"
+    },
+    {
+      "i": 227,
+      "start": 1629.52,
+      "end": 1637.2,
+      "text": "is very much there and possible through our Sastras as per the"
+    },
+    {
+      "i": 228,
+      "start": 1637.2,
+      "end": 1644.52,
+      "text": "Sastras statement. Now the critics can ask ask how"
+    },
+    {
+      "i": 229,
+      "start": 1644.52,
+      "end": 1651.04,
+      "text": "did how does the elephant or a animal get moksha?"
+    },
+    {
+      "i": 230,
+      "start": 1652.88,
+      "end": 1661.32,
+      "text": "Even an elephant has a mind. That mind may be functioning as"
+    },
+    {
+      "i": 231,
+      "start": 1661.32,
+      "end": 1666.2,
+      "text": "an elephant as identification. That doesn't make the elephant"
+    },
+    {
+      "i": 232,
+      "start": 1666.2,
+      "end": 1674.76,
+      "text": "different from a human being. It also has a nowhere and the"
+    },
+    {
+      "i": 233,
+      "start": 1674.76,
+      "end": 1679.92,
+      "text": "known in the body. The Sakshi is there in his body"
+    },
+    {
+      "i": 234,
+      "start": 1679.92,
+      "end": 1687.4,
+      "text": "also. So the usage of the name of"
+    },
+    {
+      "i": 235,
+      "start": 1687.4,
+      "end": 1696.2,
+      "text": "animals here in this verse is not to confuse or you know give"
+    },
+    {
+      "i": 236,
+      "start": 1696.2,
+      "end": 1702.44,
+      "text": "wrong indication. It is to say that universality"
+    },
+    {
+      "i": 237,
+      "start": 1702.44,
+      "end": 1706.76,
+      "text": "of Brahman there is sarvam kaluidam Brahman."
+    },
+    {
+      "i": 238,
+      "start": 1706.84,
+      "end": 1713.16,
+      "text": "When that is being said in the Upanishad, it is the same"
+    },
+    {
+      "i": 239,
+      "start": 1713.16,
+      "end": 1716.96,
+      "text": "meaning what is being referred in this particular verse."
+    },
+    {
+      "i": 240,
+      "start": 1718.44,
+      "end": 1724.16,
+      "text": "By spanning all these axes simultaneously, this verse makes"
+    },
+    {
+      "i": 241,
+      "start": 1724.16,
+      "end": 1728.88,
+      "text": "the most uncompromising statement that some other system"
+    },
+    {
+      "i": 242,
+      "start": 1728.96,
+      "end": 1735.2,
+      "text": "of the pundit is not merely tolerance, or is not tolerating,"
+    },
+    {
+      "i": 243,
+      "start": 1735.52,
+      "end": 1741.04,
+      "text": "or merely compassion, or absence of cruelty, etcetera."
+    },
+    {
+      "i": 244,
+      "start": 1742.04,
+      "end": 1746.6,
+      "text": "It is the direct, unwavering recognition of the one Brahman"
+    },
+    {
+      "i": 245,
+      "start": 1747.72,
+      "end": 1753.2,
+      "text": "that transcends every possible axis of empirical differences."
+    },
+    {
+      "i": 246,
+      "start": 1755.16,
+      "end": 1760.24,
+      "text": "Empirically they may continue to be different, but the Pandita,"
+    },
+    {
+      "i": 247,
+      "start": 1761.28,
+      "end": 1768.68,
+      "text": "he sees that samadharshana, which is not a practice of a"
+    },
+    {
+      "i": 248,
+      "start": 1768.68,
+      "end": 1774.48,
+      "text": "pnani which cultivates, but it's the spontaneous, natural,"
+    },
+    {
+      "i": 249,
+      "start": 1774.48,
+      "end": 1781.4,
+      "text": "inevitable consequence of atmatyana, Brahma atmatyana."
+    },
+    {
+      "i": 250,
+      "start": 1783.72,
+      "end": 1787.2,
+      "text": "In one of the previous verse it has been mentioned you know"
+    },
+    {
+      "i": 251,
+      "start": 1787.64,
+      "end": 1798.24,
+      "text": "Adityavat like just as a sun cannot help but illumine equally"
+    },
+    {
+      "i": 252,
+      "start": 1799.32,
+      "end": 1803.92,
+      "text": "all things which is there in the surface of earth, not only"
+    },
+    {
+      "i": 253,
+      "start": 1803.92,
+      "end": 1809.08,
+      "text": "Earth, all planets. It doesn't differentiate between"
+    },
+    {
+      "i": 254,
+      "start": 1811.16,
+      "end": 1818.52,
+      "text": "a downtrodden or insignificant or you know, despicable animal,"
+    },
+    {
+      "i": 255,
+      "start": 1818.56,
+      "end": 1827.56,
+      "text": "human being or etcetera from a noble highly placed individual."
+    },
+    {
+      "i": 256,
+      "start": 1828.72,
+      "end": 1833.36,
+      "text": "The same sunlight falls on the brahmana is the same sunlight"
+    },
+    {
+      "i": 257,
+      "start": 1833.36,
+      "end": 1837.48,
+      "text": "which falls on the chandala. It is the same sunlight which"
+    },
+    {
+      "i": 258,
+      "start": 1837.48,
+      "end": 1844.96,
+      "text": "falls on an elephant in the same which falls on a dog or a dog"
+    },
+    {
+      "i": 259,
+      "start": 1844.96,
+      "end": 1850.2,
+      "text": "eat. So the samadharshana does not"
+    },
+    {
+      "i": 260,
+      "start": 1850.2,
+      "end": 1855.92,
+      "text": "mean that Pantiza treats the Brahmana swapaka identically in"
+    },
+    {
+      "i": 261,
+      "start": 1855.92,
+      "end": 1860.76,
+      "text": "all world. The context the Jeevan Mukta"
+    },
+    {
+      "i": 262,
+      "start": 1860.76,
+      "end": 1865.64,
+      "text": "continues to function with the Vaibhavariga framework, eating"
+    },
+    {
+      "i": 263,
+      "start": 1865.64,
+      "end": 1869.08,
+      "text": "appropriate food, following appropriate social protocols,"
+    },
+    {
+      "i": 264,
+      "start": 1869.4,
+      "end": 1871.96,
+      "text": "treating different situations differently."
+    },
+    {
+      "i": 265,
+      "start": 1873.8,
+      "end": 1882.08,
+      "text": "But his knowledge, his understanding, his conviction of"
+    },
+    {
+      "i": 266,
+      "start": 1883.96,
+      "end": 1897.92,
+      "text": "unity of all empirically multifarious objects is the same"
+    },
+    {
+      "i": 267,
+      "start": 1897.96,
+      "end": 1901.56,
+      "text": "in me. Therefore he doesn't"
+    },
+    {
+      "i": 268,
+      "start": 1901.56,
+      "end": 1907.16,
+      "text": "differentiate it empirically. He functions as the body wants"
+    },
+    {
+      "i": 269,
+      "start": 1907.16,
+      "end": 1915.76,
+      "text": "it to function, but his knowledge within is that of"
+    },
+    {
+      "i": 270,
+      "start": 1915.76,
+      "end": 1918.64,
+      "text": "Brahman. So the Pandita holds"
+    },
+    {
+      "i": 271,
+      "start": 1918.64,
+      "end": 1922.64,
+      "text": "simultaneously the Paramarthika Sama and the Vivaharika"
+    },
+    {
+      "i": 272,
+      "start": 1922.64,
+      "end": 1924.6,
+      "text": "distinction without confusing them."
+    },
+    {
+      "i": 273,
+      "start": 1926.88,
+      "end": 1931.8,
+      "text": "This is the Advaitic drashti at the two level applied to social"
+    },
+    {
+      "i": 274,
+      "start": 1931.8,
+      "end": 1933.24,
+      "text": "beings. At the level of Brahma"
+    },
+    {
+      "i": 275,
+      "start": 1933.24,
+      "end": 1938.2,
+      "text": "recognition, all are one. At the same level of worldly"
+    },
+    {
+      "i": 276,
+      "start": 1938.2,
+      "end": 1941.6,
+      "text": "function, appropriate distinctions operate."
+    },
+    {
+      "i": 277,
+      "start": 1945.04,
+      "end": 1950.12,
+      "text": "The danger of misreading the word Samadharshana as a"
+    },
+    {
+      "i": 278,
+      "start": 1950.12,
+      "end": 1958.04,
+      "text": "practical uniformity which the critics read as treating a"
+    },
+    {
+      "i": 279,
+      "start": 1958.04,
+      "end": 1962.24,
+      "text": "learned person and an unleaded person identically in all social"
+    },
+    {
+      "i": 280,
+      "start": 1962.24,
+      "end": 1969.56,
+      "text": "contexts is is something which Shankaracharya cautions US"
+    },
+    {
+      "i": 281,
+      "start": 1969.56,
+      "end": 1976.56,
+      "text": "against. That Nyani sees the fundamental"
+    },
+    {
+      "i": 282,
+      "start": 1976.56,
+      "end": 1986.36,
+      "text": "reality as Brahman, but he does not impose that equality on"
+    },
+    {
+      "i": 283,
+      "start": 1986.36,
+      "end": 1994.28,
+      "text": "every Vyavaharika interactions because the Nawad dwarapura or"
+    },
+    {
+      "i": 284,
+      "start": 1994.28,
+      "end": 2000.8,
+      "text": "the body of an elephant and a cow or a dog or a chandala or a"
+    },
+    {
+      "i": 285,
+      "start": 2000.8,
+      "end": 2005.72,
+      "text": "brahmana, The day he simply knows that he is not the Deha"
+    },
+    {
+      "i": 286,
+      "start": 2009.12,
+      "end": 2014.12,
+      "text": "and that way he operates in the empirical world."
+    },
+    {
+      "i": 287,
+      "start": 2021.09,
+      "end": 2025.29,
+      "text": "So the dissolution of the hierarchy is what is indicated"
+    },
+    {
+      "i": 288,
+      "start": 2025.29,
+      "end": 2033.48,
+      "text": "in this verse by some other Situ is basically resorting to the"
+    },
+    {
+      "i": 289,
+      "start": 2033.48,
+      "end": 2038.24,
+      "text": "Sakshi who is Chinmatroham Sadashivam."
+    },
+    {
+      "i": 290,
+      "start": 2038.24,
+      "end": 2041.96,
+      "text": "He is the realization, the single witnessing consciousness"
+    },
+    {
+      "i": 291,
+      "start": 2041.96,
+      "end": 2045.68,
+      "text": "that illumines all appearances without distinction."
+    },
+    {
+      "i": 292,
+      "start": 2046.64,
+      "end": 2049.6,
+      "text": "The cow, the elephant, the dog, the brahmana, the Shabaga"
+    },
+    {
+      "i": 293,
+      "start": 2049.679,
+      "end": 2056.48,
+      "text": "jandala, all appear from the Sakshi's point of view as"
+    },
+    {
+      "i": 294,
+      "start": 2057.88,
+      "end": 2064.28,
+      "text": "appearances witnessed by the same unchanging awareness."
+    },
+    {
+      "i": 295,
+      "start": 2064.36,
+      "end": 2071.6,
+      "text": "In that awareness neither he prefers or rejects it, neither"
+    },
+    {
+      "i": 296,
+      "start": 2071.6,
+      "end": 2077.52,
+      "text": "he has elevating A brahmana and demeaning A Chandala, but sees"
+    },
+    {
+      "i": 297,
+      "start": 2077.52,
+      "end": 2080.6,
+      "text": "equally because the equality present in them."
+    },
+    {
+      "i": 298,
+      "start": 2083.8,
+      "end": 2089.76,
+      "text": "Sakshi sees the atman in him. Sarvabhudhatma Bodhatma, which"
+    },
+    {
+      "i": 299,
+      "start": 2089.76,
+      "end": 2091.639,
+      "text": "was mentioned in the seventh verse."
+    },
+    {
+      "i": 300,
+      "start": 2092.56,
+      "end": 2095.56,
+      "text": "The one in whom all beings have become the self."
+    },
+    {
+      "i": 301,
+      "start": 2101.32,
+      "end": 2105.84,
+      "text": "It is the. Therefore, this verse is the"
+    },
+    {
+      "i": 302,
+      "start": 2105.84,
+      "end": 2110.32,
+      "text": "most philosophically and radical and humanly profound in the"
+    },
+    {
+      "i": 303,
+      "start": 2110.32,
+      "end": 2114.56,
+      "text": "Gita, a verse whose implication, carefully understood when"
+    },
+    {
+      "i": 304,
+      "start": 2114.56,
+      "end": 2118.68,
+      "text": "understood within the Advaitic framework, are both"
+    },
+    {
+      "i": 305,
+      "start": 2118.68,
+      "end": 2123.44,
+      "text": "metaphysically precise and existentially challenging."
+    },
+    {
+      "i": 306,
+      "start": 2126.84,
+      "end": 2131.6,
+      "text": "The teaching is simple to state but very difficult to realize"
+    },
+    {
+      "i": 307,
+      "start": 2133.68,
+      "end": 2137.68,
+      "text": "because the one Brahman, Satparam, illumined by the"
+    },
+    {
+      "i": 308,
+      "start": 2137.68,
+      "end": 2141.72,
+      "text": "Nyana, shines equally as Hartman of the most learned and the"
+    },
+    {
+      "i": 309,
+      "start": 2142.24,
+      "end": 2148.36,
+      "text": "least recognized or the most sacred animal to the most impure"
+    },
+    {
+      "i": 310,
+      "start": 2148.4,
+      "end": 2152.16,
+      "text": "animal, from the most powerful elephant to the most"
+    },
+    {
+      "i": 311,
+      "start": 2152.16,
+      "end": 2157.2,
+      "text": "marginalized dog, the Pandita, who has truly arrived at the"
+    },
+    {
+      "i": 312,
+      "start": 2157.2,
+      "end": 2163.48,
+      "text": "Atmat Nyana. He sees this."
+    },
+    {
+      "i": 313,
+      "start": 2165.68,
+      "end": 2170.76,
+      "text": "Not as a moral aspiration, but as a direct perceptual cognition"
+    },
+    {
+      "i": 314,
+      "start": 2171.04,
+      "end": 2180.2,
+      "text": "of Arok Shanubhava in the eyes of the Nyana, what was always"
+    },
+    {
+      "i": 315,
+      "start": 2180.2,
+      "end": 2185.24,
+      "text": "there as Brahmana, Devi, Hastini, etc, etc."
+    },
+    {
+      "i": 316,
+      "start": 2187.28,
+      "end": 2195.8,
+      "text": "He sees in the wisdom the equality, not because he is"
+    },
+    {
+      "i": 317,
+      "start": 2195.8,
+      "end": 2203.16,
+      "text": "training himself to become tolerant to the differences, but"
+    },
+    {
+      "i": 318,
+      "start": 2203.16,
+      "end": 2207.04,
+      "text": "because they have been recognized as the one truth in"
+    },
+    {
+      "i": 319,
+      "start": 2207.04,
+      "end": 2213.56,
+      "text": "all. Krishna continues this."
+    },
+    {
+      "i": 320,
+      "start": 2215.16,
+      "end": 2221.32,
+      "text": "What is the benefit out of this, this vision?"
+    },
+    {
+      "i": 321,
+      "start": 2223.16,
+      "end": 2226.96,
+      "text": "What is mentioned in this verse 18?"
+    },
+    {
+      "i": 322,
+      "start": 2229.76,
+      "end": 2239.56,
+      "text": "It is the moksha ehevat next verse ehevat tahi jitaha sargo"
+    },
+    {
+      "i": 323,
+      "start": 2239.6,
+      "end": 2245.48,
+      "text": "esham samye sitam manaha nerdo shamhi samam brahma tasmat"
+    },
+    {
+      "i": 324,
+      "start": 2245.52,
+      "end": 2250.08,
+      "text": "brahmadi. So what happens to that Pandita?"
+    },
+    {
+      "i": 325,
+      "start": 2251.92,
+      "end": 2258.32,
+      "text": "Iha ewa tahi sargat jitaha esham samye sitam Manaha means right"
+    },
+    {
+      "i": 326,
+      "start": 2258.32,
+      "end": 2270.92,
+      "text": "here baidam Tahihi means baidam means panditahihi sargam jitaha"
+    },
+    {
+      "i": 327,
+      "start": 2272.76,
+      "end": 2280.36,
+      "text": "the sargam means creation but sargastithi pralaya all the"
+    },
+    {
+      "i": 328,
+      "start": 2280.36,
+      "end": 2286.76,
+      "text": "three has to take here. Chitaha means conquered by whom?"
+    },
+    {
+      "i": 329,
+      "start": 2287.96,
+      "end": 2294.12,
+      "text": "Yasham Manaha Samyesthitham, those whose mind is established"
+    },
+    {
+      "i": 330,
+      "start": 2294.12,
+      "end": 2298.04,
+      "text": "in equanimity, the Samadharsi Pandita."
+    },
+    {
+      "i": 331,
+      "start": 2300.24,
+      "end": 2306.08,
+      "text": "He conquers birth and death. He doesn't see that there is a"
+    },
+    {
+      "i": 332,
+      "start": 2306.08,
+      "end": 2313.92,
+      "text": "birth and death which is the moksha Apunaravarthi."
+    },
+    {
+      "i": 333,
+      "start": 2314.08,
+      "end": 2317.96,
+      "text": "In the previous verse it has been mentioned the"
+    },
+    {
+      "i": 334,
+      "start": 2317.96,
+      "end": 2326.36,
+      "text": "transmigration being rejected. He completes it by the second"
+    },
+    {
+      "i": 335,
+      "start": 2326.36,
+      "end": 2331.72,
+      "text": "verse saying that Nirdhosham hi samam Brahma tasmar drammanite"
+    },
+    {
+      "i": 336,
+      "start": 2331.76,
+      "end": 2346.04,
+      "text": "sita Nirdhosham flawless samam equal Brahma."
+    },
+    {
+      "i": 337,
+      "start": 2348.56,
+      "end": 2354.44,
+      "text": "Both of them are brahmates. Brahman Nirdhosham also is"
+    },
+    {
+      "i": 338,
+      "start": 2354.64,
+      "end": 2358.48,
+      "text": "Brahman's quality. Samam is also Brahman's quality"
+    },
+    {
+      "i": 339,
+      "start": 2359.16,
+      "end": 2367.6,
+      "text": "in the Samadharshittu pasma. Therefore those who are samyes"
+    },
+    {
+      "i": 340,
+      "start": 2367.6,
+      "end": 2374.76,
+      "text": "tidammanaha in the mental level. Who accommodates or who actually"
+    },
+    {
+      "i": 341,
+      "start": 2374.76,
+      "end": 2380.0,
+      "text": "sees the equanimity? They brahmanis titaka."
+    },
+    {
+      "i": 342,
+      "start": 2381.24,
+      "end": 2385.28,
+      "text": "They are established in Brahman only then they can see this"
+    },
+    {
+      "i": 343,
+      "start": 2385.64,
+      "end": 2394.56,
+      "text": "equanimity structurally. If we look at this verse, it is"
+    },
+    {
+      "i": 344,
+      "start": 2394.56,
+      "end": 2398.24,
+      "text": "the philosophical grounding of the Samadhar situ of declared in"
+    },
+    {
+      "i": 345,
+      "start": 2398.24,
+      "end": 2405.0,
+      "text": "the previous verse explaining. Why equal vision constitutes"
+    },
+    {
+      "i": 346,
+      "start": 2406.08,
+      "end": 2414.2,
+      "text": "conquest of creation sargasti di Pralaya and why the equal seer"
+    },
+    {
+      "i": 347,
+      "start": 2414.28,
+      "end": 2418.6,
+      "text": "are the one who sees? Equanimity is established in"
+    },
+    {
+      "i": 348,
+      "start": 2418.6,
+      "end": 2425.28,
+      "text": "Brahman. It moves from observation, mere"
+    },
+    {
+      "i": 349,
+      "start": 2427.2,
+      "end": 2433.96,
+      "text": "Idriyadarshanam of equal, equal seeing which is an empirical"
+    },
+    {
+      "i": 350,
+      "start": 2434.76,
+      "end": 2440.28,
+      "text": "act, to a paramarthika darsana of some other sithum of"
+    },
+    {
+      "i": 351,
+      "start": 2441.96,
+      "end": 2449.8,
+      "text": "metaphysical justification which says that Brahma is both"
+    },
+    {
+      "i": 352,
+      "start": 2449.8,
+      "end": 2456.92,
+      "text": "nirudhosam and samah nirdhosam hi samam Brahma to a secular"
+    },
+    {
+      "i": 353,
+      "start": 2456.92,
+      "end": 2460.68,
+      "text": "logical consequence of pasmath dramanisthitta."
+    },
+    {
+      "i": 354,
+      "start": 2461.76,
+      "end": 2464.84,
+      "text": "Therefore they stay. They are established in Brahman."
+    },
+    {
+      "i": 355,
+      "start": 2467.92,
+      "end": 2473.28,
+      "text": "This verse reminds us something. Ihacheta Vedhi Atasatyamasti"
+    },
+    {
+      "i": 356,
+      "start": 2473.76,
+      "end": 2481.48,
+      "text": "Nacheti havdi Mahati Vinashti in the Muntagopinishat where we"
+    },
+    {
+      "i": 357,
+      "start": 2481.48,
+      "end": 2487.8,
+      "text": "studied this, This has to be happening here and now."
+    },
+    {
+      "i": 358,
+      "start": 2488.2,
+      "end": 2493.92,
+      "text": "If you do not achieve it in this life, in this very moment,"
+    },
+    {
+      "i": 359,
+      "start": 2494.68,
+      "end": 2504.32,
+      "text": "Ihachayita Vedhi Mahati Vinashti, there cannot be a much"
+    },
+    {
+      "i": 360,
+      "start": 2505.64,
+      "end": 2511.76,
+      "text": "bigger loss of a life. The purpose of life is totally"
+    },
+    {
+      "i": 361,
+      "start": 2511.76,
+      "end": 2517.72,
+      "text": "lost if you do not achieve it. Today, this very moment there is"
+    },
+    {
+      "i": 362,
+      "start": 2517.72,
+      "end": 2524.12,
+      "text": "Seb Ihhaeva is reminding that particular mantra of"
+    },
+    {
+      "i": 363,
+      "start": 2524.2,
+      "end": 2529.12,
+      "text": "Muntagoprishad. It is he is a Ihhaeva means here"
+    },
+    {
+      "i": 364,
+      "start": 2529.12,
+      "end": 2535.16,
+      "text": "itself is the empirical temporal spatial marker of the verse."
+    },
+    {
+      "i": 365,
+      "start": 2536.88,
+      "end": 2543.64,
+      "text": "The conquest of Sarga creation is not a postmortem event."
+    },
+    {
+      "i": 366,
+      "start": 2544.48,
+      "end": 2546.48,
+      "text": "It will happen later, after you die."
+    },
+    {
+      "i": 367,
+      "start": 2546.48,
+      "end": 2552.04,
+      "text": "No, not achieved after death, not in the future."
+    },
+    {
+      "i": 368,
+      "start": 2552.04,
+      "end": 2556.28,
+      "text": "Loka not going to Sorgaloga. And after Sorgaloga, when the"
+    },
+    {
+      "i": 369,
+      "start": 2556.28,
+      "end": 2558.0,
+      "text": "Pralaya happens, you will achieve that."
+    },
+    {
+      "i": 370,
+      "start": 2558.0,
+      "end": 2566.2,
+      "text": "No, it occurs here and now, in this life, in this very moment."
+    },
+    {
+      "i": 371,
+      "start": 2569.44,
+      "end": 2575.32,
+      "text": "This is Gita's teaching of Jeevan Mukti, stated in the most"
+    },
+    {
+      "i": 372,
+      "start": 2575.32,
+      "end": 2580.68,
+      "text": "compact form, a declaration that liberation is available here and"
+    },
+    {
+      "i": 373,
+      "start": 2580.68,
+      "end": 2584.2,
+      "text": "now, not a deferred consequence or action."
+    },
+    {
+      "i": 374,
+      "start": 2584.68,
+      "end": 2593.92,
+      "text": "Existing pahihi, brahmanahihi or panti tahihi, Those who are"
+    },
+    {
+      "i": 375,
+      "start": 2595.48,
+      "end": 2601.16,
+      "text": "seeing this, some other sithum, For them sarga is conquered."
+    },
+    {
+      "i": 376,
+      "start": 2601.92,
+      "end": 2607.8,
+      "text": "Sarga means creation, Jitaha means concurred."
+    },
+    {
+      "i": 377,
+      "start": 2608.72,
+      "end": 2612.76,
+      "text": "So sargas, tithaha, Jitaha mean those who have conquered."
+    },
+    {
+      "i": 378,
+      "start": 2615.56,
+      "end": 2621.12,
+      "text": "In the verse seventh verse it was mentioned that mind"
+    },
+    {
+      "i": 379,
+      "start": 2622.24,
+      "end": 2629.52,
+      "text": "Vijitatma, one who by one who has conquered the mind and"
+    },
+    {
+      "i": 380,
+      "start": 2629.52,
+      "end": 2634.52,
+      "text": "Jitendriyaha, one who has conquered the Indriyas, he"
+    },
+    {
+      "i": 381,
+      "start": 2634.52,
+      "end": 2641.4,
+      "text": "achieves that some other siddam and once he achieves the some"
+    },
+    {
+      "i": 382,
+      "start": 2641.4,
+      "end": 2654.11,
+      "text": "other siddam, he achieves the sargajita freed from the idea"
+    },
+    {
+      "i": 383,
+      "start": 2654.11,
+      "end": 2660.35,
+      "text": "that he is the body and the body has birth and death."
+    },
+    {
+      "i": 384,
+      "start": 2660.39,
+      "end": 2666.52,
+      "text": "Punarvarthi a Punarvarthi is what was mentioned earlier."
+    },
+    {
+      "i": 385,
+      "start": 2667.92,
+      "end": 2674.36,
+      "text": "So the conquest of creation is the final total conquest"
+    },
+    {
+      "i": 386,
+      "start": 2674.36,
+      "end": 2679.84,
+      "text": "surpassing the conquest of mind and senses because it means the"
+    },
+    {
+      "i": 387,
+      "start": 2679.84,
+      "end": 2683.24,
+      "text": "entire mechanism of transmigration."
+    },
+    {
+      "i": 388,
+      "start": 2683.56,
+      "end": 2689.84,
+      "text": "Sargasthithi, Pralaya and Punrajanma are understood as the"
+    },
+    {
+      "i": 389,
+      "start": 2689.84,
+      "end": 2694.84,
+      "text": "creation, as a cycle of Janma, Ritu, Janma etcetera, as is"
+    },
+    {
+      "i": 390,
+      "start": 2694.84,
+      "end": 2697.56,
+      "text": "being overcome by the Samadhar Sea."
+    },
+    {
+      "i": 391,
+      "start": 2704.04,
+      "end": 2710.36,
+      "text": "So at the cosmological level, creation Brahman's apparent"
+    },
+    {
+      "i": 392,
+      "start": 2710.36,
+      "end": 2715.16,
+      "text": "projection of the world through Maya or Avidya."
+    },
+    {
+      "i": 393,
+      "start": 2716.24,
+      "end": 2726.96,
+      "text": "So here the Samadhar Sea has conquered his Avidya, Mohitaha."
+    },
+    {
+      "i": 394,
+      "start": 2730.64,
+      "end": 2734.4,
+      "text": "Avidya is the reason which for the Moha."
+    },
+    {
+      "i": 395,
+      "start": 2735.04,
+      "end": 2742.16,
+      "text": "So he has conquered his Moga and when he conquers his Moha, Raga,"
+    },
+    {
+      "i": 396,
+      "start": 2742.16,
+      "end": 2746.88,
+      "text": "Devesh etc. He is conquering,"
+    },
+    {
+      "i": 397,
+      "start": 2746.88,
+      "end": 2754.2,
+      "text": "transmigration, the cycle of birth, death and rebirth."
+    },
+    {
+      "i": 398,
+      "start": 2756.72,
+      "end": 2760.64,
+      "text": "At the psychological level, the projection of samsara by Davidya"
+    },
+    {
+      "i": 399,
+      "start": 2760.64,
+      "end": 2768.44,
+      "text": "onto Brahman is what is called the Adhyasa, and that is what is"
+    },
+    {
+      "i": 400,
+      "start": 2768.44,
+      "end": 2776.24,
+      "text": "referred as Sargahir, one whose mind is established in the"
+    },
+    {
+      "i": 401,
+      "start": 2776.24,
+      "end": 2782.08,
+      "text": "Samyasvithi. The second part of the first"
+    },
+    {
+      "i": 402,
+      "start": 2782.08,
+      "end": 2785.68,
+      "text": "line has already conquered the sarga."
+    },
+    {
+      "i": 403,
+      "start": 2786.2,
+      "end": 2792.44,
+      "text": "There is no more heart that he will have birth and death, etc."
+    },
+    {
+      "i": 404,
+      "start": 2792.64,
+      "end": 2796.36,
+      "text": "Najayathemriyatheva Kathajit, which Krishna told in the"
+    },
+    {
+      "i": 405,
+      "start": 2796.36,
+      "end": 2798.4,
+      "text": "beginning, is being affirmed here now."
+    },
+    {
+      "i": 406,
+      "start": 2799.48,
+      "end": 2805.52,
+      "text": "So the conquest is complete. Iha present here and now and"
+    },
+    {
+      "i": 407,
+      "start": 2805.52,
+      "end": 2813.4,
+      "text": "total the Sarga and the Srijathi has been connected because in"
+    },
+    {
+      "i": 408,
+      "start": 2813.4,
+      "end": 2821.68,
+      "text": "the verse 14 Prabhu Srijathi is been denied not Srijathi Prabhu."
+    },
+    {
+      "i": 409,
+      "start": 2822.64,
+      "end": 2825.76,
+      "text": "The Prabhu does not create. The Atma does not have a"
+    },
+    {
+      "i": 410,
+      "start": 2825.76,
+      "end": 2834.04,
+      "text": "creation, birth or anything. Athisa kartha aboktha, Therefore"
+    },
+    {
+      "i": 411,
+      "start": 2834.04,
+      "end": 2840.2,
+      "text": "sarga and the Prabhu does not create the same birth and death."
+    },
+    {
+      "i": 412,
+      "start": 2840.2,
+      "end": 2849.88,
+      "text": "It is the avidya which makes us feel that there is the body, we"
+    },
+    {
+      "i": 413,
+      "start": 2849.88,
+      "end": 2852.72,
+      "text": "are the body. The body has birth and death,"
+    },
+    {
+      "i": 414,
+      "start": 2853.12,
+      "end": 2862.72,
+      "text": "aging all Suga, dukkha etcetera. The Samadhar sitwa is the same"
+    },
+    {
+      "i": 415,
+      "start": 2862.72,
+      "end": 2869.6,
+      "text": "thing what is mentioned as the sitapratmat of the second"
+    },
+    {
+      "i": 416,
+      "start": 2869.6,
+      "end": 2881.48,
+      "text": "chapter. So yasham, those who have, those"
+    },
+    {
+      "i": 417,
+      "start": 2881.48,
+      "end": 2891.2,
+      "text": "who, whose or those who has mind in samyas sita samya means"
+    },
+    {
+      "i": 418,
+      "start": 2891.88,
+      "end": 2901.84,
+      "text": "equanimity or you know, inner esoteric establishment in the"
+    },
+    {
+      "i": 419,
+      "start": 2901.84,
+      "end": 2907.52,
+      "text": "Samadharshita which is apparently the external external"
+    },
+    {
+      "i": 420,
+      "start": 2907.52,
+      "end": 2914.2,
+      "text": "one where the multiplicity is there in that he is mentally at"
+    },
+    {
+      "i": 421,
+      "start": 2914.2,
+      "end": 2921.68,
+      "text": "peace and equanimity because he knows that the apparent"
+    },
+    {
+      "i": 422,
+      "start": 2921.68,
+      "end": 2926.04,
+      "text": "diversity of the empirical world is not real."
+    },
+    {
+      "i": 423,
+      "start": 2929.32,
+      "end": 2933.52,
+      "text": "The equanimity equilibrium and the non differentiation at the"
+    },
+    {
+      "i": 424,
+      "start": 2933.52,
+      "end": 2943.88,
+      "text": "mind level of the mind does not create raga and Dwesha which is"
+    },
+    {
+      "i": 425,
+      "start": 2943.88,
+      "end": 2950.2,
+      "text": "the product of Abidya for the Samadharshi and therefore he"
+    },
+    {
+      "i": 426,
+      "start": 2950.2,
+      "end": 2959.8,
+      "text": "doesn't deal with the raga and durisha with the world of"
+    },
+    {
+      "i": 427,
+      "start": 2959.8,
+      "end": 2964.08,
+      "text": "empirical world outside. Even though empirically he has"
+    },
+    {
+      "i": 428,
+      "start": 2965.44,
+      "end": 2969.56,
+      "text": "he sees the differences, he has the Samadharshitu."
+    },
+    {
+      "i": 429,
+      "start": 2971.24,
+      "end": 2976.56,
+      "text": "So the Samya here is the inner recognition of a Brahmatmyani or"
+    },
+    {
+      "i": 430,
+      "start": 2976.56,
+      "end": 2985.24,
+      "text": "a Tattvit Brahman as Sama and same in all."
+    },
+    {
+      "i": 431,
+      "start": 2986.08,
+      "end": 2992.12,
+      "text": "He doesn't see the elephant and the cow, the dog as one."
+    },
+    {
+      "i": 432,
+      "start": 2992.68,
+      "end": 2996.4,
+      "text": "He see as one animal. No, they see is different"
+    },
+    {
+      "i": 433,
+      "start": 2996.4,
+      "end": 3002.52,
+      "text": "animals only, but the life which is pulsating or the Chetana or"
+    },
+    {
+      "i": 434,
+      "start": 3002.52,
+      "end": 3007.12,
+      "text": "the chit in the elephant, the chit in the dog or the chit in"
+    },
+    {
+      "i": 435,
+      "start": 3007.12,
+      "end": 3016.6,
+      "text": "the cow is not different. So that is the samazar sitam and"
+    },
+    {
+      "i": 436,
+      "start": 3016.6,
+      "end": 3020.6,
+      "text": "therefore no more oscillation between to raga and Dwesha."
+    },
+    {
+      "i": 437,
+      "start": 3028.75,
+      "end": 3033.95,
+      "text": "He is saying that this titham Manaha or the established firmly"
+    },
+    {
+      "i": 438,
+      "start": 3033.95,
+      "end": 3039.8,
+      "text": "placed mind in the Samya city, in the equilimity of in a"
+    },
+    {
+      "i": 439,
+      "start": 3039.8,
+      "end": 3047.92,
+      "text": "Brahman or Atma, that mind is purified, Bishuddhaha, jitendri"
+    },
+    {
+      "i": 440,
+      "start": 3047.92,
+      "end": 3055.4,
+      "text": "ha vijitaha and nirjwandaha. There is no duality due to the"
+    },
+    {
+      "i": 441,
+      "start": 3055.4,
+      "end": 3058.68,
+      "text": "knowledge. Therefore, it is stationed in"
+    },
+    {
+      "i": 442,
+      "start": 3058.68,
+      "end": 3064.44,
+      "text": "the recognition of that a Brahman is equally null as"
+    },
+    {
+      "i": 443,
+      "start": 3064.92,
+      "end": 3071.72,
+      "text": "permanent unwavering reality of every atom in this world."
+    },
+    {
+      "i": 444,
+      "start": 3076.68,
+      "end": 3082.24,
+      "text": "The Stithapratnya and the Tandnishta is the same thing of"
+    },
+    {
+      "i": 445,
+      "start": 3082.24,
+      "end": 3088.56,
+      "text": "the Samadharshita or Samyam manhab which is being mentioned"
+    },
+    {
+      "i": 446,
+      "start": 3088.56,
+      "end": 3093.96,
+      "text": "in this verse. But Krishna says two things that"
+    },
+    {
+      "i": 447,
+      "start": 3093.96,
+      "end": 3104.72,
+      "text": "nirudhosham he samam. So he is categorizing that samam"
+    },
+    {
+      "i": 448,
+      "start": 3104.84,
+      "end": 3112.04,
+      "text": "the equanimity or the non differential nature itself."
+    },
+    {
+      "i": 449,
+      "start": 3112.2,
+      "end": 3122.4,
+      "text": "He means itself is nirudhosham in the word Earlier shloka we"
+    },
+    {
+      "i": 450,
+      "start": 3122.4,
+      "end": 3129.48,
+      "text": "heard the Kalmasha Nirudhu. The Kalmasha all impurities have"
+    },
+    {
+      "i": 451,
+      "start": 3129.48,
+      "end": 3135.4,
+      "text": "been washed or laundered. So here he is using another word"
+    },
+    {
+      "i": 452,
+      "start": 3135.4,
+      "end": 3142.32,
+      "text": "near the ocean. Faultless, free from all."
+    },
+    {
+      "i": 453,
+      "start": 3142.32,
+      "end": 3148.4,
+      "text": "Defect is not two separate words."
+    },
+    {
+      "i": 454,
+      "start": 3149.56,
+      "end": 3155.0,
+      "text": "What it says refers. Here is the apparent"
+    },
+    {
+      "i": 455,
+      "start": 3155.0,
+      "end": 3158.56,
+      "text": "differentiation that characterize sansaric existence"
+    },
+    {
+      "i": 456,
+      "start": 3158.56,
+      "end": 3164.32,
+      "text": "of Gunavikaras modifications due to sattva rajas Damas in their"
+    },
+    {
+      "i": 457,
+      "start": 3164.36,
+      "end": 3170.12,
+      "text": "unequal distribution across all beings which produce apparent in"
+    },
+    {
+      "i": 458,
+      "start": 3170.4,
+      "end": 3174.0,
+      "text": "inequalities from the Vyawarika world."
+    },
+    {
+      "i": 459,
+      "start": 3175.88,
+      "end": 3180.76,
+      "text": "But from the paramarthika level, the cow, the elephant, the"
+    },
+    {
+      "i": 460,
+      "start": 3180.76,
+      "end": 3186.88,
+      "text": "brahmana, the swapaga all appear to even though have different"
+    },
+    {
+      "i": 461,
+      "start": 3186.88,
+      "end": 3190.84,
+      "text": "qualities, ritual states, karmic positions etc."
+    },
+    {
+      "i": 462,
+      "start": 3191.64,
+      "end": 3195.84,
+      "text": "The Brahman has atman men. It is neerdoshan and Sama seen."
+    },
+    {
+      "i": 463,
+      "start": 3196.92,
+      "end": 3200.0,
+      "text": "None of these apparent doshas belong to Brahman."
+    },
+    {
+      "i": 464,
+      "start": 3200.08,
+      "end": 3205.68,
+      "text": "Therefore the doshas are seen of datas of Uwadi due to Gunaha"
+    },
+    {
+      "i": 465,
+      "start": 3205.68,
+      "end": 3214.24,
+      "text": "Guneshwar Tandi or what we saw that Subhava prakrutehe."
+    },
+    {
+      "i": 466,
+      "start": 3217.92,
+      "end": 3220.52,
+      "text": "So it is not tainting the Brahman."
+    },
+    {
+      "i": 467,
+      "start": 3221.16,
+      "end": 3226.44,
+      "text": "Brahman remains flawless in every being or every creation."
+    },
+    {
+      "i": 468,
+      "start": 3231.12,
+      "end": 3239.96,
+      "text": "This when it is achieved the same some other seed, Kandita"
+    },
+    {
+      "i": 469,
+      "start": 3240.84,
+      "end": 3246.0,
+      "text": "gramadi TE stitha established in Brahman."
+    },
+    {
+      "i": 470,
+      "start": 3248.48,
+      "end": 3252.48,
+      "text": "That is the concluding psychological declaration of"
+    },
+    {
+      "i": 471,
+      "start": 3252.48,
+      "end": 3261.08,
+      "text": "this verse. It is a paraphrase which"
+    },
+    {
+      "i": 472,
+      "start": 3261.08,
+      "end": 3267.92,
+      "text": "encapsulates the essence of a Jeevan Mukta permanently"
+    },
+    {
+      "i": 473,
+      "start": 3267.92,
+      "end": 3271.8,
+      "text": "established in the recognition of Atman's own as one's own"
+    },
+    {
+      "i": 474,
+      "start": 3271.8,
+      "end": 3277.36,
+      "text": "ground. The Karma Yogin places Saxons as"
+    },
+    {
+      "i": 475,
+      "start": 3277.36,
+      "end": 3288.8,
+      "text": "Brahman sadhana because Brahmani Adhaya is the Karma Yogin's"
+    },
+    {
+      "i": 476,
+      "start": 3288.92,
+      "end": 3293.92,
+      "text": "method. It is a sadhana whereas a"
+    },
+    {
+      "i": 477,
+      "start": 3293.92,
+      "end": 3299.52,
+      "text": "Samadhar sea that Nyani abides in the Brahman as recognition."
+    },
+    {
+      "i": 478,
+      "start": 3300.92,
+      "end": 3306.8,
+      "text": "Therefore the Brahmani Adaya matures when he achieves the"
+    },
+    {
+      "i": 479,
+      "start": 3307.76,
+      "end": 3312.2,
+      "text": "Samadhar Sithum and then he remains in Brahmani Sitha."
+    },
+    {
+      "i": 480,
+      "start": 3313.56,
+      "end": 3321.04,
+      "text": "He is not separate from Brahman to in to offer in Brahma"
+    },
+    {
+      "i": 481,
+      "start": 3321.48,
+      "end": 3325.96,
+      "text": "Brahman. So Brahmarpanam, Brahmahavi, all"
+    },
+    {
+      "i": 482,
+      "start": 3325.96,
+      "end": 3331.88,
+      "text": "those things that even the Brahmanahutam is that Brahma"
+    },
+    {
+      "i": 483,
+      "start": 3331.88,
+      "end": 3335.36,
+      "text": "Karma Samadhi which has been mentioned earlier in the 4th"
+    },
+    {
+      "i": 484,
+      "start": 3335.36,
+      "end": 3339.24,
+      "text": "chapter. There he identifies himself as"
+    },
+    {
+      "i": 485,
+      "start": 3339.24,
+      "end": 3345.28,
+      "text": "the Brahman and everything in the world is a eknya of Brahman"
+    },
+    {
+      "i": 486,
+      "start": 3345.28,
+      "end": 3351.6,
+      "text": "Happani, and that some other Sitham is where he establishes"
+    },
+    {
+      "i": 487,
+      "start": 3351.6,
+      "end": 3362.04,
+      "text": "himself as Brahmani Stiti, a complete Advaitic syllogism, one"
+    },
+    {
+      "i": 488,
+      "start": 3362.04,
+      "end": 3365.72,
+      "text": "of the most compact in the Gita Nirdhosam."
+    },
+    {
+      "i": 489,
+      "start": 3365.72,
+      "end": 3368.8,
+      "text": "He samam Brahma Brahman is flawless and equal in"
+    },
+    {
+      "i": 490,
+      "start": 3368.8,
+      "end": 3372.32,
+      "text": "recognition. Yasham samyas chitam manaha,"
+    },
+    {
+      "i": 491,
+      "start": 3372.68,
+      "end": 3379.84,
+      "text": "whose mind is in the Samyas. Or recognize therefore tasma"
+    },
+    {
+      "i": 492,
+      "start": 3380.08,
+      "end": 3382.84,
+      "text": "Brahmani stithaha. They are established in Brahman."
+    },
+    {
+      "i": 493,
+      "start": 3384.72,
+      "end": 3389.84,
+      "text": "This syllogism works because recognition of Samam Brahma and"
+    },
+    {
+      "i": 494,
+      "start": 3389.84,
+      "end": 3393.12,
+      "text": "being established in Brahman are not 2 separate things."
+    },
+    {
+      "i": 495,
+      "start": 3393.84,
+      "end": 3397.92,
+      "text": "The recognition of Brahman's Samartham, equanimity, Sarum,"
+    },
+    {
+      "i": 496,
+      "start": 3397.92,
+      "end": 3402.56,
+      "text": "Kalidam Brahma is itself the mode of being in Brahman."
+    },
+    {
+      "i": 497,
+      "start": 3402.96,
+      "end": 3406.2,
+      "text": "There is no gap between recognition and abidance."
+    },
+    {
+      "i": 498,
+      "start": 3408.28,
+      "end": 3411.16,
+      "text": "This is the non dual structure of Brahmatnyana."
+    },
+    {
+      "i": 499,
+      "start": 3411.8,
+      "end": 3414.28,
+      "text": "Knowing Brahman is being in Brahman."
+    },
+    {
+      "i": 500,
+      "start": 3415.28,
+      "end": 3420.6,
+      "text": "The Brahmatnyana is not separate from the knower of the Brahman."
+    },
+    {
+      "i": 501,
+      "start": 3421.32,
+      "end": 3424.76,
+      "text": "Therefore the knower, the known and the knowing all becoming"
+    },
+    {
+      "i": 502,
+      "start": 3424.96,
+      "end": 3436.52,
+      "text": "one, one aspect of Brahman. So when Krishna says that"
+    },
+    {
+      "i": 503,
+      "start": 3436.6,
+      "end": 3444.0,
+      "text": "Ihayeva, the moksha, is not a future state to be produced by"
+    },
+    {
+      "i": 504,
+      "start": 3444.0,
+      "end": 3448.36,
+      "text": "actions, it is the present recognition for the Jeevan Mukta"
+    },
+    {
+      "i": 505,
+      "start": 3450.12,
+      "end": 3456.32,
+      "text": "of what has been already the case Atnyana which has been"
+    },
+    {
+      "i": 506,
+      "start": 3456.68,
+      "end": 3460.2,
+      "text": "wailing. It was Nyanena."
+    },
+    {
+      "i": 507,
+      "start": 3461.04,
+      "end": 3468.32,
+      "text": "By the knowledge it has been eradicated and the revelation is"
+    },
+    {
+      "i": 508,
+      "start": 3469.2,
+      "end": 3472.4,
+      "text": "iha iha jaedavedi, adasatya masti."
+    },
+    {
+      "i": 509,
+      "start": 3475.48,
+      "end": 3478.2,
+      "text": "It is not something which need to be postponed."
+    },
+    {
+      "i": 510,
+      "start": 3481.44,
+      "end": 3484.32,
+      "text": "So we look at the waves 18 and 19."
+    },
+    {
+      "i": 511,
+      "start": 3484.32,
+      "end": 3491.96,
+      "text": "Together they form a tight singular objective."
+    },
+    {
+      "i": 512,
+      "start": 3494.0,
+      "end": 3496.8,
+      "text": "The phenomenon of some other sithum of Panditha"
+    },
+    {
+      "i": 513,
+      "start": 3496.8,
+      "end": 3501.04,
+      "text": "Samadharshinaha. In the 18 the mechanism is"
+    },
+    {
+      "i": 514,
+      "start": 3501.4,
+      "end": 3506.12,
+      "text": "Samyeshitam manaha. It is in the mind which gets"
+    },
+    {
+      "i": 515,
+      "start": 3506.12,
+      "end": 3511.64,
+      "text": "established in the equanimity. It is not that the elephant"
+    },
+    {
+      "i": 516,
+      "start": 3511.64,
+      "end": 3515.44,
+      "text": "becomes cow or the cow becomes a dog."
+    },
+    {
+      "i": 517,
+      "start": 3515.44,
+      "end": 3521.96,
+      "text": "No, when the Panditha Samadharshi darshanaha seeing at"
+    },
+    {
+      "i": 518,
+      "start": 3522.48,
+      "end": 3528.72,
+      "text": "a sing, what would they achieve? Sargo chithaka, brahmani"
+    },
+    {
+      "i": 519,
+      "start": 3528.72,
+      "end": 3534.04,
+      "text": "chithaka. They are negating the"
+    },
+    {
+      "i": 520,
+      "start": 3536.96,
+      "end": 3544.0,
+      "text": "fundamental reality of Brahman in every being, removing the"
+    },
+    {
+      "i": 521,
+      "start": 3545.04,
+      "end": 3550.28,
+      "text": "body or the Upadhi or the Prakriti separate from the"
+    },
+    {
+      "i": 522,
+      "start": 3550.28,
+      "end": 3553.52,
+      "text": "Brahman. Therefore Sargo Jitaka, they"
+    },
+    {
+      "i": 523,
+      "start": 3553.52,
+      "end": 3561.08,
+      "text": "will they, they win. They win over the feeling or the"
+    },
+    {
+      "i": 524,
+      "start": 3561.28,
+      "end": 3566.68,
+      "text": "idea that there is birth, death and rebirth, and when that is"
+    },
+    {
+      "i": 525,
+      "start": 3566.96,
+      "end": 3570.52,
+      "text": "removed, they are no more identifying themselves with the"
+    },
+    {
+      "i": 526,
+      "start": 3570.52,
+      "end": 3573.08,
+      "text": "body. Therefore they establish"
+    },
+    {
+      "i": 527,
+      "start": 3573.08,
+      "end": 3578.88,
+      "text": "themselves in Brahman called the Brahmani city and what is seen"
+    },
+    {
+      "i": 528,
+      "start": 3579.6,
+      "end": 3583.48,
+      "text": "saying Brahman in Brahmana, Brahmana through the Brahmana"
+    },
+    {
+      "i": 529,
+      "start": 3583.48,
+      "end": 3588.84,
+      "text": "and swapaka right from the highest order of human being to"
+    },
+    {
+      "i": 530,
+      "start": 3588.84,
+      "end": 3596.36,
+      "text": "the lowest one and that seeing is the samadhar, sitto"
+    },
+    {
+      "i": 531,
+      "start": 3596.96,
+      "end": 3602.96,
+      "text": "nirdhosam, samambramma, seeing the Brahman which is without any"
+    },
+    {
+      "i": 532,
+      "start": 3603.44,
+      "end": 3608.16,
+      "text": "contamination of the upadhis or the body etcetera."
+    },
+    {
+      "i": 533,
+      "start": 3608.72,
+      "end": 3613.52,
+      "text": "And that equanimity of Brahman in everything like the sunlight"
+    },
+    {
+      "i": 534,
+      "start": 3613.84,
+      "end": 3619.8,
+      "text": "do not differentiate on this Nyanam of Brahman has the"
+    },
+    {
+      "i": 535,
+      "start": 3619.8,
+      "end": 3627.0,
+      "text": "nowhere and known and the Noi as one and the same removes all"
+    },
+    {
+      "i": 536,
+      "start": 3629.08,
+      "end": 3637.96,
+      "text": "differentiations and thereby bringing the nirdhosam hisamam"
+    },
+    {
+      "i": 537,
+      "start": 3637.96,
+      "end": 3645.92,
+      "text": "Brahma, the flawless Brahman. It is Brahmanis titaha."
+    },
+    {
+      "i": 538,
+      "start": 3646.16,
+      "end": 3652.48,
+      "text": "It is the establishment of oneself in recognition that I am"
+    },
+    {
+      "i": 539,
+      "start": 3652.48,
+      "end": 3656.76,
+      "text": "Brahman aham Brahmas. And that happens here and now"
+    },
+    {
+      "i": 540,
+      "start": 3657.68,
+      "end": 3663.32,
+      "text": "whereby he comes out of the feeling of rebirth and you know"
+    },
+    {
+      "i": 541,
+      "start": 3665.12,
+      "end": 3670.52,
+      "text": "other fear he has. Duriyadhvai bhayamwadi."
+    },
+    {
+      "i": 542,
+      "start": 3670.8,
+      "end": 3674.48,
+      "text": "The second there is not second because Samam is seeing the"
+    },
+    {
+      "i": 543,
+      "start": 3674.52,
+      "end": 3681.28,
+      "text": "equanimity now. Nirdhosam samam Brahma, one"
+    },
+    {
+      "i": 544,
+      "start": 3681.28,
+      "end": 3686.4,
+      "text": "flawless sequel, Chinmatra sadashivam or Sakshi that was"
+    },
+    {
+      "i": 545,
+      "start": 3686.4,
+      "end": 3691.76,
+      "text": "never in the sarga or never in the birth and death whereby"
+    },
+    {
+      "i": 546,
+      "start": 3691.76,
+      "end": 3701.8,
+      "text": "conquering what was never real or the apparent he avidya Nashik"
+    },
+    {
+      "i": 547,
+      "start": 3701.96,
+      "end": 3706.16,
+      "text": "when it happened. The recognition brings that what"
+    },
+    {
+      "i": 548,
+      "start": 3706.16,
+      "end": 3710.6,
+      "text": "was always there, that is AAM brahmasni or the brahmaneva is"
+    },
+    {
+      "i": 549,
+      "start": 3710.6,
+      "end": 3716.32,
+      "text": "Satyam. We'll take the 20th verse"
+    },
+    {
+      "i": 550,
+      "start": 3717.12,
+      "end": 3749.04,
+      "text": "tomorrow. Thank you."
+    },
+    {
+      "i": 551,
+      "start": 3756.4,
+      "end": 3758.88,
+      "text": "Thank you very much Minduji. I've opened the chat in hand"
+    },
+    {
+      "i": 552,
+      "start": 3758.88,
+      "end": 3761.32,
+      "text": "raising for any follow up discussions."
+    },
+    {
+      "i": 553,
+      "start": 3762.32,
+      "end": 3765.36,
+      "text": "Questions Venkatji is coming up. Mr. Venkatji."
+    },
+    {
+      "i": 554,
+      "start": 3769.12,
+      "end": 3775.0,
+      "text": "Now let's see Venkatji. This is sort of brings a lot of"
+    },
+    {
+      "i": 555,
+      "start": 3775.0,
+      "end": 3778.2,
+      "text": "everything together in one go, Binduji."
+    },
+    {
+      "i": 556,
+      "start": 3778.2,
+      "end": 3783.24,
+      "text": "Yes, there's some other shit one the one who sees either a"
+    },
+    {
+      "i": 557,
+      "start": 3783.24,
+      "end": 3787.72,
+      "text": "Brahman or elephant or a Chandala or a dog."
+    },
+    {
+      "i": 558,
+      "start": 3788.6,
+      "end": 3793.16,
+      "text": "Same. You know in the same lens there"
+    },
+    {
+      "i": 559,
+      "start": 3793.16,
+      "end": 3797.08,
+      "text": "is AI want to now build a functional integration, right"
+    },
+    {
+      "i": 560,
+      "start": 3797.32,
+      "end": 3799.88,
+      "text": "Bindoji? It is a."
+    },
+    {
+      "i": 561,
+      "start": 3801.2,
+      "end": 3806.64,
+      "text": "It is in the knowledge that this and integration takes place not"
+    },
+    {
+      "i": 562,
+      "start": 3806.64,
+      "end": 3809.28,
+      "text": "in transaction. Not transaction, but it's a"
+    },
+    {
+      "i": 563,
+      "start": 3809.28,
+      "end": 3811.48,
+      "text": "functional, you know, like a functional integration."
+    },
+    {
+      "i": 564,
+      "start": 3811.48,
+      "end": 3813.52,
+      "text": "I'm using this word functional integration."
+    },
+    {
+      "i": 565,
+      "start": 3816.28,
+      "end": 3821.92,
+      "text": "The Nani functions in the world appear to function in the world,"
+    },
+    {
+      "i": 566,
+      "start": 3823.88,
+      "end": 3825.76,
+      "text": "but it's a functional integration, right?"
+    },
+    {
+      "i": 567,
+      "start": 3826.76,
+      "end": 3828.56,
+      "text": "Right. It's a functional integration"
+    },
+    {
+      "i": 568,
+      "start": 3829.36,
+      "end": 3834.36,
+      "text": "and if you look at it, Krishna who advises this."
+    },
+    {
+      "i": 569,
+      "start": 3835.64,
+      "end": 3838.92,
+      "text": "Who knew this reality? Who knew the truth?"
+    },
+    {
+      "i": 570,
+      "start": 3839.16,
+      "end": 3844.48,
+      "text": "Because he has advised this from viewers 1 onwards and he is now"
+    },
+    {
+      "i": 571,
+      "start": 3844.48,
+      "end": 3850.68,
+      "text": "advising Krishna during using a, you know, Sambhavam Yuge yuge."
+    },
+    {
+      "i": 572,
+      "start": 3850.8,
+      "end": 3856.04,
+      "text": "When he has taken a berth for the purpose of establishing"
+    },
+    {
+      "i": 573,
+      "start": 3856.44,
+      "end": 3862.12,
+      "text": "order in the empirical world where adharma is to be removed"
+    },
+    {
+      "i": 574,
+      "start": 3862.12,
+      "end": 3867.32,
+      "text": "and Dharma has to be established, He is doing the"
+    },
+    {
+      "i": 575,
+      "start": 3867.32,
+      "end": 3871.76,
+      "text": "differentiation at the empirical level knowing very well that in"
+    },
+    {
+      "i": 576,
+      "start": 3871.76,
+      "end": 3874.72,
+      "text": "reality there is no birth and death."
+    },
+    {
+      "i": 577,
+      "start": 3875.32,
+      "end": 3879.72,
+      "text": "That is what he was telling Arjuna also you are, you are,"
+    },
+    {
+      "i": 578,
+      "start": 3880.12,
+      "end": 3883.44,
+      "text": "you know, lamenting for things which you need not lament as"
+    },
+    {
+      "i": 579,
+      "start": 3883.52,
+      "end": 3888.88,
+      "text": "well and talking like a pandita. But in you have no Panditim at"
+    },
+    {
+      "i": 580,
+      "start": 3888.88,
+      "end": 3891.44,
+      "text": "all when you are doing that talking."
+    },
+    {
+      "i": 581,
+      "start": 3892.96,
+      "end": 3898.96,
+      "text": "If you want real Pandithyam, be a Samadarsi, which he has now"
+    },
+    {
+      "i": 582,
+      "start": 3899.2,
+      "end": 3903.08,
+      "text": "very categorically given as a full picture."
+    },
+    {
+      "i": 583,
+      "start": 3903.8,
+      "end": 3909.32,
+      "text": "That Atman or Brahman is the reality of all the apparent"
+    },
+    {
+      "i": 584,
+      "start": 3909.76,
+      "end": 3918.08,
+      "text": "diversity is due to Avidya and that Avidya when Mohita, that"
+    },
+    {
+      "i": 585,
+      "start": 3918.28,
+      "end": 3921.68,
+      "text": "word which he used is that deluded people are deluded by"
+    },
+    {
+      "i": 586,
+      "start": 3921.68,
+      "end": 3924.72,
+      "text": "the physicality and the apparent diversity."
+    },
+    {
+      "i": 587,
+      "start": 3925.4,
+      "end": 3931.68,
+      "text": "They do not see the inner unity or the oneness in all."
+    },
+    {
+      "i": 588,
+      "start": 3933.08,
+      "end": 3938.72,
+      "text": "That is why the functional diversity which you say that is"
+    },
+    {
+      "i": 589,
+      "start": 3939.08,
+      "end": 3941.4,
+      "text": "functional remains as functional."
+    },
+    {
+      "i": 590,
+      "start": 3942.12,
+      "end": 3945.88,
+      "text": "But the fundamental reality is the unifying factor."
+    },
+    {
+      "i": 591,
+      "start": 3948.72,
+      "end": 3953.28,
+      "text": "Yes, Pinderji, this upper oksha, that essence is also seen in the"
+    },
+    {
+      "i": 592,
+      "start": 3953.52,
+      "end": 3958.52,
+      "text": "functional domain. Hence there is no conflict"
+    },
+    {
+      "i": 593,
+      "start": 3958.52,
+      "end": 3961.44,
+      "text": "arriving in first place. So that's why I want to put now"
+    },
+    {
+      "i": 594,
+      "start": 3961.44,
+      "end": 3965.64,
+      "text": "three things in context in this, in this right."
+    },
+    {
+      "i": 595,
+      "start": 3966.0,
+      "end": 3974.88,
+      "text": "One is Vastu Vastu Viveka Dharma Dharma Viveka in that in a"
+    },
+    {
+      "i": 596,
+      "start": 3974.88,
+      "end": 3979.88,
+      "text": "papapunya comes in the Dharma Dharma Viveka and there is a"
+    },
+    {
+      "i": 597,
+      "start": 3979.96,
+      "end": 3985.08,
+      "text": "there is a nithya nithya viveka. Now putting all three in"
+    },
+    {
+      "i": 598,
+      "start": 3985.08,
+      "end": 3992.0,
+      "text": "context, the some of the shit with with one, it is the you"
+    },
+    {
+      "i": 599,
+      "start": 3992.0,
+      "end": 3998.4,
+      "text": "know, this is the Vivek atitha. At the same time, while it is"
+    },
+    {
+      "i": 600,
+      "start": 3999.28,
+      "end": 4005.88,
+      "text": "in, you know, it is sort of illuminating all three at the"
+    },
+    {
+      "i": 601,
+      "start": 4005.88,
+      "end": 4013.6,
+      "text": "same time, it is uninvolved. So this this three vivekas now"
+    },
+    {
+      "i": 602,
+      "start": 4013.6,
+      "end": 4019.72,
+      "text": "putting them in context of some other shetwan, how these are,"
+    },
+    {
+      "i": 603,
+      "start": 4020.24,
+      "end": 4025.92,
+      "text": "you know in your words how these three now play out?"
+    },
+    {
+      "i": 604,
+      "start": 4028.2,
+      "end": 4037.72,
+      "text": "The Nithya Nithya Viveka nullifies the other 3 that Janma"
+    },
+    {
+      "i": 605,
+      "start": 4037.72,
+      "end": 4044.08,
+      "text": "Dukkha or Papa Punya Dharma Dharma, all of them is nullified"
+    },
+    {
+      "i": 606,
+      "start": 4044.32,
+      "end": 4050.68,
+      "text": "as not only anitya but they are not even real."
+    },
+    {
+      "i": 607,
+      "start": 4050.76,
+      "end": 4056.64,
+      "text": "Anitya means they are apparent appearing to be there, but in"
+    },
+    {
+      "i": 608,
+      "start": 4056.64,
+      "end": 4061.0,
+      "text": "reality it is not there. So what happens is that at the"
+    },
+    {
+      "i": 609,
+      "start": 4061.0,
+      "end": 4068.56,
+      "text": "transactional level, if it happens, but in reality it does"
+    },
+    {
+      "i": 610,
+      "start": 4068.56,
+      "end": 4074.24,
+      "text": "not happen. For example, in the in the case"
+    },
+    {
+      "i": 611,
+      "start": 4074.24,
+      "end": 4082.96,
+      "text": "of a Goldsmith, he sees apparent diversity in the ornaments among"
+    },
+    {
+      "i": 612,
+      "start": 4082.96,
+      "end": 4087.44,
+      "text": "the multiple ornaments he is selling and he is selling them"
+    },
+    {
+      "i": 613,
+      "start": 4087.44,
+      "end": 4089.6,
+      "text": "with the apparent diversity in mind."
+    },
+    {
+      "i": 614,
+      "start": 4090.36,
+      "end": 4095.68,
+      "text": "But when he is doing the diversified action for selling"
+    },
+    {
+      "i": 615,
+      "start": 4095.68,
+      "end": 4102.279,
+      "text": "different things also his knowledge or his samatthum in"
+    },
+    {
+      "i": 616,
+      "start": 4102.279,
+      "end": 4108.68,
+      "text": "the mind, the mind is established in the samatthum of"
+    },
+    {
+      "i": 617,
+      "start": 4108.68,
+      "end": 4117.6,
+      "text": "the what you call the nature of their gold is the truth in the"
+    },
+    {
+      "i": 618,
+      "start": 4117.6,
+      "end": 4123.88,
+      "text": "diversity of the ornaments. So when that is happening in our"
+    },
+    {
+      "i": 619,
+      "start": 4123.88,
+      "end": 4129.84,
+      "text": "case today, if you look at it, we are dealing with male,"
+    },
+    {
+      "i": 620,
+      "start": 4129.84,
+      "end": 4136.08,
+      "text": "female, old man, young man, educated person, uneducated"
+    },
+    {
+      "i": 621,
+      "start": 4136.08,
+      "end": 4142.479,
+      "text": "person, servant, all of them. We are dealing with that that"
+    },
+    {
+      "i": 622,
+      "start": 4142.479,
+      "end": 4145.399,
+      "text": "those are all functional requirements or the"
+    },
+    {
+      "i": 623,
+      "start": 4145.439,
+      "end": 4152.92,
+      "text": "transactional diversities. But as a some other see we"
+    },
+    {
+      "i": 624,
+      "start": 4152.92,
+      "end": 4157.24,
+      "text": "should know that everyone of them is nothing but Brahman"
+    },
+    {
+      "i": 625,
+      "start": 4157.24,
+      "end": 4164.439,
+      "text": "appearing as a old man, young man or a man man or a lady or a"
+    },
+    {
+      "i": 626,
+      "start": 4165.08,
+      "end": 4167.88,
+      "text": "you know higher class and lower caste etcetera."
+    },
+    {
+      "i": 627,
+      "start": 4169.04,
+      "end": 4174.439,
+      "text": "That is appearance and that appearance was not created by"
+    },
+    {
+      "i": 628,
+      "start": 4174.439,
+      "end": 4176.96,
+      "text": "you. Therefore you cannot change it."
+    },
+    {
+      "i": 629,
+      "start": 4177.6,
+      "end": 4182.52,
+      "text": "It is the avidya which is making it appear as different because,"
+    },
+    {
+      "i": 630,
+      "start": 4182.52,
+      "end": 4186.72,
+      "text": "because when we do not know the reality of the the fundamental"
+    },
+    {
+      "i": 631,
+      "start": 4186.72,
+      "end": 4192.08,
+      "text": "reality, the avidya will make the body transact with this"
+    },
+    {
+      "i": 632,
+      "start": 4192.08,
+      "end": 4196.88,
+      "text": "thing. Even our body is part of that"
+    },
+    {
+      "i": 633,
+      "start": 4196.88,
+      "end": 4199.24,
+      "text": "avidya. We are not the body."
+    },
+    {
+      "i": 634,
+      "start": 4201.28,
+      "end": 4208.88,
+      "text": "When the samatum in the mind happens, we will be detached"
+    },
+    {
+      "i": 635,
+      "start": 4208.88,
+      "end": 4214.64,
+      "text": "even from the mind and to established in the Brahman."
+    },
+    {
+      "i": 636,
+      "start": 4214.72,
+      "end": 4219.72,
+      "text": "That is why Samyamanaha, sitammanaha, brahmani sitaha."
+    },
+    {
+      "i": 637,
+      "start": 4219.84,
+      "end": 4223.84,
+      "text": "These are the 2 words where he is very categorically."
+    },
+    {
+      "i": 638,
+      "start": 4223.88,
+      "end": 4229.6,
+      "text": "Only when the mind is established in the equanimity or"
+    },
+    {
+      "i": 639,
+      "start": 4229.6,
+      "end": 4236.56,
+      "text": "the Samadharshitam, one can really establish himself in the"
+    },
+    {
+      "i": 640,
+      "start": 4236.56,
+      "end": 4243.12,
+      "text": "Brahmi city. As long as the mind treats the"
+    },
+    {
+      "i": 641,
+      "start": 4243.12,
+      "end": 4247.12,
+      "text": "diversity. We are not in the Brahmi city."
+    },
+    {
+      "i": 642,
+      "start": 4248.96,
+      "end": 4253.52,
+      "text": "So the mind is the place where this knowledge has to happen."
+    },
+    {
+      "i": 643,
+      "start": 4253.92,
+      "end": 4259.0,
+      "text": "That is why the knowledge at the mental level to bring the"
+    },
+    {
+      "i": 644,
+      "start": 4259.04,
+      "end": 4266.44,
+      "text": "equanimity is the reason why the IHA and no that it has to happen"
+    },
+    {
+      "i": 645,
+      "start": 4266.44,
+      "end": 4269.28,
+      "text": "here and now. It can happen because the mind"
+    },
+    {
+      "i": 646,
+      "start": 4269.28,
+      "end": 4273.76,
+      "text": "is here and now, in the here and now is in the mind that will go"
+    },
+    {
+      "i": 647,
+      "start": 4273.76,
+      "end": 4277.08,
+      "text": "when it is, you know, eradicated."
+    },
+    {
+      "i": 648,
+      "start": 4277.08,
+      "end": 4281.96,
+      "text": "Of the Avidya Jain, only the samatum of the mind will take"
+    },
+    {
+      "i": 649,
+      "start": 4281.96,
+      "end": 4284.4,
+      "text": "place. And the samatum, the mind is the"
+    },
+    {
+      "i": 650,
+      "start": 4284.4,
+      "end": 4290.56,
+      "text": "one which is the same as that that of Nirdhosam Sama, of the"
+    },
+    {
+      "i": 651,
+      "start": 4290.84,
+      "end": 4293.04,
+      "text": "Abrahman, which is the Brahmastithi."
+    },
+    {
+      "i": 652,
+      "start": 4293.68,
+      "end": 4296.88,
+      "text": "So all those things have to be connected and seen together."
+    },
+    {
+      "i": 653,
+      "start": 4297.52,
+      "end": 4301.44,
+      "text": "That empirical world operations are not."
+    },
+    {
+      "i": 654,
+      "start": 4301.44,
+      "end": 4304.4,
+      "text": "You are operating or I am not operating."
+    },
+    {
+      "i": 655,
+      "start": 4305.2,
+      "end": 4306.96,
+      "text": "It is the body which is operating."
+    },
+    {
+      "i": 656,
+      "start": 4306.96,
+      "end": 4310.68,
+      "text": "It will operate the way it is. But the moment we identify that"
+    },
+    {
+      "i": 657,
+      "start": 4310.68,
+      "end": 4314.76,
+      "text": "I am the body, then your mind is not established in Brahman."
+    },
+    {
+      "i": 658,
+      "start": 4317.6,
+      "end": 4319.72,
+      "text": "I think this is this is awesome, awesome."
+    },
+    {
+      "i": 659,
+      "start": 4320.84,
+      "end": 4323.12,
+      "text": "You took this example of a Goldsmith."
+    },
+    {
+      "i": 660,
+      "start": 4323.16,
+      "end": 4327.28,
+      "text": "I think that is an awesome example that you know, Goldsmith"
+    },
+    {
+      "i": 661,
+      "start": 4327.8,
+      "end": 4331.2,
+      "text": "is fixated on gold. That's his, you know, that's"
+    },
+    {
+      "i": 662,
+      "start": 4331.2,
+      "end": 4337.0,
+      "text": "from equivalent, yes. And that transactionally, you"
+    },
+    {
+      "i": 663,
+      "start": 4337.0,
+      "end": 4341.32,
+      "text": "know, Samatwa is there, that Dharma Darshitatwa is there"
+    },
+    {
+      "i": 664,
+      "start": 4341.32,
+      "end": 4347.12,
+      "text": "because he is not taking sides. He's not cheating a customer"
+    },
+    {
+      "i": 665,
+      "start": 4348.0,
+      "end": 4350.92,
+      "text": "with the wrong mix. No, because that that Dharma"
+    },
+    {
+      "i": 666,
+      "start": 4350.92,
+      "end": 4355.44,
+      "text": "Dharma is functionally because Malina Tatwa, the, the dosha"
+    },
+    {
+      "i": 667,
+      "start": 4355.44,
+      "end": 4358.68,
+      "text": "won't happen because he's established in Dharma, yes."
+    },
+    {
+      "i": 668,
+      "start": 4360.64,
+      "end": 4365.08,
+      "text": "So that is where the, the you know, Dharma Dharma Viveka is"
+    },
+    {
+      "i": 669,
+      "start": 4365.08,
+      "end": 4375.48,
+      "text": "inherent because he's not taking sides or he has no take away"
+    },
+    {
+      "i": 670,
+      "start": 4375.48,
+      "end": 4378.4,
+      "text": "from that because it's just a Goldsmith role that are getting"
+    },
+    {
+      "i": 671,
+      "start": 4378.4,
+      "end": 4381.72,
+      "text": "played. So Dharma Dharma is already"
+    },
+    {
+      "i": 672,
+      "start": 4381.72,
+      "end": 4384.64,
+      "text": "there. The Samatwa is resort which you"
+    },
+    {
+      "i": 673,
+      "start": 4384.64,
+      "end": 4392.92,
+      "text": "know the launch won't happen then Vastu Vastu Viveka is just"
+    },
+    {
+      "i": 674,
+      "start": 4392.92,
+      "end": 4398.0,
+      "text": "functional role play. Same thing with us."
+    },
+    {
+      "i": 675,
+      "start": 4398.04,
+      "end": 4404.48,
+      "text": "Also it is the same thing. We just as a Goldsmith is a role"
+    },
+    {
+      "i": 676,
+      "start": 4405.6,
+      "end": 4411.04,
+      "text": "from the truth of gold, he is a player who has to transact with"
+    },
+    {
+      "i": 677,
+      "start": 4411.04,
+      "end": 4415.56,
+      "text": "gold. The Goldsmith, he has to"
+    },
+    {
+      "i": 678,
+      "start": 4415.56,
+      "end": 4416.96,
+      "text": "transact with gold. So he."
+    },
+    {
+      "i": 679,
+      "start": 4416.96,
+      "end": 4419.32,
+      "text": "Transacts with the diversity of the ornaments."
+    },
+    {
+      "i": 680,
+      "start": 4420.64,
+      "end": 4427.8,
+      "text": "We are Brahman and in place of Goldsmith we are the human being"
+    },
+    {
+      "i": 681,
+      "start": 4429.32,
+      "end": 4434.16,
+      "text": "and as a human being we transact with the world with the"
+    },
+    {
+      "i": 682,
+      "start": 4434.16,
+      "end": 4439.6,
+      "text": "multiplicity or the diversity. But we should not forget that"
+    },
+    {
+      "i": 683,
+      "start": 4440.2,
+      "end": 4445.72,
+      "text": "what is Brahman is the same Brahman in every diversity in"
+    },
+    {
+      "i": 684,
+      "start": 4445.72,
+      "end": 4448.08,
+      "text": "the transaction as a human being also."
+    },
+    {
+      "i": 685,
+      "start": 4454.23,
+      "end": 4459.31,
+      "text": "Perfect Benaji, this, this is that that form name and form"
+    },
+    {
+      "i": 686,
+      "start": 4460.07,
+      "end": 4463.8,
+      "text": "because the moment you know, waking up to the appearance,"
+    },
+    {
+      "i": 687,
+      "start": 4463.8,
+      "end": 4467.52,
+      "text": "waking up to them using that waking up to the appearance is"
+    },
+    {
+      "i": 688,
+      "start": 4467.96,
+      "end": 4473.08,
+      "text": "simply just that the power of powering what is powering the"
+    },
+    {
+      "i": 689,
+      "start": 4473.08,
+      "end": 4476.12,
+      "text": "appearance itself is powering everything."
+    },
+    {
+      "i": 690,
+      "start": 4476.2,
+      "end": 4480.16,
+      "text": "Yes, that's it. That's."
+    },
+    {
+      "i": 691,
+      "start": 4480.84,
+      "end": 4486.64,
+      "text": "It hence that is appearance beautiful."
+    },
+    {
+      "i": 692,
+      "start": 4486.84,
+      "end": 4488.8,
+      "text": "I think you know. Thanks for navigating."
+    },
+    {
+      "i": 693,
+      "start": 4489.84,
+      "end": 4493.28,
+      "text": "You know this this this sort of sums up a lot that darshi tatva"
+    },
+    {
+      "i": 694,
+      "start": 4493.28,
+      "end": 4500.56,
+      "text": "is is is sum total. Yeah, thank you, Venkat."
+    },
+    {
+      "i": 695,
+      "start": 4502.96,
+      "end": 4507.12,
+      "text": "Namaste, Revathi. Namaste Vindaji."
+    },
+    {
+      "i": 696,
+      "start": 4508.36,
+      "end": 4515.32,
+      "text": "I came here to thank you and beautiful Manana and this is"
+    },
+    {
+      "i": 697,
+      "start": 4515.32,
+      "end": 4520.16,
+      "text": "very helpful for Manana even for Nananista also."
+    },
+    {
+      "i": 698,
+      "start": 4520.4,
+      "end": 4528.48,
+      "text": "Navendra J Yes, these verses and this is the final conclusion for"
+    },
+    {
+      "i": 699,
+      "start": 4528.48,
+      "end": 4534.76,
+      "text": "Sarva Karmani Manasas Sanyasate Sukamoshi for for him this is"
+    },
+    {
+      "i": 700,
+      "start": 4534.76,
+      "end": 4537.72,
+      "text": "the final. Absolutely."
+    },
+    {
+      "i": 701,
+      "start": 4538.04,
+      "end": 4549.52,
+      "text": "And and I I thought I understood that when that Nani no Amani"
+    },
+    {
+      "i": 702,
+      "start": 4549.52,
+      "end": 4555.68,
+      "text": "Bhava is there and he already in conquered the Indrias and all"
+    },
+    {
+      "i": 703,
+      "start": 4555.68,
+      "end": 4562.52,
+      "text": "those, then the what we see how he should be is there for the"
+    },
+    {
+      "i": 704,
+      "start": 4562.52,
+      "end": 4567.28,
+      "text": "other people. He he doesn't think how I should"
+    },
+    {
+      "i": 705,
+      "start": 4567.28,
+      "end": 4570.32,
+      "text": "be because there is no I and Vavara for him."
+    },
+    {
+      "i": 706,
+      "start": 4571.16,
+      "end": 4574.88,
+      "text": "So he is he is already sorted for himself."
+    },
+    {
+      "i": 707,
+      "start": 4575.04,
+      "end": 4579.68,
+      "text": "But we people thinking that how he is there, how he will do"
+    },
+    {
+      "i": 708,
+      "start": 4579.72,
+      "end": 4588.72,
+      "text": "Vavara for we people who are yes, thank you and thank you for"
+    },
+    {
+      "i": 709,
+      "start": 4588.76,
+      "end": 4590.6,
+      "text": "all this because. Thank you, David."
+    },
+    {
+      "i": 710,
+      "start": 4591.08,
+      "end": 4596.4,
+      "text": "Thank you, David. Prakash, you received your"
+    },
+    {
+      "i": 711,
+      "start": 4596.4,
+      "end": 4601.36,
+      "text": "question yesterday. Yes, a lot of the questions were"
+    },
+    {
+      "i": 712,
+      "start": 4601.36,
+      "end": 4604.84,
+      "text": "solved, Pindarji, even including the discussions, you know."
+    },
+    {
+      "i": 713,
+      "start": 4605.56,
+      "end": 4611.52,
+      "text": "So Samar Darshana, one point that I like you to go deeper"
+    },
+    {
+      "i": 714,
+      "start": 4611.52,
+      "end": 4620.4,
+      "text": "into is so in the Vaharika you have Namarupa and the and the"
+    },
+    {
+      "i": 715,
+      "start": 4620.44,
+      "end": 4625.12,
+      "text": "agency which is caught up in the vrittis, right?"
+    },
+    {
+      "i": 716,
+      "start": 4625.52,
+      "end": 4632.64,
+      "text": "So once this equanimity is reaching fruition, the namarupa"
+    },
+    {
+      "i": 717,
+      "start": 4632.64,
+      "end": 4635.6,
+      "text": "simply is removed of the agency, right Binduji?"
+    },
+    {
+      "i": 718,
+      "start": 4636.64,
+      "end": 4640.64,
+      "text": "Namarupa appearances are not taken real."
+    },
+    {
+      "i": 719,
+      "start": 4640.64,
+      "end": 4641.68,
+      "text": "It is not. Removed."
+    },
+    {
+      "i": 720,
+      "start": 4643.56,
+      "end": 4648.96,
+      "text": "It is called Bhadita Anivrithi in the sense that the reality"
+    },
+    {
+      "i": 721,
+      "start": 4648.96,
+      "end": 4655.88,
+      "text": "which we gave to them now will be seen like the example of the"
+    },
+    {
+      "i": 722,
+      "start": 4655.88,
+      "end": 4659.76,
+      "text": "Goldsmith which I told Pravabanket."
+    },
+    {
+      "i": 723,
+      "start": 4659.76,
+      "end": 4666.36,
+      "text": "You know the Goldsmith knows the reality is gold, but the"
+    },
+    {
+      "i": 724,
+      "start": 4666.36,
+      "end": 4670.64,
+      "text": "difference in that example is that the Goldsmith does not know"
+    },
+    {
+      "i": 725,
+      "start": 4670.64,
+      "end": 4675.08,
+      "text": "that he is also gold. That is, there is a difference"
+    },
+    {
+      "i": 726,
+      "start": 4675.08,
+      "end": 4676.88,
+      "text": "in that example particular problem."
+    },
+    {
+      "i": 727,
+      "start": 4676.88,
+      "end": 4681.0,
+      "text": "There is a short coming in that example, but his knowledge about"
+    },
+    {
+      "i": 728,
+      "start": 4681.0,
+      "end": 4685.32,
+      "text": "gold and transactions of gold is established in the gold."
+    },
+    {
+      "i": 729,
+      "start": 4686.0,
+      "end": 4692.24,
+      "text": "Same way here assuming that we are transacting with Brahman at"
+    },
+    {
+      "i": 730,
+      "start": 4692.24,
+      "end": 4696.32,
+      "text": "the reality, our body is not reality, our body in place of"
+    },
+    {
+      "i": 731,
+      "start": 4696.32,
+      "end": 4701.36,
+      "text": "our body, it is Brahman, the individuality which we are"
+    },
+    {
+      "i": 732,
+      "start": 4701.36,
+      "end": 4708.88,
+      "text": "holding. As I cannot be separate from"
+    },
+    {
+      "i": 733,
+      "start": 4708.88,
+      "end": 4712.96,
+      "text": "Brahman, if you hold it the separate from Brahman, it will"
+    },
+    {
+      "i": 734,
+      "start": 4712.96,
+      "end": 4716.96,
+      "text": "be like the Goldsmith holding gold separate and he separate"
+    },
+    {
+      "i": 735,
+      "start": 4716.96,
+      "end": 4721.52,
+      "text": "from gold. That is where the difference"
+    },
+    {
+      "i": 736,
+      "start": 4722.68,
+      "end": 4728.28,
+      "text": "will be difficult for us to, you know, intellectually transact or"
+    },
+    {
+      "i": 737,
+      "start": 4728.28,
+      "end": 4731.16,
+      "text": "transmit a trans, what you call transcend."
+    },
+    {
+      "i": 738,
+      "start": 4732.32,
+      "end": 4738.52,
+      "text": "We need to transcend our identification of the eye as"
+    },
+    {
+      "i": 739,
+      "start": 4738.52,
+      "end": 4743.96,
+      "text": "Brahman and then as Brahman when we are transacting in the"
+    },
+    {
+      "i": 740,
+      "start": 4743.96,
+      "end": 4749.6,
+      "text": "empirical world. It is we are transacting Brahman"
+    },
+    {
+      "i": 741,
+      "start": 4749.6,
+      "end": 4754.4,
+      "text": "itself as elephant, cow, Brahmana, Chanda, alive or"
+    },
+    {
+      "i": 742,
+      "start": 4754.4,
+      "end": 4756.72,
+      "text": "everything what we interact with the world."
+    },
+    {
+      "i": 743,
+      "start": 4758.52,
+      "end": 4762.12,
+      "text": "They let them have name and form, let them have differences."
+    },
+    {
+      "i": 744,
+      "start": 4762.56,
+      "end": 4765.48,
+      "text": "The transactions are possible with them."
+    },
+    {
+      "i": 745,
+      "start": 4766.52,
+      "end": 4770.36,
+      "text": "What stops you from transacting if an elephant is Brahman?"
+    },
+    {
+      "i": 746,
+      "start": 4770.92,
+      "end": 4776.08,
+      "text": "No elephant is elephant. Transact with elephant but know"
+    },
+    {
+      "i": 747,
+      "start": 4776.08,
+      "end": 4781.04,
+      "text": "the elephant as Brahman but don't think that it is Brahman."
+    },
+    {
+      "i": 748,
+      "start": 4781.04,
+      "end": 4782.88,
+      "text": "I am Brahman. So there is no difference"
+    },
+    {
+      "i": 749,
+      "start": 4782.88,
+      "end": 4788.92,
+      "text": "between elephant and you. No you are a human being Form as"
+    },
+    {
+      "i": 750,
+      "start": 4788.92,
+      "end": 4792.52,
+      "text": "Brahman in the form of Brahman, Brahman in the form of human"
+    },
+    {
+      "i": 751,
+      "start": 4792.52,
+      "end": 4795.36,
+      "text": "being a Brahman in the form of elephant."
+    },
+    {
+      "i": 752,
+      "start": 4795.52,
+      "end": 4799.68,
+      "text": "Both are have got different functions to perform."
+    },
+    {
+      "i": 753,
+      "start": 4801.0,
+      "end": 4804.76,
+      "text": "That empirically performing functions may will be apparently"
+    },
+    {
+      "i": 754,
+      "start": 4804.76,
+      "end": 4810.16,
+      "text": "different, but fundamentally where is all this happening?"
+    },
+    {
+      "i": 755,
+      "start": 4811.96,
+      "end": 4816.64,
+      "text": "That is why the 7th case, Saptami or locative cases have"
+    },
+    {
+      "i": 756,
+      "start": 4816.64,
+      "end": 4821.52,
+      "text": "been used. Bramane, Gevi, Hastini, Sunni,"
+    },
+    {
+      "i": 757,
+      "start": 4821.6,
+      "end": 4828.8,
+      "text": "Chopake, all these places. In them the reality is Brahman,"
+    },
+    {
+      "i": 758,
+      "start": 4829.2,
+      "end": 4834.88,
+      "text": "not they are Brahman. The elephant is not Brahman, but"
+    },
+    {
+      "i": 759,
+      "start": 4835.16,
+      "end": 4839.44,
+      "text": "the reality of Brahman is in which the elephant is appearing."
+    },
+    {
+      "i": 760,
+      "start": 4841.44,
+      "end": 4847.76,
+      "text": "The reality of a dog is not the dog, but it is in the Brahman"
+    },
+    {
+      "i": 761,
+      "start": 4847.76,
+      "end": 4849.84,
+      "text": "that the dog is appearing as dog."
+    },
+    {
+      "i": 762,
+      "start": 4851.56,
+      "end": 4856.2,
+      "text": "When we know that, replace this with space."
+    },
+    {
+      "i": 763,
+      "start": 4858.44,
+      "end": 4863.2,
+      "text": "You are depend upon space for your own existence."
+    },
+    {
+      "i": 764,
+      "start": 4863.32,
+      "end": 4867.0,
+      "text": "Same way everything else in this world is depend upon space for"
+    },
+    {
+      "i": 765,
+      "start": 4867.0,
+      "end": 4871.8,
+      "text": "existence. Even if you destroy 1, you"
+    },
+    {
+      "i": 766,
+      "start": 4871.8,
+      "end": 4877.28,
+      "text": "cannot take it out of the space. That is why Arjuna has been told"
+    },
+    {
+      "i": 767,
+      "start": 4877.28,
+      "end": 4884.88,
+      "text": "by Krishna to do the to do the the war because."
+    },
+    {
+      "i": 768,
+      "start": 4885.6,
+      "end": 4888.72,
+      "text": "You. Cannot take anything out of"
+    },
+    {
+      "i": 769,
+      "start": 4888.72,
+      "end": 4891.16,
+      "text": "Brahman or bring anything new into Brahman."
+    },
+    {
+      "i": 770,
+      "start": 4892.6,
+      "end": 4895.8,
+      "text": "Something like how it cannot be brought into space or taken out"
+    },
+    {
+      "i": 771,
+      "start": 4895.8,
+      "end": 4899.88,
+      "text": "of space. But we don't have mental"
+    },
+    {
+      "i": 772,
+      "start": 4900.72,
+      "end": 4904.04,
+      "text": "equanimity to know. Forget about Brahman."
+    },
+    {
+      "i": 773,
+      "start": 4904.6,
+      "end": 4906.96,
+      "text": "Let that, well, let us leave that word Brahman."
+    },
+    {
+      "i": 774,
+      "start": 4907.64,
+      "end": 4916.32,
+      "text": "Even assuming that the space is the reality, can we identify"
+    },
+    {
+      "i": 775,
+      "start": 4916.32,
+      "end": 4920.04,
+      "text": "that I am not the individual, but I am the space which is now"
+    },
+    {
+      "i": 776,
+      "start": 4920.04,
+      "end": 4922.56,
+      "text": "occupying the shape of a human being?"
+    },
+    {
+      "i": 777,
+      "start": 4925.2,
+      "end": 4930.92,
+      "text": "Even if you do that, that will solve the problems of"
+    },
+    {
+      "i": 778,
+      "start": 4931.36,
+      "end": 4934.44,
+      "text": "differentiating things other than me."
+    },
+    {
+      "i": 779,
+      "start": 4936.88,
+      "end": 4938.96,
+      "text": "Let the Upanishad talk about Brahman."
+    },
+    {
+      "i": 780,
+      "start": 4939.12,
+      "end": 4947.24,
+      "text": "I say it is space. That space is if you look at"
+    },
+    {
+      "i": 781,
+      "start": 4947.24,
+      "end": 4952.2,
+      "text": "from that point of view also, why are we differentiating"
+    },
+    {
+      "i": 782,
+      "start": 4952.2,
+      "end": 4957.44,
+      "text": "between space and space? Now if you want to go one level"
+    },
+    {
+      "i": 783,
+      "start": 4957.44,
+      "end": 4962.44,
+      "text": "finer, let us know that it is consciousness or awareness."
+    },
+    {
+      "i": 784,
+      "start": 4964.28,
+      "end": 4967.4,
+      "text": "One thing which you and I cannot deny is that we are conscious"
+    },
+    {
+      "i": 785,
+      "start": 4967.4,
+      "end": 4969.96,
+      "text": "and we are aware even if we are not space."
+    },
+    {
+      "i": 786,
+      "start": 4970.24,
+      "end": 4973.12,
+      "text": "We cannot identify with space because we don't know what is"
+    },
+    {
+      "i": 787,
+      "start": 4973.12,
+      "end": 4976.08,
+      "text": "space. But at least consciousness wise,"
+    },
+    {
+      "i": 788,
+      "start": 4976.08,
+      "end": 4977.68,
+      "text": "we know that we are consciousness."
+    },
+    {
+      "i": 789,
+      "start": 4977.68,
+      "end": 4981.92,
+      "text": "In the awareness. And everything which you know, I"
+    },
+    {
+      "i": 790,
+      "start": 4981.92,
+      "end": 4985.96,
+      "text": "know, or everyone which is interacting is because the"
+    },
+    {
+      "i": 791,
+      "start": 4985.96,
+      "end": 4990.2,
+      "text": "knowledge that it is conscious, it is in within awareness or"
+    },
+    {
+      "i": 792,
+      "start": 4990.2,
+      "end": 4993.4,
+      "text": "within consciousness, it is, it is present."
+    },
+    {
+      "i": 793,
+      "start": 4993.4,
+      "end": 4996.12,
+      "text": "Then therefore only the transactions are taking place."
+    },
+    {
+      "i": 794,
+      "start": 4997.36,
+      "end": 5002.2,
+      "text": "So from all these points, when we look at it, where can there"
+    },
+    {
+      "i": 795,
+      "start": 5002.2,
+      "end": 5009.16,
+      "text": "be a differentiation in reality? It is only due to our ignorance"
+    },
+    {
+      "i": 796,
+      "start": 5009.16,
+      "end": 5012.84,
+      "text": "of space, consciousness, Brahman or anything like that."
+    },
+    {
+      "i": 797,
+      "start": 5013.96,
+      "end": 5019.48,
+      "text": "When we do not take the reality into consideration, the"
+    },
+    {
+      "i": 798,
+      "start": 5019.48,
+      "end": 5024.92,
+      "text": "differentiation appears as real. The only way to is that the"
+    },
+    {
+      "i": 799,
+      "start": 5025.2,
+      "end": 5027.84,
+      "text": "mind. Should."
+    },
+    {
+      "i": 800,
+      "start": 5028.04,
+      "end": 5031.44,
+      "text": "Anchor on something which can equate with everything."
+    },
+    {
+      "i": 801,
+      "start": 5033.16,
+      "end": 5035.76,
+      "text": "Whether it is space, consciousness or Brahman does"
+    },
+    {
+      "i": 802,
+      "start": 5035.76,
+      "end": 5041.04,
+      "text": "not make a difference if the mind can equate in the"
+    },
+    {
+      "i": 803,
+      "start": 5041.64,
+      "end": 5045.92,
+      "text": "samatthum. That is why Samatthum yoga Vidya"
+    },
+    {
+      "i": 804,
+      "start": 5045.96,
+      "end": 5054.0,
+      "text": "Krishna says that that equanimity and that equanimity,"
+    },
+    {
+      "i": 805,
+      "start": 5054.0,
+      "end": 5063.28,
+      "text": "when we see in our mind that we are all out of the same reality,"
+    },
+    {
+      "i": 806,
+      "start": 5065.56,
+      "end": 5069.72,
+      "text": "then we do not start differentiating, dealing with"
+    },
+    {
+      "i": 807,
+      "start": 5070.0,
+      "end": 5074.76,
+      "text": "things with a feeling of higherness, lower, higher,"
+    },
+    {
+      "i": 808,
+      "start": 5074.76,
+      "end": 5076.24,
+      "text": "lower. Good."
+    },
+    {
+      "i": 809,
+      "start": 5076.24,
+      "end": 5080.32,
+      "text": "Bad. This duality, when it is gone,"
+    },
+    {
+      "i": 810,
+      "start": 5080.68,
+      "end": 5083.64,
+      "text": "that is what is the Pandita Samadhar Sinha or"
+    },
+    {
+      "i": 811,
+      "start": 5084.12,
+      "end": 5088.6,
+      "text": "Siddhapratnaya, Sugaduke Samigar Tuwala, Balabao, Jaya, Jayao,"
+    },
+    {
+      "i": 812,
+      "start": 5088.72,
+      "end": 5092.36,
+      "text": "all those things are talking Only about that at the mental"
+    },
+    {
+      "i": 813,
+      "start": 5092.36,
+      "end": 5099.96,
+      "text": "level we should have the equanimity or the knowledge that"
+    },
+    {
+      "i": 814,
+      "start": 5099.96,
+      "end": 5102.24,
+      "text": "everything is out of the same reality."
+    },
+    {
+      "i": 815,
+      "start": 5112.28,
+      "end": 5117.56,
+      "text": "Thank you very much, Mindoji. Lot of different directions,"
+    },
+    {
+      "i": 816,
+      "start": 5117.64,
+      "end": 5120.0,
+      "text": "same thing you've done there Swaranamanana."
+    },
+    {
+      "i": 817,
+      "start": 5120.04,
+      "end": 5125.08,
+      "text": "So I'm going to listen to it again and deepen the that"
+    },
+    {
+      "i": 818,
+      "start": 5125.08,
+      "end": 5128.24,
+      "text": "aspect. Thank you very much."
+    },
+    {
+      "i": 819,
+      "start": 5130.76,
+      "end": 5131.88,
+      "text": "Thank you. We can."
+    },
+    {
+      "i": 820,
+      "start": 5132.84,
+      "end": 5136.96,
+      "text": "We can close. Yes, let's close the room."
+    },
+    {
+      "i": 821,
+      "start": 5137.6,
+      "end": 5146.08,
+      "text": "So we will continue next coming Tuesday, 6:30 AM IST with the"
+    },
+    {
+      "i": 822,
+      "start": 5146.08,
+      "end": 5148.68,
+      "text": "room number 30. In the meantime, the replays are"
+    },
+    {
+      "i": 823,
+      "start": 5148.68,
+      "end": 5155.04,
+      "text": "available for doing this. You can access them in Clubhouse"
+    },
+    {
+      "i": 824,
+      "start": 5155.04,
+      "end": 5157.8,
+      "text": "or you can go to the Advaitha Retold YouTube channel."
+    },
+    {
+      "i": 825,
+      "start": 5157.8,
+      "end": 5160.8,
+      "text": "There are a couple of other links from Apple and Spotify."
+    },
+    {
+      "i": 826,
+      "start": 5162.44,
+      "end": 5167.8,
+      "text": "And as always, a big thank you to Binduji and for Venkatji and"
+    },
+    {
+      "i": 827,
+      "start": 5167.8,
+      "end": 5172.64,
+      "text": "Revathiji for attending. Over to you Binduji, to close"
+    },
+    {
+      "i": 828,
+      "start": 5172.64,
+      "end": 5174.44,
+      "text": "the room. Thank you, Prakash."
+    },
+    {
+      "i": 829,
+      "start": 5174.68,
+      "end": 5177.48,
+      "text": "Thank you, Venkat. Thank you, Revathi for your"
+    },
+    {
+      "i": 830,
+      "start": 5177.84,
+      "end": 5181.16,
+      "text": "questions. We will meet on Tuesday."
+    },
+    {
+      "i": 831,
+      "start": 5181.16,
+      "end": 5186.68,
+      "text": "As Prakash said Sunday, your question answer sessions are"
+    },
+    {
+      "i": 832,
+      "start": 5186.68,
+      "end": 5189.6,
+      "text": "open house. I am listening, reading the I am"
+    },
+    {
+      "i": 833,
+      "start": 5189.6,
+      "end": 5195.96,
+      "text": "listening the entire the open house and interacting directly"
+    },
+    {
+      "i": 834,
+      "start": 5195.96,
+      "end": 5200.12,
+      "text": "with the individuals wherever I need to because I am not going"
+    },
+    {
+      "i": 835,
+      "start": 5200.12,
+      "end": 5203.12,
+      "text": "to come to the open house because of my timing."
+    },
+    {
+      "i": 836,
+      "start": 5203.56,
+      "end": 5207.16,
+      "text": "But if I need to communicate some correction I need to give"
+    },
+    {
+      "i": 837,
+      "start": 5207.16,
+      "end": 5213.64,
+      "text": "to Yash, Yash or Prakash or Nadir or anybody for that"
+    },
+    {
+      "i": 838,
+      "start": 5213.64,
+      "end": 5216.68,
+      "text": "matter, I will do that on directly one-on-one basis."
+    },
+    {
+      "i": 839,
+      "start": 5218.28,
+      "end": 5223.56,
+      "text": "So I am present there, but not contributing."
+    },
+    {
+      "i": 840,
+      "start": 5223.56,
+      "end": 5226.84,
+      "text": "That's all. We'll see you again on Tuesday."
+    },
+    {
+      "i": 841,
+      "start": 5227.08,
+      "end": 5229.24,
+      "text": "Thank you. Have a good day."
+    },
+    {
+      "i": 842,
+      "start": 5233.0,
+      "end": 5233.6,
+      "text": "Have a good day."
+    }
+  ]
+}

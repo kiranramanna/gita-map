@@ -1,0 +1,5389 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "58acfc0a-ab2e-4c01-88d6-33958661d202",
+  "source_sha256": "c8e7dc2ddc740b91970f9c8d56db743e29cb4f4139133609aa34cc0a4a1de1ea",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.04,
+      "end": 3.6,
+      "text": "Namaste everyone, welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 4.4,
+      "end": 9.24,
+      "text": "The ongoing sessions are on Bhagwat Geeta from an Advaita"
+    },
+    {
+      "i": 3,
+      "start": 9.24,
+      "end": 13.16,
+      "text": "perspective which Bindodi has been meticulously offering in"
+    },
+    {
+      "i": 4,
+      "start": 13.16,
+      "end": 17.48,
+      "text": "clubhouse and now the focus is on Bhagwat Geeta via on Chapter"
+    },
+    {
+      "i": 5,
+      "start": 17.48,
+      "end": 20.8,
+      "text": "4. The replays for the previous"
+    },
+    {
+      "i": 6,
+      "start": 20.8,
+      "end": 24.44,
+      "text": "rooms are all available. You can access them in Clubhouse"
+    },
+    {
+      "i": 7,
+      "start": 24.44,
+      "end": 27.16,
+      "text": "or you can go to the YouTube channel shared in the chat."
+    },
+    {
+      "i": 8,
+      "start": 27.16,
+      "end": 30.72,
+      "text": "It's called Advaita Retold where you'll find them in a well"
+    },
+    {
+      "i": 9,
+      "start": 30.72,
+      "end": 35.04,
+      "text": "catalog series, the recent Bhagwat Gita, The Upper Option,"
+    },
+    {
+      "i": 10,
+      "start": 35.04,
+      "end": 39.8,
+      "text": "Abu the Upanishads and some other earlier talks including US"
+    },
+    {
+      "i": 11,
+      "start": 39.8,
+      "end": 44.04,
+      "text": "Impromptu Satsang which was held in Vinodji's space."
+    },
+    {
+      "i": 12,
+      "start": 45.76,
+      "end": 48.76,
+      "text": "There is also a book that has been published titled The"
+    },
+    {
+      "i": 13,
+      "start": 48.76,
+      "end": 53.08,
+      "text": "Imaginary Dough where Artemisia, which is a collection of"
+    },
+    {
+      "i": 14,
+      "start": 53.08,
+      "end": 57.32,
+      "text": "insights which guides the students towards the clarity of"
+    },
+    {
+      "i": 15,
+      "start": 57.44,
+      "end": 62.16,
+      "text": "the path in Advaita. For housekeeping, I'm going to"
+    },
+    {
+      "i": 16,
+      "start": 62.16,
+      "end": 65.36,
+      "text": "close the chat and hand raising when Bindoji is offering the"
+    },
+    {
+      "i": 17,
+      "start": 65.36,
+      "end": 68.88,
+      "text": "class, after which we'll open up those channels for any"
+    },
+    {
+      "i": 18,
+      "start": 68.88,
+      "end": 71.04,
+      "text": "clarifications or discussion points."
+    },
+    {
+      "i": 19,
+      "start": 72.6,
+      "end": 74.52,
+      "text": "As always, thank you Bindoji, over to you."
+    },
+    {
+      "i": 20,
+      "start": 76.32,
+      "end": 80.96,
+      "text": "Thank you Prakash, Namaste and Harium to all of you my"
+    },
+    {
+      "i": 21,
+      "start": 80.96,
+      "end": 103.36,
+      "text": "invocations. Shruti Smriti Purana Namami"
+    },
+    {
+      "i": 22,
+      "start": 103.36,
+      "end": 108.52,
+      "text": "Bhagavat Padam Shankaram Shankaram."
+    },
+    {
+      "i": 23,
+      "start": 114.08,
+      "end": 128.52,
+      "text": "Shankaram, Shankaram. Yam"
+    },
+    {
+      "i": 24,
+      "start": 143.68,
+      "end": 177.04,
+      "text": "Brahma. The previous verse 28 listed out"
+    },
+    {
+      "i": 25,
+      "start": 177.04,
+      "end": 181.76,
+      "text": "all the five types of yatnyas, yatnya, tapa, yatnya, yoga,"
+    },
+    {
+      "i": 26,
+      "start": 182.64,
+      "end": 189.28,
+      "text": "swadhyaya and pyanam, establishing a spectrum of"
+    },
+    {
+      "i": 27,
+      "start": 189.28,
+      "end": 196.2,
+      "text": "sincere sadhana as yeknam. From this verse and the next"
+    },
+    {
+      "i": 28,
+      "start": 196.2,
+      "end": 204.72,
+      "text": "verse, Krishna is descending to the most intimate physiological"
+    },
+    {
+      "i": 29,
+      "start": 204.72,
+      "end": 213.64,
+      "text": "level of Vietnam, a ecnya or an offering of the vital breath"
+    },
+    {
+      "i": 30,
+      "start": 213.68,
+      "end": 226.4,
+      "text": "itself, which is depicted and can be used as a ecnya."
+    },
+    {
+      "i": 31,
+      "start": 230.04,
+      "end": 238.36,
+      "text": "And when this is the most intimate and psychological"
+    },
+    {
+      "i": 32,
+      "start": 238.36,
+      "end": 245.48,
+      "text": "level, the fundamental and the continuous activity of a living"
+    },
+    {
+      "i": 33,
+      "start": 246.44,
+      "end": 253.4,
+      "text": "Organism becomes a living yetnia itself."
+    },
+    {
+      "i": 34,
+      "start": 257.6,
+      "end": 263.48,
+      "text": "And two practices which are mentioned in this first verse 29"
+    },
+    {
+      "i": 35,
+      "start": 264.32,
+      "end": 268.0,
+      "text": "is prana into apana and apana into prana."
+    },
+    {
+      "i": 36,
+      "start": 270.4,
+      "end": 278.56,
+      "text": "But then using these two, there is 1/3 etnya which is called the"
+    },
+    {
+      "i": 37,
+      "start": 278.56,
+      "end": 290.75,
+      "text": "prana yama yetna. It is the most automatic, most"
+    },
+    {
+      "i": 38,
+      "start": 290.75,
+      "end": 298.4,
+      "text": "involuntary level of existence for a living being called"
+    },
+    {
+      "i": 39,
+      "start": 298.4,
+      "end": 306.04,
+      "text": "breathing, if even the breath which occurs without volition,"
+    },
+    {
+      "i": 40,
+      "start": 307.64,
+      "end": 312.52,
+      "text": "which continues all the time from the time we are born,"
+    },
+    {
+      "i": 41,
+      "start": 314.64,
+      "end": 318.76,
+      "text": "continues even during deep sleep, waking, dream and"
+    },
+    {
+      "i": 42,
+      "start": 318.76,
+      "end": 322.16,
+      "text": "throughout all our activity unabated."
+    },
+    {
+      "i": 43,
+      "start": 325.24,
+      "end": 330.56,
+      "text": "Therefore, this Ecnya is a perpetual ecnya."
+    },
+    {
+      "i": 44,
+      "start": 335.72,
+      "end": 341.72,
+      "text": "The central Ecnya Vistara are the full range of with Ecnya"
+    },
+    {
+      "i": 45,
+      "start": 343.08,
+      "end": 346.44,
+      "text": "claim is fully established when we included in this one."
+    },
+    {
+      "i": 46,
+      "start": 346.44,
+      "end": 353.08,
+      "text": "Also no level of existence, no domain activity, no moment of"
+    },
+    {
+      "i": 47,
+      "start": 353.08,
+      "end": 356.12,
+      "text": "life is outside the framework of Ecnya."
+    },
+    {
+      "i": 48,
+      "start": 358.96,
+      "end": 370.56,
+      "text": "So here the Ecnya of Krana and Apana is the most involuntary"
+    },
+    {
+      "i": 49,
+      "start": 370.56,
+      "end": 376.4,
+      "text": "Ecnya 1 can do. But when it happens without"
+    },
+    {
+      "i": 50,
+      "start": 376.4,
+      "end": 380.16,
+      "text": "attention, it doesn't become a ebonya."
+    },
+    {
+      "i": 51,
+      "start": 381.56,
+      "end": 389.72,
+      "text": "Otherwise it would have been an unknown ebonya which we are"
+    },
+    {
+      "i": 52,
+      "start": 389.72,
+      "end": 393.88,
+      "text": "doing by without being consciously doing it."
+    },
+    {
+      "i": 53,
+      "start": 396.56,
+      "end": 401.04,
+      "text": "Let us look how Krishna and Sankarajarya's commentaries are"
+    },
+    {
+      "i": 54,
+      "start": 402.84,
+      "end": 405.88,
+      "text": "unwinding the mystery of this Ebonya."
+    },
+    {
+      "i": 55,
+      "start": 408.08,
+      "end": 416.52,
+      "text": "Appane Jhuaji pranam pranay apanam sadapare prana, pana gati"
+    },
+    {
+      "i": 56,
+      "start": 416.52,
+      "end": 427.2,
+      "text": "ruddua prana, yama Parayana Prana and apana are the pair of"
+    },
+    {
+      "i": 57,
+      "start": 427.6,
+      "end": 430.08,
+      "text": "prana in the sense primary Pranikaar."
+    },
+    {
+      "i": 58,
+      "start": 432.2,
+      "end": 437.12,
+      "text": "Prana is the inward moving force or upward moving force"
+    },
+    {
+      "i": 59,
+      "start": 437.96,
+      "end": 445.44,
+      "text": "associated with the inhalation, the intake of breath, the force"
+    },
+    {
+      "i": 60,
+      "start": 445.44,
+      "end": 451.2,
+      "text": "that draws in and sustains at the physiological level the"
+    },
+    {
+      "i": 61,
+      "start": 451.2,
+      "end": 455.84,
+      "text": "inhalation and the upward moving, all vital functions of"
+    },
+    {
+      "i": 62,
+      "start": 455.84,
+      "end": 463.76,
+      "text": "the body, and is supposed to be primarily residing in the region"
+    },
+    {
+      "i": 63,
+      "start": 463.76,
+      "end": 468.12,
+      "text": "of the heart or the chest, central part of the chest, not"
+    },
+    {
+      "i": 64,
+      "start": 468.12,
+      "end": 472.16,
+      "text": "the heart per SE between the two lungs."
+    },
+    {
+      "i": 65,
+      "start": 474.28,
+      "end": 479.24,
+      "text": "Then there is this apana which is the opposite of prana, an"
+    },
+    {
+      "i": 66,
+      "start": 479.24,
+      "end": 482.6,
+      "text": "outward moving force or a downward moving force."
+    },
+    {
+      "i": 67,
+      "start": 484.24,
+      "end": 488.36,
+      "text": "It is associated with the exhalation, elimination, the"
+    },
+    {
+      "i": 68,
+      "start": 488.36,
+      "end": 495.52,
+      "text": "force that expels and releases from the body and"
+    },
+    {
+      "i": 69,
+      "start": 495.52,
+      "end": 500.56,
+      "text": "physiologically the exhalation and the downward moving vital"
+    },
+    {
+      "i": 70,
+      "start": 500.56,
+      "end": 503.96,
+      "text": "functions which are related in the body."
+    },
+    {
+      "i": 71,
+      "start": 505.88,
+      "end": 511.24,
+      "text": "Here this resides in the region of the lower abdomen at the"
+    },
+    {
+      "i": 72,
+      "start": 511.24,
+      "end": 516.6,
+      "text": "pelvic floor. So when we cough, when we"
+    },
+    {
+      "i": 73,
+      "start": 516.6,
+      "end": 522.64,
+      "text": "sneeze, when we breathe out, the pressure is built from the that"
+    },
+    {
+      "i": 74,
+      "start": 522.679,
+      "end": 531.32,
+      "text": "lower abdomen region, whereas when we take breath inside, it"
+    },
+    {
+      "i": 75,
+      "start": 531.32,
+      "end": 539.08,
+      "text": "is the the thoracic region which is expanding to take the to take"
+    },
+    {
+      "i": 76,
+      "start": 539.08,
+      "end": 544.48,
+      "text": "the air in. These two are the continuous"
+    },
+    {
+      "i": 77,
+      "start": 544.48,
+      "end": 551.6,
+      "text": "dynamic tension of two forces. The living Organism is sustained"
+    },
+    {
+      "i": 78,
+      "start": 551.6,
+      "end": 558.04,
+      "text": "by their rhythmic alternation, inhalation and exhalation, prana"
+    },
+    {
+      "i": 79,
+      "start": 558.04,
+      "end": 565.56,
+      "text": "and apana in a continuous cycle. This alternation between the two"
+    },
+    {
+      "i": 80,
+      "start": 565.92,
+      "end": 573.24,
+      "text": "is the most fundamental rhythm of life itself, preceding all"
+    },
+    {
+      "i": 81,
+      "start": 573.24,
+      "end": 577.52,
+      "text": "voluntary activity underlying all other bodily functions."
+    },
+    {
+      "i": 82,
+      "start": 581.0,
+      "end": 586.92,
+      "text": "So having understood what is prana and what is apana, Krishna"
+    },
+    {
+      "i": 83,
+      "start": 586.92,
+      "end": 596.04,
+      "text": "says the first yetnya is offering prana into apana Apana"
+    },
+    {
+      "i": 84,
+      "start": 596.08,
+      "end": 602.12,
+      "text": "jihvadi prana. They offer prana into the apana"
+    },
+    {
+      "i": 85,
+      "start": 604.24,
+      "end": 609.08,
+      "text": "at the physiological level. At the end of inhalation prana,"
+    },
+    {
+      "i": 86,
+      "start": 609.72,
+      "end": 614.16,
+      "text": "the inward force is released into the exhalation."
+    },
+    {
+      "i": 87,
+      "start": 615.2,
+      "end": 621.64,
+      "text": "The inhalation turns around becomes Exhalation is treated as"
+    },
+    {
+      "i": 88,
+      "start": 622.24,
+      "end": 629.72,
+      "text": "The inhalation is an offering into the fire of exhalation."
+    },
+    {
+      "i": 89,
+      "start": 632.08,
+      "end": 636.6,
+      "text": "So prana is offered or surrendered into apana."
+    },
+    {
+      "i": 90,
+      "start": 638.84,
+      "end": 645.68,
+      "text": "In the technical term this is called the puraka in inhalation"
+    },
+    {
+      "i": 91,
+      "start": 647.8,
+      "end": 651.36,
+      "text": "and it is completed and surrendered into the rechaka."
+    },
+    {
+      "i": 92,
+      "start": 651.52,
+      "end": 656.92,
+      "text": "Rechaka is the exhalation. So the act of taking in"
+    },
+    {
+      "i": 93,
+      "start": 656.92,
+      "end": 663.04,
+      "text": "inhalation what is the vital force is called prana."
+    },
+    {
+      "i": 94,
+      "start": 664.0,
+      "end": 670.28,
+      "text": "But the process is called puraka and the opposite of that, the"
+    },
+    {
+      "i": 95,
+      "start": 670.28,
+      "end": 676.52,
+      "text": "vital force which is thrown out is called apana and the action"
+    },
+    {
+      "i": 96,
+      "start": 676.52,
+      "end": 685.28,
+      "text": "is called rechaka. So Puraka and rechaka, a natural"
+    },
+    {
+      "i": 97,
+      "start": 685.28,
+      "end": 690.96,
+      "text": "offering that occurs within every breath which pranayama"
+    },
+    {
+      "i": 98,
+      "start": 690.96,
+      "end": 697.36,
+      "text": "practitioner makes a conscious and deliberate transformation"
+    },
+    {
+      "i": 99,
+      "start": 697.4,
+      "end": 703.28,
+      "text": "into Etnya. So the pranayama parayana one"
+    },
+    {
+      "i": 100,
+      "start": 703.28,
+      "end": 707.4,
+      "text": "who are those people who are doing etnya on prana?"
+    },
+    {
+      "i": 101,
+      "start": 709.24,
+      "end": 717.56,
+      "text": "They do it as a conscious and deliberate activity of prana"
+    },
+    {
+      "i": 102,
+      "start": 717.56,
+      "end": 722.92,
+      "text": "being offered into apana and apana being offered into prana,"
+    },
+    {
+      "i": 103,
+      "start": 724.56,
+      "end": 733.6,
+      "text": "both as the offering of outward tenting vital force into the"
+    },
+    {
+      "i": 104,
+      "start": 733.6,
+      "end": 737.56,
+      "text": "downward tenting force. A deliberate dissolution of the"
+    },
+    {
+      "i": 105,
+      "start": 737.56,
+      "end": 743.96,
+      "text": "pranic hierarchy in which more active, less sustaining force,"
+    },
+    {
+      "i": 106,
+      "start": 743.96,
+      "end": 748.36,
+      "text": "which is the prana and which is associated with the resistant"
+    },
+    {
+      "i": 107,
+      "start": 748.36,
+      "end": 757.4,
+      "text": "vitality, is offered into a more grounded releasing force, which"
+    },
+    {
+      "i": 108,
+      "start": 757.4,
+      "end": 762.36,
+      "text": "is the apana, and apana is associated with the Thomas and"
+    },
+    {
+      "i": 109,
+      "start": 762.36,
+      "end": 768.44,
+      "text": "the release. This is a echnya of dynamic"
+    },
+    {
+      "i": 110,
+      "start": 768.44,
+      "end": 773.44,
+      "text": "relinquishment, a life force offering itself into"
+    },
+    {
+      "i": 111,
+      "start": 773.44,
+      "end": 779.8,
+      "text": "dissolution. This being the first ethna."
+    },
+    {
+      "i": 112,
+      "start": 780.92,
+      "end": 785.08,
+      "text": "The reverse ethna or the second ethna is the offering apana into"
+    },
+    {
+      "i": 113,
+      "start": 785.08,
+      "end": 791.32,
+      "text": "prana. Prani apanam tada apare, the"
+    },
+    {
+      "i": 114,
+      "start": 791.32,
+      "end": 796.52,
+      "text": "others offer apana into prana. So there are the cycle at the"
+    },
+    {
+      "i": 115,
+      "start": 796.52,
+      "end": 800.96,
+      "text": "physiological level, the end at the end of the exhalation."
+    },
+    {
+      "i": 116,
+      "start": 801.24,
+      "end": 806.4,
+      "text": "That means after you have completely breath out, your"
+    },
+    {
+      "i": 117,
+      "start": 806.4,
+      "end": 810.04,
+      "text": "breathing out is complete, outward force is released into"
+    },
+    {
+      "i": 118,
+      "start": 810.64,
+      "end": 817.84,
+      "text": "the outside, inhalation starts. So there apana is offered to the"
+    },
+    {
+      "i": 119,
+      "start": 817.84,
+      "end": 825.16,
+      "text": "prana and this is the rechaka. When the apana is offered into"
+    },
+    {
+      "i": 120,
+      "start": 825.16,
+      "end": 832.2,
+      "text": "the prana, that is Rechaka is now surrendered into Puraka."
+    },
+    {
+      "i": 121,
+      "start": 832.76,
+      "end": 844.04,
+      "text": "That is the reverse movement of the first yagna and as per the"
+    },
+    {
+      "i": 122,
+      "start": 844.24,
+      "end": 853.68,
+      "text": "theory, the prana vital force and the apana vital force is"
+    },
+    {
+      "i": 123,
+      "start": 854.36,
+      "end": 864.04,
+      "text": "surrounding our body by a foot or a 12 inches from the body."
+    },
+    {
+      "i": 124,
+      "start": 865.72,
+      "end": 869.04,
+      "text": "So the vital energy is surrounding us like an aura,"
+    },
+    {
+      "i": 125,
+      "start": 869.44,
+      "end": 874.16,
+      "text": "like an aura around the body. It is not only the through the"
+    },
+    {
+      "i": 126,
+      "start": 874.16,
+      "end": 879.92,
+      "text": "nose, but it is also energy is there around us."
+    },
+    {
+      "i": 127,
+      "start": 882.96,
+      "end": 884.72,
+      "text": "But here they do not talk about it."
+    },
+    {
+      "i": 128,
+      "start": 884.76,
+      "end": 889.04,
+      "text": "In this aspect, it is more into the yogic practice."
+    },
+    {
+      "i": 129,
+      "start": 890.44,
+      "end": 893.92,
+      "text": "The two Ecnas together constitute a complete chronic"
+    },
+    {
+      "i": 130,
+      "start": 893.92,
+      "end": 896.48,
+      "text": "cycle. Inhalation surrendered to"
+    },
+    {
+      "i": 131,
+      "start": 896.48,
+      "end": 899.64,
+      "text": "exhalation and exhalation surrendered to inhalation."
+    },
+    {
+      "i": 132,
+      "start": 902.32,
+      "end": 910.0,
+      "text": "When both movements are made conscious as Ecnya, the entire"
+    },
+    {
+      "i": 133,
+      "start": 910.0,
+      "end": 918.88,
+      "text": "breathing process becomes a continuous offering and it will"
+    },
+    {
+      "i": 134,
+      "start": 918.88,
+      "end": 926.52,
+      "text": "become a Brahma ekna of breath, where prana and apana mutually"
+    },
+    {
+      "i": 135,
+      "start": 926.52,
+      "end": 931.2,
+      "text": "offer themselves into each other in the fire of the other,"
+    },
+    {
+      "i": 136,
+      "start": 932.2,
+      "end": 935.72,
+      "text": "constituting an unbroken yetna of vital energy."
+    },
+    {
+      "i": 137,
+      "start": 938.32,
+      "end": 940.52,
+      "text": "Why it is becoming a Brahma Eknya?"
+    },
+    {
+      "i": 138,
+      "start": 941.72,
+      "end": 943.44,
+      "text": "Because there is nothing outside Brahma."
+    },
+    {
+      "i": 139,
+      "start": 947.36,
+      "end": 956.4,
+      "text": "Now there is 1/3 eknya which you can do with these two which are"
+    },
+    {
+      "i": 140,
+      "start": 956.4,
+      "end": 959.96,
+      "text": "being done by pranayama. Parayana mean the third practice"
+    },
+    {
+      "i": 141,
+      "start": 959.96,
+      "end": 967.96,
+      "text": "or those who are into a deeper practice, Rana apana gadi."
+    },
+    {
+      "i": 142,
+      "start": 967.96,
+      "end": 977.32,
+      "text": "Ruddua gadi means movement. Rana apana means the breathing"
+    },
+    {
+      "i": 143,
+      "start": 977.56,
+      "end": 983.0,
+      "text": "in and breathing out. The word ruddua means by"
+    },
+    {
+      "i": 144,
+      "start": 983.24,
+      "end": 990.32,
+      "text": "retention or by prohibition. Having restrained the movements"
+    },
+    {
+      "i": 145,
+      "start": 990.32,
+      "end": 999.72,
+      "text": "of prana and apana indicates that pair the prior act of"
+    },
+    {
+      "i": 146,
+      "start": 999.72,
+      "end": 1003.6,
+      "text": "restraint that makes pranayama possible."
+    },
+    {
+      "i": 147,
+      "start": 1004.56,
+      "end": 1009.08,
+      "text": "Both the upward movement of pranagati and the downward"
+    },
+    {
+      "i": 148,
+      "start": 1009.08,
+      "end": 1012.8,
+      "text": "movement of Papanagathi are arrested."
+    },
+    {
+      "i": 149,
+      "start": 1016.88,
+      "end": 1019.4,
+      "text": "The breath is held in suspension."
+    },
+    {
+      "i": 150,
+      "start": 1021.6,
+      "end": 1026.119,
+      "text": "People they they those who practice, they practice with a"
+    },
+    {
+      "i": 151,
+      "start": 1026.119,
+      "end": 1029.839,
+      "text": "smaller time possible and they keep on increasing it."
+    },
+    {
+      "i": 152,
+      "start": 1031.48,
+      "end": 1034.76,
+      "text": "Some people do it by holding it in inside."
+    },
+    {
+      "i": 153,
+      "start": 1035.24,
+      "end": 1040.44,
+      "text": "That is, those people who are offering prana into apana hold"
+    },
+    {
+      "i": 154,
+      "start": 1040.44,
+      "end": 1046.16,
+      "text": "it inside, and those who are offering apana into prana are"
+    },
+    {
+      "i": 155,
+      "start": 1046.16,
+      "end": 1052.6,
+      "text": "the people offering in, breathing out and holding the"
+    },
+    {
+      "i": 156,
+      "start": 1052.6,
+      "end": 1060.16,
+      "text": "air out without breathing in. This restraint of Roth prana and"
+    },
+    {
+      "i": 157,
+      "start": 1060.16,
+      "end": 1065.0,
+      "text": "apana constitutes the heart of pranayama."
+    },
+    {
+      "i": 158,
+      "start": 1066.36,
+      "end": 1071.4,
+      "text": "Not merely slowing or regulation of breath, but it is complete"
+    },
+    {
+      "i": 159,
+      "start": 1071.44,
+      "end": 1077.04,
+      "text": "temporary arrest at the point where both directional forces"
+    },
+    {
+      "i": 160,
+      "start": 1077.04,
+      "end": 1083.4,
+      "text": "have simultaneously neutralized. In this state, neither"
+    },
+    {
+      "i": 161,
+      "start": 1083.4,
+      "end": 1086.48,
+      "text": "inhalation nor exhalation occurs."
+    },
+    {
+      "i": 162,
+      "start": 1089.08,
+      "end": 1094.96,
+      "text": "The pranic Organism enters in a condition of pranic stillness"
+    },
+    {
+      "i": 163,
+      "start": 1096.08,
+      "end": 1100.56,
+      "text": "analogous to the mental stillness of a nirvikalpa"
+    },
+    {
+      "i": 164,
+      "start": 1100.56,
+      "end": 1105.72,
+      "text": "samadhi. So this pranayama parayana,"
+    },
+    {
+      "i": 165,
+      "start": 1105.88,
+      "end": 1111.0,
+      "text": "those who are into the deep pranayama, practicing"
+    },
+    {
+      "i": 166,
+      "start": 1111.0,
+      "end": 1117.76,
+      "text": "restriction, dedicated or absorbed into the pranayama or"
+    },
+    {
+      "i": 167,
+      "start": 1117.76,
+      "end": 1123.04,
+      "text": "supremely devoted, making this one's highest refuge or"
+    },
+    {
+      "i": 168,
+      "start": 1123.04,
+      "end": 1128.88,
+      "text": "practice, not as mere practitioners of pranayama as"
+    },
+    {
+      "i": 169,
+      "start": 1128.88,
+      "end": 1132.56,
+      "text": "the technique 1 technique from the many, but those who have"
+    },
+    {
+      "i": 170,
+      "start": 1132.56,
+      "end": 1139.44,
+      "text": "made pranayama their primary sadhana as a ecnya."
+    },
+    {
+      "i": 171,
+      "start": 1145.99,
+      "end": 1151.51,
+      "text": "The three ascending levels of understanding from the"
+    },
+    {
+      "i": 172,
+      "start": 1151.51,
+      "end": 1156.47,
+      "text": "physiological level through the psychological level of advaitic"
+    },
+    {
+      "i": 173,
+      "start": 1157.83,
+      "end": 1164.83,
+      "text": "methods have been addressed by Sankarajagya at the level 1."
+    },
+    {
+      "i": 174,
+      "start": 1165.15,
+      "end": 1174.36,
+      "text": "It is a physiological pranayama as a Vedic ecnya, the pranayama"
+    },
+    {
+      "i": 175,
+      "start": 1174.36,
+      "end": 1181.16,
+      "text": "firmly in a Vedic precedent. This is Prana Agnihotra, what is"
+    },
+    {
+      "i": 176,
+      "start": 1181.16,
+      "end": 1185.08,
+      "text": "called the detailed description. Those who want can look in"
+    },
+    {
+      "i": 177,
+      "start": 1185.08,
+      "end": 1189.96,
+      "text": "Chandogya Upanishad's 5th chapter 19 to 24th verse."
+    },
+    {
+      "i": 178,
+      "start": 1191.48,
+      "end": 1199.04,
+      "text": "The Upanishad talks about this as a ekhya is a upasana there in"
+    },
+    {
+      "i": 179,
+      "start": 1199.04,
+      "end": 1204.36,
+      "text": "which each act of eating is understood."
+    },
+    {
+      "i": 180,
+      "start": 1205.56,
+      "end": 1209.04,
+      "text": "Eating means the prana is considered as an eating,"
+    },
+    {
+      "i": 181,
+      "start": 1210.24,
+      "end": 1213.32,
+      "text": "understood as a eknya offered into the pranas."
+    },
+    {
+      "i": 182,
+      "start": 1214.68,
+      "end": 1224.72,
+      "text": "That is, the prana is a air which is being fed into the"
+    },
+    {
+      "i": 183,
+      "start": 1224.72,
+      "end": 1228.56,
+      "text": "agni, prana, agni. The Prana Fire."
+    },
+    {
+      "i": 184,
+      "start": 1230.2,
+      "end": 1235.16,
+      "text": "In this ancient Upanishadic framework, the ordinary acts of"
+    },
+    {
+      "i": 185,
+      "start": 1235.16,
+      "end": 1239.48,
+      "text": "breathing and eating are almost already cosmic acne."
+    },
+    {
+      "i": 186,
+      "start": 1240.76,
+      "end": 1246.0,
+      "text": "The pranas are sacred fires into which the ovulation of food,"
+    },
+    {
+      "i": 187,
+      "start": 1246.0,
+      "end": 1252.56,
+      "text": "etc. And breath also is offered."
+    },
+    {
+      "i": 188,
+      "start": 1255.04,
+      "end": 1259.52,
+      "text": "So the pranayama eknya of this verse is a deliberate systematic"
+    },
+    {
+      "i": 189,
+      "start": 1259.52,
+      "end": 1264.44,
+      "text": "realization of what is occurring spontaneously in every act of"
+    },
+    {
+      "i": 190,
+      "start": 1264.44,
+      "end": 1270.4,
+      "text": "breathing which we are unaware of is now being made into the"
+    },
+    {
+      "i": 191,
+      "start": 1272.08,
+      "end": 1277.84,
+      "text": "unconscious eknya of breath, into a conscious Brahma Eknya."
+    },
+    {
+      "i": 192,
+      "start": 1279.12,
+      "end": 1282.64,
+      "text": "It is a Eknya but we are unconscious about it."
+    },
+    {
+      "i": 193,
+      "start": 1284.56,
+      "end": 1292.04,
+      "text": "Is now converted and made as a conscious Brahma Agne Level 2"
+    },
+    {
+      "i": 194,
+      "start": 1292.36,
+      "end": 1296.12,
+      "text": "Shankaracharya's tales is the Pranayama as a Chittavriti"
+    },
+    {
+      "i": 195,
+      "start": 1296.12,
+      "end": 1304.6,
+      "text": "Neroda Pranik means its well known principles elaborated by"
+    },
+    {
+      "i": 196,
+      "start": 1304.6,
+      "end": 1308.72,
+      "text": "Patanchali in the Yoga Sutra First chapter 34th verse"
+    },
+    {
+      "i": 197,
+      "start": 1310.0,
+      "end": 1319.32,
+      "text": "Pracharda niwa Navidharana bhyam VA Pranasya and also in the"
+    },
+    {
+      "i": 198,
+      "start": 1319.32,
+      "end": 1323.96,
+      "text": "Hathayoga tradition that the breath and the chitta are"
+    },
+    {
+      "i": 199,
+      "start": 1324.0,
+      "end": 1329.24,
+      "text": "intimately linked. Pranachitta samya samya."
+    },
+    {
+      "i": 200,
+      "start": 1330.68,
+      "end": 1334.36,
+      "text": "When the breath is still, the chitta becomes still."
+    },
+    {
+      "i": 201,
+      "start": 1335.12,
+      "end": 1338.48,
+      "text": "When the breath is agitated, the chitta is agitated."
+    },
+    {
+      "i": 202,
+      "start": 1339.32,
+      "end": 1342.56,
+      "text": "We may be able to correlate with that."
+    },
+    {
+      "i": 203,
+      "start": 1343.8,
+      "end": 1349.48,
+      "text": "When we are agitated and angry, we will see that our breath is"
+    },
+    {
+      "i": 204,
+      "start": 1349.48,
+      "end": 1353.32,
+      "text": "also fast and deep. It is not the normal breathing."
+    },
+    {
+      "i": 205,
+      "start": 1354.8,
+      "end": 1358.0,
+      "text": "That is why they say that the breath and the chitta are"
+    },
+    {
+      "i": 206,
+      "start": 1358.0,
+      "end": 1361.56,
+      "text": "connected. The pranayama parayana, those"
+    },
+    {
+      "i": 207,
+      "start": 1361.56,
+      "end": 1366.36,
+      "text": "who are in the deep pranayama process, uses this psychosomatic"
+    },
+    {
+      "i": 208,
+      "start": 1366.36,
+      "end": 1371.64,
+      "text": "correlation as a sadhana by arresting pranic movements,"
+    },
+    {
+      "i": 209,
+      "start": 1373.2,
+      "end": 1377.76,
+      "text": "prana pana gadhi rudhwa. By arresting the movements they"
+    },
+    {
+      "i": 210,
+      "start": 1377.76,
+      "end": 1381.0,
+      "text": "control the chitta or the chittavruti neroda"
+    },
+    {
+      "i": 211,
+      "start": 1383.36,
+      "end": 1385.96,
+      "text": "simultaneously both are getting arrested."
+    },
+    {
+      "i": 212,
+      "start": 1388.8,
+      "end": 1392.44,
+      "text": "The stillness of Kumbhaga. Kumbhaga means retention within"
+    },
+    {
+      "i": 213,
+      "start": 1392.44,
+      "end": 1397.4,
+      "text": "the body is simultaneously the stillness of the under karana."
+    },
+    {
+      "i": 214,
+      "start": 1398.68,
+      "end": 1402.4,
+      "text": "So when the breathing becomes shallower and shallower and it"
+    },
+    {
+      "i": 215,
+      "start": 1402.4,
+      "end": 1409.6,
+      "text": "becomes restrained inside, we will be able to feel that our"
+    },
+    {
+      "i": 216,
+      "start": 1409.6,
+      "end": 1412.96,
+      "text": "thoughts are also becoming lesser and lesser agitated and"
+    },
+    {
+      "i": 217,
+      "start": 1412.96,
+      "end": 1417.84,
+      "text": "calmer and quite. And you can even reach a"
+    },
+    {
+      "i": 218,
+      "start": 1418.44,
+      "end": 1421.24,
+      "text": "nirvikalpa samadhi state in that process."
+    },
+    {
+      "i": 219,
+      "start": 1425.44,
+      "end": 1430.4,
+      "text": "In this sense, the Pranayama Eknya is the form of Yoga eknya,"
+    },
+    {
+      "i": 220,
+      "start": 1433.36,
+      "end": 1436.92,
+      "text": "achieving chittariti nirodha through pranic means rather than"
+    },
+    {
+      "i": 221,
+      "start": 1436.92,
+      "end": 1443.36,
+      "text": "directly directly mental means. The prana is the outer handle of"
+    },
+    {
+      "i": 222,
+      "start": 1443.36,
+      "end": 1447.6,
+      "text": "the andakarana. Therefore, by working with the"
+    },
+    {
+      "i": 223,
+      "start": 1447.6,
+      "end": 1452.72,
+      "text": "breath, these practitioners indirectly but powerfully"
+    },
+    {
+      "i": 224,
+      "start": 1452.72,
+      "end": 1457.6,
+      "text": "purifies and stills the Chittariti in the preparation"
+    },
+    {
+      "i": 225,
+      "start": 1457.76,
+      "end": 1464.36,
+      "text": "for Nyana that in the technical terms of Yoga there are many"
+    },
+    {
+      "i": 226,
+      "start": 1464.36,
+      "end": 1468.04,
+      "text": "terms which are used niridhha etcetera, which I am not"
+    },
+    {
+      "i": 227,
+      "start": 1468.04,
+      "end": 1471.6,
+      "text": "familiar. The third level which"
+    },
+    {
+      "i": 228,
+      "start": 1471.6,
+      "end": 1475.44,
+      "text": "Sangaracharya text tells about the deepest reading as the"
+    },
+    {
+      "i": 229,
+      "start": 1475.44,
+      "end": 1481.88,
+      "text": "Pranayama as Brahmayatna itself. He sees the Prana Yama Yagnya as"
+    },
+    {
+      "i": 230,
+      "start": 1481.88,
+      "end": 1485.48,
+      "text": "the physiological expression of Brahma Karma Samadhi itself."
+    },
+    {
+      "i": 231,
+      "start": 1486.72,
+      "end": 1491.92,
+      "text": "When Prana Apana Gadhi Rudhwa arrested, what does it mean?"
+    },
+    {
+      "i": 232,
+      "start": 1492.68,
+      "end": 1496.56,
+      "text": "What remains? Neither inhalation nor"
+    },
+    {
+      "i": 233,
+      "start": 1496.56,
+      "end": 1500.92,
+      "text": "exhalation, neither upward movement nor downward vital"
+    },
+    {
+      "i": 234,
+      "start": 1500.92,
+      "end": 1504.24,
+      "text": "movement. In the space of Kumbhaga, the"
+    },
+    {
+      "i": 235,
+      "start": 1504.24,
+      "end": 1508.88,
+      "text": "practitioner encounters what Shankaracharya calls as prana's"
+    },
+    {
+      "i": 236,
+      "start": 1508.88,
+      "end": 1515.92,
+      "text": "own ground, the stillness from which all pranic movement arises"
+    },
+    {
+      "i": 237,
+      "start": 1517.12,
+      "end": 1523.68,
+      "text": "and into which it returns. This ground of pranic stillness"
+    },
+    {
+      "i": 238,
+      "start": 1523.68,
+      "end": 1528.6,
+      "text": "is the nyana vasti, the chedasa which has been referred in the"
+    },
+    {
+      "i": 239,
+      "start": 1528.88,
+      "end": 1537.48,
+      "text": "earlier verse, recognizable as Atma's own presence, the akarta"
+    },
+    {
+      "i": 240,
+      "start": 1537.48,
+      "end": 1546.44,
+      "text": "Sakshi, the nondoer Sakshi that witness all pranakarma without"
+    },
+    {
+      "i": 241,
+      "start": 1546.44,
+      "end": 1552.68,
+      "text": "being modified by it. So the Sakshi observes the"
+    },
+    {
+      "i": 242,
+      "start": 1552.68,
+      "end": 1559.6,
+      "text": "Pranakarma is not affected by the prana activity of the"
+    },
+    {
+      "i": 243,
+      "start": 1559.6,
+      "end": 1563.96,
+      "text": "Kumbaka or where the restraining is being there, the practitioner"
+    },
+    {
+      "i": 244,
+      "start": 1563.96,
+      "end": 1569.08,
+      "text": "not only stills the breath but encounters the Brahman that"
+    },
+    {
+      "i": 245,
+      "start": 1569.08,
+      "end": 1573.28,
+      "text": "underlies the breath. Because in the Brahataran"
+    },
+    {
+      "i": 246,
+      "start": 1573.28,
+      "end": 1581.6,
+      "text": "Niyoganishad says that Pranohi Brahma, the prana which is being"
+    },
+    {
+      "i": 247,
+      "start": 1581.6,
+      "end": 1587.92,
+      "text": "referred, is indeed the Brahman that is both the source and"
+    },
+    {
+      "i": 248,
+      "start": 1587.92,
+      "end": 1590.2,
+      "text": "sustenance of all vital activity."
+    },
+    {
+      "i": 249,
+      "start": 1592.72,
+      "end": 1598.08,
+      "text": "Thus the pranayama epnya in its highest form is prana offered"
+    },
+    {
+      "i": 250,
+      "start": 1598.08,
+      "end": 1601.96,
+      "text": "into apana, Apana offered into prana, both arrested in the"
+    },
+    {
+      "i": 251,
+      "start": 1601.96,
+      "end": 1606.4,
+      "text": "Kumbaka. The breath itself dissolves as"
+    },
+    {
+      "i": 252,
+      "start": 1606.4,
+      "end": 1611.56,
+      "text": "an offering into Brahman fire. This is the ultimate ground of"
+    },
+    {
+      "i": 253,
+      "start": 1611.56,
+      "end": 1618.28,
+      "text": "Brahmanahu Brahma, Brahmanahu, Brahmanahuda into the fire of"
+    },
+    {
+      "i": 254,
+      "start": 1618.56,
+      "end": 1622.44,
+      "text": "Brahman. This Brahman by with Brahman"
+    },
+    {
+      "i": 255,
+      "start": 1622.44,
+      "end": 1629.12,
+      "text": "itself is being offered a deeper significance of the breath at"
+    },
+    {
+      "i": 256,
+      "start": 1629.12,
+      "end": 1632.76,
+      "text": "the universal Eknya. Sankaracharya praises the"
+    },
+    {
+      "i": 257,
+      "start": 1632.76,
+      "end": 1639.16,
+      "text": "Pranayama Eknya within the the whole orbit of Eknyavistara"
+    },
+    {
+      "i": 258,
+      "start": 1639.72,
+      "end": 1642.92,
+      "text": "itself is a crucial philosophical argument."
+    },
+    {
+      "i": 259,
+      "start": 1643.32,
+      "end": 1648.2,
+      "text": "He says that the breath is the most democratic of all sadanas."
+    },
+    {
+      "i": 260,
+      "start": 1649.84,
+      "end": 1653.6,
+      "text": "It doesn't require any adigari level."
+    },
+    {
+      "i": 261,
+      "start": 1654.64,
+      "end": 1659.44,
+      "text": "Everyone is breathing, so most democratic of its nature."
+    },
+    {
+      "i": 262,
+      "start": 1660.4,
+      "end": 1665.04,
+      "text": "It requires no external material like dravya or the mat material,"
+    },
+    {
+      "i": 263,
+      "start": 1665.04,
+      "end": 1668.24,
+      "text": "physical material like clarified gear or gain or etcetera."
+    },
+    {
+      "i": 264,
+      "start": 1669.28,
+      "end": 1673.84,
+      "text": "No special environment. You don't need a quiet place or"
+    },
+    {
+      "i": 265,
+      "start": 1673.88,
+      "end": 1677.48,
+      "text": "a yoga place or you know something like that."
+    },
+    {
+      "i": 266,
+      "start": 1677.96,
+      "end": 1683.6,
+      "text": "And there is no elaborate technique for the yet yetna to"
+    },
+    {
+      "i": 267,
+      "start": 1683.6,
+      "end": 1690.52,
+      "text": "be done and there is no scriptural text which need to be"
+    },
+    {
+      "i": 268,
+      "start": 1690.52,
+      "end": 1695.72,
+      "text": "learned for practicing this. So being the most democratic of"
+    },
+    {
+      "i": 269,
+      "start": 1695.72,
+      "end": 1701.4,
+      "text": "all, every living being breeds and therefore every living being"
+    },
+    {
+      "i": 270,
+      "start": 1701.4,
+      "end": 1707.32,
+      "text": "is at every moment of their life is performing a Prana Apana"
+    },
+    {
+      "i": 271,
+      "start": 1707.32,
+      "end": 1711.52,
+      "text": "offering that can be consciously recognized as Etna."
+    },
+    {
+      "i": 272,
+      "start": 1712.52,
+      "end": 1715.48,
+      "text": "But if you are not conscious about it, it is not becoming a"
+    },
+    {
+      "i": 273,
+      "start": 1715.48,
+      "end": 1719.76,
+      "text": "Etna. Therefore, the Prana Yama Etna"
+    },
+    {
+      "i": 274,
+      "start": 1719.76,
+      "end": 1724.6,
+      "text": "thus represent the most universally accessible form of"
+    },
+    {
+      "i": 275,
+      "start": 1724.6,
+      "end": 1727.36,
+      "text": "Etna. It can be done anywhere,"
+    },
+    {
+      "i": 276,
+      "start": 1727.4,
+      "end": 1733.32,
+      "text": "anytime, as well as you can bring in your consciousness,"
+    },
+    {
+      "i": 277,
+      "start": 1733.36,
+      "end": 1738.84,
+      "text": "conscious recognition into it. The recognition that life itself"
+    },
+    {
+      "i": 278,
+      "start": 1739.8,
+      "end": 1745.04,
+      "text": "as breathing is already the eknya which is referred here."
+    },
+    {
+      "i": 279,
+      "start": 1748.8,
+      "end": 1754.92,
+      "text": "The pranayama parayana word who consciously make the breath as a"
+    },
+    {
+      "i": 280,
+      "start": 1754.96,
+      "end": 1760.24,
+      "text": "eknya is simply making explicit what is already happening."
+    },
+    {
+      "i": 281,
+      "start": 1762.64,
+      "end": 1768.24,
+      "text": "The Pranas are always offering themselves into each other in"
+    },
+    {
+      "i": 282,
+      "start": 1768.24,
+      "end": 1775.4,
+      "text": "the cosmic Pranagnihotra. This offering is always already"
+    },
+    {
+      "i": 283,
+      "start": 1775.4,
+      "end": 1782.44,
+      "text": "a Brahmayagnan, but when you bring in the consciousness or"
+    },
+    {
+      "i": 284,
+      "start": 1782.76,
+      "end": 1786.96,
+      "text": "awareness into it, it becomes a nyana vasthitta Jedas."
+    },
+    {
+      "i": 285,
+      "start": 1790.04,
+      "end": 1792.92,
+      "text": "The difference between the ordinary breather and the"
+    },
+    {
+      "i": 286,
+      "start": 1792.92,
+      "end": 1797.52,
+      "text": "pranayama parayana is not the breath itself, but in the"
+    },
+    {
+      "i": 287,
+      "start": 1797.52,
+      "end": 1801.96,
+      "text": "recognition of it. And that recognition is that"
+    },
+    {
+      "i": 288,
+      "start": 1801.96,
+      "end": 1807.76,
+      "text": "nyana deepita, the awareness that transforms the unconscious"
+    },
+    {
+      "i": 289,
+      "start": 1807.76,
+      "end": 1811.96,
+      "text": "breathing into a conscious Brahma yetna."
+    },
+    {
+      "i": 290,
+      "start": 1817.4,
+      "end": 1825.72,
+      "text": "So this is the prana karma which was mentioned in the 27th verse."
+    },
+    {
+      "i": 291,
+      "start": 1827.16,
+      "end": 1832.52,
+      "text": "Yataha Samsrita vrata all indriya karma and prana karma"
+    },
+    {
+      "i": 292,
+      "start": 1832.52,
+      "end": 1839.04,
+      "text": "into the Nanadipita Atma Samyama Yoga Agni worth is that all the"
+    },
+    {
+      "i": 293,
+      "start": 1839.04,
+      "end": 1844.12,
+      "text": "indriya activity and the prana activity was offered into the"
+    },
+    {
+      "i": 294,
+      "start": 1844.12,
+      "end": 1850.08,
+      "text": "fire of yoga, which is were that nyana and atma."
+    },
+    {
+      "i": 295,
+      "start": 1850.48,
+      "end": 1858.16,
+      "text": "The atma kindled by that nyana and that into that as a agni is"
+    },
+    {
+      "i": 296,
+      "start": 1858.2,
+      "end": 1864.12,
+      "text": "what is being offered. Whereas this verse now specifies"
+    },
+    {
+      "i": 297,
+      "start": 1864.12,
+      "end": 1868.16,
+      "text": "how pranakarma is offered through the deliberate eknya of"
+    },
+    {
+      "i": 298,
+      "start": 1868.16,
+      "end": 1874.08,
+      "text": "Rana Yama. Both the verses 27 and 29 are"
+    },
+    {
+      "i": 299,
+      "start": 1874.08,
+      "end": 1879.4,
+      "text": "thus philosophically to be paid and 27 establishes the"
+    },
+    {
+      "i": 300,
+      "start": 1880.04,
+      "end": 1885.32,
+      "text": "comprehensive offering including pranakarma, whereas 29, this"
+    },
+    {
+      "i": 301,
+      "start": 1885.32,
+      "end": 1892.24,
+      "text": "verse shows the specific form of pranakarma Eknya takes in the"
+    },
+    {
+      "i": 302,
+      "start": 1892.24,
+      "end": 1899.12,
+      "text": "pranayama practice. Therefore, this pairing also"
+    },
+    {
+      "i": 303,
+      "start": 1899.12,
+      "end": 1903.76,
+      "text": "confirms the ascending structure of the Eknyavistara from the"
+    },
+    {
+      "i": 304,
+      "start": 1903.76,
+      "end": 1909.28,
+      "text": "comprehensive 27th verse where Indriya and prana together are"
+    },
+    {
+      "i": 305,
+      "start": 1909.28,
+      "end": 1913.92,
+      "text": "being offered two specific prana, Apana specifically for"
+    },
+    {
+      "i": 306,
+      "start": 1913.92,
+      "end": 1921.08,
+      "text": "the pranayama parayana and both surveys broadly and penetrate"
+    },
+    {
+      "i": 307,
+      "start": 1921.08,
+      "end": 1924.2,
+      "text": "specifically into each domain of human activity."
+    },
+    {
+      "i": 308,
+      "start": 1926.4,
+      "end": 1931.92,
+      "text": "The bhasha is like this. Apane apana vrittao juhadi"
+    },
+    {
+      "i": 309,
+      "start": 1932.32,
+      "end": 1937.24,
+      "text": "prathi prakshitadi pranam pranabriti."
+    },
+    {
+      "i": 310,
+      "start": 1938.2,
+      "end": 1943.8,
+      "text": "Some offer the outgoing breath pranabriti into the incoming or"
+    },
+    {
+      "i": 311,
+      "start": 1943.8,
+      "end": 1949.08,
+      "text": "downward or breathing in apanabriti into the downward"
+    },
+    {
+      "i": 312,
+      "start": 1949.08,
+      "end": 1955.76,
+      "text": "breath which is apanabriti Purakhakyam pranayam kuruvanji"
+    },
+    {
+      "i": 313,
+      "start": 1955.76,
+      "end": 1961.08,
+      "text": "tyrtha purakam. Inhalation is the activity by"
+    },
+    {
+      "i": 314,
+      "start": 1961.08,
+      "end": 1966.4,
+      "text": "this pranayama is doing prane apanam tada apare jihadi"
+    },
+    {
+      "i": 315,
+      "start": 1966.76,
+      "end": 1972.88,
+      "text": "likewise the others are offering offer the incoming breath the"
+    },
+    {
+      "i": 316,
+      "start": 1972.88,
+      "end": 1977.6,
+      "text": "apana into the outgoing breath. Prana Rechaka abyam Chapter"
+    },
+    {
+      "i": 317,
+      "start": 1977.6,
+      "end": 1982.0,
+      "text": "Pranayama kurvandi theatre. They are practicing the form of"
+    },
+    {
+      "i": 318,
+      "start": 1982.0,
+      "end": 1987.52,
+      "text": "pranayama called the Rechaka Prana Paana Gati Mukhanasika"
+    },
+    {
+      "i": 319,
+      "start": 1987.6,
+      "end": 1994.32,
+      "text": "byam, Vayo nirgamanam, Pranasika Gati mukhanasika byam through"
+    },
+    {
+      "i": 320,
+      "start": 1994.32,
+      "end": 1998.84,
+      "text": "the mouth and the nose. The movement of vayo ho"
+    },
+    {
+      "i": 321,
+      "start": 1998.84,
+      "end": 2006.04,
+      "text": "nirgamanam, the movement of Vayu or air is what is known as the"
+    },
+    {
+      "i": 322,
+      "start": 2006.04,
+      "end": 2009.44,
+      "text": "path of or the movement of Prana."
+    },
+    {
+      "i": 323,
+      "start": 2013.2,
+      "end": 2018.96,
+      "text": "Sadhvit sadhvipanyayena adogamanam apanasagadi."
+    },
+    {
+      "i": 324,
+      "start": 2019.76,
+      "end": 2024.04,
+      "text": "The opposite movement through the same move mukanasagabyam"
+    },
+    {
+      "i": 325,
+      "start": 2024.6,
+      "end": 2030.48,
+      "text": "towards the inside is called the Apanavriti say prana gayati"
+    },
+    {
+      "i": 326,
+      "start": 2030.56,
+      "end": 2033.88,
+      "text": "prana apana gethi ETA rudhwa nerudya."
+    },
+    {
+      "i": 327,
+      "start": 2034.76,
+      "end": 2038.8,
+      "text": "Those yogis who restrain and arrest both these moments of"
+    },
+    {
+      "i": 328,
+      "start": 2038.8,
+      "end": 2045.28,
+      "text": "prana and apana, Pranayama, parayana, pranayama mataraha."
+    },
+    {
+      "i": 329,
+      "start": 2046.48,
+      "end": 2052.4,
+      "text": "They are wholly devoted into Pranayama kumbakyam, Pranayaman"
+    },
+    {
+      "i": 330,
+      "start": 2052.4,
+      "end": 2056.679,
+      "text": "kurvandi Tyerta. That is they practice the form"
+    },
+    {
+      "i": 331,
+      "start": 2056.679,
+      "end": 2059.44,
+      "text": "of pranayama called Kumbra means retention."
+    },
+    {
+      "i": 332,
+      "start": 2061.159,
+      "end": 2064.84,
+      "text": "Pranayama is a valid jetya because of the IT is disciplined"
+    },
+    {
+      "i": 333,
+      "start": 2064.84,
+      "end": 2069.4,
+      "text": "inward offering of life force useful for purifying and"
+    },
+    {
+      "i": 334,
+      "start": 2069.4,
+      "end": 2074.639,
+      "text": "studying the mind of the seeker. But it is true value lies in"
+    },
+    {
+      "i": 335,
+      "start": 2074.639,
+      "end": 2079.719,
+      "text": "preparing the mind for self knowledge."
+    },
+    {
+      "i": 336,
+      "start": 2084.48,
+      "end": 2088.88,
+      "text": "Now we will move toward the next verse which is the 30th verse."
+    },
+    {
+      "i": 337,
+      "start": 2089.8,
+      "end": 2093.4,
+      "text": "So the 29th verse presented Pranayama Eknya offering prana"
+    },
+    {
+      "i": 338,
+      "start": 2093.4,
+      "end": 2097.24,
+      "text": "into apana, apana into prana and the arresting of both as"
+    },
+    {
+      "i": 339,
+      "start": 2097.24,
+      "end": 2100.2,
+      "text": "kumbaka. Whereas the next verse now"
+    },
+    {
+      "i": 340,
+      "start": 2100.64,
+      "end": 2106.12,
+      "text": "present the final specific Eknya, what is called the"
+    },
+    {
+      "i": 341,
+      "start": 2106.12,
+      "end": 2112.04,
+      "text": "Niyatahara Eknya, offering of the pranas into pranas through"
+    },
+    {
+      "i": 342,
+      "start": 2112.64,
+      "end": 2118.76,
+      "text": "discipline of regulated ET. It is a very, very tricky ET"
+    },
+    {
+      "i": 343,
+      "start": 2118.76,
+      "end": 2123.92,
+      "text": "nya, very interested, very interesting to listen to before"
+    },
+    {
+      "i": 344,
+      "start": 2123.92,
+      "end": 2126.24,
+      "text": "delivering the culmination declaration."
+    },
+    {
+      "i": 345,
+      "start": 2126.72,
+      "end": 2133.28,
+      "text": "Sarve abhi yete etnya vidoho etnya shabita kalmashaha that"
+    },
+    {
+      "i": 346,
+      "start": 2133.76,
+      "end": 2138.52,
+      "text": "seals the entire ET nya vistara starting from the 25th verse"
+    },
+    {
+      "i": 347,
+      "start": 2138.52,
+      "end": 2144.16,
+      "text": "till the 30th verse with a satirological affirmation"
+    },
+    {
+      "i": 348,
+      "start": 2144.16,
+      "end": 2147.24,
+      "text": "applicable to all etnyas is are enumerated."
+    },
+    {
+      "i": 349,
+      "start": 2148.32,
+      "end": 2150.96,
+      "text": "The verse thus performs a double function."
+    },
+    {
+      "i": 350,
+      "start": 2151.84,
+      "end": 2157.12,
+      "text": "It completes the Etnya Vistara specific catalog and"
+    },
+    {
+      "i": 351,
+      "start": 2157.12,
+      "end": 2165.28,
+      "text": "simultaneously universalizes the soteriological promise uniting"
+    },
+    {
+      "i": 352,
+      "start": 2165.28,
+      "end": 2169.48,
+      "text": "all practitioners of all types of Ecnyas under the twin"
+    },
+    {
+      "i": 353,
+      "start": 2170.28,
+      "end": 2176.84,
+      "text": "designation Eknyavidha, the knower of Ecnyas and Eknya"
+    },
+    {
+      "i": 354,
+      "start": 2177.16,
+      "end": 2182.8,
+      "text": "Shabita Kalmashaha, those whose sins Kalmasha means sins or Papa"
+    },
+    {
+      "i": 355,
+      "start": 2183.48,
+      "end": 2187.36,
+      "text": "has been consumed in the act of Eknya."
+    },
+    {
+      "i": 356,
+      "start": 2189.12,
+      "end": 2193.44,
+      "text": "This makes the 30th verse not merely the last verse of the"
+    },
+    {
+      "i": 357,
+      "start": 2193.44,
+      "end": 2197.88,
+      "text": "Itna Vistara, but this philosophical resolution, a"
+    },
+    {
+      "i": 358,
+      "start": 2197.88,
+      "end": 2202.68,
+      "text": "declaration that all roads of sincere Ecnya, however they are"
+    },
+    {
+      "i": 359,
+      "start": 2202.68,
+      "end": 2208.32,
+      "text": "diverse or varied, it is they all lead into the same"
+    },
+    {
+      "i": 360,
+      "start": 2208.56,
+      "end": 2213.28,
+      "text": "destination. So the 30th verse is apare"
+    },
+    {
+      "i": 361,
+      "start": 2213.28,
+      "end": 2220.16,
+      "text": "niyathahara pranan praneshu juhwati sarvepi sarvepi ETA"
+    },
+    {
+      "i": 362,
+      "start": 2220.4,
+      "end": 2223.72,
+      "text": "yetna vitaha yetna shibita kalma shaha."
+    },
+    {
+      "i": 363,
+      "start": 2224.72,
+      "end": 2231.96,
+      "text": "The final yetna is niyatahara, Apare niyatahara that niyatahara"
+    },
+    {
+      "i": 364,
+      "start": 2231.96,
+      "end": 2236.36,
+      "text": "means niyata means to regulate, discipline etcetera."
+    },
+    {
+      "i": 365,
+      "start": 2236.72,
+      "end": 2239.96,
+      "text": "Ahara means food or intake or nourishment."
+    },
+    {
+      "i": 366,
+      "start": 2240.72,
+      "end": 2244.88,
+      "text": "It can be through air, it can be through material food or what is"
+    },
+    {
+      "i": 367,
+      "start": 2244.88,
+      "end": 2250.28,
+      "text": "being eaten, those dysregulated or disciplined food."
+    },
+    {
+      "i": 368,
+      "start": 2250.32,
+      "end": 2254.6,
+      "text": "Food intake, the food means does not mean necessarily what is be"
+    },
+    {
+      "i": 369,
+      "start": 2254.6,
+      "end": 2259.32,
+      "text": "consumed by mouth, by all vital forces."
+    },
+    {
+      "i": 370,
+      "start": 2261.44,
+      "end": 2268.2,
+      "text": "So the discipline eating itself becomes discipline of feeding."
+    },
+    {
+      "i": 371,
+      "start": 2268.2,
+      "end": 2275.12,
+      "text": "The body itself becomes a So niyatahara means regulated"
+    },
+    {
+      "i": 372,
+      "start": 2275.12,
+      "end": 2282.64,
+      "text": "feeding, but the regulation has a specific ecnya, meaning ethnic"
+    },
+    {
+      "i": 373,
+      "start": 2282.64,
+      "end": 2287.4,
+      "text": "meaning. The matter is taken in the"
+    },
+    {
+      "i": 374,
+      "start": 2287.4,
+      "end": 2294.32,
+      "text": "precise measure necessary for maintaining the prana's capacity"
+    },
+    {
+      "i": 375,
+      "start": 2294.32,
+      "end": 2302.48,
+      "text": "for sadhana, neither excess that feeds Thomas and dujas nor"
+    },
+    {
+      "i": 376,
+      "start": 2302.48,
+      "end": 2307.28,
+      "text": "deficiency that weakens the prana required for practice."
+    },
+    {
+      "i": 377,
+      "start": 2308.24,
+      "end": 2313.88,
+      "text": "Therefore, neeta ahara practitioner feeds not for"
+    },
+    {
+      "i": 378,
+      "start": 2313.88,
+      "end": 2322.44,
+      "text": "pleasure rasa aasakti, not from habit mana aasakti, and not for"
+    },
+    {
+      "i": 379,
+      "start": 2322.44,
+      "end": 2329.6,
+      "text": "comfort sukha aasakti, but as a measured offering to sustain the"
+    },
+    {
+      "i": 380,
+      "start": 2329.6,
+      "end": 2332.96,
+      "text": "pranas that are themselves engaged."
+    },
+    {
+      "i": 381,
+      "start": 2333.24,
+      "end": 2341.88,
+      "text": "Continuous eknya pranan pranesh jwati, they offer pranas."
+    },
+    {
+      "i": 382,
+      "start": 2342.0,
+      "end": 2349.08,
+      "text": "Here the pranas is all form of food into pranas, the prana"
+    },
+    {
+      "i": 383,
+      "start": 2349.08,
+      "end": 2354.8,
+      "text": "pranik fire within the body. This is the most philosophically"
+    },
+    {
+      "i": 384,
+      "start": 2354.8,
+      "end": 2362.24,
+      "text": "enigmatic phrase of the verse and receives Sankaracharya's"
+    },
+    {
+      "i": 385,
+      "start": 2362.32,
+      "end": 2366.76,
+      "text": "attention fully. So what does it mean to offer"
+    },
+    {
+      "i": 386,
+      "start": 2366.76,
+      "end": 2371.88,
+      "text": "pranas into pranas? Sankarachetiya gives two"
+    },
+    {
+      "i": 387,
+      "start": 2371.88,
+      "end": 2376.08,
+      "text": "different interpretations, or three interpretation rather"
+    },
+    {
+      "i": 388,
+      "start": 2376.24,
+      "end": 2378.8,
+      "text": "interlocking. Interpret one it is."
+    },
+    {
+      "i": 389,
+      "start": 2378.8,
+      "end": 2380.88,
+      "text": "These are all interlocking with one another."
+    },
+    {
+      "i": 390,
+      "start": 2382.48,
+      "end": 2390.52,
+      "text": "Ahara as prana. The first one food ahara"
+    },
+    {
+      "i": 391,
+      "start": 2390.88,
+      "end": 2397.04,
+      "text": "sustains the prana because in the chando kya upanishad 6th,"
+    },
+    {
+      "i": 392,
+      "start": 2398.4,
+      "end": 2403.92,
+      "text": "7th one and two establish annamayam he soumya manaha."
+    },
+    {
+      "i": 393,
+      "start": 2406.68,
+      "end": 2420.16,
+      "text": "So there Udalaga tells to his son that Annamaya is Soumya son"
+    },
+    {
+      "i": 394,
+      "start": 2420.68,
+      "end": 2423.72,
+      "text": "the mana. And he remember, if you"
+    },
+    {
+      "i": 395,
+      "start": 2423.72,
+      "end": 2427.16,
+      "text": "remember, he gives an experiment to his son."
+    },
+    {
+      "i": 396,
+      "start": 2427.16,
+      "end": 2439.24,
+      "text": "There he asks his son to go on a fasting for 15 days and after 15"
+    },
+    {
+      "i": 397,
+      "start": 2439.24,
+      "end": 2446.64,
+      "text": "days he is asking his son to stand the Rigveda mantras and"
+    },
+    {
+      "i": 398,
+      "start": 2446.64,
+      "end": 2449.16,
+      "text": "son is not able to remember the eggnas."
+    },
+    {
+      "i": 399,
+      "start": 2450.36,
+      "end": 2454.44,
+      "text": "That is the time when he says annamayam he soumya manaha."
+    },
+    {
+      "i": 400,
+      "start": 2455.2,
+      "end": 2459.72,
+      "text": "Because you have not been eating food, therefore your mind is no"
+    },
+    {
+      "i": 401,
+      "start": 2459.72,
+      "end": 2464.72,
+      "text": "more the mind which is fed with food, therefore you are not able"
+    },
+    {
+      "i": 402,
+      "start": 2464.72,
+      "end": 2471.64,
+      "text": "to remember the mantras. So the mind is constituted of"
+    },
+    {
+      "i": 403,
+      "start": 2471.64,
+      "end": 2475.76,
+      "text": "food. Annamayam and Ahara is"
+    },
+    {
+      "i": 404,
+      "start": 2475.76,
+      "end": 2480.2,
+      "text": "identified as the material support for pranas which"
+    },
+    {
+      "i": 405,
+      "start": 2480.2,
+      "end": 2483.16,
+      "text": "maintains the mind. The connection between the mind"
+    },
+    {
+      "i": 406,
+      "start": 2483.16,
+      "end": 2485.56,
+      "text": "and the prana is being established in the previous"
+    },
+    {
+      "i": 407,
+      "start": 2485.56,
+      "end": 2489.48,
+      "text": "verse. Therefore, ahara the gross is"
+    },
+    {
+      "i": 408,
+      "start": 2489.48,
+      "end": 2495.04,
+      "text": "the gross prana. The material form of prana is in"
+    },
+    {
+      "i": 409,
+      "start": 2495.04,
+      "end": 2499.52,
+      "text": "the form of food or the material sustainer of the vital force,"
+    },
+    {
+      "i": 410,
+      "start": 2501.04,
+      "end": 2506.72,
+      "text": "Pranan Pranesh jihwati. The offering of the gross prana,"
+    },
+    {
+      "i": 411,
+      "start": 2507.84,
+      "end": 2512.72,
+      "text": "that is the food as a life sustainer into the subtle pranas"
+    },
+    {
+      "i": 412,
+      "start": 2512.76,
+      "end": 2518.36,
+      "text": "of the vital forces of air within prana, apana, vyana,"
+    },
+    {
+      "i": 413,
+      "start": 2518.36,
+      "end": 2522.48,
+      "text": "udana, samana etcetera. Acknowledging that the food,"
+    },
+    {
+      "i": 414,
+      "start": 2522.84,
+      "end": 2528.08,
+      "text": "when eaten in measured discipline, is not a sensory"
+    },
+    {
+      "i": 415,
+      "start": 2528.08,
+      "end": 2532.96,
+      "text": "indulgence, but it is a yetnia offering."
+    },
+    {
+      "i": 416,
+      "start": 2535.44,
+      "end": 2539.92,
+      "text": "So the gross sustains the subtle, the material feeds the"
+    },
+    {
+      "i": 417,
+      "start": 2539.92,
+      "end": 2546.0,
+      "text": "vital, and this entire transaction is offered as"
+    },
+    {
+      "i": 418,
+      "start": 2546.0,
+      "end": 2549.8,
+      "text": "population, as a havis into the fire of prana."
+    },
+    {
+      "i": 419,
+      "start": 2552.48,
+      "end": 2556.96,
+      "text": "The second interpretation is prana into prana reflexivity."
+    },
+    {
+      "i": 420,
+      "start": 2558.6,
+      "end": 2563.8,
+      "text": "The pranas are offered into themselves, the vital forces"
+    },
+    {
+      "i": 421,
+      "start": 2564.24,
+      "end": 2566.96,
+      "text": "surrendered back into their own ground."
+    },
+    {
+      "i": 422,
+      "start": 2568.12,
+      "end": 2572.2,
+      "text": "Prana prane jikhodi. This is the most reflective,"
+    },
+    {
+      "i": 423,
+      "start": 2572.76,
+      "end": 2575.68,
+      "text": "reflexively non dual interpretation."
+    },
+    {
+      "i": 424,
+      "start": 2577.04,
+      "end": 2582.84,
+      "text": "When the Niyatahara practitioner eats in Yetna spirit, they are"
+    },
+    {
+      "i": 425,
+      "start": 2582.84,
+      "end": 2587.04,
+      "text": "not merely disciplining the intake but dissolving the"
+    },
+    {
+      "i": 426,
+      "start": 2587.04,
+      "end": 2591.52,
+      "text": "distinction between the feeder and the Fed, the sustainer and"
+    },
+    {
+      "i": 427,
+      "start": 2591.52,
+      "end": 2596.44,
+      "text": "the sustained, the pranas feeding themselves Brahman,"
+    },
+    {
+      "i": 428,
+      "start": 2596.44,
+      "end": 2603.12,
+      "text": "sustaining Brahman in the spirit of Etne Naiva Upadhikwadi which"
+    },
+    {
+      "i": 429,
+      "start": 2603.12,
+      "end": 2609.88,
+      "text": "was in the 24th verse and 25th. The regulated meal becomes a"
+    },
+    {
+      "i": 430,
+      "start": 2609.88,
+      "end": 2614.92,
+      "text": "self referential Etnya where the vital forces offer themselves"
+    },
+    {
+      "i": 431,
+      "start": 2614.92,
+      "end": 2623.56,
+      "text": "into the own fire. And then there is the Mahaprana"
+    },
+    {
+      "i": 432,
+      "start": 2623.84,
+      "end": 2630.32,
+      "text": "which is the cosmic prana which we studied in the in the I3"
+    },
+    {
+      "i": 433,
+      "start": 2630.32,
+      "end": 2633.04,
+      "text": "upaneshas. If you if Venkat remembered, he"
+    },
+    {
+      "i": 434,
+      "start": 2633.04,
+      "end": 2636.6,
+      "text": "asked about these things that time that his questions were"
+    },
+    {
+      "i": 435,
+      "start": 2636.6,
+      "end": 2640.16,
+      "text": "based on this. The individual pranas, prana,"
+    },
+    {
+      "i": 436,
+      "start": 2640.16,
+      "end": 2645.32,
+      "text": "apana, samana, udana, vyana are offered into the universal"
+    },
+    {
+      "i": 437,
+      "start": 2645.32,
+      "end": 2649.88,
+      "text": "prana, that is the Mahaprana, the cosmic vital force."
+    },
+    {
+      "i": 438,
+      "start": 2650.92,
+      "end": 2654.44,
+      "text": "Because in the Brahadharan Upaneshat it is said pranohi"
+    },
+    {
+      "i": 439,
+      "start": 2654.44,
+      "end": 2660.24,
+      "text": "Brahma, the prana as Brahman. This is the most cosmically"
+    },
+    {
+      "i": 440,
+      "start": 2660.24,
+      "end": 2663.96,
+      "text": "oriented reading. The individual vitality"
+    },
+    {
+      "i": 441,
+      "start": 2663.96,
+      "end": 2667.76,
+      "text": "activity, individual vital activity offered into the"
+    },
+    {
+      "i": 442,
+      "start": 2667.76,
+      "end": 2670.28,
+      "text": "universal prana, that is Brahman."
+    },
+    {
+      "i": 443,
+      "start": 2672.08,
+      "end": 2676.52,
+      "text": "It is called the Mahapranagnihotra which is"
+    },
+    {
+      "i": 444,
+      "start": 2677.12,
+      "end": 2682.04,
+      "text": "detailed in the Chandogi Upanishad. 5th chapter 19 to 24"
+    },
+    {
+      "i": 445,
+      "start": 2682.04,
+      "end": 2684.8,
+      "text": "words describes as the fundamental cosmic."
+    },
+    {
+      "i": 446,
+      "start": 2685.88,
+      "end": 2690.08,
+      "text": "So it is Upanishadic approved this Pranayama."
+    },
+    {
+      "i": 447,
+      "start": 2691.6,
+      "end": 2695.2,
+      "text": "All the three interpretations share a common advaitic"
+    },
+    {
+      "i": 448,
+      "start": 2695.2,
+      "end": 2699.48,
+      "text": "structure. The Niyatha Ahara discipline"
+    },
+    {
+      "i": 449,
+      "start": 2700.96,
+      "end": 2705.72,
+      "text": "transforms the most ordinary, most unavoidable act of"
+    },
+    {
+      "i": 450,
+      "start": 2705.72,
+      "end": 2714.72,
+      "text": "sustaining the body or feeding it into a cosmic Etna, in which"
+    },
+    {
+      "i": 451,
+      "start": 2715.28,
+      "end": 2718.88,
+      "text": "the boundaries between the individual vital forces and"
+    },
+    {
+      "i": 452,
+      "start": 2718.88,
+      "end": 2726.6,
+      "text": "their cosmic ground dissolves. The feeding of regulated food"
+    },
+    {
+      "i": 453,
+      "start": 2727.16,
+      "end": 2734.24,
+      "text": "becomes or the one who has established in that Nyana Vastha"
+    },
+    {
+      "i": 454,
+      "start": 2734.24,
+      "end": 2741.92,
+      "text": "Chedasa a moment of Brahma karma samadhi, the gross offered into"
+    },
+    {
+      "i": 455,
+      "start": 2741.92,
+      "end": 2747.08,
+      "text": "the circle, the individual into the universal, prana into prana."
+    },
+    {
+      "i": 456,
+      "start": 2748.32,
+      "end": 2751.64,
+      "text": "Therefore Brahman recognizing itself in the act of"
+    },
+    {
+      "i": 457,
+      "start": 2751.64,
+      "end": 2756.48,
+      "text": "nourishment. So Niyatahara's place in the"
+    },
+    {
+      "i": 458,
+      "start": 2756.48,
+      "end": 2762.96,
+      "text": "Ethna Vistara Sankarajya says that Niyatahara Etnya is the"
+    },
+    {
+      "i": 459,
+      "start": 2762.96,
+      "end": 2767.92,
+      "text": "place in the last of the Vistara of the on the what you call"
+    },
+    {
+      "i": 460,
+      "start": 2768.28,
+      "end": 2772.44,
+      "text": "treatise on Etnya, not because it is the highest."
+    },
+    {
+      "i": 461,
+      "start": 2773.32,
+      "end": 2776.8,
+      "text": "The highest is Nyana Etnya, which is there in the 33rd verse"
+    },
+    {
+      "i": 462,
+      "start": 2776.8,
+      "end": 2781.84,
+      "text": "which is going to come, but because it is the most pervasive"
+    },
+    {
+      "i": 463,
+      "start": 2781.92,
+      "end": 2787.76,
+      "text": "and most continuous. Feeding occurs multiple times"
+    },
+    {
+      "i": 464,
+      "start": 2787.76,
+      "end": 2792.32,
+      "text": "daily throughout life without cessation."
+    },
+    {
+      "i": 465,
+      "start": 2793.56,
+      "end": 2797.84,
+      "text": "It is the most democratic and most unavoidable of all yetnas."
+    },
+    {
+      "i": 466,
+      "start": 2798.76,
+      "end": 2803.72,
+      "text": "The pranayama is the most universal at the breath level,"
+    },
+    {
+      "i": 467,
+      "start": 2804.44,
+      "end": 2808.6,
+      "text": "whereas the Niyatahara is the most universal at the sustenance"
+    },
+    {
+      "i": 468,
+      "start": 2808.6,
+      "end": 2812.56,
+      "text": "level. Together they establish that"
+    },
+    {
+      "i": 469,
+      "start": 2812.6,
+      "end": 2818.16,
+      "text": "every necessary biological function, breathing and feeding,"
+    },
+    {
+      "i": 470,
+      "start": 2819.32,
+      "end": 2825.4,
+      "text": "can and should be a ecnya, making the ecnya framework Co"
+    },
+    {
+      "i": 471,
+      "start": 2825.4,
+      "end": 2831.08,
+      "text": "extensive with life itself. You can never be away from"
+    },
+    {
+      "i": 472,
+      "start": 2831.12,
+      "end": 2837.4,
+      "text": "ecnya, but there is a declaration which is in the"
+    },
+    {
+      "i": 473,
+      "start": 2837.4,
+      "end": 2844.0,
+      "text": "culmination sarve API ETA ecnya vido ecnya shebida kalmasha."
+    },
+    {
+      "i": 474,
+      "start": 2844.76,
+      "end": 2849.24,
+      "text": "That is the second line which constitute the philosophical"
+    },
+    {
+      "i": 475,
+      "start": 2849.24,
+      "end": 2852.04,
+      "text": "steel of the entire Etna treaties."
+    },
+    {
+      "i": 476,
+      "start": 2852.52,
+      "end": 2856.92,
+      "text": "Etna Vistara, a universal sociological affirmation"
+    },
+    {
+      "i": 477,
+      "start": 2856.92,
+      "end": 2863.0,
+      "text": "applicable to all Etna practitioners, listed across all"
+    },
+    {
+      "i": 478,
+      "start": 2863.0,
+      "end": 2868.8,
+      "text": "the six verses from the Daiva Etna which Stabi started"
+    },
+    {
+      "i": 479,
+      "start": 2868.8,
+      "end": 2871.88,
+      "text": "onwards. Everything until this one."
+    },
+    {
+      "i": 480,
+      "start": 2872.24,
+      "end": 2877.96,
+      "text": "All of these sarvey apiate all of them without exception."
+    },
+    {
+      "i": 481,
+      "start": 2879.0,
+      "end": 2884.16,
+      "text": "The combination sarvey and API together creates A maximally"
+    },
+    {
+      "i": 482,
+      "start": 2884.6,
+      "end": 2890.36,
+      "text": "inclusive statement. Every single yetna described."
+    },
+    {
+      "i": 483,
+      "start": 2890.72,
+      "end": 2897.52,
+      "text": "Daiva yetna brahmagniya samyama eknya, indragniya indriyagniya"
+    },
+    {
+      "i": 484,
+      "start": 2897.56,
+      "end": 2901.4,
+      "text": "atma samyoga yetnya. Nyana Deepita yetnya dravya"
+    },
+    {
+      "i": 485,
+      "start": 2901.4,
+      "end": 2906.68,
+      "text": "yetnya, Tapas yetnya, Yoga yetnya, swadhyaya eknaya yetnya"
+    },
+    {
+      "i": 486,
+      "start": 2906.68,
+      "end": 2912.28,
+      "text": "pranayama yetnya nyeta hara yetnya, all of them, all without"
+    },
+    {
+      "i": 487,
+      "start": 2912.28,
+      "end": 2916.8,
+      "text": "distinction or hierarchy M and them in terms of."
+    },
+    {
+      "i": 488,
+      "start": 2916.8,
+      "end": 2921.52,
+      "text": "Thus, the theological affirmation that follows the"
+    },
+    {
+      "i": 489,
+      "start": 2921.52,
+      "end": 2925.56,
+      "text": "words affirms not that all eknas are equal in depth and"
+    },
+    {
+      "i": 490,
+      "start": 2925.56,
+      "end": 2931.4,
+      "text": "directness. No, because the 33rd Worlds will"
+    },
+    {
+      "i": 491,
+      "start": 2931.4,
+      "end": 2934.96,
+      "text": "establish that Nyan Etnya's supremacy against all of them."
+    },
+    {
+      "i": 492,
+      "start": 2936.16,
+      "end": 2943.88,
+      "text": "But all Etnyas are genuine. All genuine Etnya practitioners"
+    },
+    {
+      "i": 493,
+      "start": 2943.88,
+      "end": 2948.92,
+      "text": "share in the two qualifications stated Etnya with Aha."
+    },
+    {
+      "i": 494,
+      "start": 2949.84,
+      "end": 2955.48,
+      "text": "They are all knowers of Etnya. Means then, those who know"
+    },
+    {
+      "i": 495,
+      "start": 2955.6,
+      "end": 2958.96,
+      "text": "Etnya. But in what sense?"
+    },
+    {
+      "i": 496,
+      "start": 2960.0,
+      "end": 2963.28,
+      "text": "Eknyabitha is not merely as those who know the ritual"
+    },
+    {
+      "i": 497,
+      "start": 2963.28,
+      "end": 2967.08,
+      "text": "procedure of Eknya as a karmakanda."
+    },
+    {
+      "i": 498,
+      "start": 2967.2,
+      "end": 2974.04,
+      "text": "Reading that would trivially narrow down its usage."
+    },
+    {
+      "i": 499,
+      "start": 2974.72,
+      "end": 2981.0,
+      "text": "But as those who know the essential nature or the swarupa"
+    },
+    {
+      "i": 500,
+      "start": 2981.0,
+      "end": 2990.04,
+      "text": "of Eknya itself, who understand what Eknya truly is and what is"
+    },
+    {
+      "i": 501,
+      "start": 2990.04,
+      "end": 2998.0,
+      "text": "truly Yatnya, the recognition of all elements are Brahman and all"
+    },
+    {
+      "i": 502,
+      "start": 2998.0,
+      "end": 3001.56,
+      "text": "actions are offered into Brahmadni dissolves into"
+    },
+    {
+      "i": 503,
+      "start": 3001.56,
+      "end": 3006.32,
+      "text": "Brahman. That is that 24th verse"
+    },
+    {
+      "i": 504,
+      "start": 3006.52,
+      "end": 3011.08,
+      "text": "Brahmarpanam Brahmahavi. So yatnya Vida, one who"
+    },
+    {
+      "i": 505,
+      "start": 3011.08,
+      "end": 3015.08,
+      "text": "recognizes their practice as a participation in Brahma Karma"
+    },
+    {
+      "i": 506,
+      "start": 3015.08,
+      "end": 3020.68,
+      "text": "Samadhi, however partially, however instinctively, at"
+    },
+    {
+      "i": 507,
+      "start": 3020.68,
+      "end": 3025.68,
+      "text": "whatever level of the explicit understanding, they are yetna"
+    },
+    {
+      "i": 508,
+      "start": 3025.68,
+      "end": 3028.68,
+      "text": "vidah, they know yetna's true nature."
+    },
+    {
+      "i": 509,
+      "start": 3030.48,
+      "end": 3035.0,
+      "text": "This reading is Sankaratarya's advaitic democratisation of"
+    },
+    {
+      "i": 510,
+      "start": 3035.0,
+      "end": 3040.08,
+      "text": "Yetnet Nyana. The Aiva Yetni who sincerely"
+    },
+    {
+      "i": 511,
+      "start": 3040.08,
+      "end": 3046.12,
+      "text": "appreciates on worships devatas with full devotion"
+    },
+    {
+      "i": 512,
+      "start": 3047.04,
+      "end": 3051.52,
+      "text": "Isayatnavidaha in the sense that they recognize the sacred"
+    },
+    {
+      "i": 513,
+      "start": 3051.52,
+      "end": 3056.64,
+      "text": "transformative nature of offering that something is"
+    },
+    {
+      "i": 514,
+      "start": 3056.64,
+      "end": 3060.96,
+      "text": "genuinely given, genuinely consecrated and genuinely"
+    },
+    {
+      "i": 515,
+      "start": 3060.96,
+      "end": 3066.24,
+      "text": "received by the divine Devata. The Pranayama Parayana"
+    },
+    {
+      "i": 516,
+      "start": 3066.64,
+      "end": 3073.6,
+      "text": "Isayatnavidaha in that they recognize the breath as a sacred"
+    },
+    {
+      "i": 517,
+      "start": 3073.6,
+      "end": 3081.4,
+      "text": "offering and that Nyana Yetni is also a ekna vidaha in the"
+    },
+    {
+      "i": 518,
+      "start": 3081.4,
+      "end": 3086.0,
+      "text": "fullest sense, knowing that all is Brahman and all offering"
+    },
+    {
+      "i": 519,
+      "start": 3086.0,
+      "end": 3090.16,
+      "text": "returns to Brahman. All are Ekna Vidaha at their"
+    },
+    {
+      "i": 520,
+      "start": 3090.16,
+      "end": 3092.12,
+      "text": "respective levels of understanding."
+    },
+    {
+      "i": 521,
+      "start": 3094.96,
+      "end": 3100.52,
+      "text": "Then the word which was left clarification is Eknak"
+    },
+    {
+      "i": 522,
+      "start": 3100.52,
+      "end": 3107.56,
+      "text": "Shabidagalma Shah, Eknath shapitha Kalmasha, Eknya."
+    },
+    {
+      "i": 523,
+      "start": 3107.76,
+      "end": 3114.4,
+      "text": "We all know Shapitha means weakened or you know consumed."
+    },
+    {
+      "i": 524,
+      "start": 3115.76,
+      "end": 3122.84,
+      "text": "Kalmasha means sin or impurity. So eknath Shapitha Kalpana"
+    },
+    {
+      "i": 525,
+      "start": 3123.4,
+      "end": 3128.16,
+      "text": "Kalmasha, one whose accumulated impurity or sin has been"
+    },
+    {
+      "i": 526,
+      "start": 3128.16,
+      "end": 3131.4,
+      "text": "thoroughly consumed in the fire of Eknya."
+    },
+    {
+      "i": 527,
+      "start": 3132.96,
+      "end": 3136.48,
+      "text": "The Etnya, whatever form it is taken from the Daivaiknya"
+    },
+    {
+      "i": 528,
+      "start": 3136.48,
+      "end": 3142.24,
+      "text": "onwards to the Pranayama, Parayana or Pyaana Etnya, has"
+    },
+    {
+      "i": 529,
+      "start": 3142.24,
+      "end": 3147.48,
+      "text": "burned away the Kalmasha, the sins or the impurities that was"
+    },
+    {
+      "i": 530,
+      "start": 3147.48,
+      "end": 3150.44,
+      "text": "obscuring the Atman's self luminosity."
+    },
+    {
+      "i": 531,
+      "start": 3152.8,
+      "end": 3157.8,
+      "text": "This is the psychological fruit of all etnyas of the Etnya"
+    },
+    {
+      "i": 532,
+      "start": 3157.8,
+      "end": 3162.68,
+      "text": "treaties, not swarga or hala, external rewards like"
+    },
+    {
+      "i": 533,
+      "start": 3162.68,
+      "end": 3170.44,
+      "text": "Karamaganda, but the consumption of sins or impurity, the"
+    },
+    {
+      "i": 534,
+      "start": 3170.44,
+      "end": 3175.56,
+      "text": "internal purification that removes the avarana and enables"
+    },
+    {
+      "i": 535,
+      "start": 3175.56,
+      "end": 3180.48,
+      "text": "the Nyana to illumine the self effulgent Atman within our soul."
+    },
+    {
+      "i": 536,
+      "start": 3184.4,
+      "end": 3188.8,
+      "text": "Kalmasha is Papa Avarna, Mala etcetera is fundamentally the"
+    },
+    {
+      "i": 537,
+      "start": 3188.8,
+      "end": 3195.96,
+      "text": "impurity of Kartrutva Abhimana, the doership, the accumulated"
+    },
+    {
+      "i": 538,
+      "start": 3195.96,
+      "end": 3199.36,
+      "text": "residue of acting with false doership."
+    },
+    {
+      "i": 539,
+      "start": 3200.36,
+      "end": 3204.84,
+      "text": "So every Eknya by its very structure as an offering,"
+    },
+    {
+      "i": 540,
+      "start": 3206.76,
+      "end": 3212.36,
+      "text": "Arpana, Brahmarpana as an offering reduces Kartratu"
+    },
+    {
+      "i": 541,
+      "start": 3212.36,
+      "end": 3218.92,
+      "text": "Abhimana, the doership ego for the offerer surrenders the"
+    },
+    {
+      "i": 542,
+      "start": 3218.92,
+      "end": 3224.64,
+      "text": "action and its fruits into the verifier or the deity on whom"
+    },
+    {
+      "i": 543,
+      "start": 3224.64,
+      "end": 3229.0,
+      "text": "they are worshipping. Even the most basic level Etnya"
+    },
+    {
+      "i": 544,
+      "start": 3229.0,
+      "end": 3233.04,
+      "text": "involved the acknowledgement that offered object and its"
+    },
+    {
+      "i": 545,
+      "start": 3233.04,
+      "end": 3240.12,
+      "text": "fruits are not ultimately mine. A partial dissolution of Mamata"
+    },
+    {
+      "i": 546,
+      "start": 3241.0,
+      "end": 3245.8,
+      "text": "and Karthritva as Ekhnya deepens from Dravya through Istapas"
+    },
+    {
+      "i": 547,
+      "start": 3245.8,
+      "end": 3249.96,
+      "text": "yaoga swadhya ya to Nyana. The dissolution deepens"
+    },
+    {
+      "i": 548,
+      "start": 3249.96,
+      "end": 3254.32,
+      "text": "proportionately until that nyana yatnya where the offerer"
+    },
+    {
+      "i": 549,
+      "start": 3254.32,
+      "end": 3258.84,
+      "text": "themselves dissolves Brahmanahudam and the Kalmasha"
+    },
+    {
+      "i": 550,
+      "start": 3258.84,
+      "end": 3265.4,
+      "text": "is completely consumed. So the progressive consumption"
+    },
+    {
+      "i": 551,
+      "start": 3265.4,
+      "end": 3272.88,
+      "text": "chart, the Dravya Etna, the Mamata due to external objects"
+    },
+    {
+      "i": 552,
+      "start": 3272.88,
+      "end": 3279.36,
+      "text": "being offered the Tapova Etnya is the Sukha Asakti, attachment"
+    },
+    {
+      "i": 553,
+      "start": 3279.36,
+      "end": 3284.92,
+      "text": "to comfort in the Yoga Etnya. Chittavriti Aasakti, attachment"
+    },
+    {
+      "i": 554,
+      "start": 3284.92,
+      "end": 3289.44,
+      "text": "to mental stress states is offered."
+    },
+    {
+      "i": 555,
+      "start": 3290.08,
+      "end": 3295.12,
+      "text": "Swadiya Etnya is where avidya is being offered from that"
+    },
+    {
+      "i": 556,
+      "start": 3295.12,
+      "end": 3299.04,
+      "text": "intellectual level and that nyana Eknya consumes the"
+    },
+    {
+      "i": 557,
+      "start": 3299.04,
+      "end": 3304.44,
+      "text": "kalmasha or the sin or the impurity or the avidya at its"
+    },
+    {
+      "i": 558,
+      "start": 3304.44,
+      "end": 3308.96,
+      "text": "root. The fundamental of avidya, of"
+    },
+    {
+      "i": 559,
+      "start": 3308.96,
+      "end": 3314.04,
+      "text": "Dehat Madyasa, the ignorance is nothing but the Dehat Madyasa."
+    },
+    {
+      "i": 560,
+      "start": 3314.84,
+      "end": 3318.6,
+      "text": "I am the body. Therefore all practitioners are"
+    },
+    {
+      "i": 561,
+      "start": 3318.64,
+      "end": 3322.2,
+      "text": "ethnic Shabita Kalmasha, each at their appropriate level of"
+    },
+    {
+      "i": 562,
+      "start": 3322.84,
+      "end": 3327.4,
+      "text": "impurity and consumption. But the completion of this"
+    },
+    {
+      "i": 563,
+      "start": 3327.4,
+      "end": 3334.88,
+      "text": "consumption and the total eradication of all impurities is"
+    },
+    {
+      "i": 564,
+      "start": 3334.88,
+      "end": 3341.36,
+      "text": "achieved only through Yana Yana Yana where Nyanagni burns Karma"
+    },
+    {
+      "i": 565,
+      "start": 3341.36,
+      "end": 3347.48,
+      "text": "ghija samagra, nyanagi dagda Karmani or karmasamagram"
+    },
+    {
+      "i": 566,
+      "start": 3347.48,
+      "end": 3353.52,
+      "text": "previli. So the Etna Vistara or the"
+    },
+    {
+      "i": 567,
+      "start": 3353.52,
+      "end": 3362.84,
+      "text": "complete vision of the Etna practices is complete with the"
+    },
+    {
+      "i": 568,
+      "start": 3362.84,
+      "end": 3366.96,
+      "text": "Sarveyapi Etna vitaha Etna Kal shabida Kalmasha."
+    },
+    {
+      "i": 569,
+      "start": 3371.24,
+      "end": 3374.96,
+      "text": "So you did. Shankaracharya is now saying"
+    },
+    {
+      "i": 570,
+      "start": 3374.96,
+      "end": 3381.04,
+      "text": "that the universal accessibility for liberation by affirming that"
+    },
+    {
+      "i": 571,
+      "start": 3381.04,
+      "end": 3387.52,
+      "text": "all Yetna practitioners the from the Daiva Yetni to performing"
+    },
+    {
+      "i": 572,
+      "start": 3387.52,
+      "end": 3390.36,
+      "text": "rituals to the pranayama parayana, working with the"
+    },
+    {
+      "i": 573,
+      "start": 3390.36,
+      "end": 3395.68,
+      "text": "breath or yetnik Shamita kalakshasa or freed from the"
+    },
+    {
+      "i": 574,
+      "start": 3395.96,
+      "end": 3399.08,
+      "text": "imperial kis. The words establishes that"
+    },
+    {
+      "i": 575,
+      "start": 3399.08,
+      "end": 3404.64,
+      "text": "liberation, which is freedom from the Dehatma buddhi."
+    },
+    {
+      "i": 576,
+      "start": 3404.64,
+      "end": 3411.2,
+      "text": "He is not an exclusive privilege of Nyananista alone."
+    },
+    {
+      "i": 577,
+      "start": 3411.88,
+      "end": 3416.64,
+      "text": "Every sincere practitioner of every genuine Yetnya is on the"
+    },
+    {
+      "i": 578,
+      "start": 3416.64,
+      "end": 3420.96,
+      "text": "path of redemption from the kalmasha or from the"
+    },
+    {
+      "i": 579,
+      "start": 3420.96,
+      "end": 3425.48,
+      "text": "imperiality. This is the advaitic inclusivism"
+    },
+    {
+      "i": 580,
+      "start": 3426.32,
+      "end": 3428.92,
+      "text": "of the ethnevistara. All parts are included."
+    },
+    {
+      "i": 581,
+      "start": 3429.24,
+      "end": 3432.96,
+      "text": "All practitioners are informed firmed with the understanding"
+    },
+    {
+      "i": 582,
+      "start": 3432.96,
+      "end": 3437.96,
+      "text": "that the depth of Kalmasha or the sin or impurity consumption"
+    },
+    {
+      "i": 583,
+      "start": 3437.96,
+      "end": 3441.64,
+      "text": "correspondence corresponds to the depth of ethnea recognition"
+    },
+    {
+      "i": 584,
+      "start": 3442.96,
+      "end": 3447.24,
+      "text": "and there is a common mechanism for it, which is the Karthrathur"
+    },
+    {
+      "i": 585,
+      "start": 3447.24,
+      "end": 3450.92,
+      "text": "dissolution, the doership based on the ego."
+    },
+    {
+      "i": 586,
+      "start": 3454.04,
+      "end": 3458.84,
+      "text": "All the consume all ecnyas consume that kalmasha or the"
+    },
+    {
+      "i": 587,
+      "start": 3458.96,
+      "end": 3461.76,
+      "text": "impurity, regardless they were their specific form."
+    },
+    {
+      "i": 588,
+      "start": 3462.64,
+      "end": 3467.28,
+      "text": "Every ecnya by definition involves offering, and offering"
+    },
+    {
+      "i": 589,
+      "start": 3467.28,
+      "end": 3472.28,
+      "text": "requires a surrender of something of within comma,"
+    },
+    {
+      "i": 590,
+      "start": 3472.44,
+      "end": 3477.4,
+      "text": "within quotation mine Mamata into something greater."
+    },
+    {
+      "i": 591,
+      "start": 3479.12,
+      "end": 3484.6,
+      "text": "Even the most eternal dravya Ecnya, which I told you the"
+    },
+    {
+      "i": 592,
+      "start": 3484.6,
+      "end": 3489.24,
+      "text": "offering of the clarified that butter or grains, etc."
+    },
+    {
+      "i": 593,
+      "start": 3489.24,
+      "end": 3496.84,
+      "text": "They offer it idam samarthayami agnim samarthayami namama that"
+    },
+    {
+      "i": 594,
+      "start": 3497.08,
+      "end": 3499.88,
+      "text": "it is not mine. This is the way they offer it."
+    },
+    {
+      "i": 595,
+      "start": 3500.64,
+      "end": 3503.44,
+      "text": "The offered object and its potential benefits are"
+    },
+    {
+      "i": 596,
+      "start": 3503.44,
+      "end": 3510.2,
+      "text": "surrendered when the most basic niyathahara involves this the"
+    },
+    {
+      "i": 597,
+      "start": 3510.2,
+      "end": 3514.2,
+      "text": "pleasure of under staying unstrained, unrestrained eating,"
+    },
+    {
+      "i": 598,
+      "start": 3515.72,
+      "end": 3518.84,
+      "text": "he surrendered. We don't eat anymore for the"
+    },
+    {
+      "i": 599,
+      "start": 3518.84,
+      "end": 3522.92,
+      "text": "taste of the food, even if our stomachs become full."
+    },
+    {
+      "i": 600,
+      "start": 3522.92,
+      "end": 3529.44,
+      "text": "No, we become careful in feeding what is required for the body."
+    },
+    {
+      "i": 601,
+      "start": 3529.84,
+      "end": 3533.12,
+      "text": "We will feed only that much. Even there."
+    },
+    {
+      "i": 602,
+      "start": 3533.12,
+      "end": 3540.56,
+      "text": "There the indulgence of the taste and satiation feeling of"
+    },
+    {
+      "i": 603,
+      "start": 3540.56,
+      "end": 3545.2,
+      "text": "the stomach, both are offered in every offering."
+    },
+    {
+      "i": 604,
+      "start": 3545.48,
+      "end": 3551.04,
+      "text": "Therefore the Kartratu Abhimana is dissolved and it is this"
+    },
+    {
+      "i": 605,
+      "start": 3551.08,
+      "end": 3553.84,
+      "text": "Abhimana that I am eating, I am tasting."
+    },
+    {
+      "i": 606,
+      "start": 3553.84,
+      "end": 3556.48,
+      "text": "It's very good for my tongue or I like it very much."
+    },
+    {
+      "i": 607,
+      "start": 3556.48,
+      "end": 3560.2,
+      "text": "All those things, if it is maintained, there, they are all"
+    },
+    {
+      "i": 608,
+      "start": 3560.2,
+      "end": 3563.68,
+      "text": "the impurities. Therefore, the genuine yetna"
+    },
+    {
+      "i": 609,
+      "start": 3563.68,
+      "end": 3569.04,
+      "text": "necessarily consumes these impurity and proportional to the"
+    },
+    {
+      "i": 610,
+      "start": 3569.04,
+      "end": 3577.88,
+      "text": "death of surrender. This verse, the 30th verse,"
+    },
+    {
+      "i": 611,
+      "start": 3580.64,
+      "end": 3588.56,
+      "text": "builds the bridge to the 31 and 32 to take us to the 33rd verse,"
+    },
+    {
+      "i": 612,
+      "start": 3594.0,
+      "end": 3597.76,
+      "text": "the Yetnia Palakar Pragarana, that which established the"
+    },
+    {
+      "i": 613,
+      "start": 3597.8,
+      "end": 3601.96,
+      "text": "Ecnyas, cosmic fruit, Ecnya, sums through the Bujaha which"
+    },
+    {
+      "i": 614,
+      "start": 3601.96,
+      "end": 3607.48,
+      "text": "will come in the next verse. The necessity of ecnya for Ihha"
+    },
+    {
+      "i": 615,
+      "start": 3607.48,
+      "end": 3612.52,
+      "text": "and Para in this world and the world after that, here and now,"
+    },
+    {
+      "i": 616,
+      "start": 3612.8,
+      "end": 3618.12,
+      "text": "not for tomorrow. The multiplication of Ecnyas"
+    },
+    {
+      "i": 617,
+      "start": 3618.12,
+      "end": 3623.16,
+      "text": "described in the Veda which is coming in the 32nd verse."
+    },
+    {
+      "i": 618,
+      "start": 3623.92,
+      "end": 3628.48,
+      "text": "And final supremacy for the Nyana etnya of the 33rd verse."
+    },
+    {
+      "i": 619,
+      "start": 3629.76,
+      "end": 3633.64,
+      "text": "So therefore this statement sarveyapi Ethe's etnya vidaha"
+    },
+    {
+      "i": 620,
+      "start": 3634.28,
+      "end": 3644.28,
+      "text": "anticipates the 32nd verse. Evam bahuvida etnya vidatah"
+    },
+    {
+      "i": 621,
+      "start": 3644.28,
+      "end": 3651.2,
+      "text": "brahmano mukhe brahmano mukhe. Thus the many Etnyas are spread"
+    },
+    {
+      "i": 622,
+      "start": 3651.2,
+      "end": 3658.4,
+      "text": "across the face of Brahman that prepares for the final"
+    },
+    {
+      "i": 623,
+      "start": 3658.4,
+      "end": 3664.4,
+      "text": "declaration that among all these Bahuvidya Etnyas, Yana Etnyas"
+    },
+    {
+      "i": 624,
+      "start": 3664.4,
+      "end": 3675.04,
+      "text": "Sayan is the supreme mode. So there is few more, no one"
+    },
+    {
+      "i": 625,
+      "start": 3675.04,
+      "end": 3677.48,
+      "text": "more line which we will finish it today."
+    },
+    {
+      "i": 626,
+      "start": 3678.44,
+      "end": 3684.4,
+      "text": "And the note on the Aharasuddhi or the Niyatahara Sankrachya has"
+    },
+    {
+      "i": 627,
+      "start": 3684.4,
+      "end": 3689.92,
+      "text": "written a note on that as a final specific yetnaya before"
+    },
+    {
+      "i": 628,
+      "start": 3689.92,
+      "end": 3694.28,
+      "text": "the general declaration for the deeper advaitic justification"
+    },
+    {
+      "i": 629,
+      "start": 3694.84,
+      "end": 3696.8,
+      "text": "which is rooted in the Chantogya oppression."
+    },
+    {
+      "i": 630,
+      "start": 3696.96,
+      "end": 3700.8,
+      "text": "Aharasuddhaw Satya shuddhi satyasuddhaw dhruva smriti"
+    },
+    {
+      "i": 631,
+      "start": 3701.24,
+      "end": 3705.32,
+      "text": "smriti ladde sarvat Gandhi naam vipramo vipramoksha."
+    },
+    {
+      "i": 632,
+      "start": 3706.84,
+      "end": 3714.24,
+      "text": "This is the message which Narata got from his elder brother in"
+    },
+    {
+      "i": 633,
+      "start": 3714.24,
+      "end": 3718.4,
+      "text": "the 7th chapter, 26th verse second second mantra."
+    },
+    {
+      "i": 634,
+      "start": 3719.4,
+      "end": 3726.36,
+      "text": "When food is pure, Ahara suddhao Satya suddhi sattva becomes pure"
+    },
+    {
+      "i": 635,
+      "start": 3727.2,
+      "end": 3730.52,
+      "text": "and when Satya suddhao truvasmridhi."
+    },
+    {
+      "i": 636,
+      "start": 3730.56,
+      "end": 3735.4,
+      "text": "When sattva is pure, memory or contemplation becomes steady"
+    },
+    {
+      "i": 637,
+      "start": 3736.72,
+      "end": 3743.68,
+      "text": "Turuva Smriti Smriti labde. When memory is steady Sarvat"
+    },
+    {
+      "i": 638,
+      "start": 3743.68,
+      "end": 3749.2,
+      "text": "Gandhinam Vipramakshaha, all knots are released."
+    },
+    {
+      "i": 639,
+      "start": 3749.36,
+      "end": 3754.16,
+      "text": "Knots are the bondages of ignorance."
+    },
+    {
+      "i": 640,
+      "start": 3754.6,
+      "end": 3759.24,
+      "text": "Sarvat Gandhinam Vipramaksha establishes the regulated eating"
+    },
+    {
+      "i": 641,
+      "start": 3759.24,
+      "end": 3764.16,
+      "text": "as a foundation for all higher sadhana."
+    },
+    {
+      "i": 642,
+      "start": 3765.16,
+      "end": 3769.92,
+      "text": "Without this restricted eating, the chitta remains contaminated"
+    },
+    {
+      "i": 643,
+      "start": 3769.92,
+      "end": 3775.2,
+      "text": "by Rajasthan Thomas and agitated, making Yoga, Swadhyaya"
+    },
+    {
+      "i": 644,
+      "start": 3775.52,
+      "end": 3779.08,
+      "text": "Ek and Nyana very difficult to access."
+    },
+    {
+      "i": 645,
+      "start": 3779.8,
+      "end": 3783.12,
+      "text": "Therefore, Niyatahara Etnya. At the conclusion of this"
+    },
+    {
+      "i": 646,
+      "start": 3783.44,
+      "end": 3788.8,
+      "text": "treatise of Etnya, Sankaracharya implicitly establishes as"
+    },
+    {
+      "i": 647,
+      "start": 3788.8,
+      "end": 3792.16,
+      "text": "Chandogi. Chandogi Upanishad places Ahara"
+    },
+    {
+      "i": 648,
+      "start": 3792.16,
+      "end": 3795.0,
+      "text": "Suddhi at the foundation of the spiritual life."
+    },
+    {
+      "i": 649,
+      "start": 3795.68,
+      "end": 3798.88,
+      "text": "Krishna also says that in the Bhagavad Gita we will see it"
+    },
+    {
+      "i": 650,
+      "start": 3798.88,
+      "end": 3805.68,
+      "text": "later how the Ahara is important in the Agvad Gita not only in"
+    },
+    {
+      "i": 651,
+      "start": 3805.68,
+      "end": 3808.84,
+      "text": "this Niyatahara here in the later verses also."
+    },
+    {
+      "i": 652,
+      "start": 3811.04,
+      "end": 3813.92,
+      "text": "So this is the foundation of spiritual life."
+    },
+    {
+      "i": 653,
+      "start": 3815.52,
+      "end": 3819.12,
+      "text": "The Yatya treaties ends the Niyatahara as a reminder that"
+    },
+    {
+      "i": 654,
+      "start": 3819.12,
+      "end": 3824.88,
+      "text": "most basic disciplines, eating with restraint must be"
+    },
+    {
+      "i": 655,
+      "start": 3824.88,
+      "end": 3829.04,
+      "text": "maintained as a practitioner essence towards the Nyana Etnya."
+    },
+    {
+      "i": 656,
+      "start": 3830.24,
+      "end": 3834.12,
+      "text": "The Niyatahara is the most accessible."
+    },
+    {
+      "i": 657,
+      "start": 3834.56,
+      "end": 3840.72,
+      "text": "Everyone can regulate this and is the most foundational without"
+    },
+    {
+      "i": 658,
+      "start": 3840.92,
+      "end": 3845.28,
+      "text": "which higher Etnyas are unstable."
+    },
+    {
+      "i": 659,
+      "start": 3848.64,
+      "end": 3852.8,
+      "text": "So with this we stop here. We will continue the, you know,"
+    },
+    {
+      "i": 660,
+      "start": 3853.6,
+      "end": 3865.4,
+      "text": "the context and the Bashia statements tomorrow."
+    },
+    {
+      "i": 661,
+      "start": 3885.24,
+      "end": 3894.1,
+      "text": "Thank you. Thank you very much Mendoji."
+    },
+    {
+      "i": 662,
+      "start": 3894.1,
+      "end": 3895.98,
+      "text": "I've opened the chat in hand raising."
+    },
+    {
+      "i": 663,
+      "start": 3896.26,
+      "end": 3901.58,
+      "text": "If there are any follow up questions or clarifications,"
+    },
+    {
+      "i": 664,
+      "start": 3901.62,
+      "end": 3903.9,
+      "text": "Venkatji is coming up. Namaste, Venkatji."
+    },
+    {
+      "i": 665,
+      "start": 3909.3,
+      "end": 3912.12,
+      "text": "Namaste. I think this is the most"
+    },
+    {
+      "i": 666,
+      "start": 3912.12,
+      "end": 3916.96,
+      "text": "practical verse you've completed now on the Niyata Ahara, the"
+    },
+    {
+      "i": 667,
+      "start": 3917.0,
+      "end": 3919.92,
+      "text": "limited that intermittent fasting is a hard learning for"
+    },
+    {
+      "i": 668,
+      "start": 3919.92,
+      "end": 3926.0,
+      "text": "me also beyond spiritual mind this this is most, you know,"
+    },
+    {
+      "i": 669,
+      "start": 3926.2,
+      "end": 3933.72,
+      "text": "practical area. The reflection was the skin"
+    },
+    {
+      "i": 670,
+      "start": 3933.72,
+      "end": 3939.96,
+      "text": "issue that psoriasis is the one condition I encountered in"
+    },
+    {
+      "i": 671,
+      "start": 3939.96,
+      "end": 3943.96,
+      "text": "Panchakarma, the Ayurveda right they they do this treatment"
+    },
+    {
+      "i": 672,
+      "start": 3944.24,
+      "end": 3947.24,
+      "text": "controlling food in a way. And."
+    },
+    {
+      "i": 673,
+      "start": 3947.76,
+      "end": 3951.88,
+      "text": "It it it for me that Udana that Vayu right, that is a Akasha"
+    },
+    {
+      "i": 674,
+      "start": 3951.88,
+      "end": 3955.44,
+      "text": "Vayu is a direct implication for skin issue."
+    },
+    {
+      "i": 675,
+      "start": 3956.48,
+      "end": 3959.8,
+      "text": "It did a complete reset. It does a reset, you know, skin"
+    },
+    {
+      "i": 676,
+      "start": 3959.8,
+      "end": 3966.2,
+      "text": "start growing like a body has been completely reset, but it"
+    },
+    {
+      "i": 677,
+      "start": 3966.76,
+      "end": 3970.64,
+      "text": "again the food the pattern rest of the year again picks up the"
+    },
+    {
+      "i": 678,
+      "start": 3970.64,
+      "end": 3973.12,
+      "text": "same disease. It's coming back."
+    },
+    {
+      "i": 679,
+      "start": 3973.12,
+      "end": 3978.24,
+      "text": "It keep coming back right. But in in I just referred back"
+    },
+    {
+      "i": 680,
+      "start": 3978.24,
+      "end": 3981.88,
+      "text": "to Chandra Gopinisher that you gave right the chapter 518"
+    },
+    {
+      "i": 681,
+      "start": 3981.88,
+      "end": 3988.84,
+      "text": "through 28 that Vaishwana Ragni with that you know, we do while"
+    },
+    {
+      "i": 682,
+      "start": 3988.84,
+      "end": 3994.76,
+      "text": "eating that 55. You know why use to be in"
+    },
+    {
+      "i": 683,
+      "start": 3994.76,
+      "end": 4000.0,
+      "text": "balance. All that I think look like that"
+    },
+    {
+      "i": 684,
+      "start": 4000.0,
+      "end": 4003.6,
+      "text": "is now directly related to this Anna absolutely controlling."
+    },
+    {
+      "i": 685,
+      "start": 4004.44,
+      "end": 4006.12,
+      "text": "OK, I think this is a direct relation."
+    },
+    {
+      "i": 686,
+      "start": 4006.12,
+      "end": 4008.92,
+      "text": "This is a nice. I think this gives the whole"
+    },
+    {
+      "i": 687,
+      "start": 4009.92,
+      "end": 4013.68,
+      "text": "cycle of control. Now I cut down to like 2 mils a"
+    },
+    {
+      "i": 688,
+      "start": 4013.68,
+      "end": 4017.0,
+      "text": "day, maybe one mil a day sometime as a permit."
+    },
+    {
+      "i": 689,
+      "start": 4019.68,
+      "end": 4023.76,
+      "text": "In the 15th chapter it will come."
+    },
+    {
+      "i": 690,
+      "start": 4024.68,
+      "end": 4027.08,
+      "text": "It will come. OK, so I think this gave a"
+    },
+    {
+      "i": 691,
+      "start": 4027.08,
+      "end": 4031.96,
+      "text": "practical control for both, you know, body cleansing because"
+    },
+    {
+      "i": 692,
+      "start": 4031.96,
+      "end": 4036.88,
+      "text": "limited food mind becomes silent that yoga is the practice that"
+    },
+    {
+      "i": 693,
+      "start": 4037.24,
+      "end": 4042.64,
+      "text": "does take it. Then then the you gave the the"
+    },
+    {
+      "i": 694,
+      "start": 4042.8,
+      "end": 4049.48,
+      "text": "spiritual dimension to it. But the previous verse that"
+    },
+    {
+      "i": 695,
+      "start": 4050.08,
+      "end": 4057.68,
+      "text": "prana control, we have something called Mahapranayam also itself"
+    },
+    {
+      "i": 696,
+      "start": 4057.92,
+      "end": 4062.2,
+      "text": "where the highest control over the breath is, you know, you get"
+    },
+    {
+      "i": 697,
+      "start": 4062.2,
+      "end": 4066.2,
+      "text": "down to like A2 breath a minute, 4 hours together."
+    },
+    {
+      "i": 698,
+      "start": 4068.56,
+      "end": 4072.44,
+      "text": "That that naturally because we use tummy breathing, not the"
+    },
+    {
+      "i": 699,
+      "start": 4072.44,
+      "end": 4078.08,
+      "text": "upper chest breathing. Right where putting the silence."
+    },
+    {
+      "i": 700,
+      "start": 4078.44,
+      "end": 4081.64,
+      "text": "The silence in the mind is natural due to the energizing"
+    },
+    {
+      "i": 701,
+      "start": 4081.64,
+      "end": 4088.2,
+      "text": "the brain. Ultimately, these are all going"
+    },
+    {
+      "i": 702,
+      "start": 4088.2,
+      "end": 4091.64,
+      "text": "to the Chittagruti control. No, even the nirvikalpa samadhi"
+    },
+    {
+      "i": 703,
+      "start": 4091.64,
+      "end": 4094.64,
+      "text": "is possible with that. Pranayama is made of the bridge"
+    },
+    {
+      "i": 704,
+      "start": 4094.64,
+      "end": 4100.08,
+      "text": "between yoga and samadhi. If you achieve the prana control"
+    },
+    {
+      "i": 705,
+      "start": 4100.16,
+      "end": 4102.08,
+      "text": "then the samadhi is natural outcome."
+    },
+    {
+      "i": 706,
+      "start": 4102.84,
+      "end": 4105.68,
+      "text": "It's become easier and natural for that person."
+    },
+    {
+      "i": 707,
+      "start": 4106.16,
+      "end": 4111.92,
+      "text": "Natural outcome I think that you covered yes, but how prana and"
+    },
+    {
+      "i": 708,
+      "start": 4111.92,
+      "end": 4117.399,
+      "text": "because Atman Akash Sambhuta all that 5 levels are told, but"
+    },
+    {
+      "i": 709,
+      "start": 4117.399,
+      "end": 4122.8,
+      "text": "prana has not been described. But in Raja Yoga, he gave me as"
+    },
+    {
+      "i": 710,
+      "start": 4122.8,
+      "end": 4125.399,
+      "text": "a reference to go through with that."
+    },
+    {
+      "i": 711,
+      "start": 4125.399,
+      "end": 4128.399,
+      "text": "You know Vivekananda, I went through the whole last weekend"
+    },
+    {
+      "i": 712,
+      "start": 4128.399,
+      "end": 4132.6,
+      "text": "on that. He there it equated with Akasha"
+    },
+    {
+      "i": 713,
+      "start": 4132.6,
+      "end": 4140.52,
+      "text": "and Prana simultaneous. Yes, because Vayu is in Akasha,"
+    },
+    {
+      "i": 714,
+      "start": 4142.08,
+      "end": 4146.88,
+      "text": "as considered as you know, Akasha Sambhuda."
+    },
+    {
+      "i": 715,
+      "start": 4146.96,
+      "end": 4149.96,
+      "text": "Vayu Akasha Sambhuda No. Correct."
+    },
+    {
+      "i": 716,
+      "start": 4149.96,
+      "end": 4152.08,
+      "text": "So why you want prana is equivalent in this?"
+    },
+    {
+      "i": 717,
+      "start": 4152.08,
+      "end": 4156.0,
+      "text": "Case right, Right. That OK so then then the the"
+    },
+    {
+      "i": 718,
+      "start": 4156.0,
+      "end": 4161.8,
+      "text": "manifested life breathes the prana not a gross air at all it."
+    },
+    {
+      "i": 719,
+      "start": 4161.8,
+      "end": 4164.72,
+      "text": "Is no. It is OK then it it's it solves"
+    },
+    {
+      "i": 720,
+      "start": 4164.72,
+      "end": 4168.399,
+      "text": "the whole thing. Right, everything is."
+    },
+    {
+      "i": 721,
+      "start": 4168.56,
+      "end": 4172.08,
+      "text": "It's Atma that's mad. Atmana Akasha Sambhuda Atma"
+    },
+    {
+      "i": 722,
+      "start": 4172.08,
+      "end": 4180.52,
+      "text": "became Akasha, Akasha Dwyu that the same Atma has now become Yu."
+    },
+    {
+      "i": 723,
+      "start": 4180.64,
+      "end": 4183.399,
+      "text": "So the prana is nothing but the Atma only you know."
+    },
+    {
+      "i": 724,
+      "start": 4183.92,
+      "end": 4186.8,
+      "text": "So Brahman, everything is. That is why everything is coming"
+    },
+    {
+      "i": 725,
+      "start": 4186.8,
+      "end": 4188.64,
+      "text": "down to Brahman only Atma or Brahman."
+    },
+    {
+      "i": 726,
+      "start": 4191.8,
+      "end": 4196.44,
+      "text": "Garvinderji then I'm still contemplating on prana in apana"
+    },
+    {
+      "i": 727,
+      "start": 4196.44,
+      "end": 4201.92,
+      "text": "and apana and prana as inverted. That's the conscious activity,"
+    },
+    {
+      "i": 728,
+      "start": 4202.08,
+      "end": 4205.24,
+      "text": "Consciousness. I mean with the conscious you"
+    },
+    {
+      "i": 729,
+      "start": 4205.24,
+      "end": 4209.24,
+      "text": "invoke that feeling of, you know, prana getting into"
+    },
+    {
+      "i": 730,
+      "start": 4209.28,
+      "end": 4216.12,
+      "text": "consumed by the apana and then apana is throwing out and then"
+    },
+    {
+      "i": 731,
+      "start": 4216.12,
+      "end": 4221.08,
+      "text": "when apana is ending, it is handing over to something like a"
+    },
+    {
+      "i": 732,
+      "start": 4221.64,
+      "end": 4226.2,
+      "text": "what you call a relay race. Each one is touching the other"
+    },
+    {
+      "i": 733,
+      "start": 4226.2,
+      "end": 4228.36,
+      "text": "one means offering to the other one."
+    },
+    {
+      "i": 734,
+      "start": 4229.36,
+      "end": 4234.0,
+      "text": "What is being offered, life is being offered by them into each"
+    },
+    {
+      "i": 735,
+      "start": 4234.0,
+      "end": 4237.32,
+      "text": "other. So we have to say that our our"
+    },
+    {
+      "i": 736,
+      "start": 4237.32,
+      "end": 4241.6,
+      "text": "movement along with the prana and the avana going, you know,"
+    },
+    {
+      "i": 737,
+      "start": 4242.28,
+      "end": 4244.84,
+      "text": "that is why I said that yogic thing."
+    },
+    {
+      "i": 738,
+      "start": 4245.16,
+      "end": 4248.88,
+      "text": "They would say that the breath is 12 inches from the nose."
+    },
+    {
+      "i": 739,
+      "start": 4249.56,
+      "end": 4251.96,
+      "text": "You will. You can get the pranic energy"
+    },
+    {
+      "i": 740,
+      "start": 4253.6,
+      "end": 4257.68,
+      "text": "from the person. Yeah, this, this we do it in the"
+    },
+    {
+      "i": 741,
+      "start": 4257.68,
+      "end": 4259.92,
+      "text": "weekend Bhairav Tantra the 12 inch away."
+    },
+    {
+      "i": 742,
+      "start": 4260.56,
+      "end": 4267.32,
+      "text": "What we do, what we do is we use you know that Mahamantra given"
+    },
+    {
+      "i": 743,
+      "start": 4267.36,
+      "end": 4271.36,
+      "text": "like Om Nama Shivaya on the in breath we applied and out breath"
+    },
+    {
+      "i": 744,
+      "start": 4271.36,
+      "end": 4275.28,
+      "text": "we applied that that will lead to dharana."
+    },
+    {
+      "i": 745,
+      "start": 4275.28,
+      "end": 4279.92,
+      "text": "Actually the the step of Dharana is done with the offering of"
+    },
+    {
+      "i": 746,
+      "start": 4280.36,
+      "end": 4285.52,
+      "text": "mantra on in and out breath once on outbreak and once the the"
+    },
+    {
+      "i": 747,
+      "start": 4285.52,
+      "end": 4290.48,
+      "text": "Puraka Kumbaka is a filling and the Shunyaka is emptying both"
+    },
+    {
+      "i": 748,
+      "start": 4290.48,
+      "end": 4291.6,
+      "text": "ends. We apply it."
+    },
+    {
+      "i": 749,
+      "start": 4291.88,
+      "end": 4296.88,
+      "text": "It will it will solve that step completely to you know Dhyana"
+    },
+    {
+      "i": 750,
+      "start": 4296.88,
+      "end": 4301.12,
+      "text": "become natural while doing so. And now this will give a"
+    },
+    {
+      "i": 751,
+      "start": 4301.12,
+      "end": 4304.28,
+      "text": "framework this month in this particular worst give a"
+    },
+    {
+      "i": 752,
+      "start": 4304.28,
+      "end": 4308.48,
+      "text": "framework for it. We will contemplate further"
+    },
+    {
+      "i": 753,
+      "start": 4308.48,
+      "end": 4311.24,
+      "text": "Pintuji, I think where what are the effect of these two, Maybe"
+    },
+    {
+      "i": 754,
+      "start": 4311.24,
+      "end": 4314.12,
+      "text": "we'll try it out. OK, that's all been with you."
+    },
+    {
+      "i": 755,
+      "start": 4314.16,
+      "end": 4315.72,
+      "text": "Thank you. Thank you, Venkat."
+    },
+    {
+      "i": 756,
+      "start": 4316.68,
+      "end": 4321.44,
+      "text": "Namaste, Jesse. Namaste Bindo, thank you also"
+    },
+    {
+      "i": 757,
+      "start": 4321.44,
+      "end": 4325.32,
+      "text": "Prakash for your beautiful moderation and Venkat, perfect"
+    },
+    {
+      "i": 758,
+      "start": 4325.32,
+      "end": 4330.36,
+      "text": "question for my tip. So first of all, lots of new"
+    },
+    {
+      "i": 759,
+      "start": 4330.36,
+      "end": 4335.68,
+      "text": "terms and wow, I am so humbled by the need to go back and"
+    },
+    {
+      "i": 760,
+      "start": 4335.68,
+      "end": 4340.12,
+      "text": "listen to this two 3-4 times. And I really appreciate that"
+    },
+    {
+      "i": 761,
+      "start": 4340.12,
+      "end": 4343.72,
+      "text": "idea about eating restraint, particularly since I've been a"
+    },
+    {
+      "i": 762,
+      "start": 4343.72,
+      "end": 4346.8,
+      "text": "chef and owned a restaurant in New York City and still cook for"
+    },
+    {
+      "i": 763,
+      "start": 4346.8,
+      "end": 4349.52,
+      "text": "other people. But here's my question."
+    },
+    {
+      "i": 764,
+      "start": 4351.0,
+      "end": 4359.72,
+      "text": "I experienced in samadhi a non effortless unhooking of the"
+    },
+    {
+      "i": 765,
+      "start": 4359.72,
+      "end": 4362.56,
+      "text": "breath where my breathing kind of stops."
+    },
+    {
+      "i": 766,
+      "start": 4363.12,
+      "end": 4367.24,
+      "text": "And evidently that's not rare or special in any way."
+    },
+    {
+      "i": 767,
+      "start": 4367.8,
+      "end": 4370.4,
+      "text": "But I would love it if you could please direct me."
+    },
+    {
+      "i": 768,
+      "start": 4370.4,
+      "end": 4372.56,
+      "text": "I don't have my book in front of me today and I'm sorry about the"
+    },
+    {
+      "i": 769,
+      "start": 4372.56,
+      "end": 4375.32,
+      "text": "noise. There's construction workers"
+    },
+    {
+      "i": 770,
+      "start": 4375.32,
+      "end": 4376.92,
+      "text": "here. But I am wondering if you can"
+    },
+    {
+      "i": 771,
+      "start": 4377.64,
+      "end": 4381.36,
+      "text": "direct me to a particular verse or number of verses that I can"
+    },
+    {
+      "i": 772,
+      "start": 4381.36,
+      "end": 4386.92,
+      "text": "look about that effortless unhooking of the breath when the"
+    },
+    {
+      "i": 773,
+      "start": 4386.92,
+      "end": 4391.36,
+      "text": "mind is calm and clear and connected, please."
+    },
+    {
+      "i": 774,
+      "start": 4393.2,
+      "end": 4398.12,
+      "text": "It will come later in this Gita itself in the 6th chapter when"
+    },
+    {
+      "i": 775,
+      "start": 4398.12,
+      "end": 4401.92,
+      "text": "we are taking it. So you may have to wait till"
+    },
+    {
+      "i": 776,
+      "start": 4401.92,
+      "end": 4404.36,
+      "text": "then if you want to hear the explanation."
+    },
+    {
+      "i": 777,
+      "start": 4404.64,
+      "end": 4407.16,
+      "text": "But if you want to read it in advance, you can do that."
+    },
+    {
+      "i": 778,
+      "start": 4407.8,
+      "end": 4409.96,
+      "text": "Thank you. I appreciate that I knew that"
+    },
+    {
+      "i": 779,
+      "start": 4409.96,
+      "end": 4412.32,
+      "text": "you'd be able to give me those beautiful pointers."
+    },
+    {
+      "i": 780,
+      "start": 4412.32,
+      "end": 4416.6,
+      "text": "So I will look to that 6th chapter because I can only"
+    },
+    {
+      "i": 781,
+      "start": 4416.88,
+      "end": 4422.28,
+      "text": "relate to the experiences that I've had and being able to find"
+    },
+    {
+      "i": 782,
+      "start": 4422.28,
+      "end": 4428.12,
+      "text": "an explanation or at least a contextual framework for what"
+    },
+    {
+      "i": 783,
+      "start": 4428.12,
+      "end": 4432.6,
+      "text": "I'm experiencing help solidify the the knowledge."
+    },
+    {
+      "i": 784,
+      "start": 4432.6,
+      "end": 4437.0,
+      "text": "So thank you so much, so much appreciate these very methodical"
+    },
+    {
+      "i": 785,
+      "start": 4437.0,
+      "end": 4438.8,
+      "text": "and deep lessons. Many blessings."
+    },
+    {
+      "i": 786,
+      "start": 4441.16,
+      "end": 4446.88,
+      "text": "Thank you Jesse, I had paste. I have pasted a link called"
+    },
+    {
+      "i": 787,
+      "start": 4446.88,
+      "end": 4451.04,
+      "text": "Indica events. It is going on from since you"
+    },
+    {
+      "i": 788,
+      "start": 4451.04,
+      "end": 4454.24,
+      "text": "know April 21st and it'll end on May 20th."
+    },
+    {
+      "i": 789,
+      "start": 4454.84,
+      "end": 4458.72,
+      "text": "Morning Indian time 7:00 and the evening Indian 7:00."
+    },
+    {
+      "i": 790,
+      "start": 4458.88,
+      "end": 4462.92,
+      "text": "There are two lectures mostly related to Sankaracharya."
+    },
+    {
+      "i": 791,
+      "start": 4462.92,
+      "end": 4466.76,
+      "text": "Some are in Sanskrit, some are in Hindi, some are in related to"
+    },
+    {
+      "i": 792,
+      "start": 4467.24,
+      "end": 4469.64,
+      "text": "other subjects and different thing."
+    },
+    {
+      "i": 793,
+      "start": 4469.64,
+      "end": 4473.08,
+      "text": "You may have to register to that to get a notification about the"
+    },
+    {
+      "i": 794,
+      "start": 4473.08,
+      "end": 4476.8,
+      "text": "classes. And I'm going to give a lecture"
+    },
+    {
+      "i": 795,
+      "start": 4476.8,
+      "end": 4484.64,
+      "text": "on on the 30th this Thursday evening, 7:00 to 8:00 about my"
+    },
+    {
+      "i": 796,
+      "start": 4484.64,
+      "end": 4490.04,
+      "text": "subject. I'm going to talk about how we"
+    },
+    {
+      "i": 797,
+      "start": 4490.04,
+      "end": 4497.0,
+      "text": "are living in a world of day-to-day activity at the same"
+    },
+    {
+      "i": 798,
+      "start": 4497.0,
+      "end": 4502.76,
+      "text": "time how we can be the akartha, the non doer insight of being in"
+    },
+    {
+      "i": 799,
+      "start": 4502.76,
+      "end": 4506.84,
+      "text": "a day-to-day activity. That is the I am linking both"
+    },
+    {
+      "i": 800,
+      "start": 4507.4,
+      "end": 4518.28,
+      "text": "the 3rd chapter, 4th chapter and you know the Manduka of these"
+    },
+    {
+      "i": 801,
+      "start": 4518.28,
+      "end": 4521.24,
+      "text": "stages to identify who is Dagarta."
+    },
+    {
+      "i": 802,
+      "start": 4522.12,
+      "end": 4526.56,
+      "text": "That is how I'm planning it so one can join it."
+    },
+    {
+      "i": 803,
+      "start": 4533.02,
+      "end": 4536.66,
+      "text": "Namaste, Rajesh. Namaste, namaste, Bigjs."
+    },
+    {
+      "i": 804,
+      "start": 4537.42,
+      "end": 4541.26,
+      "text": "Is it showing some indiga how to join that session?"
+    },
+    {
+      "i": 805,
+      "start": 4541.5,
+      "end": 4546.5,
+      "text": "Windows, yeah. Just copy that link and paste it"
+    },
+    {
+      "i": 806,
+      "start": 4546.5,
+      "end": 4548.66,
+      "text": "on your browser. OK."
+    },
+    {
+      "i": 807,
+      "start": 4548.66,
+      "end": 4552.12,
+      "text": "So it will take you to the page where registration can be done."
+    },
+    {
+      "i": 808,
+      "start": 4553.44,
+      "end": 4555.76,
+      "text": "OK, OK. Thank you."
+    },
+    {
+      "i": 809,
+      "start": 4555.76,
+      "end": 4560.08,
+      "text": "Thank you for this. This is like most relatable to"
+    },
+    {
+      "i": 810,
+      "start": 4560.08,
+      "end": 4565.76,
+      "text": "everyone, right day-to-day life. Yeah, more like as you told it,"
+    },
+    {
+      "i": 811,
+      "start": 4565.76,
+      "end": 4570.56,
+      "text": "like this most democratic practice so anyone can take up"
+    },
+    {
+      "i": 812,
+      "start": 4570.56,
+      "end": 4573.48,
+      "text": "and do it. I just want to one add one point"
+    },
+    {
+      "i": 813,
+      "start": 4573.48,
+      "end": 4576.32,
+      "text": "here for Venkat starts this query."
+    },
+    {
+      "i": 814,
+      "start": 4577.16,
+      "end": 4582.2,
+      "text": "So when you do this Hatayuka Triya yoga, OK, any Raja yoga"
+    },
+    {
+      "i": 815,
+      "start": 4582.2,
+      "end": 4588.2,
+      "text": "practices, once you succeed in this prana paana ekna like"
+    },
+    {
+      "i": 816,
+      "start": 4588.56,
+      "end": 4593.64,
+      "text": "Vindoji told like it will be a race like but how it will happen"
+    },
+    {
+      "i": 817,
+      "start": 4593.72,
+      "end": 4597.56,
+      "text": "in the Brahmaranda from Muladhara to Agna and agna to"
+    },
+    {
+      "i": 818,
+      "start": 4597.56,
+      "end": 4600.96,
+      "text": "Muladhara, an elliptical moment it will be."
+    },
+    {
+      "i": 819,
+      "start": 4602.2,
+      "end": 4605.48,
+      "text": "So prana will go to apana and apana will go to prana."
+    },
+    {
+      "i": 820,
+      "start": 4605.48,
+      "end": 4608.52,
+      "text": "It will be like a elliptical movement continuously it will"
+    },
+    {
+      "i": 821,
+      "start": 4608.52,
+      "end": 4612.12,
+      "text": "happen. So when we achieve that state,"
+    },
+    {
+      "i": 822,
+      "start": 4613.36,
+      "end": 4615.4,
+      "text": "the panic energy. Will."
+    },
+    {
+      "i": 823,
+      "start": 4615.76,
+      "end": 4621.36,
+      "text": "Take us to that samadhi state or any realization state, anything"
+    },
+    {
+      "i": 824,
+      "start": 4621.36,
+      "end": 4626.32,
+      "text": "you can call. Yeah, I think Venkat should be"
+    },
+    {
+      "i": 825,
+      "start": 4626.32,
+      "end": 4631.36,
+      "text": "able to answer you that more precisely."
+    },
+    {
+      "i": 826,
+      "start": 4632.68,
+      "end": 4641.36,
+      "text": "Venkat, why don't you answer it? See this whole pranayama, you"
+    },
+    {
+      "i": 827,
+      "start": 4641.36,
+      "end": 4645.96,
+      "text": "know that whole yagna been told where it will take you is"
+    },
+    {
+      "i": 828,
+      "start": 4645.96,
+      "end": 4650.52,
+      "text": "because of the the restrain of breath with that holding of the"
+    },
+    {
+      "i": 829,
+      "start": 4650.52,
+      "end": 4653.24,
+      "text": "breath kumbaka right? The Kumbaka positions when the"
+    },
+    {
+      "i": 830,
+      "start": 4653.84,
+      "end": 4659.56,
+      "text": "prolonging happens from say 12 count to 36, actually 24 and 36."
+    },
+    {
+      "i": 831,
+      "start": 4660.44,
+      "end": 4663.68,
+      "text": "When the prolonging happens, holding of the breath increases"
+    },
+    {
+      "i": 832,
+      "start": 4663.72,
+      "end": 4670.28,
+      "text": "like 2 breath a minute. That is when you know the whole"
+    },
+    {
+      "i": 833,
+      "start": 4672.0,
+      "end": 4675.8,
+      "text": "field is available. The whole field of prana is"
+    },
+    {
+      "i": 834,
+      "start": 4676.2,
+      "end": 4678.4,
+      "text": "because the whole body is energized."
+    },
+    {
+      "i": 835,
+      "start": 4679.36,
+      "end": 4684.28,
+      "text": "There's nothing else left and a point of time, even the need to"
+    },
+    {
+      "i": 836,
+      "start": 4684.28,
+      "end": 4690.08,
+      "text": "breathe itself a choice for maybe 1520 minutes."
+    },
+    {
+      "i": 837,
+      "start": 4693.68,
+      "end": 4700.4,
+      "text": "So stillness kicks in. This is called silence practice."
+    },
+    {
+      "i": 838,
+      "start": 4700.4,
+      "end": 4705.8,
+      "text": "Also the count based practice lead to silence."
+    },
+    {
+      "i": 839,
+      "start": 4705.92,
+      "end": 4711.76,
+      "text": "The complete silence the the samadhis become natural."
+    },
+    {
+      "i": 840,
+      "start": 4713.72,
+      "end": 4716.48,
+      "text": "So that's the bridge basically pranayama, the bridge between"
+    },
+    {
+      "i": 841,
+      "start": 4718.88,
+      "end": 4725.72,
+      "text": "asana to samadhi. So this bridge need to be"
+    },
+    {
+      "i": 842,
+      "start": 4725.72,
+      "end": 4728.12,
+      "text": "crossed otherwise the samadhi won't happen."
+    },
+    {
+      "i": 843,
+      "start": 4728.88,
+      "end": 4731.24,
+      "text": "So that's the utility. It's a step towards it."
+    },
+    {
+      "i": 844,
+      "start": 4731.92,
+      "end": 4736.72,
+      "text": "So I call it a utility for now because it will prolong the"
+    },
+    {
+      "i": 845,
+      "start": 4737.28,
+      "end": 4742.92,
+      "text": "holding to a point that you recognise that panic field hence"
+    },
+    {
+      "i": 846,
+      "start": 4742.92,
+      "end": 4745.2,
+      "text": "the bathing become natural. I think the just you had a"
+    },
+    {
+      "i": 847,
+      "start": 4745.2,
+      "end": 4748.44,
+      "text": "parallel question right? When the breathing become you"
+    },
+    {
+      "i": 848,
+      "start": 4748.44,
+      "end": 4751.44,
+      "text": "know you don't need to worry about breathing because the"
+    },
+    {
+      "i": 849,
+      "start": 4751.44,
+      "end": 4755.12,
+      "text": "pranic body takes over. Breathing naturally happens"
+    },
+    {
+      "i": 850,
+      "start": 4755.12,
+      "end": 4757.04,
+      "text": "unless you put your attention, then only you know your"
+    },
+    {
+      "i": 851,
+      "start": 4757.04,
+      "end": 4760.64,
+      "text": "breathing. Otherwise the tranquility sets"
+    },
+    {
+      "i": 852,
+      "start": 4760.64,
+      "end": 4770.15,
+      "text": "in and you are simply there. Thank you."
+    },
+    {
+      "i": 853,
+      "start": 4770.15,
+      "end": 4772.43,
+      "text": "Thank you, Manjit. So one more point."
+    },
+    {
+      "i": 854,
+      "start": 4772.43,
+      "end": 4775.31,
+      "text": "I just want to add that from Siddharth tradition, if you see"
+    },
+    {
+      "i": 855,
+      "start": 4775.31,
+      "end": 4780.16,
+      "text": "Tamil Siddharth tradition, they have told like this 8 inch, 12"
+    },
+    {
+      "i": 856,
+      "start": 4780.2,
+      "end": 4782.88,
+      "text": "inch. So normally without any"
+    },
+    {
+      "i": 857,
+      "start": 4783.28,
+      "end": 4787.88,
+      "text": "spiritual or yogic practices, this normal length of this"
+    },
+    {
+      "i": 858,
+      "start": 4787.88,
+      "end": 4793.04,
+      "text": "breadth will be 8 inches and then this 4 inches breath is all"
+    },
+    {
+      "i": 859,
+      "start": 4793.08,
+      "end": 4799.64,
+      "text": "every time it is listed out of this 7200 sorry 72,600 breath"
+    },
+    {
+      "i": 860,
+      "start": 4799.64,
+      "end": 4805.68,
+      "text": "something they will tell out of this some 14,000 is utilized and"
+    },
+    {
+      "i": 861,
+      "start": 4805.72,
+      "end": 4809.16,
+      "text": "others are. Wasted daily."
+    },
+    {
+      "i": 862,
+      "start": 4809.68,
+      "end": 4814.12,
+      "text": "So by this practice that length will be from 8:00 to 12:00, it"
+    },
+    {
+      "i": 863,
+      "start": 4814.12,
+      "end": 4817.56,
+      "text": "will go. So then I think that the economy"
+    },
+    {
+      "i": 864,
+      "start": 4817.56,
+      "end": 4820.96,
+      "text": "will be achieved. Thank you, Raji."
+    },
+    {
+      "i": 865,
+      "start": 4823.6,
+      "end": 4829.72,
+      "text": "Uh Rajesh, I am very novice in the case of all these practices"
+    },
+    {
+      "i": 866,
+      "start": 4829.72,
+      "end": 4832.68,
+      "text": "other than other than, other than Nyana."
+    },
+    {
+      "i": 867,
+      "start": 4833.08,
+      "end": 4835.0,
+      "text": "For me there is only 1 yet Nyana yet."
+    },
+    {
+      "i": 868,
+      "start": 4836.48,
+      "end": 4841.36,
+      "text": "OK, OK. Just want to add because this 4"
+    },
+    {
+      "i": 869,
+      "start": 4841.52,
+      "end": 4845.68,
+      "text": "inches of daily this pranic energy is wasted."
+    },
+    {
+      "i": 870,
+      "start": 4846.4,
+      "end": 4851.56,
+      "text": "So when we do this yogic practices so we can we can like"
+    },
+    {
+      "i": 871,
+      "start": 4851.56,
+      "end": 4857.08,
+      "text": "sustain that 4 inches of pranayama pranic energy in the"
+    },
+    {
+      "i": 872,
+      "start": 4857.08,
+      "end": 4861.76,
+      "text": "body. So this energy will increase and"
+    },
+    {
+      "i": 873,
+      "start": 4862.24,
+      "end": 4866.84,
+      "text": "like Venga Vengaji said, that will automatically take us to"
+    },
+    {
+      "i": 874,
+      "start": 4866.84,
+      "end": 4869.8,
+      "text": "that Samadhi state and realization state."
+    },
+    {
+      "i": 875,
+      "start": 4872.12,
+      "end": 4873.4,
+      "text": "OK, OK, thank you. Thank you."
+    },
+    {
+      "i": 876,
+      "start": 4873.92,
+      "end": 4874.76,
+      "text": "Thank you. Thank you."
+    },
+    {
+      "i": 877,
+      "start": 4874.96,
+      "end": 4882.28,
+      "text": "Thank you, Rajesh. For me it's only Brahma."
+    },
+    {
+      "i": 878,
+      "start": 4882.76,
+      "end": 4886.72,
+      "text": "Brahma. Everything is Brahman."
+    },
+    {
+      "i": 879,
+      "start": 4887.2,
+      "end": 4889.44,
+      "text": "The body is Brahman, The prana is Brahman."
+    },
+    {
+      "i": 880,
+      "start": 4890.0,
+      "end": 4893.24,
+      "text": "The oranges or 8 inches is all in within Brahman only."
+    },
+    {
+      "i": 881,
+      "start": 4898.24,
+      "end": 4905.98,
+      "text": "OK, Prakash, you can write them. OK, Binduji, again, a very in"
+    },
+    {
+      "i": 882,
+      "start": 4905.98,
+      "end": 4909.6,
+      "text": "depth practicum today and there's a lot of things to do"
+    },
+    {
+      "i": 883,
+      "start": 4909.6,
+      "end": 4912.44,
+      "text": "man and a on on how to use the breath."
+    },
+    {
+      "i": 884,
+      "start": 4912.48,
+      "end": 4916.4,
+      "text": "So thank you very much, Binduji, and thanks everyone for"
+    },
+    {
+      "i": 885,
+      "start": 4916.64,
+      "end": 4920.88,
+      "text": "participating, for your regular attendance without which this"
+    },
+    {
+      "i": 886,
+      "start": 4920.88,
+      "end": 4924.6,
+      "text": "room will not be this lively. And for those who come up to the"
+    },
+    {
+      "i": 887,
+      "start": 4925.64,
+      "end": 4928.16,
+      "text": "speaker stage and ask questions, a special thank you."
+    },
+    {
+      "i": 888,
+      "start": 4929.8,
+      "end": 4935.0,
+      "text": "So we'll reconvene tomorrow at 8:30 PM IST to continue on this."
+    },
+    {
+      "i": 889,
+      "start": 4935.36,
+      "end": 4940.24,
+      "text": "And as always, you can always access the replays in Clubhouse"
+    },
+    {
+      "i": 890,
+      "start": 4940.24,
+      "end": 4943.72,
+      "text": "or you can go to the channels shared in the link."
+    },
+    {
+      "i": 891,
+      "start": 4945.96,
+      "end": 4950.48,
+      "text": "And have a great day. Thank you very much, Binduji."
+    },
+    {
+      "i": 892,
+      "start": 4950.56,
+      "end": 4951.6,
+      "text": "Over to you. Close through."
+    },
+    {
+      "i": 893,
+      "start": 4953.12,
+      "end": 4957.4,
+      "text": "Thank you, Prakash, Venkat, Jassi and Rajesh for your"
+    },
+    {
+      "i": 894,
+      "start": 4957.4,
+      "end": 4960.2,
+      "text": "questions and thank you, all of you for being there and"
+    },
+    {
+      "i": 895,
+      "start": 4960.2,
+      "end": 4963.76,
+      "text": "listening. We'll continue our journey into"
+    },
+    {
+      "i": 896,
+      "start": 4963.76,
+      "end": 4972.0,
+      "text": "Gita tomorrow on the 30, 1st and 32nd verse."
+    },
+    {
+      "i": 897,
+      "start": 4972.64,
+      "end": 4973.64,
+      "text": "Are you good night?"
+    }
+  ]
+}

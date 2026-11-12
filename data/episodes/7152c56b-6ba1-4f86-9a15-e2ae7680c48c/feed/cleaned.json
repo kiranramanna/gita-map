@@ -1,0 +1,5677 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "7152c56b-6ba1-4f86-9a15-e2ae7680c48c",
+  "source_sha256": "fbfe93dd4a0017c14bce63abd892a01b17333f523d33d9bbacbc39a9cfc48dc8",
+  "cues": [
+    {
+      "i": 1,
+      "start": 3.56,
+      "end": 5.6,
+      "text": "Namaste everyone. Welcome to Advaita Vedanta"
+    },
+    {
+      "i": 2,
+      "start": 5.6,
+      "end": 9.52,
+      "text": "Satsang house. The ongoing sessions are on"
+    },
+    {
+      "i": 3,
+      "start": 9.52,
+      "end": 13.68,
+      "text": "Bhagavad Gita offered by Bindoji from an Advaita perspective."
+    },
+    {
+      "i": 4,
+      "start": 14.32,
+      "end": 18.8,
+      "text": "We are on chapter 3. The replays for all their"
+    },
+    {
+      "i": 5,
+      "start": 18.8,
+      "end": 21.76,
+      "text": "previous rooms are available in Clubhouse or you can go to the"
+    },
+    {
+      "i": 6,
+      "start": 21.76,
+      "end": 25.96,
+      "text": "link shared in the chat. There's Advaita Retold YouTube"
+    },
+    {
+      "i": 7,
+      "start": 25.96,
+      "end": 30.8,
+      "text": "channel and there is Apple and Spotify links shared."
+    },
+    {
+      "i": 8,
+      "start": 31.44,
+      "end": 35.36,
+      "text": "There's also a book penned by Artemisia based on Bindoji's in"
+    },
+    {
+      "i": 9,
+      "start": 35.36,
+      "end": 37.52,
+      "text": "size. The title of the book is"
+    },
+    {
+      "i": 10,
+      "start": 37.52,
+      "end": 40.68,
+      "text": "Imaginary Door and the place where you can access them is"
+    },
+    {
+      "i": 11,
+      "start": 40.68,
+      "end": 44.24,
+      "text": "shared in the chat. For housekeeping, I will close"
+    },
+    {
+      "i": 12,
+      "start": 44.24,
+      "end": 47.2,
+      "text": "the hand raising and chat when Bindoji is conducting the class,"
+    },
+    {
+      "i": 13,
+      "start": 48.16,
+      "end": 50.6,
+      "text": "after which we'll have about half an hour for AQ and a"
+    },
+    {
+      "i": 14,
+      "start": 50.6,
+      "end": 52.88,
+      "text": "session where I'll open up the channels."
+    },
+    {
+      "i": 15,
+      "start": 54.12,
+      "end": 60.52,
+      "text": "Thank you, Bindoji, over to you. Thank you Prakash, Naste and"
+    },
+    {
+      "i": 16,
+      "start": 60.52,
+      "end": 80.84,
+      "text": "Hariyam to all of you. Let me do my invocation."
+    },
+    {
+      "i": 17,
+      "start": 81.8,
+      "end": 95.0,
+      "text": "Namami Bhagavat Padam Shankaram. Loka Shankaram."
+    },
+    {
+      "i": 18,
+      "start": 97.12,
+      "end": 138.36,
+      "text": "Shankaram Sankaram. In"
+    },
+    {
+      "i": 19,
+      "start": 154.6,
+      "end": 174.24,
+      "text": "the last class we were discussing so Krishna said to"
+    },
+    {
+      "i": 20,
+      "start": 176.4,
+      "end": 185.12,
+      "text": "Arjuna discovers the knowledge and it is the eternal enemy of"
+    },
+    {
+      "i": 21,
+      "start": 185.64,
+      "end": 193.0,
+      "text": "or the vice. The insatiable nature of karma"
+    },
+    {
+      "i": 22,
+      "start": 193.24,
+      "end": 200.64,
+      "text": "and Khroda like fire and leads to endless suffering and the"
+    },
+    {
+      "i": 23,
+      "start": 201.8,
+      "end": 205.68,
+      "text": "samsara will continue to destroy it."
+    },
+    {
+      "i": 24,
+      "start": 205.68,
+      "end": 209.76,
+      "text": "One must identify their dwelling places."
+    },
+    {
+      "i": 25,
+      "start": 212.04,
+      "end": 216.0,
+      "text": "So we have 40 to 43 four verses today to complete."
+    },
+    {
+      "i": 26,
+      "start": 217.48,
+      "end": 220.64,
+      "text": "I'll do my best to see if I can finish it today."
+    },
+    {
+      "i": 27,
+      "start": 221.44,
+      "end": 228.48,
+      "text": "That is my wish. Let us see in Adistana unaha"
+    },
+    {
+      "i": 28,
+      "start": 228.52,
+      "end": 237.16,
+      "text": "kamat yanasya avarnathuena vairi servasya lokasya sarvasya"
+    },
+    {
+      "i": 29,
+      "start": 237.16,
+      "end": 246.64,
+      "text": "lokasya vairi kamaha yanasya avarnathuena Kim"
+    },
+    {
+      "i": 30,
+      "start": 246.64,
+      "end": 250.52,
+      "text": "adhisthanamidhi. What is the substratum or where"
+    },
+    {
+      "i": 31,
+      "start": 250.52,
+      "end": 258.959,
+      "text": "do they where where is this Kama and krotha residing or operating"
+    },
+    {
+      "i": 32,
+      "start": 258.959,
+      "end": 261.24,
+      "text": "from is the question which is there?"
+    },
+    {
+      "i": 33,
+      "start": 262.16,
+      "end": 269.08,
+      "text": "Ityapeksha yam aha nyate hi satro ho adhisthani sukhena"
+    },
+    {
+      "i": 34,
+      "start": 269.08,
+      "end": 271.36,
+      "text": "dirubahanam kartum shakyata idhi."
+    },
+    {
+      "i": 35,
+      "start": 271.96,
+      "end": 278.24,
+      "text": "Only when we know where the enemy is hiding, it can be"
+    },
+    {
+      "i": 36,
+      "start": 278.64,
+      "end": 285.84,
+      "text": "sastre sastre ajustani. Using the right equipment, we"
+    },
+    {
+      "i": 37,
+      "start": 285.84,
+      "end": 292.44,
+      "text": "can eliminate the enemies. With this as Shankaracharya's"
+    },
+    {
+      "i": 38,
+      "start": 292.44,
+      "end": 298.48,
+      "text": "introduction to the verse, we will go to Krishna's words in"
+    },
+    {
+      "i": 39,
+      "start": 298.48,
+      "end": 305.28,
+      "text": "the verse #40 Indriyani mano buddhi asya adishtanam ucharya"
+    },
+    {
+      "i": 40,
+      "start": 306.64,
+      "end": 317.64,
+      "text": "ETI hi vimohai bimohayasthi Asha Nani Nana nanam avrithya dehinam"
+    },
+    {
+      "i": 41,
+      "start": 319.12,
+      "end": 329.12,
+      "text": "indriyani mano buddhi ETI hi vimohayati Asha nanam avrithya"
+    },
+    {
+      "i": 42,
+      "start": 329.12,
+      "end": 335.36,
+      "text": "dehina. The sense organs, the mind, the"
+    },
+    {
+      "i": 43,
+      "start": 335.4,
+      "end": 342.48,
+      "text": "intellect, Indriyani mano buddhi asthya adistana muchade are said"
+    },
+    {
+      "i": 44,
+      "start": 342.48,
+      "end": 345.6,
+      "text": "to be the seat of this Kama and khroda."
+    },
+    {
+      "i": 45,
+      "start": 348.68,
+      "end": 359.56,
+      "text": "The second line reads ETI hi vimoheti Asha nanam aurithya"
+    },
+    {
+      "i": 46,
+      "start": 359.56,
+      "end": 365.68,
+      "text": "dehina. This Kama auratya having covered"
+    },
+    {
+      "i": 47,
+      "start": 366.04,
+      "end": 375.68,
+      "text": "yanam knowledge ET ayihi through this, which is the 3 indriyamano"
+    },
+    {
+      "i": 48,
+      "start": 375.68,
+      "end": 383.28,
+      "text": "buddhi vimohayati dilutes the embodied 1."
+    },
+    {
+      "i": 49,
+      "start": 383.28,
+      "end": 391.84,
+      "text": "Dehinam embodied 1. So it's a straight answer from"
+    },
+    {
+      "i": 50,
+      "start": 391.84,
+      "end": 397.4,
+      "text": "Krishna. The abiding place or the place"
+    },
+    {
+      "i": 51,
+      "start": 397.4,
+      "end": 403.56,
+      "text": "where the enemies of both Kama and Kroda are residing in the"
+    },
+    {
+      "i": 52,
+      "start": 403.56,
+      "end": 408.96,
+      "text": "Indriya Manaha and Buddhi in the sense organs, mind and intellect"
+    },
+    {
+      "i": 53,
+      "start": 411.32,
+      "end": 419.08,
+      "text": "residing there, they cover the knowledge."
+    },
+    {
+      "i": 54,
+      "start": 420.24,
+      "end": 426.56,
+      "text": "Nyayanam Auratya Athai means these three."
+    },
+    {
+      "i": 55,
+      "start": 428.56,
+      "end": 435.96,
+      "text": "Imohayathi means dilutes or pulls into a state of ignorance"
+    },
+    {
+      "i": 56,
+      "start": 436.08,
+      "end": 448.04,
+      "text": "or confuses Esha Dehinam. This embodied 1 South in the"
+    },
+    {
+      "i": 57,
+      "start": 448.04,
+      "end": 456.08,
+      "text": "embodied 1 is the My indriya, Mana and buddhi, the incense"
+    },
+    {
+      "i": 58,
+      "start": 456.08,
+      "end": 461.92,
+      "text": "organs, mind and the intellect. So it is residing in the body"
+    },
+    {
+      "i": 59,
+      "start": 463.12,
+      "end": 469.04,
+      "text": "and controlling the knowledge or covering the knowledge."
+    },
+    {
+      "i": 60,
+      "start": 470.0,
+      "end": 473.52,
+      "text": "You should not forget the three types of avaranam which has been"
+    },
+    {
+      "i": 61,
+      "start": 473.52,
+      "end": 476.24,
+      "text": "mentioned in the Dhoomena Urdammani."
+    },
+    {
+      "i": 62,
+      "start": 476.68,
+      "end": 482.64,
+      "text": "That smoke covering the fire, then the mirror getting colour,"
+    },
+    {
+      "i": 63,
+      "start": 482.64,
+      "end": 488.0,
+      "text": "I mean the deposit of dust or dirt which is prohibiting the"
+    },
+    {
+      "i": 64,
+      "start": 488.24,
+      "end": 494.36,
+      "text": "face to be seen and how the thin embryo, the embryo is covered by"
+    },
+    {
+      "i": 65,
+      "start": 494.4,
+      "end": 497.64,
+      "text": "a thin layer of what you call skin."
+    },
+    {
+      "i": 66,
+      "start": 498.8,
+      "end": 501.2,
+      "text": "So these are the three examples which was given."
+    },
+    {
+      "i": 67,
+      "start": 502.56,
+      "end": 507.24,
+      "text": "Keep that in mind when we go further today into the verses"
+    },
+    {
+      "i": 68,
+      "start": 509.48,
+      "end": 515.36,
+      "text": "Indriyani, the sense organs or the senses."
+    },
+    {
+      "i": 69,
+      "start": 517.12,
+      "end": 524.92,
+      "text": "First of the three kamas Adistana Sankaracharya says"
+    },
+    {
+      "i": 70,
+      "start": 525.12,
+      "end": 533.68,
+      "text": "Srotra Adhini Nani Indriyani, Vagadhini, karmendriyanicha, the"
+    },
+    {
+      "i": 71,
+      "start": 533.68,
+      "end": 538.16,
+      "text": "organs of knowledge beginning with thus year and the organs"
+    },
+    {
+      "i": 72,
+      "start": 538.16,
+      "end": 540.36,
+      "text": "action beginning with the speech etcetera."
+    },
+    {
+      "i": 73,
+      "start": 541.12,
+      "end": 543.04,
+      "text": "All the 10 indriyas are included."
+    },
+    {
+      "i": 74,
+      "start": 543.04,
+      "end": 551.16,
+      "text": "Five nyanindriyas that is organs of perception, ear, skin, eye,"
+    },
+    {
+      "i": 75,
+      "start": 551.2,
+      "end": 555.44,
+      "text": "tongue, nose etcetera and the five karmeindriyani organs of"
+    },
+    {
+      "i": 76,
+      "start": 555.44,
+      "end": 561.48,
+      "text": "action which is speech, hand, feet, xgraphy organ and genetia"
+    },
+    {
+      "i": 77,
+      "start": 561.48,
+      "end": 566.0,
+      "text": "organ. Sankaracharya says that indriyas"
+    },
+    {
+      "i": 78,
+      "start": 566.0,
+      "end": 575.64,
+      "text": "are as the Balaihi Bahi no Bahe in locus of Kama Bahi Lohas"
+    },
+    {
+      "i": 79,
+      "start": 576.32,
+      "end": 585.08,
+      "text": "means it is the extreme most external location or in the form"
+    },
+    {
+      "i": 80,
+      "start": 585.08,
+      "end": 591.48,
+      "text": "of indriyas where these kamas are residing the outermost level"
+    },
+    {
+      "i": 81,
+      "start": 591.48,
+      "end": 595.2,
+      "text": "at which Kama operates by directing the organs toward the"
+    },
+    {
+      "i": 82,
+      "start": 595.2,
+      "end": 599.76,
+      "text": "objects with pull of raga and pull of push of jaishwa."
+    },
+    {
+      "i": 83,
+      "start": 600.92,
+      "end": 605.24,
+      "text": "The indriyas are listed first because they are the most"
+    },
+    {
+      "i": 84,
+      "start": 605.24,
+      "end": 617.2,
+      "text": "grossly observable seat of karma, so that so the extreme"
+    },
+    {
+      "i": 85,
+      "start": 617.2,
+      "end": 623.16,
+      "text": "most is indriyas which are going to be in contact with the"
+    },
+    {
+      "i": 86,
+      "start": 623.16,
+      "end": 625.44,
+      "text": "phenomenal world and sense objects."
+    },
+    {
+      "i": 87,
+      "start": 627.52,
+      "end": 631.44,
+      "text": "Therefore they are the grossest observable seat of gamma."
+    },
+    {
+      "i": 88,
+      "start": 633.28,
+      "end": 639.48,
+      "text": "The sadhaka can most immediately observe gamma operating through"
+    },
+    {
+      "i": 89,
+      "start": 639.48,
+      "end": 647.52,
+      "text": "the sense desires. We found that the sense organs"
+    },
+    {
+      "i": 90,
+      "start": 647.52,
+      "end": 652.72,
+      "text": "when they are in contact with the sense objects is were the"
+    },
+    {
+      "i": 91,
+      "start": 652.72,
+      "end": 658.64,
+      "text": "raga and dwesha developing in our earlier analysis is the raga"
+    },
+    {
+      "i": 92,
+      "start": 658.64,
+      "end": 665.08,
+      "text": "and Dwesha. Attraction and repulsion is the"
+    },
+    {
+      "i": 93,
+      "start": 665.08,
+      "end": 673.56,
+      "text": "place where the karma is directly perceivable."
+    },
+    {
+      "i": 94,
+      "start": 676.48,
+      "end": 681.4,
+      "text": "That is why the raga and dwesha is also happening, because karma"
+    },
+    {
+      "i": 95,
+      "start": 681.4,
+      "end": 688.84,
+      "text": "is operating at that level. This can be compared at the"
+    },
+    {
+      "i": 96,
+      "start": 688.84,
+      "end": 696.16,
+      "text": "grossest example of the where the embryo is covered by the"
+    },
+    {
+      "i": 97,
+      "start": 697.44,
+      "end": 704.2,
+      "text": "membrane. We are never able to understand"
+    },
+    {
+      "i": 98,
+      "start": 704.8,
+      "end": 709.04,
+      "text": "the nature of the phenomenal world except through the names"
+    },
+    {
+      "i": 99,
+      "start": 709.04,
+      "end": 713.32,
+      "text": "and forms. Names includes their name,"
+    },
+    {
+      "i": 100,
+      "start": 713.8,
+      "end": 716.6,
+      "text": "description, qualities, adjectives etcetera."
+    },
+    {
+      "i": 101,
+      "start": 718.48,
+      "end": 723.92,
+      "text": "The form is the appearance in the visual sense."
+    },
+    {
+      "i": 102,
+      "start": 724.96,
+      "end": 732.04,
+      "text": "It can be either experienced as you know, objects which are"
+    },
+    {
+      "i": 103,
+      "start": 732.16,
+      "end": 739.16,
+      "text": "directly visible or imaginarily visible also they're all"
+    },
+    {
+      "i": 104,
+      "start": 739.24,
+      "end": 745.68,
+      "text": "Indriyas coming in contact with it and it is covered with in"
+    },
+    {
+      "i": 105,
+      "start": 745.68,
+      "end": 750.6,
+      "text": "total form that we are not able to see the reality of that."
+    },
+    {
+      "i": 106,
+      "start": 750.6,
+      "end": 757.28,
+      "text": "They are also Brahman or Atman completely covered and we are"
+    },
+    {
+      "i": 107,
+      "start": 757.28,
+      "end": 764.72,
+      "text": "not able to breakthrough that to understand our knowledge cannot"
+    },
+    {
+      "i": 108,
+      "start": 764.72,
+      "end": 769.72,
+      "text": "breakthrough that. So that is the example was the"
+    },
+    {
+      "i": 109,
+      "start": 769.72,
+      "end": 774.6,
+      "text": "embryo thing. The subtler than the gross"
+    },
+    {
+      "i": 110,
+      "start": 774.76,
+      "end": 779.76,
+      "text": "indriyas are the mana. Mana means mind or the inner"
+    },
+    {
+      "i": 111,
+      "start": 779.76,
+      "end": 785.08,
+      "text": "sense, faculty of will and doubt, the coordinator of sense"
+    },
+    {
+      "i": 112,
+      "start": 785.08,
+      "end": 791.44,
+      "text": "data, etcetera. That is mana and Chitta both are"
+    },
+    {
+      "i": 113,
+      "start": 791.44,
+      "end": 797.24,
+      "text": "there included in it. It is the second of the three"
+    },
+    {
+      "i": 114,
+      "start": 798.0,
+      "end": 802.28,
+      "text": "Indriyani mano Buddhi. Sankarajariya says that"
+    },
+    {
+      "i": 115,
+      "start": 802.28,
+      "end": 805.32,
+      "text": "Sankalpa, Vigalpa, Atmakam and the karana."
+    },
+    {
+      "i": 116,
+      "start": 806.24,
+      "end": 812.56,
+      "text": "It is the inner organ whose nature is volition, Sankalpa and"
+    },
+    {
+      "i": 117,
+      "start": 812.56,
+      "end": 817.36,
+      "text": "the doubt Vigalpa. Manasi is the inner locus, locus"
+    },
+    {
+      "i": 118,
+      "start": 817.36,
+      "end": 824.92,
+      "text": "of Kama, subtler than Indriya but less subtler than Indriya"
+    },
+    {
+      "i": 119,
+      "start": 824.92,
+      "end": 827.04,
+      "text": "but less subtler than the Buddhi."
+    },
+    {
+      "i": 120,
+      "start": 830.16,
+      "end": 834.16,
+      "text": "It is Sangarajatya says that it is the sheet of Sangalpa means"
+    },
+    {
+      "i": 121,
+      "start": 834.16,
+      "end": 839.52,
+      "text": "volition, the mental volition that projects the desire towards"
+    },
+    {
+      "i": 122,
+      "start": 839.52,
+      "end": 845.08,
+      "text": "the objects even before the indriyas become come in contact"
+    },
+    {
+      "i": 123,
+      "start": 845.08,
+      "end": 849.88,
+      "text": "with them. The indriyas can contact and"
+    },
+    {
+      "i": 124,
+      "start": 849.88,
+      "end": 855.92,
+      "text": "sense object only the mind has instructed in the Indriya."
+    },
+    {
+      "i": 125,
+      "start": 857.36,
+      "end": 861.4,
+      "text": "Otherwise the indriya even the sense organ may be in contact"
+    },
+    {
+      "i": 126,
+      "start": 861.4,
+      "end": 867.44,
+      "text": "with the sense object but it is not having the contact."
+    },
+    {
+      "i": 127,
+      "start": 869.48,
+      "end": 877.48,
+      "text": "It is physically in contact but not apprehension wise contact."
+    },
+    {
+      "i": 128,
+      "start": 879.4,
+      "end": 883.68,
+      "text": "So karma in the minus operates through this mental act,"
+    },
+    {
+      "i": 129,
+      "start": 883.68,
+      "end": 887.44,
+      "text": "craving, fantasy and wishful imagination."
+    },
+    {
+      "i": 130,
+      "start": 888.28,
+      "end": 892.76,
+      "text": "The stankalpavrutis are the volitions that is happening in"
+    },
+    {
+      "i": 131,
+      "start": 892.76,
+      "end": 898.08,
+      "text": "the mind that rehearse and amplify the desire even in the"
+    },
+    {
+      "i": 132,
+      "start": 898.08,
+      "end": 900.68,
+      "text": "absence of a direct sense contact."
+    },
+    {
+      "i": 133,
+      "start": 901.0,
+      "end": 907.48,
+      "text": "That is, when the the direct contact is also not there, you"
+    },
+    {
+      "i": 134,
+      "start": 907.48,
+      "end": 910.6,
+      "text": "can imagine and enjoy the object."
+    },
+    {
+      "i": 135,
+      "start": 912.12,
+      "end": 916.56,
+      "text": "It is all happening because the desire is operating at the mind"
+    },
+    {
+      "i": 136,
+      "start": 916.56,
+      "end": 922.96,
+      "text": "level. In the 3.6 we were told about a"
+    },
+    {
+      "i": 137,
+      "start": 922.96,
+      "end": 930.44,
+      "text": "mithyacharyan or a hypocrite who externally is in a composed and"
+    },
+    {
+      "i": 138,
+      "start": 930.44,
+      "end": 935.2,
+      "text": "sitting quiet but his mind is fully agitative and active."
+    },
+    {
+      "i": 139,
+      "start": 936.6,
+      "end": 942.88,
+      "text": "Parmendriyani Manasa samyamya A aaste manasas maran, that was"
+    },
+    {
+      "i": 140,
+      "start": 942.88,
+      "end": 946.56,
+      "text": "the word used with it. So smaran indriyarthan."
+    },
+    {
+      "i": 141,
+      "start": 946.96,
+      "end": 952.8,
+      "text": "So he mentally dwelling upon the sense objects, illustrating how"
+    },
+    {
+      "i": 142,
+      "start": 952.8,
+      "end": 959.24,
+      "text": "karma in the mind can operate. Even when the Indriya karma is"
+    },
+    {
+      "i": 143,
+      "start": 960.12,
+      "end": 965.56,
+      "text": "not agitated or it can be even externally suppressed."
+    },
+    {
+      "i": 144,
+      "start": 966.28,
+      "end": 972.08,
+      "text": "The physical eye can be closed. We can, you know, go to a cave"
+    },
+    {
+      "i": 145,
+      "start": 972.08,
+      "end": 976.72,
+      "text": "or a secluded place to avoid contact of the desired objects,"
+    },
+    {
+      "i": 146,
+      "start": 977.52,
+      "end": 984.0,
+      "text": "but the mind can amplify the desire."
+    },
+    {
+      "i": 147,
+      "start": 986.76,
+      "end": 991.0,
+      "text": "The third of the triad is what is the buddhi, indriya mano"
+    },
+    {
+      "i": 148,
+      "start": 991.0,
+      "end": 995.24,
+      "text": "buddhi. Buddhi is the intellect, the"
+    },
+    {
+      "i": 149,
+      "start": 995.24,
+      "end": 999.48,
+      "text": "discriminative intelligence, the faculty of determination and"
+    },
+    {
+      "i": 150,
+      "start": 999.48,
+      "end": 1004.76,
+      "text": "judgment. The third of the most subtle"
+    },
+    {
+      "i": 151,
+      "start": 1004.76,
+      "end": 1009.44,
+      "text": "member of the triad. Sankarajya glosses this as"
+    },
+    {
+      "i": 152,
+      "start": 1010.8,
+      "end": 1016.0,
+      "text": "Nischayatmika andakaranabruti, the function of the inner organ,"
+    },
+    {
+      "i": 153,
+      "start": 1016.44,
+      "end": 1019.4,
+      "text": "whose nature is definitive determination."
+    },
+    {
+      "i": 154,
+      "start": 1022.04,
+      "end": 1027.24,
+      "text": "Udhi is the subtlest seat of karma, more difficult to detect"
+    },
+    {
+      "i": 155,
+      "start": 1027.28,
+      "end": 1032.319,
+      "text": "and most dangerous because buddhi is the very faculty of"
+    },
+    {
+      "i": 156,
+      "start": 1032.319,
+      "end": 1037.4,
+      "text": "viveka discrimination that would otherwise recognize and overcome"
+    },
+    {
+      "i": 157,
+      "start": 1037.4,
+      "end": 1044.96,
+      "text": "karma. Karma in the buddhi as Pragnyana"
+    },
+    {
+      "i": 158,
+      "start": 1044.96,
+      "end": 1050.12,
+      "text": "dosha, corruption of discriminative intelligence."
+    },
+    {
+      "i": 159,
+      "start": 1051.96,
+      "end": 1056.92,
+      "text": "When Kama has penetrated the level of buddhi, it distorts the"
+    },
+    {
+      "i": 160,
+      "start": 1056.92,
+      "end": 1061.12,
+      "text": "very judgment that should recognize it as an enemy."
+    },
+    {
+      "i": 161,
+      "start": 1063.48,
+      "end": 1070.52,
+      "text": "So the person becomes an adnani or the Adnani whose buddhi is"
+    },
+    {
+      "i": 162,
+      "start": 1070.52,
+      "end": 1075.12,
+      "text": "now corrupted by Kama. He will rationalize his desire"
+    },
+    {
+      "i": 163,
+      "start": 1075.12,
+      "end": 1081.28,
+      "text": "as Dharma, his attachment as love is craving as legitimate"
+    },
+    {
+      "i": 164,
+      "start": 1081.28,
+      "end": 1088.16,
+      "text": "needs. This is all buddhi can corrupt."
+    },
+    {
+      "i": 165,
+      "start": 1089.04,
+      "end": 1094.4,
+      "text": "When corrupted with karma. We give justification for our"
+    },
+    {
+      "i": 166,
+      "start": 1094.64,
+      "end": 1097.88,
+      "text": "desires. We say we are doing dharmic"
+    },
+    {
+      "i": 167,
+      "start": 1097.88,
+      "end": 1100.92,
+      "text": "actions. We are showing compassion and"
+    },
+    {
+      "i": 168,
+      "start": 1100.92,
+      "end": 1107.0,
+      "text": "love to our fellow beings. Our cravings like the need for"
+    },
+    {
+      "i": 169,
+      "start": 1107.0,
+      "end": 1111.36,
+      "text": "devotion, need for social service, all those things are"
+    },
+    {
+      "i": 170,
+      "start": 1111.36,
+      "end": 1116.88,
+      "text": "justified because the Kama has corrupted the mind on the"
+    },
+    {
+      "i": 171,
+      "start": 1116.88,
+      "end": 1121.2,
+      "text": "corrupted the buddhi, and now buddhi having lost the"
+    },
+    {
+      "i": 172,
+      "start": 1121.2,
+      "end": 1127.28,
+      "text": "discrimination, justifies this and will be unable to see them"
+    },
+    {
+      "i": 173,
+      "start": 1127.28,
+      "end": 1131.88,
+      "text": "clearly. This is the kama's most"
+    },
+    {
+      "i": 174,
+      "start": 1131.88,
+      "end": 1141.48,
+      "text": "dangerous and subtle operation. Astiya of this Kama Adisthanam"
+    },
+    {
+      "i": 175,
+      "start": 1141.48,
+      "end": 1145.68,
+      "text": "uchate. So these are the Asreya."
+    },
+    {
+      "i": 176,
+      "start": 1145.72,
+      "end": 1150.68,
+      "text": "Adisthanam means asreystanam. The support station or the"
+    },
+    {
+      "i": 177,
+      "start": 1150.84,
+      "end": 1158.48,
+      "text": "technical term is that were you know it is firmly placed."
+    },
+    {
+      "i": 178,
+      "start": 1158.56,
+      "end": 1163.24,
+      "text": "Adisthanam means asreystanam. It cannot be, you know,"
+    },
+    {
+      "i": 179,
+      "start": 1163.24,
+      "end": 1167.28,
+      "text": "dethroned from there. It indicates not mere location,"
+    },
+    {
+      "i": 180,
+      "start": 1167.28,
+      "end": 1173.32,
+      "text": "but the operational base. Kama does not merely reside in"
+    },
+    {
+      "i": 181,
+      "start": 1173.32,
+      "end": 1179.44,
+      "text": "these three, but controls them, operates from them, and using"
+    },
+    {
+      "i": 182,
+      "start": 1179.44,
+      "end": 1183.08,
+      "text": "them as the instruments for concealment and dilution."
+    },
+    {
+      "i": 183,
+      "start": 1189.24,
+      "end": 1192.08,
+      "text": "So the three constitutes structural supports through"
+    },
+    {
+      "i": 184,
+      "start": 1192.08,
+      "end": 1199.6,
+      "text": "which the Kama maintains the avarana of Nyana over the"
+    },
+    {
+      "i": 185,
+      "start": 1199.6,
+      "end": 1204.52,
+      "text": "ordering of the triad. Indriyamanabuddhi from the gross"
+    },
+    {
+      "i": 186,
+      "start": 1204.52,
+      "end": 1209.6,
+      "text": "subtle corresponds to the three levels of adistana, pahiya,"
+    },
+    {
+      "i": 187,
+      "start": 1210.32,
+      "end": 1217.96,
+      "text": "madhyama and andara, and will correspond to the three levels"
+    },
+    {
+      "i": 188,
+      "start": 1217.96,
+      "end": 1224.36,
+      "text": "of sadhana prescribed in the next 3 verses."
+    },
+    {
+      "i": 189,
+      "start": 1225.72,
+      "end": 1230.2,
+      "text": "So these are the adhisthanam uchhade means is being declared."
+    },
+    {
+      "i": 190,
+      "start": 1232.6,
+      "end": 1236.48,
+      "text": "Declared by whom? The Vedas or the Upanishads"
+    },
+    {
+      "i": 191,
+      "start": 1238.84,
+      "end": 1245.56,
+      "text": "Etahi means these by these or through this refers to the"
+    },
+    {
+      "i": 192,
+      "start": 1245.56,
+      "end": 1250.6,
+      "text": "Indriyani mano buddhi. By means of these three the as"
+    },
+    {
+      "i": 193,
+      "start": 1250.6,
+      "end": 1260.72,
+      "text": "instrumentals means for Kama to operate is were you know it"
+    },
+    {
+      "i": 194,
+      "start": 1261.4,
+      "end": 1269.04,
+      "text": "resides and operates ETI hi tribihi ajustanihi means by"
+    },
+    {
+      "i": 195,
+      "start": 1269.04,
+      "end": 1273.76,
+      "text": "means of these threes bases. These three are not merely"
+    },
+    {
+      "i": 196,
+      "start": 1273.76,
+      "end": 1276.52,
+      "text": "passive locations but active instruments."
+    },
+    {
+      "i": 197,
+      "start": 1277.08,
+      "end": 1282.52,
+      "text": "So they the Kama uses them. Not only they are he there"
+    },
+    {
+      "i": 198,
+      "start": 1283.08,
+      "end": 1288.8,
+      "text": "adhering to these Mahindriya, mana, Buddhi while adhering to"
+    },
+    {
+      "i": 199,
+      "start": 1288.8,
+      "end": 1298.6,
+      "text": "these three uses them to act according to the direction of"
+    },
+    {
+      "i": 200,
+      "start": 1298.6,
+      "end": 1302.48,
+      "text": "Kama. Virtually becoming subservient"
+    },
+    {
+      "i": 201,
+      "start": 1302.48,
+      "end": 1306.2,
+      "text": "to Kama. Indriyas, mana and buddhi will"
+    },
+    {
+      "i": 202,
+      "start": 1306.2,
+      "end": 1311.04,
+      "text": "become subservient to Kama, and once it becomes subservient"
+    },
+    {
+      "i": 203,
+      "start": 1312.28,
+      "end": 1321.12,
+      "text": "vimohayati, causing thorough dilution or complete"
+    },
+    {
+      "i": 204,
+      "start": 1321.12,
+      "end": 1328.88,
+      "text": "bewilderment or confusion. So Kama causes the embodied one"
+    },
+    {
+      "i": 205,
+      "start": 1329.28,
+      "end": 1336.6,
+      "text": "to be Vimoda means his his discrimination power has gone."
+    },
+    {
+      "i": 206,
+      "start": 1337.56,
+      "end": 1342.32,
+      "text": "The V prefix intensify the thoroughness or the completeness"
+    },
+    {
+      "i": 207,
+      "start": 1342.32,
+      "end": 1348.52,
+      "text": "of the dilution. Vimohayati adnanam utpadayati"
+    },
+    {
+      "i": 208,
+      "start": 1349.16,
+      "end": 1353.24,
+      "text": "that means causes delusion or produces ignorance."
+    },
+    {
+      "i": 209,
+      "start": 1354.64,
+      "end": 1358.44,
+      "text": "Sankarajarya reads vimohayati as a specific mechanism through"
+    },
+    {
+      "i": 210,
+      "start": 1358.44,
+      "end": 1363.48,
+      "text": "which Kama operates. Using the three adishtanas or"
+    },
+    {
+      "i": 211,
+      "start": 1363.96,
+      "end": 1371.84,
+      "text": "substratum or the bass as instruments, it produces moha, a"
+    },
+    {
+      "i": 212,
+      "start": 1371.84,
+      "end": 1378.0,
+      "text": "confusion or a delusion in in the jiva or the dehin."
+    },
+    {
+      "i": 213,
+      "start": 1379.16,
+      "end": 1383.28,
+      "text": "This is the first place in the Gita where Krishna is using the"
+    },
+    {
+      "i": 214,
+      "start": 1383.28,
+      "end": 1387.68,
+      "text": "word dehin. Dehin means the embodied. 1."
+    },
+    {
+      "i": 215,
+      "start": 1389.4,
+      "end": 1395.96,
+      "text": "Moha is the specific andakarana vikara that prevents viveka."
+    },
+    {
+      "i": 216,
+      "start": 1398.16,
+      "end": 1400.56,
+      "text": "The confused person cannot discriminate."
+    },
+    {
+      "i": 217,
+      "start": 1400.56,
+      "end": 1407.24,
+      "text": "Atman from anatman, Kama from Dharma, Vairi from Brundu from"
+    },
+    {
+      "i": 218,
+      "start": 1407.28,
+      "end": 1412.76,
+      "text": "that is atma from anatma, the self from non self, Kama from"
+    },
+    {
+      "i": 219,
+      "start": 1412.76,
+      "end": 1420.6,
+      "text": "Dharma, the desire from the duties and responsibilities from"
+    },
+    {
+      "i": 220,
+      "start": 1420.6,
+      "end": 1431.32,
+      "text": "the enemies to a relative Eshat nyayanam esha this kaam Nyayanam"
+    },
+    {
+      "i": 221,
+      "start": 1431.4,
+      "end": 1438.92,
+      "text": "Avrithya having covered the knowledge, the same nyayanam as"
+    },
+    {
+      "i": 222,
+      "start": 1439.08,
+      "end": 1444.08,
+      "text": "what is given in the 38 and 39 atmat Nyayanam and Vivekat"
+    },
+    {
+      "i": 223,
+      "start": 1444.08,
+      "end": 1452.16,
+      "text": "Nyayanam both that that is what is getting covered by the kaam."
+    },
+    {
+      "i": 224,
+      "start": 1453.36,
+      "end": 1459.24,
+      "text": "So Kama first covers Avaratyat Nyana and then dilutes"
+    },
+    {
+      "i": 225,
+      "start": 1459.24,
+      "end": 1467.76,
+      "text": "vimohayati and the sequence is covering and then projection"
+    },
+    {
+      "i": 226,
+      "start": 1468.44,
+      "end": 1474.72,
+      "text": "that is avarana and vickshepa. These are the two Shaktis of"
+    },
+    {
+      "i": 227,
+      "start": 1475.52,
+      "end": 1481.2,
+      "text": "ignorance or avidya because of Kama that is getting operated"
+    },
+    {
+      "i": 228,
+      "start": 1481.52,
+      "end": 1486.96,
+      "text": "operational. Sankracharya reads Avritiya as"
+    },
+    {
+      "i": 229,
+      "start": 1486.96,
+      "end": 1489.36,
+      "text": "indicating the causal relationship."
+    },
+    {
+      "i": 230,
+      "start": 1490.08,
+      "end": 1494.36,
+      "text": "Vighshepa delusion is made possible by prior avrana"
+    },
+    {
+      "i": 231,
+      "start": 1494.44,
+      "end": 1499.76,
+      "text": "covering. If Nyana is not covered, the"
+    },
+    {
+      "i": 232,
+      "start": 1499.76,
+      "end": 1503.24,
+      "text": "Dehin would see clearly and could not be deluded."
+    },
+    {
+      "i": 233,
+      "start": 1506.68,
+      "end": 1509.96,
+      "text": "Therefore, Shankarajya connects this to the Advaitic doctrine"
+    },
+    {
+      "i": 234,
+      "start": 1509.96,
+      "end": 1513.2,
+      "text": "that Avidya's two saktis, Avarana Sakti and Vikshepa"
+    },
+    {
+      "i": 235,
+      "start": 1513.2,
+      "end": 1516.16,
+      "text": "Sakti. That is the power of concealment"
+    },
+    {
+      "i": 236,
+      "start": 1516.16,
+      "end": 1520.76,
+      "text": "and power of projection. So the best example is that the"
+    },
+    {
+      "i": 237,
+      "start": 1520.76,
+      "end": 1526.0,
+      "text": "concealment of the nature of the rope and projection of the snake"
+    },
+    {
+      "i": 238,
+      "start": 1526.16,
+      "end": 1531.0,
+      "text": "in the place of rope is example. What is given Avarana and"
+    },
+    {
+      "i": 239,
+      "start": 1531.0,
+      "end": 1537.52,
+      "text": "Vikshepa same way nature and silver or post and ghost all of"
+    },
+    {
+      "i": 240,
+      "start": 1537.52,
+      "end": 1543.44,
+      "text": "them are First it has to conceal the reality yanam then only it"
+    },
+    {
+      "i": 241,
+      "start": 1543.44,
+      "end": 1548.44,
+      "text": "goes for the projection delusion with the false information."
+    },
+    {
+      "i": 242,
+      "start": 1549.84,
+      "end": 1555.6,
+      "text": "Avarana hides the truth reality and bhiksheba projects the false"
+    },
+    {
+      "i": 243,
+      "start": 1555.6,
+      "end": 1560.6,
+      "text": "reality in its place and both are done by Kama."
+    },
+    {
+      "i": 244,
+      "start": 1561.88,
+      "end": 1567.72,
+      "text": "So Kama operates as the concrete expression of both of these"
+    },
+    {
+      "i": 245,
+      "start": 1567.72,
+      "end": 1574.08,
+      "text": "Shaktis simultaneously. And whom does he, whom does the"
+    },
+    {
+      "i": 246,
+      "start": 1574.08,
+      "end": 1579.48,
+      "text": "Kama effect? Dehinam, the embodied 1 The"
+    },
+    {
+      "i": 247,
+      "start": 1579.48,
+      "end": 1582.8,
+      "text": "jiva. And it is the one which is"
+    },
+    {
+      "i": 248,
+      "start": 1582.8,
+      "end": 1590.16,
+      "text": "getting bhimohayati or deluded sahiram dehum dhariati iti dehi."
+    },
+    {
+      "i": 249,
+      "start": 1592.56,
+      "end": 1596.24,
+      "text": "One who bears or carries this body is called the dehi."
+    },
+    {
+      "i": 250,
+      "start": 1597.76,
+      "end": 1603.04,
+      "text": "The choice of dehin rather than purusha for jiva in this verse"
+    },
+    {
+      "i": 251,
+      "start": 1603.48,
+      "end": 1609.24,
+      "text": "is very significant because dehin emphasizes the embodied"
+    },
+    {
+      "i": 252,
+      "start": 1609.24,
+      "end": 1612.52,
+      "text": "condition. It is because of the body and"
+    },
+    {
+      "i": 253,
+      "start": 1612.52,
+      "end": 1617.48,
+      "text": "its associated indriyas that Kama has the adhisthana through"
+    },
+    {
+      "i": 254,
+      "start": 1617.48,
+      "end": 1624.24,
+      "text": "which it operates, the disembodied Atman or pure atman."
+    },
+    {
+      "i": 255,
+      "start": 1625.84,
+      "end": 1630.04,
+      "text": "Disembodied atman means atman without the association or"
+    },
+    {
+      "i": 256,
+      "start": 1630.24,
+      "end": 1635.64,
+      "text": "identification with the body, has no indriyas, no mind, no"
+    },
+    {
+      "i": 257,
+      "start": 1635.64,
+      "end": 1640.0,
+      "text": "intellect. These are the dehasamigri"
+    },
+    {
+      "i": 258,
+      "start": 1640.0,
+      "end": 1643.84,
+      "text": "equipments of the body. So when I say body, mind,"
+    },
+    {
+      "i": 259,
+      "start": 1643.84,
+      "end": 1645.92,
+      "text": "intellect, complex, it is the dehin."
+    },
+    {
+      "i": 260,
+      "start": 1645.96,
+      "end": 1650.44,
+      "text": "What is? It is the Kama operates through"
+    },
+    {
+      "i": 261,
+      "start": 1650.44,
+      "end": 1659.52,
+      "text": "them to delude the dehin. Dehinam in the verse is pointing"
+    },
+    {
+      "i": 262,
+      "start": 1659.52,
+      "end": 1664.88,
+      "text": "to the vyawharika condition of Atman identified within the"
+    },
+    {
+      "i": 263,
+      "start": 1664.88,
+      "end": 1668.92,
+      "text": "body. It is this identification that"
+    },
+    {
+      "i": 264,
+      "start": 1668.92,
+      "end": 1676.52,
+      "text": "makes Vimoha delusion because when this identification takes,"
+    },
+    {
+      "i": 265,
+      "start": 1677.68,
+      "end": 1680.76,
+      "text": "the identification is happening in the body."
+    },
+    {
+      "i": 266,
+      "start": 1682.92,
+      "end": 1689.0,
+      "text": "Atma is not getting diluted. Atma is nyana swaruba."
+    },
+    {
+      "i": 267,
+      "start": 1690.04,
+      "end": 1694.08,
+      "text": "But what is getting diluted? We will see which is coming in"
+    },
+    {
+      "i": 268,
+      "start": 1694.08,
+      "end": 1696.96,
+      "text": "the verse next 3 verses it will be clear."
+    },
+    {
+      "i": 269,
+      "start": 1700.32,
+      "end": 1706.8,
+      "text": "It is the function of the intellect mind which is getting"
+    },
+    {
+      "i": 270,
+      "start": 1706.8,
+      "end": 1714.44,
+      "text": "delivered first. Indriya Mano Buddhi is declared"
+    },
+    {
+      "i": 271,
+      "start": 1714.44,
+      "end": 1720.36,
+      "text": "as the basis of for the phenomenological map of Kama to"
+    },
+    {
+      "i": 272,
+      "start": 1720.36,
+      "end": 1725.48,
+      "text": "operate at the Indriya level. Kama operates as Vishaya"
+    },
+    {
+      "i": 273,
+      "start": 1725.48,
+      "end": 1730.12,
+      "text": "Krishna, raving towards the sense objects most obvious and"
+    },
+    {
+      "i": 274,
+      "start": 1730.12,
+      "end": 1735.72,
+      "text": "grossly observable. At the mind level it operates as"
+    },
+    {
+      "i": 275,
+      "start": 1735.72,
+      "end": 1741.8,
+      "text": "Sankalpa volition, the mental volition and wishful fantasy,"
+    },
+    {
+      "i": 276,
+      "start": 1743.72,
+      "end": 1747.2,
+      "text": "subtler and harder to observe than the Indriya level."
+    },
+    {
+      "i": 277,
+      "start": 1748.68,
+      "end": 1755.92,
+      "text": "At the Buddhi level, it operates as Pratnyana dosha, the"
+    },
+    {
+      "i": 278,
+      "start": 1755.92,
+      "end": 1760.36,
+      "text": "corruption of discriminative intelligence, the most subtlest"
+    },
+    {
+      "i": 279,
+      "start": 1760.36,
+      "end": 1764.88,
+      "text": "and the most dangerous. The graduated subtlety of the"
+    },
+    {
+      "i": 280,
+      "start": 1764.88,
+      "end": 1767.96,
+      "text": "three levels corresponds to the graduated difficulty of"
+    },
+    {
+      "i": 281,
+      "start": 1767.96,
+      "end": 1773.4,
+      "text": "overcoming Kama at each level. At the Indriya level, it is"
+    },
+    {
+      "i": 282,
+      "start": 1773.4,
+      "end": 1776.6,
+      "text": "easiest to recognize and easiest to control it."
+    },
+    {
+      "i": 283,
+      "start": 1779.8,
+      "end": 1784.04,
+      "text": "At the buddhi level, Kama is nearly impossible for the"
+    },
+    {
+      "i": 284,
+      "start": 1784.04,
+      "end": 1787.36,
+      "text": "uninstructed sadhaga to even detect."
+    },
+    {
+      "i": 285,
+      "start": 1788.08,
+      "end": 1790.4,
+      "text": "Is will not be even able to recognize it."
+    },
+    {
+      "i": 286,
+      "start": 1795.56,
+      "end": 1798.64,
+      "text": "And how do they do it? Avrithya Vimohairi"
+    },
+    {
+      "i": 287,
+      "start": 1800.64,
+      "end": 1803.2,
+      "text": "Sankaracharya's precise statement of the Advaitic"
+    },
+    {
+      "i": 288,
+      "start": 1803.2,
+      "end": 1808.16,
+      "text": "doctrine of Avrith Avidya in the two phases of Avrana in"
+    },
+    {
+      "i": 289,
+      "start": 1808.16,
+      "end": 1813.6,
+      "text": "Viksheva, phase one is Avrana. Kaama covers the Nyana at the"
+    },
+    {
+      "i": 290,
+      "start": 1813.6,
+      "end": 1817.56,
+      "text": "Indriya Mana buddhi level, preventing the viveka that"
+    },
+    {
+      "i": 291,
+      "start": 1817.56,
+      "end": 1823.0,
+      "text": "should see through it. Having lost the discriminative"
+    },
+    {
+      "i": 292,
+      "start": 1823.16,
+      "end": 1834.04,
+      "text": "intellect to see the Kama, the viksheva, the projection Kama"
+    },
+    {
+      "i": 293,
+      "start": 1834.04,
+      "end": 1839.16,
+      "text": "starts projecting its own reality onto the The Vishayas"
+    },
+    {
+      "i": 294,
+      "start": 1839.16,
+      "end": 1841.6,
+      "text": "appears as genuine source of Ananda."
+    },
+    {
+      "i": 295,
+      "start": 1843.04,
+      "end": 1846.44,
+      "text": "They are thinking that contact Indriya, contacting with the"
+    },
+    {
+      "i": 296,
+      "start": 1846.44,
+      "end": 1850.84,
+      "text": "sense objects is heaving. Happiness is the false feeling"
+    },
+    {
+      "i": 297,
+      "start": 1852.04,
+      "end": 1859.6,
+      "text": "of wrong reality projected by the karma and the body appears"
+    },
+    {
+      "i": 298,
+      "start": 1859.6,
+      "end": 1864.96,
+      "text": "as the self. That is why the self, the body"
+    },
+    {
+      "i": 299,
+      "start": 1864.96,
+      "end": 1866.76,
+      "text": "is the one which is getting diluted."
+    },
+    {
+      "i": 300,
+      "start": 1867.16,
+      "end": 1870.28,
+      "text": "But karma says that is the body, that is the self."
+    },
+    {
+      "i": 301,
+      "start": 1871.16,
+      "end": 1875.24,
+      "text": "So we all identify with our body because of our karma in the"
+    },
+    {
+      "i": 302,
+      "start": 1875.24,
+      "end": 1880.8,
+      "text": "body, mind, intellect level. Therefore Kartruta appears as"
+    },
+    {
+      "i": 303,
+      "start": 1880.8,
+      "end": 1884.28,
+      "text": "real. The activity of the body where"
+    },
+    {
+      "i": 304,
+      "start": 1884.28,
+      "end": 1888.64,
+      "text": "the actions are being performed becomes my activity."
+    },
+    {
+      "i": 305,
+      "start": 1890.72,
+      "end": 1895.92,
+      "text": "The dehin does not merely become ignorant by lack of knowledge,"
+    },
+    {
+      "i": 306,
+      "start": 1896.32,
+      "end": 1900.64,
+      "text": "but positively getting diluted because of the holding to the"
+    },
+    {
+      "i": 307,
+      "start": 1900.64,
+      "end": 1904.56,
+      "text": "false knowledge. The removal of this delusion"
+    },
+    {
+      "i": 308,
+      "start": 1904.56,
+      "end": 1909.48,
+      "text": "requires not merely the absence of avarana, but the positive"
+    },
+    {
+      "i": 309,
+      "start": 1909.48,
+      "end": 1915.0,
+      "text": "arising of nyana through sadhana, specifically through"
+    },
+    {
+      "i": 310,
+      "start": 1915.0,
+      "end": 1918.8,
+      "text": "the three levels of discipline of Indriya Mana and Buddhi,"
+    },
+    {
+      "i": 311,
+      "start": 1919.4,
+      "end": 1922.04,
+      "text": "which will be prescribed in the next 3 verses."
+    },
+    {
+      "i": 312,
+      "start": 1925.72,
+      "end": 1930.0,
+      "text": "The Indriya mana, Buddhi as the sadhana, is the place where the"
+    },
+    {
+      "i": 313,
+      "start": 1930.0,
+      "end": 1935.2,
+      "text": "sadhana also is prescribed in the following verses, but it"
+    },
+    {
+      "i": 314,
+      "start": 1935.2,
+      "end": 1938.84,
+      "text": "will be in the reverse order, Buddhi manasindriya."
+    },
+    {
+      "i": 315,
+      "start": 1939.48,
+      "end": 1943.36,
+      "text": "It has to start from the buddhi from the settlest to the"
+    },
+    {
+      "i": 316,
+      "start": 1943.36,
+      "end": 1947.48,
+      "text": "grossest. The Sataga must first stabilize"
+    },
+    {
+      "i": 317,
+      "start": 1947.48,
+      "end": 1953.0,
+      "text": "the buddhi through Atmatyana viveka, then control the mind"
+    },
+    {
+      "i": 318,
+      "start": 1954.04,
+      "end": 1961.96,
+      "text": "using the atmatyana through buddhi which will be shown,"
+    },
+    {
+      "i": 319,
+      "start": 1961.96,
+      "end": 1966.76,
+      "text": "which will be explained in verse #42 and 43, the coming 2 verses,"
+    },
+    {
+      "i": 320,
+      "start": 1967.8,
+      "end": 1973.48,
+      "text": "and then regulate the indriya through the mind because mind is"
+    },
+    {
+      "i": 321,
+      "start": 1974.04,
+      "end": 1977.68,
+      "text": "the charioter which is controlling the horses of"
+    },
+    {
+      "i": 322,
+      "start": 1977.68,
+      "end": 1980.4,
+      "text": "indriyas which we will see later in Krishna."
+    },
+    {
+      "i": 323,
+      "start": 1980.4,
+      "end": 1985.84,
+      "text": "Using that simile, the verse thus provides both diagnosis at"
+    },
+    {
+      "i": 324,
+      "start": 1985.84,
+      "end": 1990.04,
+      "text": "the three levels of Kama's operation and implicit"
+    },
+    {
+      "i": 325,
+      "start": 1990.04,
+      "end": 1995.12,
+      "text": "prescription at the three levels of purifactory discipline."
+    },
+    {
+      "i": 326,
+      "start": 1995.8,
+      "end": 2005.0,
+      "text": "In the reverse order, Dehinam Mimohayathi is an explanation of"
+    },
+    {
+      "i": 327,
+      "start": 2005.0,
+      "end": 2009.96,
+      "text": "the Anichen Nabi Balativa Neo Jita."
+    },
+    {
+      "i": 328,
+      "start": 2010.48,
+      "end": 2017.2,
+      "text": "At the verse 36 we saw that Arjuna asking saying that even"
+    },
+    {
+      "i": 329,
+      "start": 2017.2,
+      "end": 2023.08,
+      "text": "though not desired as if forced by somebody, the injuries are"
+    },
+    {
+      "i": 330,
+      "start": 2023.36,
+      "end": 2026.68,
+      "text": "acting into this. Why the person commits Papa"
+    },
+    {
+      "i": 331,
+      "start": 2026.68,
+      "end": 2032.08,
+      "text": "against his own will? The answer is complete because"
+    },
+    {
+      "i": 332,
+      "start": 2032.08,
+      "end": 2042.08,
+      "text": "Kama using this three base as instruments, the Kama first"
+    },
+    {
+      "i": 333,
+      "start": 2042.08,
+      "end": 2045.76,
+      "text": "covered that nyana removing the viveka that would prevent the"
+    },
+    {
+      "i": 334,
+      "start": 2045.76,
+      "end": 2051.88,
+      "text": "Papa, then actively dilute the dehin, projecting a false"
+    },
+    {
+      "i": 335,
+      "start": 2051.88,
+      "end": 2056.52,
+      "text": "reality in which the Papa appears justified Papa is there,"
+    },
+    {
+      "i": 336,
+      "start": 2056.88,
+      "end": 2060.199,
+      "text": "but it will be appear as if it is a justified Dharma."
+    },
+    {
+      "i": 337,
+      "start": 2061.639,
+      "end": 2064.08,
+      "text": "It is shown. It will be shown as it is"
+    },
+    {
+      "i": 338,
+      "start": 2064.08,
+      "end": 2070.96,
+      "text": "necessary also and instead of showing it is Papa, it will be"
+    },
+    {
+      "i": 339,
+      "start": 2070.96,
+      "end": 2076.6,
+      "text": "shown that it is even virtuous. So the Dehin who is Vimoda by"
+    },
+    {
+      "i": 340,
+      "start": 2076.6,
+      "end": 2080.719,
+      "text": "Kama at all the three level has no operative viveka."
+    },
+    {
+      "i": 341,
+      "start": 2081.44,
+      "end": 2084.0,
+      "text": "He is under the clutches of Kama."
+    },
+    {
+      "i": 342,
+      "start": 2084.88,
+      "end": 2088.96,
+      "text": "His indriya mano buddhi are all instruments of Kama rather than"
+    },
+    {
+      "i": 343,
+      "start": 2089.08,
+      "end": 2096.36,
+      "text": "that of Nyana, and therefore he must commit Papa as if compelled"
+    },
+    {
+      "i": 344,
+      "start": 2096.36,
+      "end": 2098.76,
+      "text": "by an irresistible force, Baladiva."
+    },
+    {
+      "i": 345,
+      "start": 2100.76,
+      "end": 2104.24,
+      "text": "The resolution lies in the sadhana of the final three"
+    },
+    {
+      "i": 346,
+      "start": 2104.24,
+      "end": 2108.92,
+      "text": "verses, reclaiming Indriya Mano Buddhi from the Kama's control"
+    },
+    {
+      "i": 347,
+      "start": 2108.92,
+      "end": 2112.84,
+      "text": "through the discipline of Karma Yoga and ultimately dissolving"
+    },
+    {
+      "i": 348,
+      "start": 2112.84,
+      "end": 2119.4,
+      "text": "Kama through Atmat Nyana which we will be seeing in the next 3"
+    },
+    {
+      "i": 349,
+      "start": 2119.4,
+      "end": 2124.0,
+      "text": "verses. Indriyani Manu buddhista asya"
+    },
+    {
+      "i": 350,
+      "start": 2124.0,
+      "end": 2126.68,
+      "text": "kaamasya adistanam aashtraya uchate."
+    },
+    {
+      "i": 351,
+      "start": 2127.6,
+      "end": 2131.4,
+      "text": "The senses, mind and intellect are said to be the abode or the"
+    },
+    {
+      "i": 352,
+      "start": 2131.4,
+      "end": 2135.76,
+      "text": "seats of the desire Sankarajya's commentary."
+    },
+    {
+      "i": 353,
+      "start": 2137.44,
+      "end": 2143.04,
+      "text": "So the same Adistana is where these three are being given"
+    },
+    {
+      "i": 354,
+      "start": 2144.36,
+      "end": 2147.48,
+      "text": "Indriyani with the contact of the objects, Mana with the"
+    },
+    {
+      "i": 355,
+      "start": 2147.48,
+      "end": 2154.64,
+      "text": "emotional response and display desire, Buddhi justification and"
+    },
+    {
+      "i": 356,
+      "start": 2154.64,
+      "end": 2163.64,
+      "text": "decision, etahi indriya dibihi aasaiyahi through these supports"
+    },
+    {
+      "i": 357,
+      "start": 2164.28,
+      "end": 2170.88,
+      "text": "the stenses etcetera Vimohayati vibhidammohayati eshakama."
+    },
+    {
+      "i": 358,
+      "start": 2171.72,
+      "end": 2174.68,
+      "text": "This desire dilutes the person in many ways."
+    },
+    {
+      "i": 359,
+      "start": 2176.8,
+      "end": 2180.44,
+      "text": "Misjudgement, distorted priorities, mistaken pursuit of"
+    },
+    {
+      "i": 360,
+      "start": 2180.44,
+      "end": 2182.96,
+      "text": "happiness. Thus the person loses the"
+    },
+    {
+      "i": 361,
+      "start": 2182.96,
+      "end": 2184.76,
+      "text": "clarity of understanding totally."
+    },
+    {
+      "i": 362,
+      "start": 2185.2,
+      "end": 2187.32,
+      "text": "It is a multiple forms of confusion."
+    },
+    {
+      "i": 363,
+      "start": 2188.84,
+      "end": 2195.56,
+      "text": "Nanam avritya Acharya by covering and concealing the"
+    },
+    {
+      "i": 364,
+      "start": 2195.56,
+      "end": 2197.64,
+      "text": "knowledge. That is how Kaama is operating."
+    },
+    {
+      "i": 365,
+      "start": 2198.48,
+      "end": 2204.16,
+      "text": "It is first taking control of the buddhi by concealing the"
+    },
+    {
+      "i": 366,
+      "start": 2204.16,
+      "end": 2210.28,
+      "text": "knowledge and once the knowledge is covered and concealed then"
+    },
+    {
+      "i": 367,
+      "start": 2210.72,
+      "end": 2215.6,
+      "text": "the buddhi loses the discrimination power and then"
+    },
+    {
+      "i": 368,
+      "start": 2216.16,
+      "end": 2220.72,
+      "text": "buddhi is not able to instruct the mind which way to operate,"
+    },
+    {
+      "i": 369,
+      "start": 2221.08,
+      "end": 2226.72,
+      "text": "instruct the indriyas. So Dehinam Shahirinam means the"
+    },
+    {
+      "i": 370,
+      "start": 2226.72,
+      "end": 2234.96,
+      "text": "one embodied person here. This hierarchy is the census."
+    },
+    {
+      "i": 371,
+      "start": 2235.36,
+      "end": 2240.32,
+      "text": "Encounter objects, mind develops attraction, aversion, intellect"
+    },
+    {
+      "i": 372,
+      "start": 2240.32,
+      "end": 2244.92,
+      "text": "rationalizes direct and action, knowledge become obscured."
+    },
+    {
+      "i": 373,
+      "start": 2245.0,
+      "end": 2250.08,
+      "text": "This is after the what you call confusion which has been"
+    },
+    {
+      "i": 374,
+      "start": 2250.08,
+      "end": 2253.56,
+      "text": "generated by the karma. This is governed by the desire"
+    },
+    {
+      "i": 375,
+      "start": 2258.6,
+      "end": 2266.64,
+      "text": "41 Kasmath tum indriyan Yadav niyamya baradarshbaha papmanam"
+    },
+    {
+      "i": 376,
+      "start": 2266.64,
+      "end": 2274.6,
+      "text": "prajahihinam Nana vidyanam Nana vidyanam nasanam."
+    },
+    {
+      "i": 377,
+      "start": 2276.52,
+      "end": 2286.24,
+      "text": "Kasmath tum baradarshbaha adhu indriyani niyam papmanam Nana"
+    },
+    {
+      "i": 378,
+      "start": 2286.24,
+      "end": 2289.84,
+      "text": "vidyanam nasanam a Nam kamam prajahihi."
+    },
+    {
+      "i": 379,
+      "start": 2291.48,
+      "end": 2296.08,
+      "text": "Therefore Arjuna having first disciplined the sense organs"
+    },
+    {
+      "i": 380,
+      "start": 2296.6,
+      "end": 2301.24,
+      "text": "destroys this sinful 1 destroyer of Nyana and Vitnyana."
+    },
+    {
+      "i": 381,
+      "start": 2302.56,
+      "end": 2308.84,
+      "text": "Nyamya means is the preparatory discipline which leads to the"
+    },
+    {
+      "i": 382,
+      "start": 2308.84,
+      "end": 2314.0,
+      "text": "ultimate destruction, the sadhana and the Pala Sasmath."
+    },
+    {
+      "i": 383,
+      "start": 2315.16,
+      "end": 2318.32,
+      "text": "Having said that, there is that this is the adistana is the"
+    },
+    {
+      "i": 384,
+      "start": 2318.32,
+      "end": 2321.68,
+      "text": "three places. Therefore, for this reason,"
+    },
+    {
+      "i": 385,
+      "start": 2323.4,
+      "end": 2327.0,
+      "text": "since Kama is the Nithyavarin that covers Nyana using"
+    },
+    {
+      "i": 386,
+      "start": 2327.0,
+      "end": 2333.08,
+      "text": "Indriyamano buddhi as Adistana, therefore ET dasmath this is"
+    },
+    {
+      "i": 387,
+      "start": 2333.08,
+      "end": 2335.88,
+      "text": "what you must do is what Krishna is telling."
+    },
+    {
+      "i": 388,
+      "start": 2336.92,
+      "end": 2342.56,
+      "text": "The entire sadhana which is starting from 41st verse to 43rd"
+    },
+    {
+      "i": 389,
+      "start": 2342.56,
+      "end": 2345.92,
+      "text": "verse is grounded in the metaphysical analysis of the"
+    },
+    {
+      "i": 390,
+      "start": 2346.56,
+      "end": 2351.24,
+      "text": "preceding 4 verses. Without understanding kamas,"
+    },
+    {
+      "i": 391,
+      "start": 2351.24,
+      "end": 2357.48,
+      "text": "nature, origin, insatiability and the three bases adistanas,"
+    },
+    {
+      "i": 392,
+      "start": 2358.24,
+      "end": 2363.48,
+      "text": "the prescription would be mere injunction without"
+    },
+    {
+      "i": 393,
+      "start": 2363.48,
+      "end": 2366.56,
+      "text": "understanding. Therefore, the word Tasmad"
+    },
+    {
+      "i": 394,
+      "start": 2366.56,
+      "end": 2370.76,
+      "text": "ensures that the prescription follows necessarily from the"
+    },
+    {
+      "i": 395,
+      "start": 2370.76,
+      "end": 2374.4,
+      "text": "analysis. Otherwise the word tasmath has"
+    },
+    {
+      "i": 396,
+      "start": 2374.4,
+      "end": 2379.56,
+      "text": "no relevance there. Because the tasmath is authored"
+    },
+    {
+      "i": 397,
+      "start": 2379.56,
+      "end": 2385.44,
+      "text": "by Krishna, it is to relate back to the previous verses in"
+    },
+    {
+      "i": 398,
+      "start": 2385.44,
+      "end": 2388.8,
+      "text": "connection with the same thum means Arjuna."
+    },
+    {
+      "i": 399,
+      "start": 2390.08,
+      "end": 2392.96,
+      "text": "Thus it is This prescription is addressed personally and"
+    },
+    {
+      "i": 400,
+      "start": 2392.96,
+      "end": 2398.0,
+      "text": "directly to Arjuna Thum as Thuam Abhi."
+    },
+    {
+      "i": 401,
+      "start": 2398.48,
+      "end": 2401.88,
+      "text": "Like U2. Like all other karma digarins,"
+    },
+    {
+      "i": 402,
+      "start": 2402.8,
+      "end": 2407.52,
+      "text": "the explicit pronoun pronoun of Thuam emphasizes personal"
+    },
+    {
+      "i": 403,
+      "start": 2407.52,
+      "end": 2410.92,
+      "text": "responsibility. The sadhana is not something to"
+    },
+    {
+      "i": 404,
+      "start": 2410.92,
+      "end": 2414.96,
+      "text": "be done by the teacher or a ritual performer."
+    },
+    {
+      "i": 405,
+      "start": 2415.56,
+      "end": 2422.24,
+      "text": "Sadhana has to be performed by oneself on oneself."
+    },
+    {
+      "i": 406,
+      "start": 2423.6,
+      "end": 2428.6,
+      "text": "That is the absolute necessity. Nobody can do it, nor the"
+    },
+    {
+      "i": 407,
+      "start": 2428.6,
+      "end": 2434.08,
+      "text": "teacher, nor a you know, a ritual performer like in the"
+    },
+    {
+      "i": 408,
+      "start": 2434.08,
+      "end": 2437.52,
+      "text": "case of a yaga. In the case of a yaga, the"
+    },
+    {
+      "i": 409,
+      "start": 2437.52,
+      "end": 2440.88,
+      "text": "yagamana will be sitting, but it will the yaga will be performed"
+    },
+    {
+      "i": 410,
+      "start": 2440.92,
+      "end": 2444.92,
+      "text": "by the ritual performer. But in this case, this sadhana"
+    },
+    {
+      "i": 411,
+      "start": 2444.92,
+      "end": 2448.08,
+      "text": "has cannot be done by anybody else other than yourself."
+    },
+    {
+      "i": 412,
+      "start": 2449.6,
+      "end": 2453.08,
+      "text": "Therefore, Sangarajarya notes that Tuam also carries the force"
+    },
+    {
+      "i": 413,
+      "start": 2453.08,
+      "end": 2458.2,
+      "text": "of avidya right now. Starting immediately without"
+    },
+    {
+      "i": 414,
+      "start": 2458.4,
+      "end": 2460.64,
+      "text": "this instruction is urgent and personal."
+    },
+    {
+      "i": 415,
+      "start": 2461.96,
+      "end": 2466.44,
+      "text": "Indriyani. We saw that the sense organs"
+    },
+    {
+      "i": 416,
+      "start": 2468.4,
+      "end": 2473.72,
+      "text": "vishaya abhimoka prabhartani indriyani, it is not near sense"
+    },
+    {
+      "i": 417,
+      "start": 2473.72,
+      "end": 2477.04,
+      "text": "organs. It is the sense organs oriented"
+    },
+    {
+      "i": 418,
+      "start": 2477.04,
+      "end": 2480.0,
+      "text": "towards and moving toward their sense objects."
+    },
+    {
+      "i": 419,
+      "start": 2481.36,
+      "end": 2484.88,
+      "text": "The indriyas in their natural samsaric condition are"
+    },
+    {
+      "i": 420,
+      "start": 2484.96,
+      "end": 2489.36,
+      "text": "perpetually moving outward. Wahir muka."
+    },
+    {
+      "i": 421,
+      "start": 2490.36,
+      "end": 2496.16,
+      "text": "This is exactly Karanji kani Vedranath shyambu tasmath paran"
+    },
+    {
+      "i": 422,
+      "start": 2496.16,
+      "end": 2505.28,
+      "text": "basyadina andarathma kasiddira prithyakatman, the Katapanishad."
+    },
+    {
+      "i": 423,
+      "start": 2505.28,
+      "end": 2508.36,
+      "text": "We discussed that when we were discussing Katapanishad."
+    },
+    {
+      "i": 424,
+      "start": 2509.24,
+      "end": 2512.48,
+      "text": "So indriyasar bahirmukha means varanchi gani."
+    },
+    {
+      "i": 425,
+      "start": 2512.72,
+      "end": 2520.96,
+      "text": "It is looking outward, driven by Kama, and when you bring niyama,"
+    },
+    {
+      "i": 426,
+      "start": 2522.4,
+      "end": 2528.32,
+      "text": "Yamaniyama turns them inward or at least arrest their compulsive"
+    },
+    {
+      "i": 427,
+      "start": 2528.32,
+      "end": 2534.44,
+      "text": "outward movement. That is the first thing to be"
+    },
+    {
+      "i": 428,
+      "start": 2534.44,
+      "end": 2537.28,
+      "text": "done. Adhav means first in the"
+    },
+    {
+      "i": 429,
+      "start": 2537.28,
+      "end": 2543.12,
+      "text": "beginning, outside primary step. So Adhav prathamam, first of the"
+    },
+    {
+      "i": 430,
+      "start": 2543.12,
+      "end": 2546.52,
+      "text": "all, is philosophically significant."
+    },
+    {
+      "i": 431,
+      "start": 2546.96,
+      "end": 2550.24,
+      "text": "It established the sequence of the three levels of sadhana."
+    },
+    {
+      "i": 432,
+      "start": 2552.88,
+      "end": 2557.16,
+      "text": "Why begin with indriya? Because indriyas are the most"
+    },
+    {
+      "i": 433,
+      "start": 2557.16,
+      "end": 2562.08,
+      "text": "immediately accessible and observable level at which kaama"
+    },
+    {
+      "i": 434,
+      "start": 2562.08,
+      "end": 2567.56,
+      "text": "operates. They are the utmost adistana and"
+    },
+    {
+      "i": 435,
+      "start": 2567.56,
+      "end": 2572.88,
+      "text": "their discipline Niyama is the first step that enabled the"
+    },
+    {
+      "i": 436,
+      "start": 2572.88,
+      "end": 2579.08,
+      "text": "discipline of manas and then buddhi because you are already"
+    },
+    {
+      "i": 437,
+      "start": 2579.08,
+      "end": 2581.84,
+      "text": "diluted. We are already diluted."
+    },
+    {
+      "i": 438,
+      "start": 2581.84,
+      "end": 2588.12,
+      "text": "So starting with the mind or the intellect, because the"
+    },
+    {
+      "i": 439,
+      "start": 2590.24,
+      "end": 2592.72,
+      "text": "conditions of the mind and intellect is now under the"
+    },
+    {
+      "i": 440,
+      "start": 2592.72,
+      "end": 2597.68,
+      "text": "clutches of the indriyas because they one becomes subservient to"
+    },
+    {
+      "i": 441,
+      "start": 2597.68,
+      "end": 2603.16,
+      "text": "the other one. Sankarajya connects Adhu to the"
+    },
+    {
+      "i": 442,
+      "start": 2603.16,
+      "end": 2607.0,
+      "text": "principal, the Indriya Niyamath manas, buddhsuddhi,"
+    },
+    {
+      "i": 443,
+      "start": 2607.36,
+      "end": 2612.36,
+      "text": "manasuddhiya, buddhi, suddhi, buddhi, suddhya nyana prati."
+    },
+    {
+      "i": 444,
+      "start": 2613.48,
+      "end": 2618.84,
+      "text": "That is from the control of the indriyas and when it becomes"
+    },
+    {
+      "i": 445,
+      "start": 2618.96,
+      "end": 2627.2,
+      "text": "purified it will purify the mind and from the purification of the"
+    },
+    {
+      "i": 446,
+      "start": 2627.2,
+      "end": 2633.0,
+      "text": "mind the buddhi will be purified and from the purified buddhi the"
+    },
+    {
+      "i": 447,
+      "start": 2633.0,
+      "end": 2639.08,
+      "text": "Vivekayana will happen. The sequence is discipline, the"
+    },
+    {
+      "i": 448,
+      "start": 2639.08,
+      "end": 2643.24,
+      "text": "most accessible level first, then progressively work towards"
+    },
+    {
+      "i": 449,
+      "start": 2643.24,
+      "end": 2648.24,
+      "text": "the subtler ones. So Neyamya, the word is for"
+    },
+    {
+      "i": 450,
+      "start": 2648.32,
+      "end": 2653.0,
+      "text": "control, Niyama yaman yaman that weyamya having controlled,"
+    },
+    {
+      "i": 451,
+      "start": 2653.0,
+      "end": 2655.88,
+      "text": "having regulated, having bought under control."
+    },
+    {
+      "i": 452,
+      "start": 2656.96,
+      "end": 2661.04,
+      "text": "Sankaracharya carefully distinguishes Niyama Niyamya"
+    },
+    {
+      "i": 453,
+      "start": 2661.04,
+      "end": 2671.16,
+      "text": "here from Nigraha condemned in 3.33 where Nigraha was the Balat"
+    },
+    {
+      "i": 454,
+      "start": 2671.72,
+      "end": 2676.12,
+      "text": "niwaranam, forcible external suppression without inner"
+    },
+    {
+      "i": 455,
+      "start": 2676.12,
+      "end": 2680.8,
+      "text": "transformation. Here Nyamya is viveka, Puraka"
+    },
+    {
+      "i": 456,
+      "start": 2680.8,
+      "end": 2687.16,
+      "text": "nyamya, Nyamya discipline preceded by and informed by"
+    },
+    {
+      "i": 457,
+      "start": 2687.16,
+      "end": 2691.48,
+      "text": "viveka. The sadhaka who understands Kama"
+    },
+    {
+      "i": 458,
+      "start": 2691.48,
+      "end": 2698.12,
+      "text": "is wiring and that the indriyas are the base can discipline them"
+    },
+    {
+      "i": 459,
+      "start": 2698.12,
+      "end": 2701.4,
+      "text": "from understanding rather than from mere suppression."
+    },
+    {
+      "i": 460,
+      "start": 2703.48,
+      "end": 2710.72,
+      "text": "Therefore, Nyamya as Vishayabya Pratyaharya having withdrawn"
+    },
+    {
+      "i": 461,
+      "start": 2710.72,
+      "end": 2716.76,
+      "text": "from their objects, the indriyas having withdrawn from their"
+    },
+    {
+      "i": 462,
+      "start": 2716.76,
+      "end": 2721.84,
+      "text": "objects is the pratyahara. The Pratyahara of Yoga"
+    },
+    {
+      "i": 463,
+      "start": 2722.44,
+      "end": 2724.72,
+      "text": "understood in its Advaitic context."
+    },
+    {
+      "i": 464,
+      "start": 2726.12,
+      "end": 2732.8,
+      "text": "Viveka sahida niyama O bardarshba O arjuna."
+    },
+    {
+      "i": 465,
+      "start": 2734.0,
+      "end": 2743.88,
+      "text": "Papmanam is sin, evil or the sinful. 1."
+    },
+    {
+      "i": 466,
+      "start": 2746.12,
+      "end": 2749.2,
+      "text": "Sankarajarya defines papman as Kama."
+    },
+    {
+      "i": 467,
+      "start": 2751.36,
+      "end": 2756.56,
+      "text": "It is the Papa is being done by the Kama because others are mere"
+    },
+    {
+      "i": 468,
+      "start": 2756.56,
+      "end": 2759.72,
+      "text": "instrument. So the sinful one picking up"
+    },
+    {
+      "i": 469,
+      "start": 2759.72,
+      "end": 2766.12,
+      "text": "from Papma Maha papma. In the verse #37 where Kama was"
+    },
+    {
+      "i": 470,
+      "start": 2766.12,
+      "end": 2773.56,
+      "text": "called the Great Sinfulness, the papmanam identifies Kama as the"
+    },
+    {
+      "i": 471,
+      "start": 2773.56,
+      "end": 2779.68,
+      "text": "target of prajahana, means destruction or elimination."
+    },
+    {
+      "i": 472,
+      "start": 2781.24,
+      "end": 2787.88,
+      "text": "So papmanam as papasya hedum kaam kaam, which is the cause of"
+    },
+    {
+      "i": 473,
+      "start": 2787.88,
+      "end": 2793.08,
+      "text": "the sin, the root of all Papa must be destroyed."
+    },
+    {
+      "i": 474,
+      "start": 2793.08,
+      "end": 2801.68,
+      "text": "At its root Prajahihi prajahihi, it is too abandoned to give up"
+    },
+    {
+      "i": 475,
+      "start": 2801.68,
+      "end": 2804.56,
+      "text": "completely or to destroy or to forsake."
+    },
+    {
+      "i": 476,
+      "start": 2806.8,
+      "end": 2811.92,
+      "text": "Samyat Tejati is other meaning completely or properly abandons"
+    },
+    {
+      "i": 477,
+      "start": 2815.2,
+      "end": 2823.28,
+      "text": "Sankarajaria, reads the Prajihi as Vinagnathi destroyer or"
+    },
+    {
+      "i": 478,
+      "start": 2823.28,
+      "end": 2826.64,
+      "text": "annihilator. The imperative is the"
+    },
+    {
+      "i": 479,
+      "start": 2826.8,
+      "end": 2831.0,
+      "text": "culmination injunction of the entire chapter, the 3rd chapter."
+    },
+    {
+      "i": 480,
+      "start": 2831.6,
+      "end": 2838.84,
+      "text": "The instruction is to do this eliminate the ultimate"
+    },
+    {
+      "i": 481,
+      "start": 2838.84,
+      "end": 2841.28,
+      "text": "prescription toward the everything that has been"
+    },
+    {
+      "i": 482,
+      "start": 2841.28,
+      "end": 2845.48,
+      "text": "building till now. Karmangal Karma Yoga, Yetnartha."
+    },
+    {
+      "i": 483,
+      "start": 2845.48,
+      "end": 2851.76,
+      "text": "All those things can never be successful unless the Samyuk"
+    },
+    {
+      "i": 484,
+      "start": 2851.76,
+      "end": 2855.88,
+      "text": "Tejari complete properly abandoning of the Kamas."
+    },
+    {
+      "i": 485,
+      "start": 2857.68,
+      "end": 2863.76,
+      "text": "So Shankarajya Kanas Prajahi to the Praja Praja Hathi Yedda"
+    },
+    {
+      "i": 486,
+      "start": 2863.76,
+      "end": 2871.64,
+      "text": "Kaman in the 255 when 1 completely abandons all desires"
+    },
+    {
+      "i": 487,
+      "start": 2871.64,
+      "end": 2876.16,
+      "text": "is what he told in that in the description of Sidapraknya when"
+    },
+    {
+      "i": 488,
+      "start": 2876.16,
+      "end": 2879.84,
+      "text": "he started the one with the steady wisdom."
+    },
+    {
+      "i": 489,
+      "start": 2881.36,
+      "end": 2884.4,
+      "text": "The instruction of the 3rd chapter just circles back to the"
+    },
+    {
+      "i": 490,
+      "start": 2884.4,
+      "end": 2888.92,
+      "text": "second one. The Nanin of 2.55 or the"
+    },
+    {
+      "i": 491,
+      "start": 2890.0,
+      "end": 2898.84,
+      "text": "Sidapraknya has completely eliminated and Oregon properly"
+    },
+    {
+      "i": 492,
+      "start": 2898.84,
+      "end": 2902.96,
+      "text": "abandoned Kaman. And that is the goal toward"
+    },
+    {
+      "i": 493,
+      "start": 2902.96,
+      "end": 2908.24,
+      "text": "which Karma Yoga Sadhana of the 3rd chapter is directed and"
+    },
+    {
+      "i": 494,
+      "start": 2908.56,
+      "end": 2913.12,
+      "text": "Prajahihi is the final imperative that synthesizes the"
+    },
+    {
+      "i": 495,
+      "start": 2913.12,
+      "end": 2919.76,
+      "text": "entire teaching. The next word is Anam destroys"
+    },
+    {
+      "i": 496,
+      "start": 2919.76,
+      "end": 2921.64,
+      "text": "this one. Anam means this one."
+    },
+    {
+      "i": 497,
+      "start": 2922.76,
+      "end": 2926.64,
+      "text": "S Kamma is the one which is being referred as Anam here."
+    },
+    {
+      "i": 498,
+      "start": 2927.84,
+      "end": 2933.2,
+      "text": "The same Kama was been measured by Sedas, esha, Athena, anam"
+    },
+    {
+      "i": 499,
+      "start": 2933.32,
+      "end": 2935.92,
+      "text": "etcetera in different verses by Krishna."
+    },
+    {
+      "i": 500,
+      "start": 2938.36,
+      "end": 2943.4,
+      "text": "Krishna keeps pointing to Kama through these verses with"
+    },
+    {
+      "i": 501,
+      "start": 2943.44,
+      "end": 2948.84,
+      "text": "increasing urgency. So Krishna's only attack is Kama"
+    },
+    {
+      "i": 502,
+      "start": 2952.04,
+      "end": 2955.96,
+      "text": "and Sankaracharya reads Anam as creating the immediate and"
+    },
+    {
+      "i": 503,
+      "start": 2955.96,
+      "end": 2958.12,
+      "text": "personal confrontation which is required."
+    },
+    {
+      "i": 504,
+      "start": 2959.4,
+      "end": 2963.92,
+      "text": "Destroy this one who is right here and now in your Indriya"
+    },
+    {
+      "i": 505,
+      "start": 2964.08,
+      "end": 2968.88,
+      "text": "Manav buddhi and operating against you at this very moment,"
+    },
+    {
+      "i": 506,
+      "start": 2968.88,
+      "end": 2977.2,
+      "text": "making you a Adnani Yana Vitnyana nasanam."
+    },
+    {
+      "i": 507,
+      "start": 2979.0,
+      "end": 2987.48,
+      "text": "It is a adjective, for the adjective says nyana, vitnyana,"
+    },
+    {
+      "i": 508,
+      "start": 2987.48,
+      "end": 2993.6,
+      "text": "Nasana, the destroyer. That which destroys what nyana"
+    },
+    {
+      "i": 509,
+      "start": 2993.6,
+      "end": 2997.48,
+      "text": "and vitnyana. Nasana means one destroys that"
+    },
+    {
+      "i": 510,
+      "start": 2997.48,
+      "end": 3000.08,
+      "text": "which destroys both nyana and vitnyana."
+    },
+    {
+      "i": 511,
+      "start": 3003.08,
+      "end": 3008.96,
+      "text": "So nyana and vitnyana. What is Nyana?"
+    },
+    {
+      "i": 512,
+      "start": 3010.0,
+      "end": 3014.4,
+      "text": "Knowledge of Atman and related matters derived from Shastra"
+    },
+    {
+      "i": 513,
+      "start": 3015.36,
+      "end": 3019.84,
+      "text": "Parokshatnyana. The mediate scriptural knowledge"
+    },
+    {
+      "i": 514,
+      "start": 3019.84,
+      "end": 3024.64,
+      "text": "of Atman obtained through Sravana and Manana."
+    },
+    {
+      "i": 515,
+      "start": 3027.96,
+      "end": 3032.4,
+      "text": "The intellectual conviction that Atman is Brahman, that Atman is"
+    },
+    {
+      "i": 516,
+      "start": 3032.4,
+      "end": 3041.52,
+      "text": "akarta and that Kama is anatman, whereas Vidyana vignanam, tadeva"
+    },
+    {
+      "i": 517,
+      "start": 3041.68,
+      "end": 3051.52,
+      "text": "gurmukhat, pratyashi, kritab, that same knowledge directly"
+    },
+    {
+      "i": 518,
+      "start": 3051.52,
+      "end": 3057.68,
+      "text": "realized through the teacher's instruction, aparokshatnyana,"
+    },
+    {
+      "i": 519,
+      "start": 3058.44,
+      "end": 3062.84,
+      "text": "the immediate direct experiential realization of"
+    },
+    {
+      "i": 520,
+      "start": 3063.48,
+      "end": 3067.28,
+      "text": "Atmanas Brahman. The earlier Vignanam is"
+    },
+    {
+      "i": 521,
+      "start": 3067.28,
+      "end": 3072.44,
+      "text": "parokshatnyanam by textual knowledge or understanding or"
+    },
+    {
+      "i": 522,
+      "start": 3072.44,
+      "end": 3075.92,
+      "text": "intellectual understanding, but it has not become a direct"
+    },
+    {
+      "i": 523,
+      "start": 3075.92,
+      "end": 3080.48,
+      "text": "experiential realization. Whereas Vignana is a direct"
+    },
+    {
+      "i": 524,
+      "start": 3080.6,
+      "end": 3085.52,
+      "text": "experiential realization. Brahmavath atmayikatwa"
+    },
+    {
+      "i": 525,
+      "start": 3085.88,
+      "end": 3090.4,
+      "text": "sachatkara, Brahma atmayikatwa sachatkara."
+    },
+    {
+      "i": 526,
+      "start": 3091.08,
+      "end": 3096.16,
+      "text": "This anubhavat nyana the direct cognition that aham Brahmasmi I"
+    },
+    {
+      "i": 527,
+      "start": 3096.16,
+      "end": 3100.88,
+      "text": "am Brahman, which is the actual Moksha karana, that is, the one"
+    },
+    {
+      "i": 528,
+      "start": 3100.88,
+      "end": 3107.2,
+      "text": "which is the moksha karana or emancipation, the compound"
+    },
+    {
+      "i": 529,
+      "start": 3107.2,
+      "end": 3111.52,
+      "text": "nayana, vitnyana, nasana thus indicate that Kama destroys both"
+    },
+    {
+      "i": 530,
+      "start": 3111.52,
+      "end": 3115.92,
+      "text": "levels of knowledge, the theoretical conviction before it"
+    },
+    {
+      "i": 531,
+      "start": 3115.92,
+      "end": 3121.0,
+      "text": "can deepen into realization and the direct realization before it"
+    },
+    {
+      "i": 532,
+      "start": 3121.0,
+      "end": 3127.8,
+      "text": "can stabilize into Kami city. Sangarajajya reads Nasana as the"
+    },
+    {
+      "i": 533,
+      "start": 3128.16,
+      "end": 3133.84,
+      "text": "nirvartaga, nirvartaga, that which causes to seize or"
+    },
+    {
+      "i": 534,
+      "start": 3134.0,
+      "end": 3139.2,
+      "text": "extinguishes that knowledge. Therefore Kama extinguishes both"
+    },
+    {
+      "i": 535,
+      "start": 3140.28,
+      "end": 3143.92,
+      "text": "the lamp of parokshat nyana and the blaze of parokshat with"
+    },
+    {
+      "i": 536,
+      "start": 3143.92,
+      "end": 3147.0,
+      "text": "Nyana. This is ultimately the reason"
+    },
+    {
+      "i": 537,
+      "start": 3147.0,
+      "end": 3154.2,
+      "text": "why Kama must be prajaheti destroyed rather than merely"
+    },
+    {
+      "i": 538,
+      "start": 3154.2,
+      "end": 3158.64,
+      "text": "managed or reduced. As long as Kama exists in any"
+    },
+    {
+      "i": 539,
+      "start": 3158.64,
+      "end": 3163.2,
+      "text": "form, even an iota, it will attack Nyana and Vignana at"
+    },
+    {
+      "i": 540,
+      "start": 3163.2,
+      "end": 3177.54,
+      "text": "every opportunity. So in the Ado Indriyani Nyamya"
+    },
+    {
+      "i": 541,
+      "start": 3177.54,
+      "end": 3181.38,
+      "text": "when he said that the subtle flame of Nyana cannot survive in"
+    },
+    {
+      "i": 542,
+      "start": 3181.38,
+      "end": 3185.62,
+      "text": "the under Karana still churned by the unregulated Indriya,"
+    },
+    {
+      "i": 543,
+      "start": 3187.8,
+      "end": 3191.52,
+      "text": "Sankaraja Yaddas defends the necessity of preparatory stages"
+    },
+    {
+      "i": 544,
+      "start": 3191.52,
+      "end": 3195.4,
+      "text": "of Karma Yoga. Indriya Niyama through"
+    },
+    {
+      "i": 545,
+      "start": 3195.8,
+      "end": 3206.04,
+      "text": "Yatnyartha Karma Manas, Shuddhi through Asatta, Karma Yoga and"
+    },
+    {
+      "i": 546,
+      "start": 3206.04,
+      "end": 3211.92,
+      "text": "Buddhi Shuddhi through Adyatma Chedasa before Atmatyana can"
+    },
+    {
+      "i": 547,
+      "start": 3211.92,
+      "end": 3218.64,
+      "text": "rise and stabilize. The second acts part is that"
+    },
+    {
+      "i": 548,
+      "start": 3218.64,
+      "end": 3222.92,
+      "text": "Nyana Vitnyana art of which corresponding to Atman derived"
+    },
+    {
+      "i": 549,
+      "start": 3222.92,
+      "end": 3226.84,
+      "text": "from Vedanta Vakyavichara reflection of Vedantic"
+    },
+    {
+      "i": 550,
+      "start": 3226.84,
+      "end": 3230.64,
+      "text": "statements which is the fruit of Shravana Manana."
+    },
+    {
+      "i": 551,
+      "start": 3230.76,
+      "end": 3235.88,
+      "text": "And this Nyana is the present in the Jitnyasu who has not yet"
+    },
+    {
+      "i": 552,
+      "start": 3235.88,
+      "end": 3241.12,
+      "text": "attained the Nidhidhiyasana by the deep meditation leading to"
+    },
+    {
+      "i": 553,
+      "start": 3241.12,
+      "end": 3245.68,
+      "text": "Aparakshatnyana. Vignana is the anubhavat nyana,"
+    },
+    {
+      "i": 554,
+      "start": 3245.96,
+      "end": 3251.96,
+      "text": "the direct sachatkara which arises from Nidhi diyasana and"
+    },
+    {
+      "i": 555,
+      "start": 3251.96,
+      "end": 3256.84,
+      "text": "constitutes Moksha itself. Kama destroys both."
+    },
+    {
+      "i": 556,
+      "start": 3257.52,
+      "end": 3260.28,
+      "text": "At the level of nyana, it destroys the intellectual"
+    },
+    {
+      "i": 557,
+      "start": 3260.28,
+      "end": 3264.68,
+      "text": "understanding through buddhi dosha, corrupted judgment, and"
+    },
+    {
+      "i": 558,
+      "start": 3264.68,
+      "end": 3271.24,
+      "text": "at the level of Vignana it interrupts samadhi and"
+    },
+    {
+      "i": 559,
+      "start": 3271.24,
+      "end": 3275.48,
+      "text": "pratyahara through vighshepa by disturbances of the sense"
+    },
+    {
+      "i": 560,
+      "start": 3275.48,
+      "end": 3280.72,
+      "text": "contact and mental agitation. That is why it is said that"
+    },
+    {
+      "i": 561,
+      "start": 3281.24,
+      "end": 3287.4,
+      "text": "utmost attention and alertness is required because we are what"
+    },
+    {
+      "i": 562,
+      "start": 3287.4,
+      "end": 3289.68,
+      "text": "we are, because we were not alert."
+    },
+    {
+      "i": 563,
+      "start": 3291.04,
+      "end": 3294.28,
+      "text": "We are Atman Brahman, we all are that."
+    },
+    {
+      "i": 564,
+      "start": 3294.72,
+      "end": 3299.88,
+      "text": "But today we do not feel that because we were not an alert at"
+    },
+    {
+      "i": 565,
+      "start": 3299.88,
+      "end": 3302.64,
+      "text": "some point of time and there we came."
+    },
+    {
+      "i": 566,
+      "start": 3302.64,
+      "end": 3305.28,
+      "text": "Therefore we became associated with our body."
+    },
+    {
+      "i": 567,
+      "start": 3306.6,
+      "end": 3310.4,
+      "text": "And then the Indriya, Mana and Buddhi was conquered by the"
+    },
+    {
+      "i": 568,
+      "start": 3310.4,
+      "end": 3314.0,
+      "text": "Khama. This is why Khama must be"
+    },
+    {
+      "i": 569,
+      "start": 3314.48,
+      "end": 3317.92,
+      "text": "completely destroyed, not merely managed."
+    },
+    {
+      "i": 570,
+      "start": 3318.68,
+      "end": 3323.76,
+      "text": "As long as it exists in any of the three Ajustanas or this"
+    },
+    {
+      "i": 571,
+      "start": 3323.76,
+      "end": 3330.32,
+      "text": "bases, it remains capable of attacking both Nyana or Vidyana"
+    },
+    {
+      "i": 572,
+      "start": 3330.4,
+      "end": 3337.28,
+      "text": "at the precisely the moment when they are closest to their fruit"
+    },
+    {
+      "i": 573,
+      "start": 3337.92,
+      "end": 3346.04,
+      "text": "fruitation that you know Sadhana."
+    },
+    {
+      "i": 574,
+      "start": 3346.04,
+      "end": 3348.0,
+      "text": "We might have done so many lives."
+    },
+    {
+      "i": 575,
+      "start": 3348.76,
+      "end": 3351.64,
+      "text": "We were almost close to knowing the reality."
+    },
+    {
+      "i": 576,
+      "start": 3353.96,
+      "end": 3366.2,
+      "text": "We we have the experience but Rama and Krotha both can take"
+    },
+    {
+      "i": 577,
+      "start": 3366.2,
+      "end": 3370.4,
+      "text": "away attack our Nyana in bit Nyana any moment."
+    },
+    {
+      "i": 578,
+      "start": 3371.56,
+      "end": 3376.0,
+      "text": "We we we become helpless. We do not know why it is"
+    },
+    {
+      "i": 579,
+      "start": 3376.0,
+      "end": 3379.16,
+      "text": "happening. Balativa Arjuna has asked the"
+    },
+    {
+      "i": 580,
+      "start": 3379.16,
+      "end": 3381.96,
+      "text": "question why did it happen that way?"
+    },
+    {
+      "i": 581,
+      "start": 3386.28,
+      "end": 3391.16,
+      "text": "There is no answer for it, but because the only answer is that"
+    },
+    {
+      "i": 582,
+      "start": 3391.16,
+      "end": 3393.84,
+      "text": "we have not completely eliminated the Kama or the"
+    },
+    {
+      "i": 583,
+      "start": 3393.84,
+      "end": 3398.32,
+      "text": "karoda in the in the three places of Indriya Mano Buddhi."
+    },
+    {
+      "i": 584,
+      "start": 3402.2,
+      "end": 3405.0,
+      "text": "Therefore, Shankaracharya synthesized the entire 3rd"
+    },
+    {
+      "i": 585,
+      "start": 3405.0,
+      "end": 3408.52,
+      "text": "chapter's practical teaching. The chapter begins with Arjuna's"
+    },
+    {
+      "i": 586,
+      "start": 3408.52,
+      "end": 3416.44,
+      "text": "question about Nyana versus Karma, which is you."
+    },
+    {
+      "i": 587,
+      "start": 3416.68,
+      "end": 3418.56,
+      "text": "You remember? If you remember the first"
+    },
+    {
+      "i": 588,
+      "start": 3418.56,
+      "end": 3424.04,
+      "text": "question by Arjuna was that Yana is Shreyas and then Karma."
+    },
+    {
+      "i": 589,
+      "start": 3424.04,
+      "end": 3427.52,
+      "text": "Then why are you forcing me to into Karma?"
+    },
+    {
+      "i": 590,
+      "start": 3427.72,
+      "end": 3432.12,
+      "text": "That was the question which he asked in 3.1 and two that"
+    },
+    {
+      "i": 591,
+      "start": 3432.12,
+      "end": 3438.12,
+      "text": "progressed through Ethne chakra. Ethne Chakra teaching from 3.10"
+    },
+    {
+      "i": 592,
+      "start": 3438.12,
+      "end": 3442.16,
+      "text": "to 3.16. The Tynani's freedom and Karma"
+    },
+    {
+      "i": 593,
+      "start": 3442.16,
+      "end": 3445.92,
+      "text": "Yogin's duty were described in 17 to 20."
+    },
+    {
+      "i": 594,
+      "start": 3447.08,
+      "end": 3455.96,
+      "text": "Then addressed the Tynani's action as Lokasangraha that was"
+    },
+    {
+      "i": 595,
+      "start": 3455.96,
+      "end": 3462.0,
+      "text": "thought in verse #20 to 26. The analysis of Karthritwa and"
+    },
+    {
+      "i": 596,
+      "start": 3462.0,
+      "end": 3467.32,
+      "text": "Akarthritwa was taken up to show that what is the Kan why that"
+    },
+    {
+      "i": 597,
+      "start": 3467.32,
+      "end": 3473.68,
+      "text": "Nyani seems to be acting as a akarta even though he is acting"
+    },
+    {
+      "i": 598,
+      "start": 3475.28,
+      "end": 3479.36,
+      "text": "and the practical instruction for karma yoga was given verses"
+    },
+    {
+      "i": 599,
+      "start": 3479.36,
+      "end": 3485.04,
+      "text": "30 to 35 before culminating in the identification of analysis"
+    },
+    {
+      "i": 600,
+      "start": 3485.04,
+      "end": 3489.76,
+      "text": "of kamma as the root obstacle for the entire problem at"
+    },
+    {
+      "i": 601,
+      "start": 3489.76,
+      "end": 3492.36,
+      "text": "vision. Therefore, the final injection"
+    },
+    {
+      "i": 602,
+      "start": 3493.04,
+      "end": 3502.88,
+      "text": "injunction Prajahihi destroy Kama is thus the essence of the"
+    },
+    {
+      "i": 603,
+      "start": 3502.88,
+      "end": 3507.0,
+      "text": "entire chapter. The Karma Yoga teaching in its"
+    },
+    {
+      "i": 604,
+      "start": 3507.0,
+      "end": 3513.24,
+      "text": "entirety as Karma Nirasana sadhana, discipline of removal"
+    },
+    {
+      "i": 605,
+      "start": 3513.24,
+      "end": 3519.52,
+      "text": "of Kama leading through Chittasuddhi to Atmatmayana that"
+    },
+    {
+      "i": 606,
+      "start": 3519.52,
+      "end": 3524.44,
+      "text": "destroys Kama at its root and reveals the atma as Purna"
+    },
+    {
+      "i": 607,
+      "start": 3524.52,
+      "end": 3529.84,
+      "text": "akartha vidyamukta, eternally free."
+    },
+    {
+      "i": 608,
+      "start": 3532.68,
+      "end": 3541.12,
+      "text": "Shankaracharya gives this word Prajahihi Praja Prajahati Yeda"
+    },
+    {
+      "i": 609,
+      "start": 3541.12,
+      "end": 3549.56,
+      "text": "Kaman Ida with this Siddhapratnaya Bhasha that has"
+    },
+    {
+      "i": 610,
+      "start": 3549.56,
+      "end": 3553.52,
+      "text": "been linked here. The 3rd chapter thus concludes"
+    },
+    {
+      "i": 611,
+      "start": 3553.52,
+      "end": 3557.6,
+      "text": "the by pointing back to the Siraprakni Lakshana In the 2nd"
+    },
+    {
+      "i": 612,
+      "start": 3557.6,
+      "end": 3560.68,
+      "text": "chapter. The Nyanin who has completely"
+    },
+    {
+      "i": 613,
+      "start": 3560.68,
+      "end": 3567.2,
+      "text": "abandoned all desires in the mind Kaman is realized fruit of"
+    },
+    {
+      "i": 614,
+      "start": 3567.8,
+      "end": 3573.24,
+      "text": "the Prajahi in section. Therefore, the Karma Yogin who"
+    },
+    {
+      "i": 615,
+      "start": 3573.24,
+      "end": 3577.0,
+      "text": "follows the teaching of third chapter, disciplining the"
+    },
+    {
+      "i": 616,
+      "start": 3577.0,
+      "end": 3581.0,
+      "text": "Indriyas, purifying the mind and the intellect, performing all"
+    },
+    {
+      "i": 617,
+      "start": 3581.0,
+      "end": 3588.6,
+      "text": "actions as Ishwararpana with Niraashi Nirumama, he is"
+    },
+    {
+      "i": 618,
+      "start": 3588.6,
+      "end": 3592.92,
+      "text": "progressively moving towards Sitaprakanya's complete"
+    },
+    {
+      "i": 619,
+      "start": 3593.16,
+      "end": 3596.88,
+      "text": "Kaamapraja Hanana, which is the Moksha itself."
+    },
+    {
+      "i": 620,
+      "start": 3600.08,
+      "end": 3605.32,
+      "text": "So Dabhasya reads like this. I don't think I'll be able to"
+    },
+    {
+      "i": 621,
+      "start": 3605.32,
+      "end": 3607.96,
+      "text": "complete it today, so two more verses is there."
+    },
+    {
+      "i": 622,
+      "start": 3607.96,
+      "end": 3612.72,
+      "text": "We'll take it on Monday. Tasmatum indriyani adhu purva"
+    },
+    {
+      "i": 623,
+      "start": 3612.72,
+      "end": 3616.32,
+      "text": "mevan yamya vashi kritya varadarshava O arjuna."
+    },
+    {
+      "i": 624,
+      "start": 3617.0,
+      "end": 3622.88,
+      "text": "Therefore, first restrain both the senses under control because"
+    },
+    {
+      "i": 625,
+      "start": 3622.88,
+      "end": 3626.6,
+      "text": "dresses enters through the senses, objects stimulate"
+    },
+    {
+      "i": 626,
+      "start": 3626.6,
+      "end": 3631.84,
+      "text": "craving and the mind becomes agitated and the agitating mind"
+    },
+    {
+      "i": 627,
+      "start": 3632.12,
+      "end": 3637.16,
+      "text": "regulates in the senses back to act craving."
+    },
+    {
+      "i": 628,
+      "start": 3638.52,
+      "end": 3644.56,
+      "text": "Apmanam pabacharam kamam Prajahihi destroy this sinful 1"
+    },
+    {
+      "i": 629,
+      "start": 3646.56,
+      "end": 3648.4,
+      "text": "which leads to the sinful conduct."
+    },
+    {
+      "i": 630,
+      "start": 3651.04,
+      "end": 3655.28,
+      "text": "Paritegya Anam Pragradam Bairinam abandoned this natural"
+    },
+    {
+      "i": 631,
+      "start": 3655.28,
+      "end": 3660.04,
+      "text": "enemy of Kama Pragradam Bairi inherent enemy in the seeker."
+    },
+    {
+      "i": 632,
+      "start": 3660.92,
+      "end": 3664.4,
+      "text": "Unlike the external enemies, this one arises in the mind"
+    },
+    {
+      "i": 633,
+      "start": 3664.88,
+      "end": 3667.08,
+      "text": "constantly accompanies the individual."
+    },
+    {
+      "i": 634,
+      "start": 3667.96,
+      "end": 3672.08,
+      "text": "The spiritual discipline must and address these inner enemies."
+    },
+    {
+      "i": 635,
+      "start": 3673.56,
+      "end": 3678.12,
+      "text": "Nyana Vignananasana, that which destroys the knowledge and"
+    },
+    {
+      "i": 636,
+      "start": 3678.12,
+      "end": 3685.32,
+      "text": "realization. Nyanam Sastrataha Acharyesta"
+    },
+    {
+      "i": 637,
+      "start": 3685.56,
+      "end": 3692.04,
+      "text": "atmadinam avabodaha Knowledge is understanding of the self"
+    },
+    {
+      "i": 638,
+      "start": 3692.72,
+      "end": 3696.52,
+      "text": "related truths derived from the scripture and the teacher."
+    },
+    {
+      "i": 639,
+      "start": 3697.84,
+      "end": 3701.28,
+      "text": "So Shankaracharya defines Nyana as intellectual understanding"
+    },
+    {
+      "i": 640,
+      "start": 3701.4,
+      "end": 3703.56,
+      "text": "obtained through scripture and Acharya."
+    },
+    {
+      "i": 641,
+      "start": 3705.52,
+      "end": 3708.0,
+      "text": "This is the first stage of spiritual knowledge."
+    },
+    {
+      "i": 642,
+      "start": 3709.2,
+      "end": 3714.76,
+      "text": "Vignanam Visheshataha Anubhava realization is a direct"
+    },
+    {
+      "i": 643,
+      "start": 3714.76,
+      "end": 3718.72,
+      "text": "experience of that truth which has been learned from the"
+    },
+    {
+      "i": 644,
+      "start": 3718.72,
+      "end": 3724.16,
+      "text": "Shastra and Acharya Sankarajarya clarifies that vidyana means"
+    },
+    {
+      "i": 645,
+      "start": 3724.16,
+      "end": 3728.16,
+      "text": "immediate realization and the living experience of the Self."
+    },
+    {
+      "i": 646,
+      "start": 3729.08,
+      "end": 3732.36,
+      "text": "So hearing, understanding, realization, shrabhana manana"
+    },
+    {
+      "i": 647,
+      "start": 3732.36,
+      "end": 3740.08,
+      "text": "nidhidyasana sayohot nyana, vidyana yo ho shreya pritihatuye"
+    },
+    {
+      "i": 648,
+      "start": 3740.16,
+      "end": 3743.76,
+      "text": "nasana. It destroys Kama, destroys both"
+    },
+    {
+      "i": 649,
+      "start": 3743.76,
+      "end": 3747.84,
+      "text": "Knowledge and Realization, which are the means to attaining the"
+    },
+    {
+      "i": 650,
+      "start": 3747.84,
+      "end": 3754.84,
+      "text": "highest good, which is Moksha. Sankarajari emphasized the"
+    },
+    {
+      "i": 651,
+      "start": 3754.84,
+      "end": 3760.84,
+      "text": "seriousness of the desire. It obstructs both knowledge and"
+    },
+    {
+      "i": 652,
+      "start": 3760.84,
+      "end": 3766.56,
+      "text": "Realization. It blocks the path of Saiyas,"
+    },
+    {
+      "i": 653,
+      "start": 3766.96,
+      "end": 3771.64,
+      "text": "which is liberation. Thus, conquering the desire"
+    },
+    {
+      "i": 654,
+      "start": 3771.64,
+      "end": 3777.52,
+      "text": "becomes essential. Prajahihi atmanaha paritya"
+    },
+    {
+      "i": 655,
+      "start": 3777.52,
+      "end": 3783.36,
+      "text": "jyarthe therefore, abandon it or cast it away from yourself."
+    },
+    {
+      "i": 656,
+      "start": 3785.4,
+      "end": 3788.28,
+      "text": "Sankarajarya concludes the decisive instruction by the"
+    },
+    {
+      "i": 657,
+      "start": 3788.28,
+      "end": 3792.72,
+      "text": "seeker must recognize the desire as enemy, restrain the senses,"
+    },
+    {
+      "i": 658,
+      "start": 3792.72,
+      "end": 3797.24,
+      "text": "remove the root cause of ignorance, which will attack the"
+    },
+    {
+      "i": 659,
+      "start": 3797.24,
+      "end": 3805.44,
+      "text": "Nyana and Vignana. We will stop here and do the 42"
+    },
+    {
+      "i": 660,
+      "start": 3805.44,
+      "end": 3830.2,
+      "text": "and 43 verses on Monday. I don't want to rush through."
+    },
+    {
+      "i": 661,
+      "start": 3834.76,
+      "end": 3843.04,
+      "text": "Thank you. Thank you very much Binduji."
+    },
+    {
+      "i": 662,
+      "start": 3844.92,
+      "end": 3847.64,
+      "text": "I'm opening the chat and hand raising for any follow up"
+    },
+    {
+      "i": 663,
+      "start": 3847.64,
+      "end": 3871.8,
+      "text": "questions or discussions. That must have been good."
+    },
+    {
+      "i": 664,
+      "start": 3871.8,
+      "end": 3880.8,
+      "text": "Do you have any question? Can you hear me?"
+    },
+    {
+      "i": 665,
+      "start": 3881.36,
+      "end": 3882.72,
+      "text": "Yeah. OK."
+    },
+    {
+      "i": 666,
+      "start": 3882.92,
+      "end": 3885.48,
+      "text": "I think you know, thanks for your really taking us through"
+    },
+    {
+      "i": 667,
+      "start": 3885.48,
+      "end": 3893.8,
+      "text": "the now the building blocks. I I got sidetracked where I took"
+    },
+    {
+      "i": 668,
+      "start": 3893.8,
+      "end": 3900.48,
+      "text": "a top down approach that didn't work really, then gone into this"
+    },
+    {
+      "i": 669,
+      "start": 3900.48,
+      "end": 3903.16,
+      "text": "hatha yoga that very hard formed."
+    },
+    {
+      "i": 670,
+      "start": 3903.16,
+      "end": 3905.12,
+      "text": "I didn't have any option by then."
+    },
+    {
+      "i": 671,
+      "start": 3905.2,
+      "end": 3910.36,
+      "text": "You know that option alone. This Yamaniyama for Indriya"
+    },
+    {
+      "i": 672,
+      "start": 3910.6,
+      "end": 3915.6,
+      "text": "control was extreme. Actually, you know right from"
+    },
+    {
+      "i": 673,
+      "start": 3915.6,
+      "end": 3920.8,
+      "text": "waking up at 3:45 in the morning and and the food is like meager"
+    },
+    {
+      "i": 674,
+      "start": 3920.8,
+      "end": 3926.0,
+      "text": "food provided even though that Indriya the food taste itself is"
+    },
+    {
+      "i": 675,
+      "start": 3926.0,
+      "end": 3936.24,
+      "text": "taken out and the the the entire yoga asana, all that it was"
+    },
+    {
+      "i": 676,
+      "start": 3936.56,
+      "end": 3940.48,
+      "text": "extreme restrain because now I am getting the whole rest of it."
+    },
+    {
+      "i": 677,
+      "start": 3941.4,
+      "end": 3945.24,
+      "text": "The disciplining of this whole body has an equipment and"
+    },
+    {
+      "i": 678,
+      "start": 3945.24,
+      "end": 3949.88,
+      "text": "bringing it to a discipline is the first step to knock off."
+    },
+    {
+      "i": 679,
+      "start": 3950.64,
+      "end": 3953.96,
+      "text": "This is really pointing to it. This verse is pointing to it."
+    },
+    {
+      "i": 680,
+      "start": 3954.56,
+      "end": 3958.88,
+      "text": "Yes. That really clarifies a lot why"
+    },
+    {
+      "i": 681,
+      "start": 3958.88,
+      "end": 3964.08,
+      "text": "that is required. The how is not told, but why?"
+    },
+    {
+      "i": 682,
+      "start": 3964.08,
+      "end": 3967.08,
+      "text": "You know what is told here? What to be done is told, but how"
+    },
+    {
+      "i": 683,
+      "start": 3967.08,
+      "end": 3969.24,
+      "text": "it is not told here. How is it coming?"
+    },
+    {
+      "i": 684,
+      "start": 3970.2,
+      "end": 3972.04,
+      "text": "It's coming. OK."
+    },
+    {
+      "i": 685,
+      "start": 3973.16,
+      "end": 3977.2,
+      "text": "Then then the manas is the because the first three-step"
+    },
+    {
+      "i": 686,
+      "start": 3977.2,
+      "end": 3980.68,
+      "text": "Yamaniyama asana is the first three-step for India control."
+    },
+    {
+      "i": 687,
+      "start": 3981.76,
+      "end": 3989.24,
+      "text": "Then the pratyahara, dharana, dhyana and samadhi all this"
+    },
+    {
+      "i": 688,
+      "start": 3989.56,
+      "end": 3993.28,
+      "text": "indicate indicate samyama. This is what these are the 2"
+    },
+    {
+      "i": 689,
+      "start": 3993.28,
+      "end": 3995.96,
+      "text": "steps. Now I get it after you covered"
+    },
+    {
+      "i": 690,
+      "start": 3995.96,
+      "end": 4003.6,
+      "text": "this it it seems like a bottom up approach more than a top down"
+    },
+    {
+      "i": 691,
+      "start": 4003.6,
+      "end": 4006.28,
+      "text": "approach in the way it is now laid out."
+    },
+    {
+      "i": 692,
+      "start": 4007.04,
+      "end": 4009.72,
+      "text": "We'll wait Then. Binduji, this the the buddhi"
+    },
+    {
+      "i": 693,
+      "start": 4009.72,
+      "end": 4012.68,
+      "text": "part is unclear yet. Yeah, Yeah, it is."
+    },
+    {
+      "i": 694,
+      "start": 4012.8,
+      "end": 4014.84,
+      "text": "Two more verses are there. You'll be clear."
+    },
+    {
+      "i": 695,
+      "start": 4015.48,
+      "end": 4019.4,
+      "text": "OK, then I'll wait. Thank you."
+    },
+    {
+      "i": 696,
+      "start": 4019.4,
+      "end": 4023.16,
+      "text": "Thank you. Namaste, Srini."
+    },
+    {
+      "i": 697,
+      "start": 4023.88,
+      "end": 4029.8,
+      "text": "Namaste. Only one thing it felt today's"
+    },
+    {
+      "i": 698,
+      "start": 4029.8,
+      "end": 4032.52,
+      "text": "class actually I did, I joined a bit late, I had some work"
+    },
+    {
+      "i": 699,
+      "start": 4032.52,
+      "end": 4035.08,
+      "text": "meeting. But yesterday when you were"
+    },
+    {
+      "i": 700,
+      "start": 4035.08,
+      "end": 4039.0,
+      "text": "bringing some 3 levels of three, you showed 3 levels of"
+    },
+    {
+      "i": 701,
+      "start": 4039.0,
+      "end": 4041.04,
+      "text": "difference. It felt like again that same"
+    },
+    {
+      "i": 702,
+      "start": 4041.04,
+      "end": 4045.28,
+      "text": "example instead of like the boat example we discussed, it is more"
+    },
+    {
+      "i": 703,
+      "start": 4045.28,
+      "end": 4049.68,
+      "text": "like that if you have a thorn in your leg, if you first take"
+    },
+    {
+      "i": 704,
+      "start": 4049.68,
+      "end": 4053.6,
+      "text": "another thorn, then remove it, then throw away the thorn."
+    },
+    {
+      "i": 705,
+      "start": 4053.6,
+      "end": 4058.36,
+      "text": "So there are clearly 3 distinct stages that are visible right?"
+    },
+    {
+      "i": 706,
+      "start": 4058.92,
+      "end": 4064.0,
+      "text": "One who doesn't even have a tool to remove the thorn and and the"
+    },
+    {
+      "i": 707,
+      "start": 4064.0,
+      "end": 4067.92,
+      "text": "other one of course is still holding on to the thorn after"
+    },
+    {
+      "i": 708,
+      "start": 4067.92,
+      "end": 4071.4,
+      "text": "the thorn is removed. That exams example seems"
+    },
+    {
+      "i": 709,
+      "start": 4071.56,
+      "end": 4073.68,
+      "text": "apartment to yesterday's session at least."
+    },
+    {
+      "i": 710,
+      "start": 4073.68,
+      "end": 4077.76,
+      "text": "Do you think so, Binduji? Yeah, it is."
+    },
+    {
+      "i": 711,
+      "start": 4077.8,
+      "end": 4085.24,
+      "text": "It is indicating towards that. But we have to go as per what"
+    },
+    {
+      "i": 712,
+      "start": 4085.24,
+      "end": 4090.08,
+      "text": "Krishna is projecting here. So he has said that the three"
+    },
+    {
+      "i": 713,
+      "start": 4090.08,
+      "end": 4094.68,
+      "text": "examples are from the circular, circular, grosser level,"
+    },
+    {
+      "i": 714,
+      "start": 4094.72,
+      "end": 4100.92,
+      "text": "circular to gross level. And the the way in which they"
+    },
+    {
+      "i": 715,
+      "start": 4100.92,
+      "end": 4106.52,
+      "text": "are holding on to the these three is the three examples"
+    },
+    {
+      "i": 716,
+      "start": 4106.52,
+      "end": 4111.96,
+      "text": "which was shown that the smoke covering the fire, then the"
+    },
+    {
+      "i": 717,
+      "start": 4111.96,
+      "end": 4115.84,
+      "text": "mirror getting covered by the dirt or things like that and the"
+    },
+    {
+      "i": 718,
+      "start": 4116.04,
+      "end": 4120.52,
+      "text": "embryo getting covered by the thin layer of placenta."
+    },
+    {
+      "i": 719,
+      "start": 4121.279,
+      "end": 4129.319,
+      "text": "So the three examples show the grip under which armour can hold"
+    },
+    {
+      "i": 720,
+      "start": 4129.319,
+      "end": 4132.8,
+      "text": "on to this. If the moment the intellect is"
+    },
+    {
+      "i": 721,
+      "start": 4132.8,
+      "end": 4138.08,
+      "text": "completely covered they delude it, then mind and the indriyas"
+    },
+    {
+      "i": 722,
+      "start": 4138.08,
+      "end": 4140.92,
+      "text": "can do nothing. Where will be the discrimination"
+    },
+    {
+      "i": 723,
+      "start": 4140.92,
+      "end": 4146.76,
+      "text": "come? That is why in the 62nd verse"
+    },
+    {
+      "i": 724,
+      "start": 4146.76,
+      "end": 4152.08,
+      "text": "second chapter he said that Sanga Samjayeday, Kama, Kamath"
+    },
+    {
+      "i": 725,
+      "start": 4152.08,
+      "end": 4156.92,
+      "text": "Karodovi Jayade. So that shows that the contact"
+    },
+    {
+      "i": 726,
+      "start": 4156.92,
+      "end": 4160.88,
+      "text": "level at the Indriya level is where the Kama is happening."
+    },
+    {
+      "i": 727,
+      "start": 4162.399,
+      "end": 4168.16,
+      "text": "But why where? Where does it begin with lack of"
+    },
+    {
+      "i": 728,
+      "start": 4168.16,
+      "end": 4173.92,
+      "text": "discrimination, lack of discrimination and reach to the"
+    },
+    {
+      "i": 729,
+      "start": 4173.92,
+      "end": 4176.84,
+      "text": "lack of what you call mind control."
+    },
+    {
+      "i": 730,
+      "start": 4177.16,
+      "end": 4180.76,
+      "text": "And when you have lack of mind control, the Indriyas are free"
+    },
+    {
+      "i": 731,
+      "start": 4181.2,
+      "end": 4185.04,
+      "text": "to feed in Kama to all the back backward."
+    },
+    {
+      "i": 732,
+      "start": 4185.72,
+      "end": 4189.84,
+      "text": "So in the indriyas are only what you call the receivers."
+    },
+    {
+      "i": 733,
+      "start": 4190.479,
+      "end": 4195.2,
+      "text": "But the you know the benefits are passed on to the indriya and"
+    },
+    {
+      "i": 734,
+      "start": 4195.2,
+      "end": 4197.52,
+      "text": "buddhi. I mean manasan buddhi."
+    },
+    {
+      "i": 735,
+      "start": 4197.8,
+      "end": 4201.04,
+      "text": "So what happens the delusion takes place at the buddhi and"
+    },
+    {
+      "i": 736,
+      "start": 4201.04,
+      "end": 4204.08,
+      "text": "the mind level. Indriyas are not diluted they"
+    },
+    {
+      "i": 737,
+      "start": 4204.08,
+      "end": 4207.68,
+      "text": "are growing As for what the mind is retailing."
+    },
+    {
+      "i": 738,
+      "start": 4208.56,
+      "end": 4213.6,
+      "text": "So these examples will be completely picture cleared by"
+    },
+    {
+      "i": 739,
+      "start": 4213.72,
+      "end": 4218.04,
+      "text": "two more verses are there? It is very excellent verses from"
+    },
+    {
+      "i": 740,
+      "start": 4219.16,
+      "end": 4224.64,
+      "text": "the 3rd chapter. In fact, the best explanation"
+    },
+    {
+      "i": 741,
+      "start": 4224.64,
+      "end": 4231.4,
+      "text": "for our problems are covered in these 4 verses 41 to 43."
+    },
+    {
+      "i": 742,
+      "start": 4233.12,
+      "end": 4235.12,
+      "text": "Sure. With that it is very appetizing."
+    },
+    {
+      "i": 743,
+      "start": 4235.56,
+      "end": 4241.96,
+      "text": "So to continue those examples, for me it feels like karma yoga"
+    },
+    {
+      "i": 744,
+      "start": 4241.96,
+      "end": 4245.4,
+      "text": "is only for the first two persons, the third embryo"
+    },
+    {
+      "i": 745,
+      "start": 4245.4,
+      "end": 4250.68,
+      "text": "example, it's not possible. It is not even qualified for"
+    },
+    {
+      "i": 746,
+      "start": 4250.68,
+      "end": 4252.6,
+      "text": "karma yoga. Do you think so like?"
+    },
+    {
+      "i": 747,
+      "start": 4254.08,
+      "end": 4257.04,
+      "text": "No, Karma yoga has to be beginning at the mind and"
+    },
+    {
+      "i": 748,
+      "start": 4257.04,
+      "end": 4260.8,
+      "text": "intellect level. No, Indriyas are only tools."
+    },
+    {
+      "i": 749,
+      "start": 4261.24,
+      "end": 4265.52,
+      "text": "Actually, the indriyas are themselves are important to"
+    },
+    {
+      "i": 750,
+      "start": 4265.52,
+      "end": 4268.2,
+      "text": "function independently without the mind."
+    },
+    {
+      "i": 751,
+      "start": 4270.92,
+      "end": 4275.92,
+      "text": "Yeah, so one has to start using the mind and not only keep using"
+    },
+    {
+      "i": 752,
+      "start": 4275.92,
+      "end": 4279.04,
+      "text": "Indriyas. No, but in but Indriyas he has"
+    },
+    {
+      "i": 753,
+      "start": 4279.04,
+      "end": 4286.12,
+      "text": "got a reverse connection also because at the Indriya, Indriya"
+    },
+    {
+      "i": 754,
+      "start": 4286.2,
+      "end": 4290.44,
+      "text": "Vastu, the Indriya and the sense organ and the sense object"
+    },
+    {
+      "i": 755,
+      "start": 4290.44,
+      "end": 4298.76,
+      "text": "contact is where the karma tricks the mind by the lack of"
+    },
+    {
+      "i": 756,
+      "start": 4299.32,
+      "end": 4301.28,
+      "text": "knowledge. Because at the at the"
+    },
+    {
+      "i": 757,
+      "start": 4301.28,
+      "end": 4306.72,
+      "text": "intellectual level it has created a confusion, delusion."
+    },
+    {
+      "i": 758,
+      "start": 4307.48,
+      "end": 4313.36,
+      "text": "So the that wrong thing as got now projected which Ananda which"
+    },
+    {
+      "i": 759,
+      "start": 4313.36,
+      "end": 4318.0,
+      "text": "is supposed to be the nature of the self is now being projected"
+    },
+    {
+      "i": 760,
+      "start": 4318.0,
+      "end": 4325.68,
+      "text": "on to the sense objects. And therefore these delusion is"
+    },
+    {
+      "i": 761,
+      "start": 4325.68,
+      "end": 4329.44,
+      "text": "at the mind, at the intellectual level which confuses the mind"
+    },
+    {
+      "i": 762,
+      "start": 4329.64,
+      "end": 4331.8,
+      "text": "and the mind. And then the Indriyas are"
+    },
+    {
+      "i": 763,
+      "start": 4331.8,
+      "end": 4334.48,
+      "text": "thinking that that is what is the reality."
+    },
+    {
+      "i": 764,
+      "start": 4335.6,
+      "end": 4340.84,
+      "text": "That is what we covered today. So at that and at the Indriya"
+    },
+    {
+      "i": 765,
+      "start": 4340.84,
+      "end": 4346.2,
+      "text": "level it, there is a traffic up and down it."
+    },
+    {
+      "i": 766,
+      "start": 4346.48,
+      "end": 4351.44,
+      "text": "That is why the cycle of repeatability into the sense"
+    },
+    {
+      "i": 767,
+      "start": 4351.44,
+      "end": 4355.72,
+      "text": "organs and the sense objects keeps on happening until and"
+    },
+    {
+      "i": 768,
+      "start": 4355.72,
+      "end": 4360.36,
+      "text": "unless we remove it at the root of where the discrimination"
+    },
+    {
+      "i": 769,
+      "start": 4360.36,
+      "end": 4364.88,
+      "text": "itself is to be powerful. And if the infinite"
+    },
+    {
+      "i": 770,
+      "start": 4364.88,
+      "end": 4369.04,
+      "text": "discrimination is not powerful, the mind and the interiors will"
+    },
+    {
+      "i": 771,
+      "start": 4369.04,
+      "end": 4373.84,
+      "text": "be always feeding back to the confusion again and again."
+    },
+    {
+      "i": 772,
+      "start": 4376.44,
+      "end": 4379.72,
+      "text": "Thank you, Bindaji. And finally the first example of"
+    },
+    {
+      "i": 773,
+      "start": 4379.72,
+      "end": 4385.08,
+      "text": "the coal covered with that ash or something or fire with smoke"
+    },
+    {
+      "i": 774,
+      "start": 4386.04,
+      "end": 4389.32,
+      "text": "that that is for a Gyani even that problem is not there,"
+    },
+    {
+      "i": 775,
+      "start": 4389.32,
+      "end": 4392.0,
+      "text": "right? It's that is the last level of"
+    },
+    {
+      "i": 776,
+      "start": 4392.0,
+      "end": 4395.2,
+      "text": "karma yoga or what would you say to that?"
+    },
+    {
+      "i": 777,
+      "start": 4396.04,
+      "end": 4400.04,
+      "text": "That is not a karma yoga level, that is akarta."
+    },
+    {
+      "i": 778,
+      "start": 4400.48,
+      "end": 4404.36,
+      "text": "But that Gyani has become a karta for him then the Indriyas"
+    },
+    {
+      "i": 779,
+      "start": 4404.36,
+      "end": 4409.76,
+      "text": "and the Indriyas contacting with the sense of objects is not an"
+    },
+    {
+      "i": 780,
+      "start": 4409.76,
+      "end": 4413.12,
+      "text": "activity at all. That is prakriti guna."
+    },
+    {
+      "i": 781,
+      "start": 4413.6,
+      "end": 4416.56,
+      "text": "I mean gunai we say gunesh, gunesh vartan de."
+    },
+    {
+      "i": 782,
+      "start": 4417.0,
+      "end": 4420.2,
+      "text": "We studied that before that you should not forget the previous"
+    },
+    {
+      "i": 783,
+      "start": 4420.2,
+      "end": 4424.08,
+      "text": "verses in that it has been very mentioned, clearly mentioned"
+    },
+    {
+      "i": 784,
+      "start": 4424.6,
+      "end": 4427.68,
+      "text": "guna gunesh vartan de. That is the knowledge with that"
+    },
+    {
+      "i": 785,
+      "start": 4427.68,
+      "end": 4434.28,
+      "text": "Nyani has got. So even in a Yanis experience,"
+    },
+    {
+      "i": 786,
+      "start": 4434.28,
+      "end": 4437.04,
+      "text": "the smoke covering the fire kind of thing can happen."
+    },
+    {
+      "i": 787,
+      "start": 4437.6,
+      "end": 4442.64,
+      "text": "No, exactly the ultimate. The thing is that when that your"
+    },
+    {
+      "i": 788,
+      "start": 4442.64,
+      "end": 4447.16,
+      "text": "Nana takes place, that is when the Kama is completely removed"
+    },
+    {
+      "i": 789,
+      "start": 4447.44,
+      "end": 4450.28,
+      "text": "because there is no Kartrutva or Boktrutva."
+    },
+    {
+      "i": 790,
+      "start": 4451.24,
+      "end": 4455.28,
+      "text": "But when you have a Kartrutva Boktrutva, that is the place the"
+    },
+    {
+      "i": 791,
+      "start": 4455.28,
+      "end": 4460.92,
+      "text": "Boktrutva parties where the Kama will act and the Kartrutua will"
+    },
+    {
+      "i": 792,
+      "start": 4460.92,
+      "end": 4466.64,
+      "text": "be deluded Kartrutua. But."
+    },
+    {
+      "i": 793,
+      "start": 4466.72,
+      "end": 4470.24,
+      "text": "When the Kartrutu go retrospective action like yes"
+    },
+    {
+      "i": 794,
+      "start": 4470.52,
+      "end": 4474.0,
+      "text": "after the smoke has come, then we blow air or something like"
+    },
+    {
+      "i": 795,
+      "start": 4474.0,
+      "end": 4476.84,
+      "text": "that. OK for did Binduji."
+    },
+    {
+      "i": 796,
+      "start": 4476.96,
+      "end": 4482.24,
+      "text": "Thank you. Thank you, did you have a follow"
+    },
+    {
+      "i": 797,
+      "start": 4482.24,
+      "end": 4483.96,
+      "text": "binduji? Yes, take it."
+    },
+    {
+      "i": 798,
+      "start": 4484.8,
+      "end": 4490.76,
+      "text": "Discovering 3 levels right with the womb and mirror and the"
+    },
+    {
+      "i": 799,
+      "start": 4491.0,
+      "end": 4492.72,
+      "text": "smoke and fire. Right."
+    },
+    {
+      "i": 800,
+      "start": 4493.28,
+      "end": 4498.28,
+      "text": "It it is like, you know if the covering itself is more powerful"
+    },
+    {
+      "i": 801,
+      "start": 4498.28,
+      "end": 4504.08,
+      "text": "than Brahman dagnanam right? It gives an, you know, inverted"
+    },
+    {
+      "i": 802,
+      "start": 4504.08,
+      "end": 4508.16,
+      "text": "picture. If Brahman is brahat, then the"
+    },
+    {
+      "i": 803,
+      "start": 4508.16,
+      "end": 4511.84,
+      "text": "coverage is Brahat. No, no, you have to."
+    },
+    {
+      "i": 804,
+      "start": 4512.04,
+      "end": 4513.44,
+      "text": "You have to understand one thing."
+    },
+    {
+      "i": 805,
+      "start": 4513.44,
+      "end": 4518.96,
+      "text": "Venkat Shravana, Manana and nidhidyasana 3 level."
+    },
+    {
+      "i": 806,
+      "start": 4520.28,
+      "end": 4526.28,
+      "text": "The nyana and vitnyana level is up to the nidhidyasana."
+    },
+    {
+      "i": 807,
+      "start": 4527.48,
+      "end": 4535.32,
+      "text": "But once the nidhidyasana fructifies as ahambrammasmi then"
+    },
+    {
+      "i": 808,
+      "start": 4537.12,
+      "end": 4539.72,
+      "text": "thus none of this confusion can ever happen."
+    },
+    {
+      "i": 809,
+      "start": 4540.68,
+      "end": 4543.12,
+      "text": "The kartrutha boktrutha I am the sharira."
+    },
+    {
+      "i": 810,
+      "start": 4543.12,
+      "end": 4545.76,
+      "text": "Even the instruments are not haste."
+    },
+    {
+      "i": 811,
+      "start": 4546.6,
+      "end": 4548.64,
+      "text": "He has no identification with them."
+    },
+    {
+      "i": 812,
+      "start": 4548.84,
+      "end": 4552.52,
+      "text": "He identifies with atma chena, Atma chaitas."
+    },
+    {
+      "i": 813,
+      "start": 4553.44,
+      "end": 4555.32,
+      "text": "He is becoming one with the self."
+    },
+    {
+      "i": 814,
+      "start": 4556.2,
+      "end": 4560.08,
+      "text": "Thereafter there is no edgatwana Nivartande."
+    },
+    {
+      "i": 815,
+      "start": 4560.28,
+      "end": 4564.16,
+      "text": "There is no there is nothing further happening to him."
+    },
+    {
+      "i": 816,
+      "start": 4564.92,
+      "end": 4569.92,
+      "text": "But at the manana level, even though we have the knowledge, we"
+    },
+    {
+      "i": 817,
+      "start": 4569.92,
+      "end": 4574.2,
+      "text": "are doing, we are understanding it correctly, we know that we"
+    },
+    {
+      "i": 818,
+      "start": 4574.2,
+      "end": 4580.04,
+      "text": "are Atman Brahman, everything is undisputedly accepted."
+    },
+    {
+      "i": 819,
+      "start": 4581.0,
+      "end": 4590.12,
+      "text": "But that nidhidyasana aspect of conviction where the anubhava is"
+    },
+    {
+      "i": 820,
+      "start": 4590.12,
+      "end": 4595.72,
+      "text": "happening, until that happens, what happens the EU, we are"
+    },
+    {
+      "i": 821,
+      "start": 4595.96,
+      "end": 4599.52,
+      "text": "likely to be attacked by the Karma and Krotha."
+    },
+    {
+      "i": 822,
+      "start": 4604.08,
+      "end": 4606.64,
+      "text": "Perfect. That whole structure of Karma,"
+    },
+    {
+      "i": 823,
+      "start": 4606.64,
+      "end": 4609.76,
+      "text": "no doubt. Just that example of coverage"
+    },
+    {
+      "i": 824,
+      "start": 4610.56,
+      "end": 4613.52,
+      "text": "gives a, you know, inverted understanding."
+    },
+    {
+      "i": 825,
+      "start": 4613.88,
+      "end": 4616.8,
+      "text": "That is only up to the mind level, at the not mind level,"
+    },
+    {
+      "i": 826,
+      "start": 4616.8,
+      "end": 4623.52,
+      "text": "Manana level. But once the Nidhidya Sena takes"
+    },
+    {
+      "i": 827,
+      "start": 4623.52,
+      "end": 4628.4,
+      "text": "place, then there is no, you'll have known the Vastu Vastu as"
+    },
+    {
+      "i": 828,
+      "start": 4628.4,
+      "end": 4632.72,
+      "text": "what I am, the self and I'm not the body, mind, intellect."
+    },
+    {
+      "i": 829,
+      "start": 4633.04,
+      "end": 4638.84,
+      "text": "So the mind and intellect is no more me to I, to me to get"
+    },
+    {
+      "i": 830,
+      "start": 4638.84,
+      "end": 4651.72,
+      "text": "deluded, right? Thank you. 11 Quick follow up,"
+    },
+    {
+      "i": 831,
+      "start": 4652.16,
+      "end": 4655.4,
+      "text": "like I just want to again convert these three examples"
+    },
+    {
+      "i": 832,
+      "start": 4655.4,
+      "end": 4658.2,
+      "text": "into one just to understand it in a different way."
+    },
+    {
+      "i": 833,
+      "start": 4658.28,
+      "end": 4662.28,
+      "text": "Like for example, if we take these three as a dish which is"
+    },
+    {
+      "i": 834,
+      "start": 4662.28,
+      "end": 4665.76,
+      "text": "very dirty, like very oily or something, a dish which we"
+    },
+    {
+      "i": 835,
+      "start": 4665.76,
+      "end": 4669.76,
+      "text": "cooked and second dish is moderately dirty and the third"
+    },
+    {
+      "i": 836,
+      "start": 4669.76,
+      "end": 4672.44,
+      "text": "dish is very less. Like if we make some idli or"
+    },
+    {
+      "i": 837,
+      "start": 4672.44,
+      "end": 4675.4,
+      "text": "something, it maybe gets very slightly dirty."
+    },
+    {
+      "i": 838,
+      "start": 4675.4,
+      "end": 4677.32,
+      "text": "We are not using oil or something like that."
+    },
+    {
+      "i": 839,
+      "start": 4677.84,
+      "end": 4682.48,
+      "text": "Now is it like for for each three of these things there are"
+    },
+    {
+      "i": 840,
+      "start": 4682.48,
+      "end": 4685.44,
+      "text": "three separate detergents. Like is Krishna going to tell us"
+    },
+    {
+      "i": 841,
+      "start": 4685.76,
+      "end": 4690.6,
+      "text": "that for this there is a further more difficult sadhana need to"
+    },
+    {
+      "i": 842,
+      "start": 4690.6,
+      "end": 4695.0,
+      "text": "be done for a more dirty dish and moderate sadhana for a?"
+    },
+    {
+      "i": 843,
+      "start": 4695.0,
+      "end": 4699.48,
+      "text": "Or is it like one single detergent which can wash all the"
+    },
+    {
+      "i": 844,
+      "start": 4699.56,
+      "end": 4703.64,
+      "text": "dishes? And things no, that example is"
+    },
+    {
+      "i": 845,
+      "start": 4703.64,
+      "end": 4706.36,
+      "text": "not the the way in which you have to think about it because"
+    },
+    {
+      "i": 846,
+      "start": 4706.36,
+      "end": 4711.36,
+      "text": "there are there are no 33 dishes and three separate operations"
+    },
+    {
+      "i": 847,
+      "start": 4712.4,
+      "end": 4717.12,
+      "text": "here 3 Ajustana is happening is in the three levels of the same"
+    },
+    {
+      "i": 848,
+      "start": 4717.12,
+      "end": 4720.36,
+      "text": "instrument which is called the dehin or the dehah."
+    },
+    {
+      "i": 849,
+      "start": 4721.6,
+      "end": 4725.08,
+      "text": "In the Dehah we have the locations where they are"
+    },
+    {
+      "i": 850,
+      "start": 4725.08,
+      "end": 4728.08,
+      "text": "operating. One is at the Indriya level"
+    },
+    {
+      "i": 851,
+      "start": 4728.28,
+      "end": 4731.44,
+      "text": "which is coming in contact with the Shin scale objects world"
+    },
+    {
+      "i": 852,
+      "start": 4731.44,
+      "end": 4737.2,
+      "text": "outside. At the mind level, the indriyas"
+    },
+    {
+      "i": 853,
+      "start": 4737.68,
+      "end": 4741.84,
+      "text": "are dependent upon the mind to develop the desire and get in"
+    },
+    {
+      "i": 854,
+      "start": 4741.84,
+      "end": 4745.16,
+      "text": "touch with the contact. So both the mind and the"
+    },
+    {
+      "i": 855,
+      "start": 4745.16,
+      "end": 4750.92,
+      "text": "indriyas should be taken together as a composite unit."
+    },
+    {
+      "i": 856,
+      "start": 4751.36,
+      "end": 4755.4,
+      "text": "That is why Shravana Manana is applicable at that level."
+    },
+    {
+      "i": 857,
+      "start": 4755.4,
+      "end": 4758.48,
+      "text": "What I'm saying that at the intellectual level it is the"
+    },
+    {
+      "i": 858,
+      "start": 4758.48,
+      "end": 4763.32,
+      "text": "same intellect which should have the discriminative power from"
+    },
+    {
+      "i": 859,
+      "start": 4763.32,
+      "end": 4767.2,
+      "text": "the knowledge of the shastra and the gurumukha teaching, which"
+    },
+    {
+      "i": 860,
+      "start": 4767.2,
+      "end": 4772.52,
+      "text": "should be able to know itself as akarta bokta."
+    },
+    {
+      "i": 861,
+      "start": 4773.2,
+      "end": 4777.92,
+      "text": "But that has not fructified. He has the knowledge, but he has"
+    },
+    {
+      "i": 862,
+      "start": 4777.92,
+      "end": 4780.96,
+      "text": "not become dainabhava. He still feels that he's the"
+    },
+    {
+      "i": 863,
+      "start": 4780.96,
+      "end": 4784.68,
+      "text": "body, mind, intellect complex. Therefore, what happens is that"
+    },
+    {
+      "i": 864,
+      "start": 4784.68,
+      "end": 4787.48,
+      "text": "that is the claim when the Kama is operating."
+    },
+    {
+      "i": 865,
+      "start": 4788.08,
+      "end": 4791.6,
+      "text": "So the example which if you want to take an example to that"
+    },
+    {
+      "i": 866,
+      "start": 4791.6,
+      "end": 4797.28,
+      "text": "extent is if I don't know it is only the chariot example, we can"
+    },
+    {
+      "i": 867,
+      "start": 4797.28,
+      "end": 4802.16,
+      "text": "say Krishna himself will say that atmanam reddinam withdi"
+    },
+    {
+      "i": 868,
+      "start": 4802.16,
+      "end": 4807.28,
+      "text": "shariram reddham ebaja buddhim tu sarathim withdi anapragraham"
+    },
+    {
+      "i": 869,
+      "start": 4807.28,
+      "end": 4813.0,
+      "text": "ebaja indriyani hayanau. That example which Krishna tells"
+    },
+    {
+      "i": 870,
+      "start": 4813.0,
+      "end": 4817.72,
+      "text": "later in the Gita is the only example which we can think for"
+    },
+    {
+      "i": 871,
+      "start": 4817.72,
+      "end": 4822.2,
+      "text": "this purpose. Also, if the charioter is not"
+    },
+    {
+      "i": 872,
+      "start": 4822.2,
+      "end": 4829.8,
+      "text": "knowing the road, he will not be able to control the saddle and"
+    },
+    {
+      "i": 873,
+      "start": 4829.8,
+      "end": 4832.52,
+      "text": "the horses are free to run wherever they were they want to"
+    },
+    {
+      "i": 874,
+      "start": 4832.52,
+      "end": 4838.68,
+      "text": "take it. And the the the travel will be"
+    },
+    {
+      "i": 875,
+      "start": 4838.68,
+      "end": 4844.52,
+      "text": "enjoyed by thinking that Sarathi is thinking that I am taking the"
+    },
+    {
+      "i": 876,
+      "start": 4844.96,
+      "end": 4853.44,
+      "text": "right route and going only when the Atma knowledge comes and"
+    },
+    {
+      "i": 877,
+      "start": 4853.44,
+      "end": 4858.36,
+      "text": "says that you are now under the control of a delusion and you"
+    },
+    {
+      "i": 878,
+      "start": 4858.36,
+      "end": 4862.72,
+      "text": "are thinking that you are going in the direction the star at the"
+    },
+    {
+      "i": 879,
+      "start": 4862.76,
+      "end": 4866.8,
+      "text": "stops, the chariot takes it in a reverse direction."
+    },
+    {
+      "i": 880,
+      "start": 4868.32,
+      "end": 4873.52,
+      "text": "I made a wrong direction change and then he goes in the backside"
+    },
+    {
+      "i": 881,
+      "start": 4873.8,
+      "end": 4876.08,
+      "text": "reverse direction and takes the correct route."
+    },
+    {
+      "i": 882,
+      "start": 4876.72,
+      "end": 4878.84,
+      "text": "That is the only example we can think about."
+    },
+    {
+      "i": 883,
+      "start": 4881.32,
+      "end": 4884.64,
+      "text": "What is the game breaker there? So what is the breaking point"
+    },
+    {
+      "i": 884,
+      "start": 4884.64,
+      "end": 4888.36,
+      "text": "like once he left the horses to run freely?"
+    },
+    {
+      "i": 885,
+      "start": 4889.12,
+      "end": 4894.4,
+      "text": "So this, so is it the same boda that it is the same Atmatyana"
+    },
+    {
+      "i": 886,
+      "start": 4894.4,
+      "end": 4898.8,
+      "text": "that is the which changes the direction or is it a different"
+    },
+    {
+      "i": 887,
+      "start": 4898.84,
+      "end": 4903.64,
+      "text": "medicine for that stage versus? Atmatyana at two different"
+    },
+    {
+      "i": 888,
+      "start": 4904.28,
+      "end": 4909.28,
+      "text": "levels. Atmatyana has a textual"
+    },
+    {
+      "i": 889,
+      "start": 4909.6,
+      "end": 4915.28,
+      "text": "informative understanding, is still under the clutches of"
+    },
+    {
+      "i": 890,
+      "start": 4915.28,
+      "end": 4920.92,
+      "text": "Karma and Karoda. But the Atmat Nyana, the moment"
+    },
+    {
+      "i": 891,
+      "start": 4920.92,
+      "end": 4927.96,
+      "text": "it becomes Anubhava aparoksha, he has totally mukta nitya"
+    },
+    {
+      "i": 892,
+      "start": 4927.96,
+      "end": 4930.4,
+      "text": "mukta. He realizes himself is no more"
+    },
+    {
+      "i": 893,
+      "start": 4930.72,
+      "end": 4932.64,
+      "text": "associated with the body, mind, intellect."
+    },
+    {
+      "i": 894,
+      "start": 4934.48,
+      "end": 4937.4,
+      "text": "He doesn't see himself as the body."
+    },
+    {
+      "i": 895,
+      "start": 4938.44,
+      "end": 4941.08,
+      "text": "He doesn't know that this is this body is."
+    },
+    {
+      "i": 896,
+      "start": 4941.28,
+      "end": 4944.52,
+      "text": "There is no I in him to say that this is my body."
+    },
+    {
+      "i": 897,
+      "start": 4946.8,
+      "end": 4953.16,
+      "text": "So where will if he, if he say it is that Sudha Buddha Mukta"
+    },
+    {
+      "i": 898,
+      "start": 4953.16,
+      "end": 4960.48,
+      "text": "Subhawa of the Atman, and the appearance of the body, mind and"
+    },
+    {
+      "i": 899,
+      "start": 4960.48,
+      "end": 4965.28,
+      "text": "intellect which appears to us because we are in the waking."
+    },
+    {
+      "i": 900,
+      "start": 4967.4,
+      "end": 4971.92,
+      "text": "In the waking, when the knowledge arises, the waking"
+    },
+    {
+      "i": 901,
+      "start": 4971.92,
+      "end": 4976.52,
+      "text": "will become as ephemeral as a dream."
+    },
+    {
+      "i": 902,
+      "start": 4977.48,
+      "end": 4981.04,
+      "text": "Only thing is that we know. We don't call it as a dream, we"
+    },
+    {
+      "i": 903,
+      "start": 4981.04,
+      "end": 4986.24,
+      "text": "know that it is. That is a mithya or a unreal"
+    },
+    {
+      "i": 904,
+      "start": 4986.68,
+      "end": 4990.08,
+      "text": "experience. The only reality is the Sakshi"
+    },
+    {
+      "i": 905,
+      "start": 4990.08,
+      "end": 4994.68,
+      "text": "or the Atma. So debyog election of Sakshi,"
+    },
+    {
+      "i": 906,
+      "start": 4994.68,
+      "end": 4997.88,
+      "text": "chinmath roham sadashivam. When I say that when you when we"
+    },
+    {
+      "i": 907,
+      "start": 4997.88,
+      "end": 5002.44,
+      "text": "say that, that is the time when the total de identification with"
+    },
+    {
+      "i": 908,
+      "start": 5002.44,
+      "end": 5004.96,
+      "text": "the body, mind, intellect is complete."
+    },
+    {
+      "i": 909,
+      "start": 5005.52,
+      "end": 5010.12,
+      "text": "Until then, it is at the intellect level we are studying,"
+    },
+    {
+      "i": 910,
+      "start": 5010.12,
+      "end": 5011.84,
+      "text": "we are learning these scriptures."
+    },
+    {
+      "i": 911,
+      "start": 5011.84,
+      "end": 5016.12,
+      "text": "We know everything, but it has not become our experience."
+    },
+    {
+      "i": 912,
+      "start": 5018.52,
+      "end": 5023.2,
+      "text": "OK, so that is when you would say that the Pragraha taken into"
+    },
+    {
+      "i": 913,
+      "start": 5023.2,
+      "end": 5029.2,
+      "text": "the hands of Sasarathi? To the Atma, the owner of the"
+    },
+    {
+      "i": 914,
+      "start": 5029.2,
+      "end": 5033.12,
+      "text": "chariot. Oh, OK, OK."
+    },
+    {
+      "i": 915,
+      "start": 5034.44,
+      "end": 5037.64,
+      "text": "Oh, then Sarah Sarathi will what will happen to Sarathi?"
+    },
+    {
+      "i": 916,
+      "start": 5037.64,
+      "end": 5040.64,
+      "text": "There is no Sarathi, is it? There is no Sarathi."
+    },
+    {
+      "i": 917,
+      "start": 5040.64,
+      "end": 5044.08,
+      "text": "Then there's no Sarathi. Don't want my saddle."
+    },
+    {
+      "i": 918,
+      "start": 5044.08,
+      "end": 5046.8,
+      "text": "No other horses. None of them are there."
+    },
+    {
+      "i": 919,
+      "start": 5049.84,
+      "end": 5052.8,
+      "text": "OK, if if the owner of the horse, if the owner of the"
+    },
+    {
+      "i": 920,
+      "start": 5052.8,
+      "end": 5056.64,
+      "text": "chariot think that I am the chariot, that is what happens to"
+    },
+    {
+      "i": 921,
+      "start": 5056.64,
+      "end": 5062.16,
+      "text": "us now. We are thinking we are the"
+    },
+    {
+      "i": 922,
+      "start": 5062.16,
+      "end": 5064.96,
+      "text": "chariot, but we are not the chariot."
+    },
+    {
+      "i": 923,
+      "start": 5065.88,
+      "end": 5072.28,
+      "text": "We are owner of the chariot. Thank you."
+    },
+    {
+      "i": 924,
+      "start": 5072.28,
+      "end": 5073.8,
+      "text": "Thank you, Bindaji. Beautiful."
+    },
+    {
+      "i": 925,
+      "start": 5076.72,
+      "end": 5083.84,
+      "text": "Thank you. Srini, I think we are Bindaji."
+    },
+    {
+      "i": 926,
+      "start": 5083.84,
+      "end": 5086.36,
+      "text": "Shall we close the room? Yeah, I think we can close the"
+    },
+    {
+      "i": 927,
+      "start": 5086.36,
+      "end": 5087.6,
+      "text": "room. OK."
+    },
+    {
+      "i": 928,
+      "start": 5088.52,
+      "end": 5091.4,
+      "text": "Thanks everyone for coming tomorrow."
+    },
+    {
+      "i": 929,
+      "start": 5092.32,
+      "end": 5095.64,
+      "text": "It's a break day. And so we meet Sunday for an"
+    },
+    {
+      "i": 930,
+      "start": 5095.64,
+      "end": 5099.36,
+      "text": "Advaita open discussion. As always, a heartfelt thanks to"
+    },
+    {
+      "i": 931,
+      "start": 5099.36,
+      "end": 5105.56,
+      "text": "Bindoji for taking us deep into this process of looking at how"
+    },
+    {
+      "i": 932,
+      "start": 5105.76,
+      "end": 5112.48,
+      "text": "these Kama Krada operates. So it's a beautiful deep dive"
+    },
+    {
+      "i": 933,
+      "start": 5112.48,
+      "end": 5114.88,
+      "text": "into that space. So thank you very much, Bindoji,"
+    },
+    {
+      "i": 934,
+      "start": 5115.72,
+      "end": 5120.04,
+      "text": "as always, if you want to go and do the Manana Shravana Manana"
+    },
+    {
+      "i": 935,
+      "start": 5120.12,
+      "end": 5124.16,
+      "text": "replacer available in Clubhouse or you could go to the channel"
+    },
+    {
+      "i": 936,
+      "start": 5124.16,
+      "end": 5127.64,
+      "text": "shared in the chat. There's a YouTube channel and"
+    },
+    {
+      "i": 937,
+      "start": 5127.64,
+      "end": 5132.28,
+      "text": "there is the Apple in the spot, Spotify links available."
+    },
+    {
+      "i": 938,
+      "start": 5135.6,
+      "end": 5140.52,
+      "text": "So see you on Sunday at 8:30 PM IST for an Advaita discussion"
+    },
+    {
+      "i": 939,
+      "start": 5140.52,
+      "end": 5145.32,
+      "text": "with Binduji and over to Binduji to close the room over to you."
+    },
+    {
+      "i": 940,
+      "start": 5146.92,
+      "end": 5149.56,
+      "text": "Thank you, Prakash, thank you Venkat, thank you Shrini, and"
+    },
+    {
+      "i": 941,
+      "start": 5149.56,
+      "end": 5151.32,
+      "text": "thank you all of you for listening."
+    },
+    {
+      "i": 942,
+      "start": 5152.2,
+      "end": 5157.8,
+      "text": "And we will meet Sunday for the QN day and Monday the last two"
+    },
+    {
+      "i": 943,
+      "start": 5158.0,
+      "end": 5163.32,
+      "text": "verses of 3rd chapter we'll discuss before we move to 4th"
+    },
+    {
+      "i": 944,
+      "start": 5163.32,
+      "end": 5166.56,
+      "text": "chapter. Hario, goodnight."
+    },
+    {
+      "i": 945,
+      "start": 5166.84,
+      "end": 5169.04,
+      "text": "See you all. Hario, goodnight."
+    }
+  ]
+}

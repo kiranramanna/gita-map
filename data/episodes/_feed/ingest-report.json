@@ -1,0 +1,31 @@
+{
+  "run_at": "2026-11-09T22:08:48Z",
+  "total": 48,
+  "fetched": 0,
+  "skipped": 48,
+  "failed": [],
+  "history": [
+    {
+      "run_at": "2026-11-09T22:06:52Z",
+      "total": 48,
+      "fetched": 48,
+      "skipped": 0,
+      "failed": [],
+      "note": "reconstructed from console output; run_at = earliest provenance fetched_at"
+    },
+    {
+      "run_at": "2026-11-09T22:08:30Z",
+      "total": 48,
+      "fetched": 0,
+      "skipped": 48,
+      "failed": []
+    },
+    {
+      "run_at": "2026-11-09T22:08:48Z",
+      "total": 48,
+      "fetched": 0,
+      "skipped": 48,
+      "failed": []
+    }
+  ]
+}

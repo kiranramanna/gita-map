@@ -1,0 +1,5713 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "6ef296d1-4161-415b-a93c-a5c07938e04f",
+  "source_sha256": "48873f6d59877a211933222b9f38a055596cbd64fb2c28828ff345837ee1a518",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.32,
+      "end": 4.24,
+      "text": "Yes, namaste everyone. Welcome to Advaita Vedanta"
+    },
+    {
+      "i": 2,
+      "start": 4.24,
+      "end": 7.8,
+      "text": "Satsang house. The ongoing sessions are on"
+    },
+    {
+      "i": 3,
+      "start": 7.84,
+      "end": 10.84,
+      "text": "Bhagwat Geeta from an advaita perspective offered by Pindoji."
+    },
+    {
+      "i": 4,
+      "start": 10.84,
+      "end": 15.12,
+      "text": "We are on chapter 4. The replays of the rooms are"
+    },
+    {
+      "i": 5,
+      "start": 15.12,
+      "end": 17.2,
+      "text": "available. Previous rooms are available in"
+    },
+    {
+      "i": 6,
+      "start": 17.2,
+      "end": 20.64,
+      "text": "clubhouse or you can go to the links shared in the chat. 1 is"
+    },
+    {
+      "i": 7,
+      "start": 20.64,
+      "end": 23.12,
+      "text": "on YouTube. The channel is Advaita Retold"
+    },
+    {
+      "i": 8,
+      "start": 23.12,
+      "end": 26.0,
+      "text": "where they are well catalogued including the previous talks"
+    },
+    {
+      "i": 9,
+      "start": 26.0,
+      "end": 32.119,
+      "text": "from Abroghi and Upanishads. There is also a link on Apple"
+    },
+    {
+      "i": 10,
+      "start": 32.119,
+      "end": 36.44,
+      "text": "port to access these in Apple podcast and the Spotify."
+    },
+    {
+      "i": 11,
+      "start": 37.88,
+      "end": 41.6,
+      "text": "There is also a book written by Artemisia called The Imaginary"
+    },
+    {
+      "i": 12,
+      "start": 41.6,
+      "end": 43.12,
+      "text": "Door which is available in Amazon."
+    },
+    {
+      "i": 13,
+      "start": 43.12,
+      "end": 46.52,
+      "text": "The links are provided in the chat which is based on Window."
+    },
+    {
+      "i": 14,
+      "start": 46.52,
+      "end": 52.84,
+      "text": "These insights coming from Artemisia's writing style on the"
+    },
+    {
+      "i": 15,
+      "start": 52.84,
+      "end": 57.4,
+      "text": "Advaita. So these are the repositories"
+    },
+    {
+      "i": 16,
+      "start": 57.4,
+      "end": 59.12,
+      "text": "where you can access previous talks."
+    },
+    {
+      "i": 17,
+      "start": 59.96,
+      "end": 62.64,
+      "text": "I'll be closing the chat and hand raising when Bindoji is"
+    },
+    {
+      "i": 18,
+      "start": 62.64,
+      "end": 65.36,
+      "text": "connecting the lesson, which will class which will last for"
+    },
+    {
+      "i": 19,
+      "start": 65.36,
+      "end": 68.48,
+      "text": "about an hour, after which we'll open up the chat and hand"
+    },
+    {
+      "i": 20,
+      "start": 68.48,
+      "end": 72.12,
+      "text": "raising for any follow up questions or clarifications."
+    },
+    {
+      "i": 21,
+      "start": 73.52,
+      "end": 78.96,
+      "text": "Thank you, Bindoji, over to you. Thank you, Prakash Namastey, and"
+    },
+    {
+      "i": 22,
+      "start": 79.24,
+      "end": 93.0,
+      "text": "welcome to all of you. Let me do my invocation, Namu"
+    },
+    {
+      "i": 23,
+      "start": 94.28,
+      "end": 147.36,
+      "text": "Brahma. I Yes sorry"
+    },
+    {
+      "i": 24,
+      "start": 169.44,
+      "end": 177.48,
+      "text": "in the 4th chapter we saw that Arjuna had a doubt in Krishna's"
+    },
+    {
+      "i": 25,
+      "start": 177.48,
+      "end": 188.8,
+      "text": "statement that he has taught this yoga or via yoga to the"
+    },
+    {
+      "i": 26,
+      "start": 189.32,
+      "end": 195.8,
+      "text": "first of the creation, the sun God, the biggest one and which"
+    },
+    {
+      "i": 27,
+      "start": 195.8,
+      "end": 200.84,
+      "text": "is now being told to you. So Arjuna asked a question."
+    },
+    {
+      "i": 28,
+      "start": 202.16,
+      "end": 208.04,
+      "text": "Apram babatu janma paran janma vivasrotha katham medhat vijani"
+    },
+    {
+      "i": 29,
+      "start": 208.04,
+      "end": 217.36,
+      "text": "yaad gum ado prothamyaneti. The difference in the birth or"
+    },
+    {
+      "i": 30,
+      "start": 217.36,
+      "end": 223.68,
+      "text": "the, you know time span from the first creation to Arjuna's time,"
+    },
+    {
+      "i": 31,
+      "start": 225.68,
+      "end": 230.92,
+      "text": "both these places, How are you possible to be the one who has"
+    },
+    {
+      "i": 32,
+      "start": 230.92,
+      "end": 236.48,
+      "text": "advised or who has taught this yoga, the Uglaya yoga too?"
+    },
+    {
+      "i": 33,
+      "start": 236.84,
+      "end": 241.44,
+      "text": "The first creation we were swan and now you are the same who is"
+    },
+    {
+      "i": 34,
+      "start": 241.44,
+      "end": 249.88,
+      "text": "going to talk to me about it. So there starts the explanation"
+    },
+    {
+      "i": 35,
+      "start": 249.88,
+      "end": 256.32,
+      "text": "by Krishna saying that bahuni Mein vedatani janmani tava Arjun"
+    },
+    {
+      "i": 36,
+      "start": 256.32,
+      "end": 262.52,
+      "text": "TA arjuna thani aham veda sarvani nathum veda veda"
+    },
+    {
+      "i": 37,
+      "start": 262.84,
+      "end": 268.24,
+      "text": "paranthaba many has been the lives."
+    },
+    {
+      "i": 38,
+      "start": 268.72,
+      "end": 278.28,
+      "text": "Janmani Vedatani means past or that has gone by mine and yours"
+    },
+    {
+      "i": 39,
+      "start": 278.28,
+      "end": 281.96,
+      "text": "Arjuna both of us have taken many words."
+    },
+    {
+      "i": 40,
+      "start": 283.0,
+      "end": 288.92,
+      "text": "Thani ahamveta I remember all of them, Sarvani all of them"
+    },
+    {
+      "i": 41,
+      "start": 290.44,
+      "end": 294.48,
+      "text": "Pamnaveta Parandava because but you don't remember them."
+    },
+    {
+      "i": 42,
+      "start": 296.24,
+      "end": 298.76,
+      "text": "O Parantava was scorcher of enemies."
+    },
+    {
+      "i": 43,
+      "start": 302.84,
+      "end": 306.52,
+      "text": "Why? How is now being explained by"
+    },
+    {
+      "i": 44,
+      "start": 306.76,
+      "end": 314.16,
+      "text": "Krishna Ajobisan Abhiya Atma Bhutanam Ishwarobisan pragatim"
+    },
+    {
+      "i": 45,
+      "start": 314.68,
+      "end": 327.84,
+      "text": "swam Adishtaya Sambhavami Atma Maya ajaha abhisan aham ajaha"
+    },
+    {
+      "i": 46,
+      "start": 328.52,
+      "end": 339.8,
+      "text": "abhiya atma son abhi that is I unborn Ant a body without"
+    },
+    {
+      "i": 47,
+      "start": 339.8,
+      "end": 344.32,
+      "text": "deterioration of VM atmans being so."
+    },
+    {
+      "i": 48,
+      "start": 347.6,
+      "end": 355.32,
+      "text": "Although all those who are born Buddhanam Ishwaraha and the"
+    },
+    {
+      "i": 49,
+      "start": 355.32,
+      "end": 360.44,
+      "text": "Supreme Lord being so son appeal."
+    },
+    {
+      "i": 50,
+      "start": 360.8,
+      "end": 371.32,
+      "text": "Although swam pragrutin myself using the transcendental form or"
+    },
+    {
+      "i": 51,
+      "start": 371.32,
+      "end": 379.68,
+      "text": "the pragati adistaya situation or using based on that atma"
+    },
+    {
+      "i": 52,
+      "start": 379.68,
+      "end": 388.36,
+      "text": "Mayaya Sambhavami by my Maya I do Incarnate."
+    },
+    {
+      "i": 53,
+      "start": 390.92,
+      "end": 397.4,
+      "text": "This is where we stopped in the last week were Krishna saying"
+    },
+    {
+      "i": 54,
+      "start": 397.4,
+      "end": 410.68,
+      "text": "that I am unborn ajaha abhiya Atma without abhiya means"
+    },
+    {
+      "i": 55,
+      "start": 410.68,
+      "end": 417.96,
+      "text": "without deterioration. This this atma I am Atma which"
+    },
+    {
+      "i": 56,
+      "start": 417.96,
+      "end": 426.24,
+      "text": "is have no deterioration, even though for all those who are"
+    },
+    {
+      "i": 57,
+      "start": 426.24,
+      "end": 434.72,
+      "text": "born also atma for them those who are seen to be having birth,"
+    },
+    {
+      "i": 58,
+      "start": 434.72,
+      "end": 439.88,
+      "text": "death and decay. Butana because that is the word"
+    },
+    {
+      "i": 59,
+      "start": 439.88,
+      "end": 450.92,
+      "text": "bhuta means created or those who prani even for them I am the"
+    },
+    {
+      "i": 60,
+      "start": 450.92,
+      "end": 462.68,
+      "text": "Supreme Self the Ishwara and I am doing this I am able to"
+    },
+    {
+      "i": 61,
+      "start": 462.68,
+      "end": 474.2,
+      "text": "Incarnate or present myself using my Maya Atma Maya, Atma"
+    },
+    {
+      "i": 62,
+      "start": 474.2,
+      "end": 487.68,
+      "text": "Maya Atma Maya, the Shakti or the the power of Maya using that"
+    },
+    {
+      "i": 63,
+      "start": 488.4,
+      "end": 498.92,
+      "text": "Adistaya Sambhavami means I am creating an appearance or"
+    },
+    {
+      "i": 64,
+      "start": 498.92,
+      "end": 509.08,
+      "text": "creating this forms. To understand this, we need to"
+    },
+    {
+      "i": 65,
+      "start": 510.92,
+      "end": 528.04,
+      "text": "study the next two verses together now."
+    },
+    {
+      "i": 66,
+      "start": 538.52,
+      "end": 544.04,
+      "text": "We will see each verse in detail so that both are understood"
+    },
+    {
+      "i": 67,
+      "start": 544.04,
+      "end": 553.44,
+      "text": "properly. Whenever there is a decline of"
+    },
+    {
+      "i": 68,
+      "start": 553.44,
+      "end": 562.32,
+      "text": "Dharma and the ascendancy or increase in the adharma, O"
+    },
+    {
+      "i": 69,
+      "start": 562.32,
+      "end": 570.56,
+      "text": "Arjuna, then I project myself. That is the word meaning of the"
+    },
+    {
+      "i": 70,
+      "start": 570.56,
+      "end": 577.92,
+      "text": "words yada yada, that repetitional thing,"
+    },
+    {
+      "i": 71,
+      "start": 577.96,
+      "end": 580.72,
+      "text": "reduplication of the word yada means when."
+    },
+    {
+      "i": 72,
+      "start": 581.52,
+      "end": 587.8,
+      "text": "But when yada yada is repeated, it is to indicate whenever or at"
+    },
+    {
+      "i": 73,
+      "start": 587.8,
+      "end": 596.36,
+      "text": "our whatever time, to indicate a time for the incident or the"
+    },
+    {
+      "i": 74,
+      "start": 596.36,
+      "end": 599.92,
+      "text": "event. Dharmasya."
+    },
+    {
+      "i": 75,
+      "start": 602.88,
+      "end": 610.28,
+      "text": "Dharmasya means of Dharma glani. We'll discuss this word in"
+    },
+    {
+      "i": 76,
+      "start": 610.28,
+      "end": 619.04,
+      "text": "detail later. Glani means vini pavati happens"
+    },
+    {
+      "i": 77,
+      "start": 619.12,
+      "end": 622.96,
+      "text": "or becomes. That means whenever there is a"
+    },
+    {
+      "i": 78,
+      "start": 622.96,
+      "end": 628.88,
+      "text": "waning or a decline in the Dharma takes place, O barda"
+    },
+    {
+      "i": 79,
+      "start": 632.92,
+      "end": 638.64,
+      "text": "adharmasya abhyuddhanam adharmasya means of adharma,"
+    },
+    {
+      "i": 80,
+      "start": 641.16,
+      "end": 648.08,
+      "text": "there is a rising up or ascendance, your preponderance"
+    },
+    {
+      "i": 81,
+      "start": 649.04,
+      "end": 654.6,
+      "text": "increase in the adharma. Both are simultaneous."
+    },
+    {
+      "i": 82,
+      "start": 654.6,
+      "end": 658.52,
+      "text": "Actually when one veins the other waxes."
+    },
+    {
+      "i": 83,
+      "start": 658.88,
+      "end": 662.8,
+      "text": "So when the Dharma is in decline, adharma will be in the"
+    },
+    {
+      "i": 84,
+      "start": 662.8,
+      "end": 666.52,
+      "text": "increase. So whenever, when such a time"
+    },
+    {
+      "i": 85,
+      "start": 666.68,
+      "end": 673.56,
+      "text": "happens in the period Dada in, at then at or at that time, when"
+    },
+    {
+      "i": 86,
+      "start": 673.56,
+      "end": 680.6,
+      "text": "this is happening aham atmanam srijami."
+    },
+    {
+      "i": 87,
+      "start": 684.96,
+      "end": 693.84,
+      "text": "I atmanam means myself Srijami. Here the word we have to take is"
+    },
+    {
+      "i": 88,
+      "start": 693.84,
+      "end": 697.88,
+      "text": "project. But the word srij has got to"
+    },
+    {
+      "i": 89,
+      "start": 697.88,
+      "end": 701.48,
+      "text": "release, to emit, to project, to create."
+    },
+    {
+      "i": 90,
+      "start": 701.92,
+      "end": 703.96,
+      "text": "These are the different meanings it has got."
+    },
+    {
+      "i": 91,
+      "start": 705.0,
+      "end": 713.6,
+      "text": "So here is I project myself in the 4th."
+    },
+    {
+      "i": 92,
+      "start": 714.12,
+      "end": 718.92,
+      "text": "So in the sixth verse it was established what an Avatara is"
+    },
+    {
+      "i": 93,
+      "start": 719.44,
+      "end": 727.28,
+      "text": "anthologically the self manifestation of the birthless"
+    },
+    {
+      "i": 94,
+      "start": 727.28,
+      "end": 734.92,
+      "text": "Parameswara through Atma Maya. That is what is an Avatara."
+    },
+    {
+      "i": 95,
+      "start": 734.92,
+      "end": 740.32,
+      "text": "We saw it in the last week in this one seventh verse."
+    },
+    {
+      "i": 96,
+      "start": 740.32,
+      "end": 746.92,
+      "text": "Now it establishes when and why such a thing is happening, the"
+    },
+    {
+      "i": 97,
+      "start": 746.92,
+      "end": 752.36,
+      "text": "Nimitta and prayogana. When means when is that occasion"
+    },
+    {
+      "i": 98,
+      "start": 752.36,
+      "end": 755.28,
+      "text": "that is happening? Why means?"
+    },
+    {
+      "i": 99,
+      "start": 755.52,
+      "end": 758.8,
+      "text": "What is the purpose prayogana of the Avatara?"
+    },
+    {
+      "i": 100,
+      "start": 764.16,
+      "end": 768.72,
+      "text": "And if we combine the next verse where the purpose is being"
+    },
+    {
+      "i": 101,
+      "start": 768.72,
+      "end": 777.96,
+      "text": "mentioned, 4.6 to 4.8 forms the Gita's complete avatara"
+    },
+    {
+      "i": 102,
+      "start": 777.96,
+      "end": 784.88,
+      "text": "pragarana. That is in the 4.6 we saw the"
+    },
+    {
+      "i": 103,
+      "start": 784.88,
+      "end": 788.68,
+      "text": "ontology. The avatara in the 4.7 which we"
+    },
+    {
+      "i": 104,
+      "start": 788.68,
+      "end": 794.16,
+      "text": "are dealing now is the occasion yada yadaahi and what is the"
+    },
+    {
+      "i": 105,
+      "start": 794.16,
+      "end": 798.96,
+      "text": "purpose Paritranaya savadhuna that we will see."
+    },
+    {
+      "i": 106,
+      "start": 798.96,
+      "end": 808.48,
+      "text": "There are three reasons why the avatara takes place as per"
+    },
+    {
+      "i": 107,
+      "start": 808.48,
+      "end": 813.0,
+      "text": "Sankaracharya 4.7. That is, this verse operates on"
+    },
+    {
+      "i": 108,
+      "start": 813.0,
+      "end": 820.6,
+      "text": "2 simultaneous conditions in the vivaharika."
+    },
+    {
+      "i": 109,
+      "start": 822.44,
+      "end": 827.12,
+      "text": "The cosmic historical account of Dharma's decline and Isuda's"
+    },
+    {
+      "i": 110,
+      "start": 827.8,
+      "end": 831.32,
+      "text": "periodic remanifestation is to restore it."
+    },
+    {
+      "i": 111,
+      "start": 833.48,
+      "end": 841.64,
+      "text": "That is the conventional avatara eulogy, but from the absolute or"
+    },
+    {
+      "i": 112,
+      "start": 841.64,
+      "end": 847.48,
+      "text": "the paramartica level, the perennial concealing of"
+    },
+    {
+      "i": 113,
+      "start": 847.56,
+      "end": 856.52,
+      "text": "atmatyana due to avidya and Parameshwar Ishwar's eternal"
+    },
+    {
+      "i": 114,
+      "start": 856.52,
+      "end": 865.44,
+      "text": "response as a nitya guru, a teacher eternally present along"
+    },
+    {
+      "i": 115,
+      "start": 865.44,
+      "end": 874.36,
+      "text": "with the society who purposely, perpetually rediscloses this"
+    },
+    {
+      "i": 116,
+      "start": 874.48,
+      "end": 883.36,
+      "text": "abhaya yoga or the Abhaya truth. It is not that Vyavaharika is"
+    },
+    {
+      "i": 117,
+      "start": 883.36,
+      "end": 889.96,
+      "text": "not right, it is not being dismissed, but we should ensure"
+    },
+    {
+      "i": 118,
+      "start": 889.96,
+      "end": 895.32,
+      "text": "that the second is never lost. That is the purpose for"
+    },
+    {
+      "i": 119,
+      "start": 895.32,
+      "end": 901.24,
+      "text": "Davataya. The deepest Dharma that declines"
+    },
+    {
+      "i": 120,
+      "start": 901.24,
+      "end": 907.4,
+      "text": "is the knowledge of the Self Atman, and the deepest Dharma"
+    },
+    {
+      "i": 121,
+      "start": 909.12,
+      "end": 915.76,
+      "text": "that arises is avidya in its derivatives as Kama, kroda,"
+    },
+    {
+      "i": 122,
+      "start": 915.76,
+      "end": 923.64,
+      "text": "loba, etc. And the truest avatara is the"
+    },
+    {
+      "i": 123,
+      "start": 923.64,
+      "end": 929.64,
+      "text": "self disclosure of pratyagatma through Gurubarambara and"
+    },
+    {
+      "i": 124,
+      "start": 929.64,
+      "end": 938.08,
+      "text": "through the shastra itself, where the avidya is removed and"
+    },
+    {
+      "i": 125,
+      "start": 938.08,
+      "end": 944.68,
+      "text": "vidya is established. Now looking at the commentary"
+    },
+    {
+      "i": 126,
+      "start": 944.68,
+      "end": 955.52,
+      "text": "given by Shankaracharya, this yada yada reduplication receives"
+    },
+    {
+      "i": 127,
+      "start": 955.52,
+      "end": 961.8,
+      "text": "an explicit attention. He has reads it as an assertion"
+    },
+    {
+      "i": 128,
+      "start": 961.84,
+      "end": 969.88,
+      "text": "assertion that the correlation of Dharmaglani and Avatara is"
+    },
+    {
+      "i": 129,
+      "start": 969.88,
+      "end": 977.6,
+      "text": "not a contigent but a necessity. There is a Nitya sambandha, a"
+    },
+    {
+      "i": 130,
+      "start": 977.6,
+      "end": 983.72,
+      "text": "fixed relationship between these two from the cosmic structure of"
+    },
+    {
+      "i": 131,
+      "start": 983.84,
+      "end": 989.96,
+      "text": "Ishwara's governance. This is not an ad hoc divine"
+    },
+    {
+      "i": 132,
+      "start": 989.96,
+      "end": 997.12,
+      "text": "intervention at the expression of eternal no, but the"
+    },
+    {
+      "i": 133,
+      "start": 997.12,
+      "end": 1003.8,
+      "text": "expression of eternal Dharmarakshan Niyama, where"
+    },
+    {
+      "i": 134,
+      "start": 1003.88,
+      "end": 1016.84,
+      "text": "Ishwara by the law of all beings or isher of all beings,"
+    },
+    {
+      "i": 135,
+      "start": 1017.68,
+      "end": 1021.76,
+      "text": "perpetually sustains the cosmic order again and again."
+    },
+    {
+      "i": 136,
+      "start": 1029.16,
+      "end": 1037.839,
+      "text": "This the Abhaya He or the in, this indicable He in the words,"
+    },
+    {
+      "i": 137,
+      "start": 1038.599,
+      "end": 1044.839,
+      "text": "is something self-evident only to those who has viveka."
+    },
+    {
+      "i": 138,
+      "start": 1046.44,
+      "end": 1049.2,
+      "text": "The knowing person already understand that this"
+    },
+    {
+      "i": 139,
+      "start": 1049.2,
+      "end": 1053.76,
+      "text": "dharmarekshana or the protection of Dharma is Ishwara's eternal"
+    },
+    {
+      "i": 140,
+      "start": 1053.76,
+      "end": 1062.24,
+      "text": "function, and the verse makes explicit what Nyana already"
+    },
+    {
+      "i": 141,
+      "start": 1062.24,
+      "end": 1071.6,
+      "text": "comprehends there. The word Gani carries the"
+    },
+    {
+      "i": 142,
+      "start": 1071.6,
+      "end": 1080.04,
+      "text": "primary sense of progressive exhaustion and and decline, not"
+    },
+    {
+      "i": 143,
+      "start": 1080.12,
+      "end": 1085.92,
+      "text": "a sudden destruction but a gradual waning, like a lamb"
+    },
+    {
+      "i": 144,
+      "start": 1085.92,
+      "end": 1091.48,
+      "text": "running out of oil or a river heading towards drought."
+    },
+    {
+      "i": 145,
+      "start": 1095.36,
+      "end": 1101.84,
+      "text": "This contributes 2 things. 1 is a physical fatigue Langer and"
+    },
+    {
+      "i": 146,
+      "start": 1101.84,
+      "end": 1106.52,
+      "text": "exhaustion of the body or performing Dharma."
+    },
+    {
+      "i": 147,
+      "start": 1107.68,
+      "end": 1112.32,
+      "text": "When that exhaustion etcetera happens, Dharma may not be"
+    },
+    {
+      "i": 148,
+      "start": 1112.32,
+      "end": 1117.48,
+      "text": "protected. More than that, there is a moral"
+    },
+    {
+      "i": 149,
+      "start": 1117.6,
+      "end": 1127.76,
+      "text": "cosmic decline, corruption, due to the waning of Dharma from its"
+    },
+    {
+      "i": 150,
+      "start": 1127.76,
+      "end": 1133.68,
+      "text": "full vigor. Therefore, Glani is more precise"
+    },
+    {
+      "i": 151,
+      "start": 1133.68,
+      "end": 1136.84,
+      "text": "than Nasha, which is destruction."
+    },
+    {
+      "i": 152,
+      "start": 1137.24,
+      "end": 1143.16,
+      "text": "Orkshaya is a decay. It suggests that the process of"
+    },
+    {
+      "i": 153,
+      "start": 1143.16,
+      "end": 1146.44,
+      "text": "progressing, weakening rather than a sudden annihilation."
+    },
+    {
+      "i": 154,
+      "start": 1149.52,
+      "end": 1153.92,
+      "text": "Dharma does not collapse instantly and completely, never,"
+    },
+    {
+      "i": 155,
+      "start": 1156.04,
+      "end": 1163.6,
+      "text": "but it languishes, loses vitality and becomes attenuated"
+    },
+    {
+      "i": 156,
+      "start": 1165.2,
+      "end": 1173.24,
+      "text": "and at this stage of Ghani, yet not complete Nasha is what"
+    },
+    {
+      "i": 157,
+      "start": 1173.28,
+      "end": 1184.13,
+      "text": "Avatara interferes. So Ghani is not is to be seen"
+    },
+    {
+      "i": 158,
+      "start": 1184.13,
+      "end": 1188.12,
+      "text": "philosophically very carefully. Sangarajarya."
+    },
+    {
+      "i": 159,
+      "start": 1188.12,
+      "end": 1191.56,
+      "text": "Note that Glani of Dharma does not mean a complete"
+    },
+    {
+      "i": 160,
+      "start": 1191.56,
+      "end": 1195.28,
+      "text": "disappearance of Dharma from this US society."
+    },
+    {
+      "i": 161,
+      "start": 1197.88,
+      "end": 1200.8,
+      "text": "For if Dharma has been completely destroyed, there"
+    },
+    {
+      "i": 162,
+      "start": 1200.8,
+      "end": 1206.2,
+      "text": "would not be any loka or the world itself will not be left"
+    },
+    {
+      "i": 163,
+      "start": 1208.68,
+      "end": 1210.52,
+      "text": "and there will not be nothing to protect."
+    },
+    {
+      "i": 164,
+      "start": 1211.92,
+      "end": 1220.04,
+      "text": "Therefore Glani, the word means. Dharmasya Hani, that is"
+    },
+    {
+      "i": 165,
+      "start": 1221.0,
+      "end": 1225.0,
+      "text": "atonation. Specifically Sankarajari"
+    },
+    {
+      "i": 166,
+      "start": 1225.04,
+      "end": 1227.4,
+      "text": "identifies 2 modes of Dharma Glani."
+    },
+    {
+      "i": 167,
+      "start": 1228.8,
+      "end": 1232.84,
+      "text": "External Glani is the varanasrama, Dharma, etcetera."
+    },
+    {
+      "i": 168,
+      "start": 1233.12,
+      "end": 1237.88,
+      "text": "That is the ritual practice, social order at the empirical"
+    },
+    {
+      "i": 169,
+      "start": 1237.88,
+      "end": 1245.04,
+      "text": "level, vyavaharic level. More than that, it is on the"
+    },
+    {
+      "i": 170,
+      "start": 1245.04,
+      "end": 1248.2,
+      "text": "each of the individuals at the internal level."
+    },
+    {
+      "i": 171,
+      "start": 1250.0,
+      "end": 1256.36,
+      "text": "Decline of the knowledge of Atman Nyana Dharma, the true"
+    },
+    {
+      "i": 172,
+      "start": 1256.36,
+      "end": 1260.64,
+      "text": "Dharma that Parameshwara transmitted to Vivaswam Manu"
+    },
+    {
+      "i": 173,
+      "start": 1260.64,
+      "end": 1265.36,
+      "text": "Ikshvagu and which is getting transmitted from Rajarshis."
+    },
+    {
+      "i": 174,
+      "start": 1265.36,
+      "end": 1273.2,
+      "text": "One tap to the other is what is declared lost or reduced."
+    },
+    {
+      "i": 175,
+      "start": 1276.48,
+      "end": 1283.36,
+      "text": "So for Sankarajya the deeper Dharmaglani is always the"
+    },
+    {
+      "i": 176,
+      "start": 1283.36,
+      "end": 1286.6,
+      "text": "second. The concealing of atmatyana."
+    },
+    {
+      "i": 177,
+      "start": 1287.56,
+      "end": 1293.64,
+      "text": "When parampara or the non of the non dual work, wisdom breaks"
+    },
+    {
+      "i": 178,
+      "start": 1293.64,
+      "end": 1301.68,
+      "text": "down and avidya proliferates. This happens when karma and"
+    },
+    {
+      "i": 179,
+      "start": 1301.68,
+      "end": 1306.32,
+      "text": "kroda are taken as ultimate realities."
+    },
+    {
+      "i": 180,
+      "start": 1307.44,
+      "end": 1315.96,
+      "text": "That is the true Glani that calls for Avatara, the Gita"
+    },
+    {
+      "i": 181,
+      "start": 1315.96,
+      "end": 1321.68,
+      "text": "itself being delivered by Parameshwara Krishna himself to"
+    },
+    {
+      "i": 182,
+      "start": 1321.68,
+      "end": 1326.36,
+      "text": "an Adhikari Arjuna precisely at the moment of Dharma."
+    },
+    {
+      "i": 183,
+      "start": 1326.36,
+      "end": 1334.68,
+      "text": "Glani in Arjuna due to desperation and not knowing what"
+    },
+    {
+      "i": 184,
+      "start": 1334.68,
+      "end": 1339.52,
+      "text": "is his Dharma, is the living enactment of this verse."
+    },
+    {
+      "i": 185,
+      "start": 1345.32,
+      "end": 1351.56,
+      "text": "Then we have a word Abhutanam adharmasya, dharmasya gani, same"
+    },
+    {
+      "i": 186,
+      "start": 1351.56,
+      "end": 1357.6,
+      "text": "way abhutanam adharmasya. It is a complete opposition of"
+    },
+    {
+      "i": 187,
+      "start": 1357.6,
+      "end": 1362.36,
+      "text": "Gani. Abhyudhana is flourishing or"
+    },
+    {
+      "i": 188,
+      "start": 1362.36,
+      "end": 1365.2,
+      "text": "ascending or rising up of adharma."
+    },
+    {
+      "i": 189,
+      "start": 1366.56,
+      "end": 1370.96,
+      "text": "Apyudhana means inversely proportional."
+    },
+    {
+      "i": 190,
+      "start": 1371.32,
+      "end": 1376.92,
+      "text": "As the Dharma wanes, the adharma rises and the vice versa."
+    },
+    {
+      "i": 191,
+      "start": 1378.56,
+      "end": 1381.0,
+      "text": "The Avatara's arrival reverses this."
+    },
+    {
+      "i": 192,
+      "start": 1385.16,
+      "end": 1389.2,
+      "text": "Apyutanam Adharmasya is the second temporal condition of"
+    },
+    {
+      "i": 193,
+      "start": 1389.2,
+      "end": 1394.64,
+      "text": "yada yada. So yada yada dharmasya glaner"
+    },
+    {
+      "i": 194,
+      "start": 1394.64,
+      "end": 1398.48,
+      "text": "bhavati yada yada akutanam adharmasya both."
+    },
+    {
+      "i": 195,
+      "start": 1398.48,
+      "end": 1404.76,
+      "text": "This is the way in which is as if linked between and."
+    },
+    {
+      "i": 196,
+      "start": 1404.76,
+      "end": 1413.28,
+      "text": "Bhavati is the verb whenever it happens, whenever the decline of"
+    },
+    {
+      "i": 197,
+      "start": 1413.28,
+      "end": 1418.24,
+      "text": "Dharma arises and the ascendancy of adharma takes place."
+    },
+    {
+      "i": 198,
+      "start": 1423.04,
+      "end": 1425.56,
+      "text": "Just as in the case of Dharmasyaglani,"
+    },
+    {
+      "i": 199,
+      "start": 1426.72,
+      "end": 1432.24,
+      "text": "Adharmasyaputanam operates on the same dual conditions."
+    },
+    {
+      "i": 200,
+      "start": 1435.16,
+      "end": 1440.84,
+      "text": "External adharma or at the empirical level is the social"
+    },
+    {
+      "i": 201,
+      "start": 1440.84,
+      "end": 1449.6,
+      "text": "disorder Varna sankaraha, mixing up of varnas, violation of"
+    },
+    {
+      "i": 202,
+      "start": 1449.6,
+      "end": 1456.44,
+      "text": "Adharma's ashramadharma, not adhering to the ashramadharma,"
+    },
+    {
+      "i": 203,
+      "start": 1457.8,
+      "end": 1464.84,
+      "text": "prevalence of Himsa and Kaama and Loba at the social level,"
+    },
+    {
+      "i": 204,
+      "start": 1465.08,
+      "end": 1468.88,
+      "text": "society levels is the external adharma."
+    },
+    {
+      "i": 205,
+      "start": 1470.76,
+      "end": 1477.16,
+      "text": "But a more important than that is the internal adharma, the"
+    },
+    {
+      "i": 206,
+      "start": 1477.16,
+      "end": 1483.08,
+      "text": "ascendancy of Avidya Kamakarma, the triple headed enemy, as the"
+    },
+    {
+      "i": 207,
+      "start": 1483.08,
+      "end": 1487.2,
+      "text": "fundamental adharma at the Paramarthika level."
+    },
+    {
+      "i": 208,
+      "start": 1490.0,
+      "end": 1496.04,
+      "text": "So for Shankaracharya Adharma Sapyuddhana is ultimately the"
+    },
+    {
+      "i": 209,
+      "start": 1496.04,
+      "end": 1502.44,
+      "text": "predominance of Adhyasa, the superimposition of anatman upon"
+    },
+    {
+      "i": 210,
+      "start": 1502.44,
+      "end": 1508.36,
+      "text": "Atman, Asat upon SAT Anithya upon Nithya."
+    },
+    {
+      "i": 211,
+      "start": 1509.56,
+      "end": 1513.08,
+      "text": "When this superimposition becomes culturally dominant,"
+    },
+    {
+      "i": 212,
+      "start": 1515.04,
+      "end": 1519.52,
+      "text": "that is when the collective under Karana of the civilization"
+    },
+    {
+      "i": 213,
+      "start": 1520.12,
+      "end": 1525.96,
+      "text": "is so thick with the covering Avarana at that atmatyana cannot"
+    },
+    {
+      "i": 214,
+      "start": 1525.96,
+      "end": 1528.96,
+      "text": "be transmitted or received. Both."
+    },
+    {
+      "i": 215,
+      "start": 1530.76,
+      "end": 1533.84,
+      "text": "Neither the teacher can do anything, nor there is a student"
+    },
+    {
+      "i": 216,
+      "start": 1533.84,
+      "end": 1538.04,
+      "text": "for it. That is then a plutanum that"
+    },
+    {
+      "i": 217,
+      "start": 1538.04,
+      "end": 1545.68,
+      "text": "necessitates avatara and the pairing of gani."
+    },
+    {
+      "i": 218,
+      "start": 1545.68,
+      "end": 1552.16,
+      "text": "And the plutanum is also psychologically precise."
+    },
+    {
+      "i": 219,
+      "start": 1553.6,
+      "end": 1556.76,
+      "text": "The decline of Dharma is not independent of the rise of"
+    },
+    {
+      "i": 220,
+      "start": 1556.92,
+      "end": 1560.8,
+      "text": "Dharma. They are mutually constitute"
+    },
+    {
+      "i": 221,
+      "start": 1561.0,
+      "end": 1565.08,
+      "text": "constitutive like the waning of light and the rising of"
+    },
+    {
+      "i": 222,
+      "start": 1565.08,
+      "end": 1569.92,
+      "text": "darkness. Same way the adharma does not"
+    },
+    {
+      "i": 223,
+      "start": 1569.92,
+      "end": 1573.8,
+      "text": "independently assault Dharma. Rather Dharma's own Glani"
+    },
+    {
+      "i": 224,
+      "start": 1573.8,
+      "end": 1576.56,
+      "text": "creates a vacuum for a Dharma to flow in."
+    },
+    {
+      "i": 225,
+      "start": 1582.31,
+      "end": 1584.87,
+      "text": "This is this has an advaitic resonance."
+    },
+    {
+      "i": 226,
+      "start": 1585.83,
+      "end": 1589.67,
+      "text": "Ignorant does not attack knowledge because they are"
+    },
+    {
+      "i": 227,
+      "start": 1589.67,
+      "end": 1593.72,
+      "text": "opposed to each other. It merely fills in the space"
+    },
+    {
+      "i": 228,
+      "start": 1593.72,
+      "end": 1599.44,
+      "text": "left by the absence of Vijara. When we do not have enough"
+    },
+    {
+      "i": 229,
+      "start": 1599.44,
+      "end": 1608.28,
+      "text": "Srabanamanana nidhidyasana as our practice, that is bound to"
+    },
+    {
+      "i": 230,
+      "start": 1608.28,
+      "end": 1616.88,
+      "text": "create a waning of the knowledge of UVR."
+    },
+    {
+      "i": 231,
+      "start": 1619.32,
+      "end": 1623.0,
+      "text": "That is what the absence of Vizara is meant by here."
+    },
+    {
+      "i": 232,
+      "start": 1625.68,
+      "end": 1634.32,
+      "text": "And when we are getting back to the Vizara, it is the teacher"
+    },
+    {
+      "i": 233,
+      "start": 1635.0,
+      "end": 1642.72,
+      "text": "and the student together helping each other to reclaim the lost"
+    },
+    {
+      "i": 234,
+      "start": 1646.36,
+      "end": 1652.36,
+      "text": "Dharma by reducing the Dharma that is by Srabanamanamani"
+    },
+    {
+      "i": 235,
+      "start": 1652.36,
+      "end": 1657.6,
+      "text": "Vidyasana. That Vichara will re establish"
+    },
+    {
+      "i": 236,
+      "start": 1658.96,
+      "end": 1663.72,
+      "text": "the necessity for knowing who we are."
+    },
+    {
+      "i": 237,
+      "start": 1668.76,
+      "end": 1676.8,
+      "text": "So even though it may appear to be a theological verse from the"
+    },
+    {
+      "i": 238,
+      "start": 1676.8,
+      "end": 1681.84,
+      "text": "declaration of Krishna that I am taking birth against again for"
+    },
+    {
+      "i": 239,
+      "start": 1681.84,
+      "end": 1689.16,
+      "text": "protecting the Dharma and you know, destroying the Dharma, but"
+    },
+    {
+      "i": 240,
+      "start": 1690.48,
+      "end": 1696.08,
+      "text": "it is operating both at the empirical level and at the"
+    },
+    {
+      "i": 241,
+      "start": 1700.12,
+      "end": 1705.92,
+      "text": "paramartika level, the absolute level, the empirical level."
+    },
+    {
+      "i": 242,
+      "start": 1705.92,
+      "end": 1710.68,
+      "text": "We will see the people in the society are becoming more and"
+    },
+    {
+      "i": 243,
+      "start": 1710.68,
+      "end": 1719.68,
+      "text": "more interested in knowing the philosophy of or the knowledge"
+    },
+    {
+      "i": 244,
+      "start": 1721.2,
+      "end": 1728.04,
+      "text": "of who we are. There will be enquiries,"
+    },
+    {
+      "i": 245,
+      "start": 1728.76,
+      "end": 1736.52,
+      "text": "discussions and things like that and for that there will be"
+    },
+    {
+      "i": 246,
+      "start": 1736.52,
+      "end": 1741.64,
+      "text": "apartment teachers, meetings, satsans, etcetera."
+    },
+    {
+      "i": 247,
+      "start": 1742.88,
+      "end": 1751.28,
+      "text": "These are all the avataras of the Parameswara himself in in"
+    },
+    {
+      "i": 248,
+      "start": 1751.28,
+      "end": 1756.76,
+      "text": "the form of restoration. He need not be always coming as"
+    },
+    {
+      "i": 249,
+      "start": 1756.76,
+      "end": 1763.88,
+      "text": "Krishna, Rama or anybody like that, as a God, because every"
+    },
+    {
+      "i": 250,
+      "start": 1764.48,
+      "end": 1767.44,
+      "text": "creation is him from Brahma only."
+    },
+    {
+      "i": 251,
+      "start": 1767.44,
+      "end": 1771.88,
+      "text": "Everything is being created. So it is not that somebody,"
+    },
+    {
+      "i": 252,
+      "start": 1771.88,
+      "end": 1777.6,
+      "text": "something new is coming into the world for the restoration."
+    },
+    {
+      "i": 253,
+      "start": 1779.44,
+      "end": 1788.56,
+      "text": "It is a perpetual ongoing nature's law or the people to be"
+    },
+    {
+      "i": 254,
+      "start": 1788.56,
+      "end": 1796.68,
+      "text": "interested in this knowing. There is never a yoga or a time"
+    },
+    {
+      "i": 255,
+      "start": 1798.08,
+      "end": 1801.96,
+      "text": "when there were not a single master in this world."
+    },
+    {
+      "i": 256,
+      "start": 1803.28,
+      "end": 1805.88,
+      "text": "Whether he is in India or abroad doesn't matter."
+    },
+    {
+      "i": 257,
+      "start": 1807.2,
+      "end": 1817.4,
+      "text": "There has been masters throughout the human cycle, so"
+    },
+    {
+      "i": 258,
+      "start": 1817.4,
+      "end": 1821.72,
+      "text": "the correlative structure sada yadda yadda yadda tada, yadda"
+    },
+    {
+      "i": 259,
+      "start": 1821.72,
+      "end": 1828.2,
+      "text": "tada is the way in which whenever at that time yadda"
+    },
+    {
+      "i": 260,
+      "start": 1828.2,
+      "end": 1831.76,
+      "text": "means whenever tada means at that time."
+    },
+    {
+      "i": 261,
+      "start": 1835.16,
+      "end": 1838.2,
+      "text": "The tada is placed in the beginning of the second line,"
+    },
+    {
+      "i": 262,
+      "start": 1839.6,
+      "end": 1847.32,
+      "text": "second-half appithanam adharmasya TH atman tada atmanam"
+    },
+    {
+      "i": 263,
+      "start": 1847.32,
+      "end": 1853.6,
+      "text": "surajamya, giving it maximum structural clarity as the"
+    },
+    {
+      "i": 264,
+      "start": 1853.6,
+      "end": 1856.44,
+      "text": "consequent of the temporal antecedent."
+    },
+    {
+      "i": 265,
+      "start": 1859.52,
+      "end": 1865.04,
+      "text": "So atmanam surajamiya here is very important."
+    },
+    {
+      "i": 266,
+      "start": 1865.04,
+      "end": 1874.36,
+      "text": "This thing atmanam is myself and the subject of the verb Srijami"
+    },
+    {
+      "i": 267,
+      "start": 1874.56,
+      "end": 1878.76,
+      "text": "is I. So I create myself means into"
+    },
+    {
+      "i": 268,
+      "start": 1878.76,
+      "end": 1882.68,
+      "text": "manifestation. This is an extraordinarily"
+    },
+    {
+      "i": 269,
+      "start": 1882.88,
+      "end": 1886.52,
+      "text": "compact self preferential construction."
+    },
+    {
+      "i": 270,
+      "start": 1887.6,
+      "end": 1890.56,
+      "text": "The creator and the created are identical."
+    },
+    {
+      "i": 271,
+      "start": 1894.28,
+      "end": 1896.32,
+      "text": "Please understand it very carefully."
+    },
+    {
+      "i": 272,
+      "start": 1897.56,
+      "end": 1901.36,
+      "text": "The creator and the created are identical."
+    },
+    {
+      "i": 273,
+      "start": 1902.64,
+      "end": 1910.36,
+      "text": "Aham Aatmanam Sarjami. That means I, the self projects"
+    },
+    {
+      "i": 274,
+      "start": 1910.36,
+      "end": 1914.76,
+      "text": "the self into apparent manifestation."
+    },
+    {
+      "i": 275,
+      "start": 1918.16,
+      "end": 1924.84,
+      "text": "Now the words sarjami carries a very rich semantic field"
+    },
+    {
+      "i": 276,
+      "start": 1927.4,
+      "end": 1931.16,
+      "text": "primary. It will appear that to release,"
+    },
+    {
+      "i": 277,
+      "start": 1931.16,
+      "end": 1936.72,
+      "text": "to let go or to emit is the literal meanings of it, like"
+    },
+    {
+      "i": 278,
+      "start": 1936.72,
+      "end": 1943.64,
+      "text": "releasing an arrow sarum srijathi, sarum srijathi or a"
+    },
+    {
+      "i": 279,
+      "start": 1943.64,
+      "end": 1946.76,
+      "text": "river releasing its waters into the ocean."
+    },
+    {
+      "i": 280,
+      "start": 1949.88,
+      "end": 1956.12,
+      "text": "But when we extend the meaning, it will become to project to"
+    },
+    {
+      "i": 281,
+      "start": 1956.24,
+      "end": 1962.36,
+      "text": "four 4th or to create. This is used for cosmic"
+    },
+    {
+      "i": 282,
+      "start": 1962.36,
+      "end": 1972.52,
+      "text": "creation, Gamma srijathi jagat. And then when we go into the"
+    },
+    {
+      "i": 283,
+      "start": 1972.52,
+      "end": 1979.0,
+      "text": "Vedantic Advaitic, technical advaitic way to project in the"
+    },
+    {
+      "i": 284,
+      "start": 1979.0,
+      "end": 1984.64,
+      "text": "sense of Vivarta, the apparent projection of the world from"
+    },
+    {
+      "i": 285,
+      "start": 1984.64,
+      "end": 1992.72,
+      "text": "Brahman, like the apparent projection of, you know, the"
+    },
+    {
+      "i": 286,
+      "start": 1992.72,
+      "end": 1998.28,
+      "text": "silver and the naser or the rope and the snake, etcetera."
+    },
+    {
+      "i": 287,
+      "start": 2000.92,
+      "end": 2007.8,
+      "text": "Srijami does not mean I manufacture karomi or I become"
+    },
+    {
+      "i": 288,
+      "start": 2007.8,
+      "end": 2010.88,
+      "text": "Bhavami. These are all the Sanskrit"
+    },
+    {
+      "i": 289,
+      "start": 2011.56,
+      "end": 2018.36,
+      "text": "technical words. So Srijami is not similar to"
+    },
+    {
+      "i": 290,
+      "start": 2018.36,
+      "end": 2021.04,
+      "text": "these two world where I manufacture or I become."
+    },
+    {
+      "i": 291,
+      "start": 2023.64,
+      "end": 2028.8,
+      "text": "Srijami is to release or project myself."
+    },
+    {
+      "i": 292,
+      "start": 2029.92,
+      "end": 2035.36,
+      "text": "The creator projects itself without losing any aspect of"
+    },
+    {
+      "i": 293,
+      "start": 2035.36,
+      "end": 2044.08,
+      "text": "itself to the Nirbhuna. Becoming saguna is not different"
+    },
+    {
+      "i": 294,
+      "start": 2044.24,
+      "end": 2049.52,
+      "text": "at all. Both are one and the same."
+    },
+    {
+      "i": 295,
+      "start": 2051.199,
+      "end": 2058.84,
+      "text": "One is invisible to the sense organs, the other is visible to"
+    },
+    {
+      "i": 296,
+      "start": 2058.84,
+      "end": 2066.4,
+      "text": "the through the sense organs. Like a lamp projecting light"
+    },
+    {
+      "i": 297,
+      "start": 2066.4,
+      "end": 2078.12,
+      "text": "without diminishing, the Brahman is now the self illumining light"
+    },
+    {
+      "i": 298,
+      "start": 2078.12,
+      "end": 2087.239,
+      "text": "which illuminates the objects. So the word Vivarta Ubadana"
+    },
+    {
+      "i": 299,
+      "start": 2087.239,
+      "end": 2095.56,
+      "text": "means the instrument for appearance is Brahman projecting"
+    },
+    {
+      "i": 300,
+      "start": 2095.56,
+      "end": 2098.88,
+      "text": "the jagat without undergoing real transformation."
+    },
+    {
+      "i": 301,
+      "start": 2100.84,
+      "end": 2105.04,
+      "text": "The Brahman and the world are not two different things."
+    },
+    {
+      "i": 302,
+      "start": 2107.0,
+      "end": 2113.76,
+      "text": "One is visible for the sense organs but as Brahman it is"
+    },
+    {
+      "i": 303,
+      "start": 2114.2,
+      "end": 2120.56,
+      "text": "invisible or and it is not possible for the sense organs to"
+    },
+    {
+      "i": 304,
+      "start": 2120.6,
+      "end": 2128.68,
+      "text": "comprehend him. Therefore, when Srijami that"
+    },
+    {
+      "i": 305,
+      "start": 2128.68,
+      "end": 2138.08,
+      "text": "word it has got importance. The phrase Atmanam Srijami for"
+    },
+    {
+      "i": 306,
+      "start": 2138.08,
+      "end": 2141.76,
+      "text": "Sankaracharya is the most philosophically pregnant verse"
+    },
+    {
+      "i": 307,
+      "start": 2142.64,
+      "end": 2147.68,
+      "text": "pregnant term. In this verse he unpacks it with"
+    },
+    {
+      "i": 308,
+      "start": 2147.68,
+      "end": 2152.68,
+      "text": "characteristic position. He says that atmanam here does"
+    },
+    {
+      "i": 309,
+      "start": 2152.68,
+      "end": 2157.28,
+      "text": "not mean a body or an avatara form."
+    },
+    {
+      "i": 310,
+      "start": 2158.4,
+      "end": 2165.84,
+      "text": "It means the self itself. Krishna says I project myself"
+    },
+    {
+      "i": 311,
+      "start": 2166.88,
+      "end": 2170.68,
+      "text": "not I project into a body into which I enter."
+    },
+    {
+      "i": 312,
+      "start": 2174.08,
+      "end": 2177.84,
+      "text": "This is the Advaitic distinction from the Sankhya Vaisesiga"
+    },
+    {
+      "i": 313,
+      "start": 2177.84,
+      "end": 2180.36,
+      "text": "models of divine creation of God."
+    },
+    {
+      "i": 314,
+      "start": 2181.68,
+      "end": 2185.64,
+      "text": "In there Sankhya Vaisesiga God creates the world separate from"
+    },
+    {
+      "i": 315,
+      "start": 2185.64,
+      "end": 2192.36,
+      "text": "Himself, whereas here in Advaita the Parameshwara or the Ishara"
+    },
+    {
+      "i": 316,
+      "start": 2192.72,
+      "end": 2196.32,
+      "text": "or Brahman projects Himself as the world."
+    },
+    {
+      "i": 317,
+      "start": 2197.92,
+      "end": 2203.52,
+      "text": "The Avatara is the self projection Atmos Rushti of the"
+    },
+    {
+      "i": 318,
+      "start": 2203.52,
+      "end": 2208.24,
+      "text": "Nithya Chaitanya into the field of vyabharika."
+    },
+    {
+      "i": 319,
+      "start": 2208.24,
+      "end": 2211.6,
+      "text": "Visibility. This is what I said the"
+    },
+    {
+      "i": 320,
+      "start": 2211.6,
+      "end": 2215.12,
+      "text": "visibility for the sense organs to apprehend."
+    },
+    {
+      "i": 321,
+      "start": 2215.84,
+      "end": 2221.48,
+      "text": "This does not diminish the potency of Brahman."
+    },
+    {
+      "i": 322,
+      "start": 2224.96,
+      "end": 2236.76,
+      "text": "But when the atnyana takes their in our mind, the sense organs"
+    },
+    {
+      "i": 323,
+      "start": 2236.76,
+      "end": 2245.24,
+      "text": "are bringing the truth as it is. But the mind takes only the name"
+    },
+    {
+      "i": 324,
+      "start": 2245.24,
+      "end": 2252.72,
+      "text": "and the form of the object, not the sat and chip aspect of it,"
+    },
+    {
+      "i": 325,
+      "start": 2255.04,
+      "end": 2258.52,
+      "text": "because sat and chip aspect is not possible for the sense"
+    },
+    {
+      "i": 326,
+      "start": 2258.52,
+      "end": 2262.0,
+      "text": "organs to bifurcate from the name and form."
+    },
+    {
+      "i": 327,
+      "start": 2264.88,
+      "end": 2270.48,
+      "text": "The intellect can. But intellect can do it only if"
+    },
+    {
+      "i": 328,
+      "start": 2270.48,
+      "end": 2277.8,
+      "text": "it is doing proper manana and nidyasena to be not under the"
+    },
+    {
+      "i": 329,
+      "start": 2277.8,
+      "end": 2284.8,
+      "text": "clutches of the mind which confuses the name and form as"
+    },
+    {
+      "i": 330,
+      "start": 2284.8,
+      "end": 2290.0,
+      "text": "the reality and not the Satanjit aspect of the object."
+    },
+    {
+      "i": 331,
+      "start": 2291.8,
+      "end": 2295.52,
+      "text": "Every creation or every projection which is being"
+    },
+    {
+      "i": 332,
+      "start": 2295.52,
+      "end": 2300.48,
+      "text": "experienced by us in the world is Brahman itself."
+    },
+    {
+      "i": 333,
+      "start": 2300.52,
+      "end": 2310.76,
+      "text": "That is why the Upanishad says Sarvam Kaluidam Brahma so very"
+    },
+    {
+      "i": 334,
+      "start": 2310.76,
+      "end": 2312.92,
+      "text": "clearly. We have to understand when this"
+    },
+    {
+      "i": 335,
+      "start": 2312.92,
+      "end": 2318.64,
+      "text": "word Sadat manam surajamiya hamben Krishna talks from the"
+    },
+    {
+      "i": 336,
+      "start": 2318.92,
+      "end": 2325.44,
+      "text": "Brahami city, he is talking from his himself as Brahman."
+    },
+    {
+      "i": 337,
+      "start": 2327.92,
+      "end": 2333.04,
+      "text": "Because now only Brahman can have this potency to project"
+    },
+    {
+      "i": 338,
+      "start": 2333.04,
+      "end": 2338.68,
+      "text": "itself, nobody else. And other than Brahman there is"
+    },
+    {
+      "i": 339,
+      "start": 2338.68,
+      "end": 2340.64,
+      "text": "nothing. Second, there is naina Nana"
+    },
+    {
+      "i": 340,
+      "start": 2340.64,
+      "end": 2342.64,
+      "text": "stick in Jannah. There is nothing other than that"
+    },
+    {
+      "i": 341,
+      "start": 2346.68,
+      "end": 2350.32,
+      "text": "the Sankarajarya breathed the Swijami through the lens of"
+    },
+    {
+      "i": 342,
+      "start": 2351.2,
+      "end": 2358.8,
+      "text": "Aitreya Upinisat the root. Srijit atma Washington idam eega"
+    },
+    {
+      "i": 343,
+      "start": 2359.32,
+      "end": 2366.56,
+      "text": "ewa agre aasid SA ikshata loka no srija it is."
+    },
+    {
+      "i": 344,
+      "start": 2368.2,
+      "end": 2374.32,
+      "text": "We have studied this Atma Washington idameva Agra aasis SA"
+    },
+    {
+      "i": 345,
+      "start": 2374.36,
+      "end": 2378.48,
+      "text": "lokas SA ikshata lokan nusrichata."
+    },
+    {
+      "i": 346,
+      "start": 2380.2,
+      "end": 2383.92,
+      "text": "What does it say? The openness of word sentences."
+    },
+    {
+      "i": 347,
+      "start": 2385.04,
+      "end": 2387.52,
+      "text": "This was only the atman in the beginning."
+    },
+    {
+      "i": 348,
+      "start": 2389.32,
+      "end": 2393.32,
+      "text": "Atma Washington idam eka Agra aasid ewa."
+    },
+    {
+      "i": 349,
+      "start": 2394.84,
+      "end": 2397.24,
+      "text": "It was only the Atman in the beginning."
+    },
+    {
+      "i": 350,
+      "start": 2400.6,
+      "end": 2410.28,
+      "text": "SA ikshata it thought lokan nusrijita iti let me project as"
+    },
+    {
+      "i": 351,
+      "start": 2410.28,
+      "end": 2418.84,
+      "text": "words, the same verb, the same agent, the same self."
+    },
+    {
+      "i": 352,
+      "start": 2419.16,
+      "end": 2427.4,
+      "text": "Referential projection is what is avatara Now Avatara is a"
+    },
+    {
+      "i": 353,
+      "start": 2427.4,
+      "end": 2433.76,
+      "text": "microcosmic reenactment of the primal srushti governed by the"
+    },
+    {
+      "i": 354,
+      "start": 2433.76,
+      "end": 2442.4,
+      "text": "same asthma Maya. And not only that, the emphatic"
+    },
+    {
+      "i": 355,
+      "start": 2442.44,
+      "end": 2455.16,
+      "text": "aham nusrajami aham that I that is project my, I project myself"
+    },
+    {
+      "i": 356,
+      "start": 2457.76,
+      "end": 2462.36,
+      "text": "is Shankaracharya's occasion. To reiterate, the speaker of"
+    },
+    {
+      "i": 357,
+      "start": 2462.36,
+      "end": 2467.52,
+      "text": "this verse is not historical Krishna speaking as a warrior or"
+    },
+    {
+      "i": 358,
+      "start": 2467.52,
+      "end": 2469.44,
+      "text": "a teacher in the historical time."
+    },
+    {
+      "i": 359,
+      "start": 2471.32,
+      "end": 2475.84,
+      "text": "The Aham here is the same Aham as in that Upaneshatik"
+    },
+    {
+      "i": 360,
+      "start": 2476.48,
+      "end": 2483.28,
+      "text": "Ahambrahmasmi, the Parameswara's self designation as the ground"
+    },
+    {
+      "i": 361,
+      "start": 2483.28,
+      "end": 2491.0,
+      "text": "of all being who through Atma Maya appears in time while"
+    },
+    {
+      "i": 362,
+      "start": 2491.0,
+      "end": 2500.52,
+      "text": "remaining eternally beyond it. So going through this verse"
+    },
+    {
+      "i": 363,
+      "start": 2500.52,
+      "end": 2504.56,
+      "text": "again, this verse single correlative temporal sentence,"
+    },
+    {
+      "i": 364,
+      "start": 2506.2,
+      "end": 2510.24,
+      "text": "if we span both the lines, yadah yadahi dharmasya blaner bhavati"
+    },
+    {
+      "i": 365,
+      "start": 2510.24,
+      "end": 2517.04,
+      "text": "bharata, yadah adharmasya akhtanam bhavati sada aatmanam"
+    },
+    {
+      "i": 366,
+      "start": 2517.04,
+      "end": 2525.04,
+      "text": "surajani aham. So whenever indeed the decline"
+    },
+    {
+      "i": 367,
+      "start": 2525.04,
+      "end": 2533.0,
+      "text": "of Dharma increases O Arjuna, and the decrease of adharma"
+    },
+    {
+      "i": 368,
+      "start": 2534.24,
+      "end": 2544.68,
+      "text": "happens, then I project myself. The antecedent is Yada yada."
+    },
+    {
+      "i": 369,
+      "start": 2544.68,
+      "end": 2552.8,
+      "text": "When the dharmaglani and adharma abhyuda, the consequence tada is"
+    },
+    {
+      "i": 370,
+      "start": 2553.72,
+      "end": 2557.52,
+      "text": "atmanam surjamya. So the two conditions are"
+    },
+    {
+      "i": 371,
+      "start": 2557.56,
+      "end": 2563.04,
+      "text": "inverse mirrors of each other, Dharma going down, adharma"
+    },
+    {
+      "i": 372,
+      "start": 2563.04,
+      "end": 2567.56,
+      "text": "increasing, expressing a single cosmic crisis from both sides"
+    },
+    {
+      "i": 373,
+      "start": 2567.56,
+      "end": 2570.72,
+      "text": "simultaneously. As the light decreases, the"
+    },
+    {
+      "i": 374,
+      "start": 2570.72,
+      "end": 2575.56,
+      "text": "darkness increases. Same way the one response"
+    },
+    {
+      "i": 375,
+      "start": 2576.36,
+      "end": 2581.48,
+      "text": "Atmanam's Rajami is the deliberate singular sovereign."
+    },
+    {
+      "i": 376,
+      "start": 2581.48,
+      "end": 2588.32,
+      "text": "However complex the crisis Ishara responses is always at"
+    },
+    {
+      "i": 377,
+      "start": 2588.32,
+      "end": 2591.36,
+      "text": "the same self disclosure of the eternal Self."
+    },
+    {
+      "i": 378,
+      "start": 2598.84,
+      "end": 2600.96,
+      "text": "Now we go. The deeper reading of"
+    },
+    {
+      "i": 379,
+      "start": 2600.96,
+      "end": 2608.12,
+      "text": "Shankaraja's Vasya Dharmaglani is a collective Avrana."
+    },
+    {
+      "i": 380,
+      "start": 2611.2,
+      "end": 2614.36,
+      "text": "The advaitic reading of Dharmaglani identifies with the"
+    },
+    {
+      "i": 381,
+      "start": 2614.36,
+      "end": 2618.84,
+      "text": "collective thickening of Arna. It is not individually yours or"
+    },
+    {
+      "i": 382,
+      "start": 2618.84,
+      "end": 2625.4,
+      "text": "mine in the society itself. The wailing function of Maya"
+    },
+    {
+      "i": 383,
+      "start": 2625.68,
+      "end": 2632.16,
+      "text": "operating at the civilizational level, when Avidya becomes"
+    },
+    {
+      "i": 384,
+      "start": 2632.16,
+      "end": 2637.68,
+      "text": "culturally normative, when the Deha Atma Buddhi identifying"
+    },
+    {
+      "i": 385,
+      "start": 2637.68,
+      "end": 2643.2,
+      "text": "with the body as the self is accepted as the self-evident"
+    },
+    {
+      "i": 386,
+      "start": 2643.2,
+      "end": 2652.4,
+      "text": "truth by the majority. That time Kama and kroda becomes"
+    },
+    {
+      "i": 387,
+      "start": 2652.4,
+      "end": 2660.32,
+      "text": "the ultimate values and this is the dharmaglani at its deepest."
+    },
+    {
+      "i": 388,
+      "start": 2662.68,
+      "end": 2670.72,
+      "text": "The external social disorder which arduna you know listed out"
+    },
+    {
+      "i": 389,
+      "start": 2671.08,
+      "end": 2677.68,
+      "text": "in the chapter 1, Kulakshaya, Varanasankara etcetera is the"
+    },
+    {
+      "i": 390,
+      "start": 2677.68,
+      "end": 2682.6,
+      "text": "symptom. The avarana of Atmatyana is the"
+    },
+    {
+      "i": 391,
+      "start": 2682.6,
+      "end": 2692.09,
+      "text": "root cause. When that knowledge is covered,"
+    },
+    {
+      "i": 392,
+      "start": 2692.29,
+      "end": 2697.13,
+      "text": "avarana takes place. The Vikshapasakti or the"
+    },
+    {
+      "i": 393,
+      "start": 2697.29,
+      "end": 2705.16,
+      "text": "projection is indicated by the word Adharmasya."
+    },
+    {
+      "i": 394,
+      "start": 2705.28,
+      "end": 2714.48,
+      "text": "Adhyadhana that means the dominance of Adharma, the"
+    },
+    {
+      "i": 395,
+      "start": 2714.48,
+      "end": 2722.84,
+      "text": "projecting function of ignorance or Maya that hurts the jiva into"
+    },
+    {
+      "i": 396,
+      "start": 2723.0,
+      "end": 2726.0,
+      "text": "Vikshayapasakti, attachment to objects."
+    },
+    {
+      "i": 397,
+      "start": 2727.08,
+      "end": 2732.96,
+      "text": "Kartrutwabhimana, pride of doership and consequence of"
+    },
+    {
+      "i": 398,
+      "start": 2733.4,
+      "end": 2740.52,
+      "text": "karma, Bandhana bondage into activity for aggrandizing and"
+    },
+    {
+      "i": 399,
+      "start": 2740.52,
+      "end": 2744.88,
+      "text": "accumulation due to karma and things like that."
+    },
+    {
+      "i": 400,
+      "start": 2746.44,
+      "end": 2752.64,
+      "text": "When Vishwa overwhelms Avarna's complement, when not only the"
+    },
+    {
+      "i": 401,
+      "start": 2752.64,
+      "end": 2758.52,
+      "text": "truth is covered, but the false is actively projected and"
+    },
+    {
+      "i": 402,
+      "start": 2758.52,
+      "end": 2768.0,
+      "text": "celebrated as the truth, this is Adharma's Abhyazana and"
+    },
+    {
+      "i": 403,
+      "start": 2769.04,
+      "end": 2774.44,
+      "text": "Atmanam's Rajami. That is the time the Self needs"
+    },
+    {
+      "i": 404,
+      "start": 2774.44,
+      "end": 2783.08,
+      "text": "to be disclosed by itself. Sankarajya says that Atmanam"
+    },
+    {
+      "i": 405,
+      "start": 2783.08,
+      "end": 2788.28,
+      "text": "Srijami as the Self projecting itself has the profound"
+    },
+    {
+      "i": 406,
+      "start": 2788.28,
+      "end": 2792.88,
+      "text": "implication for understanding moksha or liberation,"
+    },
+    {
+      "i": 407,
+      "start": 2793.0,
+      "end": 2800.04,
+      "text": "emancipation. If Avatara Aham Srijami, Atmanam"
+    },
+    {
+      "i": 408,
+      "start": 2800.04,
+      "end": 2805.52,
+      "text": "Srijami, that is the Self projecting itself, then every"
+    },
+    {
+      "i": 409,
+      "start": 2805.52,
+      "end": 2811.68,
+      "text": "genuine moment of atmathachatkara or realizing of"
+    },
+    {
+      "i": 410,
+      "start": 2811.68,
+      "end": 2817.36,
+      "text": "the self, every instance were the prithyagatna."
+    },
+    {
+      "i": 411,
+      "start": 2818.96,
+      "end": 2825.76,
+      "text": "The inner self stands revealed to a mumukshu, those who is"
+    },
+    {
+      "i": 412,
+      "start": 2826.2,
+      "end": 2833.76,
+      "text": "interested in the liberation. That itself is the micro"
+    },
+    {
+      "i": 413,
+      "start": 2833.76,
+      "end": 2843.84,
+      "text": "avatara, the earning for liberation and identifying."
+    },
+    {
+      "i": 414,
+      "start": 2844.72,
+      "end": 2849.72,
+      "text": "I am not the body, mind, intellect, but the self knower"
+    },
+    {
+      "i": 415,
+      "start": 2849.72,
+      "end": 2855.48,
+      "text": "of all, the witness of all that is the micro avatara."
+    },
+    {
+      "i": 416,
+      "start": 2859.72,
+      "end": 2865.52,
+      "text": "The Avatara of Krishna Adam is a macrocosmic, publicly visible"
+    },
+    {
+      "i": 417,
+      "start": 2865.52,
+      "end": 2870.92,
+      "text": "form of what occurs microcosmically every time"
+    },
+    {
+      "i": 418,
+      "start": 2870.96,
+      "end": 2874.8,
+      "text": "avidya is dispelled by nyana in a single jiva."
+    },
+    {
+      "i": 419,
+      "start": 2876.6,
+      "end": 2886.4,
+      "text": "So everyone of us when we dispel the ignorance and move towards"
+    },
+    {
+      "i": 420,
+      "start": 2886.4,
+      "end": 2898.16,
+      "text": "the knowledge of the self, every jiva is moving or giving the"
+    },
+    {
+      "i": 421,
+      "start": 2898.16,
+      "end": 2908.32,
+      "text": "avatara for Krishna in us. So in the sense, the teaching of"
+    },
+    {
+      "i": 422,
+      "start": 2908.32,
+      "end": 2914.32,
+      "text": "this verse is not about Krishna alone, it is about the eternal"
+    },
+    {
+      "i": 423,
+      "start": 2914.32,
+      "end": 2920.56,
+      "text": "self disclosive moment of Sachitananda in each one of us"
+    },
+    {
+      "i": 424,
+      "start": 2922.08,
+      "end": 2927.12,
+      "text": "in response to Avidya's veiling of our own reality."
+    },
+    {
+      "i": 425,
+      "start": 2930.68,
+      "end": 2935.2,
+      "text": "How does it do? There is a timeless recurrence,"
+    },
+    {
+      "i": 426,
+      "start": 2935.2,
+      "end": 2946.4,
+      "text": "recourse recurrences. Srijani is not a statement just"
+    },
+    {
+      "i": 427,
+      "start": 2946.4,
+      "end": 2953.88,
+      "text": "to indicate time. It is a it's a verb of"
+    },
+    {
+      "i": 428,
+      "start": 2954.6,
+      "end": 2959.44,
+      "text": "projection, but it is a projection is in the present"
+    },
+    {
+      "i": 429,
+      "start": 2959.44,
+      "end": 2966.8,
+      "text": "tense as the verb is used, not a past tense or in any other"
+    },
+    {
+      "i": 430,
+      "start": 2966.8,
+      "end": 2971.64,
+      "text": "tense. Therefore, the Sambhavami in the"
+    },
+    {
+      "i": 431,
+      "start": 2971.72,
+      "end": 2977.72,
+      "text": "sixth verse and Srijami in this verse, both being present tense,"
+    },
+    {
+      "i": 432,
+      "start": 2977.72,
+      "end": 2984.32,
+      "text": "asserts the timeless recurrence. Not that I projected once during"
+    },
+    {
+      "i": 433,
+      "start": 2984.32,
+      "end": 2991.44,
+      "text": "the Mahabharata war time as a Krishna, but I project whenever"
+    },
+    {
+      "i": 434,
+      "start": 2991.44,
+      "end": 2997.08,
+      "text": "the condition obtains in every jiva."
+    },
+    {
+      "i": 435,
+      "start": 3001.72,
+      "end": 3007.2,
+      "text": "This encodes the cosmic low Niyama structure of Dharmaglani"
+    },
+    {
+      "i": 436,
+      "start": 3007.24,
+      "end": 3012.28,
+      "text": "atmos Srijana. Whenever the Dharma reduces in"
+    },
+    {
+      "i": 437,
+      "start": 3012.36,
+      "end": 3019.24,
+      "text": "in the individual, the Atma will project itself in that"
+    },
+    {
+      "i": 438,
+      "start": 3019.24,
+      "end": 3024.36,
+      "text": "individual. But is a necessary perpetually"
+    },
+    {
+      "i": 439,
+      "start": 3024.36,
+      "end": 3029.16,
+      "text": "cooperative correlation, not a once in a history event."
+    },
+    {
+      "i": 440,
+      "start": 3029.84,
+      "end": 3039.48,
+      "text": "Every moment in our life when we forget who we are, every"
+    },
+    {
+      "i": 441,
+      "start": 3039.48,
+      "end": 3046.84,
+      "text": "experience comes up to remind us that you are the consciousness"
+    },
+    {
+      "i": 442,
+      "start": 3046.88,
+      "end": 3053.4,
+      "text": "and awareness, which is the reason why you are experiencing"
+    },
+    {
+      "i": 443,
+      "start": 3053.4,
+      "end": 3059.72,
+      "text": "it. There if the ego that I am now"
+    },
+    {
+      "i": 444,
+      "start": 3059.72,
+      "end": 3066.12,
+      "text": "doing this thing is the wailing of the NYANA that from the I am"
+    },
+    {
+      "i": 445,
+      "start": 3066.12,
+      "end": 3069.4,
+      "text": "that awareness to I am the body, mind, intellect."
+    },
+    {
+      "i": 446,
+      "start": 3073.96,
+      "end": 3080.28,
+      "text": "So the in the history, it's not a historical event, Pradeep"
+    },
+    {
+      "i": 447,
+      "start": 3080.28,
+      "end": 3085.32,
+      "text": "Bohatamat Vijayamatam every moment it is every experience is"
+    },
+    {
+      "i": 448,
+      "start": 3086.6,
+      "end": 3091.12,
+      "text": "the birth of an avatara or the projection of an avatara in US."
+    },
+    {
+      "i": 449,
+      "start": 3098.48,
+      "end": 3103.32,
+      "text": "Sankaracharya for this means that teaching begin being given"
+    },
+    {
+      "i": 450,
+      "start": 3103.32,
+      "end": 3107.32,
+      "text": "at the right now in the Gita itself is an instant Svajami"
+    },
+    {
+      "i": 451,
+      "start": 3108.16,
+      "end": 3111.56,
+      "text": "because Krishna projecting himself as Nitya guru into the"
+    },
+    {
+      "i": 452,
+      "start": 3111.56,
+      "end": 3116.32,
+      "text": "crisis moment of Arjuna's Dharmaglani collapse of his"
+    },
+    {
+      "i": 453,
+      "start": 3116.32,
+      "end": 3121.68,
+      "text": "viveka in chapter 1 is an example."
+    },
+    {
+      "i": 454,
+      "start": 3123.56,
+      "end": 3127.84,
+      "text": "But the present tense makes the worst self referential."
+    },
+    {
+      "i": 455,
+      "start": 3128.64,
+      "end": 3135.12,
+      "text": "It describes what is happening in this very moment to each one"
+    },
+    {
+      "i": 456,
+      "start": 3135.12,
+      "end": 3146.01,
+      "text": "of us. Why did Krishna say Arjuna in"
+    },
+    {
+      "i": 457,
+      "start": 3146.01,
+      "end": 3152.57,
+      "text": "the name Bharata in between locating Arjuna in the avatar"
+    },
+    {
+      "i": 458,
+      "start": 3152.57,
+      "end": 3157.29,
+      "text": "occasion? The vocative Bharata, the way in"
+    },
+    {
+      "i": 459,
+      "start": 3157.29,
+      "end": 3161.08,
+      "text": "which he addressed Arjuna, addressed to Arjuna as a"
+    },
+    {
+      "i": 460,
+      "start": 3161.08,
+      "end": 3163.64,
+      "text": "descendanting of a dynastic lineage."
+    },
+    {
+      "i": 461,
+      "start": 3164.16,
+      "end": 3169.0,
+      "text": "That Dharma itself is established makes Arjuna not"
+    },
+    {
+      "i": 462,
+      "start": 3169.0,
+      "end": 3173.48,
+      "text": "merely a witness of this teaching, but a participant in"
+    },
+    {
+      "i": 463,
+      "start": 3173.48,
+      "end": 3179.72,
+      "text": "its occasion. His own crisis of despair and"
+    },
+    {
+      "i": 464,
+      "start": 3179.72,
+      "end": 3187.72,
+      "text": "gloom and lack of courage is the Dharma Glani of Viveka that was"
+    },
+    {
+      "i": 465,
+      "start": 3187.72,
+      "end": 3192.12,
+      "text": "the immediate trigger for this particular Atmanam Surjami."
+    },
+    {
+      "i": 466,
+      "start": 3194.56,
+      "end": 3198.44,
+      "text": "Krishna was with Arjuna for a long time."
+    },
+    {
+      "i": 467,
+      "start": 3200.76,
+      "end": 3211.56,
+      "text": "Why did he has to now talk in a language and teach this that to"
+    },
+    {
+      "i": 468,
+      "start": 3211.56,
+      "end": 3214.08,
+      "text": "keeping both the armies on either side?"
+    },
+    {
+      "i": 469,
+      "start": 3216.04,
+      "end": 3218.8,
+      "text": "Because there was no trigger till then."
+    },
+    {
+      "i": 470,
+      "start": 3220.44,
+      "end": 3225.6,
+      "text": "The moment the trigger came, Arjuna throwing up from his"
+    },
+    {
+      "i": 471,
+      "start": 3225.6,
+      "end": 3232.4,
+      "text": "sadharma and refusing to take up the bow and arrow for the"
+    },
+    {
+      "i": 472,
+      "start": 3232.4,
+      "end": 3238.36,
+      "text": "purpose of Dharma adharma has totally taken control of the"
+    },
+    {
+      "i": 473,
+      "start": 3238.36,
+      "end": 3248.8,
+      "text": "situation that necessitated Krishna to take his nitya guru"
+    },
+    {
+      "i": 474,
+      "start": 3248.8,
+      "end": 3255.4,
+      "text": "role to explain to Arjuna and not only explain Arjuna."
+    },
+    {
+      "i": 475,
+      "start": 3256.0,
+      "end": 3262.6,
+      "text": "The explanation to Arjuna was an occasion reminding him of his"
+    },
+    {
+      "i": 476,
+      "start": 3262.6,
+      "end": 3267.68,
+      "text": "personal Dharma Ghani, his collapse of discrimination on"
+    },
+    {
+      "i": 477,
+      "start": 3267.68,
+      "end": 3275.48,
+      "text": "the battlefield of Gurukshetra. Every genuine student's crisis"
+    },
+    {
+      "i": 478,
+      "start": 3275.48,
+      "end": 3282.12,
+      "text": "of ignorance is an occasion for Ishwara's Atmanam Srijani."
+    },
+    {
+      "i": 479,
+      "start": 3284.36,
+      "end": 3290.32,
+      "text": "The self revealing itself threw the Guru's voice into a diva's"
+    },
+    {
+      "i": 480,
+      "start": 3290.32,
+      "end": 3298.88,
+      "text": "darkness. This was the occasion of Avatara"
+    },
+    {
+      "i": 481,
+      "start": 3298.88,
+      "end": 3305.32,
+      "text": "is fully established. The yada yada, the universal"
+    },
+    {
+      "i": 482,
+      "start": 3305.32,
+      "end": 3311.72,
+      "text": "timeless recurring of Venus, ensures that this is not a"
+    },
+    {
+      "i": 483,
+      "start": 3311.72,
+      "end": 3317.36,
+      "text": "historical accident, but a cosmic necessity written into"
+    },
+    {
+      "i": 484,
+      "start": 3317.36,
+      "end": 3320.44,
+      "text": "the structure of Ishwara's governance."
+    },
+    {
+      "i": 485,
+      "start": 3323.12,
+      "end": 3327.6,
+      "text": "Tomorrow when we move to the next verse, it will complete the"
+    },
+    {
+      "i": 486,
+      "start": 3328.08,
+      "end": 3332.88,
+      "text": "Avatar Pragrana by specifying the fourfold purpose."
+    },
+    {
+      "i": 487,
+      "start": 3334.16,
+      "end": 3339.6,
+      "text": "Sadhu Nam paritranaya dushkridham vinashaya Dharma"
+    },
+    {
+      "i": 488,
+      "start": 3339.6,
+      "end": 3345.76,
+      "text": "samastavanataya Sambhavami UK. The four phases of Atma Anam"
+    },
+    {
+      "i": 489,
+      "start": 3345.76,
+      "end": 3349.52,
+      "text": "Srijami directed toward this cosmic rotation."
+    },
+    {
+      "i": 490,
+      "start": 3351.56,
+      "end": 3357.2,
+      "text": "Sankarajya has not written much in this verse."
+    },
+    {
+      "i": 491,
+      "start": 3357.2,
+      "end": 3363.16,
+      "text": "Actually speaking, he has just mentioned yada yada hi dharmasya"
+    },
+    {
+      "i": 492,
+      "start": 3363.16,
+      "end": 3367.76,
+      "text": "glani hani Varanasi ramadi lakshmasya praninam abhyudaya"
+    },
+    {
+      "i": 493,
+      "start": 3368.24,
+      "end": 3373.96,
+      "text": "vishreya sadanasya bhavati bharatha aputhanam udbaha"
+    },
+    {
+      "i": 494,
+      "start": 3374.04,
+      "end": 3378.36,
+      "text": "adharmasya sada atmanam srijami aham mayaya."
+    },
+    {
+      "i": 495,
+      "start": 3378.92,
+      "end": 3386.2,
+      "text": "That's all. Just one sentence now that if we"
+    },
+    {
+      "i": 496,
+      "start": 3386.2,
+      "end": 3391.76,
+      "text": "break it up yada yada hi dharmasya glani hani varna"
+    },
+    {
+      "i": 497,
+      "start": 3391.8,
+      "end": 3396.2,
+      "text": "Sharma lakshmasya. Whenever there is a decline of"
+    },
+    {
+      "i": 498,
+      "start": 3396.2,
+      "end": 3401.52,
+      "text": "Dharma characterized by system of varna and Asarama praninam"
+    },
+    {
+      "i": 499,
+      "start": 3401.76,
+      "end": 3407.8,
+      "text": "abhyudaya vishwasadhanasya bhavati O Arjuna, which is the"
+    },
+    {
+      "i": 500,
+      "start": 3408.12,
+      "end": 3412.88,
+      "text": "which is the means to worldly prosperity abdiya and the"
+    },
+    {
+      "i": 501,
+      "start": 3412.88,
+      "end": 3420.24,
+      "text": "highest good which raisa of the living being abyutanam uddhavaha"
+    },
+    {
+      "i": 502,
+      "start": 3420.32,
+      "end": 3423.72,
+      "text": "adharmasya. And whenever there is a rise and"
+    },
+    {
+      "i": 503,
+      "start": 3423.72,
+      "end": 3429.76,
+      "text": "emergence of Dharma, adharma, adha atmanam sarjami Ahmayya,"
+    },
+    {
+      "i": 504,
+      "start": 3430.44,
+      "end": 3433.16,
+      "text": "then I manifest myself through my Maya."
+    },
+    {
+      "i": 505,
+      "start": 3435.8,
+      "end": 3442.36,
+      "text": "So the purpose of divine manifestation in the deeper"
+    },
+    {
+      "i": 506,
+      "start": 3442.36,
+      "end": 3444.68,
+      "text": "philosophical way. What is adharma?"
+    },
+    {
+      "i": 507,
+      "start": 3445.76,
+      "end": 3449.76,
+      "text": "Varnasrama, leksana varna and asrama Varna is the social"
+    },
+    {
+      "i": 508,
+      "start": 3449.76,
+      "end": 3452.36,
+      "text": "roles. Asrama is the stages of life."
+    },
+    {
+      "i": 509,
+      "start": 3453.36,
+      "end": 3455.68,
+      "text": "This structure support the spiritual life."
+    },
+    {
+      "i": 510,
+      "start": 3457.44,
+      "end": 3461.88,
+      "text": "It organizes the society by ethical life, knowledge and"
+    },
+    {
+      "i": 511,
+      "start": 3461.88,
+      "end": 3465.32,
+      "text": "liberation. Therefore, Dharma has two"
+    },
+    {
+      "i": 512,
+      "start": 3465.32,
+      "end": 3473.12,
+      "text": "purpose, Abhyudaya, worldly prosperity meaning social order,"
+    },
+    {
+      "i": 513,
+      "start": 3473.16,
+      "end": 3478.12,
+      "text": "stability and well-being. Vishreyasa, the supreme good"
+    },
+    {
+      "i": 514,
+      "start": 3478.12,
+      "end": 3483.52,
+      "text": "meaning liberation morcha. Thus Dharma serves both the"
+    },
+    {
+      "i": 515,
+      "start": 3484.36,
+      "end": 3487.0,
+      "text": "worldly prosperity and spiritual liberation."
+    },
+    {
+      "i": 516,
+      "start": 3488.56,
+      "end": 3493.72,
+      "text": "And what is decline of Dharma? Iglani is weakening our"
+    },
+    {
+      "i": 517,
+      "start": 3493.72,
+      "end": 3500.92,
+      "text": "corruption, moral confusion, abandonment of duties, loss of"
+    },
+    {
+      "i": 518,
+      "start": 3500.92,
+      "end": 3505.6,
+      "text": "spiritual values and knowledge. When that is a time when Dharma"
+    },
+    {
+      "i": 519,
+      "start": 3505.6,
+      "end": 3513.08,
+      "text": "weakens, Adharma grows. Rise of adharma apyutanam"
+    },
+    {
+      "i": 520,
+      "start": 3513.4,
+      "end": 3517.6,
+      "text": "adharmasya. The adharma becomes dominant"
+    },
+    {
+      "i": 521,
+      "start": 3517.6,
+      "end": 3522.36,
+      "text": "when this leads to social disorder, ethical decay and"
+    },
+    {
+      "i": 522,
+      "start": 3522.36,
+      "end": 3526.68,
+      "text": "spiritual ignorance. This is the time for divine"
+    },
+    {
+      "i": 523,
+      "start": 3526.68,
+      "end": 3532.04,
+      "text": "intervention. Atmanam Sarjami Lord does not"
+    },
+    {
+      "i": 524,
+      "start": 3533.2,
+      "end": 3538.72,
+      "text": "truly make take a reap, take a birth, but He manifests through"
+    },
+    {
+      "i": 525,
+      "start": 3538.72,
+      "end": 3543.44,
+      "text": "Maya, through His Maya. Thus, the Avatara is"
+    },
+    {
+      "i": 526,
+      "start": 3543.44,
+      "end": 3546.88,
+      "text": "intentional, compassionate and pedagogical."
+    },
+    {
+      "i": 527,
+      "start": 3549.44,
+      "end": 3553.56,
+      "text": "Why should the Lord appear? The purpose of incarnation is"
+    },
+    {
+      "i": 528,
+      "start": 3553.56,
+      "end": 3559.2,
+      "text": "explained in the next verse. That is the four fold things,"
+    },
+    {
+      "i": 529,
+      "start": 3559.2,
+      "end": 3564.84,
+      "text": "which is that we will see tomorrow to restore Dharma."
+    },
+    {
+      "i": 530,
+      "start": 3569.08,
+      "end": 3573.28,
+      "text": "Dharma sustains civilization, social order."
+    },
+    {
+      "i": 531,
+      "start": 3573.28,
+      "end": 3575.92,
+      "text": "When it is collapsed, it need to be restrained."
+    },
+    {
+      "i": 532,
+      "start": 3576.72,
+      "end": 3578.96,
+      "text": "Spiritual life divinities declined."
+    },
+    {
+      "i": 533,
+      "start": 3578.96,
+      "end": 3583.88,
+      "text": "That has to be rejuvenated. The spiritual knowledge requires"
+    },
+    {
+      "i": 534,
+      "start": 3583.88,
+      "end": 3588.12,
+      "text": "social stability. Therefore, the varna and asarama"
+    },
+    {
+      "i": 535,
+      "start": 3588.12,
+      "end": 3594.0,
+      "text": "is not merely social order. Its ultimate purpose is to"
+    },
+    {
+      "i": 536,
+      "start": 3594.56,
+      "end": 3604.92,
+      "text": "support Moksha. So the Lord manifests when human"
+    },
+    {
+      "i": 537,
+      "start": 3604.96,
+      "end": 3609.72,
+      "text": "humanity loses direction. The Avatara restores knowledge,"
+    },
+    {
+      "i": 538,
+      "start": 3609.72,
+      "end": 3616.48,
+      "text": "Dharma and spiritual vision. The appearance is through Maya."
+    },
+    {
+      "i": 539,
+      "start": 3618.2,
+      "end": 3620.52,
+      "text": "He does not become bound by the world."
+    },
+    {
+      "i": 540,
+      "start": 3622.08,
+      "end": 3629.48,
+      "text": "He only appears in the world, and it is timeless."
+    },
+    {
+      "i": 541,
+      "start": 3633.16,
+      "end": 3636.64,
+      "text": "Human society periodically loses ethical clarity."
+    },
+    {
+      "i": 542,
+      "start": 3638.2,
+      "end": 3641.52,
+      "text": "Therefore, the teachings like Gita periodically reappear."
+    },
+    {
+      "i": 543,
+      "start": 3643.52,
+      "end": 3647.04,
+      "text": "The spiritual teachers serve the role of avatara."
+    },
+    {
+      "i": 544,
+      "start": 3648.4,
+      "end": 3651.64,
+      "text": "In a broader sense. Whenever wisdom arises in the"
+    },
+    {
+      "i": 545,
+      "start": 3651.64,
+      "end": 3656.76,
+      "text": "world, the divine function of restoring Dharma is fulfilled."
+    },
+    {
+      "i": 546,
+      "start": 3658.88,
+      "end": 3661.16,
+      "text": "The real battle is against ignorance."
+    },
+    {
+      "i": 547,
+      "start": 3662.92,
+      "end": 3666.52,
+      "text": "Adharma ultimately arises from ignorance of the self."
+    },
+    {
+      "i": 548,
+      "start": 3667.4,
+      "end": 3672.48,
+      "text": "Therefore, restoration of adharma Dharma ultimately means"
+    },
+    {
+      "i": 549,
+      "start": 3672.48,
+      "end": 3680.2,
+      "text": "restoration of knowledge. In a sense, whenever Dharma that"
+    },
+    {
+      "i": 550,
+      "start": 3680.2,
+      "end": 3683.52,
+      "text": "sustains both worldly prosperity and spiritual liberation"
+    },
+    {
+      "i": 551,
+      "start": 3683.52,
+      "end": 3689.6,
+      "text": "declines and adharma arises, rises, the Lord manifests"
+    },
+    {
+      "i": 552,
+      "start": 3689.6,
+      "end": 3695.88,
+      "text": "Himself through kismaya in order to restore the order of Dharma"
+    },
+    {
+      "i": 553,
+      "start": 3695.88,
+      "end": 3698.44,
+      "text": "in this world. Why?"
+    },
+    {
+      "i": 554,
+      "start": 3699.52,
+      "end": 3704.56,
+      "text": "Paritra Naya sadhunam vinashaya chadushkardam Dharma samsa"
+    },
+    {
+      "i": 555,
+      "start": 3704.56,
+      "end": 3706.64,
+      "text": "vanarthaya sambhavaami. UK."
+    },
+    {
+      "i": 556,
+      "start": 3706.64,
+      "end": 3712.88,
+      "text": "UK. We will see this in the next"
+    },
+    {
+      "i": 557,
+      "start": 3712.88,
+      "end": 3716.68,
+      "text": "class tomorrow as a continuation."
+    },
+    {
+      "i": 558,
+      "start": 3742.68,
+      "end": 3752.52,
+      "text": "Thank you. Thank you very much, Mundraji."
+    },
+    {
+      "i": 559,
+      "start": 3752.6,
+      "end": 3754.52,
+      "text": "I've opened the chat in hand raising."
+    },
+    {
+      "i": 560,
+      "start": 3754.52,
+      "end": 3759.36,
+      "text": "Is there any follow up clarifications or questions or"
+    },
+    {
+      "i": 561,
+      "start": 3759.36,
+      "end": 3763.52,
+      "text": "any discussion point? We'll have this room open for"
+    },
+    {
+      "i": 562,
+      "start": 3763.52,
+      "end": 3769.48,
+      "text": "about half an hour. Mr. Venkat."
+    },
+    {
+      "i": 563,
+      "start": 3771.8,
+      "end": 3780.08,
+      "text": "It was a nice session from you. Just a follow up on the the the"
+    },
+    {
+      "i": 564,
+      "start": 3780.2,
+      "end": 3785.2,
+      "text": "topic today. So this the whole, you know, the"
+    },
+    {
+      "i": 565,
+      "start": 3785.2,
+      "end": 3791.6,
+      "text": "domain of Avatara seems like limited to human societies"
+    },
+    {
+      "i": 566,
+      "start": 3791.6,
+      "end": 3797.76,
+      "text": "because the jungle balances itself, the nature minus human,"
+    },
+    {
+      "i": 567,
+      "start": 3797.76,
+      "end": 3801.4,
+      "text": "it is already running well, only the human societies, you know,"
+    },
+    {
+      "i": 568,
+      "start": 3801.4,
+      "end": 3804.68,
+      "text": "messed it up within our ability to create order."
+    },
+    {
+      "i": 569,
+      "start": 3804.8,
+      "end": 3807.88,
+      "text": "You know, I don't think we we can ever keep an order that is"
+    },
+    {
+      "i": 570,
+      "start": 3808.08,
+      "end": 3813.68,
+      "text": "defined again mess it up. Is that this artificially"
+    },
+    {
+      "i": 571,
+      "start": 3813.68,
+      "end": 3817.6,
+      "text": "created society is unable to keep up the balance."
+    },
+    {
+      "i": 572,
+      "start": 3818.16,
+      "end": 3822.32,
+      "text": "Is this the domain where it is sliding out?"
+    },
+    {
+      "i": 573,
+      "start": 3822.72,
+      "end": 3824.92,
+      "text": "It is limited to human societies, right Urban."
+    },
+    {
+      "i": 574,
+      "start": 3826.68,
+      "end": 3830.08,
+      "text": "It is, even though predominantly it is to human society."
+    },
+    {
+      "i": 575,
+      "start": 3830.08,
+      "end": 3835.04,
+      "text": "We can see it's effect in the other beings also, like plants"
+    },
+    {
+      "i": 576,
+      "start": 3835.04,
+      "end": 3840.48,
+      "text": "or animals or anywhere there. If encroachment and you know"
+    },
+    {
+      "i": 577,
+      "start": 3840.84,
+      "end": 3847.88,
+      "text": "overpowering happens, that is the time nature also will do its"
+    },
+    {
+      "i": 578,
+      "start": 3847.88,
+      "end": 3854.36,
+      "text": "own job by creating either destruction by earthquake or"
+    },
+    {
+      "i": 579,
+      "start": 3854.36,
+      "end": 3860.4,
+      "text": "drought by lack of rain. All these are all the tsunamiya"
+    },
+    {
+      "i": 580,
+      "start": 3860.4,
+      "end": 3868.24,
+      "text": "hum that you know, Parameswara or the the Brahman itself is"
+    },
+    {
+      "i": 581,
+      "start": 3868.24,
+      "end": 3871.8,
+      "text": "appearing in the form of an earthquake or a rot or things"
+    },
+    {
+      "i": 582,
+      "start": 3871.8,
+      "end": 3876.4,
+      "text": "like that. Whenever there is this over what"
+    },
+    {
+      "i": 583,
+      "start": 3876.4,
+      "end": 3881.36,
+      "text": "you call excess, that is the word to be used."
+    },
+    {
+      "i": 584,
+      "start": 3881.36,
+      "end": 3886.24,
+      "text": "Yeah, excess by anything, whether it is animal, uh, you"
+    },
+    {
+      "i": 585,
+      "start": 3886.24,
+      "end": 3893.68,
+      "text": "know, the species will itself vanished from the earth because"
+    },
+    {
+      "i": 586,
+      "start": 3894.56,
+      "end": 3901.36,
+      "text": "they were not able to withstand the decline of Dharma and onset"
+    },
+    {
+      "i": 587,
+      "start": 3901.36,
+      "end": 3905.0,
+      "text": "of Dharma happening to within themselves."
+    },
+    {
+      "i": 588,
+      "start": 3905.56,
+      "end": 3909.6,
+      "text": "So that species itself becomes vanished from the in the surface"
+    },
+    {
+      "i": 589,
+      "start": 3909.6,
+      "end": 3915.88,
+      "text": "of earth. This is also the cosmic law."
+    },
+    {
+      "i": 590,
+      "start": 3919.0,
+      "end": 3924.8,
+      "text": "We might, we may not be able to pinpoint, explain and things"
+    },
+    {
+      "i": 591,
+      "start": 3924.8,
+      "end": 3929.08,
+      "text": "like that because we are not living in them as them."
+    },
+    {
+      "i": 592,
+      "start": 3930.04,
+      "end": 3936.04,
+      "text": "So there will be a always a, you know, lack of clarity from our"
+    },
+    {
+      "i": 593,
+      "start": 3936.04,
+      "end": 3938.48,
+      "text": "side. We what is observable only we"
+    },
+    {
+      "i": 594,
+      "start": 3938.48,
+      "end": 3942.12,
+      "text": "can say. But what each one of the species"
+    },
+    {
+      "i": 595,
+      "start": 3942.12,
+      "end": 3948.48,
+      "text": "undergo during their lifetime or their species extinction itself,"
+    },
+    {
+      "i": 596,
+      "start": 3949.2,
+      "end": 3951.56,
+      "text": "we won't be able to. We know only when it has"
+    },
+    {
+      "i": 597,
+      "start": 3951.56,
+      "end": 3954.6,
+      "text": "happened because or when it is in decline."
+    },
+    {
+      "i": 598,
+      "start": 3955.0,
+      "end": 3958.04,
+      "text": "For example, the tiger population was in the decline."
+    },
+    {
+      "i": 599,
+      "start": 3959.0,
+      "end": 3962.6,
+      "text": "There was a time when cheetahs were available in India, but"
+    },
+    {
+      "i": 600,
+      "start": 3962.68,
+      "end": 3966.16,
+      "text": "over poaching, poaching and things like that reduced it by"
+    },
+    {
+      "i": 601,
+      "start": 3966.16,
+      "end": 3970.2,
+      "text": "humanity. That is, they were not able to"
+    },
+    {
+      "i": 602,
+      "start": 3970.2,
+      "end": 3974.8,
+      "text": "restrain to their own reduction in the Dharma."
+    },
+    {
+      "i": 603,
+      "start": 3974.88,
+      "end": 3980.76,
+      "text": "If they had been there, they would have been more voracious"
+    },
+    {
+      "i": 604,
+      "start": 3981.4,
+      "end": 3988.6,
+      "text": "and you know more this what you call expressing themselves in"
+    },
+    {
+      "i": 605,
+      "start": 3988.6,
+      "end": 3993.24,
+      "text": "the more attacking way and they would have sustained themselves."
+    },
+    {
+      "i": 606,
+      "start": 3994.6,
+      "end": 4002.28,
+      "text": "But human beings being more powerful when they entered into"
+    },
+    {
+      "i": 607,
+      "start": 4002.28,
+      "end": 4006.92,
+      "text": "the picture and diminished them. So these type of things which"
+    },
+    {
+      "i": 608,
+      "start": 4006.92,
+      "end": 4010.56,
+      "text": "are we are doing that. What we have not realized is"
+    },
+    {
+      "i": 609,
+      "start": 4010.56,
+      "end": 4016.96,
+      "text": "that we thought that we are a we diminished them or we eliminated"
+    },
+    {
+      "i": 610,
+      "start": 4016.96,
+      "end": 4021.72,
+      "text": "them from because of our karma encroda or or the Loba or the"
+    },
+    {
+      "i": 611,
+      "start": 4022.12,
+      "end": 4026.04,
+      "text": "Thai Thai the skin or the whatever may be the things which"
+    },
+    {
+      "i": 612,
+      "start": 4026.04,
+      "end": 4029.92,
+      "text": "we are ordered. But in the process who are the"
+    },
+    {
+      "i": 613,
+      "start": 4029.92,
+      "end": 4034.84,
+      "text": "losers? We became the losers because we"
+    },
+    {
+      "i": 614,
+      "start": 4034.84,
+      "end": 4039.8,
+      "text": "stopped seeing the cheetah in Indian Indian soil."
+    },
+    {
+      "i": 615,
+      "start": 4040.68,
+      "end": 4046.2,
+      "text": "We had to import from African you know jungles to now to"
+    },
+    {
+      "i": 616,
+      "start": 4046.2,
+      "end": 4050.88,
+      "text": "recalculate, you know, you know habituate them."
+    },
+    {
+      "i": 617,
+      "start": 4051.64,
+      "end": 4056.64,
+      "text": "So many things have habitant gone from the you know earth by"
+    },
+    {
+      "i": 618,
+      "start": 4057.96,
+      "end": 4062.48,
+      "text": "carelessness of human beings. It is not the losses to them."
+    },
+    {
+      "i": 619,
+      "start": 4063.68,
+      "end": 4068.48,
+      "text": "The loss is to us because we do not be able to see them again or"
+    },
+    {
+      "i": 620,
+      "start": 4068.64,
+      "end": 4072.84,
+      "text": "know them properly. So many of the things have"
+    },
+    {
+      "i": 621,
+      "start": 4072.84,
+      "end": 4075.56,
+      "text": "managed something from the surface of earth."
+    },
+    {
+      "i": 622,
+      "start": 4076.12,
+      "end": 4080.52,
+      "text": "It is due to the same rule of Dharma and the Dharma."
+    },
+    {
+      "i": 623,
+      "start": 4082.44,
+      "end": 4084.96,
+      "text": "Dharma reduces and the Dharma is increasing."
+    },
+    {
+      "i": 624,
+      "start": 4086.24,
+      "end": 4091.44,
+      "text": "The loss is to us. So as you said predominantly it"
+    },
+    {
+      "i": 625,
+      "start": 4091.44,
+      "end": 4095.96,
+      "text": "is from the human society what is being told, but it is not"
+    },
+    {
+      "i": 626,
+      "start": 4095.96,
+      "end": 4098.319,
+      "text": "that it's only happening to human society."
+    },
+    {
+      "i": 627,
+      "start": 4099.0,
+      "end": 4102.04,
+      "text": "Prakash may be able to tell in the plants species it is"
+    },
+    {
+      "i": 628,
+      "start": 4102.04,
+      "end": 4106.08,
+      "text": "happening. The you know where the parasitic"
+    },
+    {
+      "i": 629,
+      "start": 4106.479,
+      "end": 4112.6,
+      "text": "plants come to such an extent that the the mother 3 on which"
+    },
+    {
+      "i": 630,
+      "start": 4112.6,
+      "end": 4119.479,
+      "text": "they were growing becomes virtually in a non existent at a"
+    },
+    {
+      "i": 631,
+      "start": 4119.52,
+      "end": 4121.96,
+      "text": "troponal. But what happens in the process"
+    },
+    {
+      "i": 632,
+      "start": 4121.96,
+      "end": 4128.56,
+      "text": "is that the parasite plant also will lose its place from where"
+    },
+    {
+      "i": 633,
+      "start": 4128.56,
+      "end": 4132.96,
+      "text": "it can sustain and remain by that way they also die in the"
+    },
+    {
+      "i": 634,
+      "start": 4132.96,
+      "end": 4137.2,
+      "text": "process. So these things we can just"
+    },
+    {
+      "i": 635,
+      "start": 4137.92,
+      "end": 4142.88,
+      "text": "relate and tell that whenever there is an excess that is not"
+    },
+    {
+      "i": 636,
+      "start": 4142.88,
+      "end": 4146.96,
+      "text": "good, whether it is human being, animal or plant."
+    },
+    {
+      "i": 637,
+      "start": 4152.64,
+      "end": 4158.0,
+      "text": "You know Prakashi comment on it but then they'll have follow up"
+    },
+    {
+      "i": 638,
+      "start": 4158.0,
+      "end": 4163.6,
+      "text": "questionals. Yes, yes, Binderji, that you"
+    },
+    {
+      "i": 639,
+      "start": 4163.6,
+      "end": 4167.12,
+      "text": "know the classic gigs, there are many examples, but the best"
+    },
+    {
+      "i": 640,
+      "start": 4167.12,
+      "end": 4171.52,
+      "text": "example to look at is the forest fires or the what they call Bush"
+    },
+    {
+      "i": 641,
+      "start": 4171.52,
+      "end": 4175.12,
+      "text": "fires in Australia on the eastern coast just below the"
+    },
+    {
+      "i": 642,
+      "start": 4175.12,
+      "end": 4179.52,
+      "text": "rainforest. So you have the pioneer species"
+    },
+    {
+      "i": 643,
+      "start": 4179.52,
+      "end": 4185.479,
+      "text": "which will grow and their strategy, if you want to call it"
+    },
+    {
+      "i": 644,
+      "start": 4185.56,
+      "end": 4190.76,
+      "text": "their survival or dharmic principle, is to produce"
+    },
+    {
+      "i": 645,
+      "start": 4190.76,
+      "end": 4194.32,
+      "text": "rejuvenating buds in the bottom under the soil and keep it"
+    },
+    {
+      "i": 646,
+      "start": 4194.32,
+      "end": 4196.8,
+      "text": "there. And as this big tree grows for a"
+    },
+    {
+      "i": 647,
+      "start": 4196.8,
+      "end": 4200.8,
+      "text": "decade, the settlers come in because there is more food"
+    },
+    {
+      "i": 648,
+      "start": 4200.8,
+      "end": 4203.72,
+      "text": "available, the birds and the bees and the butterflies, they"
+    },
+    {
+      "i": 649,
+      "start": 4203.72,
+      "end": 4206.12,
+      "text": "bring in seeds, which are the settlers species."
+    },
+    {
+      "i": 650,
+      "start": 4206.12,
+      "end": 4208.68,
+      "text": "The Pioneers are there. The settlers come in, they"
+    },
+    {
+      "i": 651,
+      "start": 4208.72,
+      "end": 4212.44,
+      "text": "populate the forest. And once that comes, there is"
+    },
+    {
+      "i": 652,
+      "start": 4212.44,
+      "end": 4215.44,
+      "text": "more, you know, animal life coming in."
+    },
+    {
+      "i": 653,
+      "start": 4215.56,
+      "end": 4219.4,
+      "text": "And when that happens, you get the invasive form from a"
+    },
+    {
+      "i": 654,
+      "start": 4219.4,
+      "end": 4222.4,
+      "text": "distance, they start to come in and the invasive forms produce a"
+    },
+    {
+      "i": 655,
+      "start": 4222.4,
+      "end": 4225.92,
+      "text": "lot of biomass. And there's a lot of, you know,"
+    },
+    {
+      "i": 656,
+      "start": 4226.24,
+      "end": 4228.56,
+      "text": "material biomass, material available."
+    },
+    {
+      "i": 657,
+      "start": 4229.04,
+      "end": 4232.6,
+      "text": "And suddenly the fire starts. And when the fire comes, the"
+    },
+    {
+      "i": 658,
+      "start": 4232.6,
+      "end": 4236.48,
+      "text": "invasive forms, the settlers, even The Pioneers, they are all"
+    },
+    {
+      "i": 659,
+      "start": 4236.64,
+      "end": 4240.92,
+      "text": "razed to the ground. But The Pioneers will come back"
+    },
+    {
+      "i": 660,
+      "start": 4240.92,
+      "end": 4243.84,
+      "text": "again because they have the buds stored in the bottom and they"
+    },
+    {
+      "i": 661,
+      "start": 4243.84,
+      "end": 4247.36,
+      "text": "will rejuvenate the forest. And this cycle repeats itself."
+    },
+    {
+      "i": 662,
+      "start": 4247.88,
+      "end": 4250.56,
+      "text": "So it's a classic example that you're talking about."
+    },
+    {
+      "i": 663,
+      "start": 4250.56,
+      "end": 4254.56,
+      "text": "You know how the balance in nature?"
+    },
+    {
+      "i": 664,
+      "start": 4254.8,
+      "end": 4257.68,
+      "text": "Is is a very. Subtle thing when you don't look"
+    },
+    {
+      "i": 665,
+      "start": 4257.68,
+      "end": 4260.92,
+      "text": "at it carefully. Once you understand it, the fire"
+    },
+    {
+      "i": 666,
+      "start": 4260.92,
+      "end": 4264.12,
+      "text": "is not just simply a destructive form, it's a reset."
+    },
+    {
+      "i": 667,
+      "start": 4264.64,
+      "end": 4267.32,
+      "text": "That's a good example for the G. Yeah."
+    },
+    {
+      "i": 668,
+      "start": 4267.64,
+      "end": 4269.76,
+      "text": "Thank you for questions was explained."
+    },
+    {
+      "i": 669,
+      "start": 4272.92,
+      "end": 4277.56,
+      "text": "So Prakash, you have been taking that Q forward directly"
+    },
+    {
+      "i": 670,
+      "start": 4277.64,
+      "end": 4282.28,
+      "text": "following the question, there is a certain order that emerges."
+    },
+    {
+      "i": 671,
+      "start": 4283.48,
+      "end": 4286.52,
+      "text": "Hence it gives there is a certain balance kept."
+    },
+    {
+      "i": 672,
+      "start": 4287.76,
+      "end": 4293.6,
+      "text": "Now the the balance we talk about Dharma that gradually"
+    },
+    {
+      "i": 673,
+      "start": 4293.6,
+      "end": 4296.84,
+      "text": "decline. Here we are talking about"
+    },
+    {
+      "i": 674,
+      "start": 4296.84,
+      "end": 4305.32,
+      "text": "decline in a way that if some order is created, why would it"
+    },
+    {
+      "i": 675,
+      "start": 4305.32,
+      "end": 4309.16,
+      "text": "decline? Is that, you know, is that a"
+    },
+    {
+      "i": 676,
+      "start": 4309.16,
+      "end": 4314.88,
+      "text": "eternal order or an, you know, artificially emerged order which"
+    },
+    {
+      "i": 677,
+      "start": 4314.88,
+      "end": 4317.44,
+      "text": "is declining? Either eternal order declining"
+    },
+    {
+      "i": 678,
+      "start": 4317.44,
+      "end": 4323.28,
+      "text": "or the temporary, you know, interim order declining, which"
+    },
+    {
+      "i": 679,
+      "start": 4323.28,
+      "end": 4327.12,
+      "text": "is declining. External order can never"
+    },
+    {
+      "i": 680,
+      "start": 4327.12,
+      "end": 4329.8,
+      "text": "decline. Eternal order will be there."
+    },
+    {
+      "i": 681,
+      "start": 4329.92,
+      "end": 4333.64,
+      "text": "It's just from a total person. You have to zoom out to see it."
+    },
+    {
+      "i": 682,
+      "start": 4334.2,
+      "end": 4338.52,
+      "text": "But when you zoom in, you will see these temporary things which"
+    },
+    {
+      "i": 683,
+      "start": 4338.52,
+      "end": 4341.84,
+      "text": "will go into decline and rejuvenate again, things like"
+    },
+    {
+      "i": 684,
+      "start": 4341.84,
+      "end": 4349.28,
+      "text": "that. You're talking about that is"
+    },
+    {
+      "i": 685,
+      "start": 4349.28,
+      "end": 4353.32,
+      "text": "getting overshadowed. Is that eternal order getting"
+    },
+    {
+      "i": 686,
+      "start": 4353.32,
+      "end": 4356.56,
+      "text": "overshadowed? Tense further?"
+    },
+    {
+      "i": 687,
+      "start": 4357.2,
+      "end": 4361.2,
+      "text": "You know rejuvenation take place."
+    },
+    {
+      "i": 688,
+      "start": 4362.88,
+      "end": 4365.32,
+      "text": "What is getting overshadowed in that case?"
+    },
+    {
+      "i": 689,
+      "start": 4368.2,
+      "end": 4374.08,
+      "text": "Anything can get overshadowed if there is a decline in the, you"
+    },
+    {
+      "i": 690,
+      "start": 4374.08,
+      "end": 4378.32,
+      "text": "know, source on the order in which the nature has created it."
+    },
+    {
+      "i": 691,
+      "start": 4379.96,
+      "end": 4384.68,
+      "text": "That is where the the what I said the word excess if used by"
+    },
+    {
+      "i": 692,
+      "start": 4384.76,
+      "end": 4388.24,
+      "text": "I mean excess means overconsumption or"
+    },
+    {
+      "i": 693,
+      "start": 4388.24,
+      "end": 4391.36,
+      "text": "overindulgence or any other that type of thing."
+    },
+    {
+      "i": 694,
+      "start": 4391.36,
+      "end": 4397.08,
+      "text": "Excess is there, there will be bound to be a decline that is"
+    },
+    {
+      "i": 695,
+      "start": 4398.36,
+      "end": 4403.16,
+      "text": "irrespective of from the from the larger perspective or from"
+    },
+    {
+      "i": 696,
+      "start": 4403.16,
+      "end": 4407.52,
+      "text": "the micro perspective or macro perspective, both the places it"
+    },
+    {
+      "i": 697,
+      "start": 4407.52,
+      "end": 4412.8,
+      "text": "is equally applicable. That means eternal order is also"
+    },
+    {
+      "i": 698,
+      "start": 4412.8,
+      "end": 4417.36,
+      "text": "vulnerable. Yes, eternal order is not at a"
+    },
+    {
+      "i": 699,
+      "start": 4417.36,
+      "end": 4421.56,
+      "text": "tunnel in the sense it is eternal as long as it can"
+    },
+    {
+      "i": 700,
+      "start": 4421.56,
+      "end": 4426.12,
+      "text": "maintain that the order, otherwise it is not a tunnel."
+    },
+    {
+      "i": 701,
+      "start": 4430.52,
+      "end": 4433.72,
+      "text": "That is why, you know, you seem that we say, didn't we see that?"
+    },
+    {
+      "i": 702,
+      "start": 4434.32,
+      "end": 4439.0,
+      "text": "Were we in the Puranas? We say that Mahapralaya Pralaya,"
+    },
+    {
+      "i": 703,
+      "start": 4439.0,
+      "end": 4441.76,
+      "text": "ordinary Pralaya and the mahapralaya where the whole"
+    },
+    {
+      "i": 704,
+      "start": 4441.76,
+      "end": 4445.6,
+      "text": "thing is reset and it starts from the beginning again, they."
+    },
+    {
+      "i": 705,
+      "start": 4449.8,
+      "end": 4452.12,
+      "text": "Just have one more follow up, they can go ahead."
+    },
+    {
+      "i": 706,
+      "start": 4453.44,
+      "end": 4459.52,
+      "text": "So this whole Surjamya hum is also including name and form"
+    },
+    {
+      "i": 707,
+      "start": 4459.52,
+      "end": 4465.84,
+      "text": "domain for commoner to recognize it because it's a it's a mass"
+    },
+    {
+      "i": 708,
+      "start": 4465.84,
+      "end": 4470.72,
+      "text": "ignorance now set in it need a reset with an avatar."
+    },
+    {
+      "i": 709,
+      "start": 4472.2,
+      "end": 4476.72,
+      "text": "Is this now like character Krishnarama?"
+    },
+    {
+      "i": 710,
+      "start": 4477.6,
+      "end": 4481.44,
+      "text": "The manifest in the way everybody can understand?"
+    },
+    {
+      "i": 711,
+      "start": 4482.76,
+      "end": 4487.08,
+      "text": "Is this now covering entire domain including name and form?"
+    },
+    {
+      "i": 712,
+      "start": 4489.16,
+      "end": 4494.8,
+      "text": "No, in the sense even when Krishna gave the Gita to Arjuna,"
+    },
+    {
+      "i": 713,
+      "start": 4497.44,
+      "end": 4505.8,
+      "text": "the benefit of that teaching was for the generation after Arjuna"
+    },
+    {
+      "i": 714,
+      "start": 4505.8,
+      "end": 4511.96,
+      "text": "became the, what you call their, uh, winning the war."
+    },
+    {
+      "i": 715,
+      "start": 4512.6,
+      "end": 4516.36,
+      "text": "But those who were there in the battlefield, they were not"
+    },
+    {
+      "i": 716,
+      "start": 4516.36,
+      "end": 4518.16,
+      "text": "benefited because they didn't hear it."
+    },
+    {
+      "i": 717,
+      "start": 4518.64,
+      "end": 4520.6,
+      "text": "They were not eligible candidates for it."
+    },
+    {
+      "i": 718,
+      "start": 4520.6,
+      "end": 4522.76,
+      "text": "So they were not being able to listen to that."
+    },
+    {
+      "i": 719,
+      "start": 4523.24,
+      "end": 4529.52,
+      "text": "But Radrasah heard it through Sanjaya, but he was unable to"
+    },
+    {
+      "i": 720,
+      "start": 4529.52,
+      "end": 4532.76,
+      "text": "implement it because of his moha for his children."
+    },
+    {
+      "i": 721,
+      "start": 4533.16,
+      "end": 4538.92,
+      "text": "So he also, you know, became saddened by the death of his"
+    },
+    {
+      "i": 722,
+      "start": 4538.92,
+      "end": 4542.08,
+      "text": "children. So it is not that that knowledge"
+    },
+    {
+      "i": 723,
+      "start": 4542.08,
+      "end": 4548.68,
+      "text": "is going to save you, but how you implement that knowledge for"
+    },
+    {
+      "i": 724,
+      "start": 4548.68,
+      "end": 4554.0,
+      "text": "yourself. That is why Atmanam Srijami,"
+    },
+    {
+      "i": 725,
+      "start": 4554.64,
+      "end": 4558.88,
+      "text": "that word is important. The knowledge has to be"
+    },
+    {
+      "i": 726,
+      "start": 4561.36,
+      "end": 4567.48,
+      "text": "implemented, learnt to practice that perfected by every one of"
+    },
+    {
+      "i": 727,
+      "start": 4567.48,
+      "end": 4571.88,
+      "text": "us. Hearing it, listening, it will"
+    },
+    {
+      "i": 728,
+      "start": 4571.88,
+      "end": 4575.4,
+      "text": "not be. Don't think that it will save"
+    },
+    {
+      "i": 729,
+      "start": 4575.4,
+      "end": 4578.48,
+      "text": "you from that. No, the knowledge has to become"
+    },
+    {
+      "i": 730,
+      "start": 4578.48,
+      "end": 4582.84,
+      "text": "your part and parcel of yours. That way we have to, each one of"
+    },
+    {
+      "i": 731,
+      "start": 4582.84,
+      "end": 4590.64,
+      "text": "us have to invite the knowledge and make it as our Dharma."
+    },
+    {
+      "i": 732,
+      "start": 4591.44,
+      "end": 4599.64,
+      "text": "Then only the moksha can be, you know, a root of action which"
+    },
+    {
+      "i": 733,
+      "start": 4599.64,
+      "end": 4601.88,
+      "text": "Krishna will tell not in the next verse."
+    },
+    {
+      "i": 734,
+      "start": 4602.0,
+      "end": 4604.4,
+      "text": "The following verse he is telling the Pallasvudi."
+    },
+    {
+      "i": 735,
+      "start": 4604.96,
+      "end": 4606.88,
+      "text": "So that time I will be explaining this."
+    },
+    {
+      "i": 736,
+      "start": 4609.48,
+      "end": 4611.12,
+      "text": "It will be an infinite loop, yeah."
+    },
+    {
+      "i": 737,
+      "start": 4612.08,
+      "end": 4615.92,
+      "text": "Yeah. Nitze guru doesn't happen."
+    },
+    {
+      "i": 738,
+      "start": 4616.36,
+      "end": 4622.52,
+      "text": "Even the avatara become wasted avatara."
+    },
+    {
+      "i": 739,
+      "start": 4622.52,
+      "end": 4625.04,
+      "text": "Doesn't become. That's why avatara is not."
+    },
+    {
+      "i": 740,
+      "start": 4625.24,
+      "end": 4628.72,
+      "text": "You have to see it from both the bangles from macro and micro."
+    },
+    {
+      "i": 741,
+      "start": 4629.52,
+      "end": 4632.68,
+      "text": "That is where I said no. Every experience is an ITE guru"
+    },
+    {
+      "i": 742,
+      "start": 4633.04,
+      "end": 4636.96,
+      "text": "in a forest, so that is perpetually."
+    },
+    {
+      "i": 743,
+      "start": 4637.6,
+      "end": 4641.96,
+      "text": "The Avatara is happening in every experience for us."
+    },
+    {
+      "i": 744,
+      "start": 4650.01,
+      "end": 4651.89,
+      "text": "Banerjee, I think I'd like to Jay continue."
+    },
+    {
+      "i": 745,
+      "start": 4652.01,
+      "end": 4654.29,
+      "text": "Thanks Kanerjee. Thanks, Sangeet."
+    },
+    {
+      "i": 746,
+      "start": 4655.37,
+      "end": 4659.73,
+      "text": "I must say, Jay, hey. Banerjee, thank you for all the"
+    },
+    {
+      "i": 747,
+      "start": 4659.73,
+      "end": 4663.69,
+      "text": "inspiration. One question I always had from a"
+    },
+    {
+      "i": 748,
+      "start": 4663.69,
+      "end": 4669.13,
+      "text": "long time is Banerjee, this universal consciousness is the"
+    },
+    {
+      "i": 749,
+      "start": 4669.13,
+      "end": 4672.25,
+      "text": "only thing we can put us infinite in the sense it is like"
+    },
+    {
+      "i": 750,
+      "start": 4672.96,
+      "end": 4678.72,
+      "text": "unimaginably huge. Now about this Dharvas papana,"
+    },
+    {
+      "i": 751,
+      "start": 4678.72,
+      "end": 4682.72,
+      "text": "right? Whatever this Krishna speaks and"
+    },
+    {
+      "i": 752,
+      "start": 4682.72,
+      "end": 4684.64,
+      "text": "any of these visuals people speak."
+    },
+    {
+      "i": 753,
+      "start": 4685.2,
+      "end": 4687.56,
+      "text": "They. Bring some logical arguments and"
+    },
+    {
+      "i": 754,
+      "start": 4687.56,
+      "end": 4689.48,
+      "text": "all those things and they say hey, this is reality."
+    },
+    {
+      "i": 755,
+      "start": 4689.48,
+      "end": 4695.48,
+      "text": "And that is not now even a single cell, hey, in our body or"
+    },
+    {
+      "i": 756,
+      "start": 4695.48,
+      "end": 4698.92,
+      "text": "anywhere else. I believe it is such a hugely"
+    },
+    {
+      "i": 757,
+      "start": 4698.92,
+      "end": 4702.8,
+      "text": "complex phenomenon. It has it like million things"
+    },
+    {
+      "i": 758,
+      "start": 4702.8,
+      "end": 4708.72,
+      "text": "has to come correctly for even one single cell to survivor to"
+    },
+    {
+      "i": 759,
+      "start": 4708.72,
+      "end": 4711.56,
+      "text": "live. So a single cell, which is such"
+    },
+    {
+      "i": 760,
+      "start": 4711.56,
+      "end": 4715.32,
+      "text": "a complex thing, if this universe can run near the"
+    },
+    {
+      "i": 761,
+      "start": 4715.32,
+      "end": 4720.0,
+      "text": "infinite number of cells, I believe coming and explaining to"
+    },
+    {
+      "i": 762,
+      "start": 4720.0,
+      "end": 4724.68,
+      "text": "this currently 8 billion, eight billion humans that hey, look,"
+    },
+    {
+      "i": 763,
+      "start": 4725.32,
+      "end": 4729.96,
+      "text": "you don't go whatever they said, the universal consciousness for"
+    },
+    {
+      "i": 764,
+      "start": 4729.96,
+      "end": 4734.36,
+      "text": "it it is it will take the effort of coming at once to manage one"
+    },
+    {
+      "i": 765,
+      "start": 4734.36,
+      "end": 4738.64,
+      "text": "set one single cell of life. It is so."
+    },
+    {
+      "i": 766,
+      "start": 4738.64,
+      "end": 4741.24,
+      "text": "Easy for universal consciousness to come and tell these people,"
+    },
+    {
+      "i": 767,
+      "start": 4741.24,
+      "end": 4743.76,
+      "text": "hey this is Dharma. All of these idiots."
+    },
+    {
+      "i": 768,
+      "start": 4743.8,
+      "end": 4748.32,
+      "text": "Change yourself. I think it can come very easily"
+    },
+    {
+      "i": 769,
+      "start": 4748.32,
+      "end": 4753.36,
+      "text": "and in a day transform all these 8 billion mostly corrupt people."
+    },
+    {
+      "i": 770,
+      "start": 4753.72,
+      "end": 4757.72,
+      "text": "But I believe the other story is that, hey, this is my this is"
+    },
+    {
+      "i": 771,
+      "start": 4757.72,
+      "end": 4760.04,
+      "text": "intentional drama. This has to happen."
+    },
+    {
+      "i": 772,
+      "start": 4760.04,
+      "end": 4763.6,
+      "text": "There is so many inefficiencies in this world, in humanity and"
+    },
+    {
+      "i": 773,
+      "start": 4763.6,
+      "end": 4766.16,
+      "text": "all those things. The universal power is"
+    },
+    {
+      "i": 774,
+      "start": 4766.16,
+      "end": 4770.24,
+      "text": "intentionally allowing this drama to happen for whatever fun"
+    },
+    {
+      "i": 775,
+      "start": 4770.24,
+      "end": 4775.24,
+      "text": "reason, right? So is the universe allowing the"
+    },
+    {
+      "i": 776,
+      "start": 4775.24,
+      "end": 4779.2,
+      "text": "structure and pain and suffering to continue for fun?"
+    },
+    {
+      "i": 777,
+      "start": 4779.68,
+      "end": 4783.84,
+      "text": "Because I believe if it intends in one day, it can come and"
+    },
+    {
+      "i": 778,
+      "start": 4783.84,
+      "end": 4789.0,
+      "text": "solve with very small effort. So I can't comprehend these two"
+    },
+    {
+      "i": 779,
+      "start": 4789.0,
+      "end": 4792.36,
+      "text": "points of human energy. Yeah, very well said."
+    },
+    {
+      "i": 780,
+      "start": 4794.48,
+      "end": 4801.24,
+      "text": "Your question of all these indent or the reason behind"
+    },
+    {
+      "i": 781,
+      "start": 4801.24,
+      "end": 4806.8,
+      "text": "these things, whether it is a play or Maya or imagination or"
+    },
+    {
+      "i": 782,
+      "start": 4807.24,
+      "end": 4815.04,
+      "text": "this all this thing is because we are having a space-time"
+    },
+    {
+      "i": 783,
+      "start": 4815.04,
+      "end": 4817.52,
+      "text": "causation. The word causation is more"
+    },
+    {
+      "i": 784,
+      "start": 4817.52,
+      "end": 4824.12,
+      "text": "important only for our waking things which happen in the"
+    },
+    {
+      "i": 785,
+      "start": 4824.12,
+      "end": 4826.32,
+      "text": "dream. We never think about the"
+    },
+    {
+      "i": 786,
+      "start": 4826.32,
+      "end": 4827.84,
+      "text": "causation. What cost?"
+    },
+    {
+      "i": 787,
+      "start": 4828.36,
+      "end": 4833.24,
+      "text": "That dream to happen or what caused me to be in the deep"
+    },
+    {
+      "i": 788,
+      "start": 4833.24,
+      "end": 4836.68,
+      "text": "sleep. These are the type of a question"
+    },
+    {
+      "i": 789,
+      "start": 4836.72,
+      "end": 4841.12,
+      "text": "doesn't arise for us at all. We take it for granted that it"
+    },
+    {
+      "i": 790,
+      "start": 4841.12,
+      "end": 4845.64,
+      "text": "is it is part of the you know, daily routine."
+    },
+    {
+      "i": 791,
+      "start": 4846.36,
+      "end": 4849.6,
+      "text": "We're going to day king dream and deep sleep is our routine."
+    },
+    {
+      "i": 792,
+      "start": 4850.72,
+      "end": 4853.68,
+      "text": "But whatever happens in the waking, we need to find a"
+    },
+    {
+      "i": 793,
+      "start": 4853.68,
+      "end": 4856.28,
+      "text": "causation for it. Why did it happen?"
+    },
+    {
+      "i": 794,
+      "start": 4856.28,
+      "end": 4859.84,
+      "text": "Where did it happen? Why when all these questions"
+    },
+    {
+      "i": 795,
+      "start": 4859.84,
+      "end": 4864.4,
+      "text": "which we ask is only when we have a time, space and"
+    },
+    {
+      "i": 796,
+      "start": 4864.4,
+      "end": 4867.64,
+      "text": "conversation as our controlling factors."
+    },
+    {
+      "i": 797,
+      "start": 4868.56,
+      "end": 4874.6,
+      "text": "Now that which is beyond the time, space and causation, we"
+    },
+    {
+      "i": 798,
+      "start": 4874.6,
+      "end": 4881.68,
+      "text": "cannot even imagine with, as you rightly said, this whole world"
+    },
+    {
+      "i": 799,
+      "start": 4883.72,
+      "end": 4889.12,
+      "text": "from microcellular to the largest imaginable thing of"
+    },
+    {
+      "i": 800,
+      "start": 4889.12,
+      "end": 4893.64,
+      "text": "galaxies etcetera, in the cosmos itself, whole universe itself,"
+    },
+    {
+      "i": 801,
+      "start": 4895.32,
+      "end": 4900.48,
+      "text": "where is it? Why is it all these questions"
+    },
+    {
+      "i": 802,
+      "start": 4900.48,
+      "end": 4908.36,
+      "text": "can never be asked to that total picture because the worst"
+    },
+    {
+      "i": 803,
+      "start": 4908.36,
+      "end": 4912.88,
+      "text": "picture and the whole thing microcellular to the universe"
+    },
+    {
+      "i": 804,
+      "start": 4914.0,
+      "end": 4916.84,
+      "text": "east and knowledge which is in our waking error."
+    },
+    {
+      "i": 805,
+      "start": 4919.2,
+      "end": 4924.52,
+      "text": "So we are asking these questions of why these things are"
+    },
+    {
+      "i": 806,
+      "start": 4924.52,
+      "end": 4928.36,
+      "text": "happening. All the all the questions are"
+    },
+    {
+      "i": 807,
+      "start": 4928.48,
+      "end": 4934.68,
+      "text": "related into the waking. What happens is that we now try"
+    },
+    {
+      "i": 808,
+      "start": 4934.68,
+      "end": 4940.24,
+      "text": "to extrapolate the waking as the total reality for the entire"
+    },
+    {
+      "i": 809,
+      "start": 4941.44,
+      "end": 4945.04,
+      "text": "experiences of including dream and deep sleep."
+    },
+    {
+      "i": 810,
+      "start": 4945.6,
+      "end": 4949.12,
+      "text": "Then we ask for them, but we do not ask why."
+    },
+    {
+      "i": 811,
+      "start": 4949.64,
+      "end": 4953.48,
+      "text": "Why do I go to sleep or why do I dream?"
+    },
+    {
+      "i": 812,
+      "start": 4954.92,
+      "end": 4966.64,
+      "text": "Do you ask that question? No."
+    },
+    {
+      "i": 813,
+      "start": 4966.76,
+      "end": 4969.6,
+      "text": "You do not. Yeah, I do not."
+    },
+    {
+      "i": 814,
+      "start": 4970.44,
+      "end": 4975.04,
+      "text": "Yes, that is why the why cannot be answered, because we are"
+    },
+    {
+      "i": 815,
+      "start": 4975.08,
+      "end": 4981.36,
+      "text": "inside that system where the why is has to be outside that a part"
+    },
+    {
+      "i": 816,
+      "start": 4981.36,
+      "end": 4986.12,
+      "text": "cannot know. Why am I made of mud?"
+    },
+    {
+      "i": 817,
+      "start": 4987.72,
+      "end": 4990.4,
+      "text": "Because it is already become a pot made of mud."
+    },
+    {
+      "i": 818,
+      "start": 4990.76,
+      "end": 4993.16,
+      "text": "So it cannot ask why am I made of pot?"
+    },
+    {
+      "i": 819,
+      "start": 4994.56,
+      "end": 4998.36,
+      "text": "So that if it has to be question as to have be asked, it has to"
+    },
+    {
+      "i": 820,
+      "start": 4998.36,
+      "end": 5002.6,
+      "text": "be outside that should I make the pot with mud or should I"
+    },
+    {
+      "i": 821,
+      "start": 5002.6,
+      "end": 5006.44,
+      "text": "make it with the glass? That question can happen only"
+    },
+    {
+      "i": 822,
+      "start": 5006.44,
+      "end": 5010.88,
+      "text": "when it is not a pot outside. But once it has become a pot"
+    },
+    {
+      "i": 823,
+      "start": 5011.28,
+      "end": 5015.56,
+      "text": "with mud, it cannot ask the question why am I mud?"
+    },
+    {
+      "i": 824,
+      "start": 5016.44,
+      "end": 5020.4,
+      "text": "Something similar. We cannot ask why, when we are"
+    },
+    {
+      "i": 825,
+      "start": 5020.4,
+      "end": 5026.0,
+      "text": "already inside a system about the why did that system itself"
+    },
+    {
+      "i": 826,
+      "start": 5026.0,
+      "end": 5038.79,
+      "text": "come into existence? OK, Binduji, now to extend that"
+    },
+    {
+      "i": 827,
+      "start": 5038.79,
+      "end": 5043.63,
+      "text": "question. Either way, see if this universe"
+    },
+    {
+      "i": 828,
+      "start": 5043.95,
+      "end": 5053.0,
+      "text": "never ever comes to this this world and upper Dharma and never"
+    },
+    {
+      "i": 829,
+      "start": 5053.0,
+      "end": 5056.8,
+      "text": "ever pointed anything, then OK, all of us would have been lived"
+    },
+    {
+      "i": 830,
+      "start": 5056.8,
+      "end": 5059.6,
+      "text": "a painful life suffering. So I mean some happiness, some"
+    },
+    {
+      "i": 831,
+      "start": 5059.6,
+      "end": 5061.44,
+      "text": "suffering somehow. We would have."
+    },
+    {
+      "i": 832,
+      "start": 5061.56,
+      "end": 5064.08,
+      "text": "Burned, lived, pain, happiness and all."
+    },
+    {
+      "i": 833,
+      "start": 5064.08,
+      "end": 5065.68,
+      "text": "You would have died. That is one track."
+    },
+    {
+      "i": 834,
+      "start": 5066.6,
+      "end": 5070.44,
+      "text": "Uh, but uh. Instead of that somewhere this"
+    },
+    {
+      "i": 835,
+      "start": 5070.44,
+      "end": 5074.36,
+      "text": "is like they're showing the trial of those things, you know,"
+    },
+    {
+      "i": 836,
+      "start": 5074.72,
+      "end": 5078.32,
+      "text": "like the movie, the trial, they show like that little bit,"
+    },
+    {
+      "i": 837,
+      "start": 5078.32,
+      "end": 5080.8,
+      "text": "little bit somewhere once in thousand years, once in 100"
+    },
+    {
+      "i": 838,
+      "start": 5080.8,
+      "end": 5085.44,
+      "text": "years, this wholeness comes into take some forms and then explain"
+    },
+    {
+      "i": 839,
+      "start": 5085.44,
+      "end": 5088.16,
+      "text": "to that like, you know, small, small sample, sample."
+    },
+    {
+      "i": 840,
+      "start": 5088.56,
+      "end": 5093.2,
+      "text": "This universe is giving, getting fully knowledge also and it is"
+    },
+    {
+      "i": 841,
+      "start": 5093.2,
+      "end": 5095.4,
+      "text": "not allowing us to live a torturous life also."
+    },
+    {
+      "i": 842,
+      "start": 5095.44,
+      "end": 5097.92,
+      "text": "Somewhere in the middle, little bit light, little bit light it"
+    },
+    {
+      "i": 843,
+      "start": 5097.92,
+      "end": 5104.04,
+      "text": "gives and then we we are like those like that bugs which"
+    },
+    {
+      "i": 844,
+      "start": 5104.04,
+      "end": 5107.12,
+      "text": "follow, I mean rotate around the lights till they die."
+    },
+    {
+      "i": 845,
+      "start": 5107.56,
+      "end": 5111.32,
+      "text": "They are like showing this little bit small sample and then"
+    },
+    {
+      "i": 846,
+      "start": 5111.32,
+      "end": 5113.48,
+      "text": "struggle sample struggle is happening."
+    },
+    {
+      "i": 847,
+      "start": 5113.96,
+      "end": 5119.32,
+      "text": "This is what I am with. It's funny for sure, but this is"
+    },
+    {
+      "i": 848,
+      "start": 5119.32,
+      "end": 5122.16,
+      "text": "how it is. It's all for fun only."
+    },
+    {
+      "i": 849,
+      "start": 5128.44,
+      "end": 5136.48,
+      "text": "We cannot say why and the fun part of it because we are part"
+    },
+    {
+      "i": 850,
+      "start": 5136.48,
+      "end": 5140.92,
+      "text": "of the play. That is why from that point of"
+    },
+    {
+      "i": 851,
+      "start": 5140.92,
+      "end": 5147.4,
+      "text": "view we cannot see it unless that is why I said we have to"
+    },
+    {
+      "i": 852,
+      "start": 5148.76,
+      "end": 5153.24,
+      "text": "move out as the witness to know the waking dream and deeply."
+    },
+    {
+      "i": 853,
+      "start": 5153.24,
+      "end": 5161.36,
+      "text": "Same way we have to move out of the system which we are already"
+    },
+    {
+      "i": 854,
+      "start": 5161.36,
+      "end": 5165.32,
+      "text": "into it. Then only we can know the why"
+    },
+    {
+      "i": 855,
+      "start": 5165.32,
+      "end": 5169.32,
+      "text": "the system, how the system is working, how the is it a play or"
+    },
+    {
+      "i": 856,
+      "start": 5169.32,
+      "end": 5173.04,
+      "text": "is it a genuine creation or is it they are real?"
+    },
+    {
+      "i": 857,
+      "start": 5173.44,
+      "end": 5176.16,
+      "text": "What is the reality, the truth? What is the truth?"
+    },
+    {
+      "i": 858,
+      "start": 5176.56,
+      "end": 5179.36,
+      "text": "How do we know when we are already become something?"
+    },
+    {
+      "i": 859,
+      "start": 5179.36,
+      "end": 5182.44,
+      "text": "And inside that, from that point of view, we cannot look"
+    },
+    {
+      "i": 860,
+      "start": 5183.52,
+      "end": 5187.36,
+      "text": "backward. We are the karia or the effect."
+    },
+    {
+      "i": 861,
+      "start": 5188.16,
+      "end": 5193.36,
+      "text": "The cause can be known only if we are neither the cause nor the"
+    },
+    {
+      "i": 862,
+      "start": 5193.64,
+      "end": 5195.8,
+      "text": "effect. We have to be separate from"
+    },
+    {
+      "i": 863,
+      "start": 5195.8,
+      "end": 5198.12,
+      "text": "them. Tabio Vilakshana, Sachi,"
+    },
+    {
+      "i": 864,
+      "start": 5198.2,
+      "end": 5202.8,
+      "text": "Chinmath, Rohan Sadashiva. If you become that that witness"
+    },
+    {
+      "i": 865,
+      "start": 5203.32,
+      "end": 5207.88,
+      "text": "which is beyond the waking dream and deep sleep then you can know"
+    },
+    {
+      "i": 866,
+      "start": 5207.96,
+      "end": 5210.84,
+      "text": "what is happening in waking, what is happening in dream, what"
+    },
+    {
+      "i": 867,
+      "start": 5210.84,
+      "end": 5214.0,
+      "text": "is happening in deep sleep as a witness."
+    },
+    {
+      "i": 868,
+      "start": 5214.56,
+      "end": 5219.24,
+      "text": "But when you are in waking you are trying to do is you will not"
+    },
+    {
+      "i": 869,
+      "start": 5219.24,
+      "end": 5220.76,
+      "text": "be able to see the whole picture."
+    },
+    {
+      "i": 870,
+      "start": 5224.84,
+      "end": 5227.56,
+      "text": "Thanks Bindaji. Actually you're only today,"
+    },
+    {
+      "i": 871,
+      "start": 5227.56,
+      "end": 5231.24,
+      "text": "first time I'm answering you're using this word systems, for"
+    },
+    {
+      "i": 872,
+      "start": 5231.24,
+      "end": 5236.08,
+      "text": "which I'm very happy because like around like 7-8 years ago I"
+    },
+    {
+      "i": 873,
+      "start": 5236.08,
+      "end": 5241.04,
+      "text": "read this Goldel's incompleteness theorems that he"
+    },
+    {
+      "i": 874,
+      "start": 5241.04,
+      "end": 5245.96,
+      "text": "simply says you cannot. It is mathematically impossible"
+    },
+    {
+      "i": 875,
+      "start": 5245.96,
+      "end": 5247.92,
+      "text": "to prove the system from inside the system."
+    },
+    {
+      "i": 876,
+      "start": 5248.76,
+      "end": 5251.76,
+      "text": "Yes, I do not understood the statement, but that's what this"
+    },
+    {
+      "i": 877,
+      "start": 5251.76,
+      "end": 5253.48,
+      "text": "guy said. And even Einstein and the"
+    },
+    {
+      "i": 878,
+      "start": 5253.48,
+      "end": 5255.48,
+      "text": "greatest scientists and all they agree."
+    },
+    {
+      "i": 879,
+      "start": 5255.48,
+      "end": 5258.28,
+      "text": "Yeah, yeah, this is correct. So I don't have this thing, but"
+    },
+    {
+      "i": 880,
+      "start": 5258.52,
+      "end": 5262.28,
+      "text": "this statement I like. So whatever drama happens inside"
+    },
+    {
+      "i": 881,
+      "start": 5262.28,
+      "end": 5265.0,
+      "text": "the drama, there is no way. For the actor."
+    },
+    {
+      "i": 882,
+      "start": 5265.08,
+      "end": 5267.68,
+      "text": "To know the purpose or the implications of this whole drama"
+    },
+    {
+      "i": 883,
+      "start": 5267.68,
+      "end": 5271.72,
+      "text": "that can be seen by outside or whoever is running the show."
+    },
+    {
+      "i": 884,
+      "start": 5271.72,
+      "end": 5275.32,
+      "text": "Only so can you. I mean, have you read this"
+    },
+    {
+      "i": 885,
+      "start": 5275.32,
+      "end": 5280.0,
+      "text": "Godel's incompleteness theorem? Deluji did it also like you"
+    },
+    {
+      "i": 886,
+      "start": 5280.0,
+      "end": 5281.52,
+      "text": "know. No, I don't."
+    },
+    {
+      "i": 887,
+      "start": 5281.52,
+      "end": 5285.56,
+      "text": "No, OK. Fine, fine, OK, But you"
+    },
+    {
+      "i": 888,
+      "start": 5285.56,
+      "end": 5288.04,
+      "text": "completely agree with the statement that you cannot prove"
+    },
+    {
+      "i": 889,
+      "start": 5288.04,
+      "end": 5289.84,
+      "text": "the system from inside the system."
+    },
+    {
+      "i": 890,
+      "start": 5290.68,
+      "end": 5298.84,
+      "text": "Yes, that is true. OK, so from inside the system it"
+    },
+    {
+      "i": 891,
+      "start": 5298.84,
+      "end": 5302.88,
+      "text": "is like impossible for us to know why is the system like this"
+    },
+    {
+      "i": 892,
+      "start": 5303.28,
+      "end": 5311.44,
+      "text": "other than this system OK? But you can ask generally, you"
+    },
+    {
+      "i": 893,
+      "start": 5311.44,
+      "end": 5313.24,
+      "text": "can ask how. How can we ask?"
+    },
+    {
+      "i": 894,
+      "start": 5313.24,
+      "end": 5319.2,
+      "text": "Why cannot how? How does it work?"
+    },
+    {
+      "i": 895,
+      "start": 5319.56,
+      "end": 5323.12,
+      "text": "Because that's where I think we try to explain our work, right?"
+    },
+    {
+      "i": 896,
+      "start": 5324.76,
+      "end": 5328.6,
+      "text": "How does it work? Also we cannot say if we are"
+    },
+    {
+      "i": 897,
+      "start": 5328.6,
+      "end": 5333.8,
+      "text": "inside the system. We can know part of the system"
+    },
+    {
+      "i": 898,
+      "start": 5333.92,
+      "end": 5337.36,
+      "text": "but not the total of the system. Yes."
+    },
+    {
+      "i": 899,
+      "start": 5342.44,
+      "end": 5344.08,
+      "text": "Correct. We."
+    },
+    {
+      "i": 900,
+      "start": 5344.4,
+      "end": 5347.2,
+      "text": "Should know the system. Inside the system we should know"
+    },
+    {
+      "i": 901,
+      "start": 5347.2,
+      "end": 5349.76,
+      "text": "little bit because the period for survey one."
+    },
+    {
+      "i": 902,
+      "start": 5350.92,
+      "end": 5351.88,
+      "text": "That's it. That's what I said."
+    },
+    {
+      "i": 903,
+      "start": 5352.24,
+      "end": 5355.4,
+      "text": "Partly we can know, but not the total system."
+    },
+    {
+      "i": 904,
+      "start": 5358.32,
+      "end": 5362.0,
+      "text": "Another related thing from science background, I want to"
+    },
+    {
+      "i": 905,
+      "start": 5362.0,
+      "end": 5365.16,
+      "text": "add also this Beltran result guy."
+    },
+    {
+      "i": 906,
+      "start": 5365.32,
+      "end": 5369.48,
+      "text": "He's a very well respected mathematician and he wrote like,"
+    },
+    {
+      "i": 907,
+      "start": 5369.48,
+      "end": 5373.6,
+      "text": "you know, 1000 plus page of on many, many things, including"
+    },
+    {
+      "i": 908,
+      "start": 5373.64,
+      "end": 5378.48,
+      "text": "just adding 1 + 1. And then somebody asked him some"
+    },
+    {
+      "i": 909,
+      "start": 5378.76,
+      "end": 5381.52,
+      "text": "basic question about like a something like this, like, you"
+    },
+    {
+      "i": 910,
+      "start": 5381.52,
+      "end": 5387.52,
+      "text": "know, can you prove any like even the axiom, the fundamental"
+    },
+    {
+      "i": 911,
+      "start": 5387.52,
+      "end": 5391.2,
+      "text": "thing, can you prove? Then he tried it and he failed."
+    },
+    {
+      "i": 912,
+      "start": 5391.2,
+      "end": 5393.92,
+      "text": "And the pattern result, who is also a philosopher and a"
+    },
+    {
+      "i": 913,
+      "start": 5393.92,
+      "end": 5398.32,
+      "text": "mathematician, he burned his thousand stage mathematical"
+    },
+    {
+      "i": 914,
+      "start": 5398.32,
+      "end": 5401.2,
+      "text": "treaties because the the fundamental thing, you have to"
+    },
+    {
+      "i": 915,
+      "start": 5401.2,
+      "end": 5404.04,
+      "text": "start with some axioms. You cannot prove the fundamental"
+    },
+    {
+      "i": 916,
+      "start": 5404.04,
+      "end": 5407.2,
+      "text": "thing, is what I read many, many years ago."
+    },
+    {
+      "i": 917,
+      "start": 5408.36,
+      "end": 5411.36,
+      "text": "That's right, you have assumptions."
+    },
+    {
+      "i": 918,
+      "start": 5411.36,
+      "end": 5416.68,
+      "text": "No, you have to hypothesis. When based on certain hypothesis"
+    },
+    {
+      "i": 919,
+      "start": 5416.68,
+      "end": 5422.24,
+      "text": "only we proceed for finding a solution and in the end we will"
+    },
+    {
+      "i": 920,
+      "start": 5422.24,
+      "end": 5427.72,
+      "text": "find either the hypothesis are right or wrong but never we will"
+    },
+    {
+      "i": 921,
+      "start": 5427.72,
+      "end": 5433.28,
+      "text": "be able to say that why the hypothesis only."
+    },
+    {
+      "i": 922,
+      "start": 5433.84,
+      "end": 5438.0,
+      "text": "You know that the only one hypothesis we took we could have"
+    },
+    {
+      "i": 923,
+      "start": 5438.0,
+      "end": 5442.0,
+      "text": "taken million hypothesis. We will not be able to proceed"
+    },
+    {
+      "i": 924,
+      "start": 5442.0,
+      "end": 5446.28,
+      "text": "anywhere with that is the thing. So basically we start with one"
+    },
+    {
+      "i": 925,
+      "start": 5446.28,
+      "end": 5450.76,
+      "text": "hypothesis, go through the whole equation, and then when we find"
+    },
+    {
+      "i": 926,
+      "start": 5450.76,
+      "end": 5453.24,
+      "text": "that equation, that hypothesis is right."
+    },
+    {
+      "i": 927,
+      "start": 5454.44,
+      "end": 5458.56,
+      "text": "Either X will be 0 or X will have a value, right?"
+    },
+    {
+      "i": 928,
+      "start": 5459.0,
+      "end": 5462.16,
+      "text": "That is how we we had been doing mathematics."
+    },
+    {
+      "i": 929,
+      "start": 5462.16,
+      "end": 5466.04,
+      "text": "That is the basic method. But then when you go to advanced"
+    },
+    {
+      "i": 930,
+      "start": 5466.04,
+      "end": 5469.0,
+      "text": "mathematics, the things, the, the methodology itself is"
+    },
+    {
+      "i": 931,
+      "start": 5469.0,
+      "end": 5474.28,
+      "text": "different. This these equations are not"
+    },
+    {
+      "i": 932,
+      "start": 5474.76,
+      "end": 5482.92,
+      "text": "operational at that level. The the more we know, the less"
+    },
+    {
+      "i": 933,
+      "start": 5483.2,
+      "end": 5487.08,
+      "text": "we will understand that. So only the only very little I"
+    },
+    {
+      "i": 934,
+      "start": 5487.08,
+      "end": 5493.8,
+      "text": "know. OK."
+    },
+    {
+      "i": 935,
+      "start": 5493.8,
+      "end": 5494.6,
+      "text": "Thanks. Thank you."
+    },
+    {
+      "i": 936,
+      "start": 5494.76,
+      "end": 5498.56,
+      "text": "OK, right. Thank you for that, Prakash."
+    },
+    {
+      "i": 937,
+      "start": 5499.24,
+      "end": 5502.28,
+      "text": "Yes, thank you, Vindoji. Thanks everyone for attending"
+    },
+    {
+      "i": 938,
+      "start": 5502.28,
+      "end": 5505.2,
+      "text": "the session and for those who came up and asked the questions,"
+    },
+    {
+      "i": 939,
+      "start": 5505.2,
+      "end": 5508.6,
+      "text": "a special thank you. The replays again are available."
+    },
+    {
+      "i": 940,
+      "start": 5508.68,
+      "end": 5511.6,
+      "text": "The immediate ones are available in Clubhouse, the 1:00 today."
+    },
+    {
+      "i": 941,
+      "start": 5513.12,
+      "end": 5517.28,
+      "text": "All the other series of lectures leading to this is available on"
+    },
+    {
+      "i": 942,
+      "start": 5517.28,
+      "end": 5519.92,
+      "text": "the YouTube channel Advisor Read, hold, or you can go to"
+    },
+    {
+      "i": 943,
+      "start": 5519.96,
+      "end": 5522.64,
+      "text": "Spotify in the Apple podcast, share in the chat."
+    },
+    {
+      "i": 944,
+      "start": 5523.96,
+      "end": 5528.72,
+      "text": "And tomorrow we'll reconvene at 8:30 PM IST, where Vindoji will"
+    },
+    {
+      "i": 945,
+      "start": 5529.2,
+      "end": 5534.16,
+      "text": "take us deeper into this. Ishwara, as always, thank you."
+    },
+    {
+      "i": 946,
+      "start": 5534.16,
+      "end": 5539.04,
+      "text": "Vindoji go to you. Thank you, Prakash, Venkat and"
+    },
+    {
+      "i": 947,
+      "start": 5539.04,
+      "end": 5542.56,
+      "text": "Jay for your questions and thank you all for being there"
+    },
+    {
+      "i": 948,
+      "start": 5542.84,
+      "end": 5546.96,
+      "text": "listening to me. We'll continue there next to us."
+    },
+    {
+      "i": 949,
+      "start": 5547.12,
+      "end": 5549.24,
+      "text": "This is part of this continuation."
+    },
+    {
+      "i": 950,
+      "start": 5549.96,
+      "end": 5551.32,
+      "text": "Are you? Good night."
+    },
+    {
+      "i": 951,
+      "start": 5552.56,
+      "end": 5553.36,
+      "text": "Are you good night?"
+    }
+  ]
+}

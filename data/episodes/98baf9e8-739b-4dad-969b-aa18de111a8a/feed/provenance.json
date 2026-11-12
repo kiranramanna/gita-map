@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "98baf9e8-739b-4dad-969b-aa18de111a8a",
+  "title": "Ch04-21-Shrimad Bhagavad Gita",
+  "pubDate": "Thu, 23 Apr 2026 00:25:01 GMT",
+  "duration": "01:21:58",
+  "description": "Shrimad Bhagavad Gita Chapter 04 verse 24 Part 1",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch04-21-Shrimad-Bhagavad-Gita-e3ialjt",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/44SHUvp8hIzfZVF7E08qgH/transcript.srt",
+  "fetched_at": "2026-11-09T22:07:40Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 74358,
+  "sha256": "afddab13a604aa6fa2bc0d879e1c656e22aa79707054d49d5d547c5df94e03dc",
+  "cue_count": 844,
+  "first_cue_start": "00:00:00,200",
+  "last_cue_end": "01:21:48,880",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}

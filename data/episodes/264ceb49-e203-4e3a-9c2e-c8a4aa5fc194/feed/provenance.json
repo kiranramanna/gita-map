@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "264ceb49-e203-4e3a-9c2e-c8a4aa5fc194",
+  "title": "Ch04-15-Shrimad Bhagavad Gita",
+  "pubDate": "Wed, 15 Apr 2026 00:18:39 GMT",
+  "duration": "01:32:43",
+  "description": "Shrimad Bhagavad Gita Chapter 04 verse 18",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch04-15-Shrimad-Bhagavad-Gita-e3hu0am",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/6V7rInq9hjJFtmLz0a1u55/transcript.srt",
+  "fetched_at": "2026-11-09T22:07:51Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 81151,
+  "sha256": "ecf891e13788ba7ca7fc3c80eb5950e9c3a1add61a8c5a56edb646160f4f3cae",
+  "cue_count": 914,
+  "first_cue_start": "00:00:00,160",
+  "last_cue_end": "01:32:36,000",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}

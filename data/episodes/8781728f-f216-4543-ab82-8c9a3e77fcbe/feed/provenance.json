@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "8781728f-f216-4543-ab82-8c9a3e77fcbe",
+  "title": "Ch03-21-Shrimad Bhagavad Gita",
+  "pubDate": "Tue, 24 Mar 2026 00:41:50 GMT",
+  "duration": "01:37:42",
+  "description": "Shrimad Bhagavad Gita Chapter 03 verses 42 & 43",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch03-21-Shrimad-Bhagavad-Gita-e3gsm0o",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/5WcHODvcc96yb8bzh0RI5z/transcript.srt",
+  "fetched_at": "2026-11-09T22:08:20Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 94903,
+  "sha256": "32f84738fecf167c9ffcdb9b11ef919da9cd98faf7b9cef50f6a6c96b972f759",
+  "cue_count": 1074,
+  "first_cue_start": "00:00:00,280",
+  "last_cue_end": "01:37:33,480",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}

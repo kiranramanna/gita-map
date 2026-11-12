@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "2c48e9c6-2578-4fe7-9dc3-96eb53bdf554",
+  "title": "Ch04-17-Shrimad Bhagavad Gita",
+  "pubDate": "Thu, 16 Apr 2026 23:39:46 GMT",
+  "duration": "01:05:38",
+  "description": "Shrimad Bhagavad Gita Chapter 04 verses 19 & 20",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch04-17-Shrimad-Bhagavad-Gita-e3i17lf",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/7lbl7FnMAY2j1AiuQH5S2t/transcript.srt",
+  "fetched_at": "2026-11-09T22:07:47Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 58957,
+  "sha256": "2c8db4a11a77b7b2af308c20ed51e02141bbcb9a5aee509300698ceb55f127a1",
+  "cue_count": 656,
+  "first_cue_start": "00:00:02,400",
+  "last_cue_end": "01:05:30,880",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}

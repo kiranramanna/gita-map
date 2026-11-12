@@ -1,0 +1,5953 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "69541862-fb4f-41c3-9551-5a69830039d3",
+  "source_sha256": "023e5df334eb637d4d5039060be3d21e85f93f26cc34bfd1ca2c85691643a0d6",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.4,
+      "end": 3.64,
+      "text": "I must say everyone welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 5.04,
+      "end": 9.8,
+      "text": "The ongoing sessions are on Bhagwat Gita Advaita perspective"
+    },
+    {
+      "i": 3,
+      "start": 9.8,
+      "end": 12.28,
+      "text": "offered by Binduji here on chapter 4."
+    },
+    {
+      "i": 4,
+      "start": 14.08,
+      "end": 16.44,
+      "text": "Mainly the topic is Karma Vichara."
+    },
+    {
+      "i": 5,
+      "start": 18.2,
+      "end": 20.32,
+      "text": "Days of the earlier rooms are available."
+    },
+    {
+      "i": 6,
+      "start": 20.32,
+      "end": 24.88,
+      "text": "You can access them in clubhouse, in the house or you"
+    },
+    {
+      "i": 7,
+      "start": 24.88,
+      "end": 26.52,
+      "text": "could go to the YouTube. Channel."
+    },
+    {
+      "i": 8,
+      "start": 26.76,
+      "end": 30.0,
+      "text": "Link shared in the chat Advaita retold."
+    },
+    {
+      "i": 9,
+      "start": 31.0,
+      "end": 34.56,
+      "text": "There are two other links for Apple Podcast and Spotify where"
+    },
+    {
+      "i": 10,
+      "start": 34.56,
+      "end": 39.64,
+      "text": "you can access these stocks too. There's also a book available on"
+    },
+    {
+      "i": 11,
+      "start": 39.64,
+      "end": 44.16,
+      "text": "Amazon which is penned by Artemisia based on Bindoji's"
+    },
+    {
+      "i": 12,
+      "start": 44.16,
+      "end": 47.88,
+      "text": "insights into Advaita in the earlier discussions."
+    },
+    {
+      "i": 13,
+      "start": 48.68,
+      "end": 52.68,
+      "text": "So for housekeeping I'll go. I'll close the chat and hand"
+    },
+    {
+      "i": 14,
+      "start": 52.68,
+      "end": 56.28,
+      "text": "raising when Bindoji is conducting the class, after"
+    },
+    {
+      "i": 15,
+      "start": 56.28,
+      "end": 60.24,
+      "text": "which we'll open the channels for any further discussion for"
+    },
+    {
+      "i": 16,
+      "start": 60.24,
+      "end": 64.0,
+      "text": "about half an hour or so. So always thank you Bindoji,"
+    },
+    {
+      "i": 17,
+      "start": 64.0,
+      "end": 68.8,
+      "text": "over to you. Thank you, Prakash Namastey and"
+    },
+    {
+      "i": 18,
+      "start": 68.8,
+      "end": 72.84,
+      "text": "welcome to all of you. Let me do my invocation."
+    },
+    {
+      "i": 19,
+      "start": 103.2,
+      "end": 166.52,
+      "text": "The. Yesterday we saw that Karmani"
+    },
+    {
+      "i": 20,
+      "start": 166.8,
+      "end": 180.36,
+      "text": "Akarmayapashit Akarmani Karmaya, that was the topic which Krishna"
+    },
+    {
+      "i": 21,
+      "start": 181.92,
+      "end": 186.76,
+      "text": "is explaining or asking us to do that."
+    },
+    {
+      "i": 22,
+      "start": 189.12,
+      "end": 194.56,
+      "text": "So the barshia of this is a very long one."
+    },
+    {
+      "i": 23,
+      "start": 196.52,
+      "end": 202.96,
+      "text": "Since most of the subjects have been covered, I will read and"
+    },
+    {
+      "i": 24,
+      "start": 203.76,
+      "end": 210.64,
+      "text": "explain the Barshia part by part and wherever it is required"
+    },
+    {
+      "i": 25,
+      "start": 211.76,
+      "end": 214.12,
+      "text": "slight elaboration I will do that."
+    },
+    {
+      "i": 26,
+      "start": 216.0,
+      "end": 218.08,
+      "text": "After that we can go to the next verse."
+    },
+    {
+      "i": 27,
+      "start": 220.36,
+      "end": 227.72,
+      "text": "The Shankaracharya starts the Vasya like karmani kriyate iti"
+    },
+    {
+      "i": 28,
+      "start": 227.72,
+      "end": 230.56,
+      "text": "karma. Karmani is the located thing."
+    },
+    {
+      "i": 29,
+      "start": 230.64,
+      "end": 235.08,
+      "text": "So in the in action in action so."
+    },
+    {
+      "i": 30,
+      "start": 235.88,
+      "end": 239.32,
+      "text": "But what is action Kriyate iti karma?"
+    },
+    {
+      "i": 31,
+      "start": 240.04,
+      "end": 243.4,
+      "text": "Whatever is being done is called action."
+    },
+    {
+      "i": 32,
+      "start": 244.08,
+      "end": 251.32,
+      "text": "Vyaparamatram means activity. So karma is activity which is"
+    },
+    {
+      "i": 33,
+      "start": 252.12,
+      "end": 257.399,
+      "text": "being done does mean karmani so. So load the located thing."
+    },
+    {
+      "i": 34,
+      "start": 258.04,
+      "end": 265.36,
+      "text": "So in Karmani akarma karma Abhavan ya Pashyath he who sees"
+    },
+    {
+      "i": 35,
+      "start": 265.8,
+      "end": 275.0,
+      "text": "in action, in action the absence of action, inaction, so in"
+    },
+    {
+      "i": 36,
+      "start": 275.0,
+      "end": 280.72,
+      "text": "action inaction, or in action the absence of action."
+    },
+    {
+      "i": 37,
+      "start": 282.16,
+      "end": 293.56,
+      "text": "And in Akarmani doctor Karma abhave karthatandratwaat nibruti"
+    },
+    {
+      "i": 38,
+      "start": 294.6,
+      "end": 304.24,
+      "text": "kraburti nibruta yoho akarmani. And in inaction, where action is"
+    },
+    {
+      "i": 39,
+      "start": 304.24,
+      "end": 317.6,
+      "text": "absent, seeing sees action. So in inaction seeing action."
+    },
+    {
+      "i": 40,
+      "start": 319.44,
+      "end": 322.96,
+      "text": "Why? Because karthat andruthwa"
+    },
+    {
+      "i": 41,
+      "start": 322.96,
+      "end": 328.0,
+      "text": "prabriti nivarta yoho. Because activity and inactivity"
+    },
+    {
+      "i": 42,
+      "start": 329.84,
+      "end": 334.04,
+      "text": "depend upon the notion of agency karthratandratwada, that is the"
+    },
+    {
+      "i": 43,
+      "start": 334.04,
+      "end": 337.4,
+      "text": "notion of agency prabriti and nevriti."
+    },
+    {
+      "i": 44,
+      "start": 337.52,
+      "end": 346.2,
+      "text": "Both activity and inactivity has the dependency on the agency for"
+    },
+    {
+      "i": 45,
+      "start": 346.2,
+      "end": 351.52,
+      "text": "the their respective words to become fruitful."
+    },
+    {
+      "i": 46,
+      "start": 353.52,
+      "end": 361.8,
+      "text": "Vastu aprapya Eva hi sarva Eva kriya karakati vyapara avidya"
+    },
+    {
+      "i": 47,
+      "start": 361.8,
+      "end": 369.64,
+      "text": "bhumau Eva. For all notions of action agent"
+    },
+    {
+      "i": 48,
+      "start": 369.72,
+      "end": 375.28,
+      "text": "and the instruments occur only on the ground of ignorance"
+    },
+    {
+      "i": 49,
+      "start": 375.84,
+      "end": 378.2,
+      "text": "without reaching the true reality."
+    },
+    {
+      "i": 50,
+      "start": 380.44,
+      "end": 386.56,
+      "text": "Aprapya Vastu aprapya without reaching the true vastu Vastu."
+    },
+    {
+      "i": 51,
+      "start": 386.8,
+      "end": 390.0,
+      "text": "Vastu means true act true or the reality."
+    },
+    {
+      "i": 52,
+      "start": 391.76,
+      "end": 396.84,
+      "text": "Priya Karati Karakati vya vyavahara avidya bhumo Eva"
+    },
+    {
+      "i": 53,
+      "start": 397.48,
+      "end": 403.16,
+      "text": "Avidya bhumi means on the on the ground of ignorance or on the"
+    },
+    {
+      "i": 54,
+      "start": 403.16,
+      "end": 409.76,
+      "text": "basis of ignorance. Priya Karakati that is action"
+    },
+    {
+      "i": 55,
+      "start": 409.76,
+      "end": 416.6,
+      "text": "agent, instruments, etcetera. Karma yeh pashyet pashyati Saha"
+    },
+    {
+      "i": 56,
+      "start": 417.28,
+      "end": 424.4,
+      "text": "buddhiman mansheshu. He who sees thus is the truly"
+    },
+    {
+      "i": 57,
+      "start": 424.4,
+      "end": 429.04,
+      "text": "wise among the human beings. SA yuktaha Yogita."
+    },
+    {
+      "i": 58,
+      "start": 429.28,
+      "end": 436.72,
+      "text": "He is Yuktaha means is integrated Yuktaha and Yogita is"
+    },
+    {
+      "i": 59,
+      "start": 436.72,
+      "end": 443.96,
+      "text": "a yogin. Also Krishna Karmakrit samastha"
+    },
+    {
+      "i": 60,
+      "start": 443.96,
+      "end": 450.2,
+      "text": "karmakrut cha Saha is considered to have performed all actions."
+    },
+    {
+      "i": 61,
+      "start": 451.08,
+      "end": 457.36,
+      "text": "All actions are performed and it is considered he has performed"
+    },
+    {
+      "i": 62,
+      "start": 457.36,
+      "end": 464.32,
+      "text": "all actions. It is suyate karma akarmanayoho"
+    },
+    {
+      "i": 63,
+      "start": 464.36,
+      "end": 469.96,
+      "text": "itareyatara darshi. Thus the one who perceives"
+    },
+    {
+      "i": 64,
+      "start": 469.96,
+      "end": 475.72,
+      "text": "action and inaction correctly is being praised by Krishna himself"
+    },
+    {
+      "i": 65,
+      "start": 475.88,
+      "end": 482.76,
+      "text": "in the So Shankaracharya in the first part explains the word"
+    },
+    {
+      "i": 66,
+      "start": 482.76,
+      "end": 486.6,
+      "text": "meanings of what Krishna has intended to say."
+    },
+    {
+      "i": 67,
+      "start": 487.48,
+      "end": 489.72,
+      "text": "So Krish Shankaracharya explained that the enlighted"
+    },
+    {
+      "i": 68,
+      "start": 489.72,
+      "end": 495.96,
+      "text": "person sees the actionless self even while actions occur through"
+    },
+    {
+      "i": 69,
+      "start": 495.96,
+      "end": 502.96,
+      "text": "the body and recognize that all notions of actions belong to the"
+    },
+    {
+      "i": 70,
+      "start": 503.2,
+      "end": 508.36,
+      "text": "ignorance. This insight dissolves the"
+    },
+    {
+      "i": 71,
+      "start": 508.44,
+      "end": 514.96,
+      "text": "illusion of doership and frees one from the bondage of karma"
+    },
+    {
+      "i": 72,
+      "start": 514.96,
+      "end": 521.52,
+      "text": "etcetera. So this is the literal meaning"
+    },
+    {
+      "i": 73,
+      "start": 521.52,
+      "end": 527.72,
+      "text": "of the first part. Then he goes on explaining that"
+    },
+    {
+      "i": 74,
+      "start": 528.72,
+      "end": 535.88,
+      "text": "that eitat uktap pratibhachanam API asakrit atyanta viperida"
+    },
+    {
+      "i": 75,
+      "start": 535.88,
+      "end": 545.24,
+      "text": "darsena bhavita taya moha muhyamaha lokah it continues to"
+    },
+    {
+      "i": 76,
+      "start": 545.24,
+      "end": 550.16,
+      "text": "become confused again and again by the lokaha means by people."
+    },
+    {
+      "i": 77,
+      "start": 551.8,
+      "end": 555.48,
+      "text": "When Tata tukta prati bachanam abhi."
+    },
+    {
+      "i": 78,
+      "start": 556.68,
+      "end": 563.24,
+      "text": "Even though this reply has been given already, Krishna has said"
+    },
+    {
+      "i": 79,
+      "start": 563.24,
+      "end": 576.32,
+      "text": "that that Atma is akartha. Still, he is repeating the same"
+    },
+    {
+      "i": 80,
+      "start": 576.32,
+      "end": 585.04,
+      "text": "thing in a different vocabulary because muhyamana ha loka, the"
+    },
+    {
+      "i": 81,
+      "start": 585.04,
+      "end": 589.44,
+      "text": "deeply conditioned and extremely mistaken perception by the"
+    },
+    {
+      "i": 82,
+      "start": 589.44,
+      "end": 597.64,
+      "text": "world, remains the reason for becoming confused again and"
+    },
+    {
+      "i": 83,
+      "start": 597.64,
+      "end": 603.52,
+      "text": "again. Srotham API asakrat taton"
+    },
+    {
+      "i": 84,
+      "start": 603.56,
+      "end": 608.76,
+      "text": "bismrathya bismrathya. Even after repeatedly hearing"
+    },
+    {
+      "i": 85,
+      "start": 608.76,
+      "end": 613.12,
+      "text": "the truth, people forget it again and again."
+    },
+    {
+      "i": 86,
+      "start": 615.6,
+      "end": 617.96,
+      "text": "Sangaracharya doesn't have to say that we all know."
+    },
+    {
+      "i": 87,
+      "start": 619.8,
+      "end": 625.12,
+      "text": "We have been listening to this truth for the last 4-5 years,"
+    },
+    {
+      "i": 88,
+      "start": 627.36,
+      "end": 631.68,
+      "text": "yet it has not become our reality."
+    },
+    {
+      "i": 89,
+      "start": 634.28,
+      "end": 640.12,
+      "text": "Nitya prasangam avatariya avatariya chaudhayati and"
+    },
+    {
+      "i": 90,
+      "start": 640.12,
+      "end": 643.76,
+      "text": "repeatedly raise objection based on false assumptions."
+    },
+    {
+      "i": 91,
+      "start": 644.64,
+      "end": 652.04,
+      "text": "So all questions which arises in our mind which is the reason why"
+    },
+    {
+      "i": 92,
+      "start": 652.04,
+      "end": 657.16,
+      "text": "we are not convinced about these statements of the Upanishad and"
+    },
+    {
+      "i": 93,
+      "start": 657.16,
+      "end": 663.12,
+      "text": "the teachings and we repeatedly raise objections based on that."
+    },
+    {
+      "i": 94,
+      "start": 664.36,
+      "end": 667.4,
+      "text": "Atnyana samsaya viparia what is happening in the mind?"
+    },
+    {
+      "i": 95,
+      "start": 670.28,
+      "end": 673.76,
+      "text": "Iti puna puna uttaram aha bhagawan."
+    },
+    {
+      "i": 96,
+      "start": 674.56,
+      "end": 685.2,
+      "text": "Therefore the All Merciful Ishwara gives the answer also"
+    },
+    {
+      "i": 97,
+      "start": 685.24,
+      "end": 690.48,
+      "text": "every time when we forget it to remind us again and again."
+    },
+    {
+      "i": 98,
+      "start": 693.48,
+      "end": 699.36,
+      "text": "Durvitnayat tumcha alekshya vastunaha because he recognizes"
+    },
+    {
+      "i": 99,
+      "start": 700.96,
+      "end": 705.8,
+      "text": "the Lord, recognizes that this truth is extremely difficult to"
+    },
+    {
+      "i": 100,
+      "start": 705.8,
+      "end": 715.12,
+      "text": "understand. Avyetta avyetoyam achintyoyam"
+    },
+    {
+      "i": 101,
+      "start": 715.8,
+      "end": 722.44,
+      "text": "avika yoyam uchate sasma devam viditwainam nan shojidumarhati"
+    },
+    {
+      "i": 102,
+      "start": 723.8,
+      "end": 726.52,
+      "text": "the 25th verse of second chapter."
+    },
+    {
+      "i": 103,
+      "start": 728.28,
+      "end": 732.92,
+      "text": "The self is unmanaged, inconceivable avyaktam"
+    },
+    {
+      "i": 104,
+      "start": 732.96,
+      "end": 741.68,
+      "text": "achindyoam avikaryoam. It is avyakta means unmanifest"
+    },
+    {
+      "i": 105,
+      "start": 741.92,
+      "end": 747.36,
+      "text": "achindyoam. It is inconceivable avikari."
+    },
+    {
+      "i": 106,
+      "start": 747.92,
+      "end": 750.04,
+      "text": "It doesn't go through any modifications."
+    },
+    {
+      "i": 107,
+      "start": 750.44,
+      "end": 757.8,
+      "text": "Chate tasma devam viditvainam avam asmath vidit aynam viditva"
+    },
+    {
+      "i": 108,
+      "start": 759.64,
+      "end": 765.88,
+      "text": "knowing that is the nature of the self na anishojan tum"
+    },
+    {
+      "i": 109,
+      "start": 765.92,
+      "end": 769.48,
+      "text": "arahasi. There is no reason for you to"
+    },
+    {
+      "i": 110,
+      "start": 770.52,
+      "end": 775.32,
+      "text": "lament upon that. In that that individuality."
+    },
+    {
+      "i": 111,
+      "start": 777.0,
+      "end": 782.2,
+      "text": "He also said in the 20th verse, Najayatheim riyateva kathajit"
+    },
+    {
+      "i": 112,
+      "start": 782.4,
+      "end": 794.64,
+      "text": "nayam bhutva babida nabuya it is neither born nor does it die."
+    },
+    {
+      "i": 113,
+      "start": 795.2,
+      "end": 797.0,
+      "text": "All those things which we have studied."
+    },
+    {
+      "i": 114,
+      "start": 797.0,
+      "end": 801.32,
+      "text": "In the 20th verse of 2nd chapter, Sankarajya is quoting"
+    },
+    {
+      "i": 115,
+      "start": 801.32,
+      "end": 808.76,
+      "text": "that etiyadina atmani karma abhavaha shruti smriti nyaya"
+    },
+    {
+      "i": 116,
+      "start": 808.76,
+      "end": 814.24,
+      "text": "prasidhar. The absence of action in the"
+    },
+    {
+      "i": 117,
+      "start": 814.24,
+      "end": 821.8,
+      "text": "Self in this manner is established by the Shruti, the"
+    },
+    {
+      "i": 118,
+      "start": 821.84,
+      "end": 825.16,
+      "text": "Upanishads, the Smriti, the Gita, etcetera."
+    },
+    {
+      "i": 119,
+      "start": 825.8,
+      "end": 833.88,
+      "text": "Nyaya prasiddha and by logic tasmin aatmani karma abhave A"
+    },
+    {
+      "i": 120,
+      "start": 833.88,
+      "end": 838.44,
+      "text": "karmani karma vibhirida darshanam achinya nirudham."
+    },
+    {
+      "i": 121,
+      "start": 839.72,
+      "end": 845.04,
+      "text": "Yet even though the self is actionless, people firmly"
+    },
+    {
+      "i": 122,
+      "start": 845.04,
+      "end": 850.08,
+      "text": "perceive action in that which is actually inaction."
+    },
+    {
+      "i": 123,
+      "start": 851.8,
+      "end": 855.44,
+      "text": "This is the first time he is bringing that term."
+    },
+    {
+      "i": 124,
+      "start": 856.84,
+      "end": 862.76,
+      "text": "People firmly perceive action in that which is actually inaction."
+    },
+    {
+      "i": 125,
+      "start": 868.15,
+      "end": 876.32,
+      "text": "The self is actionless, yet people firmly perceive the"
+    },
+    {
+      "i": 126,
+      "start": 876.32,
+      "end": 888.76,
+      "text": "actionless self in action. Yataha Kim karma kimakarmethi"
+    },
+    {
+      "i": 127,
+      "start": 889.56,
+      "end": 894.4,
+      "text": "kabayoho atramohitaha. Therefore, Krishna said that"
+    },
+    {
+      "i": 128,
+      "start": 894.44,
+      "end": 897.96,
+      "text": "even the wives are confused about what action and what are"
+    },
+    {
+      "i": 129,
+      "start": 897.96,
+      "end": 904.8,
+      "text": "in actions. Dehadi ashram karma atmani"
+    },
+    {
+      "i": 130,
+      "start": 904.8,
+      "end": 909.88,
+      "text": "adyaropiya, actions that belongs to the body, etcetera and the"
+    },
+    {
+      "i": 131,
+      "start": 909.88,
+      "end": 912.8,
+      "text": "senses etcetera are superimposed on the self."
+    },
+    {
+      "i": 132,
+      "start": 913.68,
+      "end": 919.28,
+      "text": "Aham karta Mama yatat karma. People think that I am the doer."
+    },
+    {
+      "i": 133,
+      "start": 920.0,
+      "end": 926.12,
+      "text": "This action is mine. Maya asya karmanaha halabhavya"
+    },
+    {
+      "i": 134,
+      "start": 927.76,
+      "end": 931.8,
+      "text": "since I am the doer and the action is mine, as I must"
+    },
+    {
+      "i": 135,
+      "start": 931.8,
+      "end": 939.84,
+      "text": "experience the result of this action sada Similarly aham"
+    },
+    {
+      "i": 136,
+      "start": 939.84,
+      "end": 943.24,
+      "text": "tushni bhawami, I will remain inactive."
+    },
+    {
+      "i": 137,
+      "start": 945.8,
+      "end": 950.8,
+      "text": "I will be sitting always in meditation or I am remaining"
+    },
+    {
+      "i": 138,
+      "start": 950.8,
+      "end": 955.76,
+      "text": "inactive. Yena aham neera ayasaha akar"
+    },
+    {
+      "i": 139,
+      "start": 955.76,
+      "end": 961.16,
+      "text": "Maha sukhisiyam so that when I sit like that I may become free"
+    },
+    {
+      "i": 140,
+      "start": 961.16,
+      "end": 968.16,
+      "text": "from actions effort. I'll be inactive and therefore"
+    },
+    {
+      "i": 141,
+      "start": 968.16,
+      "end": 974.68,
+      "text": "I'll be happy. Kadhya karana ashtrayam vyapara"
+    },
+    {
+      "i": 142,
+      "start": 975.08,
+      "end": 980.88,
+      "text": "uparamam tatkrutham just sukhitvam aatmani adhyaropya."
+    },
+    {
+      "i": 143,
+      "start": 982.88,
+      "end": 986.8,
+      "text": "They attribute the cessation of bodily cessation of bodily"
+    },
+    {
+      "i": 144,
+      "start": 986.8,
+      "end": 991.72,
+      "text": "inactive bodily activity and resulting comfort to the self"
+    },
+    {
+      "i": 145,
+      "start": 992.88,
+      "end": 998.88,
+      "text": "that is karyakarana ashraem. Karyakaranam means the body"
+    },
+    {
+      "i": 146,
+      "start": 999.96,
+      "end": 1005.8,
+      "text": "ashraem attribute of that vyapaara uparama when resulting"
+    },
+    {
+      "i": 147,
+      "start": 1005.8,
+      "end": 1013.72,
+      "text": "in the inactivity bodily inactivity kritam chasukitam and"
+    },
+    {
+      "i": 148,
+      "start": 1014.52,
+      "end": 1023.28,
+      "text": "the happiness or the comfort resulting out of that atmani"
+    },
+    {
+      "i": 149,
+      "start": 1023.28,
+      "end": 1027.68,
+      "text": "adhyaropia they superimpose that onto the self."
+    },
+    {
+      "i": 150,
+      "start": 1028.44,
+      "end": 1034.28,
+      "text": "Actually it is the body which is inactive and the happiness of"
+    },
+    {
+      "i": 151,
+      "start": 1034.28,
+      "end": 1039.119,
+      "text": "the inactivity of the body they think is the sukham or the"
+    },
+    {
+      "i": 152,
+      "start": 1039.119,
+      "end": 1044.0,
+      "text": "happiness of Atman. It's attributed on to the Atman."
+    },
+    {
+      "i": 153,
+      "start": 1045.72,
+      "end": 1049.52,
+      "text": "Therefore the people think nakaromi kinjit tushnim sukhava"
+    },
+    {
+      "i": 154,
+      "start": 1049.52,
+      "end": 1053.4,
+      "text": "SE is the abhimanya delo abhimanya deloka."
+    },
+    {
+      "i": 155,
+      "start": 1054.56,
+      "end": 1056.52,
+      "text": "Does people think that I do nothing?"
+    },
+    {
+      "i": 156,
+      "start": 1056.52,
+      "end": 1062.52,
+      "text": "I sit happily and rest at rest. Datara edam lokasya vibhavi ETA"
+    },
+    {
+      "i": 157,
+      "start": 1062.52,
+      "end": 1069.76,
+      "text": "darsenam appanayana aya aha bhagwan to remove this mistaken"
+    },
+    {
+      "i": 158,
+      "start": 1069.76,
+      "end": 1073.76,
+      "text": "perception that adyaropa of the world."
+    },
+    {
+      "i": 159,
+      "start": 1074.08,
+      "end": 1079.44,
+      "text": "Krishna says karmaniya karma hai yappasheed ityadi."
+    },
+    {
+      "i": 160,
+      "start": 1080.4,
+      "end": 1084.48,
+      "text": "That is why he has mentioned that in the verse."
+    },
+    {
+      "i": 161,
+      "start": 1085.28,
+      "end": 1094.16,
+      "text": "He who sees inaction, inaction, athracha, karma, karmaiva sat"
+    },
+    {
+      "i": 162,
+      "start": 1094.4,
+      "end": 1101.8,
+      "text": "kadhya karana asrayam. Here action is indeed action, an"
+    },
+    {
+      "i": 163,
+      "start": 1101.8,
+      "end": 1105.76,
+      "text": "activity that depends upon the body and the instruments and the"
+    },
+    {
+      "i": 164,
+      "start": 1105.76,
+      "end": 1112.0,
+      "text": "organs etcetera, Karmarehite avikriye atmani sarva and"
+    },
+    {
+      "i": 165,
+      "start": 1112.0,
+      "end": 1118.68,
+      "text": "dyastham, but it is superimposed by everyone upon the Self, which"
+    },
+    {
+      "i": 166,
+      "start": 1118.68,
+      "end": 1122.68,
+      "text": "is in reality actionless and changeless."
+    },
+    {
+      "i": 167,
+      "start": 1126.12,
+      "end": 1136.88,
+      "text": "Avikriye atmani adyastham what darmarehite all those yataha"
+    },
+    {
+      "i": 168,
+      "start": 1137.68,
+      "end": 1140.72,
+      "text": "pantithao API ahankaromi ETI mannate."
+    },
+    {
+      "i": 169,
+      "start": 1141.76,
+      "end": 1149.28,
+      "text": "Even the learned people person thinks I perform action ataha"
+    },
+    {
+      "i": 170,
+      "start": 1150.16,
+      "end": 1155.28,
+      "text": "atma sama vyatataya sarvallogaprasideh karmani."
+    },
+    {
+      "i": 171,
+      "start": 1156.08,
+      "end": 1160.32,
+      "text": "Therefore, action which is universally attributed to the"
+    },
+    {
+      "i": 172,
+      "start": 1160.32,
+      "end": 1168.12,
+      "text": "self, whether he is a pantitha or a Murkha Mota, all of them"
+    },
+    {
+      "i": 173,
+      "start": 1168.32,
+      "end": 1177.0,
+      "text": "attribute action on to the self which is actually actionless."
+    },
+    {
+      "i": 174,
+      "start": 1180.36,
+      "end": 1188.16,
+      "text": "How nadi gulas teshu Eva brikshu gadipratipa lomiena."
+    },
+    {
+      "i": 175,
+      "start": 1189.56,
+      "end": 1194.48,
+      "text": "It is like the illusion of motion of trees standing on the"
+    },
+    {
+      "i": 176,
+      "start": 1194.48,
+      "end": 1199.44,
+      "text": "riverbank. The riverbank."
+    },
+    {
+      "i": 177,
+      "start": 1199.6,
+      "end": 1205.2,
+      "text": "The trees are motionless, but the motion is attributed on to"
+    },
+    {
+      "i": 178,
+      "start": 1205.2,
+      "end": 1207.76,
+      "text": "them. When the boat is moving in the"
+    },
+    {
+      "i": 179,
+      "start": 1207.76,
+      "end": 1216.92,
+      "text": "river, same way karma akarma bhavam yeda buddham yatya bhava"
+    },
+    {
+      "i": 180,
+      "start": 1216.92,
+      "end": 1224.88,
+      "text": "miwa vrikshuya pashete pashet. He who perceives that action the"
+    },
+    {
+      "i": 181,
+      "start": 1226.36,
+      "end": 1230.24,
+      "text": "the absence of action in that action the absence of action."
+    },
+    {
+      "i": 182,
+      "start": 1231.32,
+      "end": 1239.44,
+      "text": "He who perceives that is just as one correctly sees that the"
+    },
+    {
+      "i": 183,
+      "start": 1239.44,
+      "end": 1247.52,
+      "text": "trees are actually motionless, so that action, the absence of"
+    },
+    {
+      "i": 184,
+      "start": 1247.52,
+      "end": 1254.2,
+      "text": "action Akarmani chak kariya karana vyapa or uparame and the"
+    },
+    {
+      "i": 185,
+      "start": 1254.2,
+      "end": 1259.4,
+      "text": "apparent in action which is merely the cessation of bodily"
+    },
+    {
+      "i": 186,
+      "start": 1259.4,
+      "end": 1263.2,
+      "text": "activity. Karamabat Aatmani."
+    },
+    {
+      "i": 187,
+      "start": 1263.2,
+      "end": 1268.36,
+      "text": "Adyaro Vivek Action is nevertheless superimposed upon"
+    },
+    {
+      "i": 188,
+      "start": 1268.36,
+      "end": 1274.48,
+      "text": "the self. Usnim akurvan sukamase iti"
+    },
+    {
+      "i": 189,
+      "start": 1274.48,
+      "end": 1281.44,
+      "text": "ahangara abhisandhi Heyduttwath. Because of the egoistic notion,"
+    },
+    {
+      "i": 190,
+      "start": 1283.6,
+      "end": 1287.48,
+      "text": "I sit quietly doing nothing and enjoy comfort."
+    },
+    {
+      "i": 191,
+      "start": 1289.12,
+      "end": 1302.04,
+      "text": "It's not that the body sitting quietly all is inactivity, still"
+    },
+    {
+      "i": 192,
+      "start": 1303.24,
+      "end": 1307.24,
+      "text": "the feeling that I am sitting doing nothing and enjoying"
+    },
+    {
+      "i": 193,
+      "start": 1307.24,
+      "end": 1312.68,
+      "text": "comfort is the eye is actually should be that of the self."
+    },
+    {
+      "i": 194,
+      "start": 1313.68,
+      "end": 1318.0,
+      "text": "But he is now considering his body as the self."
+    },
+    {
+      "i": 195,
+      "start": 1318.56,
+      "end": 1321.88,
+      "text": "Therefore the superimposition takes place."
+    },
+    {
+      "i": 196,
+      "start": 1323.08,
+      "end": 1327.8,
+      "text": "That mean akarmanicha karma yappashit, He who sees action"
+    },
+    {
+      "i": 197,
+      "start": 1327.84,
+      "end": 1333.2,
+      "text": "even in that inaction, that means the person who is"
+    },
+    {
+      "i": 198,
+      "start": 1333.2,
+      "end": 1340.84,
+      "text": "knowledgeable, he will see, be able to see that even sitting"
+    },
+    {
+      "i": 199,
+      "start": 1340.84,
+      "end": 1353.2,
+      "text": "quietly is not inaction. There also action is there, Yaha"
+    },
+    {
+      "i": 200,
+      "start": 1353.2,
+      "end": 1358.96,
+      "text": "avang karma akarma bibagatnyah. He who thus understand the"
+    },
+    {
+      "i": 201,
+      "start": 1358.96,
+      "end": 1361.56,
+      "text": "distinction between action and inaction."
+    },
+    {
+      "i": 202,
+      "start": 1362.16,
+      "end": 1366.36,
+      "text": "Sabuddhiman pantita manisheshu. He is truly the voice among the"
+    },
+    {
+      "i": 203,
+      "start": 1366.36,
+      "end": 1369.56,
+      "text": "human beings. Sayuktaha Yogi."
+    },
+    {
+      "i": 204,
+      "start": 1369.92,
+      "end": 1371.8,
+      "text": "He is the integrated and the Yogi."
+    },
+    {
+      "i": 205,
+      "start": 1374.04,
+      "end": 1379.2,
+      "text": "Krishna karmakrit chasaha. He is regarded as having"
+    },
+    {
+      "i": 206,
+      "start": 1379.2,
+      "end": 1385.84,
+      "text": "performed all actions. Ashubat Mokshita."
+    },
+    {
+      "i": 207,
+      "start": 1386.2,
+      "end": 1390.12,
+      "text": "Krita Krita Bhabati. This word is very important."
+    },
+    {
+      "i": 208,
+      "start": 1390.12,
+      "end": 1392.6,
+      "text": "Krita Krita Sangarajya keeps on using it."
+    },
+    {
+      "i": 209,
+      "start": 1394.0,
+      "end": 1398.48,
+      "text": "Ashubat Mokshita. Liberated or freed from the evil"
+    },
+    {
+      "i": 210,
+      "start": 1398.88,
+      "end": 1405.04,
+      "text": "Ashubat, evil of Samsara, Krita. Krita Bhabati."
+    },
+    {
+      "i": 211,
+      "start": 1405.64,
+      "end": 1408.16,
+      "text": "He becomes one who has accomplished everything."
+    },
+    {
+      "i": 212,
+      "start": 1410.28,
+      "end": 1413.16,
+      "text": "Kritam Kritya. There is nothing more to be done"
+    },
+    {
+      "i": 213,
+      "start": 1416.64,
+      "end": 1418.6,
+      "text": "now. That passage which is following"
+    },
+    {
+      "i": 214,
+      "start": 1419.32,
+      "end": 1423.92,
+      "text": "Sankaracharya is reporting and criticizing an alternate"
+    },
+    {
+      "i": 215,
+      "start": 1425.36,
+      "end": 1432.0,
+      "text": "commentary which was existing prior to him, who interpret the"
+    },
+    {
+      "i": 216,
+      "start": 1432.0,
+      "end": 1437.2,
+      "text": "words in terms of Nithya karma as obligatory duties and their"
+    },
+    {
+      "i": 217,
+      "start": 1437.2,
+      "end": 1441.56,
+      "text": "absence. Sankaracharya presents that view"
+    },
+    {
+      "i": 218,
+      "start": 1441.56,
+      "end": 1445.2,
+      "text": "before rejecting the same section in the next section."
+    },
+    {
+      "i": 219,
+      "start": 1447.24,
+      "end": 1453.56,
+      "text": "So he, having completed the intent of Bhagwan, is now taking"
+    },
+    {
+      "i": 220,
+      "start": 1453.56,
+      "end": 1458.36,
+      "text": "on the misinterpretation done by the previous commentator."
+    },
+    {
+      "i": 221,
+      "start": 1460.16,
+      "end": 1463.48,
+      "text": "I am shloka anyata vyakhyata kaishit."
+    },
+    {
+      "i": 222,
+      "start": 1464.48,
+      "end": 1467.4,
+      "text": "The same words has been interpreted differently by some"
+    },
+    {
+      "i": 223,
+      "start": 1467.4,
+      "end": 1473.56,
+      "text": "commentators. How nityanam khila karmanam"
+    },
+    {
+      "i": 224,
+      "start": 1473.76,
+      "end": 1480.52,
+      "text": "isyararte anustiyamanam at Thalaba Baba akarmani tani"
+    },
+    {
+      "i": 225,
+      "start": 1480.8,
+      "end": 1486.68,
+      "text": "uchete gaunyamritya. Obligatory actions Nitya karmas"
+    },
+    {
+      "i": 226,
+      "start": 1488.16,
+      "end": 1493.96,
+      "text": "when performed for the sake of the Lord are said to be inaction"
+    },
+    {
+      "i": 227,
+      "start": 1495.72,
+      "end": 1500.92,
+      "text": "because they do not produce any specific fruit, this being a"
+    },
+    {
+      "i": 228,
+      "start": 1500.96,
+      "end": 1504.28,
+      "text": "figurative usage. Gownya gownya ruthya."
+    },
+    {
+      "i": 229,
+      "start": 1505.76,
+      "end": 1511.88,
+      "text": "They say that the nitya karmas you don't see any specific"
+    },
+    {
+      "i": 230,
+      "start": 1511.88,
+      "end": 1516.68,
+      "text": "fruit. Only when you do Uttaragameshti"
+    },
+    {
+      "i": 231,
+      "start": 1516.68,
+      "end": 1521.56,
+      "text": "or Surya Ghameshti or you know rishti gamesh all those things"
+    },
+    {
+      "i": 232,
+      "start": 1522.0,
+      "end": 1527.16,
+      "text": "you have a specific result. When you do etnya for a sun or a"
+    },
+    {
+      "i": 233,
+      "start": 1527.16,
+      "end": 1532.36,
+      "text": "progeny or a rain etcetera. But nitya karma's the daily"
+    },
+    {
+      "i": 234,
+      "start": 1532.36,
+      "end": 1542.12,
+      "text": "obligations, obligate reactions. There are no tangible or seen"
+    },
+    {
+      "i": 235,
+      "start": 1542.12,
+      "end": 1545.84,
+      "text": "any specific fruit. Therefore it is a figurative"
+    },
+    {
+      "i": 236,
+      "start": 1545.84,
+      "end": 1553.08,
+      "text": "usage Teshanta akaranam akarma and the non performance of those"
+    },
+    {
+      "i": 237,
+      "start": 1553.08,
+      "end": 1560.72,
+      "text": "duties are the one which are called as inaction that is"
+    },
+    {
+      "i": 238,
+      "start": 1561.16,
+      "end": 1565.68,
+      "text": "Nithya karma's non performance is called inaction."
+    },
+    {
+      "i": 239,
+      "start": 1565.76,
+      "end": 1572.64,
+      "text": "As per them datya prithyavaya halatwaad karma Uche de gavonya"
+    },
+    {
+      "i": 240,
+      "start": 1572.64,
+      "end": 1577.36,
+      "text": "rithya. But because such omissions"
+    },
+    {
+      "i": 241,
+      "start": 1577.36,
+      "end": 1583.24,
+      "text": "produces negative result, that is if Nithya Karma's is"
+    },
+    {
+      "i": 242,
+      "start": 1583.24,
+      "end": 1589.8,
+      "text": "considered as inaction and if you do not do that they produce"
+    },
+    {
+      "i": 243,
+      "start": 1589.8,
+      "end": 1596.44,
+      "text": "negative result Prithyavaya or sin and it is figuratively"
+    },
+    {
+      "i": 244,
+      "start": 1596.44,
+      "end": 1598.76,
+      "text": "called action. Therefore it is called an"
+    },
+    {
+      "i": 245,
+      "start": 1598.76,
+      "end": 1606.32,
+      "text": "action. You should understand that since"
+    },
+    {
+      "i": 246,
+      "start": 1606.32,
+      "end": 1612.52,
+      "text": "it is not producing any visible result, it is deemed inactive"
+    },
+    {
+      "i": 247,
+      "start": 1612.52,
+      "end": 1616.36,
+      "text": "inaction. But at the same time it is"
+    },
+    {
+      "i": 248,
+      "start": 1616.36,
+      "end": 1624.28,
+      "text": "action when not performed produces a sin pratyavaya."
+    },
+    {
+      "i": 249,
+      "start": 1625.44,
+      "end": 1627.16,
+      "text": "Therefore it is called an action."
+    },
+    {
+      "i": 250,
+      "start": 1628.28,
+      "end": 1633.56,
+      "text": "This is how they interpreted the vet karmani akarmaya."
+    },
+    {
+      "i": 251,
+      "start": 1633.56,
+      "end": 1638.8,
+      "text": "Akarmani karamaya. That is how they interpreted"
+    },
+    {
+      "i": 252,
+      "start": 1638.8,
+      "end": 1643.8,
+      "text": "this particular statement of Krishna Satra nithya karmani"
+    },
+    {
+      "i": 253,
+      "start": 1643.8,
+      "end": 1651.76,
+      "text": "akarma yapasyed Kalabhavad. Thus one who sees inaction in an"
+    },
+    {
+      "i": 254,
+      "start": 1651.76,
+      "end": 1656.44,
+      "text": "obligatory action because it produces no fruit of action."
+    },
+    {
+      "i": 255,
+      "start": 1658.12,
+      "end": 1665.32,
+      "text": "Yetta dedurabi gauhu agau itichate shirakyam palam na"
+    },
+    {
+      "i": 256,
+      "start": 1665.32,
+      "end": 1669.16,
+      "text": "prayechati ETI. Just as a cow that does not"
+    },
+    {
+      "i": 257,
+      "start": 1669.16,
+      "end": 1673.92,
+      "text": "produce the milk may be called not a cow because it does not"
+    },
+    {
+      "i": 258,
+      "start": 1673.92,
+      "end": 1676.84,
+      "text": "yield the milk. In the same way."
+    },
+    {
+      "i": 259,
+      "start": 1677.76,
+      "end": 1688.4,
+      "text": "Adwat nitya akaranai tu karmanicha karma yap pashit and"
+    },
+    {
+      "i": 260,
+      "start": 1688.72,
+      "end": 1693.36,
+      "text": "one who sees action in the non performance of the nitya karmas"
+    },
+    {
+      "i": 261,
+      "start": 1693.36,
+      "end": 1697.88,
+      "text": "or obligatory duties narakadi pratya bhaiya palam prayechati"
+    },
+    {
+      "i": 262,
+      "start": 1697.88,
+      "end": 1701.64,
+      "text": "ETI. Because such omissions of nithya"
+    },
+    {
+      "i": 263,
+      "start": 1701.64,
+      "end": 1706.32,
+      "text": "karmas are the obligatory duties produces negative consequences"
+    },
+    {
+      "i": 264,
+      "start": 1706.32,
+      "end": 1711.16,
+      "text": "such as hell na ETA qutam vyakhyanam."
+    },
+    {
+      "i": 265,
+      "start": 1711.72,
+      "end": 1716.04,
+      "text": "So Shankaracharya is refuting now this interpretation is not"
+    },
+    {
+      "i": 266,
+      "start": 1716.04,
+      "end": 1720.8,
+      "text": "reasonable. Evam yanad ashubat moksha"
+    },
+    {
+      "i": 267,
+      "start": 1720.8,
+      "end": 1726.44,
+      "text": "anuvapatiye because liberation from evil cannot follow from"
+    },
+    {
+      "i": 268,
+      "start": 1726.44,
+      "end": 1735.36,
+      "text": "such knowledge Yetnatwa mokshase ashubat iti bhagavata"
+    },
+    {
+      "i": 269,
+      "start": 1735.4,
+      "end": 1740.68,
+      "text": "uktavatanam bhagyate because if it happens that way, the"
+    },
+    {
+      "i": 270,
+      "start": 1740.68,
+      "end": 1747.68,
+      "text": "liberation from such knowledge, which is you know re you from"
+    },
+    {
+      "i": 271,
+      "start": 1747.68,
+      "end": 1755.12,
+      "text": "evil by doing nithya karma will is a moksha."
+    },
+    {
+      "i": 272,
+      "start": 1757.16,
+      "end": 1762.48,
+      "text": "Because Krishna himself has said that yet nyatwa mokshay ashubat"
+    },
+    {
+      "i": 273,
+      "start": 1763.6,
+      "end": 1766.88,
+      "text": "it will be contracting the Krishna's statement."
+    },
+    {
+      "i": 274,
+      "start": 1767.4,
+      "end": 1769.92,
+      "text": "Knowing this, you will be freed from evil."
+    },
+    {
+      "i": 275,
+      "start": 1771.52,
+      "end": 1781.8,
+      "text": "Khatam auso nithyanam anushka naran ashuvat syat nama"
+    },
+    {
+      "i": 276,
+      "start": 1781.8,
+      "end": 1786.32,
+      "text": "mokshanam. Freedom from evil may come from"
+    },
+    {
+      "i": 277,
+      "start": 1786.32,
+      "end": 1791.04,
+      "text": "performing obligatory duty because you don't have to know"
+    },
+    {
+      "i": 278,
+      "start": 1791.24,
+      "end": 1794.64,
+      "text": "anything out of it. Nayanath mukshade it nyatwa"
+    },
+    {
+      "i": 279,
+      "start": 1796.0,
+      "end": 1800.0,
+      "text": "because without even knowing if you do the perform the"
+    },
+    {
+      "i": 280,
+      "start": 1800.0,
+      "end": 1805.12,
+      "text": "obligatory duties, the evil will not fall up or befall on you."
+    },
+    {
+      "i": 281,
+      "start": 1805.52,
+      "end": 1810.88,
+      "text": "So therefore freedom can happen nathu tesha fala ababat nyanath"
+    },
+    {
+      "i": 282,
+      "start": 1811.72,
+      "end": 1814.56,
+      "text": "not from the knowledge that they produce no result."
+    },
+    {
+      "i": 283,
+      "start": 1815.16,
+      "end": 1817.76,
+      "text": "The knowledge has no role to play in such case."
+    },
+    {
+      "i": 284,
+      "start": 1818.76,
+      "end": 1825.8,
+      "text": "Nashi nityanam fala ababat nyanam ashubhamukthi falatvena"
+    },
+    {
+      "i": 285,
+      "start": 1825.8,
+      "end": 1829.4,
+      "text": "chotitam. Our knowledge of absence of"
+    },
+    {
+      "i": 286,
+      "start": 1829.4,
+      "end": 1834.04,
+      "text": "results in an obligate reactions is not prescribed as a means of"
+    },
+    {
+      "i": 287,
+      "start": 1834.04,
+      "end": 1838.6,
+      "text": "liberation from evil is giving the reason for it."
+    },
+    {
+      "i": 288,
+      "start": 1839.76,
+      "end": 1845.96,
+      "text": "The the means from liberation from evil is not based on the"
+    },
+    {
+      "i": 289,
+      "start": 1845.96,
+      "end": 1852.84,
+      "text": "prescription of the results of the obligate reaction nitya"
+    },
+    {
+      "i": 290,
+      "start": 1852.84,
+      "end": 1857.72,
+      "text": "karmanam, nitya karmat nyayanamwa, nor is mere"
+    },
+    {
+      "i": 291,
+      "start": 1857.72,
+      "end": 1861.2,
+      "text": "knowledge of obligate reaction prescribed as such."
+    },
+    {
+      "i": 292,
+      "start": 1861.2,
+      "end": 1865.76,
+      "text": "And it is being done NACHA bhagwata yewa ihavutam."
+    },
+    {
+      "i": 293,
+      "start": 1866.24,
+      "end": 1870.64,
+      "text": "Nor has Krishna stated here such a thing here, such a teaching"
+    },
+    {
+      "i": 294,
+      "start": 1870.68,
+      "end": 1875.28,
+      "text": "here ET Anna akarmani karmadarsenam pratyukta."
+    },
+    {
+      "i": 295,
+      "start": 1877.04,
+      "end": 1882.2,
+      "text": "By this reasoning, by this reasoning, the interpretation of"
+    },
+    {
+      "i": 296,
+      "start": 1882.2,
+      "end": 1887.64,
+      "text": "seeing action in an action in that sense of nithya karma's is"
+    },
+    {
+      "i": 297,
+      "start": 1887.68,
+      "end": 1895.08,
+      "text": "refuted Nahi akarmani karma ETI darshanam kartavyataya iya"
+    },
+    {
+      "i": 298,
+      "start": 1895.08,
+      "end": 1901.08,
+      "text": "choudhita choudhiyatay or the perception of action in an"
+    },
+    {
+      "i": 299,
+      "start": 1901.08,
+      "end": 1905.2,
+      "text": "inaction is not taught here as an obligation."
+    },
+    {
+      "i": 300,
+      "start": 1907.16,
+      "end": 1909.92,
+      "text": "Hityakarmas have no such teachings in it."
+    },
+    {
+      "i": 301,
+      "start": 1910.28,
+      "end": 1916.96,
+      "text": "Action and inactions hityasyatu kartavyataya mataram."
+    },
+    {
+      "i": 302,
+      "start": 1917.96,
+      "end": 1923.28,
+      "text": "The obligatory duties are merely have a status of something that"
+    },
+    {
+      "i": 303,
+      "start": 1923.28,
+      "end": 1925.0,
+      "text": "must be performed. That's all."
+    },
+    {
+      "i": 304,
+      "start": 1925.08,
+      "end": 1928.68,
+      "text": "There is no knowledge aspect to it."
+    },
+    {
+      "i": 305,
+      "start": 1929.92,
+      "end": 1934.28,
+      "text": "NACHA akaranath nityasya prithyavayo bhavati idhi"
+    },
+    {
+      "i": 306,
+      "start": 1934.28,
+      "end": 1939.96,
+      "text": "bhitnyanath pinchit falamsyat. Nor does the knowledge that the"
+    },
+    {
+      "i": 307,
+      "start": 1939.96,
+      "end": 1945.48,
+      "text": "omission of obligatory due to leads sin produce any special"
+    },
+    {
+      "i": 308,
+      "start": 1945.48,
+      "end": 1949.2,
+      "text": "result. So the knowledge does not"
+    },
+    {
+      "i": 309,
+      "start": 1949.2,
+      "end": 1956.0,
+      "text": "produce any special result Nabi Nabi nithya karma nithya"
+    },
+    {
+      "i": 310,
+      "start": 1956.0,
+      "end": 1964.08,
+      "text": "akaranam neyat tuena choudhidam. Nor is the non performance of"
+    },
+    {
+      "i": 311,
+      "start": 1964.08,
+      "end": 1968.0,
+      "text": "obligatory duty prescribed as something to be known."
+    },
+    {
+      "i": 312,
+      "start": 1971.48,
+      "end": 1976.36,
+      "text": "Nathi karma akarma ETI mithya darsanad ashubat mokshana."
+    },
+    {
+      "i": 313,
+      "start": 1978.32,
+      "end": 1984.52,
+      "text": "Nor could liberation from evil arise from a mistaken"
+    },
+    {
+      "i": 314,
+      "start": 1984.52,
+      "end": 1986.76,
+      "text": "understanding of action in the inaction."
+    },
+    {
+      "i": 315,
+      "start": 1989.8,
+      "end": 1995.68,
+      "text": "Buddhimattum yuktathaya Krishna karma kritwadi chafalam"
+    },
+    {
+      "i": 316,
+      "start": 1995.92,
+      "end": 2000.84,
+      "text": "ubabaddete studiwa. Nor could such an interpretation"
+    },
+    {
+      "i": 317,
+      "start": 2000.84,
+      "end": 2006.04,
+      "text": "justify the praise in the words that one who becomes wise"
+    },
+    {
+      "i": 318,
+      "start": 2006.84,
+      "end": 2011.12,
+      "text": "yuktaha integrated and the performer of all action"
+    },
+    {
+      "i": 319,
+      "start": 2011.24,
+      "end": 2017.72,
+      "text": "Krishnakaramakrit nityat nanam evahi sachaad ashubataruvam."
+    },
+    {
+      "i": 320,
+      "start": 2018.88,
+      "end": 2022.8,
+      "text": "Therefore, the false knowledge itself is directly the nature of"
+    },
+    {
+      "i": 321,
+      "start": 2022.8,
+      "end": 2027.8,
+      "text": "Abel Utaha anyasmath ashubat mukshanam."
+    },
+    {
+      "i": 322,
+      "start": 2029.04,
+      "end": 2032.72,
+      "text": "The question is now asked, how then could liberation from evil"
+    },
+    {
+      "i": 323,
+      "start": 2032.72,
+      "end": 2038.28,
+      "text": "arise from something else? Nahi tama tamasa niwarthagam"
+    },
+    {
+      "i": 324,
+      "start": 2038.28,
+      "end": 2041.76,
+      "text": "bhavati. The darkness cannot remove"
+    },
+    {
+      "i": 325,
+      "start": 2041.76,
+      "end": 2045.24,
+      "text": "darkness. That is the answer for it."
+    },
+    {
+      "i": 326,
+      "start": 2047.2,
+      "end": 2052.4,
+      "text": "Nanu karmaniyat akarma darshanam akarmaniwa karma darshanam natat"
+    },
+    {
+      "i": 327,
+      "start": 2052.52,
+      "end": 2057.12,
+      "text": "mithyatnam. But one may say, seeing"
+    },
+    {
+      "i": 328,
+      "start": 2057.12,
+      "end": 2062.48,
+      "text": "inaction, inaction and action in inaction is not false knowledge."
+    },
+    {
+      "i": 329,
+      "start": 2063.639,
+      "end": 2067.6,
+      "text": "IM tarhi gownafala bhava bhavani mittam."
+    },
+    {
+      "i": 330,
+      "start": 2068.84,
+      "end": 2070.199,
+      "text": "Then what? What then?"
+    },
+    {
+      "i": 331,
+      "start": 2070.679,
+      "end": 2074.6,
+      "text": "It is merely A figurative language based on the presence"
+    },
+    {
+      "i": 332,
+      "start": 2074.6,
+      "end": 2079.56,
+      "text": "or absence of results. This these are the statements of"
+    },
+    {
+      "i": 333,
+      "start": 2079.56,
+      "end": 2085.92,
+      "text": "the opponent. Sankaracharya says na no karma"
+    },
+    {
+      "i": 334,
+      "start": 2085.92,
+      "end": 2092.48,
+      "text": "akarma vidyanath abhi gavanath alasya ashravanath because no"
+    },
+    {
+      "i": 335,
+      "start": 2092.48,
+      "end": 2095.84,
+      "text": "result is stated in the scripture from such figurative"
+    },
+    {
+      "i": 336,
+      "start": 2095.84,
+      "end": 2099.92,
+      "text": "knowledge of action in the inaction Nabi."
+    },
+    {
+      "i": 337,
+      "start": 2100.4,
+      "end": 2105.84,
+      "text": "Not only that, shrutahani ashruta parikalpanayam kajstit"
+    },
+    {
+      "i": 338,
+      "start": 2106.84,
+      "end": 2113.2,
+      "text": "vishesha upalabhyate. Nor is there any advantage in"
+    },
+    {
+      "i": 339,
+      "start": 2113.2,
+      "end": 2117.6,
+      "text": "abandoning the actual meaning of the text and inventing an"
+    },
+    {
+      "i": 340,
+      "start": 2117.6,
+      "end": 2122.8,
+      "text": "unheard meaning. So the unheard meaning is about"
+    },
+    {
+      "i": 341,
+      "start": 2122.8,
+      "end": 2127.96,
+      "text": "the nithya, the obligatory duties and their action and"
+    },
+    {
+      "i": 342,
+      "start": 2127.96,
+      "end": 2132.04,
+      "text": "inaction, etc, which is abandoning the actual meaning of"
+    },
+    {
+      "i": 343,
+      "start": 2132.04,
+      "end": 2135.36,
+      "text": "the text. First, abdaina abhi satyam"
+    },
+    {
+      "i": 344,
+      "start": 2135.36,
+      "end": 2138.72,
+      "text": "baktam. The point could easily be stated"
+    },
+    {
+      "i": 345,
+      "start": 2138.72,
+      "end": 2145.92,
+      "text": "directly in simple words. Etiyakarmanam halabnasti akarana"
+    },
+    {
+      "i": 346,
+      "start": 2145.92,
+      "end": 2152.28,
+      "text": "chathesham naraka paatha. It is yat, for example, a Vahu."
+    },
+    {
+      "i": 347,
+      "start": 2152.28,
+      "end": 2156.6,
+      "text": "Can it be simply stated, obligatory duties produce no"
+    },
+    {
+      "i": 348,
+      "start": 2156.6,
+      "end": 2161.24,
+      "text": "fruit of action, but their omission leads to hell."
+    },
+    {
+      "i": 349,
+      "start": 2161.76,
+      "end": 2171.24,
+      "text": "Prithya vya jaina paravyamohar upena karmani akarmaiyappasyed"
+    },
+    {
+      "i": 350,
+      "start": 2171.24,
+      "end": 2178.44,
+      "text": "ityadi na Kim then why use a deceptive expression such as"
+    },
+    {
+      "i": 351,
+      "start": 2178.68,
+      "end": 2182.72,
+      "text": "seeing inaction, inaction that can confuse people."
+    },
+    {
+      "i": 352,
+      "start": 2184.28,
+      "end": 2192.56,
+      "text": "Attra emam vyachakshayenai bhagavata uktam vakyam loka"
+    },
+    {
+      "i": 353,
+      "start": 2192.56,
+      "end": 2195.6,
+      "text": "vyamohartham ETI vyaktam kalpitham syat."
+    },
+    {
+      "i": 354,
+      "start": 2196.32,
+      "end": 2201.16,
+      "text": "If interpreted that way, then Krishna's words would appear to"
+    },
+    {
+      "i": 355,
+      "start": 2201.16,
+      "end": 2205.72,
+      "text": "be to have been spoken merely to confuse people."
+    },
+    {
+      "i": 356,
+      "start": 2207.72,
+      "end": 2213.48,
+      "text": "NACHA ET rupena vakyena dakshani yamvastu."
+    },
+    {
+      "i": 357,
+      "start": 2214.2,
+      "end": 2217.08,
+      "text": "Nor is the truth something that must be protected through"
+    },
+    {
+      "i": 358,
+      "start": 2217.08,
+      "end": 2220.48,
+      "text": "deceptive wording. And there is no truth or nothing"
+    },
+    {
+      "i": 359,
+      "start": 2220.48,
+      "end": 2222.4,
+      "text": "something which need to be protected."
+    },
+    {
+      "i": 360,
+      "start": 2223.52,
+      "end": 2229.48,
+      "text": "Nathi sabdan daryena una punaha uchyamanam subodhyam subodham"
+    },
+    {
+      "i": 361,
+      "start": 2229.48,
+      "end": 2232.36,
+      "text": "syat. Nor would repeating the same"
+    },
+    {
+      "i": 362,
+      "start": 2232.36,
+      "end": 2235.6,
+      "text": "meaning in different words make it clearer."
+    },
+    {
+      "i": 363,
+      "start": 2237.24,
+      "end": 2243.04,
+      "text": "Ityvam baktam yuktam. That's such an interpretation is"
+    },
+    {
+      "i": 364,
+      "start": 2243.36,
+      "end": 2248.64,
+      "text": "unreasonable. Karmanyevadigaraste nafaleshu"
+    },
+    {
+      "i": 365,
+      "start": 2248.64,
+      "end": 2253.4,
+      "text": "katagajana ityatra he is puta Tara ukta artha."
+    },
+    {
+      "i": 366,
+      "start": 2254.48,
+      "end": 2257.92,
+      "text": "Because the meaning of regarding action has already been stated"
+    },
+    {
+      "i": 367,
+      "start": 2257.92,
+      "end": 2261.52,
+      "text": "clearly in the verse Karmanyevadigaraste."
+    },
+    {
+      "i": 368,
+      "start": 2261.8,
+      "end": 2266.64,
+      "text": "Your right is to the action alone The 47th verse of second"
+    },
+    {
+      "i": 369,
+      "start": 2266.64,
+      "end": 2270.6,
+      "text": "chapter na poonar bhaktiya iviyo bhavati."
+    },
+    {
+      "i": 370,
+      "start": 2270.84,
+      "end": 2274.12,
+      "text": "There is no need to repeat the same again idea again here"
+    },
+    {
+      "i": 371,
+      "start": 2275.28,
+      "end": 2279.16,
+      "text": "Sarvatra prasastam bodhavyam cha karthabyam Eva."
+    },
+    {
+      "i": 372,
+      "start": 2279.88,
+      "end": 2284.28,
+      "text": "Moreover scripture teaches that is beneficial and must be"
+    },
+    {
+      "i": 373,
+      "start": 2284.28,
+      "end": 2289.32,
+      "text": "understood na nisprayo Janam bodhavyam idhi uchate."
+    },
+    {
+      "i": 374,
+      "start": 2290.8,
+      "end": 2295.44,
+      "text": "It does not inspect something which is useless as something to"
+    },
+    {
+      "i": 375,
+      "start": 2295.44,
+      "end": 2301.0,
+      "text": "be known NACHA mithya tyana both of yam bhavati."
+    },
+    {
+      "i": 376,
+      "start": 2301.24,
+      "end": 2304.36,
+      "text": "The false knowledge cannot be something that the scripture"
+    },
+    {
+      "i": 377,
+      "start": 2304.36,
+      "end": 2313.52,
+      "text": "instructs us to understand that pratyupa pratyupa star rhythm"
+    },
+    {
+      "i": 378,
+      "start": 2313.72,
+      "end": 2319.64,
+      "text": "Washington vastu abhasam. Nor can a mere illusion of"
+    },
+    {
+      "i": 379,
+      "start": 2319.64,
+      "end": 2328.12,
+      "text": "reality be the object of instruction na API nithyanam"
+    },
+    {
+      "i": 380,
+      "start": 2329.32,
+      "end": 2334.48,
+      "text": "akaranath abhavat prithyavayo bhava utpati."
+    },
+    {
+      "i": 381,
+      "start": 2336.36,
+      "end": 2341.52,
+      "text": "Nor can the omission of obligatory duties produce a real"
+    },
+    {
+      "i": 382,
+      "start": 2341.52,
+      "end": 2346.4,
+      "text": "entity such as sin from mere non existence."
+    },
+    {
+      "i": 383,
+      "start": 2349.52,
+      "end": 2356.12,
+      "text": "So this statement is is to be understood the non the omission"
+    },
+    {
+      "i": 384,
+      "start": 2356.12,
+      "end": 2360.04,
+      "text": "of obligatory duties means that non performance of a duty"
+    },
+    {
+      "i": 385,
+      "start": 2362.28,
+      "end": 2369.52,
+      "text": "produces a real entity such as sin action producing something"
+    },
+    {
+      "i": 386,
+      "start": 2369.6,
+      "end": 2374.6,
+      "text": "is understandable. But inaction of or non"
+    },
+    {
+      "i": 387,
+      "start": 2375.88,
+      "end": 2381.28,
+      "text": "performance of a duty how can it really entities and can a some"
+    },
+    {
+      "i": 388,
+      "start": 2382.16,
+      "end": 2387.04,
+      "text": "because non existence non performance is non existence."
+    },
+    {
+      "i": 389,
+      "start": 2388.8,
+      "end": 2395.92,
+      "text": "Because in the 16th verse of 2nd chapter Krishna has said nasado"
+    },
+    {
+      "i": 390,
+      "start": 2395.92,
+      "end": 2398.48,
+      "text": "vidyade bhavo na bhavo vidyadesh sadha."
+    },
+    {
+      "i": 391,
+      "start": 2400.2,
+      "end": 2403.88,
+      "text": "It is said that the real never comes into be, the unreal never"
+    },
+    {
+      "i": 392,
+      "start": 2403.88,
+      "end": 2409.96,
+      "text": "comes into being, nor the being will ever become unreal."
+    },
+    {
+      "i": 393,
+      "start": 2411.84,
+      "end": 2417.8,
+      "text": "Katam asataha sajja ayataha Chandogya Upanishad also says"
+    },
+    {
+      "i": 394,
+      "start": 2417.8,
+      "end": 2421.6,
+      "text": "that how could existence arise from non existence."
+    },
+    {
+      "i": 395,
+      "start": 2422.36,
+      "end": 2425.88,
+      "text": "Edi darsitam asataha sajjanmat Pradeep shedad."
+    },
+    {
+      "i": 396,
+      "start": 2426.88,
+      "end": 2430.32,
+      "text": "The scripture denies the possibility of existence arising"
+    },
+    {
+      "i": 397,
+      "start": 2430.32,
+      "end": 2435.52,
+      "text": "from a non existence. Therefore, non performing of the"
+    },
+    {
+      "i": 398,
+      "start": 2435.56,
+      "end": 2444.76,
+      "text": "obligatory duties cannot give rise to sins Asaha asaha satbutt"
+    },
+    {
+      "i": 399,
+      "start": 2444.84,
+      "end": 2449.72,
+      "text": "sattvattim guruvataha asadeva satbhavit."
+    },
+    {
+      "i": 400,
+      "start": 2450.6,
+      "end": 2454.88,
+      "text": "If one claimed that existence arises from non existent then"
+    },
+    {
+      "i": 401,
+      "start": 2454.88,
+      "end": 2465.24,
+      "text": "the non existent would would become existent Sacha API Asad"
+    },
+    {
+      "i": 402,
+      "start": 2465.24,
+      "end": 2471.64,
+      "text": "bhavid and what exists would can also become non existent Sacha"
+    },
+    {
+      "i": 403,
+      "start": 2471.88,
+      "end": 2474.84,
+      "text": "ayuktam sarvabh pramana veerwathat."
+    },
+    {
+      "i": 404,
+      "start": 2475.52,
+      "end": 2481.2,
+      "text": "And this reasoning is invalid because it contradicts us all"
+    },
+    {
+      "i": 405,
+      "start": 2481.2,
+      "end": 2486.72,
+      "text": "valid means of knowledge. NACHA niswalam vidya karma"
+    },
+    {
+      "i": 406,
+      "start": 2486.72,
+      "end": 2489.68,
+      "text": "shastram. Nor would the scripture"
+    },
+    {
+      "i": 407,
+      "start": 2489.68,
+      "end": 2493.24,
+      "text": "prescribe an action that produces no result."
+    },
+    {
+      "i": 408,
+      "start": 2494.96,
+      "end": 2498.52,
+      "text": "That the meemam sagars are saying that you know nithya"
+    },
+    {
+      "i": 409,
+      "start": 2498.52,
+      "end": 2502.36,
+      "text": "karmas have no visible result, so there is no result."
+    },
+    {
+      "i": 410,
+      "start": 2503.68,
+      "end": 2509.08,
+      "text": "So that is being objected here. Dukkha surubhatwad because"
+    },
+    {
+      "i": 411,
+      "start": 2509.56,
+      "end": 2512.6,
+      "text": "action itself involves effort and difficulty."
+    },
+    {
+      "i": 412,
+      "start": 2513.92,
+      "end": 2521.32,
+      "text": "Dukkha Sacha buddhi purvakataya karyatva anuvapathy and it is"
+    },
+    {
+      "i": 413,
+      "start": 2521.44,
+      "end": 2525.92,
+      "text": "unreasonable to assume that something involving suffering"
+    },
+    {
+      "i": 414,
+      "start": 2525.92,
+      "end": 2529.72,
+      "text": "would be deliberately prescribed without purpose."
+    },
+    {
+      "i": 415,
+      "start": 2531.96,
+      "end": 2537.0,
+      "text": "Tukashecha buddhi purvagataya karyatva anuvapathy."
+    },
+    {
+      "i": 416,
+      "start": 2538.44,
+      "end": 2542.64,
+      "text": "It is unreasonable again to assume that something involving"
+    },
+    {
+      "i": 417,
+      "start": 2542.64,
+      "end": 2546.72,
+      "text": "suffering would be deliberately prescribed without purpose."
+    },
+    {
+      "i": 418,
+      "start": 2548.04,
+      "end": 2554.56,
+      "text": "Tata karani Tata karani cha naraka pada bhugamath and if the"
+    },
+    {
+      "i": 419,
+      "start": 2554.56,
+      "end": 2562.88,
+      "text": "omission leads to hell, anartha yewa ubayasha ubhayata abhi"
+    },
+    {
+      "i": 420,
+      "start": 2563.4,
+      "end": 2569.92,
+      "text": "karanabhi karani cha akaranet cha, then both performing and"
+    },
+    {
+      "i": 421,
+      "start": 2569.92,
+      "end": 2573.16,
+      "text": "non performing action would lead only to misfortune."
+    },
+    {
+      "i": 422,
+      "start": 2575.56,
+      "end": 2577.68,
+      "text": "Shastrum nishpalam kalpitham syad."
+    },
+    {
+      "i": 423,
+      "start": 2578.24,
+      "end": 2581.44,
+      "text": "In that case the scripture itself will become meaningless."
+    },
+    {
+      "i": 424,
+      "start": 2583.08,
+      "end": 2588.08,
+      "text": "So abhigama virova dashta. Such a view would also"
+    },
+    {
+      "i": 425,
+      "start": 2588.08,
+      "end": 2594.92,
+      "text": "contradict its own assumptions. Nithyam nishpalam karba iti"
+    },
+    {
+      "i": 426,
+      "start": 2595.04,
+      "end": 2600.28,
+      "text": "abhigama abhya. Abhigama abhya gamya oksafalaya"
+    },
+    {
+      "i": 427,
+      "start": 2600.32,
+      "end": 2606.6,
+      "text": "iti bruvataha or it first claims that obligatory actions produce"
+    },
+    {
+      "i": 428,
+      "start": 2606.6,
+      "end": 2611.28,
+      "text": "no result, yet later says they lead to liberation."
+    },
+    {
+      "i": 429,
+      "start": 2612.96,
+      "end": 2619.0,
+      "text": "So Shastra has not done any assessment that nitya nitya"
+    },
+    {
+      "i": 430,
+      "start": 2619.0,
+      "end": 2622.08,
+      "text": "garma. If done, there is no result."
+    },
+    {
+      "i": 431,
+      "start": 2622.72,
+      "end": 2626.16,
+      "text": "It has said that later it has said that it will lead to"
+    },
+    {
+      "i": 432,
+      "start": 2626.16,
+      "end": 2629.08,
+      "text": "liberation. Sasmath yeda shruta hai"
+    },
+    {
+      "i": 433,
+      "start": 2629.08,
+      "end": 2631.68,
+      "text": "yewartha. Therefore the meaning must be"
+    },
+    {
+      "i": 434,
+      "start": 2631.68,
+      "end": 2638.68,
+      "text": "taken exactly as the how as the how as how the text states."
+    },
+    {
+      "i": 435,
+      "start": 2640.4,
+      "end": 2646.32,
+      "text": "Therefore karmani akarma yap ityade so the words He is who"
+    },
+    {
+      "i": 436,
+      "start": 2646.32,
+      "end": 2651.0,
+      "text": "sees action in inaction or inaction inaction."
+    },
+    {
+      "i": 437,
+      "start": 2651.72,
+      "end": 2658.68,
+      "text": "Dadaacha vyakhya da Asma bhihi shloka and thus the verse has"
+    },
+    {
+      "i": 438,
+      "start": 2658.68,
+      "end": 2663.36,
+      "text": "been explained by us in the correct manner not the way in"
+    },
+    {
+      "i": 439,
+      "start": 2663.36,
+      "end": 2667.32,
+      "text": "which this in statement of commentary which was there in"
+    },
+    {
+      "i": 440,
+      "start": 2667.32,
+      "end": 2675.24,
+      "text": "between the 14th verse declared the vision pashyed that"
+    },
+    {
+      "i": 441,
+      "start": 2675.24,
+      "end": 2680.68,
+      "text": "constitute the tutyana in the domain of action Karmani"
+    },
+    {
+      "i": 442,
+      "start": 2680.68,
+      "end": 2687.28,
+      "text": "akarmaya Pashyed and it defined it is bearer as Buddhimaan Yukta"
+    },
+    {
+      "i": 443,
+      "start": 2687.28,
+      "end": 2694.04,
+      "text": "ha Karmakrishnakrishna Karmakar. Now we are moving to the 19th"
+    },
+    {
+      "i": 444,
+      "start": 2694.16,
+      "end": 2703.0,
+      "text": "verse which flushes out that portrait describing the Yukta"
+    },
+    {
+      "i": 445,
+      "start": 2703.0,
+      "end": 2710.6,
+      "text": "from 2 angles simultaneously. The inner condition of a Yukta"
+    },
+    {
+      "i": 446,
+      "start": 2711.92,
+      "end": 2718.16,
+      "text": "Kamasangalpavarjita free from desire laid an intention."
+    },
+    {
+      "i": 447,
+      "start": 2718.8,
+      "end": 2725.96,
+      "text": "What that Nyani's action lacks at the root and the metaphysical"
+    },
+    {
+      "i": 448,
+      "start": 2725.96,
+      "end": 2733.88,
+      "text": "ground Nyanagni Dakdakarman, whose karmas have been burned by"
+    },
+    {
+      "i": 449,
+      "start": 2733.88,
+      "end": 2740.0,
+      "text": "the fire of knowledge. Why that Nyani's action has that"
+    },
+    {
+      "i": 450,
+      "start": 2740.0,
+      "end": 2747.6,
+      "text": "character? Sankarajarya introduces 2 of the"
+    },
+    {
+      "i": 451,
+      "start": 2747.6,
+      "end": 2751.64,
+      "text": "Gita's most philosophically charged compounds, Kama"
+    },
+    {
+      "i": 452,
+      "start": 2751.64,
+      "end": 2757.72,
+      "text": "Sangalpavardita and Nyanadi Dakdakarman, and anchors them"
+    },
+    {
+      "i": 453,
+      "start": 2757.72,
+      "end": 2764.24,
+      "text": "with the testimony of Buddha. The awakened 1."
+    },
+    {
+      "i": 454,
+      "start": 2766.0,
+      "end": 2769.4,
+      "text": "The Awakened one called that one Pandita."
+    },
+    {
+      "i": 455,
+      "start": 2771.24,
+      "end": 2775.44,
+      "text": "Therefore, the words thus has both the descriptive and"
+    },
+    {
+      "i": 456,
+      "start": 2775.44,
+      "end": 2780.4,
+      "text": "epistemological weight. The portrait of Etnyani is valid"
+    },
+    {
+      "i": 457,
+      "start": 2780.4,
+      "end": 2791.44,
+      "text": "by those who themselves know it. Karmani akarma darsenam suyate"
+    },
+    {
+      "i": 458,
+      "start": 2793.68,
+      "end": 2802.16,
+      "text": "now Karmani akarma darsenam. How the inactivity in action is"
+    },
+    {
+      "i": 459,
+      "start": 2802.56,
+      "end": 2807.88,
+      "text": "being described. The 19th verse yecha survey"
+    },
+    {
+      "i": 460,
+      "start": 2807.88,
+      "end": 2815.56,
+      "text": "samaram Baha kamasangalpavarjita yanagni dagdagarmanam tamahu"
+    },
+    {
+      "i": 461,
+      "start": 2815.56,
+      "end": 2834.08,
+      "text": "panditam buza yah yecha means who's survey all samaramba Sam"
+    },
+    {
+      "i": 462,
+      "start": 2834.16,
+      "end": 2839.68,
+      "text": "plus aramba means undertaking or enterprise Oregon beginnings of"
+    },
+    {
+      "i": 463,
+      "start": 2839.68,
+      "end": 2848.92,
+      "text": "action. So whose undertakings?"
+    },
+    {
+      "i": 464,
+      "start": 2849.8,
+      "end": 2857.84,
+      "text": "All undertakings are Kamasangalpavarjitaha means"
+    },
+    {
+      "i": 465,
+      "start": 2858.0,
+      "end": 2868.6,
+      "text": "divide of Kama and Sangalpa and Samaramba is the adjective for"
+    },
+    {
+      "i": 466,
+      "start": 2870.4,
+      "end": 2877.16,
+      "text": "Samaramba Sama, Sangalpa bardidas, samaramba yanaddi,"
+    },
+    {
+      "i": 467,
+      "start": 2877.16,
+      "end": 2881.92,
+      "text": "dadda karmanam. One whose karmas have been fully"
+    },
+    {
+      "i": 468,
+      "start": 2881.92,
+      "end": 2887.08,
+      "text": "burnt by the fire of knowledge. Tam Ahu, Panditam Buddha."
+    },
+    {
+      "i": 469,
+      "start": 2889.16,
+      "end": 2895.12,
+      "text": "Tam means that one or him. Ahu means declare or they call"
+    },
+    {
+      "i": 470,
+      "start": 2895.68,
+      "end": 2900.68,
+      "text": "panditam learned one, the wise one, Buddha."
+    },
+    {
+      "i": 471,
+      "start": 2901.04,
+      "end": 2908.32,
+      "text": "There are two nouns. 21 is Pandita, the other one is"
+    },
+    {
+      "i": 472,
+      "start": 2908.32,
+      "end": 2913.44,
+      "text": "Buddha. Buddha means Bodha, the wise one"
+    },
+    {
+      "i": 473,
+      "start": 2913.8,
+      "end": 2918.84,
+      "text": "or the awakened one from Buddha. Buddha the word comes from the"
+    },
+    {
+      "i": 474,
+      "start": 2918.88,
+      "end": 2925.24,
+      "text": "Buddha. So Samaramba means undertaking"
+    },
+    {
+      "i": 475,
+      "start": 2925.28,
+      "end": 2927.56,
+      "text": "enterprise Oregon commencement of action."
+    },
+    {
+      "i": 476,
+      "start": 2928.68,
+      "end": 2932.04,
+      "text": "It is a willful, intentional beginning of actions."
+    },
+    {
+      "i": 477,
+      "start": 2933.76,
+      "end": 2937.48,
+      "text": "The moment where the intention meets action."
+    },
+    {
+      "i": 478,
+      "start": 2942.2,
+      "end": 2944.4,
+      "text": "Intention is at the mental level."
+    },
+    {
+      "i": 479,
+      "start": 2945.32,
+      "end": 2950.96,
+      "text": "Action can be from mental level or the physical level, but the"
+    },
+    {
+      "i": 480,
+      "start": 2950.96,
+      "end": 2957.12,
+      "text": "intention has to meet the action then only."
+    },
+    {
+      "i": 481,
+      "start": 2957.24,
+      "end": 2962.24,
+      "text": "It is called an enterprise. Oregon an undertaking or a"
+    },
+    {
+      "i": 482,
+      "start": 2962.64,
+      "end": 2972.08,
+      "text": "beginning of an action. The philosophical aspect of the"
+    },
+    {
+      "i": 483,
+      "start": 2972.08,
+      "end": 2979.12,
+      "text": "word samaramba locate the root of action not in physical"
+    },
+    {
+      "i": 484,
+      "start": 2979.12,
+      "end": 2986.36,
+      "text": "movement but in the initial intentional act called the"
+    },
+    {
+      "i": 485,
+      "start": 2986.36,
+      "end": 2991.96,
+      "text": "sankalpa that proceed precedes and generates the action."
+    },
+    {
+      "i": 486,
+      "start": 2993.48,
+      "end": 2997.64,
+      "text": "Therefore, survey Samaramba means all undertaking or every"
+    },
+    {
+      "i": 487,
+      "start": 2997.64,
+      "end": 3004.72,
+      "text": "single instance of that Nyani's initiating an action without"
+    },
+    {
+      "i": 488,
+      "start": 3004.72,
+      "end": 3008.12,
+      "text": "exception. That is why Survey Samaramba"
+    },
+    {
+      "i": 489,
+      "start": 3010.64,
+      "end": 3014.64,
+      "text": "yesterya Survey Samaramba establishes the scope of"
+    },
+    {
+      "i": 490,
+      "start": 3014.72,
+      "end": 3020.6,
+      "text": "qualification for the Nyani. Not some actions, not most"
+    },
+    {
+      "i": 491,
+      "start": 3020.6,
+      "end": 3028.52,
+      "text": "actions, but every single undertaking, survey, Kama"
+    },
+    {
+      "i": 492,
+      "start": 3028.52,
+      "end": 3039.76,
+      "text": "Sangalpa varjita that is undertaking would indicate"
+    },
+    {
+      "i": 493,
+      "start": 3039.96,
+      "end": 3047.12,
+      "text": "residual Kartrutu Abhimana. So the completeness of survey"
+    },
+    {
+      "i": 494,
+      "start": 3047.12,
+      "end": 3053.8,
+      "text": "signals total freedom from Kama sangalpa, that is, Kama Sangalpa"
+    },
+    {
+      "i": 495,
+      "start": 3053.8,
+      "end": 3058.68,
+      "text": "varjita Varjita means freedom across the entire field of"
+    },
+    {
+      "i": 496,
+      "start": 3058.68,
+      "end": 3062.36,
+      "text": "action. This freedom is only possible"
+    },
+    {
+      "i": 497,
+      "start": 3064.68,
+      "end": 3073.48,
+      "text": "when the knowledge or the nyana of non doership akartrutva is"
+    },
+    {
+      "i": 498,
+      "start": 3073.48,
+      "end": 3077.88,
+      "text": "complete, not a partial knowledge, but a complete"
+    },
+    {
+      "i": 499,
+      "start": 3081.92,
+      "end": 3088.0,
+      "text": "identification of the non doership born out of knowledge"
+    },
+    {
+      "i": 500,
+      "start": 3088.24,
+      "end": 3092.92,
+      "text": "that I am the Atman. It is the aparaksha anubhava of"
+    },
+    {
+      "i": 501,
+      "start": 3093.04,
+      "end": 3097.76,
+      "text": "Atman's essential non agency, not merely an intellectual"
+    },
+    {
+      "i": 502,
+      "start": 3097.76,
+      "end": 3103.4,
+      "text": "conviction. Therefore, the Kama sankalpa"
+    },
+    {
+      "i": 503,
+      "start": 3103.4,
+      "end": 3108.04,
+      "text": "varjitatham or the nature of freedom from the Kama and"
+    },
+    {
+      "i": 504,
+      "start": 3108.04,
+      "end": 3110.52,
+      "text": "sankalpa. Kama is desire."
+    },
+    {
+      "i": 505,
+      "start": 3111.0,
+      "end": 3116.52,
+      "text": "Sankalpa is the mental determination or volition or the"
+    },
+    {
+      "i": 506,
+      "start": 3116.84,
+      "end": 3122.76,
+      "text": "purposive intention, the cognitive act of forming a"
+    },
+    {
+      "i": 507,
+      "start": 3122.76,
+      "end": 3130.72,
+      "text": "resolution towards a specified desire as an outcome."
+    },
+    {
+      "i": 508,
+      "start": 3132.92,
+      "end": 3134.84,
+      "text": "The sangalpa is not a simple word."
+    },
+    {
+      "i": 509,
+      "start": 3135.64,
+      "end": 3142.6,
+      "text": "We have to understand that it is deeply embedded and powered by"
+    },
+    {
+      "i": 510,
+      "start": 3143.24,
+      "end": 3147.12,
+      "text": "our vasanas and intentions in the mind."
+    },
+    {
+      "i": 511,
+      "start": 3149.12,
+      "end": 3154.76,
+      "text": "It is a purposive intention and the intention comes from our"
+    },
+    {
+      "i": 512,
+      "start": 3155.76,
+      "end": 3165.08,
+      "text": "what you call disposition of our nature of the Prakruti Sattva"
+    },
+    {
+      "i": 513,
+      "start": 3165.08,
+      "end": 3169.84,
+      "text": "rajasthanas in the mind at the body level which gives rise to"
+    },
+    {
+      "i": 514,
+      "start": 3169.88,
+      "end": 3174.96,
+      "text": "cognitive act of forming a resolution to Sangalpa is a"
+    },
+    {
+      "i": 515,
+      "start": 3174.96,
+      "end": 3181.4,
+      "text": "cognitive bridge between karma and karma, between the desire"
+    },
+    {
+      "i": 516,
+      "start": 3182.2,
+      "end": 3187.64,
+      "text": "this give rise to and karma. Karma is formed intention."
+    },
+    {
+      "i": 517,
+      "start": 3188.12,
+      "end": 3195.56,
+      "text": "I will do X to obtain Y, or I will do this to get that which"
+    },
+    {
+      "i": 518,
+      "start": 3195.56,
+      "end": 3201.24,
+      "text": "leads to the karma, the action in pursuit of the Y or the other"
+    },
+    {
+      "i": 519,
+      "start": 3201.24,
+      "end": 3206.64,
+      "text": "thing. Once we remove the sangalpa, the"
+    },
+    {
+      "i": 520,
+      "start": 3206.64,
+      "end": 3212.12,
+      "text": "karma has no Pala or kanksha or the thirst for the fruit of"
+    },
+    {
+      "i": 521,
+      "start": 3212.12,
+      "end": 3218.88,
+      "text": "action, and therefore that the intention, intention, intention"
+    },
+    {
+      "i": 522,
+      "start": 3218.88,
+      "end": 3223.16,
+      "text": "is not driven by the desire for a fruit."
+    },
+    {
+      "i": 523,
+      "start": 3225.96,
+      "end": 3231.28,
+      "text": "Therefore, the karma is no longer a sakama karma, and when"
+    },
+    {
+      "i": 524,
+      "start": 3231.28,
+      "end": 3236.2,
+      "text": "it is not a sakama karma or non, without a desire action, without"
+    },
+    {
+      "i": 525,
+      "start": 3236.2,
+      "end": 3238.92,
+      "text": "a desire, there is no karma Laypa."
+    },
+    {
+      "i": 526,
+      "start": 3239.96,
+      "end": 3246.04,
+      "text": "So sangalpa varjitha, Kama Sangalpa varjitha pairing of"
+    },
+    {
+      "i": 527,
+      "start": 3246.12,
+      "end": 3249.2,
+      "text": "both Kama and Sangalpa is precise."
+    },
+    {
+      "i": 528,
+      "start": 3249.84,
+      "end": 3253.44,
+      "text": "They are the most synonymous but complementary to each other."
+    },
+    {
+      "i": 529,
+      "start": 3255.24,
+      "end": 3259.96,
+      "text": "Kama is the effective pole or desire want of craving whereas"
+    },
+    {
+      "i": 530,
+      "start": 3259.96,
+      "end": 3266.0,
+      "text": "Sangalpa is the cognitive pole, the formed intention resolution"
+    },
+    {
+      "i": 531,
+      "start": 3266.0,
+      "end": 3269.32,
+      "text": "or the minds purpose same direction towards the desire"
+    },
+    {
+      "i": 532,
+      "start": 3269.32,
+      "end": 3272.04,
+      "text": "object. Together Kama Sangalpa"
+    },
+    {
+      "i": 533,
+      "start": 3272.8,
+      "end": 3276.56,
+      "text": "constitute the complete inner mechanism of a desire driven"
+    },
+    {
+      "i": 534,
+      "start": 3276.56,
+      "end": 3284.12,
+      "text": "action, therefore desire crystallising into intention or"
+    },
+    {
+      "i": 535,
+      "start": 3284.12,
+      "end": 3290.16,
+      "text": "crystallizing into action, therefore removing the both cuts"
+    },
+    {
+      "i": 536,
+      "start": 3290.24,
+      "end": 3294.56,
+      "text": "at the root of Kama sankalpa, varjida Kama karma completely."
+    },
+    {
+      "i": 537,
+      "start": 3295.76,
+      "end": 3300.92,
+      "text": "Varjidai means divide or excluded or without so freedom"
+    },
+    {
+      "i": 538,
+      "start": 3300.92,
+      "end": 3306.48,
+      "text": "from Kama and sankalpa. Those understanding undertakings"
+    },
+    {
+      "i": 539,
+      "start": 3306.48,
+      "end": 3313.64,
+      "text": "from which the desire and the intention have been excluded is"
+    },
+    {
+      "i": 540,
+      "start": 3313.64,
+      "end": 3318.76,
+      "text": "the word qualifying the samaramba the undertaking as a"
+    },
+    {
+      "i": 541,
+      "start": 3318.76,
+      "end": 3323.64,
+      "text": "whole and Sarvaka samaramba entire activities."
+    },
+    {
+      "i": 542,
+      "start": 3326.76,
+      "end": 3330.08,
+      "text": "So Kamasangalpavarjit Officer Shankaracharya is the"
+    },
+    {
+      "i": 543,
+      "start": 3330.08,
+      "end": 3333.24,
+      "text": "operational definition of Niskamakarma at the highest"
+    },
+    {
+      "i": 544,
+      "start": 3333.24,
+      "end": 3338.96,
+      "text": "level and he distinguishes it from merely suppressing the"
+    },
+    {
+      "i": 545,
+      "start": 3338.96,
+      "end": 3341.44,
+      "text": "desire. It is not a suppression of a"
+    },
+    {
+      "i": 546,
+      "start": 3341.44,
+      "end": 3347.08,
+      "text": "desire, the atnyanis attempt at jiskama karma by suppressing"
+    },
+    {
+      "i": 547,
+      "start": 3347.08,
+      "end": 3350.08,
+      "text": "Kama through vairagya and discipline."
+    },
+    {
+      "i": 548,
+      "start": 3350.08,
+      "end": 3358.04,
+      "text": "It is a genuine sadhana, but one where Kama is still present in a"
+    },
+    {
+      "i": 549,
+      "start": 3358.04,
+      "end": 3364.56,
+      "text": "latent or a vasana rupa. Whereas Atnyani sax condition is"
+    },
+    {
+      "i": 550,
+      "start": 3364.56,
+      "end": 3370.96,
+      "text": "that natural spontaneous absence of Kama in sangalpa, not"
+    },
+    {
+      "i": 551,
+      "start": 3370.96,
+      "end": 3375.48,
+      "text": "suppressed but dissolved at the root through sattvatmyana of"
+    },
+    {
+      "i": 552,
+      "start": 3375.6,
+      "end": 3381.52,
+      "text": "Akarthritva. When Atman is recognized as"
+    },
+    {
+      "i": 553,
+      "start": 3381.52,
+      "end": 3388.64,
+      "text": "purna Avaya ethyatripta, the Kama which arises from the"
+    },
+    {
+      "i": 554,
+      "start": 3388.64,
+      "end": 3394.4,
+      "text": "apoornata simply do not arise. In such a person there is no"
+    },
+    {
+      "i": 555,
+      "start": 3394.4,
+      "end": 3400.12,
+      "text": "Sangalpa because there is no Falah's heart, no intention for"
+    },
+    {
+      "i": 556,
+      "start": 3400.12,
+      "end": 3403.16,
+      "text": "the result. There is no karma because"
+    },
+    {
+      "i": 557,
+      "start": 3403.16,
+      "end": 3407.12,
+      "text": "Nityapoorna is eternally complete."
+    },
+    {
+      "i": 558,
+      "start": 3408.96,
+      "end": 3419.8,
+      "text": "Therefore Atman lacks nothing. This is that Sitapraknya's role"
+    },
+    {
+      "i": 559,
+      "start": 3419.8,
+      "end": 3422.92,
+      "text": "which the verse 55 explains in the 2nd chapter."
+    },
+    {
+      "i": 560,
+      "start": 3423.92,
+      "end": 3429.92,
+      "text": "Prajahadiyada Karman Sarvan Partha Manogadhan when one"
+    },
+    {
+      "i": 561,
+      "start": 3429.92,
+      "end": 3433.36,
+      "text": "abandons all desires harbored in the mind."
+    },
+    {
+      "i": 562,
+      "start": 3434.16,
+      "end": 3440.32,
+      "text": "The Sidhapraknas condition which is identified here as the same"
+    },
+    {
+      "i": 563,
+      "start": 3440.32,
+      "end": 3446.0,
+      "text": "condition as Kamasangalpavarjita Pandita both portrays the"
+    },
+    {
+      "i": 564,
+      "start": 3446.0,
+      "end": 3450.68,
+      "text": "Sidhapraknya and Pandita at the same level."
+    },
+    {
+      "i": 565,
+      "start": 3451.88,
+      "end": 3455.24,
+      "text": "Both of them are the same Nyani described at from a different"
+    },
+    {
+      "i": 566,
+      "start": 3455.24,
+      "end": 3459.76,
+      "text": "angles. And how does it happen?"
+    },
+    {
+      "i": 567,
+      "start": 3461.16,
+      "end": 3467.04,
+      "text": "Nyanagti Dagdakarman. Nyanyana knowledge, Agni fire."
+    },
+    {
+      "i": 568,
+      "start": 3467.8,
+      "end": 3472.68,
+      "text": "Nyanagni is the fire of knowledge, the fire that is"
+    },
+    {
+      "i": 569,
+      "start": 3472.68,
+      "end": 3480.72,
+      "text": "Nyanyana or Nyanyana conceived as the fire that Nyanyana itself"
+    },
+    {
+      "i": 570,
+      "start": 3480.72,
+      "end": 3485.36,
+      "text": "is, the Agni, the purifying, consuming and forming fire of"
+    },
+    {
+      "i": 571,
+      "start": 3486.2,
+      "end": 3493.04,
+      "text": "awakened understanding. This is this versus meta central"
+    },
+    {
+      "i": 572,
+      "start": 3493.04,
+      "end": 3500.04,
+      "text": "metaphor and one of Geeta's most powerful images of a Minani."
+    },
+    {
+      "i": 573,
+      "start": 3502.64,
+      "end": 3505.92,
+      "text": "Dagda means burnt or consumed or incinerated."
+    },
+    {
+      "i": 574,
+      "start": 3505.92,
+      "end": 3512.2,
+      "text": "Incinerated, which has been completely consumed by the fire"
+    },
+    {
+      "i": 575,
+      "start": 3512.2,
+      "end": 3517.72,
+      "text": "of knowledge, reduced to ashes, leaving no bhija, no seed"
+    },
+    {
+      "i": 576,
+      "start": 3517.72,
+      "end": 3521.64,
+      "text": "capable of germination, no seed of desire."
+    },
+    {
+      "i": 577,
+      "start": 3522.2,
+      "end": 3524.88,
+      "text": "Karma Sangalpa. Germination is possible."
+    },
+    {
+      "i": 578,
+      "start": 3526.2,
+      "end": 3529.04,
+      "text": "Karman. What does it burn?"
+    },
+    {
+      "i": 579,
+      "start": 3529.64,
+      "end": 3535.64,
+      "text": "It burns the karma. The samskara generating residue"
+    },
+    {
+      "i": 580,
+      "start": 3535.64,
+      "end": 3541.48,
+      "text": "is treated as the karma here. The karma bhija or the karma,"
+    },
+    {
+      "i": 581,
+      "start": 3541.48,
+      "end": 3545.56,
+      "text": "the seed of karma that accumulates through Kartritu"
+    },
+    {
+      "i": 582,
+      "start": 3545.56,
+      "end": 3550.6,
+      "text": "Abhimana, the ego worship and the Falaspriha, the potential"
+    },
+    {
+      "i": 583,
+      "start": 3550.6,
+      "end": 3559.8,
+      "text": "for desire out of the action. These two together generates the"
+    },
+    {
+      "i": 584,
+      "start": 3559.8,
+      "end": 3566.2,
+      "text": "future Janma. It is this Karma bija that the"
+    },
+    {
+      "i": 585,
+      "start": 3567.16,
+      "end": 3573.88,
+      "text": "fire of knowledge burns Yanagni, not the Vaibhavarika actions"
+    },
+    {
+      "i": 586,
+      "start": 3573.88,
+      "end": 3580.76,
+      "text": "themselves, which continue as prarabdha, but the binding"
+    },
+    {
+      "i": 587,
+      "start": 3580.76,
+      "end": 3587.52,
+      "text": "residue lepa of karma lepa that would otherwise generate new"
+    },
+    {
+      "i": 588,
+      "start": 3587.52,
+      "end": 3591.84,
+      "text": "samskara is burnt by the fire of knowledge."
+    },
+    {
+      "i": 589,
+      "start": 3592.76,
+      "end": 3598.36,
+      "text": "Therefore Nyanagdi Dagda Karman meaning one whose karma or the"
+    },
+    {
+      "i": 590,
+      "start": 3598.36,
+      "end": 3604.28,
+      "text": "binding residue of karma. Has been burnt by the fire of"
+    },
+    {
+      "i": 591,
+      "start": 3604.28,
+      "end": 3609.24,
+      "text": "Nyana. The compound refers to the"
+    },
+    {
+      "i": 592,
+      "start": 3609.24,
+      "end": 3617.44,
+      "text": "person so characterized as thumb of is the thumb in the verse."
+    },
+    {
+      "i": 593,
+      "start": 3618.44,
+      "end": 3625.64,
+      "text": "So Nyanagti Dakda Karman receives the most expansive"
+    },
+    {
+      "i": 594,
+      "start": 3625.64,
+      "end": 3631.92,
+      "text": "commentary in the verse by Sankarajaya for it decode"
+    },
+    {
+      "i": 595,
+      "start": 3631.92,
+      "end": 3636.12,
+      "text": "encodes the complete advaitic Karma moksha mechanism."
+    },
+    {
+      "i": 596,
+      "start": 3639.56,
+      "end": 3645.36,
+      "text": "The Nyanagni metaphor in full is the fire as a three relevant"
+    },
+    {
+      "i": 597,
+      "start": 3645.36,
+      "end": 3650.76,
+      "text": "properties in the Vedic thought. The fire is Jahaka."
+    },
+    {
+      "i": 598,
+      "start": 3651.2,
+      "end": 3658.56,
+      "text": "Burning means consuming as the fuel Sodhaka."
+    },
+    {
+      "i": 599,
+      "start": 3659.72,
+      "end": 3664.88,
+      "text": "The fire can purify by removing impurity from what it purifies."
+    },
+    {
+      "i": 600,
+      "start": 3666.44,
+      "end": 3669.36,
+      "text": "Vijana shakaha as a seed destroyer."
+    },
+    {
+      "i": 601,
+      "start": 3670.72,
+      "end": 3672.96,
+      "text": "The burnt seeds cannot germinate again."
+    },
+    {
+      "i": 602,
+      "start": 3674.84,
+      "end": 3678.24,
+      "text": "So nyanagni possess all the three properties supplied to"
+    },
+    {
+      "i": 603,
+      "start": 3678.24,
+      "end": 3682.8,
+      "text": "karma. Tahaka means nyana burns, the"
+    },
+    {
+      "i": 604,
+      "start": 3682.8,
+      "end": 3689.12,
+      "text": "accumulated sanchita karma stored as karma, the vast talk"
+    },
+    {
+      "i": 605,
+      "start": 3689.12,
+      "end": 3691.84,
+      "text": "of past karma awaiting fratification."
+    },
+    {
+      "i": 606,
+      "start": 3694.4,
+      "end": 3700.04,
+      "text": "The 37th verse which will follow later which this verse"
+    },
+    {
+      "i": 607,
+      "start": 3700.04,
+      "end": 3714.13,
+      "text": "anticipates now Yatadi asmi samidhor near basmasat kurti"
+    },
+    {
+      "i": 608,
+      "start": 3714.13,
+      "end": 3718.85,
+      "text": "arjuna Nyana di sarva karmani Basmasat kurti ET Tata."
+    },
+    {
+      "i": 609,
+      "start": 3719.89,
+      "end": 3726.4,
+      "text": "As the kindled fire reduces fuel to ashes so that Nyanagni"
+    },
+    {
+      "i": 610,
+      "start": 3726.4,
+      "end": 3730.48,
+      "text": "reduces all karmas to ash. That is the 37th verse which we"
+    },
+    {
+      "i": 611,
+      "start": 3730.48,
+      "end": 3735.2,
+      "text": "will be studying later. Same way the sanchita karma is"
+    },
+    {
+      "i": 612,
+      "start": 3735.2,
+      "end": 3740.52,
+      "text": "completely incinerated, not merely awakened but rendered"
+    },
+    {
+      "i": 613,
+      "start": 3740.52,
+      "end": 3748.0,
+      "text": "incapable of rectification as a shotaka Nyanaka Nyanya purifies"
+    },
+    {
+      "i": 614,
+      "start": 3748.0,
+      "end": 3753.48,
+      "text": "the andakarana, the karma mala impurity of karma karthurtu"
+    },
+    {
+      "i": 615,
+      "start": 3753.48,
+      "end": 3761.84,
+      "text": "abhimana in US, making it suddha pure sanda, peaceful nirlita"
+    },
+    {
+      "i": 616,
+      "start": 3761.88,
+      "end": 3768.2,
+      "text": "unstained. This is the urti or purification"
+    },
+    {
+      "i": 617,
+      "start": 3769.32,
+      "end": 3772.96,
+      "text": "nyana Tapasa Buddha. In the 10th verse, we studied"
+    },
+    {
+      "i": 618,
+      "start": 3772.96,
+      "end": 3778.48,
+      "text": "that as a bhija nasha kaha, the most importantly for moksha,"
+    },
+    {
+      "i": 619,
+      "start": 3779.2,
+      "end": 3784.68,
+      "text": "nyana destroys the kanter karma bheja, the seed capacity of"
+    },
+    {
+      "i": 620,
+      "start": 3784.68,
+      "end": 3791.36,
+      "text": "karma to generate future janmas. A burned seed datda bheja cannot"
+    },
+    {
+      "i": 621,
+      "start": 3791.36,
+      "end": 3798.44,
+      "text": "sprout na ankurasya kalpate. Similarly, nyana agni datda"
+    },
+    {
+      "i": 622,
+      "start": 3798.44,
+      "end": 3800.72,
+      "text": "karma cannot produce kunar janma."
+    },
+    {
+      "i": 623,
+      "start": 3801.68,
+      "end": 3804.96,
+      "text": "It is rendered incapable of germinating into future"
+    },
+    {
+      "i": 624,
+      "start": 3804.96,
+      "end": 3808.92,
+      "text": "embodiment. This is the direct mechanism of"
+    },
+    {
+      "i": 625,
+      "start": 3809.48,
+      "end": 3812.56,
+      "text": "lapunar Janma, which was mentioned in the ninth verse."
+    },
+    {
+      "i": 626,
+      "start": 3813.6,
+      "end": 3817.12,
+      "text": "Therefore, that Nyanagni burns karma bija that would otherwise"
+    },
+    {
+      "i": 627,
+      "start": 3817.12,
+      "end": 3826.73,
+      "text": "generate into next verse. We will stop here and we will"
+    },
+    {
+      "i": 628,
+      "start": 3826.73,
+      "end": 3835.41,
+      "text": "continue the discussion tomorrow regarding that Nyanagni and how"
+    },
+    {
+      "i": 629,
+      "start": 3835.41,
+      "end": 3842.0,
+      "text": "it is helping us to reduce Sanjeeda agami, prarabdha karmas"
+    },
+    {
+      "i": 630,
+      "start": 3842.68,
+      "end": 3848.0,
+      "text": "and Y is called Pandita and Buddha."
+    },
+    {
+      "i": 631,
+      "start": 3849.0,
+      "end": 3852.68,
+      "text": "All these things need to be discussed in detail, which we'll"
+    },
+    {
+      "i": 632,
+      "start": 3852.68,
+      "end": 3860.0,
+      "text": "do tomorrow. O poornamada poornamidam"
+    },
+    {
+      "i": 633,
+      "start": 3860.36,
+      "end": 3866.04,
+      "text": "poornamudachyade poornasya poornamada."
+    },
+    {
+      "i": 634,
+      "start": 3882.4,
+      "end": 3892.21,
+      "text": "Thank you. Thank you very much."
+    },
+    {
+      "i": 635,
+      "start": 3894.01,
+      "end": 3898.68,
+      "text": "Again, a very deep session. I've opened the chat in hand"
+    },
+    {
+      "i": 636,
+      "start": 3898.68,
+      "end": 3900.84,
+      "text": "raising. Is there any follow up questions"
+    },
+    {
+      "i": 637,
+      "start": 3900.84,
+      "end": 3908.32,
+      "text": "or clarifications? Namaste Shrin."
+    },
+    {
+      "i": 638,
+      "start": 3909.76,
+      "end": 3913.96,
+      "text": "Namaste Vrindaji. One small question about how"
+    },
+    {
+      "i": 639,
+      "start": 3913.96,
+      "end": 3919.08,
+      "text": "this was explained right Like 1 is the suppression of desires"
+    },
+    {
+      "i": 640,
+      "start": 3919.08,
+      "end": 3926.44,
+      "text": "and practicing vairagya way of what was that It is and the"
+    },
+    {
+      "i": 641,
+      "start": 3926.44,
+      "end": 3930.48,
+      "text": "other one is where the root of the desires itself gets"
+    },
+    {
+      "i": 642,
+      "start": 3930.48,
+      "end": 3933.04,
+      "text": "dissolved right? Two kinds of things are"
+    },
+    {
+      "i": 643,
+      "start": 3933.04,
+      "end": 3938.68,
+      "text": "explained in this lecture. So my question is like in the"
+    },
+    {
+      "i": 644,
+      "start": 3938.68,
+      "end": 3942.64,
+      "text": "3rd chapter the Karva yoga, which method is being taught?"
+    },
+    {
+      "i": 645,
+      "start": 3942.68,
+      "end": 3944.8,
+      "text": "Is it the first one or the second one?"
+    },
+    {
+      "i": 646,
+      "start": 3944.8,
+      "end": 3947.68,
+      "text": "When they say Ishwaraj Pranabudhi and all those things,"
+    },
+    {
+      "i": 647,
+      "start": 3948.8,
+      "end": 3956.68,
+      "text": "the the yetna yetna principle is what is being taught how to make"
+    },
+    {
+      "i": 648,
+      "start": 3956.76,
+      "end": 3963.28,
+      "text": "the Chitta shuddhi not to the level of Pantita or Nyani."
+    },
+    {
+      "i": 649,
+      "start": 3964.96,
+      "end": 3970.28,
+      "text": "It is a preamble for that at the 3rd chapter."
+    },
+    {
+      "i": 650,
+      "start": 3971.04,
+      "end": 3976.28,
+      "text": "Yeah so it it is like so the Ishwarapana buddhi is one kind"
+    },
+    {
+      "i": 651,
+      "start": 3976.28,
+      "end": 3979.52,
+      "text": "of a controlling your desires through your action or"
+    },
+    {
+      "i": 652,
+      "start": 3979.92,
+      "end": 3981.8,
+      "text": "intelligence. It doesn't control your desires."
+    },
+    {
+      "i": 653,
+      "start": 3982.6,
+      "end": 3990.92,
+      "text": "It only clarifies what type of desires you should nurture so"
+    },
+    {
+      "i": 654,
+      "start": 3990.92,
+      "end": 3995.56,
+      "text": "that you can use it as a ethnartho ethnartho karmano"
+    },
+    {
+      "i": 655,
+      "start": 3995.56,
+      "end": 4002.32,
+      "text": "anyatra, that what type of karmas can be desired so that"
+    },
+    {
+      "i": 656,
+      "start": 4002.32,
+      "end": 4006.44,
+      "text": "you can offer it to the Lord. If that way you will develop a"
+    },
+    {
+      "i": 657,
+      "start": 4006.92,
+      "end": 4011.0,
+      "text": "chitta shuddhi that fear, but your knowledge that you are the"
+    },
+    {
+      "i": 658,
+      "start": 4011.36,
+      "end": 4017.36,
+      "text": "akrita Akrita atma is not going to come when you are doing it as"
+    },
+    {
+      "i": 659,
+      "start": 4017.84,
+      "end": 4025.52,
+      "text": "a is there a chitta shuddhi state possible which doesn't"
+    },
+    {
+      "i": 660,
+      "start": 4025.52,
+      "end": 4027.88,
+      "text": "have this atmagyana kind of thing?"
+    },
+    {
+      "i": 661,
+      "start": 4028.28,
+      "end": 4031.32,
+      "text": "Is that it sounds like a middle ground right?"
+    },
+    {
+      "i": 662,
+      "start": 4031.32,
+      "end": 4034.36,
+      "text": "Like the parking lot or something like that?"
+    },
+    {
+      "i": 663,
+      "start": 4034.36,
+      "end": 4037.6,
+      "text": "Is that even possible or it's just a methodology of"
+    },
+    {
+      "i": 664,
+      "start": 4037.6,
+      "end": 4040.32,
+      "text": "explanation? No, it's a part of the sadhana."
+    },
+    {
+      "i": 665,
+      "start": 4040.8,
+      "end": 4047.2,
+      "text": "It is possible because atmat nyana is see atmat nyana as a"
+    },
+    {
+      "i": 666,
+      "start": 4047.2,
+      "end": 4050.4,
+      "text": "intellectual knowledge may be what you are referring to."
+    },
+    {
+      "i": 667,
+      "start": 4051.44,
+      "end": 4058.2,
+      "text": "But here in this particular verse, when Pandita Budai"
+    },
+    {
+      "i": 668,
+      "start": 4058.4,
+      "end": 4062.84,
+      "text": "Ahutamahu, Pandita Budai, which we'll discuss tomorrow, is"
+    },
+    {
+      "i": 669,
+      "start": 4062.84,
+      "end": 4068.96,
+      "text": "indicating to that one who has attained that nyana and that"
+    },
+    {
+      "i": 670,
+      "start": 4068.96,
+      "end": 4075.8,
+      "text": "nyana has come to practification to the level that he is now"
+    },
+    {
+      "i": 671,
+      "start": 4075.8,
+      "end": 4080.68,
+      "text": "identify himself as the Akarta nityatruta purna atman."
+    },
+    {
+      "i": 672,
+      "start": 4081.92,
+      "end": 4088.08,
+      "text": "So for from his point of view there is nothing which is in the"
+    },
+    {
+      "i": 673,
+      "start": 4088.52,
+      "end": 4094.84,
+      "text": "form of a karma which is he is doing, the karthatu abhimana has"
+    },
+    {
+      "i": 674,
+      "start": 4094.84,
+      "end": 4099.72,
+      "text": "gone totally from him. So there is no Ishwarapana karma"
+    },
+    {
+      "i": 675,
+      "start": 4101.04,
+      "end": 4105.04,
+      "text": "which he sees from his point. He whether he does it or not, he"
+    },
+    {
+      "i": 676,
+      "start": 4105.04,
+      "end": 4110.64,
+      "text": "doesn't see his as that the karta that Sharida is doing or"
+    },
+    {
+      "i": 677,
+      "start": 4110.64,
+      "end": 4115.08,
+      "text": "Sharida is performing an action is the nature of the Prakruti"
+    },
+    {
+      "i": 678,
+      "start": 4115.08,
+      "end": 4117.84,
+      "text": "Prakruti Gunai Gura Ganeshwar Tande that way."
+    },
+    {
+      "i": 679,
+      "start": 4118.76,
+      "end": 4124.96,
+      "text": "And he has no identification to with it to even offer it as an"
+    },
+    {
+      "i": 680,
+      "start": 4124.96,
+      "end": 4130.12,
+      "text": "issue or yeah, yeah. This the case of Pandita is"
+    },
+    {
+      "i": 681,
+      "start": 4130.12,
+      "end": 4132.24,
+      "text": "clear where his knowledge has fortified."
+    },
+    {
+      "i": 682,
+      "start": 4132.72,
+      "end": 4136.96,
+      "text": "Now other than this kind of Pandita, is there any other"
+    },
+    {
+      "i": 683,
+      "start": 4138.6,
+      "end": 4142.6,
+      "text": "sample or some kind of person who can be considered as having"
+    },
+    {
+      "i": 684,
+      "start": 4142.6,
+      "end": 4147.399,
+      "text": "chitashudhi right This. So Chitashudhi should also mean"
+    },
+    {
+      "i": 685,
+      "start": 4147.6,
+      "end": 4151.52,
+      "text": "Chitashudhi plus Gyana right Is there is is there a variation"
+    },
+    {
+      "i": 686,
+      "start": 4151.52,
+      "end": 4155.16,
+      "text": "where there is only Chitashudhi but no Gyana such a variation"
+    },
+    {
+      "i": 687,
+      "start": 4155.16,
+      "end": 4158.359,
+      "text": "does it exist? Yes, it does exist."
+    },
+    {
+      "i": 688,
+      "start": 4158.479,
+      "end": 4164.359,
+      "text": "So how would that be when when you are, when you are performing"
+    },
+    {
+      "i": 689,
+      "start": 4164.359,
+      "end": 4167.76,
+      "text": "at the actions which you are performing with the Kartarukla"
+    },
+    {
+      "i": 690,
+      "start": 4167.76,
+      "end": 4173.359,
+      "text": "Boda that I am the doer, but I am I am offering it to the Lord"
+    },
+    {
+      "i": 691,
+      "start": 4173.64,
+      "end": 4177.72,
+      "text": "Etnyartham. He has need not be knowing that"
+    },
+    {
+      "i": 692,
+      "start": 4177.72,
+      "end": 4184.2,
+      "text": "I am the Atma or the nature of Atma is what I am or you know"
+    },
+    {
+      "i": 693,
+      "start": 4184.359,
+      "end": 4188.96,
+      "text": "that that identification the Parokshat Nana has not taken"
+    },
+    {
+      "i": 694,
+      "start": 4188.96,
+      "end": 4192.96,
+      "text": "place in him. He still identifies himself as"
+    },
+    {
+      "i": 695,
+      "start": 4192.96,
+      "end": 4195.92,
+      "text": "the body, mind, intellect, performing actions."
+    },
+    {
+      "i": 696,
+      "start": 4196.32,
+      "end": 4201.8,
+      "text": "But he has sattva as increased in his this thing by reducing"
+    },
+    {
+      "i": 697,
+      "start": 4201.8,
+      "end": 4205.28,
+      "text": "the register tamas. Therefore he offers it as a yet"
+    },
+    {
+      "i": 698,
+      "start": 4205.28,
+      "end": 4207.88,
+      "text": "nyartham. OK, like a person who has"
+    },
+    {
+      "i": 699,
+      "start": 4207.88,
+      "end": 4210.8,
+      "text": "perfected karma yoga, that kind of person."
+    },
+    {
+      "i": 700,
+      "start": 4211.12,
+      "end": 4214.88,
+      "text": "Yes, thank you, Bindaji. Thank you, Sri."
+    },
+    {
+      "i": 701,
+      "start": 4215.64,
+      "end": 4216.52,
+      "text": "Hello, Sir. Excuse me."
+    },
+    {
+      "i": 702,
+      "start": 4217.36,
+      "end": 4219.04,
+      "text": "Wait. Akhilesh, you are on the order."
+    },
+    {
+      "i": 703,
+      "start": 4219.4,
+      "end": 4220.12,
+      "text": "We'll call you. OK?"
+    },
+    {
+      "i": 704,
+      "start": 4223.64,
+      "end": 4226.84,
+      "text": "Yes, Vinod. Rahul, go first."
+    },
+    {
+      "i": 705,
+      "start": 4226.84,
+      "end": 4228.08,
+      "text": "I think yesterday he had a question."
+    },
+    {
+      "i": 706,
+      "start": 4228.88,
+      "end": 4231.08,
+      "text": "I wanted that too. I'll talk to you later."
+    },
+    {
+      "i": 707,
+      "start": 4232.44,
+      "end": 4234.56,
+      "text": "OK. Yes, Rahul, my question namaste."
+    },
+    {
+      "i": 708,
+      "start": 4234.64,
+      "end": 4239.8,
+      "text": "Rahul question is little bit more practical."
+    },
+    {
+      "i": 709,
+      "start": 4240.64,
+      "end": 4249.04,
+      "text": "It's like regarding pain like does Advaita provide any kind of"
+    },
+    {
+      "i": 710,
+      "start": 4249.76,
+      "end": 4251.6,
+      "text": "You're not crazy, you're not very clear."
+    },
+    {
+      "i": 711,
+      "start": 4251.76,
+      "end": 4255.2,
+      "text": "Your voice is breaking, Rahul. OK, I think my."
+    },
+    {
+      "i": 712,
+      "start": 4255.2,
+      "end": 4256.72,
+      "text": "Connection is bad, maybe I'll talk."
+    },
+    {
+      "i": 713,
+      "start": 4260.16,
+      "end": 4263.64,
+      "text": "You can hear properly or your voice is you're hearing also"
+    },
+    {
+      "i": 714,
+      "start": 4264.24,
+      "end": 4270.76,
+      "text": "this thing bad. I think Rajesh, you can go"
+    },
+    {
+      "i": 715,
+      "start": 4270.76,
+      "end": 4272.44,
+      "text": "ahead. Rahul will come later."
+    },
+    {
+      "i": 716,
+      "start": 4277.6,
+      "end": 4282.8,
+      "text": "My my question is we are referring this knowledge or"
+    },
+    {
+      "i": 717,
+      "start": 4283.36,
+      "end": 4289.0,
+      "text": "wisdom as Yagna and Nanagni. OK, many."
+    },
+    {
+      "i": 718,
+      "start": 4289.0,
+      "end": 4291.4,
+      "text": "Verses we are referring to it like this."
+    },
+    {
+      "i": 719,
+      "start": 4292.44,
+      "end": 4297.0,
+      "text": "My question is, is it just a metaphorical use or is it really"
+    },
+    {
+      "i": 720,
+      "start": 4297.28,
+      "end": 4303.12,
+      "text": "work work like fire insides? That is, that is what is going"
+    },
+    {
+      "i": 721,
+      "start": 4303.12,
+      "end": 4307.68,
+      "text": "to be explained tomorrow. Because the nature of in which"
+    },
+    {
+      "i": 722,
+      "start": 4307.68,
+      "end": 4316.44,
+      "text": "Agni is has got 3 roles to play and how knowledge does the three"
+    },
+    {
+      "i": 723,
+      "start": 4316.44,
+      "end": 4321.36,
+      "text": "roles what the Agni does in the case of material things, how"
+    },
+    {
+      "i": 724,
+      "start": 4321.36,
+      "end": 4326.44,
+      "text": "does the knowledge does that for the purpose of Kama and Sankalpa"
+    },
+    {
+      "i": 725,
+      "start": 4326.44,
+      "end": 4331.36,
+      "text": "etc will be known will be explained tomorrow and then you"
+    },
+    {
+      "i": 726,
+      "start": 4331.36,
+      "end": 4334.36,
+      "text": "can understand that the similarity between the two."
+    },
+    {
+      "i": 727,
+      "start": 4335.96,
+      "end": 4338.12,
+      "text": "Because I have not completed that aspect today."
+    },
+    {
+      "i": 728,
+      "start": 4338.12,
+      "end": 4343.56,
+      "text": "Our question is. But still it workers agree"
+    },
+    {
+      "i": 729,
+      "start": 4343.84,
+      "end": 4348.08,
+      "text": "inside. Yes, it just as as an what a"
+    },
+    {
+      "i": 730,
+      "start": 4348.36,
+      "end": 4352.04,
+      "text": "fire will do for a metal purification."
+    },
+    {
+      "i": 731,
+      "start": 4352.68,
+      "end": 4359.2,
+      "text": "It burns out the unwanted organic matter then it purifies"
+    },
+    {
+      "i": 732,
+      "start": 4359.2,
+      "end": 4365.48,
+      "text": "the residual metal into two categories. 1 is purified metal"
+    },
+    {
+      "i": 733,
+      "start": 4365.72,
+      "end": 4370.24,
+      "text": "which is the majority in the mix and the rest of the metals which"
+    },
+    {
+      "i": 734,
+      "start": 4370.24,
+      "end": 4375.84,
+      "text": "are impure whether it is gold or silver or whatever may be that"
+    },
+    {
+      "i": 735,
+      "start": 4376.36,
+      "end": 4381.0,
+      "text": "that will form as a precipitate either at the bottom or it will"
+    },
+    {
+      "i": 736,
+      "start": 4381.0,
+      "end": 4386.76,
+      "text": "be floating which can be removed which is making leaving the pure"
+    },
+    {
+      "i": 737,
+      "start": 4386.96,
+      "end": 4392.84,
+      "text": "metal separate from these two. So all those methodology of"
+    },
+    {
+      "i": 738,
+      "start": 4392.92,
+      "end": 4396.76,
+      "text": "purifying a metal is what exactly you have to keep it in"
+    },
+    {
+      "i": 739,
+      "start": 4396.76,
+      "end": 4400.72,
+      "text": "mind when the knowledge is being discussed in the place."
+    },
+    {
+      "i": 740,
+      "start": 4401.2,
+      "end": 4408.84,
+      "text": "It will make the that idea that we are the non doer pure Atman"
+    },
+    {
+      "i": 741,
+      "start": 4408.84,
+      "end": 4414.16,
+      "text": "who has no doer ship as the thing and all the impurities"
+    },
+    {
+      "i": 742,
+      "start": 4414.16,
+      "end": 4420.28,
+      "text": "that are Kartrutru Abhimana. What we have as a doer is not of"
+    },
+    {
+      "i": 743,
+      "start": 4420.56,
+      "end": 4424.2,
+      "text": "Atma but that of the mind and the intellect association with"
+    },
+    {
+      "i": 744,
+      "start": 4424.2,
+      "end": 4427.76,
+      "text": "the body. That is how it is segregating"
+    },
+    {
+      "i": 745,
+      "start": 4427.76,
+      "end": 4437.79,
+      "text": "between the two. Thank you Rajesh."
+    },
+    {
+      "i": 746,
+      "start": 4441.87,
+      "end": 4444.31,
+      "text": "Yes Abhilash, you can ask me a question now."
+    },
+    {
+      "i": 747,
+      "start": 4445.11,
+      "end": 4449.8,
+      "text": "Namaste. So my question is a little"
+    },
+    {
+      "i": 748,
+      "start": 4449.8,
+      "end": 4452.8,
+      "text": "out-of-the-box. That is if a person wants to"
+    },
+    {
+      "i": 749,
+      "start": 4452.84,
+      "end": 4456.08,
+      "text": "activate his seven chakras and also want to open his third eye"
+    },
+    {
+      "i": 750,
+      "start": 4456.08,
+      "end": 4457.68,
+      "text": "for higher level of consciousness."
+    },
+    {
+      "i": 751,
+      "start": 4458.08,
+      "end": 4461.44,
+      "text": "There is if it is any risky without doing guru."
+    },
+    {
+      "i": 752,
+      "start": 4463.56,
+      "end": 4466.24,
+      "text": "This subject is not that of Advaita."
+    },
+    {
+      "i": 753,
+      "start": 4466.56,
+      "end": 4472.32,
+      "text": "So I am not an expert to explain that you may have to approach a"
+    },
+    {
+      "i": 754,
+      "start": 4472.36,
+      "end": 4477.76,
+      "text": "Yogi who does this kundalini type of practices."
+    },
+    {
+      "i": 755,
+      "start": 4477.76,
+      "end": 4481.84,
+      "text": "For that Advaita does not accept even the body as real."
+    },
+    {
+      "i": 756,
+      "start": 4482.24,
+      "end": 4486.88,
+      "text": "So the seven chakras in the body also has no relevance from the"
+    },
+    {
+      "i": 757,
+      "start": 4486.88,
+      "end": 4493.08,
+      "text": "point of view of Advaita. Advaita is totally different"
+    },
+    {
+      "i": 758,
+      "start": 4493.08,
+      "end": 4500.12,
+      "text": "approach towards what is called a method of knowledge, not as a"
+    },
+    {
+      "i": 759,
+      "start": 4500.12,
+      "end": 4506.28,
+      "text": "method of action of yoga. Oh so OK."
+    },
+    {
+      "i": 760,
+      "start": 4506.6,
+      "end": 4513.0,
+      "text": "So can you tell me how can I find any guru I am I am not an"
+    },
+    {
+      "i": 761,
+      "start": 4513.0,
+      "end": 4517.28,
+      "text": "expert in in those lines. Avilash, you may have to find"
+    },
+    {
+      "i": 762,
+      "start": 4517.28,
+      "end": 4521.68,
+      "text": "out your own setting with this today's international Internet"
+    },
+    {
+      "i": 763,
+      "start": 4521.68,
+      "end": 4524.48,
+      "text": "and diverting you may be able to find out located."
+    },
+    {
+      "i": 764,
+      "start": 4525.92,
+      "end": 4527.84,
+      "text": "I'm sorry I can't help you. No problem Sir."
+    },
+    {
+      "i": 765,
+      "start": 4527.84,
+      "end": 4530.52,
+      "text": "Thank you. Thank you."
+    },
+    {
+      "i": 766,
+      "start": 4535.6,
+      "end": 4540.96,
+      "text": "Hello Bindaji. Yes, Bindaji, his connection was"
+    },
+    {
+      "i": 767,
+      "start": 4540.96,
+      "end": 4543.2,
+      "text": "bad. I don't know whether he's gone."
+    },
+    {
+      "i": 768,
+      "start": 4543.56,
+      "end": 4547.12,
+      "text": "He'll come back later back. Yeah, I'll contact him later."
+    },
+    {
+      "i": 769,
+      "start": 4548.44,
+      "end": 4550.88,
+      "text": "Yeah. So anyway, so my question is"
+    },
+    {
+      "i": 770,
+      "start": 4550.88,
+      "end": 4556.0,
+      "text": "that while karma yoga covers variety of actions and all, in"
+    },
+    {
+      "i": 771,
+      "start": 4556.0,
+      "end": 4560.36,
+      "text": "the modern world we kind of have, you know, we keep"
+    },
+    {
+      "i": 772,
+      "start": 4560.36,
+      "end": 4563.72,
+      "text": "information in our heads like we believe that something is true,"
+    },
+    {
+      "i": 773,
+      "start": 4563.72,
+      "end": 4565.96,
+      "text": "something is false and so on, right?"
+    },
+    {
+      "i": 774,
+      "start": 4566.36,
+      "end": 4569.8,
+      "text": "And that is why like, you know, usually that is what leads to"
+    },
+    {
+      "i": 775,
+      "start": 4569.8,
+      "end": 4572.2,
+      "text": "wars and all. Ultimately though, at individual"
+    },
+    {
+      "i": 776,
+      "start": 4572.2,
+      "end": 4575.4,
+      "text": "level, we are not participating in the war but just having that"
+    },
+    {
+      "i": 777,
+      "start": 4575.4,
+      "end": 4577.88,
+      "text": "information. Like simple example is taking"
+    },
+    {
+      "i": 778,
+      "start": 4577.88,
+      "end": 4580.76,
+      "text": "sides, for example, right? Even though we don't really know"
+    },
+    {
+      "i": 779,
+      "start": 4580.76,
+      "end": 4583.88,
+      "text": "the reality, truthfully speaking, we will not have"
+    },
+    {
+      "i": 780,
+      "start": 4583.88,
+      "end": 4588.6,
+      "text": "access to the kind of data which is required to even recognize if"
+    },
+    {
+      "i": 781,
+      "start": 4588.6,
+      "end": 4591.36,
+      "text": "somebody is, you know, right or wrong or whatever their"
+    },
+    {
+      "i": 782,
+      "start": 4591.36,
+      "end": 4592.72,
+      "text": "reactions are right or wrong and all that."
+    },
+    {
+      "i": 783,
+      "start": 4593.84,
+      "end": 4597.16,
+      "text": "But generally speaking, we find that even among the people who"
+    },
+    {
+      "i": 784,
+      "start": 4597.16,
+      "end": 4601.12,
+      "text": "are in spirituality and all, almost everybody has very"
+    },
+    {
+      "i": 785,
+      "start": 4601.12,
+      "end": 4606.92,
+      "text": "readily, they kind of, you know, they keep this information OK."
+    },
+    {
+      "i": 786,
+      "start": 4606.92,
+      "end": 4610.88,
+      "text": "And even in spiritual circles, for example, I find many people"
+    },
+    {
+      "i": 787,
+      "start": 4610.88,
+      "end": 4614.0,
+      "text": "are treated as crooks, like many teachers, many these things and"
+    },
+    {
+      "i": 788,
+      "start": 4614.0,
+      "end": 4617.12,
+      "text": "all even though like, you know, the real data is not really"
+    },
+    {
+      "i": 789,
+      "start": 4617.12,
+      "end": 4619.56,
+      "text": "there in the sense that they will just use some public"
+    },
+    {
+      "i": 790,
+      "start": 4619.56,
+      "end": 4623.28,
+      "text": "information and all that. Now it may not be any harmful"
+    },
+    {
+      "i": 791,
+      "start": 4623.4,
+      "end": 4626.04,
+      "text": "kind of content. It is just an attitude or"
+    },
+    {
+      "i": 792,
+      "start": 4626.04,
+      "end": 4628.72,
+      "text": "whatever. But doesn't doesn't it actually"
+    },
+    {
+      "i": 793,
+      "start": 4628.72,
+      "end": 4632.08,
+      "text": "occupy your mind and make you kind of like, you know, it will"
+    },
+    {
+      "i": 794,
+      "start": 4632.08,
+      "end": 4633.44,
+      "text": "have some repercussion somewhere."
+    },
+    {
+      "i": 795,
+      "start": 4634.0,
+      "end": 4636.32,
+      "text": "And this actually is not a chicheshudi, meaning it is a"
+    },
+    {
+      "i": 796,
+      "start": 4636.4,
+      "end": 4642.76,
+      "text": "obstacle Chicheshudi, right? See that these type of things"
+    },
+    {
+      "i": 797,
+      "start": 4642.76,
+      "end": 4653.24,
+      "text": "are happening time immemorial because the approach one need to"
+    },
+    {
+      "i": 798,
+      "start": 4653.24,
+      "end": 4656.6,
+      "text": "take is that. That is why in the Upanishad it"
+    },
+    {
+      "i": 799,
+      "start": 4656.6,
+      "end": 4661.44,
+      "text": "is very clearly says SA guru meva we get chess, srothriyam"
+    },
+    {
+      "i": 800,
+      "start": 4661.44,
+      "end": 4666.28,
+      "text": "brahmanistham. He should approach a guru who is"
+    },
+    {
+      "i": 801,
+      "start": 4666.28,
+      "end": 4672.08,
+      "text": "well versed in the Sastra and who abides in the Brahma as his"
+    },
+    {
+      "i": 802,
+      "start": 4672.08,
+      "end": 4677.04,
+      "text": "own reality. This is what is the"
+    },
+    {
+      "i": 803,
+      "start": 4677.04,
+      "end": 4681.96,
+      "text": "qualification. In fact, when we go to the 3rd"
+    },
+    {
+      "i": 804,
+      "start": 4682.24,
+      "end": 4690.76,
+      "text": "13th chapter, Sankarajarya spends 1 full long commentary on"
+    },
+    {
+      "i": 805,
+      "start": 4690.76,
+      "end": 4696.6,
+      "text": "that aspect of the, you know the type of guru one should"
+    },
+    {
+      "i": 806,
+      "start": 4696.6,
+      "end": 4699.52,
+      "text": "approach. So you have to wait till the"
+    },
+    {
+      "i": 807,
+      "start": 4699.52,
+      "end": 4702.96,
+      "text": "13th chapter for such guru's definition to be discussed in"
+    },
+    {
+      "i": 808,
+      "start": 4702.96,
+      "end": 4708.48,
+      "text": "detail. But what we we were taught is"
+    },
+    {
+      "i": 809,
+      "start": 4708.48,
+      "end": 4714.16,
+      "text": "that the knowledge of right interpretation of the Shastras"
+    },
+    {
+      "i": 810,
+      "start": 4715.12,
+      "end": 4722.2,
+      "text": "and no concessions in the description of the words of the"
+    },
+    {
+      "i": 811,
+      "start": 4722.2,
+      "end": 4726.48,
+      "text": "Upanishad. You cannot twist it to suit the"
+    },
+    {
+      "i": 812,
+      "start": 4726.48,
+      "end": 4731.56,
+      "text": "modern knowledge or anything it. It can imbibe the modern"
+    },
+    {
+      "i": 813,
+      "start": 4731.56,
+      "end": 4735.32,
+      "text": "knowledge into it, merge into it."
+    },
+    {
+      "i": 814,
+      "start": 4735.72,
+      "end": 4740.6,
+      "text": "But the Shastra should not be turned to meet the modern"
+    },
+    {
+      "i": 815,
+      "start": 4740.6,
+      "end": 4743.44,
+      "text": "definitions. No, that cannot happen."
+    },
+    {
+      "i": 816,
+      "start": 4744.8,
+      "end": 4749.56,
+      "text": "The modern definitions are still empirical in nature and that"
+    },
+    {
+      "i": 817,
+      "start": 4749.56,
+      "end": 4754.04,
+      "text": "describes only about the world and our transactional world."
+    },
+    {
+      "i": 818,
+      "start": 4754.56,
+      "end": 4758.84,
+      "text": "Whereas the Shastra which is talking about is talking about"
+    },
+    {
+      "i": 819,
+      "start": 4759.24,
+      "end": 4763.88,
+      "text": "the Atman or Brahman and which is not in a transactional realm."
+    },
+    {
+      "i": 820,
+      "start": 4764.8,
+      "end": 4769.6,
+      "text": "So both should be clear in our mind when we say that he should"
+    },
+    {
+      "i": 821,
+      "start": 4769.6,
+      "end": 4772.96,
+      "text": "be a Shastraknya or one expert in the Sastras."
+    },
+    {
+      "i": 822,
+      "start": 4773.4,
+      "end": 4777.84,
+      "text": "And Brahmanistha means abiding in his nature as Brahman."
+    },
+    {
+      "i": 823,
+      "start": 4777.84,
+      "end": 4781.88,
+      "text": "He knows that he is Brahman, so he will be talking from the"
+    },
+    {
+      "i": 824,
+      "start": 4781.88,
+      "end": 4786.88,
+      "text": "level of Brahman, not as a person who is transactionally"
+    },
+    {
+      "i": 825,
+      "start": 4786.88,
+      "end": 4792.32,
+      "text": "operating in the world. No, Binduji, my question is"
+    },
+    {
+      "i": 826,
+      "start": 4792.32,
+      "end": 4795.12,
+      "text": "actually a bit different. It has nothing to do with which"
+    },
+    {
+      "i": 827,
+      "start": 4795.12,
+      "end": 4798.16,
+      "text": "guru one should select and all that is not the question that I"
+    },
+    {
+      "i": 828,
+      "start": 4798.16,
+      "end": 4800.36,
+      "text": "had. If you actually have more on"
+    },
+    {
+      "i": 829,
+      "start": 4800.36,
+      "end": 4803.72,
+      "text": "karma, like we know that for example, if I'm doing anything"
+    },
+    {
+      "i": 830,
+      "start": 4803.72,
+      "end": 4806.52,
+      "text": "in the world that is a karma and it has a very clear cut"
+    },
+    {
+      "i": 831,
+      "start": 4806.52,
+      "end": 4810.2,
+      "text": "objective and, and the karma and all that, it's very, very well"
+    },
+    {
+      "i": 832,
+      "start": 4810.2,
+      "end": 4813.56,
+      "text": "established. But when we hold opinions about"
+    },
+    {
+      "i": 833,
+      "start": 4813.56,
+      "end": 4817.68,
+      "text": "other people because we are in the world, opinions are bound to"
+    },
+    {
+      "i": 834,
+      "start": 4817.68,
+      "end": 4819.96,
+      "text": "exist. Is that karma?"
+    },
+    {
+      "i": 835,
+      "start": 4820.72,
+      "end": 4825.32,
+      "text": "Because the opinions opinions are held because we don't have"
+    },
+    {
+      "i": 836,
+      "start": 4825.44,
+      "end": 4829.24,
+      "text": "factual information, so we have to use partial information and"
+    },
+    {
+      "i": 837,
+      "start": 4829.24,
+      "end": 4830.48,
+      "text": "we hold opinions. Correct."
+    },
+    {
+      "i": 838,
+      "start": 4830.72,
+      "end": 4833.6,
+      "text": "That is, that is also karma only."
+    },
+    {
+      "i": 839,
+      "start": 4834.44,
+      "end": 4837.44,
+      "text": "Yeah, but it is not directly leading to any particular"
+    },
+    {
+      "i": 840,
+      "start": 4837.56,
+      "end": 4840.92,
+      "text": "physical action, right? Because no, it is."
+    },
+    {
+      "i": 841,
+      "start": 4840.92,
+      "end": 4844.96,
+      "text": "It is not physical action alone. We are talking about Manasa"
+    },
+    {
+      "i": 842,
+      "start": 4844.96,
+      "end": 4851.24,
+      "text": "Vaja, karma by Modi, mind and intellect all that what is being"
+    },
+    {
+      "i": 843,
+      "start": 4851.24,
+      "end": 4856.72,
+      "text": "done identifying as the individuality here is included"
+    },
+    {
+      "i": 844,
+      "start": 4856.72,
+      "end": 4865.76,
+      "text": "in the action. But Akarma, the non doership is"
+    },
+    {
+      "i": 845,
+      "start": 4865.76,
+      "end": 4869.96,
+      "text": "when you identify you as the pure consciousness or awareness"
+    },
+    {
+      "i": 846,
+      "start": 4870.6,
+      "end": 4872.4,
+      "text": "where there is no activity at all."
+    },
+    {
+      "i": 847,
+      "start": 4875.64,
+      "end": 4878.44,
+      "text": "No, but in that case there no need to hold any opinion, right?"
+    },
+    {
+      "i": 848,
+      "start": 4878.76,
+      "end": 4881.24,
+      "text": "It is much more easier to say I really don't know something,"
+    },
+    {
+      "i": 849,
+      "start": 4881.24,
+      "end": 4884.64,
+      "text": "anything about it, so I'll not have an opinion about something"
+    },
+    {
+      "i": 850,
+      "start": 4884.64,
+      "end": 4887.88,
+      "text": "that is much more easier stand for a such a person, right?"
+    },
+    {
+      "i": 851,
+      "start": 4889.64,
+      "end": 4892.8,
+      "text": "Yeah, that because he he doesn't, he doesn't identify"
+    },
+    {
+      "i": 852,
+      "start": 4892.8,
+      "end": 4895.96,
+      "text": "himself as a person who has the knowledge of the transactional"
+    },
+    {
+      "i": 853,
+      "start": 4895.96,
+      "end": 4898.96,
+      "text": "world. The transactional world is seen"
+    },
+    {
+      "i": 854,
+      "start": 4898.96,
+      "end": 4902.32,
+      "text": "as an appearance in his non doership."
+    },
+    {
+      "i": 855,
+      "start": 4904.92,
+      "end": 4907.48,
+      "text": "No, he may. Not know that he see the full"
+    },
+    {
+      "i": 856,
+      "start": 4907.48,
+      "end": 4910.4,
+      "text": "knowledge about the transactional world with opinion"
+    },
+    {
+      "i": 857,
+      "start": 4910.4,
+      "end": 4914.72,
+      "text": "or knowledge or partial knowledge is not of importance"
+    },
+    {
+      "i": 858,
+      "start": 4914.72,
+      "end": 4918.84,
+      "text": "to such a person. Actually, that is much more"
+    },
+    {
+      "i": 859,
+      "start": 4918.84,
+      "end": 4921.84,
+      "text": "easier for a task. But here when people are on the"
+    },
+    {
+      "i": 860,
+      "start": 4921.84,
+      "end": 4925.76,
+      "text": "way, they may not be fully what you can call, they are not in"
+    },
+    {
+      "i": 861,
+      "start": 4925.76,
+      "end": 4928.0,
+      "text": "the state of that, that type of recognition."
+    },
+    {
+      "i": 862,
+      "start": 4928.68,
+      "end": 4931.32,
+      "text": "So, but they are like, you know, recognizing the importance of"
+    },
+    {
+      "i": 863,
+      "start": 4931.32,
+      "end": 4933.52,
+      "text": "Chitteshwudi and all that, right?"
+    },
+    {
+      "i": 864,
+      "start": 4933.52,
+      "end": 4937.72,
+      "text": "In that context, recognizing that they hold opinions and"
+    },
+    {
+      "i": 865,
+      "start": 4937.72,
+      "end": 4943.2,
+      "text": "therefore rejecting them is a wise way is what I feel I just"
+    },
+    {
+      "i": 866,
+      "start": 4943.2,
+      "end": 4945.68,
+      "text": "want. Because what happens is that it"
+    },
+    {
+      "i": 867,
+      "start": 4945.68,
+      "end": 4948.12,
+      "text": "is a very simple fact to recognize that we don't really"
+    },
+    {
+      "i": 868,
+      "start": 4948.12,
+      "end": 4951.56,
+      "text": "know the reality, right? People are going to show up in."
+    },
+    {
+      "i": 869,
+      "start": 4951.56,
+      "end": 4956.4,
+      "text": "Different, different things. That is why we know that reality"
+    },
+    {
+      "i": 870,
+      "start": 4956.4,
+      "end": 4959.84,
+      "text": "of a transactional world is different from the reality of"
+    },
+    {
+      "i": 871,
+      "start": 4959.84,
+      "end": 4964.12,
+      "text": "the absolute real. So you don't mix up between the"
+    },
+    {
+      "i": 872,
+      "start": 4964.12,
+      "end": 4970.44,
+      "text": "reality state word reality or the purpose of empirical"
+    },
+    {
+      "i": 873,
+      "start": 4970.44,
+      "end": 4972.32,
+      "text": "transactions and empirical truth."
+    },
+    {
+      "i": 874,
+      "start": 4974.92,
+      "end": 4980.72,
+      "text": "That advaita, advaita advaita or the shastric way of reality is"
+    },
+    {
+      "i": 875,
+      "start": 4980.72,
+      "end": 4985.68,
+      "text": "that yedne vapecharati, that which will never change at any"
+    },
+    {
+      "i": 876,
+      "start": 4985.68,
+      "end": 4989.44,
+      "text": "point of time or space or whatever may be the condition."
+    },
+    {
+      "i": 877,
+      "start": 4990.08,
+      "end": 4991.96,
+      "text": "That is what is the absolute reality?"
+    },
+    {
+      "i": 878,
+      "start": 4992.88,
+      "end": 4997.88,
+      "text": "The transactional reality is knowing the reality, unknowing"
+    },
+    {
+      "i": 879,
+      "start": 4997.88,
+      "end": 5003.16,
+      "text": "the reality, Opinions and non opinions, facts, figures, all"
+    },
+    {
+      "i": 880,
+      "start": 5003.16,
+      "end": 5008.36,
+      "text": "those things will be bound, bound by the time and space and"
+    },
+    {
+      "i": 881,
+      "start": 5008.36,
+      "end": 5010.72,
+      "text": "causation in the transactional world."
+    },
+    {
+      "i": 882,
+      "start": 5011.24,
+      "end": 5014.64,
+      "text": "That will change. Therefore, Advaita is not"
+    },
+    {
+      "i": 883,
+      "start": 5014.64,
+      "end": 5020.08,
+      "text": "interested in that. No, but if there is an option of"
+    },
+    {
+      "i": 884,
+      "start": 5020.16,
+      "end": 5023.92,
+      "text": "chitashuddhi of what we can take in and what we have don't have"
+    },
+    {
+      "i": 885,
+      "start": 5023.92,
+      "end": 5027.04,
+      "text": "to take in, should one go with that or not?"
+    },
+    {
+      "i": 886,
+      "start": 5027.12,
+      "end": 5032.16,
+      "text": "Assuming that he is like not, uh, ordinary person who is just"
+    },
+    {
+      "i": 887,
+      "start": 5032.16,
+      "end": 5033.48,
+      "text": "trying to follow these kind of things."
+    },
+    {
+      "i": 888,
+      "start": 5033.76,
+      "end": 5037.68,
+      "text": "Not fully, uh, you know, realized or not fully into, uh,"
+    },
+    {
+      "i": 889,
+      "start": 5038.64,
+      "end": 5040.56,
+      "text": "you know, recognizing the other. Reality."
+    },
+    {
+      "i": 890,
+      "start": 5041.28,
+      "end": 5045.48,
+      "text": "Yeah, he will. He will move toward that in the"
+    },
+    {
+      "i": 891,
+      "start": 5045.48,
+      "end": 5050.92,
+      "text": "process when he realizes these things are of not much"
+    },
+    {
+      "i": 892,
+      "start": 5050.92,
+      "end": 5053.92,
+      "text": "importance. That is where the Chitta shuddhi"
+    },
+    {
+      "i": 893,
+      "start": 5053.92,
+      "end": 5058.6,
+      "text": "is defined as that he becomes lesser and lesser interested in"
+    },
+    {
+      "i": 894,
+      "start": 5058.6,
+      "end": 5067.28,
+      "text": "the transactional matters. OK, Minaj, thanks a lot."
+    },
+    {
+      "i": 895,
+      "start": 5068.68,
+      "end": 5071.0,
+      "text": "Thank you. Namaste, Venkat."
+    },
+    {
+      "i": 896,
+      "start": 5071.6,
+      "end": 5073.24,
+      "text": "Namaste, Minaji. Uh, Biluji."
+    },
+    {
+      "i": 897,
+      "start": 5073.24,
+      "end": 5077.24,
+      "text": "I think I took the cue from yesterday that there are two"
+    },
+    {
+      "i": 898,
+      "start": 5077.24,
+      "end": 5079.68,
+      "text": "portions that inversion. I think this is very, very"
+    },
+    {
+      "i": 899,
+      "start": 5079.68,
+      "end": 5081.0,
+      "text": "important. It cannot be missed."
+    },
+    {
+      "i": 900,
+      "start": 5081.04,
+      "end": 5082.4,
+      "text": "I thought. I'll just read it back again."
+    },
+    {
+      "i": 901,
+      "start": 5083.0,
+      "end": 5086.4,
+      "text": "Yeah. First one is you know, you know"
+    },
+    {
+      "i": 902,
+      "start": 5087.0,
+      "end": 5092.4,
+      "text": "a karma in karma is very much prevailing teaching, right?"
+    },
+    {
+      "i": 903,
+      "start": 5092.92,
+      "end": 5096.48,
+      "text": "You know being being a Sakshi bhawa that Vilakshana Sakshi."
+    },
+    {
+      "i": 904,
+      "start": 5096.56,
+      "end": 5101.88,
+      "text": "And from there you, you, you sort of perceive that, you know,"
+    },
+    {
+      "i": 905,
+      "start": 5102.4,
+      "end": 5105.0,
+      "text": "a karma in karma. That is very clear."
+    },
+    {
+      "i": 906,
+      "start": 5106.32,
+      "end": 5109.8,
+      "text": "The second one was something that that was a tough one."
+    },
+    {
+      "i": 907,
+      "start": 5110.52,
+      "end": 5115.72,
+      "text": "You know, this is the, you know, karma in a karma is a is a tough"
+    },
+    {
+      "i": 908,
+      "start": 5115.72,
+      "end": 5117.56,
+      "text": "one. This is where the the challenge"
+    },
+    {
+      "i": 909,
+      "start": 5117.56,
+      "end": 5122.28,
+      "text": "was then you know exactly they're taking you from Vinod"
+    },
+    {
+      "i": 910,
+      "start": 5122.28,
+      "end": 5126.72,
+      "text": "discussion. You know he who sees this third"
+    },
+    {
+      "i": 911,
+      "start": 5126.72,
+      "end": 5132.68,
+      "text": "party perspective right, The Pravruti, nevruti, all that it"
+    },
+    {
+      "i": 912,
+      "start": 5132.68,
+      "end": 5136.84,
+      "text": "you had to go back to verse 17. That is where both of Yum"
+    },
+    {
+      "i": 913,
+      "start": 5137.04,
+      "end": 5141.2,
+      "text": "happens really. Karma, Vikarma, Akarma, all that"
+    },
+    {
+      "i": 914,
+      "start": 5141.28,
+      "end": 5146.84,
+      "text": "both of Yum, those variations you know recognized that both of"
+    },
+    {
+      "i": 915,
+      "start": 5146.84,
+      "end": 5151.16,
+      "text": "Yum is a recognition. Hence further you you know one"
+    },
+    {
+      "i": 916,
+      "start": 5151.16,
+      "end": 5158.08,
+      "text": "sees you know karma in Akarma. Yes."
+    },
+    {
+      "i": 917,
+      "start": 5159.68,
+      "end": 5161.6,
+      "text": "I think this is a critical shift."
+    },
+    {
+      "i": 918,
+      "start": 5162.24,
+      "end": 5166.72,
+      "text": "If this is not done, then it'll, you know, put someone D to whack"
+    },
+    {
+      "i": 919,
+      "start": 5167.4,
+      "end": 5171.76,
+      "text": "that pariah continue to happen. Yes, absolutely, you're right."
+    },
+    {
+      "i": 920,
+      "start": 5173.36,
+      "end": 5176.6,
+      "text": "So this is a critical shift. If it is not done, I think it'll"
+    },
+    {
+      "i": 921,
+      "start": 5176.84,
+      "end": 5180.48,
+      "text": "you know then the future versus will go, you know it will be"
+    },
+    {
+      "i": 922,
+      "start": 5180.48,
+      "end": 5184.92,
+      "text": "partial. So, so that turning point need"
+    },
+    {
+      "i": 923,
+      "start": 5184.92,
+      "end": 5186.96,
+      "text": "to continue. Sorry, I think thanks for you"
+    },
+    {
+      "i": 924,
+      "start": 5186.96,
+      "end": 5190.48,
+      "text": "know giving the queue yesterday that pravruti nevruti all that"
+    },
+    {
+      "i": 925,
+      "start": 5190.52,
+      "end": 5195.44,
+      "text": "you know one one who is behind all that he is in the 2nd shift"
+    },
+    {
+      "i": 926,
+      "start": 5195.6,
+      "end": 5197.64,
+      "text": "that is the cur that the inversion."
+    },
+    {
+      "i": 927,
+      "start": 5198.4,
+      "end": 5200.2,
+      "text": "Yes. So this is."
+    },
+    {
+      "i": 928,
+      "start": 5200.24,
+      "end": 5203.12,
+      "text": "Clear as you rightly said that all the three has to be"
+    },
+    {
+      "i": 929,
+      "start": 5203.12,
+      "end": 5206.4,
+      "text": "understood perfectly. Then only you can see the both"
+    },
+    {
+      "i": 930,
+      "start": 5206.4,
+      "end": 5210.04,
+      "text": "the views Karmani Akarma and Akarmani Karma."
+    },
+    {
+      "i": 931,
+      "start": 5212.96,
+      "end": 5215.92,
+      "text": "So incidentally I referred that Abhinava Gupta."
+    },
+    {
+      "i": 932,
+      "start": 5218.92,
+      "end": 5225.96,
+      "text": "So he he said he who perceives inaction in his own action, OK."
+    },
+    {
+      "i": 933,
+      "start": 5226.36,
+      "end": 5231.6,
+      "text": "And then he said in in the action of others perceives his"
+    },
+    {
+      "i": 934,
+      "start": 5231.6,
+      "end": 5235.76,
+      "text": "own action. He is wise among men, he is"
+    },
+    {
+      "i": 935,
+      "start": 5235.76,
+      "end": 5239.36,
+      "text": "established in yoga and he is the performer of all actions."
+    },
+    {
+      "i": 936,
+      "start": 5240.12,
+      "end": 5244.84,
+      "text": "That is that inversion, you know, perceives in the action of"
+    },
+    {
+      "i": 937,
+      "start": 5244.84,
+      "end": 5247.0,
+      "text": "others, perceives his own action."
+    },
+    {
+      "i": 938,
+      "start": 5247.12,
+      "end": 5251.2,
+      "text": "I think that covers the, you know, karma V karma, Akarma, all"
+    },
+    {
+      "i": 939,
+      "start": 5251.2,
+      "end": 5253.04,
+      "text": "of it. You know, there's no, you know,"
+    },
+    {
+      "i": 940,
+      "start": 5253.12,
+      "end": 5256.68,
+      "text": "he sees everything. Hence, I think that may be a"
+    },
+    {
+      "i": 941,
+      "start": 5256.68,
+      "end": 5258.32,
+      "text": "seta pragna. Really."
+    },
+    {
+      "i": 942,
+      "start": 5258.32,
+      "end": 5260.76,
+      "text": "Yeah. So."
+    },
+    {
+      "i": 943,
+      "start": 5260.88,
+      "end": 5270.4,
+      "text": "This Seta Pragna is the real Yani who sees both aspects of"
+    },
+    {
+      "i": 944,
+      "start": 5270.4,
+      "end": 5275.44,
+      "text": "karma and the karma from the point of view of the self as"
+    },
+    {
+      "i": 945,
+      "start": 5275.44,
+      "end": 5283.32,
+      "text": "well as Sakshi. I think that buddhi will talk"
+    },
+    {
+      "i": 946,
+      "start": 5283.32,
+      "end": 5286.68,
+      "text": "further as time permit that both of them happened to the buddhi."
+    },
+    {
+      "i": 947,
+      "start": 5287.32,
+      "end": 5290.16,
+      "text": "Yes, that is the interesting turning point, which has never"
+    },
+    {
+      "i": 948,
+      "start": 5290.16,
+      "end": 5298.56,
+      "text": "been as you know pursued part of the whole setup and how Buddhi"
+    },
+    {
+      "i": 949,
+      "start": 5298.56,
+      "end": 5305.4,
+      "text": "is you know eventually a fulcrum that still operates yet not"
+    },
+    {
+      "i": 950,
+      "start": 5305.4,
+      "end": 5308.96,
+      "text": "available. You know that fulcrum is there"
+    },
+    {
+      "i": 951,
+      "start": 5308.96,
+      "end": 5315.28,
+      "text": "still is that become the reuser knowledge."
+    },
+    {
+      "i": 952,
+      "start": 5315.76,
+      "end": 5318.56,
+      "text": "Oh, you know, that's interesting, but we'll keep the"
+    },
+    {
+      "i": 953,
+      "start": 5318.64,
+      "end": 5321.04,
+      "text": "question a little later. Right."
+    },
+    {
+      "i": 954,
+      "start": 5328.73,
+      "end": 5331.49,
+      "text": "Thanks for those again. Thank you."
+    },
+    {
+      "i": 955,
+      "start": 5331.81,
+      "end": 5340.2,
+      "text": "Thank you. And Prakash, we'll wind up"
+    },
+    {
+      "i": 956,
+      "start": 5340.2,
+      "end": 5341.44,
+      "text": "today. Yes, yes."
+    },
+    {
+      "i": 957,
+      "start": 5342.52,
+      "end": 5345.0,
+      "text": "Thanks everyone for coming for this session."
+    },
+    {
+      "i": 958,
+      "start": 5345.36,
+      "end": 5348.8,
+      "text": "And as usual, you can check on the replays if you want to do"
+    },
+    {
+      "i": 959,
+      "start": 5348.8,
+      "end": 5352.12,
+      "text": "this. They're available in Clubhouse"
+    },
+    {
+      "i": 960,
+      "start": 5352.12,
+      "end": 5353.68,
+      "text": "or you can go to the YouTube channel."
+    },
+    {
+      "i": 961,
+      "start": 5354.44,
+      "end": 5357.76,
+      "text": "This particular room might not be available yet on YouTube, but"
+    },
+    {
+      "i": 962,
+      "start": 5357.84,
+      "end": 5363.92,
+      "text": "the earlier rooms are available on YouTube channel and the other"
+    },
+    {
+      "i": 963,
+      "start": 5363.92,
+      "end": 5368.08,
+      "text": "two link 3 links provided are for the Apple Spotify and a book"
+    },
+    {
+      "i": 964,
+      "start": 5368.08,
+      "end": 5371.36,
+      "text": "pen by Artemisia. It's called the imaginary door."
+    },
+    {
+      "i": 965,
+      "start": 5372.16,
+      "end": 5374.6,
+      "text": "It's available in the Amazon website."
+    },
+    {
+      "i": 966,
+      "start": 5376.24,
+      "end": 5382.36,
+      "text": "So we'll meet again tomorrow at 8:30 PM IST for continuing the"
+    },
+    {
+      "i": 967,
+      "start": 5382.36,
+      "end": 5386.16,
+      "text": "Bhagavad Gita classes. Thank you very much, Mindoji."
+    },
+    {
+      "i": 968,
+      "start": 5386.2,
+      "end": 5389.64,
+      "text": "Over to you to close the room. Thank you, Prakash."
+    },
+    {
+      "i": 969,
+      "start": 5390.0,
+      "end": 5396.88,
+      "text": "Thank you Srini, then Vinod, Venkat and Abhilash who came up"
+    },
+    {
+      "i": 970,
+      "start": 5397.28,
+      "end": 5399.2,
+      "text": "and Rahul. Sorry we could not connect."
+    },
+    {
+      "i": 971,
+      "start": 5399.2,
+      "end": 5403.36,
+      "text": "I will chat with him directly on his question."
+    },
+    {
+      "i": 972,
+      "start": 5404.08,
+      "end": 5409.64,
+      "text": "But my request is that I am trying my level best to explain"
+    },
+    {
+      "i": 973,
+      "start": 5409.64,
+      "end": 5417.6,
+      "text": "the the deep meaning of both Karma akarma V karma, Karmani"
+    },
+    {
+      "i": 974,
+      "start": 5417.6,
+      "end": 5422.32,
+      "text": "akarma akarmani karma. But I will be definitely falling"
+    },
+    {
+      "i": 975,
+      "start": 5422.32,
+      "end": 5428.72,
+      "text": "short, may not be able to explain exactly and make it is"
+    },
+    {
+      "i": 976,
+      "start": 5428.72,
+      "end": 5434.0,
+      "text": "easy for us to understand. So my sincere request to all of"
+    },
+    {
+      "i": 977,
+      "start": 5434.0,
+      "end": 5439.08,
+      "text": "you is that read as much as possible, go through the other"
+    },
+    {
+      "i": 978,
+      "start": 5439.08,
+      "end": 5445.84,
+      "text": "commentaries and come out with questions so that we can like"
+    },
+    {
+      "i": 979,
+      "start": 5445.88,
+      "end": 5450.6,
+      "text": "when Venkat is doing so that we can, you know, bring in clarity"
+    },
+    {
+      "i": 980,
+      "start": 5450.6,
+      "end": 5452.88,
+      "text": "for myself as well As for others."
+    },
+    {
+      "i": 981,
+      "start": 5455.2,
+      "end": 5459.04,
+      "text": "The way in which I understood and I am explaining it may not"
+    },
+    {
+      "i": 982,
+      "start": 5459.04,
+      "end": 5463.08,
+      "text": "be perfectly fitting everybody's and ideas and understanding."
+    },
+    {
+      "i": 983,
+      "start": 5463.64,
+      "end": 5466.96,
+      "text": "Vinod is trying to do that. Venkat is trying to do, Srini's"
+    },
+    {
+      "i": 984,
+      "start": 5466.96,
+      "end": 5470.68,
+      "text": "trying to do. I want all of you to contribute"
+    },
+    {
+      "i": 985,
+      "start": 5470.68,
+      "end": 5473.16,
+      "text": "so that you know, it benefits everyone."
+    },
+    {
+      "i": 986,
+      "start": 5474.36,
+      "end": 5479.04,
+      "text": "I'll try my level best. Please be helpful to each other."
+    },
+    {
+      "i": 987,
+      "start": 5480.12,
+      "end": 5482.76,
+      "text": "We'll see tomorrow. Continue from there."
+    },
+    {
+      "i": 988,
+      "start": 5483.12,
+      "end": 5487.2,
+      "text": "But if questions are there, I'm ready to take more on time and"
+    },
+    {
+      "i": 989,
+      "start": 5487.2,
+      "end": 5492.4,
+      "text": "answer that and then get clarified bit for all of our"
+    },
+    {
+      "i": 990,
+      "start": 5492.4,
+      "end": 5496.8,
+      "text": "sake, see you all tomorrow. Hurry, you good night."
+    },
+    {
+      "i": 991,
+      "start": 5498.16,
+      "end": 5499.52,
+      "text": "Hurry. You."
+    }
+  ]
+}

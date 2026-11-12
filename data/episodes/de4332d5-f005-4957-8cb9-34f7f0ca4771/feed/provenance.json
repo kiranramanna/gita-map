@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "de4332d5-f005-4957-8cb9-34f7f0ca4771",
+  "title": "Ch04-19-Shrimad Bhagavad Gita",
+  "pubDate": "Tue, 21 Apr 2026 00:21:16 GMT",
+  "duration": "01:04:12",
+  "description": "Shrimad Bhagavad Gita Chapter 04 verse 22",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch04-19-Shrimad-Bhagavad-Gita-e3i70ij",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/08tunpfQ1ZY6j0R4PeccXF/transcript.srt",
+  "fetched_at": "2026-11-09T22:07:43Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 56595,
+  "sha256": "8d1a97d2a987120538952dd13a59bc26066f6269d7bc90244b313c10336e155b",
+  "cue_count": 630,
+  "first_cue_start": "00:00:00,160",
+  "last_cue_end": "01:04:07,600",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}

@@ -1,0 +1,5125 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "128ca5c1-7773-482c-a8d5-11793c93b127",
+  "source_sha256": "ff4dddcd48d602c548ddac153153b2df0c402fa02482a806f784b893a2aaf6a1",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.6,
+      "end": 3.24,
+      "text": "Namaste everyone. Welcome to Advaita Veda, the"
+    },
+    {
+      "i": 2,
+      "start": 3.24,
+      "end": 7.2,
+      "text": "Satsang house. The ongoing sessions are on"
+    },
+    {
+      "i": 3,
+      "start": 7.2,
+      "end": 12.24,
+      "text": "Bhagwat Veeta from an Advaita perspective for by Binduji and"
+    },
+    {
+      "i": 4,
+      "start": 12.24,
+      "end": 15.44,
+      "text": "we are on chapter 4 beginning on chapter 4."
+    },
+    {
+      "i": 5,
+      "start": 16.2,
+      "end": 19.6,
+      "text": "The replays of all the previous rooms are available in clubhouse"
+    },
+    {
+      "i": 6,
+      "start": 19.84,
+      "end": 24.88,
+      "text": "or you could go into the chat and the three links provided. 1"
+    },
+    {
+      "i": 7,
+      "start": 24.88,
+      "end": 27.16,
+      "text": "is the YouTube channel called Advaita Retold."
+    },
+    {
+      "i": 8,
+      "start": 28.12,
+      "end": 30.92,
+      "text": "The other two are just repositories of the same talks"
+    },
+    {
+      "i": 9,
+      "start": 31.32,
+      "end": 37.36,
+      "text": "on Apple podcast and Spotify. There is also a book written by"
+    },
+    {
+      "i": 10,
+      "start": 37.36,
+      "end": 44.36,
+      "text": "Artemisia titled Imaginary Door that's also based on the Advaita"
+    },
+    {
+      "i": 11,
+      "start": 44.36,
+      "end": 52.44,
+      "text": "insights provided by Mithoji. So with that, I'll close this"
+    },
+    {
+      "i": 12,
+      "start": 52.44,
+      "end": 55.36,
+      "text": "chat and hand raising when Binduji is conducting the class"
+    },
+    {
+      "i": 13,
+      "start": 55.36,
+      "end": 59.32,
+      "text": "and after which we'll have some time to interact with Binduji"
+    },
+    {
+      "i": 14,
+      "start": 59.32,
+      "end": 64.04,
+      "text": "regarding any clarifications. Thank you very much, Binduji,"
+    },
+    {
+      "i": 15,
+      "start": 64.04,
+      "end": 69.2,
+      "text": "over to you. Thank you, Prakash, Namaste and"
+    },
+    {
+      "i": 16,
+      "start": 69.2,
+      "end": 73.28,
+      "text": "welcome to all of you. Let me do my invocation."
+    },
+    {
+      "i": 17,
+      "start": 91.52,
+      "end": 127.44,
+      "text": "Shankaram, Shankaram. The Geeta Diana slogan Yam"
+    },
+    {
+      "i": 18,
+      "start": 130.039,
+      "end": 138.08,
+      "text": "Brahma. In"
+    },
+    {
+      "i": 19,
+      "start": 158.8,
+      "end": 169.0,
+      "text": "the 3rd chapter we saw that the question of Arjuna if both"
+    },
+    {
+      "i": 20,
+      "start": 169.36,
+      "end": 175.0,
+      "text": "action and knowledge are prescribed to me and you say"
+    },
+    {
+      "i": 21,
+      "start": 175.0,
+      "end": 179.76,
+      "text": "that knowledge is superior to action, why are you forcing me"
+    },
+    {
+      "i": 22,
+      "start": 179.76,
+      "end": 188.12,
+      "text": "to into action? The entire chapter except the 36"
+    },
+    {
+      "i": 23,
+      "start": 188.12,
+      "end": 193.28,
+      "text": "verse where Arjuna again asks a question is by Krishna"
+    },
+    {
+      "i": 24,
+      "start": 193.52,
+      "end": 203.04,
+      "text": "explaining the question to the satisfaction of Arjuna even"
+    },
+    {
+      "i": 25,
+      "start": 203.04,
+      "end": 207.76,
+      "text": "though he is recommending Karma yoga Yetnyartha karma."
+    },
+    {
+      "i": 26,
+      "start": 209.08,
+      "end": 218.4,
+      "text": "That is the duty to be performed without roots of action is karma"
+    },
+    {
+      "i": 27,
+      "start": 218.4,
+      "end": 225.04,
+      "text": "yoga and the same duty when offered to the Lord becomes"
+    },
+    {
+      "i": 28,
+      "start": 225.04,
+      "end": 228.96,
+      "text": "Yatmyartha. And that is what the the jagat"
+    },
+    {
+      "i": 29,
+      "start": 228.96,
+      "end": 233.32,
+      "text": "chakra. That is how the cosmic cycle is"
+    },
+    {
+      "i": 30,
+      "start": 233.32,
+      "end": 239.08,
+      "text": "meant to be maintained by the nature for which we become part"
+    },
+    {
+      "i": 31,
+      "start": 239.08,
+      "end": 247.12,
+      "text": "of the nature. And then is the statement about"
+    },
+    {
+      "i": 32,
+      "start": 248.48,
+      "end": 256.839,
+      "text": "what is this? If you know, what is this force?"
+    },
+    {
+      "i": 33,
+      "start": 257.68,
+      "end": 263.36,
+      "text": "Even when I know that I should not be doing things out of my"
+    },
+    {
+      "i": 34,
+      "start": 265.16,
+      "end": 274.0,
+      "text": "duty, there is some force which is working in me as if pulled by"
+    },
+    {
+      "i": 35,
+      "start": 274.0,
+      "end": 277.84,
+      "text": "that force. I engage in things where I am"
+    },
+    {
+      "i": 36,
+      "start": 277.84,
+      "end": 279.56,
+      "text": "not supposed to be engaging with."
+    },
+    {
+      "i": 37,
+      "start": 282.16,
+      "end": 288.44,
+      "text": "For the answer to that Krishna said that kamaeva Krodaeva, the"
+    },
+    {
+      "i": 38,
+      "start": 288.44,
+      "end": 293.92,
+      "text": "two enemies which you, which valley you in your path of"
+    },
+    {
+      "i": 39,
+      "start": 293.92,
+      "end": 299.16,
+      "text": "spirituality are Kama and Kroda, the desire and the anger."
+    },
+    {
+      "i": 40,
+      "start": 300.0,
+      "end": 307.52,
+      "text": "Anger is nothing, but when desire is prohibited or stopped"
+    },
+    {
+      "i": 41,
+      "start": 307.52,
+      "end": 316.76,
+      "text": "or deviated that the force for the desire is converted into"
+    },
+    {
+      "i": 42,
+      "start": 316.76,
+      "end": 322.0,
+      "text": "anger. But these two are recommended as"
+    },
+    {
+      "i": 43,
+      "start": 322.0,
+      "end": 329.4,
+      "text": "the the band, the highway bandits whom you should be"
+    },
+    {
+      "i": 44,
+      "start": 329.76,
+      "end": 331.64,
+      "text": "careful in your spiritual highway."
+    },
+    {
+      "i": 45,
+      "start": 333.96,
+      "end": 338.44,
+      "text": "And Krishna says the location of them are in the Indriya mano"
+    },
+    {
+      "i": 46,
+      "start": 338.44,
+      "end": 345.96,
+      "text": "buddhi, the senses and the mind with intellect."
+    },
+    {
+      "i": 47,
+      "start": 347.04,
+      "end": 354.92,
+      "text": "The senses are dragged by the objects of senses and taken away"
+    },
+    {
+      "i": 48,
+      "start": 355.6,
+      "end": 360.4,
+      "text": "from the purpose in which they are supposed to be working, and"
+    },
+    {
+      "i": 49,
+      "start": 360.4,
+      "end": 367.08,
+      "text": "the mind is now controlled by that desire of the Indriya which"
+    },
+    {
+      "i": 50,
+      "start": 367.08,
+      "end": 371.84,
+      "text": "end the contact. That is the place where the"
+    },
+    {
+      "i": 51,
+      "start": 372.04,
+      "end": 376.48,
+      "text": "contact point between the senses and the sense object is the"
+    },
+    {
+      "i": 52,
+      "start": 376.48,
+      "end": 379.2,
+      "text": "place where raga dwesha is generated."
+    },
+    {
+      "i": 53,
+      "start": 380.48,
+      "end": 387.36,
+      "text": "Raga is attraction, Dwesha is repulsion and once these two"
+    },
+    {
+      "i": 54,
+      "start": 387.36,
+      "end": 394.64,
+      "text": "happen, the Dagai or Dweshai happen, the mind will be now in"
+    },
+    {
+      "i": 55,
+      "start": 394.68,
+      "end": 399.12,
+      "text": "tune with the sense organs. And when the mind is in tune"
+    },
+    {
+      "i": 56,
+      "start": 399.12,
+      "end": 405.56,
+      "text": "with the sense organ, the intellect is also now clouded"
+    },
+    {
+      "i": 57,
+      "start": 405.56,
+      "end": 411.2,
+      "text": "with the with the desires etcetera of because of karma and"
+    },
+    {
+      "i": 58,
+      "start": 411.2,
+      "end": 418.84,
+      "text": "Krotha do not have the intelligence to identify what is"
+    },
+    {
+      "i": 59,
+      "start": 418.84,
+      "end": 421.44,
+      "text": "right, what is wrong or what is to be done, what is not to be"
+    },
+    {
+      "i": 60,
+      "start": 421.44,
+      "end": 426.2,
+      "text": "done. These activities are called the"
+    },
+    {
+      "i": 61,
+      "start": 426.2,
+      "end": 432.04,
+      "text": "ignorance and thereby identifying ourselves as the"
+    },
+    {
+      "i": 62,
+      "start": 432.32,
+      "end": 438.56,
+      "text": "individual which is in this world desired by the, you know"
+    },
+    {
+      "i": 63,
+      "start": 438.8,
+      "end": 444.24,
+      "text": "pushed by the desires and the controlled by the sense organs."
+    },
+    {
+      "i": 64,
+      "start": 445.28,
+      "end": 448.84,
+      "text": "This was again explained in the Katopinisat also."
+    },
+    {
+      "i": 65,
+      "start": 451.84,
+      "end": 457.28,
+      "text": "The only way if we haven't to get out of the clutches of these"
+    },
+    {
+      "i": 66,
+      "start": 457.28,
+      "end": 465.72,
+      "text": "two bandits, Tri highway bandits are by developing the knowledge"
+    },
+    {
+      "i": 67,
+      "start": 466.64,
+      "end": 471.6,
+      "text": "and abiding in the self as we our true nature."
+    },
+    {
+      "i": 68,
+      "start": 473.48,
+      "end": 479.76,
+      "text": "For that is where the Karma Yoga as a preparatory measure helps"
+    },
+    {
+      "i": 69,
+      "start": 479.76,
+      "end": 488.32,
+      "text": "us in keeping the desires under check when we offer that into a"
+    },
+    {
+      "i": 70,
+      "start": 489.24,
+      "end": 493.24,
+      "text": "higher pedestal or A to the feet of the Lord."
+    },
+    {
+      "i": 71,
+      "start": 495.28,
+      "end": 501.96,
+      "text": "Thereby the repeated action will bring Chitashuddhi the intent or"
+    },
+    {
+      "i": 72,
+      "start": 501.96,
+      "end": 507.4,
+      "text": "the latent impressions and the tendencies in us to get"
+    },
+    {
+      "i": 73,
+      "start": 508.28,
+      "end": 512.24,
+      "text": "attracted by the sense organs will to the sense objects will"
+    },
+    {
+      "i": 74,
+      "start": 512.24,
+      "end": 516.24,
+      "text": "get reduced. And when that Jita Shuddhi is"
+    },
+    {
+      "i": 75,
+      "start": 517.28,
+      "end": 525.04,
+      "text": "maturing, we will also develop a serious development in the"
+    },
+    {
+      "i": 76,
+      "start": 526.12,
+      "end": 527.08,
+      "text": "goals. To."
+    },
+    {
+      "i": 77,
+      "start": 527.16,
+      "end": 532.72,
+      "text": "Achieve the knowledge Yanan Ishta and when that Nyana"
+    },
+    {
+      "i": 78,
+      "start": 532.72,
+      "end": 538.04,
+      "text": "Nishita is happening is when the Sattva Shuddhi is taking place,"
+    },
+    {
+      "i": 79,
+      "start": 538.04,
+      "end": 544.92,
+      "text": "that is, the overall person becomes aligned with knowledge"
+    },
+    {
+      "i": 80,
+      "start": 545.6,
+      "end": 551.88,
+      "text": "towards the higher knowledge. And once we recognize that we"
+    },
+    {
+      "i": 81,
+      "start": 551.88,
+      "end": 555.92,
+      "text": "are not the body, mind and intellect and abiding in the"
+    },
+    {
+      "i": 82,
+      "start": 556.16,
+      "end": 563.96,
+      "text": "self, that abidance in the self we can negate the lower self"
+    },
+    {
+      "i": 83,
+      "start": 563.96,
+      "end": 566.24,
+      "text": "which is the ego based individuality."
+    },
+    {
+      "i": 84,
+      "start": 568.52,
+      "end": 572.88,
+      "text": "This is what Krishna has advised Arjuna."
+    },
+    {
+      "i": 85,
+      "start": 575.64,
+      "end": 581.0,
+      "text": "Now the next chapter, instead of Nyana Yoga which is called Nyana"
+    },
+    {
+      "i": 86,
+      "start": 581.0,
+      "end": 587.92,
+      "text": "Karma, Sanyasa Yoga, Nayana karma, sanyasa, there are three"
+    },
+    {
+      "i": 87,
+      "start": 587.92,
+      "end": 591.08,
+      "text": "words, nayana, karma and sanyasa."
+    },
+    {
+      "i": 88,
+      "start": 593.44,
+      "end": 596.32,
+      "text": "We will see how this chapter is unfolding."
+    },
+    {
+      "i": 89,
+      "start": 598.2,
+      "end": 604.0,
+      "text": "And as a pre as a prelude to this chapter, Shankaracharya's"
+    },
+    {
+      "i": 90,
+      "start": 604.88,
+      "end": 608.0,
+      "text": "three sentences are there which we will go through it."
+    },
+    {
+      "i": 91,
+      "start": 609.6,
+      "end": 616.48,
+      "text": "Yo ayam yogaha adhyaya dwyena uktaha nayana nyana ishta"
+    },
+    {
+      "i": 92,
+      "start": 616.48,
+      "end": 620.48,
+      "text": "lekshanah. This yoga which has been taught"
+    },
+    {
+      "i": 93,
+      "start": 620.48,
+      "end": 625.92,
+      "text": "in the two chapters so far that is chapter 2 and chapter 3 is"
+    },
+    {
+      "i": 94,
+      "start": 625.92,
+      "end": 629.48,
+      "text": "characterized by the steadfastness in knowledge Nyana"
+    },
+    {
+      "i": 95,
+      "start": 629.48,
+      "end": 639.96,
+      "text": "nishta sanyasaha, karma yoga upayaha together with karma"
+    },
+    {
+      "i": 96,
+      "start": 640.96,
+      "end": 645.12,
+      "text": "renunciation. It has been renunciation means"
+    },
+    {
+      "i": 97,
+      "start": 645.12,
+      "end": 650.48,
+      "text": "recently renunciation not as per the ocher robe and going to the"
+    },
+    {
+      "i": 98,
+      "start": 650.48,
+      "end": 654.8,
+      "text": "sanya ashrama etcetera. Renunciation for the fruits of"
+    },
+    {
+      "i": 99,
+      "start": 654.8,
+      "end": 658.88,
+      "text": "action actions along with the renunciation of the fruit of"
+    },
+    {
+      "i": 100,
+      "start": 658.88,
+      "end": 665.56,
+      "text": "action is Karma Yoga and as its its means Yasmeen Vedartha"
+    },
+    {
+      "i": 101,
+      "start": 665.56,
+      "end": 673.12,
+      "text": "Parisam Abdaha in this in this yoga Karma yoga, the entire"
+    },
+    {
+      "i": 102,
+      "start": 673.12,
+      "end": 677.64,
+      "text": "purpose of the Vedas reaches its culmination."
+    },
+    {
+      "i": 103,
+      "start": 679.32,
+      "end": 688.56,
+      "text": "The whole Vedas is teaching us this yoga of Karma and sanyasa."
+    },
+    {
+      "i": 104,
+      "start": 690.88,
+      "end": 698.4,
+      "text": "For that Veda has said that where Krishna said itself, he"
+    },
+    {
+      "i": 105,
+      "start": 698.4,
+      "end": 702.2,
+      "text": "has advised Pravrthi Lakshana and Nevrti Marga, Pravrthi"
+    },
+    {
+      "i": 106,
+      "start": 702.2,
+      "end": 708.88,
+      "text": "rashana, Nevrthi lakshana that is Karma yoga and Nyana yoga,"
+    },
+    {
+      "i": 107,
+      "start": 710.16,
+      "end": 716.4,
+      "text": "Karma yoga for pravrthi marga and Nyana yoga for nevrthi"
+    },
+    {
+      "i": 108,
+      "start": 716.44,
+      "end": 720.8,
+      "text": "marga. For those that is for it"
+    },
+    {
+      "i": 109,
+      "start": 720.8,
+      "end": 724.12,
+      "text": "contains both paths characterized by action which is"
+    },
+    {
+      "i": 110,
+      "start": 724.12,
+      "end": 727.36,
+      "text": "for the pravrthi, and the path characterized by the"
+    },
+    {
+      "i": 111,
+      "start": 727.36,
+      "end": 732.8,
+      "text": "renunciation, which is the niwarti Geetasucha sarvasu"
+    },
+    {
+      "i": 112,
+      "start": 734.16,
+      "end": 738.84,
+      "text": "ayameva Yoga vivekshedaha bhagavata Bhagavata means by the"
+    },
+    {
+      "i": 113,
+      "start": 738.84,
+      "end": 743.88,
+      "text": "Lord, by Krishna. It is intended that this alone"
+    },
+    {
+      "i": 114,
+      "start": 743.88,
+      "end": 750.44,
+      "text": "Yoga alone is what is intended. Geetasu sarvasu ayameva in the"
+    },
+    {
+      "i": 115,
+      "start": 751.08,
+      "end": 756.88,
+      "text": "in, throughout the whole Geeta, the teaching is on this very"
+    },
+    {
+      "i": 116,
+      "start": 756.88,
+      "end": 769.92,
+      "text": "Yoga Ataha parisamatam vedatam manuanaha Tam vamsha sakathena"
+    },
+    {
+      "i": 117,
+      "start": 772.28,
+      "end": 776.04,
+      "text": "sauti bhagavan. Therefore, considering this Yoga"
+    },
+    {
+      "i": 118,
+      "start": 776.04,
+      "end": 780.24,
+      "text": "to be the complete culmination of the meaning of Vedas, Krishna"
+    },
+    {
+      "i": 119,
+      "start": 780.24,
+      "end": 784.76,
+      "text": "praises this by recounting his lineage."
+    },
+    {
+      "i": 120,
+      "start": 784.76,
+      "end": 791.44,
+      "text": "Vamsha Katanena. This short paragraph is"
+    },
+    {
+      "i": 121,
+      "start": 791.44,
+      "end": 795.68,
+      "text": "extremely important because Sankaracharya here gives the"
+    },
+    {
+      "i": 122,
+      "start": 796.16,
+      "end": 803.92,
+      "text": "meta interpretation for the entire Gita nyana Nishta"
+    },
+    {
+      "i": 123,
+      "start": 803.92,
+      "end": 806.24,
+      "text": "Lakshana. What he What did he mean by"
+    },
+    {
+      "i": 124,
+      "start": 806.28,
+      "end": 810.76,
+      "text": "Nyana nishta lakshana? The final goal is not action,"
+    },
+    {
+      "i": 125,
+      "start": 810.76,
+      "end": 814.68,
+      "text": "devotion or meditation, even though Krishna is talking about"
+    },
+    {
+      "i": 126,
+      "start": 814.68,
+      "end": 819.52,
+      "text": "action, devotion and meditation in Gita Nyana nishta."
+    },
+    {
+      "i": 127,
+      "start": 819.76,
+      "end": 825.32,
+      "text": "The steadfast abidance in the knowledge of the Self is what is"
+    },
+    {
+      "i": 128,
+      "start": 825.32,
+      "end": 831.72,
+      "text": "the goal of the abidance in knowledge, meaning realization"
+    },
+    {
+      "i": 129,
+      "start": 831.76,
+      "end": 836.84,
+      "text": "that Aambrahmasmi I am Brahman and firm abundance in that"
+    },
+    {
+      "i": 130,
+      "start": 836.84,
+      "end": 841.6,
+      "text": "knowledge and freedom from doership."
+    },
+    {
+      "i": 131,
+      "start": 842.2,
+      "end": 847.12,
+      "text": "Only when you know that you are the Atma or the Brahman and"
+    },
+    {
+      "i": 132,
+      "start": 847.12,
+      "end": 852.28,
+      "text": "abide in that knowledge, we can be free from the doership."
+    },
+    {
+      "i": 133,
+      "start": 853.4,
+      "end": 858.96,
+      "text": "Akartrutla, that means Kartrutva Bhava or Boktrutubhava, both."
+    },
+    {
+      "i": 134,
+      "start": 861.28,
+      "end": 865.56,
+      "text": "Thus chapter 2 starting from the 11th verse onwards already"
+    },
+    {
+      "i": 135,
+      "start": 865.56,
+      "end": 871.6,
+      "text": "teaches the Self. Nathu Ava aham jatunasam."
+    },
+    {
+      "i": 136,
+      "start": 871.96,
+      "end": 876.96,
+      "text": "That is how this started. The Self is unborn, unchanging,"
+    },
+    {
+      "i": 137,
+      "start": 876.96,
+      "end": 881.4,
+      "text": "eternal. That knowledge is the core of"
+    },
+    {
+      "i": 138,
+      "start": 881.4,
+      "end": 888.56,
+      "text": "the teaching. Then why did Krishna teach karma"
+    },
+    {
+      "i": 139,
+      "start": 888.56,
+      "end": 895.04,
+      "text": "yoga, Karma yoga, upaya? Karma yoga is not the final"
+    },
+    {
+      "i": 140,
+      "start": 895.04,
+      "end": 899.92,
+      "text": "path. It is the means, the purpose to"
+    },
+    {
+      "i": 141,
+      "start": 899.92,
+      "end": 904.6,
+      "text": "purify the mind, and without purification of the mind,"
+    },
+    {
+      "i": 142,
+      "start": 905.04,
+      "end": 910.48,
+      "text": "knowledge cannot arise in that. On the Karuna, this is exactly"
+    },
+    {
+      "i": 143,
+      "start": 910.48,
+      "end": 915.8,
+      "text": "how the Gita is approaching this now."
+    },
+    {
+      "i": 144,
+      "start": 915.8,
+      "end": 920.12,
+      "text": "The Sanyasaha, which is also being addressed here by"
+    },
+    {
+      "i": 145,
+      "start": 920.12,
+      "end": 924.12,
+      "text": "Sangarajya, he inserts it subtly."
+    },
+    {
+      "i": 146,
+      "start": 924.48,
+      "end": 930.4,
+      "text": "Renunciation here. For him, the true Knowledge"
+    },
+    {
+      "i": 147,
+      "start": 930.4,
+      "end": 934.16,
+      "text": "requires renunciation of the doership."
+    },
+    {
+      "i": 148,
+      "start": 936.16,
+      "end": 942.16,
+      "text": "This does not merely mean that external monkhood, it means aham"
+    },
+    {
+      "i": 149,
+      "start": 942.16,
+      "end": 947.68,
+      "text": "Karta, that I am the doer. That notion must disappear from"
+    },
+    {
+      "i": 150,
+      "start": 947.8,
+      "end": 951.72,
+      "text": "all of us. We are never the doers of any"
+    },
+    {
+      "i": 151,
+      "start": 951.72,
+      "end": 954.48,
+      "text": "action. We are the knowers."
+    },
+    {
+      "i": 152,
+      "start": 956.28,
+      "end": 962.48,
+      "text": "The doing is happening in the body, mind, intellect, complex,"
+    },
+    {
+      "i": 153,
+      "start": 963.0,
+      "end": 967.32,
+      "text": "and we objectify the body, mind, intellect complex as the knower."
+    },
+    {
+      "i": 154,
+      "start": 968.68,
+      "end": 974.72,
+      "text": "Thus Karma yoga prepares the mind, the renunciation or the"
+    },
+    {
+      "i": 155,
+      "start": 974.72,
+      "end": 980.04,
+      "text": "sanyasa removes the doership and when these two happens the"
+    },
+    {
+      "i": 156,
+      "start": 980.04,
+      "end": 982.88,
+      "text": "knowledge reveals Brahman. You don't have to do anything"
+    },
+    {
+      "i": 157,
+      "start": 982.88,
+      "end": 987.8,
+      "text": "specifically for revealing the knowledge of that hum Brahmasmi"
+    },
+    {
+      "i": 158,
+      "start": 988.6,
+      "end": 993.2,
+      "text": "that is already you are. But the avidya due to Kama and"
+    },
+    {
+      "i": 159,
+      "start": 993.2,
+      "end": 998.04,
+      "text": "Krodha are the ones which you are making us feel that the"
+    },
+    {
+      "i": 160,
+      "start": 998.04,
+      "end": 1002.68,
+      "text": "lower self is what I am and therefore the doership and the"
+    },
+    {
+      "i": 161,
+      "start": 1002.68,
+      "end": 1009.28,
+      "text": "boktrustership, that enjoyership is mine that will get renounced"
+    },
+    {
+      "i": 162,
+      "start": 1009.48,
+      "end": 1014.16,
+      "text": "by the proper knowledge and that knowledge will make us abide in"
+    },
+    {
+      "i": 163,
+      "start": 1014.16,
+      "end": 1021.24,
+      "text": "the true self. Yasmin Vedartha Parisamatha The"
+    },
+    {
+      "i": 164,
+      "start": 1021.24,
+      "end": 1023.64,
+      "text": "entire meaning of the Veda culminates here."
+    },
+    {
+      "i": 165,
+      "start": 1024.319,
+      "end": 1029.52,
+      "text": "The entire Veda means the complete Purvamimamsa and"
+    },
+    {
+      "i": 166,
+      "start": 1029.52,
+      "end": 1032.44,
+      "text": "Uttaramimamsa culminates here. Why?"
+    },
+    {
+      "i": 167,
+      "start": 1034.0,
+      "end": 1038.2,
+      "text": "Because Vedas ultimately aim at Brahmavidya only."
+    },
+    {
+      "i": 168,
+      "start": 1039.92,
+      "end": 1043.52,
+      "text": "The whole Veda is for knowing the Brahman."
+    },
+    {
+      "i": 169,
+      "start": 1045.92,
+      "end": 1051.0,
+      "text": "The preparatory stages are given in the Purvamimamsa and the"
+    },
+    {
+      "i": 170,
+      "start": 1051.04,
+      "end": 1054.24,
+      "text": "Uttaramimamsa. The Vedanta or the Upanishads"
+    },
+    {
+      "i": 171,
+      "start": 1054.72,
+      "end": 1061.44,
+      "text": "talk about the Brahmavidya and it is in that Vedas the words"
+    },
+    {
+      "i": 172,
+      "start": 1061.44,
+      "end": 1064.64,
+      "text": "like Sattvamasi, hum, Brahmasi, pragyanam, brahma etcetera"
+    },
+    {
+      "i": 173,
+      "start": 1064.64,
+      "end": 1067.92,
+      "text": "becomes condensed Upanishadic teaching."
+    },
+    {
+      "i": 174,
+      "start": 1070.8,
+      "end": 1075.32,
+      "text": "That is why Sankarajaja calls this Sarvabanishad O Gava that"
+    },
+    {
+      "i": 175,
+      "start": 1075.32,
+      "end": 1083.2,
+      "text": "means sung by all the Upanishad. That is the only truth that hum"
+    },
+    {
+      "i": 176,
+      "start": 1083.2,
+      "end": 1086.6,
+      "text": "Brahmasi, Sattvamasi, Pragyanam, Brahma etcetera."
+    },
+    {
+      "i": 177,
+      "start": 1089.2,
+      "end": 1094.2,
+      "text": "He is addressing Prabriti and Nevriti AS2 Vedic orientations,"
+    },
+    {
+      "i": 178,
+      "start": 1095.76,
+      "end": 1100.08,
+      "text": "Prabritimarga, the path of action examples the rituals,"
+    },
+    {
+      "i": 179,
+      "start": 1100.08,
+      "end": 1105.28,
+      "text": "Vedic rituals, Dharma, social duties and our social duties"
+    },
+    {
+      "i": 180,
+      "start": 1105.28,
+      "end": 1110.28,
+      "text": "include the family Dharma, the society Dharma, the Jajya"
+    },
+    {
+      "i": 181,
+      "start": 1110.28,
+      "end": 1117.96,
+      "text": "Dharma, evol dharmas, all that is for order in the society and"
+    },
+    {
+      "i": 182,
+      "start": 1117.96,
+      "end": 1122.12,
+      "text": "purification of the individual by the karma."
+    },
+    {
+      "i": 183,
+      "start": 1122.16,
+      "end": 1126.04,
+      "text": "When we do it, the karma as a Niskama, karma as a karma yoga,"
+    },
+    {
+      "i": 184,
+      "start": 1128.28,
+      "end": 1134.96,
+      "text": "the Nivartimarga or the path for emancipation or withdrawal is"
+    },
+    {
+      "i": 185,
+      "start": 1136.44,
+      "end": 1142.52,
+      "text": "renunciation of the doership and the enjoyership and acquiring"
+    },
+    {
+      "i": 186,
+      "start": 1142.52,
+      "end": 1144.64,
+      "text": "the knowledge through Nyan Nishta."
+    },
+    {
+      "i": 187,
+      "start": 1146.44,
+      "end": 1150.96,
+      "text": "And when that Nyana Nishita takes place, self realization"
+    },
+    {
+      "i": 188,
+      "start": 1150.96,
+      "end": 1156.52,
+      "text": "takes place by natural process and that itself."
+    },
+    {
+      "i": 189,
+      "start": 1156.52,
+      "end": 1162.2,
+      "text": "Once the Self is realized, that knowledge with which you are"
+    },
+    {
+      "i": 190,
+      "start": 1162.2,
+      "end": 1166.12,
+      "text": "realizing the Self is itself the liberation or moksha."
+    },
+    {
+      "i": 191,
+      "start": 1170.44,
+      "end": 1178.0,
+      "text": "The Gita integrates both but subordinates the action"
+    },
+    {
+      "i": 192,
+      "start": 1178.08,
+      "end": 1183.44,
+      "text": "Pravrtidharma compared to the knowledge action prepares"
+    },
+    {
+      "i": 193,
+      "start": 1183.44,
+      "end": 1188.96,
+      "text": "knowledge, liberates Gisasu Chasarvasu."
+    },
+    {
+      "i": 194,
+      "start": 1190.24,
+      "end": 1193.8,
+      "text": "The insistence of Sankaracharya that the whole Gita is 1."
+    },
+    {
+      "i": 195,
+      "start": 1193.8,
+      "end": 1197.56,
+      "text": "Central teaching. Not many, not conflicting, not"
+    },
+    {
+      "i": 196,
+      "start": 1197.56,
+      "end": 1200.4,
+      "text": "pluralistic. The central teaching."
+    },
+    {
+      "i": 197,
+      "start": 1200.96,
+      "end": 1205.64,
+      "text": "Knowledge of the Self leading to liberation is the theme of"
+    },
+    {
+      "i": 198,
+      "start": 1205.64,
+      "end": 1210.72,
+      "text": "Bhagavad Gita. Everything else is subservient"
+    },
+    {
+      "i": 199,
+      "start": 1210.72,
+      "end": 1214.48,
+      "text": "to it or it serves that purpose. So karma."
+    },
+    {
+      "i": 200,
+      "start": 1214.52,
+      "end": 1217.72,
+      "text": "Karma is a preparation for that bhakti."
+    },
+    {
+      "i": 201,
+      "start": 1217.72,
+      "end": 1221.2,
+      "text": "Devotion is to teacher and the Brahman is for building,"
+    },
+    {
+      "i": 202,
+      "start": 1221.2,
+      "end": 1223.28,
+      "text": "developing the shraddha in the teaching."
+    },
+    {
+      "i": 203,
+      "start": 1224.12,
+      "end": 1229.64,
+      "text": "Dhyana concentration is for aligning the mind and the"
+    },
+    {
+      "i": 204,
+      "start": 1229.64,
+      "end": 1234.36,
+      "text": "intellect towards that nyana nishta and knowledge liberates"
+    },
+    {
+      "i": 205,
+      "start": 1234.36,
+      "end": 1236.32,
+      "text": "the individual who is in this path."
+    },
+    {
+      "i": 206,
+      "start": 1239.0,
+      "end": 1243.16,
+      "text": "So Krishna talks about a lineage in the story in the chapter 4"
+    },
+    {
+      "i": 207,
+      "start": 1243.16,
+      "end": 1249.24,
+      "text": "beginning itself. Imam vivaswade yogam prabhavan"
+    },
+    {
+      "i": 208,
+      "start": 1249.24,
+      "end": 1252.8,
+      "text": "aham avveyam. I taught this yoga to vivaswan."
+    },
+    {
+      "i": 209,
+      "start": 1254.4,
+      "end": 1263.12,
+      "text": "That is how the chapter starts. The Sankaraja explains why it"
+    },
+    {
+      "i": 210,
+      "start": 1263.12,
+      "end": 1265.68,
+      "text": "is. It's a rhetorical praise"
+    },
+    {
+      "i": 211,
+      "start": 1265.68,
+      "end": 1268.56,
+      "text": "technique. By giving divine lineage,"
+    },
+    {
+      "i": 212,
+      "start": 1269.64,
+      "end": 1274.88,
+      "text": "Krishna shows that the teaching is ancient and it is"
+    },
+    {
+      "i": 213,
+      "start": 1274.88,
+      "end": 1279.72,
+      "text": "authoritative and it is sacred. And this is called the"
+    },
+    {
+      "i": 214,
+      "start": 1279.72,
+      "end": 1283.16,
+      "text": "Vamsasudi, the praising through the lineage."
+    },
+    {
+      "i": 215,
+      "start": 1283.92,
+      "end": 1286.12,
+      "text": "You might have heard me also doing that."
+    },
+    {
+      "i": 216,
+      "start": 1286.44,
+      "end": 1290.4,
+      "text": "You know, namo brahma di beo brahma vidya samrada hai"
+    },
+    {
+      "i": 217,
+      "start": 1290.4,
+      "end": 1293.72,
+      "text": "kartharabyo vamshi rishibyo. That is the praise of the"
+    },
+    {
+      "i": 218,
+      "start": 1293.72,
+      "end": 1298.32,
+      "text": "lineage of gurus to whom I did my invocation when I started the"
+    },
+    {
+      "i": 219,
+      "start": 1298.32,
+      "end": 1304.76,
+      "text": "class. Practical significance is is"
+    },
+    {
+      "i": 220,
+      "start": 1304.96,
+      "end": 1308.28,
+      "text": "Sangara's paragraph quietly resolves resolves many"
+    },
+    {
+      "i": 221,
+      "start": 1308.28,
+      "end": 1315.24,
+      "text": "confusions about Geeta. The we saw that in the beginning"
+    },
+    {
+      "i": 222,
+      "start": 1315.24,
+      "end": 1317.96,
+      "text": "when we discussed about introduction of Gita."
+    },
+    {
+      "i": 223,
+      "start": 1318.48,
+      "end": 1322.28,
+      "text": "There were commentaries prior to Sangaracharya and those"
+    },
+    {
+      "i": 224,
+      "start": 1322.28,
+      "end": 1325.28,
+      "text": "commentaries were confusing and people they were not."
+    },
+    {
+      "i": 225,
+      "start": 1325.28,
+      "end": 1332.16,
+      "text": "Able to follow. Gita as intended by Krishna and"
+    },
+    {
+      "i": 226,
+      "start": 1332.16,
+      "end": 1336.32,
+      "text": "when Sangaracharya wrote the bharsya for that Gita, it became"
+    },
+    {
+      "i": 227,
+      "start": 1336.32,
+      "end": 1346.96,
+      "text": "clear and is being followed by. Many people after that Geeta is"
+    },
+    {
+      "i": 228,
+      "start": 1346.96,
+      "end": 1350.0,
+      "text": "not a preliminary text for action."
+    },
+    {
+      "i": 229,
+      "start": 1352.92,
+      "end": 1356.4,
+      "text": "The modern interpretation is that Geeta teaches doing our"
+    },
+    {
+      "i": 230,
+      "start": 1356.4,
+      "end": 1360.08,
+      "text": "duty. Sankaracharya disagrees to that"
+    },
+    {
+      "i": 231,
+      "start": 1361.0,
+      "end": 1365.28,
+      "text": "duty is preparatory. It teaches Geeta duty, no doubt"
+    },
+    {
+      "i": 232,
+      "start": 1365.28,
+      "end": 1370.88,
+      "text": "about it, but it is preparatory. Liberation can come only from"
+    },
+    {
+      "i": 233,
+      "start": 1370.88,
+      "end": 1372.8,
+      "text": "the knowledge. Of the self."
+    },
+    {
+      "i": 234,
+      "start": 1375.92,
+      "end": 1381.36,
+      "text": "Karma Yoga is a psychological preparation where we remove our"
+    },
+    {
+      "i": 235,
+      "start": 1381.36,
+      "end": 1386.04,
+      "text": "ego, attachment, agitation, desire, etcetera, resulting in"
+    },
+    {
+      "i": 236,
+      "start": 1386.04,
+      "end": 1391.2,
+      "text": "the purity of our mind and without this no knowledge can"
+    },
+    {
+      "i": 237,
+      "start": 1393.28,
+      "end": 1395.76,
+      "text": "arise or even stick in our with us."
+    },
+    {
+      "i": 238,
+      "start": 1397.48,
+      "end": 1402.92,
+      "text": "So the Gita when unites both the streams of action and the"
+    },
+    {
+      "i": 239,
+      "start": 1402.92,
+      "end": 1406.2,
+      "text": "knowledge. I think that is ritualized"
+    },
+    {
+      "i": 240,
+      "start": 1406.2,
+      "end": 1408.4,
+      "text": "tradition and Upanishadic knowledge."
+    },
+    {
+      "i": 241,
+      "start": 1409.84,
+      "end": 1414.16,
+      "text": "There is a bridge between them and that is Bhagavad Gita."
+    },
+    {
+      "i": 242,
+      "start": 1416.04,
+      "end": 1421.6,
+      "text": "So Bhagavad Gita acts as a bridge between the Vedic rituals"
+    },
+    {
+      "i": 243,
+      "start": 1422.0,
+      "end": 1428.32,
+      "text": "and the Upanishadic knowledge because Krishna explains the"
+    },
+    {
+      "i": 244,
+      "start": 1428.32,
+      "end": 1434.56,
+      "text": "lineage, the authority, and from his personal viewpoint, he"
+    },
+    {
+      "i": 245,
+      "start": 1434.56,
+      "end": 1441.48,
+      "text": "explains every aspect of it, which shows that doing the duty"
+    },
+    {
+      "i": 246,
+      "start": 1442.04,
+      "end": 1450.0,
+      "text": "is preparatory and helps us in achieving our clarity, because"
+    },
+    {
+      "i": 247,
+      "start": 1450.0,
+      "end": 1453.12,
+      "text": "of which the Tynanista and the knowledge can take place."
+    },
+    {
+      "i": 248,
+      "start": 1456.04,
+      "end": 1462.16,
+      "text": "Liberation is knowledge, it is not an achievement."
+    },
+    {
+      "i": 249,
+      "start": 1463.76,
+      "end": 1469.64,
+      "text": "Knowledge is not an achievement. We are swarupa, Yana swarupa."
+    },
+    {
+      "i": 250,
+      "start": 1471.4,
+      "end": 1474.16,
+      "text": "We don't produce knowledge or liberation."
+    },
+    {
+      "i": 251,
+      "start": 1476.24,
+      "end": 1482.84,
+      "text": "We just recognizes when it was not being recognized that never"
+    },
+    {
+      "i": 252,
+      "start": 1483.08,
+      "end": 1489.28,
+      "text": "I was ever bound by my body, mind, intellect, complex and the"
+    },
+    {
+      "i": 253,
+      "start": 1489.48,
+      "end": 1492.76,
+      "text": "actions and duties and responsibilities etc."
+    },
+    {
+      "i": 254,
+      "start": 1493.68,
+      "end": 1501.84,
+      "text": "All the time I was pure and untouched by Nirbhishesha,"
+    },
+    {
+      "i": 255,
+      "start": 1501.84,
+      "end": 1510.48,
+      "text": "nirguna, nirakawara, urna atma and that recognition and"
+    },
+    {
+      "i": 256,
+      "start": 1510.48,
+      "end": 1515.92,
+      "text": "thereafter abiding in the Self is that Nyana nishta."
+    },
+    {
+      "i": 257,
+      "start": 1519.52,
+      "end": 1525.12,
+      "text": "So to sum up, the Gita teaches the single yoga, that is Nyana"
+    },
+    {
+      "i": 258,
+      "start": 1525.12,
+      "end": 1530.24,
+      "text": "Yoga, knowledge of the self, where Karma Yoga and sanyasa,"
+    },
+    {
+      "i": 259,
+      "start": 1531.44,
+      "end": 1536.76,
+      "text": "bhakti, meditation, jyana, etcetera serve as preparatory"
+    },
+    {
+      "i": 260,
+      "start": 1536.76,
+      "end": 1540.92,
+      "text": "means and this teaching represents the full final"
+    },
+    {
+      "i": 261,
+      "start": 1540.92,
+      "end": 1549.12,
+      "text": "culmination of Vedic revelation, Sri Bhagavanuvacha."
+    },
+    {
+      "i": 262,
+      "start": 1549.88,
+      "end": 1556.04,
+      "text": "Now Krishna is starting the 4th chapter Imam Vivaswade Yogam"
+    },
+    {
+      "i": 263,
+      "start": 1556.32,
+      "end": 1563.16,
+      "text": "Praktavan Ahamavyam Vivaswan Manave Praha Manurichwagave"
+    },
+    {
+      "i": 264,
+      "start": 1563.16,
+      "end": 1576.48,
+      "text": "Babravid Sri Bhagwan. Krishna is saying that Aham"
+    },
+    {
+      "i": 265,
+      "start": 1577.4,
+      "end": 1589.0,
+      "text": "Avayam Imam Yogam Vivaswan Vivaswathy Prabhavan that is"
+    },
+    {
+      "i": 266,
+      "start": 1590.36,
+      "end": 1594.76,
+      "text": "Imam means this referring to the yoga."
+    },
+    {
+      "i": 267,
+      "start": 1594.88,
+      "end": 1601.48,
+      "text": "Yoga vivasrathe means vivasrath. The vivasrath is the sun God"
+    },
+    {
+      "i": 268,
+      "start": 1603.6,
+      "end": 1608.16,
+      "text": "that is the the light. Even though here it is reflected"
+    },
+    {
+      "i": 269,
+      "start": 1608.16,
+      "end": 1615.24,
+      "text": "as Sun God, it is actually the knowledge itself as the light."
+    },
+    {
+      "i": 270,
+      "start": 1619.0,
+      "end": 1622.0,
+      "text": "In Brahma which is Nirugwana Nirvishesha, there is nothing"
+    },
+    {
+      "i": 271,
+      "start": 1622.0,
+      "end": 1625.04,
+      "text": "which is which is saying it is not even in the form of light"
+    },
+    {
+      "i": 272,
+      "start": 1626.32,
+      "end": 1632.76,
+      "text": "but as a light of knowledge. When it starts projecting, the"
+    },
+    {
+      "i": 273,
+      "start": 1632.76,
+      "end": 1641.96,
+      "text": "light is first needed. Therefore, Yogam Praktavan means"
+    },
+    {
+      "i": 274,
+      "start": 1642.72,
+      "end": 1650.04,
+      "text": "this Yoga which I am going to tell you Arjuna, I have told"
+    },
+    {
+      "i": 275,
+      "start": 1650.04,
+      "end": 1655.36,
+      "text": "this in the beginning of the creation to the lie very light"
+    },
+    {
+      "i": 276,
+      "start": 1655.6,
+      "end": 1658.0,
+      "text": "which projected the entire creation."
+    },
+    {
+      "i": 277,
+      "start": 1662.6,
+      "end": 1671.4,
+      "text": "So this is the Imam Yoga, Karma yoga, Lakshana characterized by"
+    },
+    {
+      "i": 278,
+      "start": 1671.4,
+      "end": 1675.84,
+      "text": "karma yoga, but immediately signals that this yoga is not"
+    },
+    {
+      "i": 279,
+      "start": 1675.84,
+      "end": 1680.48,
+      "text": "mere ritual action. It is the yoga that when matured"
+    },
+    {
+      "i": 280,
+      "start": 1681.2,
+      "end": 1684.52,
+      "text": "results in nyana, the choice of femum."
+    },
+    {
+      "i": 281,
+      "start": 1685.32,
+      "end": 1690.76,
+      "text": "This very one, or this right one, or this yoga underscores"
+    },
+    {
+      "i": 282,
+      "start": 1690.76,
+      "end": 1695.52,
+      "text": "that what was transmitted primordially is identical to"
+    },
+    {
+      "i": 283,
+      "start": 1695.52,
+      "end": 1698.64,
+      "text": "what is that I am going to teach you, O Arjuna."
+    },
+    {
+      "i": 284,
+      "start": 1699.68,
+      "end": 1705.4,
+      "text": "The yoga is Sanathana. It is ever fresh."
+    },
+    {
+      "i": 285,
+      "start": 1706.12,
+      "end": 1710.32,
+      "text": "It is not a historically contingent knowledge."
+    },
+    {
+      "i": 286,
+      "start": 1712.68,
+      "end": 1718.0,
+      "text": "Aham avayam, aham. Krishna is referring himself to"
+    },
+    {
+      "i": 287,
+      "start": 1718.6,
+      "end": 1724.96,
+      "text": "referring himself as the Paramatma or Brahman as Brahman."
+    },
+    {
+      "i": 288,
+      "start": 1725.8,
+      "end": 1735.24,
+      "text": "I have provided this praktavan really meaning having declared"
+    },
+    {
+      "i": 289,
+      "start": 1735.24,
+      "end": 1745.04,
+      "text": "or have a declared. It is a word with prah and wakh"
+    },
+    {
+      "i": 290,
+      "start": 1745.36,
+      "end": 1755.0,
+      "text": "which means to say, to declare, to announce or to dictate the"
+    },
+    {
+      "i": 291,
+      "start": 1755.04,
+      "end": 1757.92,
+      "text": "All those things can be meant that here."
+    },
+    {
+      "i": 292,
+      "start": 1758.84,
+      "end": 1762.2,
+      "text": "But he is using an adjective for aham avayam."
+    },
+    {
+      "i": 293,
+      "start": 1763.68,
+      "end": 1770.76,
+      "text": "Avayam means the imperishable or undecaying to show that the"
+    },
+    {
+      "i": 294,
+      "start": 1770.76,
+      "end": 1778.16,
+      "text": "Brahman Atman which projects the knowledge through the light of"
+    },
+    {
+      "i": 295,
+      "start": 1778.16,
+      "end": 1782.16,
+      "text": "knowledge from the Sun God onwards, that is a"
+    },
+    {
+      "i": 296,
+      "start": 1782.16,
+      "end": 1787.36,
+      "text": "representational Sun God, is what is indicated here."
+    },
+    {
+      "i": 297,
+      "start": 1788.36,
+      "end": 1792.48,
+      "text": "Therefore, the teaching occurred at a time beyond the beginning"
+    },
+    {
+      "i": 298,
+      "start": 1792.48,
+      "end": 1797.24,
+      "text": "of time. There is no historical reckoning"
+    },
+    {
+      "i": 299,
+      "start": 1797.48,
+      "end": 1801.32,
+      "text": "to this. So this Abhayyam applied to Yoga"
+    },
+    {
+      "i": 300,
+      "start": 1801.52,
+      "end": 1806.72,
+      "text": "and to Krishna or even it can be applied to the Yoga itself also."
+    },
+    {
+      "i": 301,
+      "start": 1806.92,
+      "end": 1813.32,
+      "text": "So both it is applicable as. Brahman or Paramatma Krishna is"
+    },
+    {
+      "i": 302,
+      "start": 1813.36,
+      "end": 1819.36,
+      "text": "Avayam and he is also teaching the yoga which is also"
+    },
+    {
+      "i": 303,
+      "start": 1821.04,
+      "end": 1825.36,
+      "text": "imperishable or undecaying as a knowledge."
+    },
+    {
+      "i": 304,
+      "start": 1828.04,
+      "end": 1832.84,
+      "text": "So it is philosophically crucial to understand this aspect,"
+    },
+    {
+      "i": 305,
+      "start": 1835.2,
+      "end": 1839.92,
+      "text": "indicating that this yoga being rooted in the immutable Atman or"
+    },
+    {
+      "i": 306,
+      "start": 1839.92,
+      "end": 1847.44,
+      "text": "Brahman is itself imperishable. Unlike the action karma which is"
+    },
+    {
+      "i": 307,
+      "start": 1848.64,
+      "end": 1854.04,
+      "text": "savaya, Avaya means subject to decay producing perishable"
+    },
+    {
+      "i": 308,
+      "start": 1854.04,
+      "end": 1857.16,
+      "text": "results. All karma has a beginning in"
+    },
+    {
+      "i": 309,
+      "start": 1857.16,
+      "end": 1861.0,
+      "text": "time. So before the time started"
+    },
+    {
+      "i": 310,
+      "start": 1861.0,
+      "end": 1866.64,
+      "text": "itself, this yoga was present in the knowledge of light, of"
+    },
+    {
+      "i": 311,
+      "start": 1866.64,
+      "end": 1871.48,
+      "text": "knowledge. Therefore it is imperishable at"
+    },
+    {
+      "i": 312,
+      "start": 1871.48,
+      "end": 1878.48,
+      "text": "that stage. Then when it is projected, it"
+    },
+    {
+      "i": 313,
+      "start": 1878.48,
+      "end": 1883.04,
+      "text": "was transmitted to down the line Urdu create through the"
+    },
+    {
+      "i": 314,
+      "start": 1883.04,
+      "end": 1891.04,
+      "text": "creations, which becomes subsequently as karma, not as a"
+    },
+    {
+      "i": 315,
+      "start": 1891.04,
+      "end": 1895.24,
+      "text": "karma yoga. This anticipate the Advaitic"
+    },
+    {
+      "i": 316,
+      "start": 1895.24,
+      "end": 1898.6,
+      "text": "thesis. Karma itself is binding and"
+    },
+    {
+      "i": 317,
+      "start": 1898.6,
+      "end": 1901.88,
+      "text": "decaying because it is within the time span."
+    },
+    {
+      "i": 318,
+      "start": 1903.2,
+      "end": 1909.96,
+      "text": "Only when it is taken up to Nyana level does the karma yoga"
+    },
+    {
+      "i": 319,
+      "start": 1910.48,
+      "end": 1915.2,
+      "text": "become savaya. The entire Parambara thus"
+    },
+    {
+      "i": 320,
+      "start": 1915.2,
+      "end": 1919.6,
+      "text": "transmits not mere virtual injunctions, but the vision of"
+    },
+    {
+      "i": 321,
+      "start": 1919.6,
+      "end": 1926.72,
+      "text": "the Imperishable Self itself. The second line is Vivaswan"
+    },
+    {
+      "i": 322,
+      "start": 1926.72,
+      "end": 1936.28,
+      "text": "manave Praha, the Vivaswa Vivaswan, the first light manave"
+    },
+    {
+      "i": 323,
+      "start": 1936.28,
+      "end": 1941.68,
+      "text": "Praha to the Manu Vivaswata Manuhu, the subsequent recipient"
+    },
+    {
+      "i": 324,
+      "start": 1943.08,
+      "end": 1947.44,
+      "text": "who is the beginning of the Manava who were the creators of"
+    },
+    {
+      "i": 325,
+      "start": 1947.44,
+      "end": 1955.36,
+      "text": "the world Prajapati. Aha means Praha means again it"
+    },
+    {
+      "i": 326,
+      "start": 1955.36,
+      "end": 1962.24,
+      "text": "is a word which use using the same meaning but in a different"
+    },
+    {
+      "i": 327,
+      "start": 1963.2,
+      "end": 1967.8,
+      "text": "what you call time span to integrate a different time span."
+    },
+    {
+      "i": 328,
+      "start": 1968.88,
+      "end": 1977.72,
+      "text": "See that perfect form? That is why aha means declared"
+    },
+    {
+      "i": 329,
+      "start": 1977.72,
+      "end": 1984.32,
+      "text": "or taught or uttered. So it carries a tone of"
+    },
+    {
+      "i": 330,
+      "start": 1984.56,
+      "end": 1991.68,
+      "text": "authoritative declaration more elevated than ordinary saying or"
+    },
+    {
+      "i": 331,
+      "start": 1991.68,
+      "end": 1998.68,
+      "text": "teaching. Watch or Bru, three different"
+    },
+    {
+      "i": 332,
+      "start": 1998.68,
+      "end": 2003.24,
+      "text": "verbs. Using Aham Proktavan I declared"
+    },
+    {
+      "i": 333,
+      "start": 2004.16,
+      "end": 2010.4,
+      "text": "we was sworn praha, that light of knowledge declared to Manu."
+    },
+    {
+      "i": 334,
+      "start": 2011.04,
+      "end": 2018.6,
+      "text": "Then Manu Abravid Manu said so. The three words of the"
+    },
+    {
+      "i": 335,
+      "start": 2018.6,
+      "end": 2022.88,
+      "text": "traditional teaching is a deliberate literacy."
+    },
+    {
+      "i": 336,
+      "start": 2022.88,
+      "end": 2030.16,
+      "text": "Literacy variation Chagarajarya does not treat as mere ornament."
+    },
+    {
+      "i": 337,
+      "start": 2030.92,
+      "end": 2034.8,
+      "text": "He has given this a very important aspect."
+    },
+    {
+      "i": 338,
+      "start": 2038.16,
+      "end": 2044.28,
+      "text": "So Vivatshwat is the Aditya or the Solar dynasty Desi Lord of"
+    },
+    {
+      "i": 339,
+      "start": 2044.28,
+      "end": 2049.48,
+      "text": "cosmic order, Ruta. That primordial teaching flows"
+    },
+    {
+      "i": 340,
+      "start": 2049.48,
+      "end": 2056.52,
+      "text": "through the light of sun is significant for Advaitins."
+    },
+    {
+      "i": 341,
+      "start": 2057.56,
+      "end": 2061.679,
+      "text": "The sun illumines everything without being touched by what it"
+    },
+    {
+      "i": 342,
+      "start": 2061.84,
+      "end": 2067.679,
+      "text": "illumines, a natural symbol of witness consciousness."
+    },
+    {
+      "i": 343,
+      "start": 2067.8,
+      "end": 2071.56,
+      "text": "Sakshi Chaitanya is symbolified in the sun."
+    },
+    {
+      "i": 344,
+      "start": 2072.76,
+      "end": 2075.6,
+      "text": "The transmission does not diminish the teaching."
+    },
+    {
+      "i": 345,
+      "start": 2076.56,
+      "end": 2080.719,
+      "text": "The yoga remains Avaya through each transmission."
+    },
+    {
+      "i": 346,
+      "start": 2082.48,
+      "end": 2089.8,
+      "text": "Even the reflected light of the sunlight is equivalent to"
+    },
+    {
+      "i": 347,
+      "start": 2090.719,
+      "end": 2097.12,
+      "text": "brighten up a room. Then comes Manu Ikshwagave"
+    },
+    {
+      "i": 348,
+      "start": 2097.52,
+      "end": 2105.16,
+      "text": "Abravid. The Manu thought this abravid I"
+    },
+    {
+      "i": 349,
+      "start": 2105.16,
+      "end": 2112.04,
+      "text": "mean said or thought Ikshwagu. Ikshwagu is the is a is a"
+    },
+    {
+      "i": 350,
+      "start": 2112.04,
+      "end": 2113.92,
+      "text": "dynasty king. Who?"
+    },
+    {
+      "i": 351,
+      "start": 2114.28,
+      "end": 2119.28,
+      "text": "Subsequent to Manu, so subsequent to Manu Ikshwagu has"
+    },
+    {
+      "i": 352,
+      "start": 2119.28,
+      "end": 2121.96,
+      "text": "come. So Ikshagu abravit."
+    },
+    {
+      "i": 353,
+      "start": 2122.8,
+      "end": 2128.84,
+      "text": "So what they say say Manu is Yuvashoda, Manu, progenitor of"
+    },
+    {
+      "i": 354,
+      "start": 2128.84,
+      "end": 2132.32,
+      "text": "the humanity. Manushya Ikshvagu is the first"
+    },
+    {
+      "i": 355,
+      "start": 2132.32,
+      "end": 2134.52,
+      "text": "king of the solar Dynati Suryamsha."
+    },
+    {
+      "i": 356,
+      "start": 2135.72,
+      "end": 2140.28,
+      "text": "The lineage therefore the follows the Dharmarajas."
+    },
+    {
+      "i": 357,
+      "start": 2141.56,
+      "end": 2144.96,
+      "text": "Sankarajaria notes that the teaching is here is entering the"
+    },
+    {
+      "i": 358,
+      "start": 2144.96,
+      "end": 2152.16,
+      "text": "human historical time via a royal lineage appropriate to"
+    },
+    {
+      "i": 359,
+      "start": 2152.28,
+      "end": 2159.04,
+      "text": "shatriya Dharma. This descent, this descent to"
+    },
+    {
+      "i": 360,
+      "start": 2159.16,
+      "end": 2165.92,
+      "text": "Vavharika transmission prepares Arjuna who stands at the end of"
+    },
+    {
+      "i": 361,
+      "start": 2165.92,
+      "end": 2177.44,
+      "text": "this very lineage and to us today we so Krishna speaks this"
+    },
+    {
+      "i": 362,
+      "start": 2177.44,
+      "end": 2182.32,
+      "text": "first person aham ascertaining himself as the ultimate source"
+    },
+    {
+      "i": 363,
+      "start": 2182.32,
+      "end": 2186.04,
+      "text": "of transmission, not merely one link in it."
+    },
+    {
+      "i": 364,
+      "start": 2188.52,
+      "end": 2193.6,
+      "text": "So if you go out for a deeper reading, Sangaracharya in his"
+    },
+    {
+      "i": 365,
+      "start": 2193.6,
+      "end": 2201.44,
+      "text": "Varsha is identifying Krishna with the not non historical"
+    },
+    {
+      "i": 366,
+      "start": 2201.68,
+      "end": 2205.2,
+      "text": "Brahman principle. When Krishna says Aham"
+    },
+    {
+      "i": 367,
+      "start": 2205.2,
+      "end": 2209.56,
+      "text": "Praktavan, I declared this at the beginning of the cosmic time"
+    },
+    {
+      "i": 368,
+      "start": 2210.28,
+      "end": 2214.76,
+      "text": "before time started. The logical question that Arjuna"
+    },
+    {
+      "i": 369,
+      "start": 2214.76,
+      "end": 2223.36,
+      "text": "will in fact ask Aparam Bhavatot Janma param janma Vivasratha is"
+    },
+    {
+      "i": 370,
+      "start": 2223.36,
+      "end": 2227.44,
+      "text": "already implicit in it. That is, how can this mortal"
+    },
+    {
+      "i": 371,
+      "start": 2227.44,
+      "end": 2230.92,
+      "text": "bodied Krishna have spoken to the sun, is the question which"
+    },
+    {
+      "i": 372,
+      "start": 2230.92,
+      "end": 2234.8,
+      "text": "is now tinkling in the mind of Arjuna."
+    },
+    {
+      "i": 373,
+      "start": 2236.8,
+      "end": 2243.28,
+      "text": "Sankarajya reads this as Krishna's covert disclosure of"
+    },
+    {
+      "i": 374,
+      "start": 2243.28,
+      "end": 2246.88,
+      "text": "his Parameswara nature or the Parabrahma nature."
+    },
+    {
+      "i": 375,
+      "start": 2247.76,
+      "end": 2252.08,
+      "text": "The aham here is not an empirical aham of the body mind"
+    },
+    {
+      "i": 376,
+      "start": 2252.28,
+      "end": 2257.6,
+      "text": "Ankarta, but the aham of the pure chit or Pratyakatma."
+    },
+    {
+      "i": 377,
+      "start": 2258.72,
+      "end": 2264.08,
+      "text": "When we say Aham Brahmasmi, that aham is not the body mind"
+    },
+    {
+      "i": 378,
+      "start": 2264.08,
+      "end": 2266.08,
+      "text": "complex which is saying aham Brahma."
+    },
+    {
+      "i": 379,
+      "start": 2267.0,
+      "end": 2271.72,
+      "text": "It is the pratyagatma or the inner ratma or the inner self"
+    },
+    {
+      "i": 380,
+      "start": 2272.84,
+      "end": 2277.6,
+      "text": "that is nitya, Avaya and asanga just."
+    },
+    {
+      "i": 381,
+      "start": 2277.6,
+      "end": 2281.8,
+      "text": "As. The Sakshi in the Brahadharanya"
+    },
+    {
+      "i": 382,
+      "start": 2281.8,
+      "end": 2284.92,
+      "text": "Upanishad says the unseen seer, the unheard hearer."
+    },
+    {
+      "i": 383,
+      "start": 2285.6,
+      "end": 2291.92,
+      "text": "That is the way in which Brahadharanya denotes that here"
+    },
+    {
+      "i": 384,
+      "start": 2291.92,
+      "end": 2296.36,
+      "text": "Krishna as Parameswara or Paramatma is the witness,"
+    },
+    {
+      "i": 385,
+      "start": 2296.36,
+      "end": 2300.92,
+      "text": "eternal witness teacher who is never actually born and never"
+    },
+    {
+      "i": 386,
+      "start": 2301.2,
+      "end": 2304.08,
+      "text": "actually teaches the empirical sense."
+    },
+    {
+      "i": 387,
+      "start": 2304.08,
+      "end": 2308.88,
+      "text": "Yet from the standpoint of Yavaharika reality, the"
+    },
+    {
+      "i": 388,
+      "start": 2308.88,
+      "end": 2311.24,
+      "text": "transmission appears to have occurred."
+    },
+    {
+      "i": 389,
+      "start": 2314.96,
+      "end": 2321.16,
+      "text": "That is why the qualifier avayam on both yoga and Wellness from"
+    },
+    {
+      "i": 390,
+      "start": 2321.16,
+      "end": 2327.72,
+      "text": "Krishna is doubly resonant. The yoga is imperishable because"
+    },
+    {
+      "i": 391,
+      "start": 2327.72,
+      "end": 2333.32,
+      "text": "its source is pure Brahman or Atman karma."
+    },
+    {
+      "i": 392,
+      "start": 2333.32,
+      "end": 2337.24,
+      "text": "Yoga, when served from the Atman ground, would."
+    },
+    {
+      "i": 393,
+      "start": 2337.24,
+      "end": 2342.2,
+      "text": "Be savayawa bearing perishable fruits."
+    },
+    {
+      "i": 394,
+      "start": 2343.32,
+      "end": 2346.4,
+      "text": "Which is indicated Shriniya punya matilogam visandhi."
+    },
+    {
+      "i": 395,
+      "start": 2346.72,
+      "end": 2348.8,
+      "text": "So that is exactly where it is shown."
+    },
+    {
+      "i": 396,
+      "start": 2349.32,
+      "end": 2352.2,
+      "text": "Only yoga. Only the yoga grounded in Nyana"
+    },
+    {
+      "i": 397,
+      "start": 2352.96,
+      "end": 2356.36,
+      "text": "of the Avaya Atman itself will be Avaya."
+    },
+    {
+      "i": 398,
+      "start": 2357.44,
+      "end": 2362.88,
+      "text": "Therefore, this verse is a compressed prakrana tweet"
+    },
+    {
+      "i": 399,
+      "start": 2362.88,
+      "end": 2368.48,
+      "text": "statement for the entire chapter of 4th where Karma yoga is being"
+    },
+    {
+      "i": 400,
+      "start": 2368.48,
+      "end": 2373.0,
+      "text": "transmitted. But it is an abhaya only sofa."
+    },
+    {
+      "i": 401,
+      "start": 2376.84,
+      "end": 2381.2,
+      "text": "Therefore the Parampara Gurushisha lineage from the"
+    },
+    {
+      "i": 402,
+      "start": 2381.2,
+      "end": 2386.84,
+      "text": "Brahman to Vivasruta Manu, Vivasruta to Vyasvan, Vyasruta"
+    },
+    {
+      "i": 403,
+      "start": 2386.84,
+      "end": 2390.68,
+      "text": "Manu Manu to Ishwagu, Ishwagu and then downward."
+    },
+    {
+      "i": 404,
+      "start": 2392.0,
+      "end": 2397.52,
+      "text": "The imperishability is because it is coming from Atman or"
+    },
+    {
+      "i": 405,
+      "start": 2397.52,
+      "end": 2404.88,
+      "text": "Brahman itself as grounded yoga. Krishna as Aham is the eternal"
+    },
+    {
+      "i": 406,
+      "start": 2404.88,
+      "end": 2408.84,
+      "text": "witness, not the empirical ego of the individual."
+    },
+    {
+      "i": 407,
+      "start": 2410.96,
+      "end": 2415.16,
+      "text": "The transmission as Vyavahariga and Paramarthiga."
+    },
+    {
+      "i": 408,
+      "start": 2416.04,
+      "end": 2422.2,
+      "text": "The Krishna Aham is Paramarthiga and the teaching is in"
+    },
+    {
+      "i": 409,
+      "start": 2422.2,
+      "end": 2428.56,
+      "text": "Vyavahariga Pratyagatma who is teaching this is Krishna"
+    },
+    {
+      "i": 410,
+      "start": 2428.56,
+      "end": 2432.04,
+      "text": "himself. When Krishna says Aham Roktavan."
+    },
+    {
+      "i": 411,
+      "start": 2436.44,
+      "end": 2444.24,
+      "text": "So in the first verse Shankaracharya is refuting the"
+    },
+    {
+      "i": 412,
+      "start": 2444.24,
+      "end": 2448.48,
+      "text": "karma nyana karma samuchaya, dismantling any equation of"
+    },
+    {
+      "i": 413,
+      "start": 2448.48,
+      "end": 2451.48,
+      "text": "karma with ultimate means, insisting the karma is at the"
+    },
+    {
+      "i": 414,
+      "start": 2451.48,
+      "end": 2456.2,
+      "text": "best a sadhana that purifies the andakarana for the liberating"
+    },
+    {
+      "i": 415,
+      "start": 2456.2,
+      "end": 2459.76,
+      "text": "soul who once K valat nyanya Eva moksha."
+    },
+    {
+      "i": 416,
+      "start": 2460.12,
+      "end": 2463.8,
+      "text": "Only through this thing the commentary on the Shankaracharya"
+    },
+    {
+      "i": 417,
+      "start": 2463.8,
+      "end": 2469.76,
+      "text": "will be read like that. Imam adhyaya dwayena uptam yogam"
+    },
+    {
+      "i": 418,
+      "start": 2469.76,
+      "end": 2474.76,
+      "text": "vivasrate adityaya sargadhav raktavan aham."
+    },
+    {
+      "i": 419,
+      "start": 2476.04,
+      "end": 2479.68,
+      "text": "I taught this yoga which has been explained in the two"
+    },
+    {
+      "i": 420,
+      "start": 2479.68,
+      "end": 2483.84,
+      "text": "chapters preceding to this to vivasu on the sun God at the"
+    },
+    {
+      "i": 421,
+      "start": 2483.84,
+      "end": 2488.52,
+      "text": "beginning of creation. Sargadhav jagat paripalya"
+    },
+    {
+      "i": 422,
+      "start": 2488.6,
+      "end": 2495.12,
+      "text": "itirunam shatriyana Bella adanaya adanaya."
+    },
+    {
+      "i": 423,
+      "start": 2496.28,
+      "end": 2501.32,
+      "text": "What is that Bellam Adanaya for strengthening whom shatriyana"
+    },
+    {
+      "i": 424,
+      "start": 2501.84,
+      "end": 2507.6,
+      "text": "the Chatriyas who are the protectors of the world Jagat"
+    },
+    {
+      "i": 425,
+      "start": 2507.6,
+      "end": 2514.32,
+      "text": "paripali Trina you will find in the Upanishad and many"
+    },
+    {
+      "i": 426,
+      "start": 2514.32,
+      "end": 2518.28,
+      "text": "Upanishad. This knowledge of Hatmavidya or"
+    },
+    {
+      "i": 427,
+      "start": 2518.28,
+      "end": 2525.88,
+      "text": "Brahmavidya is most of the places in the hands of Chatriya"
+    },
+    {
+      "i": 428,
+      "start": 2525.88,
+      "end": 2528.16,
+      "text": "kings. Who teaches that to the"
+    },
+    {
+      "i": 429,
+      "start": 2528.16,
+      "end": 2530.88,
+      "text": "Brahmanas? Because when they learn the"
+    },
+    {
+      "i": 430,
+      "start": 2532.12,
+      "end": 2538.92,
+      "text": "yoga, when the the teaching of the Veda etcetera, their doubts"
+    },
+    {
+      "i": 431,
+      "start": 2538.92,
+      "end": 2542.8,
+      "text": "are clarified by the Ajada, Shatru, the people, Ada"
+    },
+    {
+      "i": 432,
+      "start": 2542.8,
+      "end": 2548.92,
+      "text": "etcetera, all of them. That is for strengthening the"
+    },
+    {
+      "i": 433,
+      "start": 2548.92,
+      "end": 2551.76,
+      "text": "shatriyas who are protectors of the world."
+    },
+    {
+      "i": 434,
+      "start": 2552.16,
+      "end": 2556.8,
+      "text": "There is a reason why it is being told to the shatriyas in"
+    },
+    {
+      "i": 435,
+      "start": 2556.8,
+      "end": 2559.52,
+      "text": "from the beginning by the Brahman itself."
+    },
+    {
+      "i": 436,
+      "start": 2560.68,
+      "end": 2565.52,
+      "text": "Dena bela yogaena yukta samartha bhavandi Brahma pari rakshitu."
+    },
+    {
+      "i": 437,
+      "start": 2567.36,
+      "end": 2571.72,
+      "text": "When they are endowed with the strength of that yoga, which is"
+    },
+    {
+      "i": 438,
+      "start": 2571.72,
+      "end": 2577.72,
+      "text": "the Avaya Yoga, they become capable of protecting that"
+    },
+    {
+      "i": 439,
+      "start": 2577.72,
+      "end": 2583.6,
+      "text": "knowledge itself, Brahman as knowledge, brahmakshatre,"
+    },
+    {
+      "i": 440,
+      "start": 2583.6,
+      "end": 2586.76,
+      "text": "paribalite jagat paribalaidum Alam."
+    },
+    {
+      "i": 441,
+      "start": 2587.48,
+      "end": 2592.48,
+      "text": "When Brahman and the shatriya, the spiritual authority and the"
+    },
+    {
+      "i": 442,
+      "start": 2592.48,
+      "end": 2596.88,
+      "text": "royal power are protected, that alone is sufficient for"
+    },
+    {
+      "i": 443,
+      "start": 2596.88,
+      "end": 2601.64,
+      "text": "protection of the world. Abhayyam, abhayyam halathwaad."
+    },
+    {
+      "i": 444,
+      "start": 2602.12,
+      "end": 2608.12,
+      "text": "This yoga is imperishable because the fruit of the yoga is"
+    },
+    {
+      "i": 445,
+      "start": 2608.44,
+      "end": 2613.12,
+      "text": "also imperishable because it is the light which is being"
+    },
+    {
+      "i": 446,
+      "start": 2613.12,
+      "end": 2618.2,
+      "text": "transmitted, and the light, when it is transmitted, it doesn't"
+    },
+    {
+      "i": 447,
+      "start": 2618.2,
+      "end": 2622.48,
+      "text": "get diminished. Nahi asiya yogasya samyat"
+    },
+    {
+      "i": 448,
+      "start": 2622.48,
+      "end": 2629.52,
+      "text": "darsena nishtalakshanaya nishtalakshanasya mokshakyam"
+    },
+    {
+      "i": 449,
+      "start": 2629.88,
+      "end": 2636.08,
+      "text": "palam vyati. For the fruit of this yoga which"
+    },
+    {
+      "i": 450,
+      "start": 2636.08,
+      "end": 2639.36,
+      "text": "is characterized by the steadfastness in the right"
+    },
+    {
+      "i": 451,
+      "start": 2639.36,
+      "end": 2643.64,
+      "text": "knowledge, namely liberation never perishes."
+    },
+    {
+      "i": 452,
+      "start": 2644.6,
+      "end": 2651.12,
+      "text": "Therefore Mokshakyam palam navaethi Sacha vivaswan manave"
+    },
+    {
+      "i": 453,
+      "start": 2651.12,
+      "end": 2657.28,
+      "text": "praha and that knowledge Vivaswan, the first sun God"
+    },
+    {
+      "i": 454,
+      "start": 2657.68,
+      "end": 2663.04,
+      "text": "taught to Manu. Manu Ikshwagave Subhutraya Adi"
+    },
+    {
+      "i": 455,
+      "start": 2663.04,
+      "end": 2668.84,
+      "text": "Rajaya Abhravid Manu told to his son Ikshwagu, the first king."
+    },
+    {
+      "i": 456,
+      "start": 2674.08,
+      "end": 2681.84,
+      "text": "That yoga taught is the saying that Nyana Yoga Adyaya Dhayana"
+    },
+    {
+      "i": 457,
+      "start": 2681.84,
+      "end": 2688.36,
+      "text": "Uptam Yogam that is the chapter 2 of the self knowledge and"
+    },
+    {
+      "i": 458,
+      "start": 2688.36,
+      "end": 2691.16,
+      "text": "chapter 3 as Karma Yoga as preparation."
+    },
+    {
+      "i": 459,
+      "start": 2691.76,
+      "end": 2694.76,
+      "text": "Thus the yoga transmitted through the solar lineages"
+    },
+    {
+      "i": 460,
+      "start": 2695.24,
+      "end": 2700.8,
+      "text": "Nyananishta steadfast knowledge of the self."
+    },
+    {
+      "i": 461,
+      "start": 2700.8,
+      "end": 2708.12,
+      "text": "It is not a ritual system or a political doctrine, but it is an"
+    },
+    {
+      "i": 462,
+      "start": 2708.12,
+      "end": 2713.72,
+      "text": "Upanishadic wisdom adapted by the rulers for their justify"
+    },
+    {
+      "i": 463,
+      "start": 2713.76,
+      "end": 2719.6,
+      "text": "just ruling and note ego based ruling."
+    },
+    {
+      "i": 464,
+      "start": 2720.8,
+      "end": 2723.08,
+      "text": "Why teach? The self knowledge to the kings."
+    },
+    {
+      "i": 465,
+      "start": 2726.68,
+      "end": 2730.68,
+      "text": "The reason is Jagatpale Paripal is renowned Chatriyanam"
+    },
+    {
+      "i": 466,
+      "start": 2730.68,
+      "end": 2735.8,
+      "text": "Baladhanaya to strengthen the chatriyas who protect the world."
+    },
+    {
+      "i": 467,
+      "start": 2737.48,
+      "end": 2740.4,
+      "text": "But what kind of strength? Yoga strength?"
+    },
+    {
+      "i": 468,
+      "start": 2741.52,
+      "end": 2744.36,
+      "text": "What is that Yoga gives the inner sovereignty?"
+    },
+    {
+      "i": 469,
+      "start": 2744.88,
+      "end": 2749.12,
+      "text": "A king without yoga will be ruled by anger, greed or fear,"
+    },
+    {
+      "i": 470,
+      "start": 2749.88,
+      "end": 2754.64,
+      "text": "whereas a king with yoga will. Rule detached, self controlled"
+    },
+    {
+      "i": 471,
+      "start": 2754.64,
+      "end": 2757.52,
+      "text": "and just. Thus Yoga becomes a moral"
+    },
+    {
+      "i": 472,
+      "start": 2757.52,
+      "end": 2762.8,
+      "text": "foundation for political power for the kings and protecting"
+    },
+    {
+      "i": 473,
+      "start": 2762.8,
+      "end": 2765.0,
+      "text": "Brahman. There is a word Samartha"
+    },
+    {
+      "i": 474,
+      "start": 2765.0,
+      "end": 2769.16,
+      "text": "bhavandi, Brahma pari rakshism. They become capable of"
+    },
+    {
+      "i": 475,
+      "start": 2769.16,
+      "end": 2772.68,
+      "text": "protecting Brahman means. That sounds strange, you know,"
+    },
+    {
+      "i": 476,
+      "start": 2773.36,
+      "end": 2775.32,
+      "text": "But how can Brahman need a protection?"
+    },
+    {
+      "i": 477,
+      "start": 2776.32,
+      "end": 2779.08,
+      "text": "Sangarajya dya does not mean protecting the Absolute."
+    },
+    {
+      "i": 478,
+      "start": 2779.68,
+      "end": 2785.36,
+      "text": "He means protecting the Brahmander is not Brahman but"
+    },
+    {
+      "i": 479,
+      "start": 2785.36,
+      "end": 2790.92,
+      "text": "Brahman is their the Veda. So to protecting the Vedas."
+    },
+    {
+      "i": 480,
+      "start": 2791.6,
+      "end": 2795.48,
+      "text": "Brahma Paliwalayithrum Parirakshitam means Veda to"
+    },
+    {
+      "i": 481,
+      "start": 2795.48,
+      "end": 2799.4,
+      "text": "protecting the Vedas. Brahman has the Vedic knowledge"
+    },
+    {
+      "i": 482,
+      "start": 2799.72,
+      "end": 2803.12,
+      "text": "and the Brahmanical tradition. The tradition of Veda being"
+    },
+    {
+      "i": 483,
+      "start": 2803.12,
+      "end": 2806.96,
+      "text": "taught and practiced, preservation of Vedic learning,"
+    },
+    {
+      "i": 484,
+      "start": 2807.88,
+      "end": 2811.16,
+      "text": "protection of spiritual culture, safeguarding teachers and"
+    },
+    {
+      "i": 485,
+      "start": 2811.16,
+      "end": 2816.68,
+      "text": "seekers. So Shankarajarya summarizes it"
+    },
+    {
+      "i": 486,
+      "start": 2816.68,
+      "end": 2820.88,
+      "text": "beautifully, saying Brahmachatre parivali re jagat parivale dum"
+    },
+    {
+      "i": 487,
+      "start": 2821.12,
+      "end": 2827.8,
+      "text": "Alam Alam means that is enough if Brahman or the shatra is"
+    },
+    {
+      "i": 488,
+      "start": 2827.8,
+      "end": 2831.08,
+      "text": "protected, that is, the kings are protected through this yoga"
+    },
+    {
+      "i": 489,
+      "start": 2831.44,
+      "end": 2833.4,
+      "text": "and the Vedic tradition is protected."
+    },
+    {
+      "i": 490,
+      "start": 2833.8,
+      "end": 2839.56,
+      "text": "The world is protected. The two pillars, knowledge and"
+    },
+    {
+      "i": 491,
+      "start": 2839.56,
+      "end": 2844.04,
+      "text": "power, spiritual vision, power, political power."
+    },
+    {
+      "i": 492,
+      "start": 2845.0,
+      "end": 2848.4,
+      "text": "If one of them collapse the civilization, the civilization"
+    },
+    {
+      "i": 493,
+      "start": 2848.4,
+      "end": 2850.6,
+      "text": "collapses. Why?"
+    },
+    {
+      "i": 494,
+      "start": 2850.6,
+      "end": 2855.52,
+      "text": "Yoga is imperishable, Abhayyam abhaya palathwad."
+    },
+    {
+      "i": 495,
+      "start": 2856.16,
+      "end": 2859.92,
+      "text": "That is the imperishable nature of the palam, which is moksha."
+    },
+    {
+      "i": 496,
+      "start": 2861.08,
+      "end": 2866.52,
+      "text": "Moksha is imperishable. Liberation can never be"
+    },
+    {
+      "i": 497,
+      "start": 2866.52,
+      "end": 2870.52,
+      "text": "temporary. Therefore Yoga is a Vyaya."
+    },
+    {
+      "i": 498,
+      "start": 2875.28,
+      "end": 2878.76,
+      "text": "The lineage is to express the authenticity."
+    },
+    {
+      "i": 499,
+      "start": 2878.88,
+      "end": 2881.8,
+      "text": "From Brahman onwards it is being transmitted."
+    },
+    {
+      "i": 500,
+      "start": 2884.72,
+      "end": 2888.64,
+      "text": "So Advaita is often accused of being world negating."
+    },
+    {
+      "i": 501,
+      "start": 2889.72,
+      "end": 2893.04,
+      "text": "The Changarajari implies that opposite the world is protected"
+    },
+    {
+      "i": 502,
+      "start": 2893.04,
+      "end": 2895.84,
+      "text": "when rulers possess self-control, detachment and"
+    },
+    {
+      "i": 503,
+      "start": 2895.84,
+      "end": 2898.6,
+      "text": "wisdom. Therefore, the inner dil, inner"
+    },
+    {
+      "i": 504,
+      "start": 2898.6,
+      "end": 2900.88,
+      "text": "enlightenment produces outer order."
+    },
+    {
+      "i": 505,
+      "start": 2902.0,
+      "end": 2904.92,
+      "text": "Dharma requires both the wisdom and the power."
+    },
+    {
+      "i": 506,
+      "start": 2907.0,
+      "end": 2913.8,
+      "text": "Without Dharma the power becomes tyranny, and without, you know,"
+    },
+    {
+      "i": 507,
+      "start": 2913.8,
+      "end": 2918.36,
+      "text": "the Chatradharma, the wisdom becomes powerless."
+    },
+    {
+      "i": 508,
+      "start": 2923.76,
+      "end": 2927.28,
+      "text": "Therefore, Geeta is called Geeta's Yoga is also called"
+    },
+    {
+      "i": 509,
+      "start": 2927.28,
+      "end": 2933.88,
+      "text": "Avaya. Samyuk darsana, Nishta,"
+    },
+    {
+      "i": 510,
+      "start": 2935.24,
+      "end": 2938.92,
+      "text": "steadfastness in right vision. Samyuk darsana means right"
+    },
+    {
+      "i": 511,
+      "start": 2938.92,
+      "end": 2941.16,
+      "text": "vision, nishta means steadfastness."
+    },
+    {
+      "i": 512,
+      "start": 2941.84,
+      "end": 2945.76,
+      "text": "The goal is not merely intellectual understanding, but"
+    },
+    {
+      "i": 513,
+      "start": 2945.76,
+      "end": 2949.76,
+      "text": "the avoidance in this knowledge of I am the witness in"
+    },
+    {
+      "i": 514,
+      "start": 2949.76,
+      "end": 2955.56,
+      "text": "consciousness that recognition is moksha which never perishes."
+    },
+    {
+      "i": 515,
+      "start": 2958.4,
+      "end": 2963.52,
+      "text": "So the first sloka is the Lord teaching the eternal Yoga of"
+    },
+    {
+      "i": 516,
+      "start": 2963.52,
+      "end": 2968.24,
+      "text": "self knowledge that at the dawn of creation to the solar lineage"
+    },
+    {
+      "i": 517,
+      "start": 2968.24,
+      "end": 2971.48,
+      "text": "of kings so that the rulers grounded in the spiritual wisdom"
+    },
+    {
+      "i": 518,
+      "start": 2971.48,
+      "end": 2976.84,
+      "text": "could protect Dharma and this Yoga and this yoga is"
+    },
+    {
+      "i": 519,
+      "start": 2976.84,
+      "end": 2980.88,
+      "text": "imperishable because the fruit which is liberation is."
+    },
+    {
+      "i": 520,
+      "start": 2982.04,
+      "end": 2985.6,
+      "text": "Never perishing or it never ceases."
+    },
+    {
+      "i": 521,
+      "start": 2988.52,
+      "end": 2991.84,
+      "text": "The second verse is abam parampara pratham, Imam"
+    },
+    {
+      "i": 522,
+      "start": 2991.84,
+      "end": 2997.48,
+      "text": "rajarshayo vidhu SA kalena ihha mahada Yogi nashta parandapa"
+    },
+    {
+      "i": 523,
+      "start": 2999.6,
+      "end": 3005.04,
+      "text": "abam parampara pratham. In this manner parampara pratham"
+    },
+    {
+      "i": 524,
+      "start": 3005.04,
+      "end": 3008.28,
+      "text": "means obtained or handed down through the successions."
+    },
+    {
+      "i": 525,
+      "start": 3008.88,
+      "end": 3016.24,
+      "text": "Parampara means the. Lineage successions Imam"
+    },
+    {
+      "i": 526,
+      "start": 3016.24,
+      "end": 3022.64,
+      "text": "Rajasheha Vidhu this royal sages who was transmitting this"
+    },
+    {
+      "i": 527,
+      "start": 3022.64,
+      "end": 3030.36,
+      "text": "knowledge Vidhu they knew and have known that Yoga Avayam Yoga"
+    },
+    {
+      "i": 528,
+      "start": 3031.88,
+      "end": 3040.12,
+      "text": "Saha means that Yoga Kalaina Iha by time."
+    },
+    {
+      "i": 529,
+      "start": 3041.52,
+      "end": 3050.24,
+      "text": "In this world that Mahata means that vast agreeing with Kalyan"
+    },
+    {
+      "i": 530,
+      "start": 3050.36,
+      "end": 3054.76,
+      "text": "mahata Kalyan. So the great time when that time"
+    },
+    {
+      "i": 531,
+      "start": 3055.44,
+      "end": 3063.68,
+      "text": "passes by yoga nashta parandhava this yoga subsequent passing"
+    },
+    {
+      "i": 532,
+      "start": 3065.0,
+      "end": 3067.6,
+      "text": "gets lost or perished or destroyed."
+    },
+    {
+      "i": 533,
+      "start": 3071.36,
+      "end": 3076.2,
+      "text": "Even though the knowledge is Avaya, the practice and the"
+    },
+    {
+      "i": 534,
+      "start": 3076.2,
+      "end": 3078.4,
+      "text": "transmission is what is getting lost."
+    },
+    {
+      "i": 535,
+      "start": 3079.72,
+      "end": 3086.16,
+      "text": "So he is using Arjuna, a word Parantapa, the scorcher of foes"
+    },
+    {
+      "i": 536,
+      "start": 3086.16,
+      "end": 3095.04,
+      "text": "or enemies. So evam parambara praktam Imam"
+    },
+    {
+      "i": 537,
+      "start": 3095.04,
+      "end": 3099.72,
+      "text": "Yogam Raja srev vidhu meet the royal sages knew this yoga"
+    },
+    {
+      "i": 538,
+      "start": 3099.72,
+      "end": 3104.4,
+      "text": "received through the succession SA Yoga kalena mahada kalena"
+    },
+    {
+      "i": 539,
+      "start": 3104.48,
+      "end": 3109.44,
+      "text": "ihha nasta par paranda asti paranda that Yoga O Arjuna has"
+    },
+    {
+      "i": 540,
+      "start": 3109.44,
+      "end": 3111.44,
+      "text": "been lost here in this vast time."
+    },
+    {
+      "i": 541,
+      "start": 3113.8,
+      "end": 3117.16,
+      "text": "So here. It is a."
+    },
+    {
+      "i": 542,
+      "start": 3117.16,
+      "end": 3121.52,
+      "text": "Statement by Krishna that it has been lost in the Guru Shishya"
+    },
+    {
+      "i": 543,
+      "start": 3121.52,
+      "end": 3128.96,
+      "text": "Parambara over period of time. Therefore, the transmitted"
+    },
+    {
+      "i": 544,
+      "start": 3128.96,
+      "end": 3135.56,
+      "text": "insight into Abhaya Atman is what is being now not being"
+    },
+    {
+      "i": 545,
+      "start": 3135.56,
+      "end": 3143.12,
+      "text": "practiced. To explain the Rajarshi's"
+    },
+    {
+      "i": 546,
+      "start": 3143.12,
+      "end": 3150.2,
+      "text": "Sankaracharya include chatras from Brahma to Rajarshi's typify"
+    },
+    {
+      "i": 547,
+      "start": 3150.2,
+      "end": 3157.44,
+      "text": "by typically by Janaka etcetera in the you know they knew about"
+    },
+    {
+      "i": 548,
+      "start": 3157.44,
+      "end": 3164.36,
+      "text": "it not merely by intellectual acquaintance, but with yoga as"
+    },
+    {
+      "i": 549,
+      "start": 3164.44,
+      "end": 3169.84,
+      "text": "Anubhava direct realization. These Rajarshis of this yoga"
+    },
+    {
+      "i": 550,
+      "start": 3170.44,
+      "end": 3176.12,
+      "text": "knew the Avaya yoga because they themselves were established in"
+    },
+    {
+      "i": 551,
+      "start": 3176.12,
+      "end": 3179.52,
+      "text": "the pratyagatma. This is not a knowledge about"
+    },
+    {
+      "i": 552,
+      "start": 3179.52,
+      "end": 3182.08,
+      "text": "the self, but about the knowledge as self."
+    },
+    {
+      "i": 553,
+      "start": 3183.56,
+      "end": 3188.92,
+      "text": "The difference between this knowledge, this yoga, Nyana yoga"
+    },
+    {
+      "i": 554,
+      "start": 3189.16,
+      "end": 3190.36,
+      "text": "or Karma Yoga. Through."
+    },
+    {
+      "i": 555,
+      "start": 3190.36,
+      "end": 3195.0,
+      "text": "Which you attain that Nyana that knowledge is not about the self"
+    },
+    {
+      "i": 556,
+      "start": 3195.0,
+      "end": 3204.28,
+      "text": "but knowledge as self itself. Atma Sachatkara, the Nyana and"
+    },
+    {
+      "i": 557,
+      "start": 3204.28,
+      "end": 3210.76,
+      "text": "appearance of action are compatible which we have seen in"
+    },
+    {
+      "i": 558,
+      "start": 3210.76,
+      "end": 3217.64,
+      "text": "the last this thing even the Nyanis are were asked to act in"
+    },
+    {
+      "i": 559,
+      "start": 3217.64,
+      "end": 3225.16,
+      "text": "the world society as exemplified persons which others can follow."
+    },
+    {
+      "i": 560,
+      "start": 3226.92,
+      "end": 3231.08,
+      "text": "Yet Yeddyada Jarati Sreshtas Tasta de Vedorojana, Syed"
+    },
+    {
+      "i": 561,
+      "start": 3231.08,
+      "end": 3235.2,
+      "text": "Pramananguru de Lokasta, it was told in the last chapter."
+    },
+    {
+      "i": 562,
+      "start": 3237.2,
+      "end": 3243.0,
+      "text": "Yet they are akartas. They are not having the Kartrutu"
+    },
+    {
+      "i": 563,
+      "start": 3243.0,
+      "end": 3250.0,
+      "text": "Bhava but the insight of Atman is ever present in them."
+    },
+    {
+      "i": 564,
+      "start": 3250.0,
+      "end": 3252.52,
+      "text": "Therefore they never become an agent of action."
+    },
+    {
+      "i": 565,
+      "start": 3254.84,
+      "end": 3259.2,
+      "text": "The Kala which is mentioned in the Mahada Kalayana indicating"
+    },
+    {
+      "i": 566,
+      "start": 3259.2,
+      "end": 3264.68,
+      "text": "accumulated weight of samsara, pravah, ceaseless flow, cosmic"
+    },
+    {
+      "i": 567,
+      "start": 3264.68,
+      "end": 3269.44,
+      "text": "time that erodes even the finest transmissions."
+    },
+    {
+      "i": 568,
+      "start": 3272.88,
+      "end": 3279.72,
+      "text": "This directly invokes the avarna veiling function of ignorance."
+    },
+    {
+      "i": 569,
+      "start": 3280.52,
+      "end": 3286.2,
+      "text": "Just as avidya veils the atman in the individual, kala wails"
+    },
+    {
+      "i": 570,
+      "start": 3286.6,
+      "end": 3289.32,
+      "text": "Brahmavidya in the collective transmission."
+    },
+    {
+      "i": 571,
+      "start": 3290.68,
+      "end": 3295.96,
+      "text": "The word ihha here in this world signals the Vyavahariga plane."
+    },
+    {
+      "i": 572,
+      "start": 3297.4,
+      "end": 3301.72,
+      "text": "It is in the Vyavahara, the realm of Namarupa and the"
+    },
+    {
+      "i": 573,
+      "start": 3301.72,
+      "end": 3304.92,
+      "text": "historical becoming, that the yoga is getting lost."
+    },
+    {
+      "i": 574,
+      "start": 3307.0,
+      "end": 3310.4,
+      "text": "At the paramartika level, the yoga is sagaya."
+    },
+    {
+      "i": 575,
+      "start": 3310.48,
+      "end": 3312.36,
+      "text": "It is never lost or imperishable."
+    },
+    {
+      "i": 576,
+      "start": 3313.36,
+      "end": 3318.92,
+      "text": "It is Nithya, self luminous suprakashya, ever available as"
+    },
+    {
+      "i": 577,
+      "start": 3318.92,
+      "end": 3325.96,
+      "text": "Pratyagatma itself. But this Nashta word in the"
+    },
+    {
+      "i": 578,
+      "start": 3326.44,
+      "end": 3332.6,
+      "text": "sloka means it is not that avyatum has gone,"
+    },
+    {
+      "i": 579,
+      "start": 3332.6,
+      "end": 3334.4,
+      "text": "imperishability has come into it."
+    },
+    {
+      "i": 580,
+      "start": 3335.24,
+      "end": 3343.32,
+      "text": "It has disappeared from the view, not annihilated, but lost"
+    },
+    {
+      "i": 581,
+      "start": 3343.32,
+      "end": 3345.36,
+      "text": "from the plane of human transmission."
+    },
+    {
+      "i": 582,
+      "start": 3347.8,
+      "end": 3351.08,
+      "text": "The nashta applies to the Parambara, to the chain of"
+    },
+    {
+      "i": 583,
+      "start": 3351.08,
+      "end": 3353.16,
+      "text": "transmission, not to the Yoga itself."
+    },
+    {
+      "i": 584,
+      "start": 3354.92,
+      "end": 3359.48,
+      "text": "Therefore, Krishna addresses Arjuna as paranthava precisely"
+    },
+    {
+      "i": 585,
+      "start": 3359.48,
+      "end": 3363.48,
+      "text": "at this moment. That implication is being that"
+    },
+    {
+      "i": 586,
+      "start": 3363.84,
+      "end": 3370.28,
+      "text": "that now Arjuna the chatra duty or your duty as Akshatriya not,"
+    },
+    {
+      "i": 587,
+      "start": 3370.28,
+      "end": 3375.28,
+      "text": "is not to merely win a battle, but to receive this knowledge"
+    },
+    {
+      "i": 588,
+      "start": 3375.6,
+      "end": 3382.6,
+      "text": "and embody this Yoga and transmit it in the generations"
+    },
+    {
+      "i": 589,
+      "start": 3382.6,
+      "end": 3387.44,
+      "text": "to come, becoming himself a Rajashree who knows and"
+    },
+    {
+      "i": 590,
+      "start": 3387.44,
+      "end": 3391.68,
+      "text": "transmits it. Therefore the Advaitic"
+    },
+    {
+      "i": 591,
+      "start": 3391.68,
+      "end": 3396.84,
+      "text": "underthone if the true param Paranthappa is one who burnt the"
+    },
+    {
+      "i": 592,
+      "start": 3398.48,
+      "end": 3404.88,
+      "text": "enemies of Avidya Kamakarma where enemies were described in"
+    },
+    {
+      "i": 593,
+      "start": 3405.36,
+      "end": 3415.06,
+      "text": "previous chapter. So the paradox of Abhiya Yoga"
+    },
+    {
+      "i": 594,
+      "start": 3415.06,
+      "end": 3420.74,
+      "text": "being Nashta is if the Yoga is Avaya and it can, how can it be"
+    },
+    {
+      "i": 595,
+      "start": 3420.74,
+      "end": 3424.98,
+      "text": "Nashta? Sankaracharya resolves this with"
+    },
+    {
+      "i": 596,
+      "start": 3424.98,
+      "end": 3428.42,
+      "text": "the characteristic precision that Yoga has Atma, knowledge,"
+    },
+    {
+      "i": 597,
+      "start": 3428.5,
+      "end": 3433.44,
+      "text": "Atmatyana, Atma. Surubatyana is intrinsically"
+    },
+    {
+      "i": 598,
+      "start": 3433.44,
+      "end": 3437.88,
+      "text": "Avaya. It cannot be perishable because"
+    },
+    {
+      "i": 599,
+      "start": 3437.88,
+      "end": 3442.68,
+      "text": "the Atman itself is that, its content and its ground, both"
+    },
+    {
+      "i": 600,
+      "start": 3442.72,
+      "end": 3449.2,
+      "text": "adistana and the vastu. What is Nashta is the parampara,"
+    },
+    {
+      "i": 601,
+      "start": 3449.64,
+      "end": 3452.76,
+      "text": "the human historical vehicle of transmission."
+    },
+    {
+      "i": 602,
+      "start": 3453.72,
+      "end": 3456.84,
+      "text": "The teaching has disappeared from Vavya Vavaharika's"
+    },
+    {
+      "i": 603,
+      "start": 3456.84,
+      "end": 3460.88,
+      "text": "circulation, not from the Paramarthika reality."
+    },
+    {
+      "i": 604,
+      "start": 3465.0,
+      "end": 3467.6,
+      "text": "This mirrors the advaitic analysis of Avidya."
+    },
+    {
+      "i": 605,
+      "start": 3468.16,
+      "end": 3470.64,
+      "text": "Ignorance does not truly produce anything."
+    },
+    {
+      "i": 606,
+      "start": 3471.24,
+      "end": 3476.48,
+      "text": "It merely wails Avaranavati what is already and always self"
+    },
+    {
+      "i": 607,
+      "start": 3476.48,
+      "end": 3479.6,
+      "text": "luminous. Similarly, Kaala does not"
+    },
+    {
+      "i": 608,
+      "start": 3479.6,
+      "end": 3482.76,
+      "text": "destroy yoga, it wails its transmission."
+    },
+    {
+      "i": 609,
+      "start": 3485.08,
+      "end": 3488.44,
+      "text": "It is a Maya Sakti. Kaala as Maya Sakti is what"
+    },
+    {
+      "i": 610,
+      "start": 3488.44,
+      "end": 3489.8,
+      "text": "Sankarajari identifying. It."
+    },
+    {
+      "i": 611,
+      "start": 3490.36,
+      "end": 3495.12,
+      "text": "Mahankala with the Mahavaranavicheva function of"
+    },
+    {
+      "i": 612,
+      "start": 3495.12,
+      "end": 3500.16,
+      "text": "Maya is what it is being done. The kala in the Advaita"
+    },
+    {
+      "i": 613,
+      "start": 3500.16,
+      "end": 3503.28,
+      "text": "Vyavaharika category belongs to the Maya's domain."
+    },
+    {
+      "i": 614,
+      "start": 3506.04,
+      "end": 3515.28,
+      "text": "That what is great Avaya Yoga is lost by time is therefore almost"
+    },
+    {
+      "i": 615,
+      "start": 3515.8,
+      "end": 3520.24,
+      "text": "a Maya paradox. The Nithya appears to have be"
+    },
+    {
+      "i": 616,
+      "start": 3520.24,
+      "end": 3524.76,
+      "text": "overcome by the Anithya, but this appearance itself is Maya."
+    },
+    {
+      "i": 617,
+      "start": 3526.2,
+      "end": 3530.32,
+      "text": "From a paramartika point of view, nothing has been lost."
+    },
+    {
+      "i": 618,
+      "start": 3531.04,
+      "end": 3534.56,
+      "text": "Krishna's statement is made from within the Vyavahariga frame,"
+    },
+    {
+      "i": 619,
+      "start": 3534.56,
+      "end": 3539.32,
+      "text": "only compassionately meeting Arjuna where he stands."
+    },
+    {
+      "i": 620,
+      "start": 3543.08,
+      "end": 3549.4,
+      "text": "The Rajarshiya's advaitic ideal is the Jeevan Mufti expressed"
+    },
+    {
+      "i": 621,
+      "start": 3549.4,
+      "end": 3553.56,
+      "text": "through action. They knew the yoga, meaning they"
+    },
+    {
+      "i": 622,
+      "start": 3553.56,
+      "end": 3556.6,
+      "text": "were established in Akathrutva and Abukhutrutva."
+    },
+    {
+      "i": 623,
+      "start": 3557.16,
+      "end": 3562.56,
+      "text": "Yet they ruled, they acted, they fought everything they did."
+    },
+    {
+      "i": 624,
+      "start": 3564.64,
+      "end": 3567.88,
+      "text": "This is the living proof of nyana does not negate the"
+    },
+    {
+      "i": 625,
+      "start": 3567.88,
+      "end": 3574.0,
+      "text": "appearance of action. It transforms its Adyasa basis"
+    },
+    {
+      "i": 626,
+      "start": 3574.76,
+      "end": 3578.68,
+      "text": "and the Rajasi acts without the superimposition of the doership"
+    },
+    {
+      "i": 627,
+      "start": 3579.4,
+      "end": 3585.6,
+      "text": "Adyasa, exactly the state toward which Krishna is steering Arjuna"
+    },
+    {
+      "i": 628,
+      "start": 3585.6,
+      "end": 3588.08,
+      "text": "through this Gita. That is the."
+    },
+    {
+      "i": 629,
+      "start": 3588.48,
+      "end": 3597.28,
+      "text": "Purpose of the Arjuna's I mean Krishna's teaching the preparing"
+    },
+    {
+      "i": 630,
+      "start": 3597.36,
+      "end": 3603.52,
+      "text": "Krishna as Avatara theology for Karjuna is by announcing this"
+    },
+    {
+      "i": 631,
+      "start": 3603.88,
+      "end": 3607.48,
+      "text": "the yoga laws. Here in the second verse Krishna"
+    },
+    {
+      "i": 632,
+      "start": 3607.48,
+      "end": 3612.2,
+      "text": "creates a narrative occasion for his own teaching."
+    },
+    {
+      "i": 633,
+      "start": 3613.92,
+      "end": 3617.96,
+      "text": "Arjuna is receiving this direct transmission from the original"
+    },
+    {
+      "i": 634,
+      "start": 3617.96,
+      "end": 3623.08,
+      "text": "source because Aham Praktavan, he said that I am the one who."
+    },
+    {
+      "i": 635,
+      "start": 3624.0,
+      "end": 3628.0,
+      "text": "Taught the light, the sun, the God of sun from before the"
+    },
+    {
+      "i": 636,
+      "start": 3628.0,
+      "end": 3635.6,
+      "text": "creation of the world. So the original source, Krishna,"
+    },
+    {
+      "i": 637,
+      "start": 3635.6,
+      "end": 3639.6,
+      "text": "is the same Krishna now, bypassing the broken Parambara."
+    },
+    {
+      "i": 638,
+      "start": 3641.8,
+      "end": 3645.24,
+      "text": "But Shankarajarya's deeper point is that Krishna as Parameswara"
+    },
+    {
+      "i": 639,
+      "start": 3645.24,
+      "end": 3647.84,
+      "text": "does not merely restore the lost tradition."
+    },
+    {
+      "i": 640,
+      "start": 3648.4,
+      "end": 3655.36,
+      "text": "He is the Yoga eternal source because in the 10th chapter when"
+    },
+    {
+      "i": 641,
+      "start": 3655.36,
+      "end": 3661.8,
+      "text": "he vibhuti yoga he says Aham adihi deva naam I am the"
+    },
+    {
+      "i": 642,
+      "start": 3661.8,
+      "end": 3667.4,
+      "text": "beginning of devas. Every Avatara moment is simply"
+    },
+    {
+      "i": 643,
+      "start": 3667.4,
+      "end": 3673.32,
+      "text": "self disclosure of the always present of Vaya Atman into"
+    },
+    {
+      "i": 644,
+      "start": 3673.32,
+      "end": 3680.76,
+      "text": "historical visibility. So the Vasya is just three"
+    },
+    {
+      "i": 645,
+      "start": 3680.76,
+      "end": 3684.8,
+      "text": "lines, 3 sentences which we will see that ebam shatriya"
+    },
+    {
+      "i": 646,
+      "start": 3684.8,
+      "end": 3690.16,
+      "text": "paramprapatam ebam rajarshaya Raja nasta terushaya"
+    },
+    {
+      "i": 647,
+      "start": 3690.76,
+      "end": 3695.8,
+      "text": "rajarshayaha bidhu imam yogam. Thus, having transmitted this"
+    },
+    {
+      "i": 648,
+      "start": 3695.8,
+      "end": 3700.28,
+      "text": "through the lineage of shatriya, the royal sages, they knew this"
+    },
+    {
+      "i": 649,
+      "start": 3700.28,
+      "end": 3706.8,
+      "text": "Yoga SA yoga kalena eha mahada dirgena nasta bichhana samrata"
+    },
+    {
+      "i": 650,
+      "start": 3706.8,
+      "end": 3711.28,
+      "text": "yaha samrata. But over the long lapse of time"
+    },
+    {
+      "i": 651,
+      "start": 3711.36,
+      "end": 3715.84,
+      "text": "this yoga became lost in the lineage of transmission having"
+    },
+    {
+      "i": 652,
+      "start": 3715.84,
+      "end": 3723.32,
+      "text": "been broken. A paranthapa atmana viksheba"
+    },
+    {
+      "i": 653,
+      "start": 3723.32,
+      "end": 3732.16,
+      "text": "bhuta para idhi uchande than shaurya tejo yoga tejogam"
+    },
+    {
+      "i": 654,
+      "start": 3734.2,
+      "end": 3740.76,
+      "text": "gavastibhi bhanuriva papayati iti paranthaba satrudhan"
+    },
+    {
+      "i": 655,
+      "start": 3741.08,
+      "end": 3744.28,
+      "text": "ityarta. So the word transmission, the"
+    },
+    {
+      "i": 656,
+      "start": 3744.28,
+      "end": 3747.2,
+      "text": "transmission, the word is explained by paranthaba means"
+    },
+    {
+      "i": 657,
+      "start": 3747.2,
+      "end": 3752.28,
+      "text": "those who stand opposed to the oneself are called others, means"
+    },
+    {
+      "i": 658,
+      "start": 3752.28,
+      "end": 3758.2,
+      "text": "enemies, one who scorches them with the rays of his Waller and"
+    },
+    {
+      "i": 659,
+      "start": 3758.2,
+      "end": 3762.4,
+      "text": "brilliance like the sun is called a paranthaba, scorcher of"
+    },
+    {
+      "i": 660,
+      "start": 3762.4,
+      "end": 3768.0,
+      "text": "force that means any any he is called the scorcher of enemies."
+    },
+    {
+      "i": 661,
+      "start": 3768.44,
+      "end": 3774.88,
+      "text": "But here Shankaracharya is saying that he is called the the"
+    },
+    {
+      "i": 662,
+      "start": 3774.88,
+      "end": 3780.56,
+      "text": "one who is opposed to the self is the otherness or the others"
+    },
+    {
+      "i": 663,
+      "start": 3780.68,
+      "end": 3783.64,
+      "text": "as enemies. So that is being destroyed to"
+    },
+    {
+      "i": 664,
+      "start": 3783.64,
+      "end": 3786.8,
+      "text": "use his to his valor and brilliance like the sun."
+    },
+    {
+      "i": 665,
+      "start": 3788.2,
+      "end": 3793.8,
+      "text": "Turbalan Ajit jayandriyan Prapya Nashtam Yogam Imam upalabye"
+    },
+    {
+      "i": 666,
+      "start": 3794.56,
+      "end": 3801.36,
+      "text": "lokamcha apurushartha sambandhina."
+    },
+    {
+      "i": 667,
+      "start": 3802.64,
+      "end": 3806.48,
+      "text": "Having fallen into the hands of weak people who have not"
+    },
+    {
+      "i": 668,
+      "start": 3806.48,
+      "end": 3812.84,
+      "text": "mastered their senses, this yoga became lost and the world too."
+    },
+    {
+      "i": 669,
+      "start": 3812.84,
+      "end": 3815.84,
+      "text": "Became. Devoid of the connection with"
+    },
+    {
+      "i": 670,
+      "start": 3815.84,
+      "end": 3817.72,
+      "text": "the Human Goals. Purusharthas."
+    },
+    {
+      "i": 671,
+      "start": 3820.28,
+      "end": 3822.92,
+      "text": "There are three profound ideas in the transmission of the"
+    },
+    {
+      "i": 672,
+      "start": 3822.92,
+      "end": 3826.92,
+      "text": "spiritual knowledge. One is the Rajarshi because they"
+    },
+    {
+      "i": 673,
+      "start": 3826.92,
+      "end": 3831.12,
+      "text": "were the kings who were knowing and practicing and living the"
+    },
+    {
+      "i": 674,
+      "start": 3831.12,
+      "end": 3834.08,
+      "text": "atmatyana. They possessed the knowledge."
+    },
+    {
+      "i": 675,
+      "start": 3836.08,
+      "end": 3838.84,
+      "text": "Examples are Janaka, Ikshu, Yudhishtera etcetera."
+    },
+    {
+      "i": 676,
+      "start": 3840.4,
+      "end": 3843.36,
+      "text": "The spiritual knowledge survives only through sampradaya."
+    },
+    {
+      "i": 677,
+      "start": 3844.28,
+      "end": 3847.36,
+      "text": "With Chinna sampradaya, when he said that the lineageal"
+    },
+    {
+      "i": 678,
+      "start": 3847.36,
+      "end": 3851.4,
+      "text": "transmission was broken, the knowledge disappears not because"
+    },
+    {
+      "i": 679,
+      "start": 3851.4,
+      "end": 3855.32,
+      "text": "truth changes, but because the teaching tradition collapsed."
+    },
+    {
+      "i": 680,
+      "start": 3856.96,
+      "end": 3860.32,
+      "text": "Advaita strongly insist on the authentic transmission of"
+    },
+    {
+      "i": 681,
+      "start": 3860.32,
+      "end": 3863.68,
+      "text": "samradhaya. Teacher to disciple to teach,"
+    },
+    {
+      "i": 682,
+      "start": 3863.68,
+      "end": 3866.44,
+      "text": "then he disciple becomes a teacher, and then teacher to"
+    },
+    {
+      "i": 683,
+      "start": 3866.44,
+      "end": 3871.08,
+      "text": "disciple. This cycle continues, but"
+    },
+    {
+      "i": 684,
+      "start": 3871.36,
+      "end": 3873.84,
+      "text": "without continuity. The scripture becomes"
+    },
+    {
+      "i": 685,
+      "start": 3873.84,
+      "end": 3881.04,
+      "text": "misunderstood and that is why the Loga yoga was lost Durbalan"
+    },
+    {
+      "i": 686,
+      "start": 3881.04,
+      "end": 3885.2,
+      "text": "ajendriya because in between weak people who could not"
+    },
+    {
+      "i": 687,
+      "start": 3885.2,
+      "end": 3892.32,
+      "text": "understand this by doing the karma yoga etcetera and"
+    },
+    {
+      "i": 688,
+      "start": 3892.32,
+      "end": 3897.84,
+      "text": "uncontrolled senses they became pleasure loving and forgot about"
+    },
+    {
+      "i": 689,
+      "start": 3897.88,
+      "end": 3900.04,
+      "text": "the such. The importance of the knowledge"
+    },
+    {
+      "i": 690,
+      "start": 3901.28,
+      "end": 3905.84,
+      "text": "and such persons cannot sustain then subtle knowledge because"
+    },
+    {
+      "i": 691,
+      "start": 3906.28,
+      "end": 3908.84,
+      "text": "self knowledge requires dispassion, discipline and"
+    },
+    {
+      "i": 692,
+      "start": 3908.84,
+      "end": 3911.68,
+      "text": "clarity. If there is any weakness in"
+    },
+    {
+      "i": 693,
+      "start": 3911.68,
+      "end": 3917.88,
+      "text": "them, the teaching degenerates. Therefore the Purushartha"
+    },
+    {
+      "i": 694,
+      "start": 3918.36,
+      "end": 3922.76,
+      "text": "Purushartha Sambandhim disconnected from the human goal"
+    },
+    {
+      "i": 695,
+      "start": 3922.84,
+      "end": 3930.12,
+      "text": "of Dharmartha Kama Moksha. When this wisdom is decay, the"
+    },
+    {
+      "i": 696,
+      "start": 3930.12,
+      "end": 3933.64,
+      "text": "society loses the orientation towards this goal."
+    },
+    {
+      "i": 697,
+      "start": 3936.72,
+      "end": 3946.6,
+      "text": "So in the tradition when this was lost the knowledge human"
+    },
+    {
+      "i": 698,
+      "start": 3946.6,
+      "end": 3952.28,
+      "text": "life loses direction. So the yoga of self knowledge"
+    },
+    {
+      "i": 699,
+      "start": 3952.28,
+      "end": 3955.84,
+      "text": "was once known by the King sages through living tradition."
+    },
+    {
+      "i": 700,
+      "start": 3956.32,
+      "end": 3960.84,
+      "text": "But when the lineage was broken and became weak, undisciplined"
+    },
+    {
+      "i": 701,
+      "start": 3960.84,
+      "end": 3964.4,
+      "text": "people dominated and the teaching disappeared from the"
+    },
+    {
+      "i": 702,
+      "start": 3964.4,
+      "end": 3967.04,
+      "text": "world. The world lost in this"
+    },
+    {
+      "i": 703,
+      "start": 3967.04,
+      "end": 3969.88,
+      "text": "connection to the true aims of human life."
+    },
+    {
+      "i": 704,
+      "start": 3970.56,
+      "end": 3981.4,
+      "text": "Purushartha. We will take the third shloka"
+    },
+    {
+      "i": 705,
+      "start": 3985.84,
+      "end": 3988.76,
+      "text": "tomorrow. Thank you."
+    },
+    {
+      "i": 706,
+      "start": 3988.76,
+      "end": 4014.55,
+      "text": "Thank you very much, Mundoji. I've opened the chat and hand"
+    },
+    {
+      "i": 707,
+      "start": 4014.55,
+      "end": 4019.31,
+      "text": "raising if you have any follow up questions or clarifications."
+    },
+    {
+      "i": 708,
+      "start": 4032.08,
+      "end": 4032.84,
+      "text": "Namaste, Venkat. Yeah."
+    },
+    {
+      "i": 709,
+      "start": 4033.96,
+      "end": 4036.08,
+      "text": "I think it looks like you have some throat issue today."
+    },
+    {
+      "i": 710,
+      "start": 4036.64,
+      "end": 4040.8,
+      "text": "Yes. OK, so we can, we can keep it"
+    },
+    {
+      "i": 711,
+      "start": 4040.8,
+      "end": 4041.64,
+      "text": "for tomorrow. Open this day."
+    },
+    {
+      "i": 712,
+      "start": 4042.72,
+      "end": 4044.88,
+      "text": "No. If it's the same simple one, we"
+    },
+    {
+      "i": 713,
+      "start": 4044.88,
+      "end": 4052.52,
+      "text": "can go ahead. OK, so this, you know what come"
+    },
+    {
+      "i": 714,
+      "start": 4052.52,
+      "end": 4056.04,
+      "text": "to my mind this, this light being the transmission medium,"
+    },
+    {
+      "i": 715,
+      "start": 4056.16,
+      "end": 4061.32,
+      "text": "right? That is so interesting because"
+    },
+    {
+      "i": 716,
+      "start": 4061.32,
+      "end": 4066.32,
+      "text": "there is not even in a, you know, grossest light, the you"
+    },
+    {
+      "i": 717,
+      "start": 4066.32,
+      "end": 4072.16,
+      "text": "know, this light of the medium with there are now fiber optic"
+    },
+    {
+      "i": 718,
+      "start": 4072.16,
+      "end": 4075.24,
+      "text": "cables. No more loss of transmission."
+    },
+    {
+      "i": 719,
+      "start": 4075.44,
+      "end": 4081.24,
+      "text": "Absolutely the information is transmitted without loss."
+    },
+    {
+      "i": 720,
+      "start": 4081.76,
+      "end": 4086.08,
+      "text": "While any other medium, you know, like 6 years back when I"
+    },
+    {
+      "i": 721,
+      "start": 4086.24,
+      "end": 4090.64,
+      "text": "was one of the first COVID patients, I was trying to get,"
+    },
+    {
+      "i": 722,
+      "start": 4090.88,
+      "end": 4094.84,
+      "text": "you know, some awareness about the disease."
+    },
+    {
+      "i": 723,
+      "start": 4094.84,
+      "end": 4097.64,
+      "text": "You know, I was stating low grade 100° fever."
+    },
+    {
+      "i": 724,
+      "start": 4097.68,
+      "end": 4100.8,
+      "text": "You know, it got published at 107° in the newspaper."
+    },
+    {
+      "i": 725,
+      "start": 4101.6,
+      "end": 4105.24,
+      "text": "So by the time it hops somewhere, I think it, it got"
+    },
+    {
+      "i": 726,
+      "start": 4105.96,
+      "end": 4108.439,
+      "text": "messed up. The number was like a dangerous"
+    },
+    {
+      "i": 727,
+      "start": 4108.439,
+      "end": 4112.359,
+      "text": "number. This is the nature of the mind"
+    },
+    {
+      "i": 728,
+      "start": 4112.359,
+      "end": 4116.08,
+      "text": "versus the nature of the light of the transmission medium."
+    },
+    {
+      "i": 729,
+      "start": 4116.56,
+      "end": 4122.439,
+      "text": "Either this Athma Jyoti is the the the knowledge is always"
+    },
+    {
+      "i": 730,
+      "start": 4122.439,
+      "end": 4129.64,
+      "text": "there in eternally, while the the mind who that receives it,"
+    },
+    {
+      "i": 731,
+      "start": 4130.6,
+      "end": 4135.16,
+      "text": "which is not pure eventually corrupted is the that the Manu,"
+    },
+    {
+      "i": 732,
+      "start": 4135.16,
+      "end": 4140.319,
+      "text": "what has been told is the the original, the the pure mind."
+    },
+    {
+      "i": 733,
+      "start": 4140.319,
+      "end": 4143.359,
+      "text": "Is that the way to take it? No."
+    },
+    {
+      "i": 734,
+      "start": 4143.68,
+      "end": 4149.24,
+      "text": "See, the transmission through Parampara from person to person"
+    },
+    {
+      "i": 735,
+      "start": 4150.68,
+      "end": 4159.08,
+      "text": "is when the knowledge is transmitted in its purity, in"
+    },
+    {
+      "i": 736,
+      "start": 4159.08,
+      "end": 4165.04,
+      "text": "the sense that the intended meanings are the nature of the"
+    },
+    {
+      "i": 737,
+      "start": 4165.08,
+      "end": 4172.359,
+      "text": "Upanishadic teaching. But if it is read or if it is"
+    },
+    {
+      "i": 738,
+      "start": 4172.88,
+      "end": 4177.0,
+      "text": "translated and then read all these places, what happens is"
+    },
+    {
+      "i": 739,
+      "start": 4177.0,
+      "end": 4184.359,
+      "text": "that the real intent which the teacher from his experience or"
+    },
+    {
+      "i": 740,
+      "start": 4184.359,
+      "end": 4191.279,
+      "text": "Anubhava is trying to explain, will not be there in the printed"
+    },
+    {
+      "i": 741,
+      "start": 4191.279,
+      "end": 4194.68,
+      "text": "matter or in a, in a translation, etcetera."
+    },
+    {
+      "i": 742,
+      "start": 4195.92,
+      "end": 4201.56,
+      "text": "But when you hear it from the teacher, the modulation of the"
+    },
+    {
+      "i": 743,
+      "start": 4201.56,
+      "end": 4205.76,
+      "text": "sound, the intent with which he's talking, the the."
+    },
+    {
+      "i": 744,
+      "start": 4206.24,
+      "end": 4210.16,
+      "text": "You know the. Proximity to the teacher, if"
+    },
+    {
+      "i": 745,
+      "start": 4210.16,
+      "end": 4216.88,
+      "text": "he's looking into your eyes and telling, there will be a direct"
+    },
+    {
+      "i": 746,
+      "start": 4216.88,
+      "end": 4223.44,
+      "text": "connection which we know in a similar example between a lover,"
+    },
+    {
+      "i": 747,
+      "start": 4223.44,
+      "end": 4227.48,
+      "text": "the 2 lovers when they look in the each other's eyes and then"
+    },
+    {
+      "i": 748,
+      "start": 4227.48,
+      "end": 4232.84,
+      "text": "they sit without even talking, they are transmitting love here."
+    },
+    {
+      "i": 749,
+      "start": 4232.84,
+      "end": 4235.04,
+      "text": "This is something much more than that."
+    },
+    {
+      "i": 750,
+      "start": 4235.04,
+      "end": 4239.84,
+      "text": "This is the the Atma or the Brahman itself, the knowledge of"
+    },
+    {
+      "i": 751,
+      "start": 4239.84,
+      "end": 4244.68,
+      "text": "reality itself. So the the intent with which the"
+    },
+    {
+      "i": 752,
+      "start": 4245.12,
+      "end": 4248.44,
+      "text": "Shishya or the next generation or the next person who is"
+    },
+    {
+      "i": 753,
+      "start": 4248.44,
+      "end": 4255.68,
+      "text": "hearing will be lifted up in his experience by sharing the"
+    },
+    {
+      "i": 754,
+      "start": 4255.68,
+      "end": 4260.88,
+      "text": "experience of the teacher. This is what it is shown told us"
+    },
+    {
+      "i": 755,
+      "start": 4260.88,
+      "end": 4268.12,
+      "text": "that Yana Agni as Nyana as a fire which has got both the"
+    },
+    {
+      "i": 756,
+      "start": 4268.2,
+      "end": 4270.6,
+      "text": "both. Why is Sana is being given as a"
+    },
+    {
+      "i": 757,
+      "start": 4270.6,
+      "end": 4273.88,
+      "text": "agni or a fire? It has got 2 roles to play."
+    },
+    {
+      "i": 758,
+      "start": 4274.68,
+      "end": 4278.24,
+      "text": "One, it enlightens the listener of the shishya."
+    },
+    {
+      "i": 759,
+      "start": 4279.36,
+      "end": 4285.48,
+      "text": "At the same time the fire when it is received in the shishya is"
+    },
+    {
+      "i": 760,
+      "start": 4285.48,
+      "end": 4290.16,
+      "text": "the fire which burns down the Kama in Krotha, which is the,"
+    },
+    {
+      "i": 761,
+      "start": 4290.72,
+      "end": 4294.72,
+      "text": "you know, prohibitor or the one which created the false identity"
+    },
+    {
+      "i": 762,
+      "start": 4294.72,
+      "end": 4300.04,
+      "text": "of the individuality that is burned down by the fire of"
+    },
+    {
+      "i": 763,
+      "start": 4300.04,
+      "end": 4302.64,
+      "text": "knowledge. That is why later we will hear"
+    },
+    {
+      "i": 764,
+      "start": 4302.64,
+      "end": 4305.76,
+      "text": "it Nyanagni sarvakarmani basmasath kurudi Arjuna."
+    },
+    {
+      "i": 765,
+      "start": 4306.44,
+      "end": 4310.16,
+      "text": "So that statement of that the knowledge can burn down our"
+    },
+    {
+      "i": 766,
+      "start": 4311.76,
+      "end": 4317.24,
+      "text": "desires and wrong knowledge about that we are the physical,"
+    },
+    {
+      "i": 767,
+      "start": 4317.36,
+      "end": 4321.24,
+      "text": "mental, intellectual body concept, but we are the knower"
+    },
+    {
+      "i": 768,
+      "start": 4321.24,
+      "end": 4325.08,
+      "text": "of the physical body, mental body, intellectual body and that"
+    },
+    {
+      "i": 769,
+      "start": 4325.08,
+      "end": 4331.16,
+      "text": "knower is not in the body. That knowledge of the knower is"
+    },
+    {
+      "i": 770,
+      "start": 4332.44,
+      "end": 4339.76,
+      "text": "independent of the body. That independent knowledge need"
+    },
+    {
+      "i": 771,
+      "start": 4339.76,
+      "end": 4344.56,
+      "text": "to be realised even though the transmission is in the form of"
+    },
+    {
+      "i": 772,
+      "start": 4344.56,
+      "end": 4349.8,
+      "text": "verbal explanation and all that realisation in the student has"
+    },
+    {
+      "i": 773,
+      "start": 4349.8,
+      "end": 4354.6,
+      "text": "to taken place as a light of knowledge within himself."
+    },
+    {
+      "i": 774,
+      "start": 4355.92,
+      "end": 4359.88,
+      "text": "Then only he can burn down his desires and you know anger"
+    },
+    {
+      "i": 775,
+      "start": 4359.88,
+      "end": 4364.28,
+      "text": "etcetera. That is why the jnana Agni has"
+    },
+    {
+      "i": 776,
+      "start": 4364.28,
+      "end": 4366.96,
+      "text": "been the thing. So when Krishna says ahem"
+    },
+    {
+      "i": 777,
+      "start": 4366.96,
+      "end": 4373.12,
+      "text": "vivasudeh prakta it is to indicate that the knowledge is"
+    },
+    {
+      "i": 778,
+      "start": 4374.12,
+      "end": 4379.96,
+      "text": "like the sun. Now in the tithiriya we saw that"
+    },
+    {
+      "i": 779,
+      "start": 4379.96,
+      "end": 4385.88,
+      "text": "Akasha, Vayu, Vayu or Agni but in but in the Brahadharan"
+    },
+    {
+      "i": 780,
+      "start": 4385.88,
+      "end": 4390.6,
+      "text": "upanishad it is straight away to Agni doesn't talk about akasha"
+    },
+    {
+      "i": 781,
+      "start": 4390.6,
+      "end": 4394.72,
+      "text": "or vayu. So you can imagine that"
+    },
+    {
+      "i": 782,
+      "start": 4395.04,
+      "end": 4401.36,
+      "text": "importance is to the Agni. So this is the one of the"
+    },
+    {
+      "i": 783,
+      "start": 4401.36,
+      "end": 4405.32,
+      "text": "panchabhutas or it is just light of knowledge is the nature of"
+    },
+    {
+      "i": 784,
+      "start": 4405.32,
+      "end": 4408.8,
+      "text": "the, you know, source itself. Light."
+    },
+    {
+      "i": 785,
+      "start": 4408.88,
+      "end": 4411.92,
+      "text": "Light of knowledge itself, the source itself, if you remember."
+    },
+    {
+      "i": 786,
+      "start": 4412.32,
+      "end": 4414.68,
+      "text": "Yeah. If you remember the isha was"
+    },
+    {
+      "i": 787,
+      "start": 4414.68,
+      "end": 4419.4,
+      "text": "Upanishad Hiranmayapathrena that's Loka is showing."
+    },
+    {
+      "i": 788,
+      "start": 4419.8,
+      "end": 4423.56,
+      "text": "Yeah, correct. Yeah, you remember that?"
+    },
+    {
+      "i": 789,
+      "start": 4424.08,
+      "end": 4426.92,
+      "text": "Yes, yes, Melody. Yeah, that is what is being"
+    },
+    {
+      "i": 790,
+      "start": 4426.92,
+      "end": 4434.32,
+      "text": "referred here. Oh great, that means the Guru is"
+    },
+    {
+      "i": 791,
+      "start": 4434.32,
+      "end": 4436.88,
+      "text": "the light of knowledge. Yes."
+    },
+    {
+      "i": 792,
+      "start": 4436.88,
+      "end": 4440.6,
+      "text": "For for shisha to receive it, it is like you know that lover"
+    },
+    {
+      "i": 793,
+      "start": 4440.6,
+      "end": 4443.2,
+      "text": "example was great. You know it is like a complete"
+    },
+    {
+      "i": 794,
+      "start": 4443.2,
+      "end": 4446.12,
+      "text": "surrender. Yes."
+    },
+    {
+      "i": 795,
+      "start": 4446.68,
+      "end": 4451.0,
+      "text": "Hence for the that entirety it will be recognized."
+    },
+    {
+      "i": 796,
+      "start": 4453.04,
+      "end": 4454.72,
+      "text": "This is Prakash Vimarsha only, right?"
+    },
+    {
+      "i": 797,
+      "start": 4454.72,
+      "end": 4457.04,
+      "text": "Banerjee in a way. Yes, yes."
+    },
+    {
+      "i": 798,
+      "start": 4460.68,
+      "end": 4463.76,
+      "text": "So Vimarsha is happening at a mind level, but it is getting"
+    },
+    {
+      "i": 799,
+      "start": 4463.76,
+      "end": 4467.2,
+      "text": "the entire transmission. Recognition is at the receiving"
+    },
+    {
+      "i": 800,
+      "start": 4467.2,
+      "end": 4470.8,
+      "text": "end. Yeah, that is why we said, you"
+    },
+    {
+      "i": 801,
+      "start": 4470.8,
+      "end": 4476.28,
+      "text": "know manasseh vedam abdavim when it is said that or yet sachata"
+    },
+    {
+      "i": 802,
+      "start": 4476.28,
+      "end": 4483.36,
+      "text": "baruchada Brahma or even in the taitria that that when the mind"
+    },
+    {
+      "i": 803,
+      "start": 4483.36,
+      "end": 4488.6,
+      "text": "is free from the word, dependency on the word, the mind"
+    },
+    {
+      "i": 804,
+      "start": 4489.52,
+      "end": 4493.24,
+      "text": "becomes no mind. And in that mind, when it is"
+    },
+    {
+      "i": 805,
+      "start": 4493.24,
+      "end": 4497.0,
+      "text": "leaving the dependency on the words and the forms or any"
+    },
+    {
+      "i": 806,
+      "start": 4497.6,
+      "end": 4502.56,
+      "text": "references, the knowledge arises in the same mind when it is not"
+    },
+    {
+      "i": 807,
+      "start": 4502.56,
+      "end": 4505.6,
+      "text": "depending upon the words. Because the moment the words and"
+    },
+    {
+      "i": 808,
+      "start": 4505.6,
+      "end": 4507.64,
+      "text": "everything is there, it is in the Vyavahara."
+    },
+    {
+      "i": 809,
+      "start": 4509.12,
+      "end": 4513.0,
+      "text": "But in the Vyavahara I mean in the empirical or transmission, I"
+    },
+    {
+      "i": 810,
+      "start": 4513.0,
+      "end": 4520.76,
+      "text": "mean in the phenomenal world. But in the pure knowledge is not"
+    },
+    {
+      "i": 811,
+      "start": 4521.16,
+      "end": 4525.96,
+      "text": "having any word nor any form to explain."
+    },
+    {
+      "i": 812,
+      "start": 4526.28,
+      "end": 4530.96,
+      "text": "It is pure experience. Because it is pure experience,"
+    },
+    {
+      "i": 813,
+      "start": 4531.04,
+      "end": 4536.04,
+      "text": "it is equated to the fire. Therefore, that knowledge of the"
+    },
+    {
+      "i": 814,
+      "start": 4536.04,
+      "end": 4541.04,
+      "text": "fire of knowledge. OK, this is the Chidabasa."
+    },
+    {
+      "i": 815,
+      "start": 4541.16,
+      "end": 4546.92,
+      "text": "Given that entire entirety, you know the complete reflection was"
+    },
+    {
+      "i": 816,
+      "start": 4546.92,
+      "end": 4548.72,
+      "text": "the initiation. Yes."
+    },
+    {
+      "i": 817,
+      "start": 4550.32,
+      "end": 4552.36,
+      "text": "OK. That solves lot of it actually"
+    },
+    {
+      "i": 818,
+      "start": 4552.56,
+      "end": 4559.16,
+      "text": "in the transmission, Yeah, this year without any bias."
+    },
+    {
+      "i": 819,
+      "start": 4559.88,
+      "end": 4563.4,
+      "text": "Yes. I think that solves a lot that"
+    },
+    {
+      "i": 820,
+      "start": 4563.4,
+      "end": 4565.72,
+      "text": "Manu, is that reflected, right, Right."
+    },
+    {
+      "i": 821,
+      "start": 4567.16,
+      "end": 4567.84,
+      "text": "That's. OK."
+    },
+    {
+      "i": 822,
+      "start": 4568.0,
+      "end": 4569.76,
+      "text": "OK. Now I think this is a nice"
+    },
+    {
+      "i": 823,
+      "start": 4569.76,
+      "end": 4571.84,
+      "text": "message. I think then the Ishwaku and all"
+    },
+    {
+      "i": 824,
+      "start": 4572.88,
+      "end": 4575.52,
+      "text": "will follow. That's a primary."
+    },
+    {
+      "i": 825,
+      "start": 4575.52,
+      "end": 4583.52,
+      "text": "Manu is a fundamental receiver. OK, I think this is a highly"
+    },
+    {
+      "i": 826,
+      "start": 4583.52,
+      "end": 4586.76,
+      "text": "coded then. Yeah, its highly coded this"
+    },
+    {
+      "i": 827,
+      "start": 4586.76,
+      "end": 4591.76,
+      "text": "thing to that is why we need Shankaracharya type of people"
+    },
+    {
+      "i": 828,
+      "start": 4591.76,
+      "end": 4595.96,
+      "text": "who have understood it in the proper sense to write the"
+    },
+    {
+      "i": 829,
+      "start": 4595.96,
+      "end": 4599.8,
+      "text": "Bharshya for words to for me to explain or for the teachers to"
+    },
+    {
+      "i": 830,
+      "start": 4599.8,
+      "end": 4603.0,
+      "text": "explain nowadays. Otherwise, if you just read the"
+    },
+    {
+      "i": 831,
+      "start": 4603.0,
+      "end": 4606.28,
+      "text": "slokas alone, you will not be able to decode it."
+    },
+    {
+      "i": 832,
+      "start": 4606.88,
+      "end": 4609.92,
+      "text": "And that is the problem for the ADL commentators also before"
+    },
+    {
+      "i": 833,
+      "start": 4609.92,
+      "end": 4612.04,
+      "text": "Sankarajarya. That's why Sankarajarya said"
+    },
+    {
+      "i": 834,
+      "start": 4612.04,
+      "end": 4616.92,
+      "text": "that there was inconsistency in their bhashyas, which I am"
+    },
+    {
+      "i": 835,
+      "start": 4616.92,
+      "end": 4623.76,
+      "text": "trying to correct it, he said. On the outset it says you know"
+    },
+    {
+      "i": 836,
+      "start": 4623.84,
+      "end": 4625.76,
+      "text": "then one to another, which is not the case here."
+    },
+    {
+      "i": 837,
+      "start": 4628.6,
+      "end": 4635.52,
+      "text": "Thanks for the. Yeah, Thank you, Venkat Prakash."
+    },
+    {
+      "i": 838,
+      "start": 4636.6,
+      "end": 4639.96,
+      "text": "You can close settings. We will continue tomorrow."
+    },
+    {
+      "i": 839,
+      "start": 4640.8,
+      "end": 4644.32,
+      "text": "Yes, thanks everyone for coming tomorrow we will continue at"
+    },
+    {
+      "i": 840,
+      "start": 4644.32,
+      "end": 4648.44,
+      "text": "8:30 PM IST. And since this is the beginning"
+    },
+    {
+      "i": 841,
+      "start": 4648.44,
+      "end": 4651.88,
+      "text": "of Chapter 4, so the replay of this room will be available here"
+    },
+    {
+      "i": 842,
+      "start": 4651.88,
+      "end": 4655.4,
+      "text": "in clubhouse, but the other replays are available on the"
+    },
+    {
+      "i": 843,
+      "start": 4655.4,
+      "end": 4659.0,
+      "text": "YouTube channel Advaita retold. So if you want to do the"
+    },
+    {
+      "i": 844,
+      "start": 4659.64,
+      "end": 4665.44,
+      "text": "Sravanamanana and get the continuity for the next class,"
+    },
+    {
+      "i": 845,
+      "start": 4665.64,
+      "end": 4667.8,
+      "text": "it should be only on Clubhouse this room."
+    },
+    {
+      "i": 846,
+      "start": 4668.32,
+      "end": 4671.0,
+      "text": "The rest are available only as channel shared in the chat."
+    },
+    {
+      "i": 847,
+      "start": 4672.8,
+      "end": 4676.36,
+      "text": "And over to you, Bindoji. Thank you very much to close the"
+    },
+    {
+      "i": 848,
+      "start": 4676.36,
+      "end": 4678.84,
+      "text": "room. Thank you, Prakash."
+    },
+    {
+      "i": 849,
+      "start": 4679.12,
+      "end": 4681.92,
+      "text": "Thank you Venkat for your question and thank you all for"
+    },
+    {
+      "i": 850,
+      "start": 4681.92,
+      "end": 4684.28,
+      "text": "listening. We will continue our journey"
+    },
+    {
+      "i": 851,
+      "start": 4684.28,
+      "end": 4688.88,
+      "text": "into the 4th chapter tomorrow with the third verse."
+    },
+    {
+      "i": 852,
+      "start": 4689.84,
+      "end": 4691.12,
+      "text": "Aryu. Good night."
+    },
+    {
+      "i": 853,
+      "start": 4692.84,
+      "end": 4693.28,
+      "text": "Good night."
+    }
+  ]
+}

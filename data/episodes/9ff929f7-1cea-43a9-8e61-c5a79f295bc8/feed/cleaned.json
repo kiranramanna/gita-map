@@ -1,0 +1,3955 @@
+{
+  "schema": "feed-cleaned/v1",
+  "guid": "9ff929f7-1cea-43a9-8e61-c5a79f295bc8",
+  "source_sha256": "0a8e08779589883c5d3475898a9cc5c2a319557b1c191040bc298ed78f8ee8b2",
+  "cues": [
+    {
+      "i": 1,
+      "start": 0.76,
+      "end": 4.32,
+      "text": "Namaste everyone, welcome to Advaita Vedanta Satsang house."
+    },
+    {
+      "i": 2,
+      "start": 5.44,
+      "end": 8.96,
+      "text": "We are on chapter 5 of Bhagwat Gita which Bindoji has been"
+    },
+    {
+      "i": 3,
+      "start": 8.96,
+      "end": 11.4,
+      "text": "offering from an Advaita perspective."
+    },
+    {
+      "i": 4,
+      "start": 12.88,
+      "end": 15.84,
+      "text": "If you want to catch up on the replays, they're available in"
+    },
+    {
+      "i": 5,
+      "start": 15.84,
+      "end": 18.84,
+      "text": "Clubhouse or you could go to the link shared in the chat."
+    },
+    {
+      "i": 6,
+      "start": 18.88,
+      "end": 23.16,
+      "text": "One of them is the Advaita Retold YouTube channel where the"
+    },
+    {
+      "i": 7,
+      "start": 23.16,
+      "end": 27.72,
+      "text": "talks are well catalogued in terms of the series and you know"
+    },
+    {
+      "i": 8,
+      "start": 28.0,
+      "end": 33.48,
+      "text": "the in a sequence. You can also access them on"
+    },
+    {
+      "i": 9,
+      "start": 33.48,
+      "end": 37.96,
+      "text": "Apple Podcast and Spotify. The links are shared as a"
+    },
+    {
+      "i": 10,
+      "start": 37.96,
+      "end": 41.08,
+      "text": "companion. There is a book available now"
+    },
+    {
+      "i": 11,
+      "start": 42.36,
+      "end": 50.04,
+      "text": "penned by Artemisia on Inside Sinto Advaita through through"
+    },
+    {
+      "i": 12,
+      "start": 50.04,
+      "end": 53.6,
+      "text": "Bindoji's discussions that is ensued and it's been through"
+    },
+    {
+      "i": 13,
+      "start": 53.6,
+      "end": 58.96,
+      "text": "Artemisia's own interpreter, his presentation style, and the book"
+    },
+    {
+      "i": 14,
+      "start": 58.96,
+      "end": 63.08,
+      "text": "is available on Amazon. The title of the book is called"
+    },
+    {
+      "i": 15,
+      "start": 63.08,
+      "end": 67.4,
+      "text": "The Imaginary Door and it's an excellent companion to what is"
+    },
+    {
+      "i": 16,
+      "start": 67.4,
+      "end": 71.2,
+      "text": "being discussed in these different lectures for"
+    },
+    {
+      "i": 17,
+      "start": 71.2,
+      "end": 73.4,
+      "text": "housekeeping. I'll close the chat and hand"
+    },
+    {
+      "i": 18,
+      "start": 73.4,
+      "end": 78.56,
+      "text": "raising and after about an hour or so when Binduji is done with"
+    },
+    {
+      "i": 19,
+      "start": 78.56,
+      "end": 82.72,
+      "text": "the class, we will open up those channels for any Q&A, any"
+    },
+    {
+      "i": 20,
+      "start": 82.72,
+      "end": 87.12,
+      "text": "discussions that ensues. As always, thank you Binduji,"
+    },
+    {
+      "i": 21,
+      "start": 87.16,
+      "end": 91.16,
+      "text": "over to you. Thank you, Prakash, thank you,"
+    },
+    {
+      "i": 22,
+      "start": 91.16,
+      "end": 94.72,
+      "text": "Artemisia, and thank you. Welcome Hariyum to all of you."
+    },
+    {
+      "i": 23,
+      "start": 96.6,
+      "end": 105.56,
+      "text": "Let me do my invocation. Oh namo brahma jibyo brahma"
+    },
+    {
+      "i": 24,
+      "start": 105.56,
+      "end": 109.64,
+      "text": "vidya sampradaya karthiya vamshi ribyo mahabhiyo namo gurbiya"
+    },
+    {
+      "i": 25,
+      "start": 114.12,
+      "end": 132.28,
+      "text": "shankaram shankaram shankaram shankaram."
+    },
+    {
+      "i": 26,
+      "start": 138.68,
+      "end": 151.8,
+      "text": "Yam Brahma."
+    },
+    {
+      "i": 27,
+      "start": 182.97,
+      "end": 190.93,
+      "text": "In the 7th chapter a 7th sloka Krishna said Yoga yukta"
+    },
+    {
+      "i": 28,
+      "start": 191.01,
+      "end": 197.04,
+      "text": "vishuddhatma vijitatma vijitendriya Sarvabhuthatma"
+    },
+    {
+      "i": 29,
+      "start": 197.04,
+      "end": 204.72,
+      "text": "Bhutatma kuruvan nabina lapyade. In this sloka he described the"
+    },
+    {
+      "i": 30,
+      "start": 206.24,
+      "end": 214.08,
+      "text": "jeevan mukta that and his you know kuruvan nabini lipyade."
+    },
+    {
+      "i": 31,
+      "start": 214.28,
+      "end": 220.2,
+      "text": "Even if his in action in the Vyavahara, the actions are not"
+    },
+    {
+      "i": 32,
+      "start": 220.2,
+      "end": 226.64,
+      "text": "binding him. Then in the next verse, the"
+    },
+    {
+      "i": 33,
+      "start": 226.64,
+      "end": 232.88,
+      "text": "eighth verse he said that nayeva kinchit karomi ETI yuktaha manya"
+    },
+    {
+      "i": 34,
+      "start": 232.88,
+      "end": 237.92,
+      "text": "de tuvit questions run nun prasanji Gran ashnan gatan"
+    },
+    {
+      "i": 35,
+      "start": 237.92,
+      "end": 244.36,
+      "text": "swapan sasan and in the 9th 1 he added relevant viswajan granan"
+    },
+    {
+      "i": 36,
+      "start": 244.52,
+      "end": 248.32,
+      "text": "unmission nimishan Nabi indriyani indriyar teshuvartande"
+    },
+    {
+      "i": 37,
+      "start": 248.32,
+      "end": 253.64,
+      "text": "editharayan. In these two verses, the 8th and"
+    },
+    {
+      "i": 38,
+      "start": 253.64,
+      "end": 264.04,
+      "text": "9th, Krishna listed out all possible actions as a physical"
+    },
+    {
+      "i": 39,
+      "start": 264.04,
+      "end": 270.76,
+      "text": "entity which we identify ourself in our regular day-to-day"
+    },
+    {
+      "i": 40,
+      "start": 270.8,
+      "end": 280.12,
+      "text": "living, starting with the five sense organs, then he went to"
+    },
+    {
+      "i": 41,
+      "start": 280.12,
+      "end": 285.88,
+      "text": "the internal actions, then he went into the external actions,"
+    },
+    {
+      "i": 42,
+      "start": 285.88,
+      "end": 291.56,
+      "text": "and finally the unmission. Nimisha Nabi the involuntary"
+    },
+    {
+      "i": 43,
+      "start": 291.56,
+      "end": 296.6,
+      "text": "movement of the eyelids with the closing and opening of the"
+    },
+    {
+      "i": 44,
+      "start": 296.6,
+      "end": 298.92,
+      "text": "eyelids which we are not doing with any volition."
+    },
+    {
+      "i": 45,
+      "start": 302.44,
+      "end": 308.92,
+      "text": "What it this set of actions when he mentioned is that he listed"
+    },
+    {
+      "i": 46,
+      "start": 308.92,
+      "end": 314.52,
+      "text": "it out to say that Nayeva Kinjit Karomi the attitude or the"
+    },
+    {
+      "i": 47,
+      "start": 314.52,
+      "end": 320.16,
+      "text": "internal resolution of the tattvid of the Jeevan Mukta is"
+    },
+    {
+      "i": 48,
+      "start": 320.16,
+      "end": 325.52,
+      "text": "that is these actions of the body, whether it is at the gross"
+    },
+    {
+      "i": 49,
+      "start": 325.52,
+      "end": 331.44,
+      "text": "level, subtle level or causal level, whatever may be, that is"
+    },
+    {
+      "i": 50,
+      "start": 331.44,
+      "end": 339.72,
+      "text": "not done by me because the me for the tattvid is not related"
+    },
+    {
+      "i": 51,
+      "start": 339.72,
+      "end": 344.36,
+      "text": "with the body. So he says that Nayeva Kintjit"
+    },
+    {
+      "i": 52,
+      "start": 344.36,
+      "end": 348.24,
+      "text": "Karomi Karomi is the first person singular saying I am do,"
+    },
+    {
+      "i": 53,
+      "start": 348.32,
+      "end": 353.72,
+      "text": "I am doing Nayeva Kintjit means not at all."
+    },
+    {
+      "i": 54,
+      "start": 353.72,
+      "end": 361.16,
+      "text": "I am doing anything iti in this manner yuktaha mannyade tatubid"
+    },
+    {
+      "i": 55,
+      "start": 362.32,
+      "end": 369.68,
+      "text": "the yuktaha means the yoga yukta karma karma yoga yuktah one who"
+    },
+    {
+      "i": 56,
+      "start": 369.68,
+      "end": 375.6,
+      "text": "has mastered the karma yoga and has reached the state of Tatubid"
+    },
+    {
+      "i": 57,
+      "start": 378.04,
+      "end": 383.96,
+      "text": "he mannyade he knows for the mannyade means man means is to"
+    },
+    {
+      "i": 58,
+      "start": 384.16,
+      "end": 392.64,
+      "text": "maintain mentation or you know the idea of in the in the being."
+    },
+    {
+      "i": 59,
+      "start": 393.4,
+      "end": 398.6,
+      "text": "It is not a thought process. It is a process of being which"
+    },
+    {
+      "i": 60,
+      "start": 398.6,
+      "end": 401.6,
+      "text": "we cannot use a English word for it."
+    },
+    {
+      "i": 61,
+      "start": 402.52,
+      "end": 411.12,
+      "text": "Manyate is actually speaking is the is the feeling of being what"
+    },
+    {
+      "i": 62,
+      "start": 411.12,
+      "end": 415.92,
+      "text": "you are. If you are thinking that you are"
+    },
+    {
+      "i": 63,
+      "start": 416.0,
+      "end": 423.2,
+      "text": "hungry, the the feeling of hunger will be there as a"
+    },
+    {
+      "i": 64,
+      "start": 423.2,
+      "end": 428.0,
+      "text": "feeling. But as a being you have a"
+    },
+    {
+      "i": 65,
+      "start": 428.0,
+      "end": 432.68,
+      "text": "feeling that you are a hungry person even though you don't"
+    },
+    {
+      "i": 66,
+      "start": 433.6,
+      "end": 436.28,
+      "text": "express that or feel that you express your hunger."
+    },
+    {
+      "i": 67,
+      "start": 436.28,
+      "end": 444.56,
+      "text": "Only here the Mannyathai tattoo with is when he says Nakinchit"
+    },
+    {
+      "i": 68,
+      "start": 444.56,
+      "end": 450.84,
+      "text": "Karomi I am not doing anything means his resolution or his"
+    },
+    {
+      "i": 69,
+      "start": 450.84,
+      "end": 455.72,
+      "text": "feeling is that all these things actions are indriyani Indriya"
+    },
+    {
+      "i": 70,
+      "start": 455.72,
+      "end": 460.56,
+      "text": "Tesuvartande. They are natural habit of the"
+    },
+    {
+      "i": 71,
+      "start": 460.56,
+      "end": 465.8,
+      "text": "sense organs, whether it is perception or action, The senses"
+    },
+    {
+      "i": 72,
+      "start": 465.8,
+      "end": 472.72,
+      "text": "of perception, senses of action, Indriya Ishuvartande, they, they"
+    },
+    {
+      "i": 73,
+      "start": 472.72,
+      "end": 478.88,
+      "text": "revel themselves in the objects of the sense organs."
+    },
+    {
+      "i": 74,
+      "start": 480.48,
+      "end": 484.04,
+      "text": "And I have nothing to do with that."
+    },
+    {
+      "i": 75,
+      "start": 484.4,
+      "end": 486.72,
+      "text": "I am a justice Sakshi or a witness to it."
+    },
+    {
+      "i": 76,
+      "start": 487.52,
+      "end": 493.56,
+      "text": "So when he says that the Tattvit is not saying it verbally, it is"
+    },
+    {
+      "i": 77,
+      "start": 493.56,
+      "end": 500.36,
+      "text": "his recognition of his own being that what He is, is what is"
+    },
+    {
+      "i": 78,
+      "start": 500.56,
+      "end": 504.08,
+      "text": "expressed in this by Krishna, because he is a tattoo with"
+    },
+    {
+      "i": 79,
+      "start": 504.08,
+      "end": 510.6,
+      "text": "himself. Now having mentioned all these"
+    },
+    {
+      "i": 80,
+      "start": 510.6,
+      "end": 519.039,
+      "text": "things he is making it slightly broadbanded."
+    },
+    {
+      "i": 81,
+      "start": 519.039,
+      "end": 524.48,
+      "text": "This activity of what is mentioned in the 8th and 9th in"
+    },
+    {
+      "i": 82,
+      "start": 524.48,
+      "end": 531.2,
+      "text": "the 10th verse where he says that Ghamani aadaya karmani"
+    },
+    {
+      "i": 83,
+      "start": 531.2,
+      "end": 539.84,
+      "text": "sangam tektwa karodi Yaha lipyate NASA papena padma."
+    },
+    {
+      "i": 84,
+      "start": 541.48,
+      "end": 552.88,
+      "text": "Here he is using a couple word Yahasaha, One who he is, that"
+    },
+    {
+      "i": 85,
+      "start": 552.88,
+      "end": 559.72,
+      "text": "Yaha means one who whoever he is, Saha means that person."
+    },
+    {
+      "i": 86,
+      "start": 561.0,
+      "end": 564.6,
+      "text": "So the the con, the construction of the sentence is like that."
+    },
+    {
+      "i": 87,
+      "start": 565.56,
+      "end": 572.56,
+      "text": "A person who is doing certain things, he is not affected by"
+    },
+    {
+      "i": 88,
+      "start": 573.64,
+      "end": 575.72,
+      "text": "that type. So let us look into the"
+    },
+    {
+      "i": 89,
+      "start": 575.72,
+      "end": 580.44,
+      "text": "statements itself. Brahmani adaya karmani sangam"
+    },
+    {
+      "i": 90,
+      "start": 580.44,
+      "end": 589.48,
+      "text": "dekhta yahakarothi one who does what karmani all actions."
+    },
+    {
+      "i": 91,
+      "start": 589.6,
+      "end": 592.2,
+      "text": "That is why he has used a plural here."
+    },
+    {
+      "i": 92,
+      "start": 593.04,
+      "end": 597.68,
+      "text": "All actions which has been listed as indicative actions in"
+    },
+    {
+      "i": 93,
+      "start": 597.68,
+      "end": 600.56,
+      "text": "the 8th and 9th is included in this word."
+    },
+    {
+      "i": 94,
+      "start": 600.56,
+      "end": 614.04,
+      "text": "Karmani he is doing this Karmas how Sangam tektwa by abandoning"
+    },
+    {
+      "i": 95,
+      "start": 614.04,
+      "end": 616.32,
+      "text": "the attachment. Sangam means attachment."
+    },
+    {
+      "i": 96,
+      "start": 618.08,
+      "end": 621.84,
+      "text": "Sangam kept to abandonment. Attaching attachment abandment"
+    },
+    {
+      "i": 97,
+      "start": 623.96,
+      "end": 625.92,
+      "text": "how? How can he abandon it?"
+    },
+    {
+      "i": 98,
+      "start": 627.16,
+      "end": 635.24,
+      "text": "Brahmani adhaya He is seeing them or he is knowing them."
+    },
+    {
+      "i": 99,
+      "start": 637.6,
+      "end": 646.24,
+      "text": "Adhaya means placing or depositing or you know using it"
+    },
+    {
+      "i": 100,
+      "start": 646.24,
+      "end": 650.68,
+      "text": "as a base. Brahmani means in Brahman."
+    },
+    {
+      "i": 101,
+      "start": 652.68,
+      "end": 659.92,
+      "text": "So he is abandoning attachment means he is living his ego"
+    },
+    {
+      "i": 102,
+      "start": 659.92,
+      "end": 665.64,
+      "text": "based, you know thoughts and actions that I am the doer, I am"
+    },
+    {
+      "i": 103,
+      "start": 665.64,
+      "end": 671.28,
+      "text": "the karta, I am the bhukta. He is abandoning them by placing"
+    },
+    {
+      "i": 104,
+      "start": 671.28,
+      "end": 676.0,
+      "text": "them as it is in Brahman. These things are happening not"
+    },
+    {
+      "i": 105,
+      "start": 676.0,
+      "end": 681.32,
+      "text": "in me. That way he is becoming sangam"
+    },
+    {
+      "i": 106,
+      "start": 681.32,
+      "end": 687.72,
+      "text": "Tektwa means he is freeing himself from the idea of the"
+    },
+    {
+      "i": 107,
+      "start": 687.72,
+      "end": 692.24,
+      "text": "individuation or the individuality or the aham bawa."
+    },
+    {
+      "i": 108,
+      "start": 694.2,
+      "end": 707.28,
+      "text": "When he does such a thing Saha he he is not stained or he is"
+    },
+    {
+      "i": 109,
+      "start": 707.28,
+      "end": 712.4,
+      "text": "not controlled or he is not affected or he is not bound by"
+    },
+    {
+      "i": 110,
+      "start": 712.4,
+      "end": 717.92,
+      "text": "PP means the reactions to the actions."
+    },
+    {
+      "i": 111,
+      "start": 719.2,
+      "end": 723.08,
+      "text": "He is Papa means here Papa and punya both you have to take."
+    },
+    {
+      "i": 112,
+      "start": 724.48,
+      "end": 728.8,
+      "text": "So he is not stained by the sins and the bones."
+    },
+    {
+      "i": 113,
+      "start": 730.2,
+      "end": 738.4,
+      "text": "How Patnapatra Miwambasa is a beautiful simile and most often"
+    },
+    {
+      "i": 114,
+      "start": 738.4,
+      "end": 746.0,
+      "text": "quoted by many, both in the spiritual field as well as in"
+    },
+    {
+      "i": 115,
+      "start": 746.0,
+      "end": 750.2,
+      "text": "the literary field. The example of a Lotus leaf in"
+    },
+    {
+      "i": 116,
+      "start": 750.2,
+      "end": 755.76,
+      "text": "water. How detached or how untouched by"
+    },
+    {
+      "i": 117,
+      "start": 755.76,
+      "end": 761.2,
+      "text": "the water in which it is living is the example of the Lotus"
+    },
+    {
+      "i": 118,
+      "start": 761.2,
+      "end": 767.88,
+      "text": "sleeve in the water. Let us look the structural"
+    },
+    {
+      "i": 119,
+      "start": 767.88,
+      "end": 771.32,
+      "text": "overview of this particular verse."
+    },
+    {
+      "i": 120,
+      "start": 772.56,
+      "end": 778.2,
+      "text": "This verse bridges the description of a tattoo with and"
+    },
+    {
+      "i": 121,
+      "start": 778.2,
+      "end": 782.08,
+      "text": "his inner recognition which has been given in the eighth and"
+    },
+    {
+      "i": 122,
+      "start": 782.08,
+      "end": 790.04,
+      "text": "ninth verse, with a practical teaching for a karma Yogi who"
+    },
+    {
+      "i": 123,
+      "start": 790.04,
+      "end": 793.16,
+      "text": "has not yet arrived at the full tattvatnana."
+    },
+    {
+      "i": 124,
+      "start": 796.4,
+      "end": 803.28,
+      "text": "This teaching in this tenth verse is not the statement of a"
+    },
+    {
+      "i": 125,
+      "start": 803.28,
+      "end": 809.48,
+      "text": "tattvatnani but it is a practical instruction for a"
+    },
+    {
+      "i": 126,
+      "start": 809.48,
+      "end": 814.92,
+      "text": "karma Yogi by Krishna who wants to achieve the tattvatnana."
+    },
+    {
+      "i": 127,
+      "start": 817.28,
+      "end": 823.56,
+      "text": "The verse also introduces Geeta's most important simile of"
+    },
+    {
+      "i": 128,
+      "start": 823.56,
+      "end": 828.28,
+      "text": "the Lotus leaf and water which I mentioned now as the iconic"
+    },
+    {
+      "i": 129,
+      "start": 828.28,
+      "end": 830.72,
+      "text": "image of a non attachment in action."
+    },
+    {
+      "i": 130,
+      "start": 835.6,
+      "end": 840.0,
+      "text": "So principal conditions are Brahmani adaya karmani, sangam"
+    },
+    {
+      "i": 131,
+      "start": 840.0,
+      "end": 845.44,
+      "text": "tektwa when it is being done Karodmi karothi Yaha one who"
+    },
+    {
+      "i": 132,
+      "start": 846.48,
+      "end": 850.36,
+      "text": "nalipya re papena is the result and the similar is"
+    },
+    {
+      "i": 133,
+      "start": 850.36,
+      "end": 860.12,
+      "text": "Padmavatramyavambasa Brahmani. How can it be Brahmani when you"
+    },
+    {
+      "i": 134,
+      "start": 860.12,
+      "end": 864.36,
+      "text": "are also Brahman? Brahmani means in Brahman or"
+    },
+    {
+      "i": 135,
+      "start": 864.44,
+      "end": 869.6,
+      "text": "into Brahman or upon Brahman, whichever there is different"
+    },
+    {
+      "i": 136,
+      "start": 869.6,
+      "end": 874.44,
+      "text": "ways in which the word locative is used in Sanskrit."
+    },
+    {
+      "i": 137,
+      "start": 876.52,
+      "end": 878.56,
+      "text": "So what does Brahmani refer here?"
+    },
+    {
+      "i": 138,
+      "start": 880.56,
+      "end": 887.0,
+      "text": "There are two primary readings of it."
+    },
+    {
+      "i": 139,
+      "start": 888.64,
+      "end": 893.72,
+      "text": "One is the popular reading and there is a Advaitic reading."
+    },
+    {
+      "i": 140,
+      "start": 896.6,
+      "end": 900.6,
+      "text": "The Advaitic reading is Brahman as paramathman, nirbhuna,"
+    },
+    {
+      "i": 141,
+      "start": 900.6,
+      "end": 906.64,
+      "text": "Brahman, placing action in the ground of pure witness, Brahman"
+    },
+    {
+      "i": 142,
+      "start": 907.6,
+      "end": 920.64,
+      "text": "as a substratum that is all activities, even the idea of the"
+    },
+    {
+      "i": 143,
+      "start": 920.64,
+      "end": 923.08,
+      "text": "individuation or the individuality."
+    },
+    {
+      "i": 144,
+      "start": 924.84,
+      "end": 929.0,
+      "text": "Everything is in Satchitamananda consciousness which is the"
+    },
+    {
+      "i": 145,
+      "start": 929.0,
+      "end": 935.0,
+      "text": "Nirguna Brahman. So when Brahmani adhaya when"
+    },
+    {
+      "i": 146,
+      "start": 935.0,
+      "end": 941.64,
+      "text": "placed in or deposited in Brahman, the person Kathovit"
+    },
+    {
+      "i": 147,
+      "start": 941.68,
+      "end": 947.36,
+      "text": "sees that everything is happening in Brahman because he"
+    },
+    {
+      "i": 148,
+      "start": 947.36,
+      "end": 952.04,
+      "text": "has already known Prathovit that Sarvabhudhatma Budhatma."
+    },
+    {
+      "i": 149,
+      "start": 952.88,
+      "end": 956.64,
+      "text": "He has nothing outside Brahman including himself."
+    },
+    {
+      "i": 150,
+      "start": 957.0,
+      "end": 961.68,
+      "text": "Yatran Anya pasadi, Anya sunodi Anya Vijanadi, there is nothing"
+    },
+    {
+      "i": 151,
+      "start": 961.68,
+      "end": 967.32,
+      "text": "else other than that. So when he says that even the my"
+    },
+    {
+      "i": 152,
+      "start": 967.32,
+      "end": 974.92,
+      "text": "feeling of I Ness of the individuality is a awareness in"
+    },
+    {
+      "i": 153,
+      "start": 974.92,
+      "end": 981.6,
+      "text": "consciousness and all the activities, what I call prakruti"
+    },
+    {
+      "i": 154,
+      "start": 981.64,
+      "end": 987.4,
+      "text": "guna, the sense organs, the organs of action, the subjects,"
+    },
+    {
+      "i": 155,
+      "start": 987.4,
+      "end": 993.32,
+      "text": "the objects, the activity, everything is nothing but in the"
+    },
+    {
+      "i": 156,
+      "start": 993.32,
+      "end": 1000.84,
+      "text": "consciousness of Brahman. So the first reading is from"
+    },
+    {
+      "i": 157,
+      "start": 1000.84,
+      "end": 1005.92,
+      "text": "this Nirguna Brahman which is that Nyana Nishta or the Oregon"
+    },
+    {
+      "i": 158,
+      "start": 1005.92,
+      "end": 1010.6,
+      "text": "even a Karma Yogi who has almost at the verge of becoming a"
+    },
+    {
+      "i": 159,
+      "start": 1010.6,
+      "end": 1015.08,
+      "text": "Tattvotnyani, he also realizes it but he has not had the"
+    },
+    {
+      "i": 160,
+      "start": 1015.36,
+      "end": 1020.48,
+      "text": "Aparokshatnyana is a karma Yogi at that level but almost like a"
+    },
+    {
+      "i": 161,
+      "start": 1020.48,
+      "end": 1025.8,
+      "text": "tattvid. But the second and most popular"
+    },
+    {
+      "i": 162,
+      "start": 1025.8,
+      "end": 1033.56,
+      "text": "reading which is by people who accept Ishwara instead of"
+    },
+    {
+      "i": 163,
+      "start": 1033.56,
+      "end": 1039.72,
+      "text": "Nirguna Brahman. They say the Karma Yogi offers"
+    },
+    {
+      "i": 164,
+      "start": 1039.72,
+      "end": 1046.16,
+      "text": "actions to Lord or Ishwara as a dedication, which has been"
+    },
+    {
+      "i": 165,
+      "start": 1046.16,
+      "end": 1052.12,
+      "text": "mentioned in the Karma Yoga. It is the saguna pasaka devotion"
+    },
+    {
+      "i": 166,
+      "start": 1052.12,
+      "end": 1056.64,
+      "text": "karma Yogi. He is not seeing it from the"
+    },
+    {
+      "i": 167,
+      "start": 1057.04,
+      "end": 1061.48,
+      "text": "Tattvatnyana point of view because he is seeing it as the"
+    },
+    {
+      "i": 168,
+      "start": 1062.48,
+      "end": 1070.52,
+      "text": "the Duaitens say that everything is Ishwara and it is Ishwara's"
+    },
+    {
+      "i": 169,
+      "start": 1070.68,
+      "end": 1075.84,
+      "text": "will and Ishwara's actions and everything is done by Ishwara."
+    },
+    {
+      "i": 170,
+      "start": 1076.08,
+      "end": 1082.44,
+      "text": "I am only a part of that or I am affected by what Ishwara decides"
+    },
+    {
+      "i": 171,
+      "start": 1082.44,
+      "end": 1086.28,
+      "text": "and does. But he also has left his"
+    },
+    {
+      "i": 172,
+      "start": 1086.28,
+      "end": 1091.52,
+      "text": "attachment Sangam Tektwa. He doesn't own the actions."
+    },
+    {
+      "i": 173,
+      "start": 1092.28,
+      "end": 1098.48,
+      "text": "His actions he has dedicated are offered as Ishwara's action."
+    },
+    {
+      "i": 174,
+      "start": 1100.08,
+      "end": 1104.2,
+      "text": "Both these are acceptable to Advaitins."
+    },
+    {
+      "i": 175,
+      "start": 1105.28,
+      "end": 1108.48,
+      "text": "Sankaracharya does not dismiss the Ishwarapana reading."
+    },
+    {
+      "i": 176,
+      "start": 1109.04,
+      "end": 1113.12,
+      "text": "It is a valid at the Vivaharika level and effective for"
+    },
+    {
+      "i": 177,
+      "start": 1113.12,
+      "end": 1115.32,
+      "text": "Antakarana shuddhi as Parshankaracharya."
+    },
+    {
+      "i": 178,
+      "start": 1116.96,
+      "end": 1119.56,
+      "text": "But his paramartika reading is deeper."
+    },
+    {
+      "i": 179,
+      "start": 1119.96,
+      "end": 1124.04,
+      "text": "Brahmani Adaya means recognizing Brahman, the consciousness, pure"
+    },
+    {
+      "i": 180,
+      "start": 1124.04,
+      "end": 1127.6,
+      "text": "consciousness as the true substratum of all action,"
+    },
+    {
+      "i": 181,
+      "start": 1129.0,
+      "end": 1134.4,
+      "text": "placing actions on the non dual ground of Atman Brahman from"
+    },
+    {
+      "i": 182,
+      "start": 1134.4,
+      "end": 1141.2,
+      "text": "which it never truly departs. It is not outside or external to"
+    },
+    {
+      "i": 183,
+      "start": 1141.2,
+      "end": 1145.64,
+      "text": "it. It is not an activity which is"
+    },
+    {
+      "i": 184,
+      "start": 1145.64,
+      "end": 1154.6,
+      "text": "being done in Brahman or upon Brahman, but it is in Brahman"
+    },
+    {
+      "i": 185,
+      "start": 1154.92,
+      "end": 1161.76,
+      "text": "like the waves moving in ocean. The waves are not separate from"
+    },
+    {
+      "i": 186,
+      "start": 1162.0,
+      "end": 1166.2,
+      "text": "ocean. Yet the movement of the waves or"
+    },
+    {
+      "i": 187,
+      "start": 1166.2,
+      "end": 1172.88,
+      "text": "the current or the Whirlpool, all those things are happening"
+    },
+    {
+      "i": 188,
+      "start": 1173.04,
+      "end": 1180.08,
+      "text": "in the water. Same way the Tattvit sees all"
+    },
+    {
+      "i": 189,
+      "start": 1180.08,
+      "end": 1185.32,
+      "text": "these happenings and he is not affected by that."
+    },
+    {
+      "i": 190,
+      "start": 1185.48,
+      "end": 1188.88,
+      "text": "That is why he becomes a Sangam Jetta detachment."
+    },
+    {
+      "i": 191,
+      "start": 1192.52,
+      "end": 1200.52,
+      "text": "Adhaya means plesi karmani. Here is what we have to give"
+    },
+    {
+      "i": 192,
+      "start": 1201.36,
+      "end": 1205.32,
+      "text": "importance to that. It is a plural word."
+    },
+    {
+      "i": 193,
+      "start": 1205.32,
+      "end": 1209.92,
+      "text": "Karmani Acquisitive nature actions."
+    },
+    {
+      "i": 194,
+      "start": 1211.64,
+      "end": 1219.48,
+      "text": "Having placed actions in Brahman, is karmas different"
+    },
+    {
+      "i": 195,
+      "start": 1219.48,
+      "end": 1225.6,
+      "text": "from Brahman to be placed in Brahman?"
+    },
+    {
+      "i": 196,
+      "start": 1226.44,
+      "end": 1230.44,
+      "text": "No. How can it be when everything is"
+    },
+    {
+      "i": 197,
+      "start": 1230.44,
+      "end": 1235.44,
+      "text": "Brahman? The current, the movement of the"
+    },
+    {
+      "i": 198,
+      "start": 1235.44,
+      "end": 1240.04,
+      "text": "water is not placed in the ocean."
+    },
+    {
+      "i": 199,
+      "start": 1241.92,
+      "end": 1247.72,
+      "text": "It is part of the nature of Brahman or part of the nature of"
+    },
+    {
+      "i": 200,
+      "start": 1247.72,
+      "end": 1252.96,
+      "text": "the ocean itself to have waves, moving currents, etcetera."
+    },
+    {
+      "i": 201,
+      "start": 1255.52,
+      "end": 1259.72,
+      "text": "So this plural signals the totality of action there is."
+    },
+    {
+      "i": 202,
+      "start": 1260.76,
+      "end": 1265.2,
+      "text": "It is not selected or partial or you know, special actions."
+    },
+    {
+      "i": 203,
+      "start": 1266.52,
+      "end": 1271.2,
+      "text": "All action without exception, Sarvakarmani, physical, verbal,"
+    },
+    {
+      "i": 204,
+      "start": 1271.2,
+      "end": 1273.32,
+      "text": "mental, it will come in the next verse."
+    },
+    {
+      "i": 205,
+      "start": 1274.0,
+      "end": 1280.84,
+      "text": "Manasawaja, Karma, all those things placed in the Brahman"
+    },
+    {
+      "i": 206,
+      "start": 1281.28,
+      "end": 1290.36,
+      "text": "means it is a comprehensiveness as a mark of the genuine karma"
+    },
+    {
+      "i": 207,
+      "start": 1290.36,
+      "end": 1296.08,
+      "text": "Yogi as opposed to the one who makes selective offering while"
+    },
+    {
+      "i": 208,
+      "start": 1296.08,
+      "end": 1298.64,
+      "text": "retaining ownership of other actions."
+    },
+    {
+      "i": 209,
+      "start": 1299.36,
+      "end": 1304.4,
+      "text": "You can't be partial. If you are partial, you cannot"
+    },
+    {
+      "i": 210,
+      "start": 1304.4,
+      "end": 1312.88,
+      "text": "have detachment. Therefore, Sangam is not an"
+    },
+    {
+      "i": 211,
+      "start": 1312.88,
+      "end": 1320.08,
+      "text": "attachment to objects per SE, but it is the inner adhesion of"
+    },
+    {
+      "i": 212,
+      "start": 1320.08,
+      "end": 1327.2,
+      "text": "the individuality. Ahankara not the ego, the"
+    },
+    {
+      "i": 213,
+      "start": 1327.2,
+      "end": 1335.16,
+      "text": "negative ego, individualization or the aham Bhava 2 actions and"
+    },
+    {
+      "i": 214,
+      "start": 1335.16,
+      "end": 1338.52,
+      "text": "results when you have separatedness that I am"
+    },
+    {
+      "i": 215,
+      "start": 1338.68,
+      "end": 1343.0,
+      "text": "independent, everything else is objects to me."
+    },
+    {
+      "i": 216,
+      "start": 1343.6,
+      "end": 1349.36,
+      "text": "Then this aham the I Ness or the individualization individuality."
+    },
+    {
+      "i": 217,
+      "start": 1350.52,
+      "end": 1354.96,
+      "text": "He is responsible for his actions and the consequence of"
+    },
+    {
+      "i": 218,
+      "start": 1354.96,
+      "end": 1361.8,
+      "text": "the results. But when the Since I am doing"
+    },
+    {
+      "i": 219,
+      "start": 1361.8,
+      "end": 1366.08,
+      "text": "this and I am, I shall obtain that result of the individual"
+    },
+    {
+      "i": 220,
+      "start": 1367.28,
+      "end": 1376.08,
+      "text": "when he surrenders. Sindh Brahman the adhesive link"
+    },
+    {
+      "i": 221,
+      "start": 1376.08,
+      "end": 1382.16,
+      "text": "between the action and the result or the sense of ownership"
+    },
+    {
+      "i": 222,
+      "start": 1382.16,
+      "end": 1391.6,
+      "text": "in action and result is what is getting abandoned tektua the"
+    },
+    {
+      "i": 223,
+      "start": 1391.6,
+      "end": 1398.6,
+      "text": "word tektua having relinquished or abandoned but it goes"
+    },
+    {
+      "i": 224,
+      "start": 1398.6,
+      "end": 1404.28,
+      "text": "together with the sangam tektua. The tektua is not complete"
+    },
+    {
+      "i": 225,
+      "start": 1404.28,
+      "end": 1410.04,
+      "text": "unless I use the the adjective to that what is abandoned is"
+    },
+    {
+      "i": 226,
+      "start": 1410.04,
+      "end": 1413.84,
+      "text": "Sanga. So together they constitute the"
+    },
+    {
+      "i": 227,
+      "start": 1413.84,
+      "end": 1416.56,
+      "text": "complete inner stands of a Karma Yogi."
+    },
+    {
+      "i": 228,
+      "start": 1418.8,
+      "end": 1424.4,
+      "text": "The Karma Yogi offers actions to Brahman Adhaya and releases"
+    },
+    {
+      "i": 229,
+      "start": 1424.4,
+      "end": 1429.84,
+      "text": "attachment to the results Yattawa and then this double"
+    },
+    {
+      "i": 230,
+      "start": 1429.84,
+      "end": 1438.0,
+      "text": "movement of Samarpana and yaga that is offering to Brahman or"
+    },
+    {
+      "i": 231,
+      "start": 1438.0,
+      "end": 1443.88,
+      "text": "Ishwara and not taking the fruits of action."
+    },
+    {
+      "i": 232,
+      "start": 1446.72,
+      "end": 1451.76,
+      "text": "This double movement springs the freedom for the individual."
+    },
+    {
+      "i": 233,
+      "start": 1453.0,
+      "end": 1457.04,
+      "text": "He is neither bound by the actions nor bound by the results"
+    },
+    {
+      "i": 234,
+      "start": 1457.04,
+      "end": 1458.56,
+      "text": "of it. Nallipyate."
+    },
+    {
+      "i": 235,
+      "start": 1463.16,
+      "end": 1479.68,
+      "text": "That is why Krishna said so. He has used the word sanga."
+    },
+    {
+      "i": 236,
+      "start": 1480.8,
+      "end": 1483.88,
+      "text": "The other place where he has used the word Sanga is that"
+    },
+    {
+      "i": 237,
+      "start": 1490.12,
+      "end": 1497.68,
+      "text": "Sanga, the ladder of fall, how the attachment to the fruits of"
+    },
+    {
+      "i": 238,
+      "start": 1497.68,
+      "end": 1503.48,
+      "text": "action develop the desire and desire leads to the fall of the"
+    },
+    {
+      "i": 239,
+      "start": 1503.76,
+      "end": 1508.12,
+      "text": "individual. So Sangha is a very important"
+    },
+    {
+      "i": 240,
+      "start": 1508.12,
+      "end": 1512.8,
+      "text": "word in the path of spiritual practice."
+    },
+    {
+      "i": 241,
+      "start": 1514.12,
+      "end": 1519.36,
+      "text": "So one who Karothi one who does this by offering to Brahman."
+    },
+    {
+      "i": 242,
+      "start": 1523.04,
+      "end": 1526.8,
+      "text": "Krishna did not use the word karomi which he had used in the"
+    },
+    {
+      "i": 243,
+      "start": 1526.8,
+      "end": 1534.36,
+      "text": "previous verse or a tattoo with here he has used the word karoti"
+    },
+    {
+      "i": 244,
+      "start": 1534.68,
+      "end": 1541.36,
+      "text": "in the third person singular that Nyani holds nakaromi"
+    },
+    {
+      "i": 245,
+      "start": 1542.24,
+      "end": 1549.76,
+      "text": "because he uses as I karomi because he has already realized"
+    },
+    {
+      "i": 246,
+      "start": 1549.76,
+      "end": 1553.44,
+      "text": "the tattoo. Whereas Krishna uses here"
+    },
+    {
+      "i": 247,
+      "start": 1553.76,
+      "end": 1563.24,
+      "text": "Karothi or the Karma Yogi who does act but acts with the"
+    },
+    {
+      "i": 248,
+      "start": 1564.0,
+      "end": 1570.72,
+      "text": "Brahmani adaya and Sangam Yatva. That is the functional doership"
+    },
+    {
+      "i": 249,
+      "start": 1570.96,
+      "end": 1577.36,
+      "text": "of Laiki Laukika Karthritwa continues to be in action in the"
+    },
+    {
+      "i": 250,
+      "start": 1577.36,
+      "end": 1584.2,
+      "text": "karma as a Karma Yogi and he is abandoning what Is he abandoning"
+    },
+    {
+      "i": 251,
+      "start": 1584.68,
+      "end": 1590.24,
+      "text": "the ego ownership of the actions and the Karthritwa and Boktritwa"
+    },
+    {
+      "i": 252,
+      "start": 1591.08,
+      "end": 1597.6,
+      "text": "or the doership? So here we should understand"
+    },
+    {
+      "i": 253,
+      "start": 1597.6,
+      "end": 1603.52,
+      "text": "that Krishna is giving a concession and extending this."
+    },
+    {
+      "i": 254,
+      "start": 1604.16,
+      "end": 1609.68,
+      "text": "Not only Tattvatnani is freed from the bondage of actions and"
+    },
+    {
+      "i": 255,
+      "start": 1609.68,
+      "end": 1614.8,
+      "text": "fruits of results of it. Even a Karma Yogi who surrenders"
+    },
+    {
+      "i": 256,
+      "start": 1614.88,
+      "end": 1623.08,
+      "text": "his actions as Ishrarpana or Brahmarpana and Sangam Tektwa,"
+    },
+    {
+      "i": 257,
+      "start": 1624.0,
+      "end": 1628.48,
+      "text": "he is abandoning his desires for the outcome of actions."
+    },
+    {
+      "i": 258,
+      "start": 1630.64,
+      "end": 1641.52,
+      "text": "One who he is Yaha Saha Nalipyathe Nullipyathai means is"
+    },
+    {
+      "i": 259,
+      "start": 1641.52,
+      "end": 1645.16,
+      "text": "not smeared or not adhered or not bound."
+    },
+    {
+      "i": 260,
+      "start": 1646.32,
+      "end": 1649.52,
+      "text": "In the seventh verse he used Nullipyathai to describe the"
+    },
+    {
+      "i": 261,
+      "start": 1649.52,
+      "end": 1654.16,
+      "text": "Jeevan Mukta's freedom. Whereas here he is using the"
+    },
+    {
+      "i": 262,
+      "start": 1654.16,
+      "end": 1660.52,
+      "text": "same word nullipyathai for the same freedom and is available to"
+    },
+    {
+      "i": 263,
+      "start": 1660.56,
+      "end": 1665.72,
+      "text": "a Karma Yogin through a different mechanism of Brahmani"
+    },
+    {
+      "i": 264,
+      "start": 1665.72,
+      "end": 1670.32,
+      "text": "Adhaya and Sangam Thetva. He has not established in the"
+    },
+    {
+      "i": 265,
+      "start": 1670.48,
+      "end": 1676.88,
+      "text": "Yana like a Tattvatnayani his identification with the Brahman"
+    },
+    {
+      "i": 266,
+      "start": 1676.96,
+      "end": 1681.92,
+      "text": "Atman Ayaham Brahmasmi. He has not been reached by the"
+    },
+    {
+      "i": 267,
+      "start": 1681.92,
+      "end": 1687.04,
+      "text": "Karma Yogi, but he is a very advanced Karma Yogi who has"
+    },
+    {
+      "i": 268,
+      "start": 1687.04,
+      "end": 1691.84,
+      "text": "understood the needs of surrender, total surrender to"
+    },
+    {
+      "i": 269,
+      "start": 1691.84,
+      "end": 1696.8,
+      "text": "Ishwara or Brahman and not owning the fruits of action."
+    },
+    {
+      "i": 270,
+      "start": 1699.6,
+      "end": 1705.64,
+      "text": "So when he does this Brahmani, Adaya and Sanganthaktva, he is"
+    },
+    {
+      "i": 271,
+      "start": 1706.04,
+      "end": 1710.0,
+      "text": "in the recognition of Sarvabhudhatma Bhudhatma."
+    },
+    {
+      "i": 272,
+      "start": 1713.44,
+      "end": 1716.04,
+      "text": "He does not see anything outside Brahman."
+    },
+    {
+      "i": 273,
+      "start": 1717.6,
+      "end": 1722.32,
+      "text": "So his actions are to Brahman. His laukika actions are also"
+    },
+    {
+      "i": 274,
+      "start": 1722.32,
+      "end": 1726.56,
+      "text": "Brahmani Brahmar Panam only. That is why that Brahmar Panam"
+    },
+    {
+      "i": 275,
+      "start": 1726.56,
+      "end": 1733.24,
+      "text": "Brahmahavi was has to be seen as the Brahma Karma Samadhi and"
+    },
+    {
+      "i": 276,
+      "start": 1733.24,
+      "end": 1737.32,
+      "text": "that Brahma Karma Samadhi is the achievement of this Karma Yogi"
+    },
+    {
+      "i": 277,
+      "start": 1737.32,
+      "end": 1740.28,
+      "text": "here. Therefore he is nullipyate."
+    },
+    {
+      "i": 278,
+      "start": 1740.28,
+      "end": 1745.72,
+      "text": "He has not been get smeared or touched by the actions."
+    },
+    {
+      "i": 279,
+      "start": 1749.96,
+      "end": 1753.52,
+      "text": "Shankaracharya says that this is Krishna's pedagogical"
+    },
+    {
+      "i": 280,
+      "start": 1753.52,
+      "end": 1758.6,
+      "text": "generosity. Even though Sangarajaya has"
+    },
+    {
+      "i": 281,
+      "start": 1758.92,
+      "end": 1761.68,
+      "text": "hesitation to accept it. But he has to accept it."
+    },
+    {
+      "i": 282,
+      "start": 1763.88,
+      "end": 1767.32,
+      "text": "He is does not reserve the Nalipyade only for the Kyani"
+    },
+    {
+      "i": 283,
+      "start": 1767.32,
+      "end": 1771.52,
+      "text": "alone. He extends it through this verse"
+    },
+    {
+      "i": 284,
+      "start": 1772.56,
+      "end": 1776.4,
+      "text": "to a sincere Karma Yogi who is the doing Brahmarpana"
+    },
+    {
+      "i": 285,
+      "start": 1776.44,
+      "end": 1780.76,
+      "text": "Brahmagarma Samadhi who acts with the dedication and non"
+    },
+    {
+      "i": 286,
+      "start": 1780.76,
+      "end": 1786.8,
+      "text": "attachment. The freedom from karmic taint is"
+    },
+    {
+      "i": 287,
+      "start": 1790.64,
+      "end": 1795.64,
+      "text": "at the both levels, Aramartika level of a Tattvatnyani and the"
+    },
+    {
+      "i": 288,
+      "start": 1795.64,
+      "end": 1800.24,
+      "text": "Vyavaharika level of a Karma Yogi who is in the Brahmagarma"
+    },
+    {
+      "i": 289,
+      "start": 1800.24,
+      "end": 1804.68,
+      "text": "Samadhi. The Papas do not taint them."
+    },
+    {
+      "i": 290,
+      "start": 1805.64,
+      "end": 1812.04,
+      "text": "The sins and the boons of the actions are not binding these"
+    },
+    {
+      "i": 291,
+      "start": 1812.04,
+      "end": 1818.92,
+      "text": "people, those, these two. Papena is the word."
+    },
+    {
+      "i": 292,
+      "start": 1818.92,
+      "end": 1821.56,
+      "text": "He is used here, Papa. What is a Papa here?"
+    },
+    {
+      "i": 293,
+      "start": 1822.92,
+      "end": 1827.96,
+      "text": "Papa is not merely the moral sin in the conventional sense, but"
+    },
+    {
+      "i": 294,
+      "start": 1827.96,
+      "end": 1835.04,
+      "text": "it is a karmic residue, karma, samskara that accumulates"
+    },
+    {
+      "i": 295,
+      "start": 1835.04,
+      "end": 1840.04,
+      "text": "through the ego driven action. When actions are performed with"
+    },
+    {
+      "i": 296,
+      "start": 1840.04,
+      "end": 1849.88,
+      "text": "the ego Sanga, with the Kartar Tuva Vimana, the doership, the"
+    },
+    {
+      "i": 297,
+      "start": 1849.88,
+      "end": 1855.0,
+      "text": "expectation of results, Palaba or Kansha happens."
+    },
+    {
+      "i": 298,
+      "start": 1855.68,
+      "end": 1861.4,
+      "text": "Such actions creates Agami karma that some karma samskara or Kars"
+    },
+    {
+      "i": 299,
+      "start": 1861.4,
+      "end": 1867.16,
+      "text": "karmic residue. The perpetuation of Samsara"
+    },
+    {
+      "i": 300,
+      "start": 1867.16,
+      "end": 1871.68,
+      "text": "Banda through continued ego driven karmic accumulation is"
+    },
+    {
+      "i": 301,
+      "start": 1871.68,
+      "end": 1878.8,
+      "text": "what keeps the ordinary people to do go through the sufferings"
+    },
+    {
+      "i": 302,
+      "start": 1879.32,
+      "end": 1883.88,
+      "text": "and thinking that they are taking birth again and again."
+    },
+    {
+      "i": 303,
+      "start": 1887.64,
+      "end": 1893.2,
+      "text": "Here comes that example of the Lotus leaf Padmapatra Mivambasa."
+    },
+    {
+      "i": 304,
+      "start": 1897.16,
+      "end": 1901.24,
+      "text": "This is one of the most celebrated similes in Sanskrit"
+    },
+    {
+      "i": 305,
+      "start": 1901.24,
+      "end": 1907.16,
+      "text": "philosophical literature itself and it depth repays careful"
+    },
+    {
+      "i": 306,
+      "start": 1907.16,
+      "end": 1912.68,
+      "text": "analysis at multiple levels. Let us look deeply into this"
+    },
+    {
+      "i": 307,
+      "start": 1912.8,
+      "end": 1918.04,
+      "text": "analysis or the simile at the physical level."
+    },
+    {
+      "i": 308,
+      "start": 1918.36,
+      "end": 1925.32,
+      "text": "Ordinary Lotus leaf which is used as the patmapatra."
+    },
+    {
+      "i": 309,
+      "start": 1925.44,
+      "end": 1927.8,
+      "text": "Patra means leaf. Patma means Lotus."
+    },
+    {
+      "i": 310,
+      "start": 1928.32,
+      "end": 1929.96,
+      "text": "Patmapatra means slaughter's leaf."
+    },
+    {
+      "i": 311,
+      "start": 1931.4,
+      "end": 1935.6,
+      "text": "It grows in water. It is born in water."
+    },
+    {
+      "i": 312,
+      "start": 1937.64,
+      "end": 1946.0,
+      "text": "It is surrounded by water yet does not wet the leaf."
+    },
+    {
+      "i": 313,
+      "start": 1946.28,
+      "end": 1951.6,
+      "text": "The water rolls off in droplets without adhering to the leaf,"
+    },
+    {
+      "i": 314,
+      "start": 1953.64,
+      "end": 1957.16,
+      "text": "the leaf's structure or the surface."
+    },
+    {
+      "i": 315,
+      "start": 1957.24,
+      "end": 1966.16,
+      "text": "Nature has a non natural, non adhesive quality which is called"
+    },
+    {
+      "i": 316,
+      "start": 1966.16,
+      "end": 1974.84,
+      "text": "the Nerlepyasubhava. It is the nature of the leaf not"
+    },
+    {
+      "i": 317,
+      "start": 1974.84,
+      "end": 1981.28,
+      "text": "achieved by any effort or avoiding water, by staying away"
+    },
+    {
+      "i": 318,
+      "start": 1981.28,
+      "end": 1987.32,
+      "text": "from water, but by its own intrinsic nature, that it is"
+    },
+    {
+      "i": 319,
+      "start": 1987.56,
+      "end": 1992.44,
+      "text": "unaffected by the water in which it was born in and the water in"
+    },
+    {
+      "i": 320,
+      "start": 1992.44,
+      "end": 1997.36,
+      "text": "which it lives and in water in which it destroys itself."
+    },
+    {
+      "i": 321,
+      "start": 2000.88,
+      "end": 2007.48,
+      "text": "When we look at from an analogical level, the karma Yogi"
+    },
+    {
+      "i": 322,
+      "start": 2008.64,
+      "end": 2013.84,
+      "text": "who is into Brahma, karma samadhi acts brahmani adhaya."
+    },
+    {
+      "i": 323,
+      "start": 2017.08,
+      "end": 2024.56,
+      "text": "He lives like a Lotus leaf. He is immersed in action just as"
+    },
+    {
+      "i": 324,
+      "start": 2024.56,
+      "end": 2030.84,
+      "text": "the leaf in the water, but is withdrawn from it because he"
+    },
+    {
+      "i": 325,
+      "start": 2030.84,
+      "end": 2035.36,
+      "text": "doesn't own the action or the results of the action."
+    },
+    {
+      "i": 326,
+      "start": 2037.68,
+      "end": 2044.04,
+      "text": "Action does not adhere to him nalipyathai because his nature"
+    },
+    {
+      "i": 327,
+      "start": 2044.8,
+      "end": 2055.04,
+      "text": "has become asattha. Asattha means unattached, just"
+    },
+    {
+      "i": 328,
+      "start": 2055.04,
+      "end": 2057.08,
+      "text": "as the water does not adhere to the leaf."
+    },
+    {
+      "i": 329,
+      "start": 2058.32,
+      "end": 2064.639,
+      "text": "The actions, however good, bad or ugly it be, he executes the"
+    },
+    {
+      "i": 330,
+      "start": 2064.639,
+      "end": 2069.96,
+      "text": "action because he is not doing the ownership of the action."
+    },
+    {
+      "i": 331,
+      "start": 2070.96,
+      "end": 2075.84,
+      "text": "Therefore the fruits of action also, he is not owning it if he"
+    },
+    {
+      "i": 332,
+      "start": 2075.84,
+      "end": 2079.56,
+      "text": "is to be. If an action is happening, he is"
+    },
+    {
+      "i": 333,
+      "start": 2079.56,
+      "end": 2082.08,
+      "text": "seeing it as an action happening in Brahman."
+    },
+    {
+      "i": 334,
+      "start": 2083.0,
+      "end": 2086.56,
+      "text": "Not that I am doing or I should not do this adharma."
+    },
+    {
+      "i": 335,
+      "start": 2086.56,
+      "end": 2090.4,
+      "text": "I should do this Dharma. That Dharma Dharma concept"
+    },
+    {
+      "i": 336,
+      "start": 2090.4,
+      "end": 2095.92,
+      "text": "doesn't happen in him in a given situation."
+    },
+    {
+      "i": 337,
+      "start": 2095.92,
+      "end": 2099.72,
+      "text": "What is happening is happening from his point of view."
+    },
+    {
+      "i": 338,
+      "start": 2102.44,
+      "end": 2109.04,
+      "text": "He doesn't see it as his action. He doesn't see it as his duty or"
+    },
+    {
+      "i": 339,
+      "start": 2109.04,
+      "end": 2115.4,
+      "text": "responsibility. Dharma, Dharma, he is not seeing"
+    },
+    {
+      "i": 340,
+      "start": 2115.4,
+      "end": 2119.76,
+      "text": "himself separate from the totality, the Brahman."
+    },
+    {
+      "i": 341,
+      "start": 2122.48,
+      "end": 2126.32,
+      "text": "Only when he sees himself separate from the Brahman, then"
+    },
+    {
+      "i": 342,
+      "start": 2126.32,
+      "end": 2133.72,
+      "text": "there will be a location where the action takes place in me."
+    },
+    {
+      "i": 343,
+      "start": 2133.72,
+      "end": 2137.12,
+      "text": "I am the doer, I am the one who is enjoying."
+    },
+    {
+      "i": 344,
+      "start": 2137.16,
+      "end": 2144.28,
+      "text": "That idea comes in. But when he sees it, these are"
+    },
+    {
+      "i": 345,
+      "start": 2144.28,
+      "end": 2149.6,
+      "text": "all sobhava. Asia is such a Sobhava is"
+    },
+    {
+      "i": 346,
+      "start": 2149.6,
+      "end": 2154.32,
+      "text": "learned within the Mandukya that it is the brahmas or the"
+    },
+    {
+      "i": 347,
+      "start": 2154.32,
+      "end": 2157.6,
+      "text": "consciousness in which actions are happening."
+    },
+    {
+      "i": 348,
+      "start": 2159.68,
+      "end": 2162.92,
+      "text": "Actions are seen to be happening in consciousness."
+    },
+    {
+      "i": 349,
+      "start": 2164.56,
+      "end": 2169.84,
+      "text": "Are there real actions? Are there real movement of waves"
+    },
+    {
+      "i": 350,
+      "start": 2169.84,
+      "end": 2176.68,
+      "text": "and water in water? It appears to be moving in"
+    },
+    {
+      "i": 351,
+      "start": 2176.68,
+      "end": 2180.12,
+      "text": "water. The ocean seems to be moving in"
+    },
+    {
+      "i": 352,
+      "start": 2180.12,
+      "end": 2185.24,
+      "text": "waves. Does the water go undergo any"
+    },
+    {
+      "i": 353,
+      "start": 2185.24,
+      "end": 2189.52,
+      "text": "movement? The water appears to be going"
+    },
+    {
+      "i": 354,
+      "start": 2189.52,
+      "end": 2196.76,
+      "text": "through the movement, but from the from the nature of water,"
+    },
+    {
+      "i": 355,
+      "start": 2197.28,
+      "end": 2202.96,
+      "text": "movement is part of it. It is not acting for moving."
+    },
+    {
+      "i": 356,
+      "start": 2204.16,
+      "end": 2210.24,
+      "text": "There is no doership of the ocean or in the water to move as"
+    },
+    {
+      "i": 357,
+      "start": 2210.24,
+      "end": 2215.64,
+      "text": "waves. That is the nature of water in"
+    },
+    {
+      "i": 358,
+      "start": 2215.64,
+      "end": 2223.32,
+      "text": "the motion. Heat is not an action only if we"
+    },
+    {
+      "i": 359,
+      "start": 2223.32,
+      "end": 2227.64,
+      "text": "call it as an action. We feel it is separate if we"
+    },
+    {
+      "i": 360,
+      "start": 2227.8,
+      "end": 2232.44,
+      "text": "take it as a nature. The movement of water as a wave"
+    },
+    {
+      "i": 361,
+      "start": 2232.44,
+      "end": 2242.52,
+      "text": "is the nature of the water. It is not an activity when we"
+    },
+    {
+      "i": 362,
+      "start": 2242.52,
+      "end": 2249.44,
+      "text": "have that type of a approach to all our actions by the sense"
+    },
+    {
+      "i": 363,
+      "start": 2249.44,
+      "end": 2253.84,
+      "text": "organs of perception, sense organs of action, voluntary"
+    },
+    {
+      "i": 364,
+      "start": 2253.84,
+      "end": 2260.2,
+      "text": "involuntary actions actions does not adhere such a person."
+    },
+    {
+      "i": 365,
+      "start": 2263.8,
+      "end": 2270.2,
+      "text": "That is why this non adhesion is the nature of his like the"
+    },
+    {
+      "i": 366,
+      "start": 2270.2,
+      "end": 2275.16,
+      "text": "nature of the laughter's leaf arising from Sangam Tekta"
+    },
+    {
+      "i": 367,
+      "start": 2276.28,
+      "end": 2283.96,
+      "text": "Abramaniyadaai, not forced avoidance of action by some"
+    },
+    {
+      "i": 368,
+      "start": 2283.96,
+      "end": 2288.44,
+      "text": "people saying I will not touch coins, I will not touch other"
+    },
+    {
+      "i": 369,
+      "start": 2288.44,
+      "end": 2290.92,
+      "text": "things, I will not touch this thing, I will not touch that"
+    },
+    {
+      "i": 370,
+      "start": 2290.92,
+      "end": 2295.52,
+      "text": "thing, I will not see women, I will not see you know Chandala,"
+    },
+    {
+      "i": 371,
+      "start": 2295.52,
+      "end": 2299.24,
+      "text": "I will not see a lower caste. All these things are arising"
+    },
+    {
+      "i": 372,
+      "start": 2299.24,
+      "end": 2302.76,
+      "text": "from the foolishness of not seeing the Brahman in"
+    },
+    {
+      "i": 373,
+      "start": 2302.76,
+      "end": 2309.36,
+      "text": "everything. It is their foolishness."
+    },
+    {
+      "i": 374,
+      "start": 2313.56,
+      "end": 2318.28,
+      "text": "Sorry to say. There are such idiots who think"
+    },
+    {
+      "i": 375,
+      "start": 2318.28,
+      "end": 2324.24,
+      "text": "they are great masters and they are great pundits, or they are"
+    },
+    {
+      "i": 376,
+      "start": 2324.24,
+      "end": 2328.24,
+      "text": "great swavis or Sanya sins or yogis."
+    },
+    {
+      "i": 377,
+      "start": 2329.48,
+      "end": 2338.92,
+      "text": "If they cannot see Brahman in all, they are Kupamantura, like"
+    },
+    {
+      "i": 378,
+      "start": 2338.92,
+      "end": 2343.96,
+      "text": "a frog in a well. They have only seen what they"
+    },
+    {
+      "i": 379,
+      "start": 2343.96,
+      "end": 2347.84,
+      "text": "have learnt in from their teaching."
+    },
+    {
+      "i": 380,
+      "start": 2349.32,
+      "end": 2352.72,
+      "text": "They do not have a universal vision."
+    },
+    {
+      "i": 381,
+      "start": 2353.84,
+      "end": 2361.12,
+      "text": "They do not see the totality of consciousness, totality of"
+    },
+    {
+      "i": 382,
+      "start": 2361.12,
+      "end": 2371.6,
+      "text": "existence, totality of Brahman. So this Atmapattara Vivambasa is"
+    },
+    {
+      "i": 383,
+      "start": 2373.04,
+      "end": 2380.2,
+      "text": "not a small example. It is showing us a natural"
+    },
+    {
+      "i": 384,
+      "start": 2380.2,
+      "end": 2385.8,
+      "text": "consequence of an intrinsic nature, which is our true"
+    },
+    {
+      "i": 385,
+      "start": 2385.8,
+      "end": 2389.68,
+      "text": "nature. But when we forget about it,"
+    },
+    {
+      "i": 386,
+      "start": 2390.64,
+      "end": 2396.56,
+      "text": "when we identify with the individuality or with the name"
+    },
+    {
+      "i": 387,
+      "start": 2396.56,
+      "end": 2401.2,
+      "text": "fame, or the clut and the cast and the creed and the color and"
+    },
+    {
+      "i": 388,
+      "start": 2401.2,
+      "end": 2407.8,
+      "text": "the all type of differentiation between, see it, we are not in"
+    },
+    {
+      "i": 389,
+      "start": 2407.8,
+      "end": 2415.0,
+      "text": "our natural self. Only when we are naturally"
+    },
+    {
+      "i": 390,
+      "start": 2415.84,
+      "end": 2422.52,
+      "text": "oriented, we will be freed from the karma and the karma"
+    },
+    {
+      "i": 391,
+      "start": 2422.52,
+      "end": 2431.6,
+      "text": "samskara. The residue of actions so like a"
+    },
+    {
+      "i": 392,
+      "start": 2431.6,
+      "end": 2435.32,
+      "text": "Lotus leave which is not not tainted naturally."
+    },
+    {
+      "i": 393,
+      "start": 2437.52,
+      "end": 2442.4,
+      "text": "The naturalness of the inner orientation of the Karma Yogi or"
+    },
+    {
+      "i": 394,
+      "start": 2442.4,
+      "end": 2448.76,
+      "text": "Brahma, Karma Samadhi Yogi or Tatvatnyana from the"
+    },
+    {
+      "i": 395,
+      "start": 2448.76,
+      "end": 2452.8,
+      "text": "paramarthika level. Atman never needed to repel"
+    },
+    {
+      "i": 396,
+      "start": 2452.8,
+      "end": 2459.4,
+      "text": "karma because it was never in contact with karma to begin"
+    },
+    {
+      "i": 397,
+      "start": 2459.4,
+      "end": 2467.92,
+      "text": "with, just as the sky is never in contact with the clouds that"
+    },
+    {
+      "i": 398,
+      "start": 2467.92,
+      "end": 2471.4,
+      "text": "appear in it or the waves which appear in water."
+    },
+    {
+      "i": 399,
+      "start": 2474.0,
+      "end": 2480.4,
+      "text": "The Lotus example is thus A vyawaharika upama or simile"
+    },
+    {
+      "i": 400,
+      "start": 2480.68,
+      "end": 2484.56,
+      "text": "pointing towards the paramarthika truth of the"
+    },
+    {
+      "i": 401,
+      "start": 2484.56,
+      "end": 2491.8,
+      "text": "ultimate truth. Nalipya Re is Hartman's eternal"
+    },
+    {
+      "i": 402,
+      "start": 2491.8,
+      "end": 2495.0,
+      "text": "condition. It is not something to be"
+    },
+    {
+      "i": 403,
+      "start": 2495.0,
+      "end": 2499.56,
+      "text": "achieved, it is something to be realized."
+    },
+    {
+      "i": 404,
+      "start": 2501.76,
+      "end": 2504.16,
+      "text": "That is our true nature at this very moment."
+    },
+    {
+      "i": 405,
+      "start": 2505.12,
+      "end": 2510.32,
+      "text": "The Karma Yogi's practice merely reveals that what was all always"
+    },
+    {
+      "i": 406,
+      "start": 2510.32,
+      "end": 2520.08,
+      "text": "the cause. This 5.10 verse performs A"
+    },
+    {
+      "i": 407,
+      "start": 2520.08,
+      "end": 2524.16,
+      "text": "crucial pedagogical function in this chapter."
+    },
+    {
+      "i": 408,
+      "start": 2525.04,
+      "end": 2531.24,
+      "text": "It bridges the 2 levels Sattvatnayani's inner cognition"
+    },
+    {
+      "i": 409,
+      "start": 2532.52,
+      "end": 2536.64,
+      "text": "with a practical approach and path available for ordinary"
+    },
+    {
+      "i": 410,
+      "start": 2536.64,
+      "end": 2545.0,
+      "text": "spiritual aspirant who can become a Karma Yogi that knower"
+    },
+    {
+      "i": 411,
+      "start": 2545.0,
+      "end": 2547.76,
+      "text": "of real reality Tattvatnana Tattvat."
+    },
+    {
+      "i": 412,
+      "start": 2550.0,
+      "end": 2559.36,
+      "text": "He has an inner cognition where he is identifying himself as the"
+    },
+    {
+      "i": 413,
+      "start": 2559.36,
+      "end": 2565.92,
+      "text": "non doer Akartha which is the Paramarthika state actually and"
+    },
+    {
+      "i": 414,
+      "start": 2565.92,
+      "end": 2568.4,
+      "text": "he also achieves the Nan lipyate."
+    },
+    {
+      "i": 415,
+      "start": 2568.68,
+      "end": 2573.0,
+      "text": "He is not tainted by that action because his recognition is that"
+    },
+    {
+      "i": 416,
+      "start": 2573.6,
+      "end": 2578.52,
+      "text": "there is nothing. I am the hum Brahmasmi in the"
+    },
+    {
+      "i": 417,
+      "start": 2578.52,
+      "end": 2582.8,
+      "text": "Karma Yogi practitioner who is ordinary spiritual aspirant and"
+    },
+    {
+      "i": 418,
+      "start": 2582.8,
+      "end": 2586.16,
+      "text": "who has now learned to do the Brahma Karma samadhi."
+    },
+    {
+      "i": 419,
+      "start": 2587.2,
+      "end": 2593.2,
+      "text": "He does this brahmani adaya karodi his practical orientation"
+    },
+    {
+      "i": 420,
+      "start": 2593.2,
+      "end": 2598.28,
+      "text": "that all actions which he is doing, he is now not owning it."
+    },
+    {
+      "i": 421,
+      "start": 2600.72,
+      "end": 2604.64,
+      "text": "He is adhaya brahmani. He is offering it in"
+    },
+    {
+      "i": 422,
+      "start": 2604.64,
+      "end": 2609.56,
+      "text": "Brahmarpanu. It becomes the yoga bhumi for"
+    },
+    {
+      "i": 423,
+      "start": 2609.56,
+      "end": 2612.08,
+      "text": "him not at Nyanabhumi of a Tattvatnani."
+    },
+    {
+      "i": 424,
+      "start": 2614.4,
+      "end": 2619.84,
+      "text": "While the tattvatnani has developed or has the recognition"
+    },
+    {
+      "i": 425,
+      "start": 2619.84,
+      "end": 2626.52,
+      "text": "of the non doership Akarthatva. The karma Yogi need to practice"
+    },
+    {
+      "i": 426,
+      "start": 2626.52,
+      "end": 2632.96,
+      "text": "non attachment Sangam Yatva. He cannot hold on to Sangam"
+    },
+    {
+      "i": 427,
+      "start": 2634.28,
+      "end": 2639.76,
+      "text": "attachment. So at the Vyawar Harika level to"
+    },
+    {
+      "i": 428,
+      "start": 2639.76,
+      "end": 2643.8,
+      "text": "detach or to abandon the roots of action."
+    },
+    {
+      "i": 429,
+      "start": 2644.64,
+      "end": 2649.04,
+      "text": "Let actions be taken place have happen whatever it happens."
+    },
+    {
+      "i": 430,
+      "start": 2649.68,
+      "end": 2654.36,
+      "text": "I am neither the doer. Everything is being done because"
+    },
+    {
+      "i": 431,
+      "start": 2654.36,
+      "end": 2659.24,
+      "text": "of the nature of Brahman and I am not going to own the fruits"
+    },
+    {
+      "i": 432,
+      "start": 2659.24,
+      "end": 2661.4,
+      "text": "of action. I am not the doer, so there is"
+    },
+    {
+      "i": 433,
+      "start": 2661.4,
+      "end": 2665.96,
+      "text": "no fruits of action for me. The same fruit is available at"
+    },
+    {
+      "i": 434,
+      "start": 2665.96,
+      "end": 2670.88,
+      "text": "both levels. This is Krishna's extraordinary"
+    },
+    {
+      "i": 435,
+      "start": 2670.88,
+      "end": 2675.44,
+      "text": "pedagogical generosity which Sagrachya carefully accepts it."
+    },
+    {
+      "i": 436,
+      "start": 2678.72,
+      "end": 2684.84,
+      "text": "But he maintains that the Ajkari Viveka is different between a"
+    },
+    {
+      "i": 437,
+      "start": 2684.84,
+      "end": 2691.84,
+      "text": "Nyani and a Karma Yogi. So is the karma Yogi also can"
+    },
+    {
+      "i": 438,
+      "start": 2691.84,
+      "end": 2694.48,
+      "text": "reach the through proper practice."
+    },
+    {
+      "i": 439,
+      "start": 2695.68,
+      "end": 2701.72,
+      "text": "Through sincere karma Yogi. He also lands up in the Nali Pya"
+    },
+    {
+      "i": 440,
+      "start": 2701.72,
+      "end": 2706.52,
+      "text": "Dev. So the Brahmani Adaya."
+    },
+    {
+      "i": 441,
+      "start": 2706.72,
+      "end": 2710.6,
+      "text": "Both absence are acceptable from Sankaracharya's point of view,"
+    },
+    {
+      "i": 442,
+      "start": 2711.16,
+      "end": 2715.44,
+      "text": "either from the Paramarthika level of Brahma, Narguna Brahma"
+    },
+    {
+      "i": 443,
+      "start": 2715.88,
+      "end": 2719.88,
+      "text": "or at the Saguna level of Ishirarapana the."
+    },
+    {
+      "i": 444,
+      "start": 2719.88,
+      "end": 2724.28,
+      "text": "Ishirarapana Buddhi Foundation. Of Karma yoga, which is for the"
+    },
+    {
+      "i": 445,
+      "start": 2724.28,
+      "end": 2728.4,
+      "text": "Saguna Upasana it. Purifies Dantakarana."
+    },
+    {
+      "i": 446,
+      "start": 2728.4,
+      "end": 2735.8,
+      "text": "Gradually and redirecting the ego's claim from mine to"
+    },
+    {
+      "i": 447,
+      "start": 2736.12,
+      "end": 2741.32,
+      "text": "Brahmani to Isuras that. Is the Chitta shuddhi when?"
+    },
+    {
+      "i": 448,
+      "start": 2741.32,
+      "end": 2748.8,
+      "text": "It happens in the Vivekat, in the Tyani, who has not yet"
+    },
+    {
+      "i": 449,
+      "start": 2750.12,
+      "end": 2755.6,
+      "text": "actualized it or realized it. But he has got the."
+    },
+    {
+      "i": 450,
+      "start": 2755.6,
+      "end": 2762.72,
+      "text": "Sakshi attitude. The Atman as a substratum."
+    },
+    {
+      "i": 451,
+      "start": 2762.72,
+      "end": 2769.72,
+      "text": "Within which all actions occur, he sees as a Sakshi as the"
+    },
+    {
+      "i": 452,
+      "start": 2769.72,
+      "end": 2771.4,
+      "text": "three. States of awareness and."
+    },
+    {
+      "i": 453,
+      "start": 2771.4,
+      "end": 2777.24,
+      "text": "Activities going on, therefore he adhaya, adhaya he."
+    },
+    {
+      "i": 454,
+      "start": 2777.76,
+      "end": 2781.68,
+      "text": "He already understands that these are all taking place in"
+    },
+    {
+      "i": 455,
+      "start": 2781.68,
+      "end": 2786.8,
+      "text": "Brahman. But."
+    },
+    {
+      "i": 456,
+      "start": 2788.48,
+      "end": 2794.6,
+      "text": "The Sakshitva is not a full recognition of I am also a"
+    },
+    {
+      "i": 457,
+      "start": 2794.6,
+      "end": 2798.08,
+      "text": "Brahman. Not that."
+    },
+    {
+      "i": 458,
+      "start": 2798.76,
+      "end": 2804.12,
+      "text": "That Aham Brahmasmi is. The reason why?"
+    },
+    {
+      "i": 459,
+      "start": 2805.36,
+      "end": 2808.24,
+      "text": "These actions are also happening in the jagrat."
+    },
+    {
+      "i": 460,
+      "start": 2808.24,
+      "end": 2816.76,
+      "text": "Swapnasushuti is happening in the same substratum of"
+    },
+    {
+      "i": 461,
+      "start": 2816.76,
+      "end": 2822.16,
+      "text": "consciousness in which the Sakshi is also established."
+    },
+    {
+      "i": 462,
+      "start": 2824.6,
+      "end": 2828.72,
+      "text": "So the Sakshi the. Jagrat the swapna the sushruti"
+    },
+    {
+      "i": 463,
+      "start": 2829.48,
+      "end": 2832.12,
+      "text": "Chaturthamanyan desaat Masavitne Yaha."
+    },
+    {
+      "i": 464,
+      "start": 2834.16,
+      "end": 2839.36,
+      "text": "Is not separate. That is what the Tattvatnani."
+    },
+    {
+      "i": 465,
+      "start": 2839.68,
+      "end": 2845.6,
+      "text": "The Tattvit who now sees. Only the Nirguna Brahman."
+    },
+    {
+      "i": 466,
+      "start": 2847.2,
+      "end": 2852.12,
+      "text": "As His own Atman, the recognition that action has"
+    },
+    {
+      "i": 467,
+      "start": 2852.12,
+      "end": 2856.64,
+      "text": "never departed from Brahman, that is even."
+    },
+    {
+      "i": 468,
+      "start": 2856.64,
+      "end": 2860.36,
+      "text": "While the movement of the. Clouds in the sky It is still in"
+    },
+    {
+      "i": 469,
+      "start": 2860.36,
+      "end": 2864.36,
+      "text": "the space only or the. Water moving in the."
+    },
+    {
+      "i": 470,
+      "start": 2865.16,
+      "end": 2869.12,
+      "text": "Shores as waves is not separate from the ocean."
+    },
+    {
+      "i": 471,
+      "start": 2871.48,
+      "end": 2875.8,
+      "text": "That the apparent agency. Or the activity."
+    },
+    {
+      "i": 472,
+      "start": 2879.64,
+      "end": 2883.52,
+      "text": "Is the ground. Were Brahman or the"
+    },
+    {
+      "i": 473,
+      "start": 2883.52,
+      "end": 2888.72,
+      "text": "consciousness is always there, this full paramartic"
+    },
+    {
+      "i": 474,
+      "start": 2888.72,
+      "end": 2895.92,
+      "text": "understanding, that which at which the point of Adhaya is not"
+    },
+    {
+      "i": 475,
+      "start": 2895.92,
+      "end": 2899.28,
+      "text": "an act, he is no. More acting."
+    },
+    {
+      "i": 476,
+      "start": 2899.28,
+      "end": 2904.92,
+      "text": "At for placing it in Brahman. But it is a recognition that it"
+    },
+    {
+      "i": 477,
+      "start": 2904.92,
+      "end": 2907.08,
+      "text": "is already happening in that Brahman."
+    },
+    {
+      "i": 478,
+      "start": 2907.92,
+      "end": 2910.04,
+      "text": "Other than Brahman it cannot happen."
+    },
+    {
+      "i": 479,
+      "start": 2910.68,
+      "end": 2912.64,
+      "text": "There is no action which is possible."
+    },
+    {
+      "i": 480,
+      "start": 2913.28,
+      "end": 2916.12,
+      "text": "No movement. Space acts possible without"
+    },
+    {
+      "i": 481,
+      "start": 2916.12,
+      "end": 2919.28,
+      "text": "space. No movement of waves can arrive"
+    },
+    {
+      "i": 482,
+      "start": 2919.28,
+      "end": 2923.64,
+      "text": "without the ocean. So at all the three."
+    },
+    {
+      "i": 483,
+      "start": 2923.64,
+      "end": 2930.28,
+      "text": "Tires as a Karmayogi, A Tyanai, or a Sakshi or a Tattvatnani."
+    },
+    {
+      "i": 484,
+      "start": 2931.2,
+      "end": 2936.08,
+      "text": "All three produce nullipyade at their respective levels."
+    },
+    {
+      "i": 485,
+      "start": 2938.64,
+      "end": 2943.36,
+      "text": "Is the freedom. Which is not going."
+    },
+    {
+      "i": 486,
+      "start": 2943.36,
+      "end": 2948.16,
+      "text": "To bind them back. To the ignorance all."
+    },
+    {
+      "i": 487,
+      "start": 2948.16,
+      "end": 2950.6,
+      "text": "Of the all the three. Are pointing towards the same"
+    },
+    {
+      "i": 488,
+      "start": 2950.92,
+      "end": 2957.68,
+      "text": "Brahman Eka Tattva. Therefore."
+    },
+    {
+      "i": 489,
+      "start": 2958.24,
+      "end": 2965.72,
+      "text": "That knowledge is the reason why he becomes Sangam Depta."
+    },
+    {
+      "i": 490,
+      "start": 2968.36,
+      "end": 2972.32,
+      "text": "He knows that actions cannot. Bind it is not."
+    },
+    {
+      "i": 491,
+      "start": 2972.32,
+      "end": 2975.92,
+      "text": "That he's. Abandoning actions and fruits of"
+    },
+    {
+      "i": 492,
+      "start": 2975.92,
+      "end": 2981.04,
+      "text": "action. The knowledge of everything is"
+    },
+    {
+      "i": 493,
+      "start": 2981.04,
+      "end": 2984.88,
+      "text": "happening in Brahman. Therefore actions do not"
+    },
+    {
+      "i": 494,
+      "start": 2984.88,
+      "end": 2990.92,
+      "text": "binding. I am not brahmani adhaya karmani"
+    },
+    {
+      "i": 495,
+      "start": 2990.96,
+      "end": 2999.96,
+      "text": "all actions in gramman the. Sangam Tattva when he."
+    },
+    {
+      "i": 496,
+      "start": 2999.96,
+      "end": 3003.88,
+      "text": "Is seeing that there is no possibility for Sangha."
+    },
+    {
+      "i": 497,
+      "start": 3006.6,
+      "end": 3010.48,
+      "text": "Because it is the nature. In which things are happening, I"
+    },
+    {
+      "i": 498,
+      "start": 3010.48,
+      "end": 3013.52,
+      "text": "can neither own the action nor the fruits of action."
+    },
+    {
+      "i": 499,
+      "start": 3013.72,
+      "end": 3017.96,
+      "text": "It was my ignorance which felt to me to feel that I do the"
+    },
+    {
+      "i": 500,
+      "start": 3017.96,
+      "end": 3021.04,
+      "text": "actions and therefore the fruits of action are mine."
+    },
+    {
+      "i": 501,
+      "start": 3021.88,
+      "end": 3027.08,
+      "text": "I am not separate from the room, so the entire."
+    },
+    {
+      "i": 502,
+      "start": 3027.08,
+      "end": 3029.92,
+      "text": "Mechanism of. Karma Banda operates through"
+    },
+    {
+      "i": 503,
+      "start": 3029.92,
+      "end": 3033.44,
+      "text": "Sangha in the ignorance of the sense of ownership."
+    },
+    {
+      "i": 504,
+      "start": 3035.96,
+      "end": 3040.8,
+      "text": "Only when we identify. Ourselves as Padma Bhatra was"
+    },
+    {
+      "i": 505,
+      "start": 3040.8,
+      "end": 3046.04,
+      "text": "the Lotus leaf. We are born in Brahman."
+    },
+    {
+      "i": 506,
+      "start": 3046.44,
+      "end": 3048.96,
+      "text": "We become, we are living as Brahman."
+    },
+    {
+      "i": 507,
+      "start": 3049.76,
+      "end": 3055.92,
+      "text": "We are surrounded by Brahman. Actions are Brahmins, The fruits"
+    },
+    {
+      "i": 508,
+      "start": 3055.92,
+      "end": 3059.84,
+      "text": "of actions are Brahmins. There is nothing which is mine"
+    },
+    {
+      "i": 509,
+      "start": 3059.84,
+      "end": 3062.12,
+      "text": "or EIN. I cannot be separate from"
+    },
+    {
+      "i": 510,
+      "start": 3062.12,
+      "end": 3064.4,
+      "text": "Brahman. That is."
+    },
+    {
+      "i": 511,
+      "start": 3064.56,
+      "end": 3067.68,
+      "text": "The Lotus. Leaf born out of the water,"
+    },
+    {
+      "i": 512,
+      "start": 3067.76,
+      "end": 3072.24,
+      "text": "living in water but yet untouched by whatever is"
+    },
+    {
+      "i": 513,
+      "start": 3072.24,
+      "end": 3076.84,
+      "text": "happening in the water. It appears to be separate from"
+    },
+    {
+      "i": 514,
+      "start": 3076.84,
+      "end": 3081.2,
+      "text": "the water, but its existence itself is depending upon the"
+    },
+    {
+      "i": 515,
+      "start": 3081.2,
+      "end": 3086.48,
+      "text": "same water. This same example of Patnapatra"
+    },
+    {
+      "i": 516,
+      "start": 3086.48,
+      "end": 3089.96,
+      "text": "is there in Vivek Chutamani Jeevan."
+    },
+    {
+      "i": 517,
+      "start": 3089.96,
+      "end": 3092.8,
+      "text": "Mukta moves through the world. Like a Lotus water in Word"
+    },
+    {
+      "i": 518,
+      "start": 3092.88,
+      "end": 3097.68,
+      "text": "untouched in the yoga vasistha. It is there, Jaleena."
+    },
+    {
+      "i": 519,
+      "start": 3097.68,
+      "end": 3101.96,
+      "text": "Patnapatdalam. Nalipyate liberated sage in the"
+    },
+    {
+      "i": 520,
+      "start": 3101.96,
+      "end": 3106.84,
+      "text": "Yogava system, even in Dastavakara Gita, the Nyani."
+    },
+    {
+      "i": 521,
+      "start": 3106.84,
+      "end": 3109.72,
+      "text": "'S natural non. Adhesion to experience is"
+    },
+    {
+      "i": 522,
+      "start": 3110.16,
+      "end": 3116.12,
+      "text": "exampled by the Lotus leaf. In all these contexts the simile"
+    },
+    {
+      "i": 523,
+      "start": 3116.12,
+      "end": 3118.16,
+      "text": "carries the same advaitic weight."
+    },
+    {
+      "i": 524,
+      "start": 3118.92,
+      "end": 3124.64,
+      "text": "Non adhesion is not achieved by avoidance but by recognition of"
+    },
+    {
+      "i": 525,
+      "start": 3124.64,
+      "end": 3131.2,
+      "text": "the intrinsic asangatva. Of the nature of Hathman."
+    },
+    {
+      "i": 526,
+      "start": 3131.6,
+      "end": 3135.56,
+      "text": "Which is eternal, natural, effortless non contact with all"
+    },
+    {
+      "i": 527,
+      "start": 3135.56,
+      "end": 3142.04,
+      "text": "that appears. The bhasya is very."
+    },
+    {
+      "i": 528,
+      "start": 3142.04,
+      "end": 3145.16,
+      "text": "Simple which I have already. Covered in my."
+    },
+    {
+      "i": 529,
+      "start": 3145.16,
+      "end": 3147.52,
+      "text": "Explanation. So I will read and translate it."
+    },
+    {
+      "i": 530,
+      "start": 3148.32,
+      "end": 3153.08,
+      "text": "Brahmani ishvari adaya Nikshibya sadhartham karma karomi"
+    },
+    {
+      "i": 531,
+      "start": 3153.08,
+      "end": 3158.52,
+      "text": "idhibritya IVA samyartyam Sarvani karmani."
+    },
+    {
+      "i": 532,
+      "start": 3160.64,
+      "end": 3162.48,
+      "text": "Placing or offering all actions in."
+    },
+    {
+      "i": 533,
+      "start": 3162.48,
+      "end": 3167.4,
+      "text": "Brahman in Ishara and thinking I am, I perform actions for his"
+    },
+    {
+      "i": 534,
+      "start": 3167.4,
+      "end": 3173.12,
+      "text": "sake, like a servant Brittyavat for the sake of the martyr."
+    },
+    {
+      "i": 535,
+      "start": 3173.2,
+      "end": 3176.92,
+      "text": "He performs all actions. This is the Ishara Saguno Patna"
+    },
+    {
+      "i": 536,
+      "start": 3178.44,
+      "end": 3180.2,
+      "text": "Mokshayapi. Palam Sangam."
+    },
+    {
+      "i": 537,
+      "start": 3180.2,
+      "end": 3185.04,
+      "text": "Tetua Karothi ha Sarvakarmani, he who performs all actions,"
+    },
+    {
+      "i": 538,
+      "start": 3185.04,
+      "end": 3188.36,
+      "text": "having abandoned attachment even to the fruits of liberation."
+    },
+    {
+      "i": 539,
+      "start": 3189.84,
+      "end": 3191.84,
+      "text": "Nalipya. De Slippya de NASA."
+    },
+    {
+      "i": 540,
+      "start": 3191.84,
+      "end": 3198.56,
+      "text": "Papena nasamban de de padma patra vivambasa udagaina he is"
+    },
+    {
+      "i": 541,
+      "start": 3198.56,
+      "end": 3200.08,
+      "text": "not. Tainted by the sin."
+    },
+    {
+      "i": 542,
+      "start": 3200.28,
+      "end": 3204.6,
+      "text": "He is not bound just as a Lotus. Leaf not wetted."
+    },
+    {
+      "i": 543,
+      "start": 3204.6,
+      "end": 3210.48,
+      "text": "By water kevalam Satya suddhi matram ewa kalam pasya karmanaha"
+    },
+    {
+      "i": 544,
+      "start": 3210.48,
+      "end": 3214.0,
+      "text": "syad. For him, the only result action"
+    },
+    {
+      "i": 545,
+      "start": 3214.0,
+      "end": 3216.72,
+      "text": "is purification of the mind by Satyaguna."
+    },
+    {
+      "i": 546,
+      "start": 3220.32,
+      "end": 3224.96,
+      "text": "Now he is Krishna. Is going to the three levels of"
+    },
+    {
+      "i": 547,
+      "start": 3224.96,
+      "end": 3228.28,
+      "text": "activity. Kayana Manasa Buddhya Kevali"
+    },
+    {
+      "i": 548,
+      "start": 3228.28,
+      "end": 3233.04,
+      "text": "Indriya Rabi Yogi Naha Karma Kuruvandi Sangam Tektva Atma"
+    },
+    {
+      "i": 549,
+      "start": 3233.04,
+      "end": 3237.16,
+      "text": "Suddhaya. How does a karma Yogi come to"
+    },
+    {
+      "i": 550,
+      "start": 3237.16,
+      "end": 3240.12,
+      "text": "the level of Brahma? Karma Samadhi is explained in"
+    },
+    {
+      "i": 551,
+      "start": 3240.12,
+      "end": 3244.08,
+      "text": "the 11th verse. We will see that in tomorrow's."
+    },
+    {
+      "i": 552,
+      "start": 3244.44,
+      "end": 3255.44,
+      "text": "Monday's Monday no. Tuesday's class next Tuesday."
+    },
+    {
+      "i": 553,
+      "start": 3263.2,
+      "end": 3266.96,
+      "text": "Thank you. Thank you very."
+    },
+    {
+      "i": 554,
+      "start": 3282.87,
+      "end": 3287.43,
+      "text": "Much Pindarji, I've opened the. Chat and hand raising for any"
+    },
+    {
+      "i": 555,
+      "start": 3287.43,
+      "end": 3289.31,
+      "text": "follow up questions or discussions."
+    },
+    {
+      "i": 556,
+      "start": 3305.92,
+      "end": 3307.76,
+      "text": "I hope Shrini, you heard yesterday's."
+    },
+    {
+      "i": 557,
+      "start": 3308.52,
+      "end": 3313.44,
+      "text": "Class. That that would have made a"
+    },
+    {
+      "i": 558,
+      "start": 3313.44,
+      "end": 3314.6,
+      "text": "connection to. Today's."
+    },
+    {
+      "i": 559,
+      "start": 3318.72,
+      "end": 3323.24,
+      "text": "Venkat was there. Yesterday, yeah, Revathi did not"
+    },
+    {
+      "i": 560,
+      "start": 3323.24,
+      "end": 3330.37,
+      "text": "come. OK."
+    },
+    {
+      "i": 561,
+      "start": 3330.77,
+      "end": 3333.93,
+      "text": "Then we'll meet on. Tuesday continuing the 11th"
+    },
+    {
+      "i": 562,
+      "start": 3333.93,
+      "end": 3337.77,
+      "text": "verse onwards. There are only 19 verses more"
+    },
+    {
+      "i": 563,
+      "start": 3337.77,
+      "end": 3343.16,
+      "text": "left in the 5th chapter. I'll complete the 19 verses and"
+    },
+    {
+      "i": 564,
+      "start": 3343.16,
+      "end": 3346.92,
+      "text": "then take a break. I'll start the 6th chapter when"
+    },
+    {
+      "i": 565,
+      "start": 3346.92,
+      "end": 3356.04,
+      "text": "I come back to India. Thank you."
+    },
+    {
+      "i": 566,
+      "start": 3358.04,
+      "end": 3363.72,
+      "text": "I'm misheard the message of like I thought alternative days"
+    },
+    {
+      "i": 567,
+      "start": 3363.88,
+      "end": 3369.04,
+      "text": "Tuesday. Then when you posted on."
+    },
+    {
+      "i": 568,
+      "start": 3369.2,
+      "end": 3375.52,
+      "text": "YouTube the intimation comes then I surprised why the fresh"
+    },
+    {
+      "i": 569,
+      "start": 3377.2,
+      "end": 3380.68,
+      "text": "like fresh episode is coming then I went to."
+    },
+    {
+      "i": 570,
+      "start": 3382.68,
+      "end": 3386.72,
+      "text": "Sorry, yesterday. I heard, I heard."
+    },
+    {
+      "i": 571,
+      "start": 3386.88,
+      "end": 3388.36,
+      "text": "Only half. Of that I had."
+    },
+    {
+      "i": 572,
+      "start": 3390.12,
+      "end": 3396.6,
+      "text": "OK Bindaji, the eye is. Shifting to the the Jivatmas eye"
+    },
+    {
+      "i": 573,
+      "start": 3396.6,
+      "end": 3402.48,
+      "text": "the Adyasa is shifting to now. From."
+    },
+    {
+      "i": 574,
+      "start": 3402.6,
+      "end": 3410.12,
+      "text": "You know the where he is. Thinking that I I."
+    },
+    {
+      "i": 575,
+      "start": 3411.12,
+      "end": 3414.72,
+      "text": "Yes, that is the. That is the Sangam which is we"
+    },
+    {
+      "i": 576,
+      "start": 3414.72,
+      "end": 3420.28,
+      "text": "are all having the attachment to the I Ness the."
+    },
+    {
+      "i": 577,
+      "start": 3420.28,
+      "end": 3424.04,
+      "text": "I feeling when. The Sangam Tekta when we are not"
+    },
+    {
+      "i": 578,
+      "start": 3424.04,
+      "end": 3428.08,
+      "text": "even getting attached to the actions or fruits of actions,"
+    },
+    {
+      "i": 579,
+      "start": 3428.52,
+      "end": 3434.24,
+      "text": "then who is there to say I? All our individuality is."
+    },
+    {
+      "i": 580,
+      "start": 3434.24,
+      "end": 3437.96,
+      "text": "Based on the actions, no. And that is why the."
+    },
+    {
+      "i": 581,
+      "start": 3437.96,
+      "end": 3442.6,
+      "text": "List of actions have been. Given by Krishnas questions."
+    },
+    {
+      "i": 582,
+      "start": 3442.6,
+      "end": 3445.32,
+      "text": "From Nun. UN mission emission."
+    },
+    {
+      "i": 583,
+      "start": 3445.76,
+      "end": 3449.4,
+      "text": "All of them from seeing to batting of eyelids."
+    },
+    {
+      "i": 584,
+      "start": 3449.8,
+      "end": 3455.08,
+      "text": "All actions based on the I am the doer when they are not."
+    },
+    {
+      "i": 585,
+      "start": 3455.08,
+      "end": 3457.24,
+      "text": "My I am not the. Doer I am not."
+    },
+    {
+      "i": 586,
+      "start": 3457.24,
+      "end": 3463.12,
+      "text": "They are all natural appearances in Brahman, that is we."
+    },
+    {
+      "i": 587,
+      "start": 3463.12,
+      "end": 3464.0,
+      "text": "We have. We will be."
+    },
+    {
+      "i": 588,
+      "start": 3464.0,
+      "end": 3468.56,
+      "text": "Able to under identify that only when we see that you know the"
+    },
+    {
+      "i": 589,
+      "start": 3468.56,
+      "end": 3472.52,
+      "text": "jagrat swapna Susukthi is an appearance in consciousness."
+    },
+    {
+      "i": 590,
+      "start": 3474.96,
+      "end": 3478.24,
+      "text": "And when we accept that as the. Jagrat Swapna Susruti as"
+    },
+    {
+      "i": 591,
+      "start": 3478.24,
+      "end": 3484.44,
+      "text": "appearance in consciousness. All activities within them."
+    },
+    {
+      "i": 592,
+      "start": 3485.12,
+      "end": 3489.08,
+      "text": "Whether it is jagrat or Swapna is also in the same"
+    },
+    {
+      "i": 593,
+      "start": 3489.08,
+      "end": 3493.12,
+      "text": "consciousness, only it is. The substratum what we are."
+    },
+    {
+      "i": 594,
+      "start": 3493.12,
+      "end": 3496.64,
+      "text": "Talking about and the nature in which this is the nature of"
+    },
+    {
+      "i": 595,
+      "start": 3497.68,
+      "end": 3501.36,
+      "text": "consciousness to appear as a human being or an animal or a"
+    },
+    {
+      "i": 596,
+      "start": 3501.8,
+      "end": 3507.88,
+      "text": "tree in the waking or in the dream or in the deep sleep."
+    },
+    {
+      "i": 597,
+      "start": 3509.88,
+      "end": 3517.92,
+      "text": "Therefore, we are not separate individual entities, we are"
+    },
+    {
+      "i": 598,
+      "start": 3517.92,
+      "end": 3519.4,
+      "text": "also. Consciousness same."
+    },
+    {
+      "i": 599,
+      "start": 3519.4,
+      "end": 3523.96,
+      "text": "Consciousness were the tree or the dog, or the mountain, or the"
+    },
+    {
+      "i": 600,
+      "start": 3524.2,
+      "end": 3528.16,
+      "text": "stars which are appearing. To be having."
+    },
+    {
+      "i": 601,
+      "start": 3528.16,
+      "end": 3532.24,
+      "text": "Separate entity that is because. We."
+    },
+    {
+      "i": 602,
+      "start": 3532.56,
+      "end": 3536.64,
+      "text": "Separate out from others and then there's separation between"
+    },
+    {
+      "i": 603,
+      "start": 3536.64,
+      "end": 3540.04,
+      "text": "the eye and them, or the eye the subject."
+    },
+    {
+      "i": 604,
+      "start": 3540.16,
+      "end": 3544.16,
+      "text": "Everything else becomes the object when I am doing that"
+    },
+    {
+      "i": 605,
+      "start": 3544.52,
+      "end": 3549.08,
+      "text": "detachment. When I when I know consciously"
+    },
+    {
+      "i": 606,
+      "start": 3549.44,
+      "end": 3553.16,
+      "text": "that everything is happening in consciousness, that is when I am"
+    },
+    {
+      "i": 607,
+      "start": 3553.48,
+      "end": 3557.88,
+      "text": "placing everything as activity of consciousness, that is the"
+    },
+    {
+      "i": 608,
+      "start": 3557.88,
+      "end": 3562.48,
+      "text": "Brahmaniyadhaya. And when I do that, there is no"
+    },
+    {
+      "i": 609,
+      "start": 3563.4,
+      "end": 3566.84,
+      "text": "ownership for the actions. Therefore there is no fruits of"
+    },
+    {
+      "i": 610,
+      "start": 3566.84,
+      "end": 3569.8,
+      "text": "action which I can own that it is mine because I am not"
+    },
+    {
+      "i": 611,
+      "start": 3569.8,
+      "end": 3572.96,
+      "text": "separate. Therefore the separatedness"
+    },
+    {
+      "i": 612,
+      "start": 3573.12,
+      "end": 3578.4,
+      "text": "dissolves, and when the separated man dissolves is the"
+    },
+    {
+      "i": 613,
+      "start": 3578.44,
+      "end": 3581.32,
+      "text": "only time when we know what is our true nature."
+    },
+    {
+      "i": 614,
+      "start": 3581.84,
+      "end": 3585.4,
+      "text": "That doesn't stop us from experiencing the Waker or the"
+    },
+    {
+      "i": 615,
+      "start": 3585.4,
+      "end": 3590.24,
+      "text": "dreamer or the dream sleeper that can continue know it as"
+    },
+    {
+      "i": 616,
+      "start": 3591.48,
+      "end": 3597.04,
+      "text": "effect of consciousness. Then there is no."
+    },
+    {
+      "i": 617,
+      "start": 3597.04,
+      "end": 3604.64,
+      "text": "Ownership for those activities. Yes, Bindaji, thank you."
+    },
+    {
+      "i": 618,
+      "start": 3604.88,
+      "end": 3607.0,
+      "text": "Thank you. Thank you, David."
+    },
+    {
+      "i": 619,
+      "start": 3608.2,
+      "end": 3610.32,
+      "text": "Just a. Moment because."
+    },
+    {
+      "i": 620,
+      "start": 3610.32,
+      "end": 3614.32,
+      "text": "Of what Riverte said about the schedule, I think we should just"
+    },
+    {
+      "i": 621,
+      "start": 3614.32,
+      "end": 3618.0,
+      "text": "remember perhaps that last week was a different schedule and"
+    },
+    {
+      "i": 622,
+      "start": 3618.0,
+      "end": 3621.08,
+      "text": "only two days. This week was a different"
+    },
+    {
+      "i": 623,
+      "start": 3621.08,
+      "end": 3624.84,
+      "text": "schedule and I really think it takes people on Clubhouse a"
+    },
+    {
+      "i": 624,
+      "start": 3624.84,
+      "end": 3628.36,
+      "text": "while to even figure out when rooms are going to occur, so it"
+    },
+    {
+      "i": 625,
+      "start": 3628.36,
+      "end": 3632.96,
+      "text": "might be good also to reannounce."
+    },
+    {
+      "i": 626,
+      "start": 3632.96,
+      "end": 3636.16,
+      "text": "That for some of the. Replays so that you know, and"
+    },
+    {
+      "i": 627,
+      "start": 3636.16,
+      "end": 3638.52,
+      "text": "the rooms for replay, so the one people listen to the replay,"
+    },
+    {
+      "i": 628,
+      "start": 3638.52,
+      "end": 3642.16,
+      "text": "they catch on. But I think if you give it a try"
+    },
+    {
+      "i": 629,
+      "start": 3642.16,
+      "end": 3645.92,
+      "text": "for a couple weeks on a regular schedule, that'll really help."
+    },
+    {
+      "i": 630,
+      "start": 3647.4,
+      "end": 3648.32,
+      "text": "And it was a great. Room."
+    },
+    {
+      "i": 631,
+      "start": 3648.32,
+      "end": 3651.32,
+      "text": "Thanks Bindo. Thank you."
+    },
+    {
+      "i": 632,
+      "start": 3651.32,
+      "end": 3658.32,
+      "text": "Atomicia Prakash, yes. Mindoji."
+    },
+    {
+      "i": 633,
+      "start": 3658.32,
+      "end": 3661.2,
+      "text": "So the schedule. Like Artemisia reminded us, the"
+    },
+    {
+      "i": 634,
+      "start": 3661.24,
+      "end": 3666.8,
+      "text": "schedule has changed, so from here onwards."
+    },
+    {
+      "i": 635,
+      "start": 3666.8,
+      "end": 3670.16,
+      "text": "We are going to be. Meeting Tuesday."
+    },
+    {
+      "i": 636,
+      "start": 3670.16,
+      "end": 3671.32,
+      "text": "Wednesday. Thursday."
+    },
+    {
+      "i": 637,
+      "start": 3671.48,
+      "end": 3680.32,
+      "text": "Consecutive days at 6:30 AMI St. And that's the schedule we are"
+    },
+    {
+      "i": 638,
+      "start": 3680.32,
+      "end": 3685.88,
+      "text": "planning to follow in a more going forward until I think we"
+    },
+    {
+      "i": 639,
+      "start": 3685.88,
+      "end": 3687.32,
+      "text": "finished. Chapter 5 or."
+    },
+    {
+      "i": 640,
+      "start": 3687.32,
+      "end": 3693.4,
+      "text": "When Binduji decides that he wants to take a break and."
+    },
+    {
+      "i": 641,
+      "start": 3693.64,
+      "end": 3698.28,
+      "text": "On that note, thanks everyone. For coming and the replays are"
+    },
+    {
+      "i": 642,
+      "start": 3698.28,
+      "end": 3701.28,
+      "text": "available in clubhouse or you can go to the links shared in"
+    },
+    {
+      "i": 643,
+      "start": 3701.28,
+      "end": 3704.88,
+      "text": "the chat. One is YouTube channel Advaita"
+    },
+    {
+      "i": 644,
+      "start": 3704.88,
+      "end": 3709.2,
+      "text": "Retold. There are also channels on Apple"
+    },
+    {
+      "i": 645,
+      "start": 3709.2,
+      "end": 3710.84,
+      "text": "Podcasts. And Spotify where?"
+    },
+    {
+      "i": 646,
+      "start": 3710.84,
+      "end": 3715.36,
+      "text": "You can access these talks and as always, there's a book now"
+    },
+    {
+      "i": 647,
+      "start": 3715.36,
+      "end": 3719.52,
+      "text": "available done by Artemisia. The title is Imaginary Door,"
+    },
+    {
+      "i": 648,
+      "start": 3720.48,
+      "end": 3724.76,
+      "text": "which has, you know, presented the key insights from the"
+    },
+    {
+      "i": 649,
+      "start": 3724.76,
+      "end": 3728.08,
+      "text": "Advaita perspective offered by Binduji, available on Amazon."
+    },
+    {
+      "i": 650,
+      "start": 3729.64,
+      "end": 3731.2,
+      "text": "So our next. Class will be."
+    },
+    {
+      "i": 651,
+      "start": 3731.72,
+      "end": 3738.04,
+      "text": "Following on on the coming Tuesday, the next Tuesday at"
+    },
+    {
+      "i": 652,
+      "start": 3738.36,
+      "end": 3739.84,
+      "text": "6:30. AM, ISD."
+    },
+    {
+      "i": 653,
+      "start": 3740.2,
+      "end": 3742.2,
+      "text": "Over to you, Binduji, to close the room."
+    },
+    {
+      "i": 654,
+      "start": 3743.48,
+      "end": 3745.36,
+      "text": "Thank you, Prakash. Thank you, Atmisha."
+    },
+    {
+      "i": 655,
+      "start": 3745.36,
+      "end": 3747.72,
+      "text": "Thank you, Revathi and thank you all of you."
+    },
+    {
+      "i": 656,
+      "start": 3748.52,
+      "end": 3754.0,
+      "text": "We will meet again on next Tuesday, 6:30 AM Indian time."
+    },
+    {
+      "i": 657,
+      "start": 3755.8,
+      "end": 3758.72,
+      "text": "Until then, have a nice day. Great day."
+    },
+    {
+      "i": 658,
+      "start": 3759.12,
+      "end": 3762.68,
+      "text": "Thank you, Aryo. Aryo, thank you."
+    }
+  ]
+}

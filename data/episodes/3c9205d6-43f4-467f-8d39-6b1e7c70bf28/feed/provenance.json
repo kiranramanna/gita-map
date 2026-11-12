@@ -1,0 +1,23 @@
+{
+  "schema": "feed-transcript/v1",
+  "guid": "3c9205d6-43f4-467f-8d39-6b1e7c70bf28",
+  "title": "Ch04-32-Shrimad Bhagavad Gita",
+  "pubDate": "Fri, 08 May 2026 23:57:25 GMT",
+  "duration": "01:18:34",
+  "description": "Shrimad Bhagavad Gita Chapter 04 verses 40 & 41",
+  "link": "https://podcasters.spotify.com/pod/show/aurobind76/episodes/Ch04-32-Shrimad-Bhagavad-Gita-e3j3vl8",
+  "transcript_url": "https://transcript-files.spotifycdn.com/3yrGB24GlIFA3KV80or6st/2BLsVfqtgxMSWFp0gUv7op/transcript.srt",
+  "fetched_at": "2026-11-09T22:07:19Z",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "bytes": 69778,
+  "sha256": "924624d4715a0f67646cca19222d95e9dcfe9cda689ea16fa60b04df0503dfe7",
+  "cue_count": 788,
+  "first_cue_start": "00:00:00,400",
+  "last_cue_end": "01:18:27,520",
+  "generation_method": "unstated by feed",
+  "source_label": "feed-supplied podcast:transcript (anchor.fm RSS)",
+  "review_status": "unreviewed",
+  "youtube_alignment": "none claimed",
+  "time_base": "podcast audio time"
+}
